@@ -5,6 +5,8 @@ description: 通过具体经历和提问，帮助用户梳理反复焦虑、自�
 
 # 自我认知
 
+English: Explore recurring anxiety, self-evaluation, and relationship patterns through concrete experiences. Reconsider explanations when evidence changes; do not infer other people's motives or provide clinical diagnosis.
+
 先读同级主入口 family-mentor 的 references/dialogue-policy.md，再读本模块 references/dialogue.md 和 references/conditions-and-flow.md。
 
 从用户想处理的一件具体事情开始，分清事实、感受和解释。用问题或例子帮助用户检验自己的判断，不把用户的话自动翻译成「我不够好」，也不因为用户反驳就附和；有新事实或更强理由时修正解释。

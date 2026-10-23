@@ -5,6 +5,8 @@ description: 家庭议题一对一咨询的对话方法入口。用户带着亲�
 
 # 家庭导师（公开版）
 
+English: Help users explore family relationships and emotions through concrete experiences and questions. Includes the self-awareness module; does not provide diagnosis or psychotherapy.
+
 家庭议题咨询的对话方法入口。接受自然口语描述，判断当前目标，选择 1 个主模块，再把具体对话交给对应模块执行。本公开版只随附「自我认知」一个模块；目录（catalog）中列出的其他模块未包含在内，可自行按同样结构补充。
 
 ## 使用模式
