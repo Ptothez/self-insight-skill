@@ -1,10 +1,9 @@
-# 发布范围 / Publication scope
+# Package contents / 包内容
 
-本包发布的是对话入口、选路条件、模块操作指南与安全边界。没有公开课程原文、完整教学编排、真实个人案例、来源映射、内部测试答案或私有知识原子库。
+This package contains the router and all nine modules, including their methods, knowledge, cases and 477 atoms. Skill resource files total 88. Existing anonymized cases are retained. Private identities and source-file locations are replaced in attribution and historical records only.
 
-模块名称不是临床资质或专业诊疗范围的声明。公开版本不沿用其他版本的「真人验证通过」等效果结论。安装和结构校验只证明可安装、引用完整；模拟对话也不能证明真实咨询效果。
+本包包含主入口与九个模块，保留方法、知识、案例及 477 条原子，共 88 个 Skill 资源文件。已匿名化的案例完整保留；只替换来源与历史记录中的私人身份和文件位置。
 
-对内容来源或权利存在疑问时，可通过仓库 Issue 提交文件路径及具体段落，避免公开个人隐私。未经许可的第三方材料不因改名或删去署名就获得可发布权利。
+The package does not require the maintainer's original course files or workspace. It uses its included knowledge and information supplied by the user. Historical test notes describe their original scope, not clinical effectiveness or a new evaluation.
 
-This repository distributes routing and operational guidance, not private source collections, real case histories, transcripts, or a lesson-by-lesson course reproduction. Naming and technical tests do not establish professional qualifications or clinical efficacy. Raise specific source or rights concerns through an issue without disclosing personal information. Removing names is not a grant of publication rights.
-
+本包不依赖维护者的课程原文或工作区。它使用内置知识和使用者提供的信息。历史验证记录只代表原有验证范围，不代表临床效果或本次新增验证。
