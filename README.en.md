@@ -1,42 +1,63 @@
-# Family Mentor: Think Through Relationships and Emotions With AI
+# Self Insight · 自观
 
-[简体中文](README.md) | [English](README.en.md)
+[中文](README.md)
 
-When family conflict or a recurring emotion leaves you stuck, this skill guides your AI to understand what happened before offering advice. It uses questions to help you separate facts, feelings, and interpretations. You can challenge its interpretation, ask for practical suggestions, or stop at any time.
+Explore your feelings, relationships, and recurring patterns through a focused conversation. Describe what is troubling you; the router selects a relevant module instead of handing you a long generic answer.
 
-The public package includes a main entry skill and one self-awareness module. It can help explore recurring anxiety, self-evaluation, and familiar reactions in relationships. Other family modules are not included. It cannot know what an absent family member thinks and does not provide psychotherapy.
+![The nine Self Insight modules](assets/module-map.png)
 
-## Install and Use
+## What it does
 
-Use an AI client that supports Agent Skills. No additional API key is required; the skill uses your client's existing model configuration.
+Self-awareness and boundaries are available beyond parenting. Seven additional modules address specific parenting and caregiver concerns. A broader display name does not change a module's audience or turn it into adult therapy.
 
-```bash
-npx -y skills add Ptothez/family-mentor-skill -g --all
+The router chooses one lead module and at most two supporting modules. It carries known facts across the conversation and does not assume every personal difficulty comes from family history.
+
+## Install the complete package
+
+Use an AI tool that supports Agent Skills, with Node.js and npx available.
+
+```sh
+npx -y skills add Ptothez/self-insight-skill --skill '*'
 ```
 
-For example, ask:
+This selects the main entry and all nine modules. Follow the installer prompts to select your Agent and installation scope. Install the main entry as well as the modules; the installer does not supply an AI account or model credits.
 
-> Use Family Mentor to help me understand why even a small criticism makes me angry. I am not sure what I am afraid of.
+Start with `self-insight` or ask:
 
-The AI should first establish what help you want, then work from a concrete experience. It should not prolong a conversation just to complete a questionnaire.
+> Use Self Insight to help me explore why I keep agreeing to requests and regretting it later.
 
-## How It Helps
+This is a fictional, generic example, not a real user's story.
 
-- Check what happened before discussing possible explanations.
-- Use exceptions and different situations to examine claims such as "I always do this."
-- Change direction or stop when questions stop producing useful information.
-- Avoid treating one family history as a universal explanation.
+## Modules
 
-Method files are in each skill's `references` directory. Install both `family-mentor` and `family-mentor-self-awareness`: the entry skill selects the module, and the module guides the conversation.
+| Module | What it helps explore |
+| --- | --- |
+| Self-awareness / 自我认知 | Self-evaluation, feelings, and recurring patterns |
+| Boundaries / 界限 | Responsibilities, saying no, and relationship limits |
+| Understanding Emotions / 理解情绪 | A caregiver's response to a child's feelings |
+| Rules & Actions / 规则与行动 | Clear, proportionate parenting expectations |
+| Dependency & Loss of Control / 依赖与失控 | Everyday family support around a child's dependency concerns |
+| Stages & Roles / 阶段与角色 | Expectations suited to a child's developmental stage |
+| Inner Capacities / 内在能力 | Supporting autonomy, self-regulation, empathy, and learning |
+| Personal Practice / 自我修养 | A parent's self-care, communication, repair, and cooperation |
+| Focus / 专注力 | Distinguishing attention difficulties from expectations and context |
 
-## Privacy and Limits
+README files, module names, and the overview graphic are bilingual. Detailed operational guides are mainly in Chinese; the Agent is instructed to respond in the user's language. This is not a claim that every internal reference is translated.
 
-This repository contains no author's private conversations, forms, family cases, private knowledge base, or account configuration. The skill does not upload files by itself. Whether your conversation reaches a cloud service and how it is stored depend on your AI client and model provider. Installation does not make sensitive conversations local-only.
+## Privacy and limits
 
-These are AI conversation guidelines, not a clinically validated treatment. They do not replace mental health or medical services. Immediate danger calls for appropriate local emergency assistance and professional support.
+The release includes functional guides for all nine modules, not a mirror of any private knowledge base. It contains no real case histories, private chats, course transcripts, lesson-by-lesson notes, credentials, or personal configuration.
 
-Validation covers public files, references, and installation integrity. Simulated dialogue does not establish real counseling effectiveness.
+There are no background services, upload scripts, or automatic case-recording features. Your AI client and model provider determine where conversations are processed and stored.
 
-## License
+This is an AI reflection aid, not psychological diagnosis, treatment, or a replacement for qualified care. There are no promises of outcomes or clinical efficacy.
 
-MIT; see [LICENSE](LICENSE).
+## Upgrade
+
+The previous repository was named `family-mentor-skill`; its public package included only the entry and self-awareness module. Install the new package, verify it works, then use your Skill manager to remove the old `family-mentor` and `family-mentor-self-awareness` installations. Existing installations do not update automatically.
+
+## Structure and license
+
+`skills/self-insight/` is the router; the other nine `skills/self-insight-*/` directories contain real module guides. Keep all ten installed together.
+
+See [LICENSE](LICENSE) and [publication scope](PUBLICATION.md). The repository license does not grant rights to third-party courses or private source materials.
