@@ -4,8 +4,9 @@ A conversational skill for understanding personal difficulties and clarifying re
 
 [中文](README.md)
 
+**9 modules · 13,521 searchable knowledge records · Cases & concept relationships**
 
-![Modules](assets/module-map.png)
+![Self Insight: nine modules, seven-step self-awareness and 13,521 knowledge records](assets/module-map.png?v=20261106-13521)
 
 | Module | Purpose |
 |---|---|
@@ -23,7 +24,7 @@ Display names do not broaden the original scope. Parenting material is not autom
 
 ## Contents and use
 
-One entry point and nine modules, with 600 runtime files. The original 477 atoms, 54 knowledge and case files, and dialogue methods are preserved. The expanded library contains 13,044 structured records extracted and checked against 242 supplied texts. Search covers both layers and follows conditional links between them.
+One entry point and nine modules, with 600 runtime files and 13,521 searchable knowledge records. This total combines the original 477 atoms with 13,044 expanded structured records, extracted and checked against 242 supplied texts. The original 54 knowledge and case files and dialogue methods are preserved. Search covers both layers and follows conditional links between them.
 
 Records include concepts, procedures, cases, applicability conditions and limits. Record counts are not counts of unique concepts. Original transcripts, private notes, identity mappings and internal audit material are neither distributed nor required to use the skill.
 

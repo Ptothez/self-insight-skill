@@ -1,8 +1,8 @@
 # Package contents / 包内容
 
-The complete router and nine modules contain 600 runtime files. The original 477 atoms, 54 knowledge and case files, and dialogue methods remain intact. The expanded library adds 13,044 structured records, with conditions, limits, source references and links to the original knowledge. Record counts are not counts of unique concepts.
+The complete router and nine modules contain 600 runtime files and 13,521 searchable knowledge records: 477 original atoms plus 13,044 expanded records. The original 54 knowledge and case files and dialogue methods remain intact. The expanded library includes conditions, limits, source references and links to the original knowledge. Record counts are not counts of unique concepts.
 
-完整主入口与九模块包含 600 个运行文件。原有 477 条原子、54 个知识与案例文件及咨询方法完整保留；补充库包含 13,044 条结构化记录，附适用条件、限制、来源定位及新旧知识关联。记录数量不等于独立概念数量。
+完整主入口与九模块包含 600 个运行文件、13,521 条可检索知识记录，即 477 条原有原子加 13,044 条补充记录。原有 54 个知识与案例文件及咨询方法完整保留；补充库附适用条件、限制、来源定位及新旧知识关联。记录数量不等于独立概念数量。
 
 Publication changes attribution, residual private locations and installation paths, not knowledge or case bodies. Original course transcripts, private notes, identity mappings, credentials, internal audits and evaluation answers are excluded. The approved bilingual diagram is retained.
 
