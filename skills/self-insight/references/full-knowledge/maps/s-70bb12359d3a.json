@@ -1,0 +1,350 @@
+{
+  "concepts": [
+    {
+      "name": "婚姻需要帮助的六个征兆",
+      "definition": "婚姻需要专业帮助的六个征兆包括：对配偶变得麻木、几乎所有的沟通都是负面的、对配偶撒谎、把对方想得很恶劣、出轨、在一件事情上不停争吵。",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a001",
+        "s-70bb12359d3a-c001:r001"
+      ]
+    },
+    {
+      "name": "对配偶变得麻木",
+      "definition": "对配偶变得麻木的表现包括：配偶生气时满不在乎；出现问题时不认真解决而是希望赶紧翻篇；不想花时间和对方在一起；性生活不和谐时不在乎；对配偶出轨感到麻木；不管什么原因在家分床睡；对配偶每天经历的生活不感兴趣。",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a002"
+      ]
+    },
+    {
+      "name": "分床睡对婚姻的危害",
+      "definition": "不管什么原因，夫妻分床睡都是糟糕的情况，因为分床睡会让一方无法参与养育过程，导致另一方产生怨言，而共同承担养育过程能增进感情。",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a003"
+      ]
+    },
+    {
+      "name": "负面沟通",
+      "definition": "如果夫妻几乎所有的沟通都是负面的，并且最后以争吵结束，说明双方有很深的积怨，防御心强，或者莫名其妙感到受伤，可能因为以前有很多伤害没有被处理。",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a005"
+      ]
+    },
+    {
+      "name": "对配偶撒谎",
+      "definition": "对配偶撒谎，不管是否出于善意，都会牵引出更大的问题。小的谎言会让双方不再信任对方，产生隔阂。工作性质要求保密的除外。",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a006"
+      ]
+    },
+    {
+      "name": "把对方想得很恶劣",
+      "definition": "如果夫妻一方不管对方说什么做什么，都第一时间用恶意去揣测对方，说明婚姻需要帮助。",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a008"
+      ]
+    },
+    {
+      "name": "出轨",
+      "definition": "当男人不感到被尊重，女人不感到被珍惜时，双方更容易出轨。但不管什么原因，出轨的一方都是错误的一方。如果觉得不被尊重或珍惜，应该与配偶沟通或寻求婚姻辅导，而不是出轨。",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a009"
+      ]
+    },
+    {
+      "name": "出轨的吸引机制",
+      "definition": "当先生觉得不被尊重时，更容易被向他表现出崇拜的女人吸引；当太太感到不被珍惜时，更容易被向她表示仰慕之情的男人吸引。",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a010"
+      ]
+    },
+    {
+      "name": "在一件事情上不停争吵",
+      "definition": "如果夫妻在一件事情上不停争吵，只要谈到就会争吵，像地雷一样一碰就爆，说明双方在这件事上积累了很多伤害，无法再很好沟通，需要外界专业介入。",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a011"
+      ]
+    },
+    {
+      "name": "压抑不谈的事情",
+      "definition": "夫妻可能因为压抑不谈某些事情很多年，以为没有会争吵的事情，但实际上这些被压抑的事情可能成为一碰就爆的地雷。",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a012"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-70bb12359d3a-c001:a001",
+      "target": "s-70bb12359d3a-c001:a002",
+      "kind": "example_of",
+      "condition": "当婚姻出现对配偶变得麻木的征兆时",
+      "reason": "a001列出六个征兆，a002详细描述第一个征兆“对配偶变得麻木”的具体表现。"
+    },
+    {
+      "source": "s-70bb12359d3a-c001:a001",
+      "target": "s-70bb12359d3a-c001:a005",
+      "kind": "example_of",
+      "condition": "当婚姻出现几乎所有的沟通都是负面的征兆时",
+      "reason": "a001列出六个征兆，a005详细描述第二个征兆“几乎所有的沟通都是负面的”的具体表现。"
+    },
+    {
+      "source": "s-70bb12359d3a-c001:a001",
+      "target": "s-70bb12359d3a-c001:a006",
+      "kind": "example_of",
+      "condition": "当婚姻出现对配偶撒谎的征兆时",
+      "reason": "a006所描述的对配偶撒谎是a001所列婚姻需要帮助的六个征兆之一，因此a006是a001所概括征兆类别的具体例证；原关系方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反了，应由a006指向a001。"
+    },
+    {
+      "source": "s-70bb12359d3a-c001:a001",
+      "target": "s-70bb12359d3a-c001:a008",
+      "kind": "example_of",
+      "condition": "当婚姻出现把对方想得很恶劣的征兆时",
+      "reason": "a001列出六个征兆，a008详细描述第四个征兆“把对方想得很恶劣”的具体表现。"
+    },
+    {
+      "source": "s-70bb12359d3a-c001:a001",
+      "target": "s-70bb12359d3a-c001:a009",
+      "kind": "example_of",
+      "condition": "当婚姻出现出轨的征兆时",
+      "reason": "a009所描述的出轨是a001所列六个征兆之一，故a009是a001所概括征兆类别的具体例证；原关系方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反了，应由a009指向a001。"
+    },
+    {
+      "source": "s-70bb12359d3a-c001:a001",
+      "target": "s-70bb12359d3a-c001:a011",
+      "kind": "example_of",
+      "condition": "当婚姻出现在一件事情上不停争吵的征兆时",
+      "reason": "a001列出六个征兆，a011详细描述第六个征兆“在一件事情上不停争吵”的具体表现。"
+    },
+    {
+      "source": "s-70bb12359d3a-c001:a002",
+      "target": "s-70bb12359d3a-c001:a003",
+      "kind": "association",
+      "condition": "当夫妻分床睡时",
+      "reason": "a002将“不管什么原因在家分床睡”列为对配偶变得麻木的表现之一；a003讨论分床睡对婚姻的危害。两者虽都涉及分床睡，但危害不能证明分床睡是麻木的表现，仅构成议题关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "支持关系不足，降为关联。"
+    },
+    {
+      "source": "s-70bb12359d3a-c001:a003",
+      "target": "s-70bb12359d3a-c001:a004",
+      "kind": "example_of",
+      "condition": "当夫妻共同承担养育过程时",
+      "reason": "a004讲师夫妻共同养育孩子的案例，是对a003中“共同承担养育过程能增进感情”观点的具体例证；原关系方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反了，应由a004指向a003。"
+    },
+    {
+      "source": "s-70bb12359d3a-c001:a006",
+      "target": "s-70bb12359d3a-c001:a007",
+      "kind": "example_of",
+      "condition": "当配偶撒谎时",
+      "reason": "a007讲师先生对讲师体重撒谎的案例，是a006中“对配偶撒谎会牵引出更大问题、造成不信任与隔阂”观点的具体例证；原关系方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反了，应由a007指向a006。"
+    },
+    {
+      "source": "s-70bb12359d3a-c001:a009",
+      "target": "s-70bb12359d3a-c001:a010",
+      "kind": "supports",
+      "condition": "当男人不感到被尊重或女人不感到被珍惜时",
+      "reason": "a010提出的出轨吸引机制——不被尊重时被崇拜者吸引、不被珍惜时被仰慕者吸引——为a009中“不被尊重/珍惜时更容易出轨”的观点提供解释性支持；原关系方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反了，应由a010指向a009。"
+    },
+    {
+      "source": "s-70bb12359d3a-c001:a011",
+      "target": "s-70bb12359d3a-c001:a012",
+      "kind": "supports",
+      "condition": "当夫妻压抑不谈某些事情时",
+      "reason": "a011指出不停争吵是因为积累了很多伤害，a012解释压抑不谈的事情可能成为争吵地雷，支持了a011的观点。"
+    },
+    {
+      "source": "s-70bb12359d3a-c001:a012",
+      "target": "s-70bb12359d3a-c001:a013",
+      "kind": "applies_to",
+      "condition": "当夫妻反思绝对不可以谈的事情时",
+      "reason": "a012提出压抑不谈的事情可能成为地雷，a013的作业要求找出夫妻之间绝对不可以谈的事情，应用了a012的观点。"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a001",
+        "s-70bb12359d3a-c001:r001"
+      ],
+      "reason": "两条记录内容完全一致，都是列举婚姻需要专业帮助的六个征兆，只是表述略有不同，实质等价。"
+    }
+  ],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-70bb12359d3a-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a001",
+        "s-70bb12359d3a-c001:r001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00008",
+        "b00009",
+        "b00014",
+        "b00015",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-70bb12359d3a-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00004",
+        "b00005",
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-70bb12359d3a-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a003"
+      ],
+      "blocks": [
+        "b00005",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-70bb12359d3a-c001:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a004"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-70bb12359d3a-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a005"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-70bb12359d3a-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a006"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-70bb12359d3a-c001:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a007"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-70bb12359d3a-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a008"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-70bb12359d3a-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a009"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-70bb12359d3a-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a010"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-70bb12359d3a-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a011"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-70bb12359d3a-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a012"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-70bb12359d3a-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-70bb12359d3a-c001:a013"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

@@ -1,0 +1,268 @@
+{
+  "concepts": [
+    {
+      "name": "情绪联结小测试",
+      "definition": "用于评估父母与孩子之间情绪联结状况的测试，通过呈现具体情境案例，考察父母的反应方式。",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a001"
+      ]
+    },
+    {
+      "name": "案例一：孩子被拒绝第三个冰激凌后说讨厌妈妈",
+      "definition": "孩子已连续吃了两个冰激凌，还想吃第三个，被父母拒绝后非常不高兴，在回家路上对父母说“我讨厌你，你是全世界最糟糕的妈妈”。",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a002"
+      ]
+    },
+    {
+      "name": "案例二：孩子在朋友家抢玩具并哭闹",
+      "definition": "父母带孩子去朋友家玩，离开时孩子拿着朋友家小孩的玩具不肯松手，坚称是自己的。朋友家小孩抢回玩具，孩子在地上打滚哭闹，朋友为难地看着父母，父母感觉朋友眼神中有指责。",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a003"
+      ]
+    },
+    {
+      "name": "案例三：孩子在车上说希望出车祸",
+      "definition": "一家人坐车准备旅游，孩子在车后座兴奋地说希望有车撞过来，这样就可以出车祸。",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a004"
+      ]
+    },
+    {
+      "name": "常见反应一：指责孩子不知感恩并威胁抛弃",
+      "definition": "针对案例一，指责孩子不知感恩，强调已给两个冰激凌，批评孩子得寸进尺，并威胁让孩子去找更好的妈妈。",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a005"
+      ]
+    },
+    {
+      "name": "常见反应二：在朋友面前严厉管教并强制道歉",
+      "definition": "针对案例二，父母感到丢脸，在朋友面前严厉管教孩子，抓住孩子手臂，讲道理，要求孩子松手、说再见、道谢，并计划回家后惩罚。",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a006"
+      ]
+    },
+    {
+      "name": "常见反应三：斥责孩子说不吉利话并恐吓失去父母",
+      "definition": "针对案例三，斥责孩子说不吉利的话，并恐吓孩子如果出车祸父母会死，孩子将失去照顾。",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a007"
+      ]
+    },
+    {
+      "name": "反思自然反应",
+      "definition": "课程引导听众反思：上述常见反应在自然状态下是否会是自己的反应？",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a008"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-9b4ce739f242-c001:a001",
+      "target": "s-9b4ce739f242-c001:a002",
+      "kind": "example_of",
+      "condition": "案例一是情绪联结小测试呈现的具体情境案例之一",
+      "reason": "情绪联结小测试通过呈现具体情境案例考察父母反应，案例一作为其中一种情境，应为案例一是情绪联结小测试的示例，原方向反转。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反转：案例一是测试的示例，而非测试是案例的示例"
+    },
+    {
+      "source": "s-9b4ce739f242-c001:a001",
+      "target": "s-9b4ce739f242-c001:a003",
+      "kind": "example_of",
+      "condition": "案例二是情绪联结小测试呈现的具体情境案例之一",
+      "reason": "情绪联结小测试通过呈现具体情境案例考察父母反应，案例二作为其中一种情境，应为案例二是情绪联结小测试的示例，原方向反转。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反转：案例二是测试的示例"
+    },
+    {
+      "source": "s-9b4ce739f242-c001:a001",
+      "target": "s-9b4ce739f242-c001:a004",
+      "kind": "example_of",
+      "condition": "案例三是情绪联结小测试呈现的具体情境案例之一",
+      "reason": "情绪联结小测试通过呈现具体情境案例考察父母反应，案例三作为其中一种情境，应为案例三是情绪联结小测试的示例，原方向反转。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反转：案例三是测试的示例"
+    },
+    {
+      "source": "s-9b4ce739f242-c001:a002",
+      "target": "s-9b4ce739f242-c001:a005",
+      "kind": "example_of",
+      "condition": "常见反应一是案例一情境下的一种常见父母反应",
+      "reason": "案例一情境（孩子被拒绝第三个冰激凌后说讨厌妈妈）对应常见反应一（指责孩子不知感恩并威胁抛弃），常见反应一应为案例一情境的示例反应，原方向反转。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反转：常见反应一是案例一的示例"
+    },
+    {
+      "source": "s-9b4ce739f242-c001:a003",
+      "target": "s-9b4ce739f242-c001:a006",
+      "kind": "example_of",
+      "condition": "常见反应二是案例二情境下的一种常见父母反应",
+      "reason": "案例二情境（孩子在朋友家抢玩具并哭闹）对应常见反应二（在朋友面前严厉管教并强制道歉），常见反应二应为案例二情境的示例反应，原方向反转。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反转：常见反应二是案例二的示例"
+    },
+    {
+      "source": "s-9b4ce739f242-c001:a004",
+      "target": "s-9b4ce739f242-c001:a007",
+      "kind": "example_of",
+      "condition": "常见反应三是案例三情境下的一种常见父母反应",
+      "reason": "案例三情境（孩子在车上说希望出车祸）对应常见反应三（斥责孩子说不吉利话并恐吓失去父母），常见反应三应为案例三情境的示例反应，原方向反转。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反转：常见反应三是案例三的示例"
+    },
+    {
+      "source": "s-9b4ce739f242-c001:a005",
+      "target": "s-9b4ce739f242-c001:a008",
+      "kind": "supports",
+      "condition": "常见反应一作为反思自然反应的素材之一",
+      "reason": "常见反应一（指责孩子不知感恩并威胁抛弃）是反思自然反应这一引导的具体素材之一，支持对自然反应的反思。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-9b4ce739f242-c001:a006",
+      "target": "s-9b4ce739f242-c001:a008",
+      "kind": "supports",
+      "condition": "常见反应二作为反思自然反应的素材之一",
+      "reason": "常见反应二（在朋友面前严厉管教并强制道歉）是反思自然反应这一引导的具体素材之一，支持对自然反应的反思。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-9b4ce739f242-c001:a007",
+      "target": "s-9b4ce739f242-c001:a008",
+      "kind": "supports",
+      "condition": "常见反应三作为反思自然反应的素材之一",
+      "reason": "常见反应三（斥责孩子说不吉利话并恐吓失去父母）是反思自然反应这一引导的具体素材之一，支持对自然反应的反思。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "案例二涉及孩子在朋友家抢玩具，父母在社交压力下管教孩子，涉及界限问题。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a003",
+        "s-9b4ce739f242-c001:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我认知",
+      "when": "课程引导父母反思自己在案例中的自然反应，涉及自我认知。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-9b4ce739f242-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-9b4ce739f242-c001:u0002",
+      "kind": "case",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a002"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-9b4ce739f242-c001:u0003",
+      "kind": "case",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a003"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-9b4ce739f242-c001:u0004",
+      "kind": "case",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a004"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-9b4ce739f242-c001:u0005",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a005"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-9b4ce739f242-c001:u0006",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a006"
+      ],
+      "blocks": [
+        "b00014",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-9b4ce739f242-c001:u0007",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a007"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-9b4ce739f242-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9b4ce739f242-c001:a008"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

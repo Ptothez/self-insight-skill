@@ -1,0 +1,2728 @@
+{
+  "concepts": [
+    {
+      "name": "耳膜脆弱与大声刺激",
+      "definition": "婴儿时期耳膜非常脆弱，经常在婴儿耳边大吼大叫可能刺激耳膜，导致孩子对声音敏感甚至耳膜损伤。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a001"
+      ]
+    },
+    {
+      "name": "先排除生理原因再处理心理问题",
+      "definition": "对于孩子对大声敏感的问题，建议首先去医院做耳膜检查，排除生理原因；如果耳膜有问题则治疗生理问题，如果排除生理因素再考虑心理层面的弥补。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a002"
+      ]
+    },
+    {
+      "name": "夫妻不吵架是不健康的",
+      "definition": "夫妻完全不吵架被认为是不健康的，因为矛盾是正常的事情，但矛盾不应带来危险。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a003"
+      ]
+    },
+    {
+      "name": "当着孩子面吵架的原则",
+      "definition": "鼓励夫妻当着孩子的面吵架，但需遵守前提条件：可以大声，但不能彼此侮辱；不能动手；不能让孩子看见暴力行为；并且吵架后必须在孩子面前和好。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a004"
+      ]
+    },
+    {
+      "name": "心理影响生理",
+      "definition": "生理和心理总是相通的，心理状态会影响生理反应，例如心情烦躁时睡不着觉、吃不下饭或特别想吃东西。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a005"
+      ]
+    },
+    {
+      "name": "孩子对大声的恐惧源于联想",
+      "definition": "孩子对大声的恐惧可能源于早期经历中大声与暴力、辱骂等负面事件的联想，导致害怕。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a006"
+      ]
+    },
+    {
+      "name": "通过安全感弥补孩子对大声的恐惧",
+      "definition": "通过让孩子看到父母吵架后和好，建立安全感，让孩子明白矛盾是正常的，但矛盾不会有危险，从而逐渐消除对大声的恐惧。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a007"
+      ]
+    },
+    {
+      "name": "矛盾与危险的区别",
+      "definition": "矛盾是正常的事情，可能带来一定的伤害，但不会有危险。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a008"
+      ]
+    },
+    {
+      "name": "14岁孩子社交的重要性",
+      "definition": "14岁孩子应该有社交，社交对这个年龄的孩子非常重要，应肯定孩子想跟同学出去玩的行为。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a009"
+      ]
+    },
+    {
+      "name": "需要担心孩子外出的情况",
+      "definition": "如果孩子已经出现不好的苗头，比如跟不良孩子一起玩，或者去做家长不允许的事情，则需要更加担心。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a010"
+      ]
+    },
+    {
+      "name": "为孩子外出立界限",
+      "definition": "对于经常不按时回家的孩子，家长应立界限，规定回家的具体时间，不能让孩子自己决定。如果孩子不能按时回家，则设定后果，例如下次外出必须有家长陪同，否则不能外出。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a011"
+      ]
+    },
+    {
+      "name": "父母焦虑影响孩子",
+      "definition": "父母自身的情绪问题，如过度焦虑，会影响孩子，父母可能把自己的焦虑转移到孩子身上。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a012"
+      ]
+    },
+    {
+      "name": "孩子外出前家长需确认的信息",
+      "definition": "孩子外出前，家长应知道孩子跟谁出去玩、去哪里玩、人在哪里，并确保与对方父母通过电话，确认他们知道此事。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a013"
+      ]
+    },
+    {
+      "name": "父母比孩子着急导致孩子不着急",
+      "definition": "如果父母在孩子学习上比孩子更着急，孩子就不会自觉，因为父母的行为传递了学习是父母的事情，而不是孩子的事情。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a014"
+      ]
+    },
+    {
+      "name": "孩子不耐烦的原因",
+      "definition": "当父母过度介入孩子的学习，孩子会认为是在帮父母做事，因此产生不耐烦。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a015"
+      ]
+    },
+    {
+      "name": "成人心理与儿童心理的差异",
+      "definition": "成人心理认为是在帮助孩子，但儿童心理可能认为学习是父母看重的事情，自己是被迫帮忙，因此感到厌烦。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a016"
+      ]
+    },
+    {
+      "name": "停止逼迫孩子学习",
+      "definition": "要改变孩子对学习不耐烦的情况，父母应停止帮助和逼迫孩子，忍住不管，让孩子自己承担后果。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a017"
+      ]
+    },
+    {
+      "name": "无人催促时孩子会自我负责",
+      "definition": "当孩子知道没有人会催促自己时，会变得自我负责，例如闹钟不响时自己会醒来，因为知道迟到会被老师罚。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a018"
+      ]
+    },
+    {
+      "name": "孩子摆烂的两种情况",
+      "definition": "当父母不再管孩子学习时，孩子摆烂可能有两种情况：一是暂时的，需要给孩子时间适应；二是家庭氛围不对，如果家庭氛围压抑，孩子可能转向游戏上瘾。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a019"
+      ]
+    },
+    {
+      "name": "家庭氛围影响孩子行为",
+      "definition": "如果家庭氛围积极、让孩子感到自信和盼望，孩子不太可能摆烂；如果家庭氛围压抑、死气沉沉，孩子可能转向游戏上瘾。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a020"
+      ]
+    },
+    {
+      "name": "游戏上瘾与家庭脱节",
+      "definition": "孩子游戏上瘾很多时候是因为与家庭脱节，与家庭情绪失联。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a021"
+      ]
+    },
+    {
+      "name": "育儿需多方面建造",
+      "definition": "育儿需要各个方面都起来，在某一领域放手后，需要在其他方面建造起来，帮助孩子发展内驱力和自驱力。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a022"
+      ]
+    },
+    {
+      "name": "长期无法满足孩子情绪需求导致挫败",
+      "definition": "如果父母长期无法提供孩子情绪和心理所需的东西，孩子会形成预判，认为父母不会理解自己，导致挫败和失望。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a023"
+      ]
+    },
+    {
+      "name": "孩子不耐烦是挫败的表现",
+      "definition": "孩子以不耐烦的方式表现失望和挫败，因为多次尝试连接但连接不上，导致忍耐度变小。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a024"
+      ]
+    },
+    {
+      "name": "情感敏感的孩子情绪需求多",
+      "definition": "能够一针见血怼人的孩子情感非常敏感，洞察力强，情绪需求很多。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a025"
+      ]
+    },
+    {
+      "name": "情绪需求未满足导致愤怒",
+      "definition": "情感敏感且情绪需求多的孩子，如果长期得不到满足，会变得愤怒，表现为对父母不耐烦和怼别人。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a026"
+      ]
+    },
+    {
+      "name": "建议父母梳理自身深层问题",
+      "definition": "如果父母无法提供孩子情绪心理所需，建议父母自己梳理深层问题，并学习如何满足孩子不同年龄的心理情感需求。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a027"
+      ]
+    },
+    {
+      "name": "案例：7岁孩子对大声敏感",
+      "definition": "案例背景：孩子婴儿时期经常听到父母大声吵架，现在7岁，听不得特别大的声音，听到会不安、害怕。例如放学时50多米外女同学打闹尖叫，孩子会马上捂耳朵躲起来，说声音很吵。家长怀疑与早期夫妻吵架有关，目前夫妻已基本不大声吵架，但孩子仍有后遗症。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:r001"
+      ]
+    },
+    {
+      "name": "案例：14岁孩子外出时间问题",
+      "definition": "案例背景：14岁孩子想和同学出去玩，家长不知道几点回来，孩子说具体时间五点或七点，家长担心外出活动。孩子以前经常不能按约定时间回家。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:r002"
+      ]
+    },
+    {
+      "name": "案例：10岁半男孩学习不自觉",
+      "definition": "案例背景：10岁半男孩，爸爸工作忙但用心陪伴，孩子学习不自觉、抱怨、不耐烦。爸爸会帮孩子打印错题，孩子不去学习，爸爸很着急。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:r003"
+      ]
+    },
+    {
+      "name": "案例：弟弟情绪需求未满足",
+      "definition": "案例背景：弟弟（年龄未明确，推测为儿童）长期无法从母亲（学员）处获得情绪和心理所需，表现为不耐烦、一针见血怼人。母亲有时因太吵没听清，未能及时给予正面回应，弟弟感到挫败。讲师猜测父亲也可能无法满足弟弟需求。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:r004"
+      ]
+    },
+    {
+      "name": "提问机会应聚焦普遍性问题",
+      "definition": "在课程答疑中，如果问题涉及的是朋友的孩子且情况不普遍，作为旁观者不应浪费提问机会；讲师不会回答与课程主题无关或不能帮助其他学员解决具体问题的问题。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a001"
+      ]
+    },
+    {
+      "name": "被朋友背叛后的恐惧与防备",
+      "definition": "学员报告：好朋友a在别人面前说了自己的坏话，后来发现确实如此。现在只要路过有人在说悄悄话或提到自己名字，就会很害怕。讲师判断这是被信任的人背叛后伤害未得到医治的正常情绪反应，会导致不愿敞开自己，形成人际防备，阻碍亲密关系。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a002"
+      ]
+    },
+    {
+      "name": "未处理的伤害导致持续防备",
+      "definition": "被信任的人背叛后，即使对方已离开、场景改变、记忆模糊，只要伤害未得到解决，人就会一直保持恐惧和防备，这种防备会让人无法与他人建立真正亲密的关系。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a003"
+      ]
+    },
+    {
+      "name": "寻求专业心理辅导的建议",
+      "definition": "对于被背叛后卡住的情况，讲师建议寻求专业心理辅导，强调心理辅导不是精神有问题的人才需要，而是帮助疏通被卡住的生命问题。同时提醒：如果只是普通问题如背叛、简单焦虑，使用保险覆盖问题不大；但如果涉及较深的抑郁等问题，使用保险可能会留下记录，需考虑是否不用保险。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a004"
+      ]
+    },
+    {
+      "name": "四岁孩子说话相反且不允许妈妈生气",
+      "definition": "学员报告：大宝四岁多，最近一个月说话总是相反，例如明明生气却说高兴，不允许妈妈说自己的情绪和感受，说妈妈不能生气，要高兴。问孩子感觉怎么样时，孩子说难过、生气、愤怒，但又在笑，行为是直接大哭。讲师判断学员给了孩子太多力量，四岁孩子不应认为可以控制妈妈的情绪；同时学员使用了不符合孩子年龄的沟通方式（问为什么），应该直接告诉孩子妈妈可以生气。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a005"
+      ]
+    },
+    {
+      "name": "四岁孩子不应拥有控制父母情绪的权力",
+      "definition": "四岁多的孩子不应该认为可以控制父母的情绪，不应该觉得可以允许或不允许父母表达情绪和感受。父母需要保持情绪界限，不让孩子承担控制父母情绪的责任。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a006"
+      ]
+    },
+    {
+      "name": "与四岁孩子沟通情绪应直接陈述而非问为什么",
+      "definition": "与四岁孩子沟通时，不应使用逻辑或问“为什么”，因为孩子无法理解。当孩子说“妈妈不能生气”时，父母应坚定地看着孩子的眼睛，直接告诉孩子“妈妈可以生气”，并重复。孩子可能会哭，但可以抱着孩子，同时坚定地告诉孩子：“妈妈可以生气，妈妈跟你一样都可以生气，但是妈妈会控制生气的行为。”",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a007"
+      ]
+    },
+    {
+      "name": "兄弟下棋冲突中哥哥忍泪",
+      "definition": "学员报告：两个孩子在一张长桌上下围棋，弟弟一直学棋，给刚学的哥哥挖坑，哥哥性格温和，争吵时哥哥委屈但未发作，只是眼里有泪光，自己止住了。妈妈在另一头工作，看到整个过程，没有介入，只说了一句“哥哥这两天才刚学，等哥哥熟悉一下书上讲的练练就强了”。后来他们又继续下棋。妈妈问是否处理得当，是否需要单独和哥哥聊，是否需要对弟弟说不要仗着自己会捉弄哥哥。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a008"
+      ]
+    },
+    {
+      "name": "压抑情绪与控制情绪行为的区别",
+      "definition": "孩子忍住眼泪不一定是在压抑情绪，也可能是在控制情绪后的行为（如想哭但忍住）。控制行为不一定是坏事，可能表明孩子足够成熟。需要询问孩子才能确定。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a009"
+      ]
+    },
+    {
+      "name": "赋能弟弟：技术强但需考虑品格",
+      "definition": "弟弟技术强，可以碾压哥哥，从道理上没有问题，但需要赋能弟弟的品格。可以告诉弟弟：你有权利这样做，因为哥哥技不如人，愿赌服输；但这样做会让你成为一个不友善、不高贵的人。可以引导弟弟换位思考：如果被捉弄，你会难过吗？你会喜欢对方吗？你会想和他做朋友吗？高贵的做法是大师的做法：做得好但给对方留面子，只赢一步棋。下棋见人品，可以通过这些赋能孩子的人品。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a010"
+      ]
+    },
+    {
+      "name": "培养孩子不要总是赢",
+      "definition": "讲师经常告诉孩子：不要总是赢，如果每次都赢，就没有人愿意和你一起玩了，你就不好玩了。这是培养孩子品质品格的方法。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a011"
+      ]
+    },
+    {
+      "name": "14岁孩子想自己攒钱买昂贵运动鞋",
+      "definition": "学员报告：14岁孩子对运动鞋特别感兴趣，研究的鞋子价格八九百左右，家里平时很节俭，这个价位有点接受不了。昨天和孩子算账，建议买250左右的，孩子说他自己攒钱买，还准备先去实体店看真实效果再决定。妈妈问是否应该支持孩子自己攒钱买超过心理价位的鞋。讲师回答：绝对应该支持，前提是用孩子自己的钱，不借不帮付，让他自己存钱。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a012"
+      ]
+    },
+    {
+      "name": "支持孩子用自己的钱买喜欢的东西",
+      "definition": "绝对应该支持孩子用自己的钱买超过父母心理价位的鞋，前提是用孩子自己的钱，父母不借不帮付，让孩子自己存钱。即使孩子攒了很久的钱全部花光，也是很好的事情。这能培养孩子正确的金钱观。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a013"
+      ]
+    },
+    {
+      "name": "真正的金钱观包括如何花钱",
+      "definition": "很多人认为培养孩子金钱观就是教攒钱、省钱、节俭，但真正的金钱观包括：对金钱有正确认识，了解金钱的作用、目的、意义，如何挣钱、花钱、分配金钱，如何做钱的主人而不是奴隶，如何有智慧地用钱，如何让金钱让生活更满意、舒服、舒心。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a014"
+      ]
+    },
+    {
+      "name": "用自己辛苦攒的钱买喜欢的东西是金钱的意义",
+      "definition": "孩子用自己辛苦攒下来的钱买一双昂贵但很喜欢的鞋，是金钱的意义：让辛苦挣来的钱带来心理上的舒服和满足。如果孩子攒钱很久仍然喜欢这双鞋，那就是真的喜欢。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a015"
+      ]
+    },
+    {
+      "name": "昂贵但喜欢的东西可能比便宜但不喜欢的更有价值",
+      "definition": "有时候看起来很浪费、很昂贵的东西其实是便宜的；有时候买一双很便宜的鞋子，孩子不喜欢穿，没有任何喜悦，没有意义。宁愿用贵的钱买一双孩子天天想穿的鞋，也不愿用便宜的价格买一双孩子天天想换掉的鞋。这是父母的认知问题。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a016"
+      ]
+    },
+    {
+      "name": "准高三女儿因换班主任而失落",
+      "definition": "学员报告：准高三的女儿换了班主任，女儿很失落，问如何链接她的失落情绪，如何赋能孩子快点适应新老师，重塑负面情绪。讲师建议通过类比（老板被换）来理解孩子情绪，并指出适应能力需要平时建立。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a017"
+      ]
+    },
+    {
+      "name": "通过类比理解孩子换老师的失落",
+      "definition": "理解孩子因换老师而失落的情绪，可以想象自己非常喜欢的老板突然被换掉，需要适应新老板的工作方式，不知道他会不会喜欢自己，不知道未来工作是否顺利，所有未知都带来恐惧。如果自己有过类似经历，就知道如何与孩子情绪连接；如果没有，就坦诚告诉孩子自己不知道他的感受。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a018"
+      ]
+    },
+    {
+      "name": "适应能力需要平时建立",
+      "definition": "适应新环境的能力需要在平时建立，不能临时抱佛脚。如果平时没有建立孩子的能力，遇到事情时很难要求孩子快速适应。快速适应需要能力支撑。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a019"
+      ]
+    },
+    {
+      "name": "适应能力的四个决定因素",
+      "definition": "适应能力由四个方面决定：第一，孩子对新事物的开放程度，即愿意接受、观察、尝试新事物的程度；第二，社交能力，能否在短时间内让新老师了解自己、认识自己、喜欢自己；第三，对自己能力的信心，是否足够自信；第四，犯错时的记忆，如果犯错记忆糟糕，会害怕犯错，面对新老师时会犹豫、退缩。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a020"
+      ]
+    },
+    {
+      "name": "孩子生气躲进衣橱",
+      "definition": "学员报告：有一天晚上快睡觉时，孩子躺在床上说讨厌妈妈，妈妈转身出了房间，过了十分钟再进去，发现孩子愤怒生气地躲到衣橱里，叫不出来，边大叫边让妈妈走，说只有妈妈走了才出来，妈妈只好走开。讲师提醒：任何时候孩子躲到衣柜里都不是好的征兆，需要特别小心。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a021"
+      ]
+    },
+    {
+      "name": "孩子躲进衣橱不是好征兆",
+      "definition": "任何时候孩子躲到衣柜里面都不是好的场景或征兆，对于专业心理辅导而言，躲到衣柜里不是好的象征。父母需要特别小心育儿中的每一个行为。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a022"
+      ]
+    },
+    {
+      "name": "通过提问引导孩子反思捉弄行为",
+      "definition": "讲师建议通过提问引导孩子反思捉弄行为：问孩子“如果今天有一个人这样来捉弄你，你会喜欢他吗？你会欣赏他吗？你会想要跟他做朋友吗？”让孩子换位思考，意识到捉弄行为对人际关系的影响。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:r001"
+      ]
+    },
+    {
+      "name": "孩子躲进衣柜是危险信号",
+      "definition": "孩子躲进衣柜在任何情况下都不是好的征兆，需要家长特别小心。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a001"
+      ]
+    },
+    {
+      "name": "恐吓威胁式育儿导致孩子抗拒",
+      "definition": "用恐吓威胁的方式强迫孩子做对的事情，会让孩子抗拒和反感，因为孩子已经11岁，不是只有一岁。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a002"
+      ]
+    },
+    {
+      "name": "恐吓威胁拿走孩子的力量",
+      "definition": "用恐吓威胁的方式育儿是通过拿走孩子力量的方式，孩子可能知道家长是对的，但反感这种方式。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a003"
+      ]
+    },
+    {
+      "name": "拿走力量育儿的两个结果",
+      "definition": "通过拿走孩子力量的方式育儿，只会导致两个结果：孩子成为妈宝，不敢做任何决定；或者孩子脾气暴躁，必须反抗。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a004"
+      ]
+    },
+    {
+      "name": "孩子逃避恐吓威胁的原因",
+      "definition": "孩子知道家长是对的，知道是为他好，但不能接受恐吓威胁的方式，所以会逃避家长，这是孩子躲进衣柜的原因。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a005"
+      ]
+    },
+    {
+      "name": "帮助孩子认识伤害并转移关注点",
+      "definition": "家长应帮助孩子认识到事情对他的伤害，不要成为伤害孩子的人。当家长威胁恐吓时，孩子的精力放在反感上，忽略了眼睛问题。应将关注力从孩子抵抗家长转移到关注眼睛问题。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a006"
+      ]
+    },
+    {
+      "name": "利用短视频让孩子了解后果并做选择",
+      "definition": "让孩子看近视眼视网膜的短视频，了解不做红光的后果，然后让孩子自己做选择。如果今天没有按时做红光，那么手机就不能玩。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a007"
+      ]
+    },
+    {
+      "name": "解释因果关系并避免继续伤害",
+      "definition": "跟孩子讲因果关系：没有做红光，就更伤害眼睛，所以不要再拿一个东西来继续伤害眼睛。如果需要妈妈提醒，可以请妈妈提醒。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a008"
+      ]
+    },
+    {
+      "name": "讲师孩子看揉眼睛短视频后不再揉眼",
+      "definition": "讲师的孩子以前喜欢揉眼睛，讲师给孩子看了短视频，展示揉眼睛时眼珠子被震动的情景。两个孩子看了以后，至今差不多一年时间，不再揉眼睛，即使痒也从边上按，不揉眼睛。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a009"
+      ]
+    },
+    {
+      "name": "利用网络资源帮助育儿",
+      "definition": "很多时候要利用现在的网络资源来帮助育儿。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a010"
+      ]
+    },
+    {
+      "name": "自我认知与疗愈伤痛是第一步",
+      "definition": "建议进行自我认知、共经营梳理和疗愈伤痛，这是第一步，必须走过这一步才能有后面的很多步。学习如何爱自己，爱自己很重要的一个步骤是医治内在的伤害。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a011"
+      ]
+    },
+    {
+      "name": "缺乏父母爱导致内在伤害",
+      "definition": "从小没有和父母长大，虽然没有父母有害的约束，但因为缺乏父母的爱，里面有很多伤害和力量被拿走的地方，以及当时迷茫、失望、伤心的地方。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a012"
+      ]
+    },
+    {
+      "name": "原始粗糙的爱",
+      "definition": "对孩子的爱是非常原始的、粗糙的：当能够感到舒适，当孩子能够赋能时，就能爱他；当感到不舒适，或者与孩子之间没有碰巧的契合时，就不知道如何爱孩子。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a013"
+      ]
+    },
+    {
+      "name": "孩子长大后不再赋能导致不舒服",
+      "definition": "老三现在还小，等他长大以后，不可能一直赋能给家长，所以也会让家长感到不舒服。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a014"
+      ]
+    },
+    {
+      "name": "把太多爱放在老三身上不公平",
+      "definition": "现在把太多的爱放到老三身上，对老三不公平，对老三也不利，因为会捆绑老三，老三会成为温暖家长的人，觉得有责任。老大老二也被耽误了。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a015"
+      ]
+    },
+    {
+      "name": "老三长大后会反抗",
+      "definition": "老三一旦长大，会让家长感到不舒服，因为他会反抗，到时候家长又不知道如何去爱。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a016"
+      ]
+    },
+    {
+      "name": "咬住舌头不讲话",
+      "definition": "如果家长情绪足够稳定，在孩子情绪很大的时候陪他一起，但不要讲话，不要讲任何道理。如果情绪做不到，不如咬住舌头，什么都不用说不用做。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a017"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-13468eb610b6-c001:a001",
+      "target": "s-13468eb610b6-c001:a002",
+      "kind": "prerequisite",
+      "condition": "当孩子对大声敏感时",
+      "reason": "先了解耳膜脆弱可能导致声音敏感，然后建议先排除生理原因。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a001",
+      "target": "s-13468eb610b6-c001:r001",
+      "kind": "example_of",
+      "condition": "案例中孩子婴儿时期经常听到父母大声吵架",
+      "reason": "案例展示了婴儿时期大声刺激导致7岁孩子对声音敏感。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a002",
+      "target": "s-13468eb610b6-c001:a006",
+      "kind": "step_of",
+      "condition": "排除生理原因后",
+      "reason": "排除生理原因后，考虑心理层面的弥补，包括恐惧源于联想。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a003",
+      "target": "s-13468eb610b6-c001:a004",
+      "kind": "supports",
+      "condition": "夫妻吵架是正常且矛盾不应带来危险",
+      "reason": "“夫妻不吵架是不健康的”指出完全不吵架不健康、矛盾正常但不应有危险，为“当着孩子面吵架的原则”鼓励吵架并遵守安全原则提供依据。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a004",
+      "target": "s-13468eb610b6-c001:a007",
+      "kind": "supports",
+      "condition": "孩子看到父母吵架后和好时",
+      "reason": "“当着孩子面吵架的原则”要求吵架后当着孩子面和好，这一行动支持“通过安全感弥补孩子对大声的恐惧”中建立安全感的机制。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of关系不准确，改为supports。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a006",
+      "target": "s-13468eb610b6-c001:a007",
+      "kind": "supports",
+      "condition": "孩子对大声恐惧源于负面联想",
+      "reason": "“孩子对大声的恐惧源于联想”解释恐惧来自早期负面联想，为“通过安全感弥补孩子对大声的恐惧”提供干预依据。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原causes不在允许类型中，改为supports。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a008",
+      "target": "s-13468eb610b6-c001:a007",
+      "kind": "supports",
+      "condition": "矛盾正常但无危险",
+      "reason": "“矛盾与危险的区别”说明矛盾可能带来伤害但不会有危险，支撑“通过安全感弥补孩子对大声的恐惧”中让孩子明白矛盾不会带来危险的目标。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a009",
+      "target": "s-13468eb610b6-c001:a010",
+      "kind": "contrasts",
+      "condition": "14岁孩子社交重要，但需警惕不良苗头",
+      "reason": "肯定社交，但出现不良苗头需担心。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a010",
+      "target": "s-13468eb610b6-c001:a011",
+      "kind": "association",
+      "condition": "孩子外出出现需担心的不良苗头或经常不按时回家",
+      "reason": "“需要担心孩子外出的情况”提示何时需更加担心，“为孩子外出立界限”提出具体时间界限和后果；两者相关但前者不直接支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of关系不成立，改为association。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a011",
+      "target": "s-13468eb610b6-c001:a013",
+      "kind": "association",
+      "condition": "孩子外出前的安全确认与时间界限",
+      "reason": "“为孩子外出立界限”规定回家时间，“孩子外出前家长需确认的信息”要求确认同行者和地点；两者都是外出安全措施，但一个不支持另一个。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原supports不成立，改为association。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a012",
+      "target": "s-13468eb610b6-c001:a014",
+      "kind": "supports",
+      "condition": "父母焦虑影响孩子",
+      "reason": "“父母焦虑影响孩子”指出父母可能把焦虑转移给孩子，为“父母比孩子着急导致孩子不着急”提供了父母过度焦虑传递学习归属问题的背景。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原causes不在允许类型中，改为supports。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a014",
+      "target": "s-13468eb610b6-c001:a015",
+      "kind": "supports",
+      "condition": "父母过度介入孩子学习",
+      "reason": "“父母比孩子着急导致孩子不着急”描述父母行为传递学习是父母的事，“孩子不耐烦的原因”则表现为孩子认为在帮父母做事而不耐烦；前者机制支持后者表现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原causes不在允许类型中，改为supports。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a015",
+      "target": "s-13468eb610b6-c001:a016",
+      "kind": "supports",
+      "condition": "儿童心理与成人心理差异",
+      "reason": "“孩子不耐烦的原因”是“成人心理与儿童心理的差异”的具体表现：儿童认为学习是帮父母做事，因此不耐烦。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a016",
+      "target": "s-13468eb610b6-c001:a017",
+      "kind": "supports",
+      "condition": "用儿童心理理解学习不耐烦",
+      "reason": "“成人心理与儿童心理的差异”要求站在儿童心理基础上，支持“停止逼迫孩子学习”中停止以成人心理帮助和逼迫的做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of不准确，改为supports。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a017",
+      "target": "s-13468eb610b6-c001:a018",
+      "kind": "supports",
+      "condition": "停止催促后",
+      "reason": "“停止逼迫孩子学习”提出不催促、让孩子自己面对，支持“无人催促时孩子会自我负责”的结果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原causes不在允许类型中，改为supports。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a017",
+      "target": "s-13468eb610b6-c001:a019",
+      "kind": "supports",
+      "condition": "父母不再管学习后",
+      "reason": "“停止逼迫孩子学习”指出停止管教初期孩子可能下滑，这支持“孩子摆烂的两种情况”中可能出现的暂时摆烂或家庭氛围问题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原causes不在允许类型中，改为supports。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a019",
+      "target": "s-13468eb610b6-c001:a020",
+      "kind": "supports",
+      "condition": "家庭氛围影响",
+      "reason": "家庭氛围压抑可能导致游戏上瘾。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a020",
+      "target": "s-13468eb610b6-c001:a021",
+      "kind": "causes",
+      "condition": "家庭氛围压抑",
+      "reason": "压抑导致与家庭脱节，游戏上瘾。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a022",
+      "target": "s-13468eb610b6-c001:a017",
+      "kind": "supports",
+      "condition": "育儿需多方面建造",
+      "reason": "“育儿需多方面建造”强调放手后需在其他方面建立内驱力，为“停止逼迫孩子学习”提供配套条件，支持该做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a023",
+      "target": "s-13468eb610b6-c001:a024",
+      "kind": "supports",
+      "condition": "长期无法满足孩子情绪需求",
+      "reason": "“长期无法满足孩子情绪需求导致挫败”说明孩子形成预判并失望，支持“孩子不耐烦是挫败的表现”中不耐烦作为失望和挫败表现的解释。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原causes不在允许类型中，改为supports。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a025",
+      "target": "s-13468eb610b6-c001:a026",
+      "kind": "causes",
+      "condition": "情感敏感且需求多",
+      "reason": "长期得不到满足会愤怒。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a026",
+      "target": "s-13468eb610b6-c001:a027",
+      "kind": "step_of",
+      "condition": "父母无法提供情绪所需",
+      "reason": "建议父母梳理自身问题并学习。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:r001",
+      "target": "s-13468eb610b6-c001:a002",
+      "kind": "applies_to",
+      "condition": "案例中孩子对大声敏感",
+      "reason": "案例适用先排除生理原因的建议。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:r002",
+      "target": "s-13468eb610b6-c001:a011",
+      "kind": "example_of",
+      "condition": "孩子经常不按时回家",
+      "reason": "案例《14岁孩子外出时间问题》属于《为孩子外出立界限》所针对的典型情境，案例展示了孩子经常不按时回家的问题，概念提供了应对方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原始 applies_to 不在允许类型中，方向为案例到概念，改为 example_of 表示案例是概念适用情境的实例。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:r003",
+      "target": "s-13468eb610b6-c001:a017",
+      "kind": "association",
+      "condition": "孩子学习不自觉且父母逼迫帮助",
+      "reason": "案例《10岁半男孩学习不自觉》描述了孩子学习不自觉、父亲着急并帮助打印错题的情境，《停止逼迫孩子学习》提出了停止帮助和逼迫的方法，案例可作为该方法的适用背景，但案例本身并未展示停止逼迫，因此用关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原始 applies_to 不允许，且方向为案例到概念不合适，改为 association 表示案例与方法的关联。"
+    },
+    {
+      "source": "s-13468eb610b6-c001:r004",
+      "target": "s-13468eb610b6-c001:a023",
+      "kind": "example_of",
+      "condition": "弟弟长期无法获得情绪所需",
+      "reason": "案例《弟弟情绪需求未满足》展示了弟弟长期无法从母亲获得情绪需求满足，导致挫败和预判，符合《长期无法满足孩子情绪需求导致挫败》中父母长期无法提供情绪心理所需导致挫败的机制。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原始 example_of 成立。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a002",
+      "target": "s-13468eb610b6-c002:a003",
+      "kind": "example_of",
+      "condition": "被背叛后伤害未得到医治",
+      "reason": "案例《被朋友背叛后的恐惧与防备》描述了被信任的人背叛后伤害未得到医治，导致持续的恐惧和防备，是《未处理的伤害导致持续防备》所描述机制的具体体现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原始 causes 不允许，改为 example_of。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a003",
+      "target": "s-13468eb610b6-c002:a004",
+      "kind": "step_of",
+      "condition": "被背叛后卡住",
+      "reason": "建议寻求专业心理辅导。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a005",
+      "target": "s-13468eb610b6-c002:a006",
+      "kind": "supports",
+      "condition": "四岁孩子不应控制父母情绪",
+      "reason": "案例中孩子不允许妈妈生气，反映权力界限问题。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a006",
+      "target": "s-13468eb610b6-c002:a007",
+      "kind": "step_of",
+      "condition": "孩子试图限制父母情绪表达",
+      "reason": "父母应直接陈述而非问为什么。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a008",
+      "target": "s-13468eb610b6-c002:a009",
+      "kind": "association",
+      "condition": "哥哥忍泪需要区分压抑与控制行为",
+      "reason": "案例《兄弟下棋冲突中哥哥忍泪》中哥哥忍泪的具体表现可与《压抑情绪与控制情绪行为的区别》相关联，但案例本身不是该概念的例子，而是概念可用于分析的情境，所以用关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原始 applies_to 不允许且方向不准确，改为 association。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a008",
+      "target": "s-13468eb610b6-c002:a010",
+      "kind": "supports",
+      "condition": "弟弟捉弄哥哥的情况",
+      "reason": "案例《兄弟下棋冲突中哥哥忍泪》展示了弟弟捉弄哥哥的行为，支持《赋能弟弟：技术强但需考虑品格》中需要对弟弟进行品格赋能的建议。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原始 step_of 不成立，因为案例不是概念的步骤，改为 supports。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a010",
+      "target": "s-13468eb610b6-c002:a011",
+      "kind": "supports",
+      "condition": "培养孩子不要总是赢",
+      "reason": "赋能品格的方法之一。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a012",
+      "target": "s-13468eb610b6-c002:a013",
+      "kind": "step_of",
+      "condition": "孩子想自己攒钱买鞋",
+      "reason": "支持孩子用自己的钱买。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a013",
+      "target": "s-13468eb610b6-c002:a014",
+      "kind": "supports",
+      "condition": "支持孩子用自己的钱买喜欢的东西是真正金钱观中如何花钱的体现",
+      "reason": "《支持孩子用自己的钱买喜欢的东西》提出让孩子用自己的钱买喜欢的东西能培养正确的金钱观，这支持了《真正的金钱观包括如何花钱》中金钱观包括如何花钱、让金钱带来满意和舒心的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原始 supports 成立。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a014",
+      "target": "s-13468eb610b6-c002:a015",
+      "kind": "association",
+      "condition": "孩子用自己攒的钱买喜欢的东西体现金钱的意义",
+      "reason": "《真正的金钱观包括如何花钱》是普遍概念，《用自己辛苦攒的钱买喜欢的东西是金钱的意义》是其具体化表现，但原方向将普遍概念作为具体意义的例子不成立，两者关联密切。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原始 example_of 方向反了，改为 association。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a015",
+      "target": "s-13468eb610b6-c002:a016",
+      "kind": "supports",
+      "condition": "昂贵但喜欢的东西更有价值",
+      "reason": "父母认知问题。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a017",
+      "target": "s-13468eb610b6-c002:a018",
+      "kind": "step_of",
+      "condition": "孩子因换老师失落",
+      "reason": "通过类比理解情绪。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a018",
+      "target": "s-13468eb610b6-c002:a019",
+      "kind": "supports",
+      "condition": "适应能力需要平时建立",
+      "reason": "类比理解情绪后，指出适应能力需平时建立。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a019",
+      "target": "s-13468eb610b6-c002:a020",
+      "kind": "supports",
+      "condition": "适应能力的决定因素",
+      "reason": "适应能力由四个方面决定。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a021",
+      "target": "s-13468eb610b6-c002:a022",
+      "kind": "supports",
+      "condition": "孩子躲进衣橱",
+      "reason": "案例中孩子躲进衣橱，讲师提醒不是好征兆。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a022",
+      "target": "s-13468eb610b6-c003:a001",
+      "kind": "supports",
+      "condition": "孩子躲进衣柜",
+      "reason": "重复强调危险信号。"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a002",
+      "target": "s-13468eb610b6-c003:a003",
+      "kind": "association",
+      "condition": "恐吓威胁式育儿与拿走力量相关",
+      "reason": "《恐吓威胁式育儿导致孩子抗拒》描述恐吓威胁导致孩子抗拒和反感，《恐吓威胁拿走孩子的力量》解释恐吓威胁是通过拿走孩子力量的方式育儿，两者都关于恐吓威胁育儿，但原因果关系不能直接由前者导致后者，用关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原始 causes 不允许且直接因果不成立，改为 association。"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a003",
+      "target": "s-13468eb610b6-c003:a004",
+      "kind": "supports",
+      "condition": "拿走力量育儿导致两个结果",
+      "reason": "《恐吓威胁拿走孩子的力量》指出恐吓威胁育儿是拿走孩子力量的方式，这支持了《拿走力量育儿的两个结果》中所说的这种育儿方式会导致孩子成为妈宝或反抗的结果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原始 causes 不允许，改为 supports。"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a002",
+      "target": "s-13468eb610b6-c003:a005",
+      "kind": "supports",
+      "condition": "孩子因恐吓威胁方式而逃避",
+      "reason": "《恐吓威胁式育儿导致孩子抗拒》提出用恐吓威胁方式强迫孩子会让孩子抗拒和反感，这支持了《孩子逃避恐吓威胁的原因》中孩子不能接受恐吓威胁方式所以逃避家长的解释。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原始 causes 不允许，改为 supports，前者为后者提供原因支持。"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a005",
+      "target": "s-13468eb610b6-c003:a006",
+      "kind": "step_of",
+      "condition": "孩子躲进衣柜",
+      "reason": "帮助孩子认识伤害并转移关注点。"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a006",
+      "target": "s-13468eb610b6-c003:a007",
+      "kind": "step_of",
+      "condition": "转移关注点后",
+      "reason": "利用短视频让孩子了解后果并做选择。"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a007",
+      "target": "s-13468eb610b6-c003:a008",
+      "kind": "supports",
+      "condition": "解释因果关系",
+      "reason": "让孩子了解后果后，解释因果关系。"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a009",
+      "target": "s-13468eb610b6-c003:a010",
+      "kind": "example_of",
+      "condition": "讲师孩子看短视频后不再揉眼",
+      "reason": "利用网络资源帮助育儿的例子。"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a011",
+      "target": "s-13468eb610b6-c003:a012",
+      "kind": "supports",
+      "condition": "自我认知与疗愈伤痛",
+      "reason": "缺乏父母爱导致内在伤害，需要疗愈。"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a012",
+      "target": "s-13468eb610b6-c003:a013",
+      "kind": "causes",
+      "condition": "缺乏父母爱",
+      "reason": "导致原始粗糙的爱。"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a013",
+      "target": "s-13468eb610b6-c003:a014",
+      "kind": "causes",
+      "condition": "孩子长大后不再赋能",
+      "reason": "原始粗糙的爱导致孩子长大后不舒服。"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a014",
+      "target": "s-13468eb610b6-c003:a015",
+      "kind": "causes",
+      "condition": "把太多爱放在老三身上",
+      "reason": "对老三不公平，捆绑老三。"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a015",
+      "target": "s-13468eb610b6-c003:a016",
+      "kind": "causes",
+      "condition": "老三长大后会反抗",
+      "reason": "因为被捆绑，老三会反抗。"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a017",
+      "target": "s-13468eb610b6-c003:a006",
+      "kind": "supports",
+      "condition": "孩子情绪很大时",
+      "reason": "咬住舌头不讲话，避免成为伤害孩子的人。"
+    },
+    {
+      "source": "s-13468eb610b6-c002:v2-n001",
+      "target": "s-13468eb610b6-c001:a026",
+      "kind": "complements",
+      "condition": "无",
+      "reason": "source 提供愤怒导致不耐烦怼人的一般原理，target 具体说明在情感敏感孩子身上，愤怒源于情绪需求未满足，两者共同解释该行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a026",
+      "target": "s-13468eb610b6-c002:v2-n001",
+      "kind": "complements",
+      "condition": "无",
+      "reason": "source 提供愤怒导致不耐烦怼人的一般原理，target 具体说明在情感敏感孩子身上，愤怒源于情绪需求未满足，两者共同解释该行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:v2-n001",
+      "target": "s-13468eb610b6-c001:a024",
+      "kind": "conditional_difference",
+      "condition": "source 适用于内心有愤怒的情况；target 适用于多次尝试连接但连接不上导致挫败的情况",
+      "reason": "两者都是孩子不耐烦的原因，但原因不同：source 归因于内心愤怒，target 归因于挫败，在不同条件下适用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a024",
+      "target": "s-13468eb610b6-c002:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "source 适用于内心有愤怒的情况；target 适用于多次尝试连接但连接不上导致挫败的情况",
+      "reason": "两者都是孩子不耐烦的原因，但原因不同：source 归因于内心愤怒，target 归因于挫败，在不同条件下适用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:v2-n001",
+      "target": "s-13468eb610b6-c001:a015",
+      "kind": "conditional_difference",
+      "condition": "source 适用于内心有愤怒的情况；target 适用于父母过度介入学习导致孩子认为在帮父母做事的情况",
+      "reason": "两者都是孩子不耐烦的原因，但原因不同：source 归因于内心愤怒，target 归因于学习被过度介入，在不同条件下适用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a015",
+      "target": "s-13468eb610b6-c002:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "source 适用于内心有愤怒的情况；target 适用于父母过度介入学习导致孩子认为在帮父母做事的情况",
+      "reason": "两者都是孩子不耐烦的原因，但原因不同：source 归因于内心愤怒，target 归因于学习被过度介入，在不同条件下适用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:v2-n001",
+      "target": "s-13468eb610b6-c001:r004",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "source 是一般原理（内心愤怒导致不耐烦怼人），target 是具体案例（弟弟因情绪需求未满足而不耐烦怼人），案例可能体现该原理，但未直接提及内心愤怒，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c001:r004",
+      "target": "s-13468eb610b6-c002:v2-n001",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "source 是一般原理（内心愤怒导致不耐烦怼人），target 是具体案例（弟弟因情绪需求未满足而不耐烦怼人），案例可能体现该原理，但未直接提及内心愤怒，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:v2-n001",
+      "target": "s-13468eb610b6-c001:a025",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "两者都涉及怼人行为，source 指出内心愤怒是原因，target 描述能怼人的孩子特质（情感敏感、情绪需求多），但需求多与愤怒之间的关联未明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a025",
+      "target": "s-13468eb610b6-c002:v2-n001",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "两者都涉及怼人行为，source 指出内心愤怒是原因，target 描述能怼人的孩子特质（情感敏感、情绪需求多），但需求多与愤怒之间的关联未明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:v2-n001",
+      "target": "s-13468eb610b6-c001:r003",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 案例中孩子有不耐烦，但原因与学习相关，source 归因于愤怒，案例未提及愤怒，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c001:r003",
+      "target": "s-13468eb610b6-c002:v2-n001",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 案例中孩子有不耐烦，但原因与学习相关，source 归因于愤怒，案例未提及愤怒，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:v2-n001",
+      "target": "s-13468eb610b6-c002:a005",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "两者都涉及孩子愤怒情绪，但 source 指向怼人，target 表现为说话相反，条件不同，不能混用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a005",
+      "target": "s-13468eb610b6-c002:v2-n001",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "两者都涉及孩子愤怒情绪，但 source 指向怼人，target 表现为说话相反，条件不同，不能混用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:v2-n001",
+      "target": "s-13468eb610b6-c001:a017",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "source 讨论愤怒导致不耐烦，target 提供解决学习不耐烦的建议，针对不同情境，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a017",
+      "target": "s-13468eb610b6-c002:v2-n001",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "source 讨论愤怒导致不耐烦，target 提供解决学习不耐烦的建议，针对不同情境，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:v2-n002",
+      "target": "s-13468eb610b6-c001:a027",
+      "kind": "complements",
+      "condition": "无",
+      "reason": "target 建议父母梳理深层问题并学习满足孩子需求，source 增加了先评估自己是否能提供这一步骤，使建议更完整。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a027",
+      "target": "s-13468eb610b6-c002:v2-n002",
+      "kind": "complements",
+      "condition": "无",
+      "reason": "target 建议父母梳理深层问题并学习满足孩子需求，source 增加了先评估自己是否能提供这一步骤，使建议更完整。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:v2-n002",
+      "target": "s-13468eb610b6-c001:a023",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 描述长期无法满足孩子情绪需求导致的挫败后果，source 提供针对该问题的建议（梳理深层问题），但 source 不直接依赖于 target。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a023",
+      "target": "s-13468eb610b6-c002:v2-n002",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 描述长期无法满足孩子情绪需求导致的挫败后果，source 提供针对该问题的建议（梳理深层问题），但 source 不直接依赖于 target。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:v2-n002",
+      "target": "s-13468eb610b6-c001:r004",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 案例体现了父母无法满足孩子情绪需求的问题，source 是对此类问题的建议，但案例未提及是否采纳建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c001:r004",
+      "target": "s-13468eb610b6-c002:v2-n002",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 案例体现了父母无法满足孩子情绪需求的问题，source 是对此类问题的建议，但案例未提及是否采纳建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:v2-n002",
+      "target": "s-13468eb610b6-c001:a026",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 描述情绪需求未满足导致愤怒，source 是建议，可能用于预防或解决该后果，但未直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a026",
+      "target": "s-13468eb610b6-c002:v2-n002",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 描述情绪需求未满足导致愤怒，source 是建议，可能用于预防或解决该后果，但未直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:v2-n002",
+      "target": "s-13468eb610b6-c001:a025",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 描述情感敏感孩子的特质，可能与 source 建议中需要满足孩子情绪需求有关，但关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a025",
+      "target": "s-13468eb610b6-c002:v2-n002",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 描述情感敏感孩子的特质，可能与 source 建议中需要满足孩子情绪需求有关，但关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:v2-n002",
+      "target": "s-13468eb610b6-c001:a012",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 讲父母焦虑影响孩子，source 建议梳理深层心理问题，焦虑可能属于深层问题，但 target 未直接说明与情绪需求满足的关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a012",
+      "target": "s-13468eb610b6-c002:v2-n002",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 讲父母焦虑影响孩子，source 建议梳理深层心理问题，焦虑可能属于深层问题，但 target 未直接说明与情绪需求满足的关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n001",
+      "target": "s-13468eb610b6-c002:a021",
+      "kind": "complements",
+      "condition": "无",
+      "reason": "target 记录了孩子躲进衣橱的行为，source 补充了该行为的背景（眼部问题、威胁式管教），完善了案例信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a021",
+      "target": "s-13468eb610b6-c003:v2-n001",
+      "kind": "complements",
+      "condition": "无",
+      "reason": "target 记录了孩子躲进衣橱的行为，source 补充了该行为的背景（眼部问题、威胁式管教），完善了案例信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n001",
+      "target": "s-13468eb610b6-c003:a002",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "source 案例中母亲用恐吓威胁方式强迫孩子，导致孩子抗拒并躲进衣橱，体现了 target 所述“恐吓威胁式育儿导致孩子抗拒”的原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a002",
+      "target": "s-13468eb610b6-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "无",
+      "reason": "source 案例中母亲用恐吓威胁方式强迫孩子，导致孩子抗拒并躲进衣橱，体现了 target 所述“恐吓威胁式育儿导致孩子抗拒”的原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n001",
+      "target": "s-13468eb610b6-c003:a003",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "source 案例中母亲用恐吓威胁方式育儿，可能拿走孩子力量，导致孩子躲进衣橱，是 target“恐吓威胁拿走孩子的力量”的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a003",
+      "target": "s-13468eb610b6-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "无",
+      "reason": "source 案例中母亲用恐吓威胁方式育儿，可能拿走孩子力量，导致孩子躲进衣橱，是 target“恐吓威胁拿走孩子的力量”的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n001",
+      "target": "s-13468eb610b6-c003:a005",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "source 案例中孩子因不能接受恐吓威胁方式而逃避家长，躲进衣橱，直接体现了 target 所述“孩子逃避恐吓威胁的原因”。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a005",
+      "target": "s-13468eb610b6-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "无",
+      "reason": "source 案例中孩子因不能接受恐吓威胁方式而逃避家长，躲进衣橱，直接体现了 target 所述“孩子逃避恐吓威胁的原因”。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n001",
+      "target": "s-13468eb610b6-c002:a005",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "两者都是孩子愤怒表达的案例，但年龄不同（11岁 vs 4岁），原因不同，不能直接类比，仅因情绪主题相近建立弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:a005",
+      "target": "s-13468eb610b6-c003:v2-n001",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "两者都是孩子愤怒表达的案例，但年龄不同（11岁 vs 4岁），原因不同，不能直接类比，仅因情绪主题相近建立弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n001",
+      "target": "s-13468eb610b6-c003:a006",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "source 案例中母亲用恐吓威胁导致孩子忽略眼睛问题，target 建议帮助孩子认识伤害并转移关注点，是针对 source 情况的可能建议，但不属于例子或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a006",
+      "target": "s-13468eb610b6-c003:v2-n001",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "source 案例中母亲用恐吓威胁导致孩子忽略眼睛问题，target 建议帮助孩子认识伤害并转移关注点，是针对 source 情况的可能建议，但不属于例子或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n001",
+      "target": "s-13468eb610b6-c003:a001",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "source 案例中孩子躲进衣橱，是 target“孩子躲进衣柜是危险信号”的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a001",
+      "target": "s-13468eb610b6-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "无",
+      "reason": "source 案例中孩子躲进衣橱，是 target“孩子躲进衣柜是危险信号”的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n002",
+      "target": "s-13468eb610b6-c003:a012",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "source 中 学员 从小未与父母长大，缺乏父母爱，导致内在伤害，体现了 target 所述“缺乏父母爱导致内在伤害”的原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a012",
+      "target": "s-13468eb610b6-c003:v2-n002",
+      "kind": "has_example",
+      "condition": "无",
+      "reason": "source 中 学员 从小未与父母长大，缺乏父母爱，导致内在伤害，体现了 target 所述“缺乏父母爱导致内在伤害”的原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n002",
+      "target": "s-13468eb610b6-c003:a013",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "source 中 学员 对孩子的爱是原始粗糙的，仅在孩子使她舒适或赋能时才能爱，体现了 target 所述“原始粗糙的爱”的定义。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a013",
+      "target": "s-13468eb610b6-c003:v2-n002",
+      "kind": "has_example",
+      "condition": "无",
+      "reason": "source 中 学员 对孩子的爱是原始粗糙的，仅在孩子使她舒适或赋能时才能爱，体现了 target 所述“原始粗糙的爱”的定义。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n002",
+      "target": "s-13468eb610b6-c003:a015",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "source 中 学员 把过多爱放在老三身上，使老三承担温暖母亲的责任，老大老二被忽视，体现了 target 所述“把太多爱放在老三身上不公平”的情况。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a015",
+      "target": "s-13468eb610b6-c003:v2-n002",
+      "kind": "has_example",
+      "condition": "无",
+      "reason": "source 中 学员 把过多爱放在老三身上，使老三承担温暖母亲的责任，老大老二被忽视，体现了 target 所述“把太多爱放在老三身上不公平”的情况。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n002",
+      "target": "s-13468eb610b6-c003:a016",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "source 中预计老三长大后会反抗，体现了 target 所述“老三长大后会反抗”的预测。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a016",
+      "target": "s-13468eb610b6-c003:v2-n002",
+      "kind": "has_example",
+      "condition": "无",
+      "reason": "source 中预计老三长大后会反抗，体现了 target 所述“老三长大后会反抗”的预测。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n002",
+      "target": "s-13468eb610b6-c003:a014",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 解释了老三长大反抗的一个原因（不再赋能），与 source 中“老三长大后会反抗”相关，但 source 未明确该原因，故为关联而非补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a014",
+      "target": "s-13468eb610b6-c003:v2-n002",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 解释了老三长大反抗的一个原因（不再赋能），与 source 中“老三长大后会反抗”相关，但 source 未明确该原因，故为关联而非补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n002",
+      "target": "s-13468eb610b6-c001:a012",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 讲父母焦虑影响孩子，source 中 学员 有内在伤害，可能影响育儿，但未明确焦虑与 学员 情况直接相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a012",
+      "target": "s-13468eb610b6-c003:v2-n002",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 讲父母焦虑影响孩子，source 中 学员 有内在伤害，可能影响育儿，但未明确焦虑与 学员 情况直接相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n002",
+      "target": "s-13468eb610b6-c003:a004",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 讨论拿走孩子力量育儿的结果，source 中 学员 自身力量被拿走，但未明确她是否通过拿走孩子力量育儿，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:a004",
+      "target": "s-13468eb610b6-c003:v2-n002",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 讨论拿走孩子力量育儿的结果，source 中 学员 自身力量被拿走，但未明确她是否通过拿走孩子力量育儿，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n002",
+      "target": "s-13468eb610b6-c001:a023",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 描述长期无法满足孩子情绪需求导致挫败，source 中 学员 可能无法满足孩子需求，但未直接说明，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c001:a023",
+      "target": "s-13468eb610b6-c003:v2-n002",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 描述长期无法满足孩子情绪需求导致挫败，source 中 学员 可能无法满足孩子需求，但未直接说明，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c003:v2-n002",
+      "target": "s-13468eb610b6-c002:v2-n002",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 提供建议（梳理深层问题），source 案例中 学员 有深层心理问题，可能适用该建议，但 source 未提及是否应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-13468eb610b6-c002:v2-n002",
+      "target": "s-13468eb610b6-c003:v2-n002",
+      "kind": "association",
+      "condition": "未明确",
+      "reason": "target 提供建议（梳理深层问题），source 案例中 学员 有深层心理问题，可能适用该建议，但 source 未提及是否应用。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "处理孩子对大声的恐惧时，先排除生理原因，再通过夫妻吵架后和好建立安全感",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a002",
+        "s-13468eb610b6-c001:a004",
+        "s-13468eb610b6-c001:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "为孩子外出立界限时，需理解孩子社交需求",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a009",
+        "s-13468eb610b6-c001:a010",
+        "s-13468eb610b6-c001:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "依赖与失控",
+      "to": "自我修养",
+      "when": "停止逼迫孩子学习后，需关注家庭氛围",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a017",
+        "s-13468eb610b6-c001:a019",
+        "s-13468eb610b6-c001:a020"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我修养",
+      "when": "父母无法满足孩子情绪需求时，需梳理自身问题",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a023",
+        "s-13468eb610b6-c001:a027"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "内在能力",
+      "when": "赋能孩子品格时，需设定界限",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a010",
+        "s-13468eb610b6-c002:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "内在能力",
+      "when": "孩子因换老师失落时，需培养适应能力",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a018",
+        "s-13468eb610b6-c002:a019",
+        "s-13468eb610b6-c002:a020"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "理解情绪",
+      "when": "孩子躲进衣柜时，需理解其逃避原因",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a005",
+        "s-13468eb610b6-c003:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "理解情绪",
+      "when": "疗愈自身伤痛后，才能更好地理解孩子情绪",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a011",
+        "s-13468eb610b6-c003:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-13468eb610b6-c002:a018"
+      ],
+      "reason": "内容完全一致，均为通过类比理解孩子换老师的失落。"
+    },
+    {
+      "atom_ids": [
+        "s-13468eb610b6-c002:a022",
+        "s-13468eb610b6-c003:a001"
+      ],
+      "reason": "内容实质等价，均强调孩子躲进衣柜不是好征兆。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-13468eb610b6-c001:a003",
+        "s-13468eb610b6-c001:a004"
+      ],
+      "description": "a003认为夫妻完全不吵架不健康，a004鼓励当着孩子面吵架，但需遵守原则。两者不矛盾，但需注意吵架可能对孩子造成影响，需明确适用范围。",
+      "needed_evidence": "需要更多证据说明当着孩子面吵架的长期影响。"
+    },
+    {
+      "atom_ids": [
+        "s-13468eb610b6-c001:a017",
+        "s-13468eb610b6-c001:a019"
+      ],
+      "description": "a017建议停止逼迫孩子学习，a019指出停止后孩子可能摆烂，需区分暂时摆烂和家庭氛围问题。",
+      "needed_evidence": "需要明确如何判断摆烂是暂时还是家庭氛围问题。"
+    },
+    {
+      "atom_ids": [
+        "s-13468eb610b6-c002:a004"
+      ],
+      "description": "关于使用保险覆盖心理辅导的建议可能因地区和法律不同而有差异，需谨慎。",
+      "needed_evidence": "需要根据当地法律和保险政策核验。"
+    },
+    {
+      "atom_ids": [
+        "s-13468eb610b6-c002:a021",
+        "s-13468eb610b6-c002:a022"
+      ],
+      "description": "孩子躲进衣橱被判断为危险信号，但未提供具体评估标准，可能过度解读。",
+      "needed_evidence": "需要更多证据支持该判断的普遍性。"
+    }
+  ],
+  "path": [
+    {
+      "name": "处理孩子对大声敏感",
+      "steps": [
+        {
+          "action": "带孩子去医院做耳膜检查",
+          "atom_ids": [
+            "s-13468eb610b6-c001:a002"
+          ],
+          "condition": "孩子对大声敏感"
+        },
+        {
+          "action": "若耳膜有问题，治疗生理问题；若正常，转入心理层面",
+          "atom_ids": [
+            "s-13468eb610b6-c001:a002"
+          ],
+          "condition": "检查结果"
+        },
+        {
+          "action": "通过夫妻吵架后和好建立安全感",
+          "atom_ids": [
+            "s-13468eb610b6-c001:a004",
+            "s-13468eb610b6-c001:a007"
+          ],
+          "condition": "排除生理原因后"
+        }
+      ]
+    },
+    {
+      "name": "处理孩子学习不自觉",
+      "steps": [
+        {
+          "action": "停止帮助和逼迫孩子学习",
+          "atom_ids": [
+            "s-13468eb610b6-c001:a017"
+          ],
+          "condition": "孩子学习不自觉、不耐烦"
+        },
+        {
+          "action": "让孩子自己承担后果",
+          "atom_ids": [
+            "s-13468eb610b6-c001:a017"
+          ],
+          "condition": "停止逼迫后"
+        },
+        {
+          "action": "关注家庭氛围，积极建造",
+          "atom_ids": [
+            "s-13468eb610b6-c001:a019",
+            "s-13468eb610b6-c001:a020"
+          ],
+          "condition": "孩子出现摆烂时"
+        }
+      ]
+    },
+    {
+      "name": "处理孩子情绪需求未满足",
+      "steps": [
+        {
+          "action": "父母梳理自身深层问题",
+          "atom_ids": [
+            "s-13468eb610b6-c001:a027"
+          ],
+          "condition": "父母无法提供孩子情绪所需"
+        },
+        {
+          "action": "学习满足孩子不同年龄的心理情感需求",
+          "atom_ids": [
+            "s-13468eb610b6-c001:a027"
+          ],
+          "condition": "梳理自身问题后"
+        }
+      ]
+    },
+    {
+      "name": "处理四岁孩子不允许妈妈生气",
+      "steps": [
+        {
+          "action": "坚定地看着孩子的眼睛，直接告诉孩子“妈妈可以生气”",
+          "atom_ids": [
+            "s-13468eb610b6-c002:a007"
+          ],
+          "condition": "孩子说“妈妈不能生气”"
+        },
+        {
+          "action": "如果孩子重复，继续坚定地重复",
+          "atom_ids": [
+            "s-13468eb610b6-c002:a007"
+          ],
+          "condition": "孩子重复"
+        },
+        {
+          "action": "孩子可能会哭，可以抱着孩子",
+          "atom_ids": [
+            "s-13468eb610b6-c002:a007"
+          ],
+          "condition": "孩子哭"
+        },
+        {
+          "action": "告诉孩子：“妈妈可以生气，妈妈跟你一样都可以生气，但是妈妈会控制生气的行为。”",
+          "atom_ids": [
+            "s-13468eb610b6-c002:a007"
+          ],
+          "condition": "抱着孩子时"
+        }
+      ]
+    },
+    {
+      "name": "赋能弟弟品格",
+      "steps": [
+        {
+          "action": "肯定弟弟的权利：技术强可以赢",
+          "atom_ids": [
+            "s-13468eb610b6-c002:a010"
+          ],
+          "condition": "弟弟技术强但捉弄哥哥"
+        },
+        {
+          "action": "指出这样做会让他成为不友善、不高贵的人",
+          "atom_ids": [
+            "s-13468eb610b6-c002:a010"
+          ],
+          "condition": "肯定权利后"
+        },
+        {
+          "action": "引导换位思考：如果被捉弄，你会难过吗？你会喜欢对方吗？",
+          "atom_ids": [
+            "s-13468eb610b6-c002:a010"
+          ],
+          "condition": "指出问题后"
+        },
+        {
+          "action": "提出高贵的做法：大师只赢一步棋，给对方留面子",
+          "atom_ids": [
+            "s-13468eb610b6-c002:a010"
+          ],
+          "condition": "换位思考后"
+        },
+        {
+          "action": "强调下棋见人品，赋能品格",
+          "atom_ids": [
+            "s-13468eb610b6-c002:a010"
+          ],
+          "condition": "提出高贵做法后"
+        }
+      ]
+    },
+    {
+      "name": "处理孩子躲进衣柜",
+      "steps": [
+        {
+          "action": "帮助孩子认识到事情对他的伤害",
+          "atom_ids": [
+            "s-13468eb610b6-c003:a006"
+          ],
+          "condition": "孩子躲进衣柜"
+        },
+        {
+          "action": "不要成为伤害孩子的人",
+          "atom_ids": [
+            "s-13468eb610b6-c003:a006"
+          ],
+          "condition": "认识伤害后"
+        },
+        {
+          "action": "将关注力从孩子抵抗家长转移到关注眼睛问题",
+          "atom_ids": [
+            "s-13468eb610b6-c003:a006"
+          ],
+          "condition": "避免伤害后"
+        },
+        {
+          "action": "让孩子看近视眼视网膜的短视频，了解不做红光的后果",
+          "atom_ids": [
+            "s-13468eb610b6-c003:a007"
+          ],
+          "condition": "转移关注点后"
+        },
+        {
+          "action": "让孩子自己做选择",
+          "atom_ids": [
+            "s-13468eb610b6-c003:a007"
+          ],
+          "condition": "了解后果后"
+        },
+        {
+          "action": "如果今天没有按时做红光，那么手机就不能玩",
+          "atom_ids": [
+            "s-13468eb610b6-c003:a007"
+          ],
+          "condition": "孩子选择后"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-13468eb610b6-c001:u-k0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a001"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0002",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a002"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a003"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a004"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a005"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a006"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0007",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a007"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a008"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a009"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a010"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0011",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a011"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022",
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a012"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a013"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a014"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a015"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a016"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0017",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a017"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a018"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a019"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045",
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a020"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a021"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0022",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a022"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a023"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053",
+        "b00054",
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a024"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a025"
+      ],
+      "blocks": [
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a026"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0027",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c001:a027"
+      ],
+      "blocks": [
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0028",
+      "kind": "case",
+      "atom_ids": [
+        "s-13468eb610b6-c001:r001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0029",
+      "kind": "case",
+      "atom_ids": [
+        "s-13468eb610b6-c001:r002"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0030",
+      "kind": "case",
+      "atom_ids": [
+        "s-13468eb610b6-c001:r003"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c001:u-k0031",
+      "kind": "case",
+      "atom_ids": [
+        "s-13468eb610b6-c001:r004"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052",
+        "b00053",
+        "b00054",
+        "b00055",
+        "b00056",
+        "b00057",
+        "b00058",
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u01",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a001"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u02",
+      "kind": "case",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a002"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066",
+        "b00067",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u03",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a003"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u04",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a004"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u05",
+      "kind": "case",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a005",
+        "s-13468eb610b6-c002:a006"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076",
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u06",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a007"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080",
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u07",
+      "kind": "case",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a008"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085",
+        "b00086",
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u08",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a009"
+      ],
+      "blocks": [
+        "b00089",
+        "b00090",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u09",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a010",
+        "s-13468eb610b6-c002:r001"
+      ],
+      "blocks": [
+        "b00091",
+        "b00092",
+        "b00093",
+        "b00094",
+        "b00095",
+        "b00096",
+        "b00097"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u10",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a011"
+      ],
+      "blocks": [
+        "b00097",
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u11",
+      "kind": "case",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a012"
+      ],
+      "blocks": [
+        "b00100",
+        "b00101",
+        "b00102"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u12",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a013"
+      ],
+      "blocks": [
+        "b00102",
+        "b00103",
+        "b00104"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u13",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a014"
+      ],
+      "blocks": [
+        "b00104",
+        "b00105",
+        "b00106",
+        "b00107"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u14",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a015"
+      ],
+      "blocks": [
+        "b00107",
+        "b00108"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u15",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a016"
+      ],
+      "blocks": [
+        "b00109",
+        "b00110",
+        "b00111"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u16",
+      "kind": "case",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a017"
+      ],
+      "blocks": [
+        "b00111",
+        "b00112"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u17",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a018"
+      ],
+      "blocks": [
+        "b00112",
+        "b00113",
+        "b00114"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u18",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a019"
+      ],
+      "blocks": [
+        "b00115",
+        "b00116",
+        "b00117"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u19",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a020"
+      ],
+      "blocks": [
+        "b00117",
+        "b00118",
+        "b00119",
+        "b00120",
+        "b00121"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u20",
+      "kind": "case",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a021"
+      ],
+      "blocks": [
+        "b00122",
+        "b00123",
+        "b00124",
+        "b00125"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u21",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c002:u22",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u1",
+      "kind": "concept",
+      "atom_ids": [
+        "s-13468eb610b6-c002:a022",
+        "s-13468eb610b6-c003:a001"
+      ],
+      "blocks": [
+        "b00124",
+        "b00125"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u2",
+      "kind": "case",
+      "atom_ids": [
+        "s-13468eb610b6-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00122",
+        "b00123",
+        "b00125",
+        "b00126",
+        "b00127"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u3",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a002"
+      ],
+      "blocks": [
+        "b00126",
+        "b00127"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u4",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a003"
+      ],
+      "blocks": [
+        "b00128"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u5",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a004"
+      ],
+      "blocks": [
+        "b00129",
+        "b00130"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u6",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a005"
+      ],
+      "blocks": [
+        "b00130"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u7",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a006"
+      ],
+      "blocks": [
+        "b00131",
+        "b00132"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u8",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a007"
+      ],
+      "blocks": [
+        "b00132"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u9",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a008"
+      ],
+      "blocks": [
+        "b00133",
+        "b00134"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u10",
+      "kind": "case",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a009"
+      ],
+      "blocks": [
+        "b00134",
+        "b00135",
+        "b00136"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u11",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a010"
+      ],
+      "blocks": [
+        "b00136"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u12",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a011"
+      ],
+      "blocks": [
+        "b00137"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u13",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a012"
+      ],
+      "blocks": [
+        "b00138"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u14",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a013"
+      ],
+      "blocks": [
+        "b00138",
+        "b00139"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u15",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a014"
+      ],
+      "blocks": [
+        "b00139"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u16",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a015"
+      ],
+      "blocks": [
+        "b00140"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u17",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a016"
+      ],
+      "blocks": [
+        "b00141"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u18",
+      "kind": "case",
+      "atom_ids": [
+        "s-13468eb610b6-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00138",
+        "b00139",
+        "b00140",
+        "b00141"
+      ]
+    },
+    {
+      "id": "s-13468eb610b6-c003:u19",
+      "kind": "method",
+      "atom_ids": [
+        "s-13468eb610b6-c003:a017"
+      ],
+      "blocks": [
+        "b00142",
+        "b00143"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "内心愤怒导致对他人不耐烦和怼别人",
+      "atom_ids": [
+        "s-13468eb610b6-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-13468eb610b6",
+          "blocks": [
+            "b00060"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "父母无法满足孩子情绪需求时建议自我梳理",
+      "atom_ids": [
+        "s-13468eb610b6-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-13468eb610b6",
+          "blocks": [
+            "b00061"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "学员案例：威胁式管教引发11岁孩子躲进衣橱",
+      "atom_ids": [
+        "s-13468eb610b6-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-13468eb610b6",
+          "blocks": [
+            "b00122",
+            "b00123",
+            "b00125",
+            "b00126",
+            "b00127"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "学员案例：缺爱导致的原始之爱及对老三的过度投入",
+      "atom_ids": [
+        "s-13468eb610b6-c003:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-13468eb610b6",
+          "blocks": [
+            "b00138",
+            "b00139",
+            "b00140",
+            "b00141"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    }
+  ]
+}

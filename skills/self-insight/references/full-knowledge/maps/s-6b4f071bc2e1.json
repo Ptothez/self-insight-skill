@@ -1,0 +1,477 @@
+{
+  "concepts": [
+    {
+      "name": "父母界限",
+      "definition": "父母在原则、价值观和绝对不可触碰的底线上的立场，应持续稳定，不因忙碌或忽视而动摇。",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a001",
+        "s-6b4f071bc2e1-c001:a003",
+        "s-6b4f071bc2e1-c001:a004"
+      ]
+    },
+    {
+      "name": "自然后果",
+      "definition": "与越界行为直接相关的后果，让孩子承担以学习责任，而非无关的惩罚。",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a010",
+        "s-6b4f071bc2e1-c001:a012",
+        "s-6b4f071bc2e1-c001:a013"
+      ]
+    },
+    {
+      "name": "父母自我反思",
+      "definition": "父母将焦点从孩子的问题行为转移到自己身上，反思自己的行为如何影响孩子，并改变自己以帮助孩子。",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a006",
+        "s-6b4f071bc2e1-c001:a007",
+        "s-6b4f071bc2e1-c001:a008"
+      ]
+    },
+    {
+      "name": "选择权与责任",
+      "definition": "界限赋予孩子选择权，不同选择带来不同后果，从而教导孩子为自己的行为负责。",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a005",
+        "s-6b4f071bc2e1-c001:a010"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-6b4f071bc2e1-c001:a001",
+      "target": "s-6b4f071bc2e1-c001:a002",
+      "kind": "step_of",
+      "condition": "父母明确自己的界限后，需要让孩子知道这些期望。",
+      "reason": "a001强调父母明确界限，a002强调让孩子知道期望，两者是立界限过程中的先后步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:a001",
+      "target": "s-6b4f071bc2e1-c001:a003",
+      "kind": "supports",
+      "condition": "列出界限清单的目的是控制自己而非控制孩子。",
+      "reason": "a003解释了a001中列出界限清单的目的，支持父母明确界限的做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:a004",
+      "target": "s-6b4f071bc2e1-c001:a001",
+      "kind": "contrasts",
+      "condition": "父母因忙碌或忽视而未坚持界限，与明确且稳定的界限形成对比。",
+      "reason": "a004描述界限缺乏持续性的反面情况，与a001强调的持续稳定界限形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:a005",
+      "target": "s-6b4f071bc2e1-c001:a010",
+      "kind": "supports",
+      "condition": "选择权带来后果，自然后果是后果的一种形式。",
+      "reason": "有界限意味着孩子选择不同行为会带来不同后果，这支持让孩子承担越界的自然后果，因为自然后果就是与行为直接相关的后果，是教导责任的具体方式。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:a007",
+      "target": "s-6b4f071bc2e1-c001:a006",
+      "kind": "example_of",
+      "condition": "母亲未及时干预孩子不尊重行为，是父母需要自我反思的案例。",
+      "reason": "孩子不尊重母亲而母亲未及时干预的案例展示了父母将焦点从孩子转移到自己身上进行自我反思的具体情境。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向已修正：案例应作为概念的例子。"
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:a006",
+      "target": "s-6b4f071bc2e1-c001:a008",
+      "kind": "causes",
+      "condition": "父母自我反思并改变自己，会以身作则影响孩子。",
+      "reason": "a008 说明父母将焦点转移到自己身上并捍卫界限后，孩子会学习，是 a006 反思行为的结果。"
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:a009",
+      "target": "s-6b4f071bc2e1-c001:a008",
+      "kind": "contrasts",
+      "condition": "父母自身行为不当却期望孩子尊重，与父母以身作则形成对比。",
+      "reason": "父母自身行为不当却期望孩子尊重与父母以身作则影响孩子形成对比，突显以身作则的重要性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:a010",
+      "target": "s-6b4f071bc2e1-c001:a011",
+      "kind": "contrasts",
+      "condition": "自然后果与无关后果的惩罚形成对比。",
+      "reason": "让孩子承担越界的自然后果强调后果与行为直接相关，而使用无关后果的惩罚则无法帮助孩子认识到行为问题，两者形成有效与无效的对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:a012",
+      "target": "s-6b4f071bc2e1-c001:a010",
+      "kind": "example_of",
+      "condition": "孩子偷东西的假设案例是让孩子承担自然后果的例子。",
+      "reason": "重庆讲座中关于孩子偷东西的假设案例具体展示了让孩子承担越界的自然后果的实施方式。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:a013",
+      "target": "s-6b4f071bc2e1-c001:a010",
+      "kind": "supports",
+      "condition": "尽早让孩子承担自然后果能促进负责任，支持自然后果的运用。",
+      "reason": "承受自然后果促进孩子负责任的说法为让孩子承担越界的自然后果提供了理由，因为这种后果能有效教导责任。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:v2-n001",
+      "target": "s-6b4f071bc2e1-c001:a013",
+      "kind": "complements",
+      "condition": "普遍适用",
+      "reason": "a013 补充了让孩子承受自然后果的正面益处（负责任、尊重界限），而 source 仅指出不愿承受的阻碍，两者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:a013",
+      "target": "s-6b4f071bc2e1-c001:v2-n001",
+      "kind": "complements",
+      "condition": "普遍适用",
+      "reason": "a013 补充了让孩子承受自然后果的正面益处（负责任、尊重界限），而 source 仅指出不愿承受的阻碍，两者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:v2-n001",
+      "target": "s-6b4f071bc2e1-c001:a010",
+      "kind": "complements",
+      "condition": "普遍适用",
+      "reason": "a010 具体补充了如何让孩子承担越界的自然后果（如考试没考好多做试卷），弥补 source 缺乏具体做法的问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:a010",
+      "target": "s-6b4f071bc2e1-c001:v2-n001",
+      "kind": "complements",
+      "condition": "普遍适用",
+      "reason": "a010 具体补充了如何让孩子承担越界的自然后果（如考试没考好多做试卷），弥补 source 缺乏具体做法的问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:v2-n001",
+      "target": "s-6b4f071bc2e1-c001:a004",
+      "kind": "association",
+      "condition": "不同原因：source 觉得孩子承受不起，target 因忙碌忽视",
+      "reason": "两者都是父母未给出后果的反模式，但原因不同，无直接因果，仅同属问题行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:a004",
+      "target": "s-6b4f071bc2e1-c001:v2-n001",
+      "kind": "association",
+      "condition": "不同原因：source 觉得孩子承受不起，target 因忙碌忽视",
+      "reason": "两者都是父母未给出后果的反模式，但原因不同，无直接因果，仅同属问题行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:v2-n001",
+      "target": "s-6b4f071bc2e1-c001:a011",
+      "kind": "association",
+      "condition": "不同错误类型：source 缺失后果，target 使用无关后果",
+      "reason": "均涉及后果教育的问题，但一个是缺失，一个是错误使用，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:a011",
+      "target": "s-6b4f071bc2e1-c001:v2-n001",
+      "kind": "association",
+      "condition": "不同错误类型：source 缺失后果，target 使用无关后果",
+      "reason": "均涉及后果教育的问题，但一个是缺失，一个是错误使用，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:v2-n001",
+      "target": "s-6b4f071bc2e1-c001:a007",
+      "kind": "association",
+      "condition": "不同场景：source 一般不愿承受，target 具体母亲打麻将忽视",
+      "reason": "两者都涉及父母未及时给出后果，但具体情形不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:a007",
+      "target": "s-6b4f071bc2e1-c001:v2-n001",
+      "kind": "association",
+      "condition": "不同场景：source 一般不愿承受，target 具体母亲打麻将忽视",
+      "reason": "两者都涉及父母未及时给出后果，但具体情形不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:v2-n001",
+      "target": "s-6b4f071bc2e1-c001:a012",
+      "kind": "association",
+      "condition": "source 是心态，target 是具体假设案例",
+      "reason": "target 展示了让孩子承受后果的极端例子，与 source 不愿承受形成对照，但无直接因果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6b4f071bc2e1-c001:a012",
+      "target": "s-6b4f071bc2e1-c001:v2-n001",
+      "kind": "association",
+      "condition": "source 是心态，target 是具体假设案例",
+      "reason": "target 展示了让孩子承受后果的极端例子，与 source 不愿承受形成对照，但无直接因果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "父母明确界限后，需要让孩子知道期望并实施自然后果。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a001",
+        "s-6b4f071bc2e1-c001:a002",
+        "s-6b4f071bc2e1-c001:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "界限",
+      "when": "父母通过自我反思和以身作则，才能有效设立和捍卫界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a006",
+        "s-6b4f071bc2e1-c001:a008",
+        "s-6b4f071bc2e1-c001:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a012",
+        "s-6b4f071bc2e1-c001:a013"
+      ],
+      "description": "a012 建议让孩子在监狱中待一两天承受自然后果，但未明确年龄适用范围；a013 提到“在孩子年龄可承受的范围内”，两者可能存在适用范围不一致。",
+      "needed_evidence": "需要明确不同年龄段孩子可承受的自然后果类型和程度，以及法律对未成年人司法处置的规定。"
+    }
+  ],
+  "path": [
+    {
+      "name": "为孩子立界限的方法",
+      "steps": [
+        {
+          "action": "父母明确自己的界限",
+          "atom_ids": [
+            "s-6b4f071bc2e1-c001:a001"
+          ],
+          "condition": "父母需清楚自己在原则、价值观和底线上的立场。"
+        },
+        {
+          "action": "让孩子知道父母的期望",
+          "atom_ids": [
+            "s-6b4f071bc2e1-c001:a002"
+          ],
+          "condition": "明确可接受和不可接受的行为。"
+        },
+        {
+          "action": "父母自我反思并改变自己",
+          "atom_ids": [
+            "s-6b4f071bc2e1-c001:a006",
+            "s-6b4f071bc2e1-c001:a008"
+          ],
+          "condition": "将焦点从孩子转移到自己身上，以身作则。"
+        },
+        {
+          "action": "让孩子承担自然后果",
+          "atom_ids": [
+            "s-6b4f071bc2e1-c001:a010",
+            "s-6b4f071bc2e1-c001:a013"
+          ],
+          "condition": "后果与行为直接相关，且在孩子年龄可承受范围内。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-6b4f071bc2e1-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a001"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-6b4f071bc2e1-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a002"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-6b4f071bc2e1-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a003"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-6b4f071bc2e1-c001:u004",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a004"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-6b4f071bc2e1-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a005"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-6b4f071bc2e1-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a006"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-6b4f071bc2e1-c001:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a007"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-6b4f071bc2e1-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a008"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-6b4f071bc2e1-c001:u009",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a009"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-6b4f071bc2e1-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a010"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-6b4f071bc2e1-c001:u011",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a011"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-6b4f071bc2e1-c001:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a012"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-6b4f071bc2e1-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:a013"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-6b4f071bc2e1-c001:u014",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "父母不愿让孩子承受应承担的后果",
+      "atom_ids": [
+        "s-6b4f071bc2e1-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-6b4f071bc2e1",
+          "blocks": [
+            "b00006"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "counterexample"
+    }
+  ]
+}

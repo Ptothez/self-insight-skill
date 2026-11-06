@@ -1,0 +1,3051 @@
+{
+  "concepts": [
+    {
+      "name": "幼儿无道德意识",
+      "definition": "21个月到三岁的孩子没有道德意识，不能通过讲道理要求分享或认为其行为不尊重。",
+      "atom_ids": [
+        "s-5c190f739775-c001:a001",
+        "s-5c190f739775-c002:a021",
+        "s-5c190f739775-c002:a023"
+      ]
+    },
+    {
+      "name": "分享与安全感",
+      "definition": "不愿分享源于匮乏感、不安全感或对物品的依恋；孩子需要知道自己的东西安全且有掌控权才会愿意分享。",
+      "atom_ids": [
+        "s-5c190f739775-c001:a002",
+        "s-5c190f739775-c001:a004",
+        "s-5c190f739775-c002:a017",
+        "s-5c190f739775-c002:a015"
+      ]
+    },
+    {
+      "name": "交换代替分享",
+      "definition": "对幼儿不直接教分享，而是教用交换获得想要的东西，并让孩子知道对自己的东西有主导权。",
+      "atom_ids": [
+        "s-5c190f739775-c001:a003",
+        "s-5c190f739775-c001:a008"
+      ]
+    },
+    {
+      "name": "双赢智慧",
+      "definition": "通过交换实现双方各得所需，共赢能力是分享的动机，应在生活中灌输双赢智慧。",
+      "atom_ids": [
+        "s-5c190f739775-c001:a007",
+        "s-5c190f739775-c001:a009",
+        "s-5c190f739775-c001:a010"
+      ]
+    },
+    {
+      "name": "家长承认不完美并赋权",
+      "definition": "家长表达自己的需要和感受，承认自己不是100%正确，让孩子知道有正当需要时有力量改变家长的决定。",
+      "atom_ids": [
+        "s-5c190f739775-c001:a012"
+      ]
+    },
+    {
+      "name": "作业分解与时间管理",
+      "definition": "将大量作业分解成小碎片，分散完成；用视觉化日程表调配时间，夸大放松时间以减轻压力感。",
+      "atom_ids": [
+        "s-5c190f739775-c001:a015",
+        "s-5c190f739775-c001:a016",
+        "s-5c190f739775-c001:a017",
+        "s-5c190f739775-c001:a018"
+      ]
+    },
+    {
+      "name": "专业辅导建议",
+      "definition": "当孩子学习压力大且家长难以应对时，建议寻求专业辅导。",
+      "atom_ids": [
+        "s-5c190f739775-c001:a019"
+      ]
+    },
+    {
+      "name": "性教育沟通",
+      "definition": "与孩子谈性时表达不舒服需解释深层原因，不能只扔下一句话就走。",
+      "atom_ids": [
+        "s-5c190f739775-c001:a020"
+      ]
+    },
+    {
+      "name": "幼儿发脾气与界限",
+      "definition": "21个月孩子发脾气正常，但需训练根据后果做决定；提前预警食物快吃完，摔碗前抓住手告知后果，执行后果并允许哭。",
+      "atom_ids": [
+        "s-5c190f739775-c001:a024",
+        "s-5c190f739775-c001:a025",
+        "s-5c190f739775-c001:a026",
+        "s-5c190f739775-c001:a028",
+        "s-5c190f739775-c001:a030"
+      ]
+    },
+    {
+      "name": "作业自主与后果",
+      "definition": "作业是孩子自己的事，家长不陪写；不自律时给后果，不讲道理；孩子藏手机仍执行后果。",
+      "atom_ids": [
+        "s-5c190f739775-c001:a035",
+        "s-5c190f739775-c001:a037",
+        "s-5c190f739775-c001:a038",
+        "s-5c190f739775-c002:a001",
+        "s-5c190f739775-c002:a002",
+        "s-5c190f739775-c002:a003"
+      ]
+    },
+    {
+      "name": "手机管理与自由后果",
+      "definition": "孩子藏手机时给出一分钟期限，否则三天没有手机；因玩手机未完成作业则失去独自在家的自由；自由是隐性奖励，失去自由是自然后果。",
+      "atom_ids": [
+        "s-5c190f739775-c002:a004",
+        "s-5c190f739775-c002:a005",
+        "s-5c190f739775-c002:a006",
+        "s-5c190f739775-c002:a007"
+      ]
+    },
+    {
+      "name": "信任与自由",
+      "definition": "父母给予自由基于信任，发现孩子不值得信任时收回自由；一周观察期检查作业，根据未完成天数决定失去自由时长，但失去自由不能永久。",
+      "atom_ids": [
+        "s-5c190f739775-c002:a007",
+        "s-5c190f739775-c002:a008",
+        "s-5c190f739775-c002:a011",
+        "s-5c190f739775-c002:a012"
+      ]
+    },
+    {
+      "name": "力量感与选择",
+      "definition": "九岁孩子需要力量感，父母应告诉孩子他有力量做出好的选择，选择权在他手中；给予力量感让孩子珍惜自由。",
+      "atom_ids": [
+        "s-5c190f739775-c002:a009",
+        "s-5c190f739775-c002:a010",
+        "s-5c190f739775-c002:a013"
+      ]
+    },
+    {
+      "name": "玩具被抢与保护",
+      "definition": "孩子玩具被抢后父母未处理会留下阴影，父母应共情并承诺保护玩具，让孩子知道自己的东西安全才会分享；与素质不好的人接触时父母要参与保护。",
+      "atom_ids": [
+        "s-5c190f739775-c002:a014",
+        "s-5c190f739775-c002:a015",
+        "s-5c190f739775-c002:a016",
+        "s-5c190f739775-c002:a017",
+        "s-5c190f739775-c002:a018",
+        "s-5c190f739775-c002:a019"
+      ]
+    },
+    {
+      "name": "爷爷过激反应与保护",
+      "definition": "三岁孩子没有道德观念，爷爷过激反应会伤害孩子，母亲必须保护孩子，与爷爷立界限，不让爸爸去说，不让孩子吼回去。",
+      "atom_ids": [
+        "s-5c190f739775-c002:a020",
+        "s-5c190f739775-c002:a021",
+        "s-5c190f739775-c002:a022",
+        "s-5c190f739775-c002:a024",
+        "s-5c190f739775-c002:a025",
+        "s-5c190f739775-c002:a026",
+        "s-5c190f739775-c002:a027",
+        "s-5c190f739775-c002:r002"
+      ]
+    },
+    {
+      "name": "管教权与报警",
+      "definition": "父母有管教孩子的唯一权利，其他人不可惩罚或管教；若有人打孩子，父母可警告报警。",
+      "atom_ids": [
+        "s-5c190f739775-c002:a028",
+        "s-5c190f739775-c002:a029",
+        "s-5c190f739775-c002:a030",
+        "s-5c190f739775-c002:a031"
+      ]
+    },
+    {
+      "name": "保护孩子的警告步骤",
+      "definition": "保护孩子时，第一次冷静警告，第二次冷静警告，第三次说明后果。",
+      "atom_ids": [
+        "s-5c190f739775-c002:a033"
+      ]
+    },
+    {
+      "name": "背热包的处理方法",
+      "definition": "孩子自己选择背热包后想让人帮忙，可继续背、帮背五分钟或帮背但收钱；根据次数决定是否给恩典。",
+      "atom_ids": [
+        "s-5c190f739775-c002:a034",
+        "s-5c190f739775-c002:a035",
+        "s-5c190f739775-c002:a036"
+      ]
+    },
+    {
+      "name": "完美主义与自卑",
+      "definition": "完美主义妈妈导致孩子自卑和过高要求，失败归因于自己不行；不建议承诺一对一补课，已做承诺不要反悔。",
+      "atom_ids": [
+        "s-5c190f739775-c002:a037",
+        "s-5c190f739775-c002:a038",
+        "s-5c190f739775-c002:a039",
+        "s-5c190f739775-c002:a040",
+        "s-5c190f739775-c002:a041",
+        "s-5c190f739775-c002:a042",
+        "s-5c190f739775-c002:a043",
+        "s-5c190f739775-c002:a044"
+      ]
+    },
+    {
+      "name": "急躁与专注力",
+      "definition": "性格急躁影响专注力，需要阅历沉淀；可用录音帮助吸收知识；父母要帮助和等待。",
+      "atom_ids": [
+        "s-5c190f739775-c002:a045",
+        "s-5c190f739775-c002:a046",
+        "s-5c190f739775-c002:a047",
+        "s-5c190f739775-c003:a001",
+        "s-5c190f739775-c003:a002",
+        "s-5c190f739775-c003:r001"
+      ]
+    },
+    {
+      "name": "发展节奏比喻",
+      "definition": "孩子发展节奏不同，有些需要吃够苦头才能明白道理，父母有时要愿意让孩子吃苦头。",
+      "atom_ids": [
+        "s-5c190f739775-c003:a003"
+      ]
+    },
+    {
+      "name": "情绪连接缺失",
+      "definition": "五岁半男孩因早期缺乏情绪连接导致不开心，现在只能以当前状态做好情绪连接。",
+      "atom_ids": [
+        "s-5c190f739775-c003:a004"
+      ]
+    },
+    {
+      "name": "正向指示与负向指示",
+      "definition": "正向指示告诉孩子可以做什么，负向指示否定孩子能力，会引发逆反；父母应避免触发孩子怒气。",
+      "atom_ids": [
+        "s-5c190f739775-c003:a005",
+        "s-5c190f739775-c003:a006",
+        "s-5c190f739775-c003:a007",
+        "s-5c190f739775-c003:r002"
+      ]
+    },
+    {
+      "name": "威胁式养育",
+      "definition": "父母不断用威胁让孩子服从，孩子学会只有威胁时才听话；应只说一次并执行后果，让孩子体验不舒服。",
+      "atom_ids": [
+        "s-5c190f739775-c003:a008",
+        "s-5c190f739775-c003:a009",
+        "s-5c190f739775-c003:a010",
+        "s-5c190f739775-c003:a011",
+        "s-5c190f739775-c003:a012"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-5c190f739775-c001:a001",
+      "target": "s-5c190f739775-c001:a003",
+      "kind": "prerequisite",
+      "condition": "孩子年龄约21个月，尚无道德意识",
+      "reason": "因为孩子没有道德意识，所以不能讲道理要求分享，而要用交换代替分享。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a002",
+      "target": "s-5c190f739775-c001:a003",
+      "kind": "causes",
+      "condition": "孩子不愿分享源于匮乏感和不安全感",
+      "reason": "因为孩子觉得自己的东西不安全，所以需要先让他知道对自己的东西有绝对主导权，再用交换引导。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a004",
+      "target": "s-5c190f739775-c001:a003",
+      "kind": "supports",
+      "condition": "幼儿不理解物品会归还，对物品有强烈依恋",
+      "reason": "幼儿对物品的依恋支持了不直接教分享，而是先建立主导权再交换的做法。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a003",
+      "target": "s-5c190f739775-c001:a008",
+      "kind": "step_of",
+      "condition": "当孩子想玩别人的东西时",
+      "reason": "a003 提出用交换代替分享，a008 具体说明如何操作：拿东西去交换或先分享自己的东西。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a008",
+      "target": "s-5c190f739775-c001:a009",
+      "kind": "example_of",
+      "condition": "交换实现双赢",
+      "reason": "a008 的交换方法体现了 a009 的双赢概念。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a009",
+      "target": "s-5c190f739775-c001:a010",
+      "kind": "supports",
+      "condition": "双赢智慧应在生活中灌输",
+      "reason": "a009 说明双赢的具体例子，a010 强调在生活中灌输双赢智慧。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a007",
+      "target": "s-5c190f739775-c001:a010",
+      "kind": "supports",
+      "condition": "共赢能力是分享的动机",
+      "reason": "a007 指出共赢能力是重要刚需，a010 强调灌输双赢智慧。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a011",
+      "target": "s-5c190f739775-c001:a012",
+      "kind": "example_of",
+      "condition": "12岁男孩学习压力案例中家长的做法",
+      "reason": "a011 案例中家长承认不完美并赋权，是 a012 原则的应用。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a013",
+      "target": "s-5c190f739775-c001:a014",
+      "kind": "association",
+      "condition": "孩子用电子产品逃避压力",
+      "reason": "案例涉及孩子用电子产品逃避压力和家长打算给放松一天，概念指出单纯放松无法解决根源；但案例未展示放松结果，不能证明该结论，两者仅议题相关。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 不成立，改为 association。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a014",
+      "target": "s-5c190f739775-c001:a015",
+      "kind": "prerequisite",
+      "condition": "根本问题在于时间调配",
+      "reason": "a014 指出根本问题是时间调配，a015 提出将作业分解为小碎片来应对。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a015",
+      "target": "s-5c190f739775-c001:a016",
+      "kind": "step_of",
+      "condition": "作业量大导致压力",
+      "reason": "a015 提出分解作业，a016 进一步建议用视觉化日程表调配时间。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a016",
+      "target": "s-5c190f739775-c001:a017",
+      "kind": "step_of",
+      "condition": "视觉化日程表",
+      "reason": "a016 建议用颜色标识，a017 具体说明如何夸大放松时间。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a017",
+      "target": "s-5c190f739775-c001:a018",
+      "kind": "supports",
+      "condition": "分散作业时间并保持玩耍整块时间",
+      "reason": "a017 的视觉技巧与 a018 的时间分配方法共同减轻压力。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a019",
+      "target": "s-5c190f739775-c001:a011",
+      "kind": "applies_to",
+      "condition": "孩子学习压力大，家长难以应对",
+      "reason": "a019 建议寻求专业辅导，适用于 a011 的案例。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a020",
+      "target": "s-5c190f739775-c001:a012",
+      "kind": "supports",
+      "condition": "沟通中表达感受并解释原因",
+      "reason": "a020 在性教育中强调表达不舒服需解释原因，与 a012 的沟通原则一致。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a021",
+      "target": "s-5c190f739775-c001:a022",
+      "kind": "causes",
+      "condition": "21个月男孩吃完东西摔碗",
+      "reason": "a021 案例引发 a022 对可能原因的讨论。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a022",
+      "target": "s-5c190f739775-c001:a023",
+      "kind": "contrasts",
+      "condition": "摔碗可能提示情绪或发育问题，但更可能是被宠溺",
+      "reason": "a022 提出病态可能，a023 提出被宠溺的可能，两者是不同解释。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a023",
+      "target": "s-5c190f739775-c001:a024",
+      "kind": "contrasts",
+      "condition": "被宠溺导致无法忍受物品用完 vs 21个月发脾气正常",
+      "reason": "a023 认为可能与被宠溺有关，a024 认为21个月发脾气正常，两者观点不同。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a024",
+      "target": "s-5c190f739775-c001:a025",
+      "kind": "supports",
+      "condition": "21个月发脾气正常，但可预防",
+      "reason": "a024 认为发脾气正常，a025 提供预防方法。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a025",
+      "target": "s-5c190f739775-c001:a026",
+      "kind": "step_of",
+      "condition": "预防发脾气和摔碗",
+      "reason": "a025 提前预警食物快吃完，a026 在摔碗前抓住手告知后果。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a026",
+      "target": "s-5c190f739775-c001:a027",
+      "kind": "supports",
+      "condition": "21个月孩子能听懂但未必能做到",
+      "reason": "a026 告知后果后放开手让孩子选择，a027 说明孩子可能仍选择摔碗。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a027",
+      "target": "s-5c190f739775-c001:a028",
+      "kind": "prerequisite",
+      "condition": "孩子可能选择摔碗",
+      "reason": "a027 指出孩子可能摔碗，a028 说明摔碗后执行后果。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a028",
+      "target": "s-5c190f739775-c001:a030",
+      "kind": "step_of",
+      "condition": "执行后果并训练",
+      "reason": "a028 执行后果，a030 强调从小训练根据后果做决定。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a029",
+      "target": "s-5c190f739775-c001:a030",
+      "kind": "prerequisite",
+      "condition": "21个月进入可怕的两岁阶段",
+      "reason": "a029 指出需要开始训练，a030 提供训练方法。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a030",
+      "target": "s-5c190f739775-c001:a031",
+      "kind": "example_of",
+      "condition": "五岁半孩子能正确选择",
+      "reason": "a031 案例是 a030 训练成果的体现。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a030",
+      "target": "s-5c190f739775-c001:a032",
+      "kind": "causes",
+      "condition": "从小训练自控力",
+      "reason": "a030 的训练带来 a032 的长期好处。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a033",
+      "target": "s-5c190f739775-c001:a034",
+      "kind": "association",
+      "condition": "孩子被看着写作业与无人看管时的失控",
+      "reason": "案例涉及孩子假期无人看管写作业不自律，概念解释被看着写作业导致越狱快感；但案例未明确体现越狱快感，不能确定为概念的例子，仅议题相关。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 不成立，改为 association。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a034",
+      "target": "s-5c190f739775-c001:a035",
+      "kind": "prerequisite",
+      "condition": "被看着写作业导致越狱快感",
+      "reason": "a034 指出问题，a035 提出家长不陪写作业。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a035",
+      "target": "s-5c190f739775-c001:a036",
+      "kind": "example_of",
+      "condition": "讲师孩子第一天上学不陪写作业",
+      "reason": "a036 案例是 a035 原则的实践。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a035",
+      "target": "s-5c190f739775-c001:a037",
+      "kind": "step_of",
+      "condition": "孩子不自律时",
+      "reason": "a035 提出不陪写，a037 进一步说明不自律时给后果不讲道理。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a037",
+      "target": "s-5c190f739775-c001:a038",
+      "kind": "step_of",
+      "condition": "孩子藏手机时",
+      "reason": "a037 一般原则，a038 具体到藏手机仍执行后果。"
+    },
+    {
+      "source": "s-5c190f739775-c001:a038",
+      "target": "s-5c190f739775-c002:a004",
+      "kind": "step_of",
+      "condition": "孩子藏手机不展示屏幕时间",
+      "reason": "a038 强调执行后果，c002:a004 给出具体后果：限时一分钟拿出手机，否则三天没有手机。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a001",
+      "target": "s-5c190f739775-c002:a002",
+      "kind": "supports",
+      "condition": "写作业是孩子自己的事",
+      "reason": "孩子的事务归属原则支持不陪孩子写作业的具体做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5c190f739775-c002:a002",
+      "target": "s-5c190f739775-c002:a003",
+      "kind": "association",
+      "condition": "孩子不自律时",
+      "reason": "不陪孩子写作业和用后果代替讲道理都是处理孩子作业自律问题的策略，但两者不构成步骤关系，并列存在。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不成立，改为 association。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a003",
+      "target": "s-5c190f739775-c002:a004",
+      "kind": "step_of",
+      "condition": "孩子藏手机",
+      "reason": "c002:a003 一般原则，c002:a004 具体后果。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a004",
+      "target": "s-5c190f739775-c002:a005",
+      "kind": "step_of",
+      "condition": "孩子因玩手机未完成作业",
+      "reason": "c002:a004 手机管理，c002:a005 失去自由作为后果。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a005",
+      "target": "s-5c190f739775-c002:a006",
+      "kind": "supports",
+      "condition": "自由作为隐性奖励",
+      "reason": "c002:a005 失去自由，c002:a006 解释自由是隐性奖励。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a006",
+      "target": "s-5c190f739775-c002:a007",
+      "kind": "supports",
+      "condition": "信任与自由的关联",
+      "reason": "c002:a006 自由是奖励，c002:a007 基于信任给予自由。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a007",
+      "target": "s-5c190f739775-c002:a008",
+      "kind": "step_of",
+      "condition": "孩子需要重新获得信任",
+      "reason": "c002:a007 收回自由，c002:a008 一周观察期。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a008",
+      "target": "s-5c190f739775-c002:a011",
+      "kind": "step_of",
+      "condition": "一周观察期内",
+      "reason": "c002:a008 检查作业，c002:a011 根据未完成天数决定失去自由时长。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a011",
+      "target": "s-5c190f739775-c002:a012",
+      "kind": "supports",
+      "condition": "失去自由不能永久",
+      "reason": "c002:a011 决定时长，c002:a012 强调不能永久。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a009",
+      "target": "s-5c190f739775-c002:a010",
+      "kind": "supports",
+      "condition": "九岁孩子需要力量感",
+      "reason": "c002:a009 让孩子选择，c002:a010 说明力量感。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a010",
+      "target": "s-5c190f739775-c002:a013",
+      "kind": "causes",
+      "condition": "给予力量感",
+      "reason": "c002:a010 力量感，c002:a013 珍惜自由。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a014",
+      "target": "s-5c190f739775-c002:a015",
+      "kind": "example_of",
+      "condition": "孩子玩具被抢后父母未处理",
+      "reason": "小m玩具被抢后不愿分享、推人、哭闹的行为，是玩具被抢未处理导致阴影概念的一个例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 改为 example_of。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a015",
+      "target": "s-5c190f739775-c002:a016",
+      "kind": "prerequisite",
+      "condition": "孩子有阴影",
+      "reason": "c002:a015 阴影，c002:a016 承诺保护。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a016",
+      "target": "s-5c190f739775-c002:a017",
+      "kind": "supports",
+      "condition": "孩子需要知道自己的东西安全",
+      "reason": "c002:a016 承诺保护，c002:a017 安全感才会分享。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a017",
+      "target": "s-5c190f739775-c002:a018",
+      "kind": "step_of",
+      "condition": "先让孩子放心再谈分享",
+      "reason": "c002:a017 安全感，c002:a018 具体步骤。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a018",
+      "target": "s-5c190f739775-c002:a019",
+      "kind": "supports",
+      "condition": "与素质不好的人接触时父母要保护",
+      "reason": "c002:a018 保护玩具，c002:a019 社交保护。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a020",
+      "target": "s-5c190f739775-c002:a021",
+      "kind": "example_of",
+      "condition": "三岁孩子没有道德观念",
+      "reason": "三岁女儿对爷爷做踢的动作，是“三岁孩子没有道德观念”概念的一个例证，行为不能简单归为不尊重。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 prerequisite 改为 example_of。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a021",
+      "target": "s-5c190f739775-c002:a022",
+      "kind": "supports",
+      "condition": "当母亲向爷爷解释孩子没有道德观念时",
+      "reason": "三岁孩子没有道德观念的概念支持母亲保护孩子时让爷爷知道孩子并非不尊重的做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 prerequisite 不成立，改为 supports 因为概念是保护行动中解释内容的基础。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a022",
+      "target": "s-5c190f739775-c002:a024",
+      "kind": "association",
+      "condition": "处理爷爷过激反应的相关措施",
+      "reason": "保护孩子免受爷爷过激反应和与爷爷立界限都针对爷爷吼孩子的问题，但前者是即时保护，后者是后续立界限，不能确认步骤顺序。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不成立，改为 association。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a024",
+      "target": "s-5c190f739775-c002:a025",
+      "kind": "step_of",
+      "condition": "当母亲需要与爷爷立界限并沟通时",
+      "reason": "不要让孩子爸爸去跟爷爷说而是母亲自己去说，是与爷爷立界限中沟通步骤的具体执行方式。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a025",
+      "target": "s-5c190f739775-c002:a026",
+      "kind": "step_of",
+      "condition": "与丈夫沟通",
+      "reason": "c002:a025 母亲去说，c002:a026 与丈夫沟通。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a026",
+      "target": "s-5c190f739775-c002:a027",
+      "kind": "association",
+      "condition": "处理爷爷吼孩子问题的两个相关措施",
+      "reason": "与丈夫沟通爷爷问题和不让孩子用同样方式吼回去都是针对爷爷吼孩子问题的措施，但两者不是前后步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不成立，改为 association。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a028",
+      "target": "s-5c190f739775-c002:a029",
+      "kind": "supports",
+      "condition": "当公公试图惩罚或管教孩子时",
+      "reason": "讲师公公要打孩子时讲师声明父母有唯一管教权，这个案例支持父母有管教孩子的唯一权利的原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a029",
+      "target": "s-5c190f739775-c002:a030",
+      "kind": "step_of",
+      "condition": "警告打孩子的后果",
+      "reason": "c002:a029 管教权，c002:a030 报警警告。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a030",
+      "target": "s-5c190f739775-c002:a031",
+      "kind": "supports",
+      "condition": "丈夫支持妻子立场",
+      "reason": "c002:a030 警告，c002:a031 丈夫支持。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a032",
+      "target": "s-5c190f739775-c002:a022",
+      "kind": "supports",
+      "condition": "保护孩子建立信任",
+      "reason": "c002:a032 不保护失去信任，c002:a022 保护孩子。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a033",
+      "target": "s-5c190f739775-c002:a022",
+      "kind": "step_of",
+      "condition": "保护孩子的警告步骤",
+      "reason": "c002:a033 警告步骤，c002:a022 保护行动。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a034",
+      "target": "s-5c190f739775-c002:a035",
+      "kind": "example_of",
+      "condition": "孩子背热包后想让人帮忙的情境",
+      "reason": "孩子背热包出门的案例是处理孩子背热包的多种方法所针对情境的具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a035",
+      "target": "s-5c190f739775-c002:a036",
+      "kind": "step_of",
+      "condition": "当选择根据次数给不同响应时",
+      "reason": "根据次数决定是否给恩典是处理孩子背热包的多种方法中灵活选择的具体细化原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a037",
+      "target": "s-5c190f739775-c002:a038",
+      "kind": "causes",
+      "condition": "完美主义妈妈",
+      "reason": "c002:a037 案例，c002:a038 解释自卑和过高要求由父母造成。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a038",
+      "target": "s-5c190f739775-c002:a039",
+      "kind": "supports",
+      "condition": "失败归因于自己不行",
+      "reason": "c002:a038 自卑，c002:a039 归因。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a040",
+      "target": "s-5c190f739775-c002:a041",
+      "kind": "contrasts",
+      "condition": "妈妈承诺一对一补课",
+      "reason": "c002:a040 承诺，c002:a041 不建议承诺。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a041",
+      "target": "s-5c190f739775-c002:a042",
+      "kind": "supports",
+      "condition": "父母动作传递信息",
+      "reason": "c002:a041 信息传递，c002:a042 原则。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a042",
+      "target": "s-5c190f739775-c002:a043",
+      "kind": "step_of",
+      "condition": "已做承诺不要反悔",
+      "reason": "c002:a042 信息传递，c002:a043 承诺执行。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a043",
+      "target": "s-5c190f739775-c002:a044",
+      "kind": "supports",
+      "condition": "回学校还是继续一对一",
+      "reason": "c002:a043 承诺，c002:a044 选择无所谓。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a045",
+      "target": "s-5c190f739775-c002:a046",
+      "kind": "example_of",
+      "condition": "十岁女孩表现出急躁、专注力不好",
+      "reason": "十岁女孩急于求成、烦躁、专注力不好，是帮助急躁孩子提高专注力方法所针对情况的例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 prerequisite 不成立，改为 example_of。"
+    },
+    {
+      "source": "s-5c190f739775-c002:a046",
+      "target": "s-5c190f739775-c002:a047",
+      "kind": "association",
+      "condition": "针对性格急躁孩子的不同方面",
+      "reason": "帮助急躁孩子提高专注力的方法与性格急躁需要阅历沉淀都涉及急躁孩子，但前者是短期训练，后者是长期发展，不能直接支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 不成立，改为 association。"
+    },
+    {
+      "source": "s-5c190f739775-c003:a001",
+      "target": "s-5c190f739775-c003:a002",
+      "kind": "supports",
+      "condition": "急躁影响专注力",
+      "reason": "c003:a001 急躁，c003:a002 录音帮助。"
+    },
+    {
+      "source": "s-5c190f739775-c003:a002",
+      "target": "s-5c190f739775-c003:r001",
+      "kind": "step_of",
+      "condition": "帮助急躁孩子",
+      "reason": "c003:a002 录音，c003:r001 陪伴等待。"
+    },
+    {
+      "source": "s-5c190f739775-c003:a003",
+      "target": "s-5c190f739775-c003:a004",
+      "kind": "association",
+      "condition": "涉及孩子发展节奏的相关内容",
+      "reason": "草莓藤比喻孩子发展节奏与五岁半男孩情绪连接缺失案例都涉及发展阶段，但比喻不是案例的例子，两者只是主题相关。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向不当，改为 association。"
+    },
+    {
+      "source": "s-5c190f739775-c003:a005",
+      "target": "s-5c190f739775-c003:a006",
+      "kind": "supports",
+      "condition": "当理解负向指示的后果时",
+      "reason": "正向指示与负向指示的区别中提到负向指示会引发逆反，支持了负向指示引发逆反心理的陈述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 改为 supports。"
+    },
+    {
+      "source": "s-5c190f739775-c003:a006",
+      "target": "s-5c190f739775-c003:a007",
+      "kind": "prerequisite",
+      "condition": "因为负向指示会引发怒气，所以需要避免",
+      "reason": "负向指示引发逆反心理的认识是避免触发孩子怒气的前提。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-5c190f739775-c003:a008",
+      "target": "s-5c190f739775-c003:a009",
+      "kind": "example_of",
+      "condition": "妈妈用威胁让孩子洗屁股的行为",
+      "reason": "两岁八个月女孩洗屁股案例中妈妈不断用威胁，导致孩子只在威胁时听话，体现了威胁式养育训练孩子不听话的概念。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 改为 example_of。"
+    },
+    {
+      "source": "s-5c190f739775-c003:a009",
+      "target": "s-5c190f739775-c003:a010",
+      "kind": "prerequisite",
+      "condition": "因为威胁式养育导致孩子不听话",
+      "reason": "认识到威胁式养育训练孩子不听话，是采用只说一次并执行后果方法的前提。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-5c190f739775-c003:a010",
+      "target": "s-5c190f739775-c003:a011",
+      "kind": "step_of",
+      "condition": "当执行只说一次后的后果时",
+      "reason": "执行后果让孩子体验不舒服是只说一次并执行后果的具体步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-5c190f739775-c003:a011",
+      "target": "s-5c190f739775-c003:a012",
+      "kind": "association",
+      "condition": "关于执行后果与年龄界限的关联",
+      "reason": "执行后果让孩子体验不舒服与两岁八个月孩子应已懂得界限都涉及界限和后果，但前者是执行方式，后者是年龄认知，不足以支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 不成立，改为 association。"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n001",
+      "target": "s-5c190f739775-c001:a008",
+      "kind": "example_of",
+      "condition": "孩子约21个月，想拿别人的食物或玩具时",
+      "reason": "source 是具体案例：21个月男宝拿别人食物玩具，讲师建议引导交换或先分享，这正是 a008“通过交换教孩子获得想要的东西”方法的应用例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a008",
+      "target": "s-5c190f739775-c001:v2-n001",
+      "kind": "has_example",
+      "condition": "孩子约21个月，想拿别人的食物或玩具时",
+      "reason": "source 是具体案例：21个月男宝拿别人食物玩具，讲师建议引导交换或先分享，这正是 a008“通过交换教孩子获得想要的东西”方法的应用例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n001",
+      "target": "s-5c190f739775-c001:a003",
+      "kind": "example_of",
+      "condition": "孩子约21个月，想玩/拿别人的东西且无道德意识时",
+      "reason": "source 案例中讲师针对21个月孩子建议引导交换而非直接讲道理，符合 a003“用交换代替分享引导幼儿”的原则，source 可视为该原则的一个实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a003",
+      "target": "s-5c190f739775-c001:v2-n001",
+      "kind": "has_example",
+      "condition": "孩子约21个月，想玩/拿别人的东西且无道德意识时",
+      "reason": "source 案例中讲师针对21个月孩子建议引导交换而非直接讲道理，符合 a003“用交换代替分享引导幼儿”的原则，source 可视为该原则的一个实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n001",
+      "target": "s-5c190f739775-c001:v2-n005",
+      "kind": "association",
+      "condition": "同为21个月男宝，涉及社交行为但具体目标不同",
+      "reason": "source 是孩子拿别人食物玩具，v2-n005 是问无分享意识；二者都是同一阶段孩子相关但问题不同（拿别人 vs 不愿分享）的平行案例，不能混为目标，仅在主题上关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n005",
+      "target": "s-5c190f739775-c001:v2-n001",
+      "kind": "association",
+      "condition": "同为21个月男宝，涉及社交行为但具体目标不同",
+      "reason": "source 是孩子拿别人食物玩具，v2-n005 是问无分享意识；二者都是同一阶段孩子相关但问题不同（拿别人 vs 不愿分享）的平行案例，不能混为目标，仅在主题上关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n002",
+      "target": "s-5c190f739775-c001:a021",
+      "kind": "association",
+      "condition": "孩子约21个月，因物品用完瞬间发脾气且家长询问如何立界限时",
+      "reason": "source 提出“立界限前先处理情绪问题”，a021 正是21个月男孩吃完东西摔碗、家长尝试同理无效并询问如何立界限的案例，source 原则可直接适用于该案例，但 source 不是该案例的例子，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a021",
+      "target": "s-5c190f739775-c001:v2-n002",
+      "kind": "association",
+      "condition": "孩子约21个月，因物品用完瞬间发脾气且家长询问如何立界限时",
+      "reason": "source 提出“立界限前先处理情绪问题”，a021 正是21个月男孩吃完东西摔碗、家长尝试同理无效并询问如何立界限的案例，source 原则可直接适用于该案例，但 source 不是该案例的例子，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n002",
+      "target": "s-5c190f739775-c001:a024",
+      "kind": "association",
+      "condition": "孩子约21个月，瞬间发脾气时",
+      "reason": "a024 说明21个月孩子瞬间发脾气是正常的，source 据此建议先处理情绪而非立界限；两者同源但 a024 是年龄特点，source 是应对次序，无直接前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a024",
+      "target": "s-5c190f739775-c001:v2-n002",
+      "kind": "association",
+      "condition": "孩子约21个月，瞬间发脾气时",
+      "reason": "a024 说明21个月孩子瞬间发脾气是正常的，source 据此建议先处理情绪而非立界限；两者同源但 a024 是年龄特点，source 是应对次序，无直接前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n002",
+      "target": "s-5c190f739775-c001:a023",
+      "kind": "association",
+      "condition": "孩子因物品用完瞬间发脾气且可能被宠溺时",
+      "reason": "source 讲处理顺序，a023 分析可能被宠溺的成因；两者针对同一行为现象的不同侧面，未证明因果，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a023",
+      "target": "s-5c190f739775-c001:v2-n002",
+      "kind": "association",
+      "condition": "孩子因物品用完瞬间发脾气且可能被宠溺时",
+      "reason": "source 讲处理顺序，a023 分析可能被宠溺的成因；两者针对同一行为现象的不同侧面，未证明因果，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n002",
+      "target": "s-5c190f739775-c001:a022",
+      "kind": "association",
+      "condition": "孩子吃完东西发脾气摔碗且无明显刺激时",
+      "reason": "source 建议先处理情绪，a022 提示可能为情绪或发育问题；两者可同时考虑，但 source 未涉及病态评估，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a022",
+      "target": "s-5c190f739775-c001:v2-n002",
+      "kind": "association",
+      "condition": "孩子吃完东西发脾气摔碗且无明显刺激时",
+      "reason": "source 建议先处理情绪，a022 提示可能为情绪或发育问题；两者可同时考虑，但 source 未涉及病态评估，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n003",
+      "target": "s-5c190f739775-c002:a001",
+      "kind": "complements",
+      "condition": "孩子已具备一定自理/自主能力，根据年龄逐步归还事务时",
+      "reason": "source 在 c002:a001 所述“将作业、学习、睡觉、吃饭等事务归还给孩子，不代替或陪伴”基础上，补充了适用条件（孩子已具备一定自理能力）和“需根据年龄逐步归还”的限制，这是实质补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a001",
+      "target": "s-5c190f739775-c001:v2-n003",
+      "kind": "complements",
+      "condition": "孩子已具备一定自理/自主能力，根据年龄逐步归还事务时",
+      "reason": "source 在 c002:a001 所述“将作业、学习、睡觉、吃饭等事务归还给孩子，不代替或陪伴”基础上，补充了适用条件（孩子已具备一定自理能力）和“需根据年龄逐步归还”的限制，这是实质补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n003",
+      "target": "s-5c190f739775-c001:a035",
+      "kind": "complements",
+      "condition": "孩子具备一定自理能力，针对作业及其他事务逐步归还时",
+      "reason": "source 将 a035 关于作业不陪写的具体主张扩展为包括学习、睡觉、吃饭等所有孩子自己的事务，并补充了年龄限制和逐步归还原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a035",
+      "target": "s-5c190f739775-c001:v2-n003",
+      "kind": "complements",
+      "condition": "孩子具备一定自理能力，针对作业及其他事务逐步归还时",
+      "reason": "source 将 a035 关于作业不陪写的具体主张扩展为包括学习、睡觉、吃饭等所有孩子自己的事务，并补充了年龄限制和逐步归还原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n003",
+      "target": "s-5c190f739775-c002:a002",
+      "kind": "complements",
+      "condition": "孩子从上学开始可能需要逐步完成作业，且具备自理能力时",
+      "reason": "source 补充了 c002:a002 所讲不陪写作业之外的更广范围（如睡觉、吃饭）和逐步归还的年龄限制；c002:a002 本身聚焦作业且要求先解释题目，source 提供整体原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a002",
+      "target": "s-5c190f739775-c001:v2-n003",
+      "kind": "complements",
+      "condition": "孩子从上学开始可能需要逐步完成作业，且具备自理能力时",
+      "reason": "source 补充了 c002:a002 所讲不陪写作业之外的更广范围（如睡觉、吃饭）和逐步归还的年龄限制；c002:a002 本身聚焦作业且要求先解释题目，source 提供整体原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n003",
+      "target": "s-5c190f739775-c001:a036",
+      "kind": "association",
+      "condition": "孩子第一天上学，家长不陪写作业且孩子能自己完成时",
+      "reason": "a036 是讲师孩子第一天上学不陪写作业的具体案例，体现了 source“将作业归还给孩子”的原则；但 source 是概念，a036 是案例，不能定义为 example_of，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a036",
+      "target": "s-5c190f739775-c001:v2-n003",
+      "kind": "association",
+      "condition": "孩子第一天上学，家长不陪写作业且孩子能自己完成时",
+      "reason": "a036 是讲师孩子第一天上学不陪写作业的具体案例，体现了 source“将作业归还给孩子”的原则；但 source 是概念，a036 是案例，不能定义为 example_of，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n004",
+      "target": "s-5c190f739775-c001:a037",
+      "kind": "complements",
+      "condition": "孩子已有一定理解力且道理已反复讲过；不适用于幼儿尚未理解因果时",
+      "reason": "source 在 a037“不自律时给后果，不讲道理”的基础上，补充了适用条件“孩子已有一定理解力，道理已反复讲过”和限制“不适用于幼儿尚未理解因果”，这是 a037 未明确的内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a037",
+      "target": "s-5c190f739775-c001:v2-n004",
+      "kind": "complements",
+      "condition": "孩子已有一定理解力且道理已反复讲过；不适用于幼儿尚未理解因果时",
+      "reason": "source 在 a037“不自律时给后果，不讲道理”的基础上，补充了适用条件“孩子已有一定理解力，道理已反复讲过”和限制“不适用于幼儿尚未理解因果”，这是 a037 未明确的内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n004",
+      "target": "s-5c190f739775-c002:a003",
+      "kind": "complements",
+      "condition": "孩子不自律或违反约定，且道理已懂或无法理解时",
+      "reason": "source 补充了 c002:a003“用后果代替讲道理”的适用条件与限制，并更清晰地说明不讲道理的原因（能懂的道理都讲过，不能懂的道理讲了也没用）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a003",
+      "target": "s-5c190f739775-c001:v2-n004",
+      "kind": "complements",
+      "condition": "孩子不自律或违反约定，且道理已懂或无法理解时",
+      "reason": "source 补充了 c002:a003“用后果代替讲道理”的适用条件与限制，并更清晰地说明不讲道理的原因（能懂的道理都讲过，不能懂的道理讲了也没用）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n004",
+      "target": "s-5c190f739775-c001:a038",
+      "kind": "association",
+      "condition": "孩子藏手机隐瞒屏幕时间，属于不自律行为时",
+      "reason": "source 原则是“不自律时给后果不讲道理”，a038 是孩子在藏手机情形下仍要执行后果的具体应用；两者相关但 a038 是具体情境，source 是一般原则，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a038",
+      "target": "s-5c190f739775-c001:v2-n004",
+      "kind": "association",
+      "condition": "孩子藏手机隐瞒屏幕时间，属于不自律行为时",
+      "reason": "source 原则是“不自律时给后果不讲道理”，a038 是孩子在藏手机情形下仍要执行后果的具体应用；两者相关但 a038 是具体情境，source 是一般原则，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n004",
+      "target": "s-5c190f739775-c002:a004",
+      "kind": "association",
+      "condition": "孩子藏起手机不展示屏幕时间时",
+      "reason": "c002:a004 给出了具体的后果（限时拿出否则三天没有手机），是 source 原则在手机屏幕时间管理上的操作化，属于关联而非蕴含。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a004",
+      "target": "s-5c190f739775-c001:v2-n004",
+      "kind": "association",
+      "condition": "孩子藏起手机不展示屏幕时间时",
+      "reason": "c002:a004 给出了具体的后果（限时拿出否则三天没有手机），是 source 原则在手机屏幕时间管理上的操作化，属于关联而非蕴含。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n004",
+      "target": "s-5c190f739775-c001:a033",
+      "kind": "association",
+      "condition": "九岁孩子不自律、说谎、讲道理无效时",
+      "reason": "source 原则适用于 a033 案例中孩子不自律且讲道理无效的情形；source 建议直接给后果不讲道理，a033 案例正需要该策略，但 source 是原则，a033 是案例，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a033",
+      "target": "s-5c190f739775-c001:v2-n004",
+      "kind": "association",
+      "condition": "九岁孩子不自律、说谎、讲道理无效时",
+      "reason": "source 原则适用于 a033 案例中孩子不自律且讲道理无效的情形；source 建议直接给后果不讲道理，a033 案例正需要该策略，但 source 是原则，a033 是案例，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n004",
+      "target": "s-5c190f739775-c001:a030",
+      "kind": "association",
+      "condition": "从小训练孩子根据后果做决定时",
+      "reason": "a030 强调从小训练孩子做选择并承担后果，source 强调不自律时直接给后果不讲道理；两者同属后果教育，但侧重点不同（早期训练 vs 当下执行），无直接前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a030",
+      "target": "s-5c190f739775-c001:v2-n004",
+      "kind": "association",
+      "condition": "从小训练孩子根据后果做决定时",
+      "reason": "a030 强调从小训练孩子做选择并承担后果，source 强调不自律时直接给后果不讲道理；两者同属后果教育，但侧重点不同（早期训练 vs 当下执行），无直接前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n005",
+      "target": "s-5c190f739775-c001:a001",
+      "kind": "example_of",
+      "condition": "孩子约21个月，无道德意识，涉及分享问题时",
+      "reason": "source 是具体案例：21个月男宝无分享意识，讲师认为不需要主动引导分享，可通过交换和所有权安全感间接引导；这体现了 a001“21个月幼儿尚无道德意识，不能通过讲道理要求分享”的原则，source 可作为该原则的应用例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a001",
+      "target": "s-5c190f739775-c001:v2-n005",
+      "kind": "has_example",
+      "condition": "孩子约21个月，无道德意识，涉及分享问题时",
+      "reason": "source 是具体案例：21个月男宝无分享意识，讲师认为不需要主动引导分享，可通过交换和所有权安全感间接引导；这体现了 a001“21个月幼儿尚无道德意识，不能通过讲道理要求分享”的原则，source 可作为该原则的应用例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n005",
+      "target": "s-5c190f739775-c001:a003",
+      "kind": "example_of",
+      "condition": "孩子约21个月，不愿分享，想玩别人东西时用交换引导",
+      "reason": "source 案例中讲师建议通过交换和建立所有权安全感间接引导分享，符合 a003“用交换代替分享引导幼儿”的方法，source 是该原则应用于具体提问的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a003",
+      "target": "s-5c190f739775-c001:v2-n005",
+      "kind": "has_example",
+      "condition": "孩子约21个月，不愿分享，想玩别人东西时用交换引导",
+      "reason": "source 案例中讲师建议通过交换和建立所有权安全感间接引导分享，符合 a003“用交换代替分享引导幼儿”的方法，source 是该原则应用于具体提问的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n005",
+      "target": "s-5c190f739775-c001:a002",
+      "kind": "complements",
+      "condition": "孩子因匮乏感或不安全感不愿分享时",
+      "reason": "a002 解释了不愿分享的心理原因（匮乏感、不安全感、无掌控感），source 补充了应对方法：通过交换和建立所有权安全感间接引导分享，这是 a002 未涉及的操作层面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a002",
+      "target": "s-5c190f739775-c001:v2-n005",
+      "kind": "complements",
+      "condition": "孩子因匮乏感或不安全感不愿分享时",
+      "reason": "a002 解释了不愿分享的心理原因（匮乏感、不安全感、无掌控感），source 补充了应对方法：通过交换和建立所有权安全感间接引导分享，这是 a002 未涉及的操作层面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n005",
+      "target": "s-5c190f739775-c002:a017",
+      "kind": "complements",
+      "condition": "孩子需要感到自己的东西安全、有绝对掌控权时",
+      "reason": "c002:a017 阐明孩子需要知道自己的东西是安全的才会分享，source 补充了实现该安全感的具体做法（通过交换和建立所有权安全感间接引导），并指出不主动直接教分享。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a017",
+      "target": "s-5c190f739775-c001:v2-n005",
+      "kind": "complements",
+      "condition": "孩子需要感到自己的东西安全、有绝对掌控权时",
+      "reason": "c002:a017 阐明孩子需要知道自己的东西是安全的才会分享，source 补充了实现该安全感的具体做法（通过交换和建立所有权安全感间接引导），并指出不主动直接教分享。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n005",
+      "target": "s-5c190f739775-c001:v2-n001",
+      "kind": "association",
+      "condition": "同为21个月男宝，涉及社交行为但具体目标不同",
+      "reason": "source 是孩子无分享意识，v2-n001 是孩子拿别人食物玩具；两者是同一阶段孩子的不同行为案例，仅主题关联，不能混为目标。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:v2-n001",
+      "target": "s-5c190f739775-c001:v2-n005",
+      "kind": "association",
+      "condition": "同为21个月男宝，涉及社交行为但具体目标不同",
+      "reason": "source 是孩子无分享意识，v2-n001 是孩子拿别人食物玩具；两者是同一阶段孩子的不同行为案例，仅主题关联，不能混为目标。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n001",
+      "target": "s-5c190f739775-c002:a012",
+      "kind": "complements",
+      "condition": "孩子失去自由作为后果时",
+      "reason": "source 强调给孩子重新获得自由的机会；candidate 具体指出失去自由不能是永久性的（如整个暑假），必须让孩子知道还有机会重新获得自由，补充了机会的非永久性这一实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a012",
+      "target": "s-5c190f739775-c002:v2-n001",
+      "kind": "complements",
+      "condition": "孩子失去自由作为后果时",
+      "reason": "source 强调给孩子重新获得自由的机会；candidate 具体指出失去自由不能是永久性的（如整个暑假），必须让孩子知道还有机会重新获得自由，补充了机会的非永久性这一实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n001",
+      "target": "s-5c190f739775-c001:a030",
+      "kind": "complements",
+      "condition": "孩子做错选择后承担后果时",
+      "reason": "source 提出承担后果并有威严恩典；candidate 补充了从小训练孩子根据后果做决定、不吵架只给后果、持续训练的具体操作，补足了长期执行层面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a030",
+      "target": "s-5c190f739775-c002:v2-n001",
+      "kind": "complements",
+      "condition": "孩子做错选择后承担后果时",
+      "reason": "source 提出承担后果并有威严恩典；candidate 补充了从小训练孩子根据后果做决定、不吵架只给后果、持续训练的具体操作，补足了长期执行层面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n001",
+      "target": "s-5c190f739775-c002:a009",
+      "kind": "complements",
+      "condition": "父母执行后果并强调孩子选择权时",
+      "reason": "source 要求给孩子选择权；candidate 具体说明如何给孩子选择权：告诉孩子选择保持或失去自由完全由他掌控，并建议做好选择，补足了操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a009",
+      "target": "s-5c190f739775-c002:v2-n001",
+      "kind": "complements",
+      "condition": "父母执行后果并强调孩子选择权时",
+      "reason": "source 要求给孩子选择权；candidate 具体说明如何给孩子选择权：告诉孩子选择保持或失去自由完全由他掌控，并建议做好选择，补足了操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n001",
+      "target": "s-5c190f739775-c002:a005",
+      "kind": "complements",
+      "condition": "孩子因玩手机未完成作业时",
+      "reason": "source 未给出具体后果类型；candidate 提供失去独自在家自由作为后果的具体例子，补足了后果的具体应用情境。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a005",
+      "target": "s-5c190f739775-c002:v2-n001",
+      "kind": "complements",
+      "condition": "孩子因玩手机未完成作业时",
+      "reason": "source 未给出具体后果类型；candidate 提供失去独自在家自由作为后果的具体例子，补足了后果的具体应用情境。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n001",
+      "target": "s-5c190f739775-c003:a010",
+      "kind": "association",
+      "condition": "父母要求孩子执行日常指令时",
+      "reason": "两者都涉及执行后果，但 candidate 针对刷牙、换尿布等日常要求只说一次不帮做，与 source 的管教中威严恩典情境不同，未直接补充，仅因后果执行相关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c003:a010",
+      "target": "s-5c190f739775-c002:v2-n001",
+      "kind": "association",
+      "condition": "父母要求孩子执行日常指令时",
+      "reason": "两者都涉及执行后果，但 candidate 针对刷牙、换尿布等日常要求只说一次不帮做，与 source 的管教中威严恩典情境不同，未直接补充，仅因后果执行相关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n001",
+      "target": "s-5c190f739775-c002:a006",
+      "kind": "complements",
+      "condition": "孩子有自由安排作业和手机时间时",
+      "reason": "source 提到重新获得自由的机会，candidate 明确自由是隐性奖励、失去自由是自然后果，补充了自由作为后果/奖励的性质，有助于设计恩典。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a006",
+      "target": "s-5c190f739775-c002:v2-n001",
+      "kind": "complements",
+      "condition": "孩子有自由安排作业和手机时间时",
+      "reason": "source 提到重新获得自由的机会，candidate 明确自由是隐性奖励、失去自由是自然后果，补充了自由作为后果/奖励的性质，有助于设计恩典。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n001",
+      "target": "s-5c190f739775-c003:a011",
+      "kind": "complements",
+      "condition": "孩子不配合时",
+      "reason": "source 的威严需要执行后果；candidate 补充了执行后果的坚决性：说出口就真的不帮，不妥协，让孩子体验不舒服，补足了威严执行面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c003:a011",
+      "target": "s-5c190f739775-c002:v2-n001",
+      "kind": "complements",
+      "condition": "孩子不配合时",
+      "reason": "source 的威严需要执行后果；candidate 补充了执行后果的坚决性：说出口就真的不帮，不妥协，让孩子体验不舒服，补足了威严执行面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n001",
+      "target": "s-5c190f739775-c002:a013",
+      "kind": "association",
+      "condition": "孩子拥有自由时",
+      "reason": "candidate 说给予力量感让孩子珍惜自由，与 source 给孩子选择权相关，但未直接说明如何通过选择权给予力量感，仅潜在关联，不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a013",
+      "target": "s-5c190f739775-c002:v2-n001",
+      "kind": "association",
+      "condition": "孩子拥有自由时",
+      "reason": "candidate 说给予力量感让孩子珍惜自由，与 source 给孩子选择权相关，但未直接说明如何通过选择权给予力量感，仅潜在关联，不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n001",
+      "target": "s-5c190f739775-c002:a007",
+      "kind": "complements",
+      "condition": "孩子有自由安排作业和手机时间时",
+      "reason": "source 涉及重新获得自由，candidate 补充了自由给予的前提是信任，不信任则收回自由，补足了自由管理的基础。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a007",
+      "target": "s-5c190f739775-c002:v2-n001",
+      "kind": "complements",
+      "condition": "孩子有自由安排作业和手机时间时",
+      "reason": "source 涉及重新获得自由，candidate 补充了自由给予的前提是信任，不信任则收回自由，补足了自由管理的基础。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n001",
+      "target": "s-5c190f739775-c001:a028",
+      "kind": "association",
+      "condition": "孩子摔碗等具体行为时",
+      "reason": "两者都涉及坚持执行后果不妥协，但 candidate 针对摔碗后允许哭，与 source 的威严恩典框架无直接补充，仅执行后果层面相近。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a028",
+      "target": "s-5c190f739775-c002:v2-n001",
+      "kind": "association",
+      "condition": "孩子摔碗等具体行为时",
+      "reason": "两者都涉及坚持执行后果不妥协，但 candidate 针对摔碗后允许哭，与 source 的威严恩典框架无直接补充，仅执行后果层面相近。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n001",
+      "target": "s-5c190f739775-c001:a033",
+      "kind": "association",
+      "condition": "九岁孩子不自律说谎案例",
+      "reason": "candidate 提出如何管教才有威严又有恩典的问题，source 是相关原则，但 source 未直接回应此案例，仅主题一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c001:a033",
+      "target": "s-5c190f739775-c002:v2-n001",
+      "kind": "association",
+      "condition": "九岁孩子不自律说谎案例",
+      "reason": "candidate 提出如何管教才有威严又有恩典的问题，source 是相关原则，但 source 未直接回应此案例，仅主题一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n001",
+      "target": "s-5c190f739775-c002:a036",
+      "kind": "complements",
+      "condition": "孩子多次类似行为时",
+      "reason": "source 保留恩典，candidate 补充了按次数决定是否给恩典的具体机制：第一次给、第三次收钱、第十次不给，补足了恩典的调节方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a036",
+      "target": "s-5c190f739775-c002:v2-n001",
+      "kind": "complements",
+      "condition": "孩子多次类似行为时",
+      "reason": "source 保留恩典，candidate 补充了按次数决定是否给恩典的具体机制：第一次给、第三次收钱、第十次不给，补足了恩典的调节方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n002",
+      "target": "s-5c190f739775-c002:a021",
+      "kind": "complements",
+      "condition": "孩子年龄约为三岁",
+      "reason": "source 说三到七岁矛盾不用恐吓震慑；candidate 说明三岁孩子没有道德观念，踢打不因不尊重而是害怕后果，解释了恐吓无效甚至有害的原因，补足了理论依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a021",
+      "target": "s-5c190f739775-c002:v2-n002",
+      "kind": "complements",
+      "condition": "孩子年龄约为三岁",
+      "reason": "source 说三到七岁矛盾不用恐吓震慑；candidate 说明三岁孩子没有道德观念，踢打不因不尊重而是害怕后果，解释了恐吓无效甚至有害的原因，补足了理论依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n002",
+      "target": "s-5c190f739775-c002:a027",
+      "kind": "association",
+      "condition": "孩子模仿爷爷吼叫时",
+      "reason": "source 针对三至七岁冲突不用恐吓；candidate 涉及阻止孩子以同样方式吼回去，与吼叫相关但非家长恐吓，且年龄不明，不直接补充，仅因吼叫行为关联，不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a027",
+      "target": "s-5c190f739775-c002:v2-n002",
+      "kind": "association",
+      "condition": "孩子模仿爷爷吼叫时",
+      "reason": "source 针对三至七岁冲突不用恐吓；candidate 涉及阻止孩子以同样方式吼回去，与吼叫相关但非家长恐吓，且年龄不明，不直接补充，仅因吼叫行为关联，不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n002",
+      "target": "s-5c190f739775-c003:a007",
+      "kind": "association",
+      "condition": "父母与孩子互动时",
+      "reason": "source 强调不用恐吓；candidate 强调避免触发孩子怒气，都属于减少负面情绪激化的引导，但未直接涉及恐吓或矛盾冲突，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c003:a007",
+      "target": "s-5c190f739775-c002:v2-n002",
+      "kind": "association",
+      "condition": "父母与孩子互动时",
+      "reason": "source 强调不用恐吓；candidate 强调避免触发孩子怒气，都属于减少负面情绪激化的引导，但未直接涉及恐吓或矛盾冲突，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n002",
+      "target": "s-5c190f739775-c002:a030",
+      "kind": "association",
+      "condition": "他人打孩子时",
+      "reason": "source 关于恐吓震慑孩子；candidate 关于警告打孩子的后果，都涉及保护孩子免受不当对待，但情境不同，仅关联于禁止暴力。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a030",
+      "target": "s-5c190f739775-c002:v2-n002",
+      "kind": "association",
+      "condition": "他人打孩子时",
+      "reason": "source 关于恐吓震慑孩子；candidate 关于警告打孩子的后果，都涉及保护孩子免受不当对待，但情境不同，仅关联于禁止暴力。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:v2-n002",
+      "target": "s-5c190f739775-c002:a003",
+      "kind": "association",
+      "condition": "孩子不自律时",
+      "reason": "source 说三到七岁矛盾不用恐吓，candidate 说孩子不自律时不给讲道理直接后果，都体现不用说教/恐吓而是行动后果，但情境不同，仅方法层面关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5c190f739775-c002:a003",
+      "target": "s-5c190f739775-c002:v2-n002",
+      "kind": "association",
+      "condition": "孩子不自律时",
+      "reason": "source 说三到七岁矛盾不用恐吓，candidate 说孩子不自律时不给讲道理直接后果，都体现不用说教/恐吓而是行动后果，但情境不同，仅方法层面关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "孩子年龄较小（如21个月、三岁）尚无道德意识时，需要根据发展阶段设定界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5c190f739775-c001:a001",
+        "s-5c190f739775-c001:a003",
+        "s-5c190f739775-c002:a021",
+        "s-5c190f739775-c002:a022"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "孩子因情绪问题（如玩具被抢、发脾气）需要先理解情绪，再设定界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5c190f739775-c002:a014",
+        "s-5c190f739775-c002:a015",
+        "s-5c190f739775-c002:a016",
+        "s-5c190f739775-c002:a017",
+        "s-5c190f739775-c002:a018"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "设定界限后需要具体规则和行动来执行后果。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5c190f739775-c001:a026",
+        "s-5c190f739775-c001:a028",
+        "s-5c190f739775-c002:a004",
+        "s-5c190f739775-c002:a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "规则与行动",
+      "when": "家长自我认知（如完美主义）影响孩子，需要调整规则和行动。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5c190f739775-c002:a037",
+        "s-5c190f739775-c002:a038",
+        "s-5c190f739775-c002:a039",
+        "s-5c190f739775-c002:a041"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "依赖与失控",
+      "to": "界限",
+      "when": "孩子依赖电子产品或逃避压力时，需要设定界限管理。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5c190f739775-c001:a013",
+        "s-5c190f739775-c001:a014",
+        "s-5c190f739775-c001:a037",
+        "s-5c190f739775-c001:a038"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a003"
+      ],
+      "reason": "内容完全一致，均为用交换代替分享引导幼儿。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a008"
+      ],
+      "reason": "内容完全一致，均为通过交换教孩子获得想要的东西。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a010"
+      ],
+      "reason": "内容完全一致，均为生活中灌输双赢智慧。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a012"
+      ],
+      "reason": "内容完全一致，均为家长承认不完美并赋权。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a015"
+      ],
+      "reason": "内容完全一致，均为将大量作业分解为小碎片。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a016"
+      ],
+      "reason": "内容完全一致，均为用视觉化日程表调配时间。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a017"
+      ],
+      "reason": "内容完全一致，均为视觉上夸大放松时间。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a018"
+      ],
+      "reason": "内容完全一致，均为分散作业时间并保持玩耍整块时间。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a019"
+      ],
+      "reason": "内容完全一致，均为建议寻求专业辅导。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a020"
+      ],
+      "reason": "内容完全一致，均为谈性时表达不舒服需解释深层原因。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a025"
+      ],
+      "reason": "内容完全一致，均为提前预警食物快吃完。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a026"
+      ],
+      "reason": "内容完全一致，均为摔碗前抓住手并告知后果。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a028"
+      ],
+      "reason": "内容完全一致，均为执行后果并允许孩子哭。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a030"
+      ],
+      "reason": "内容完全一致，均为从小训练孩子根据后果做决定。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a035"
+      ],
+      "reason": "内容完全一致，均为作业是孩子自己的事，家长不陪写。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a037"
+      ],
+      "reason": "内容完全一致，均为不自律时给后果，不讲道理。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a038"
+      ],
+      "reason": "内容完全一致，均为孩子藏手机时仍要执行后果。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c002:a019"
+      ],
+      "reason": "内容完全一致，均为与素质不好的人接触时父母要参与保护。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c002:a024",
+        "s-5c190f739775-c002:a025",
+        "s-5c190f739775-c002:a026",
+        "s-5c190f739775-c002:r002"
+      ],
+      "reason": "内容完全一致，均为与爷爷立界限的具体步骤。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c002:a022"
+      ],
+      "reason": "内容完全一致，均为保护孩子免受爷爷过激反应。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c002:a027"
+      ],
+      "reason": "内容完全一致，均为不让孩子用同样方式吼回去。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c002:a033"
+      ],
+      "reason": "内容完全一致，均为保护孩子的警告步骤。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c002:a035"
+      ],
+      "reason": "内容完全一致，均为处理孩子背热包的多种方法。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c002:a036"
+      ],
+      "reason": "内容完全一致，均为根据次数决定是否给恩典。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c002:a046"
+      ],
+      "reason": "内容完全一致，均为帮助急躁孩子提高专注力。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c003:a009"
+      ],
+      "reason": "内容完全一致，均为威胁式养育的长期后果。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c003:a011"
+      ],
+      "reason": "内容完全一致，均为执行后果的具体操作。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-5c190f739775-c001:a022",
+        "s-5c190f739775-c001:a023",
+        "s-5c190f739775-c001:a024"
+      ],
+      "description": "对于21个月孩子吃完东西摔碗的原因，a022 提出可能提示情绪或发育问题（病态），a023 认为可能与被宠溺有关，a024 认为21个月发脾气是正常的。三者解释不同，存在矛盾。",
+      "needed_evidence": "需要更多信息判断孩子摔碗的具体情境、频率、家庭养育方式等，以确定哪种解释更合理。"
+    },
+    {
+      "atom_ids": [
+        "s-5c190f739775-c002:a041",
+        "s-5c190f739775-c002:a043"
+      ],
+      "description": "a041 建议绝对不要做一对一补课的承诺，a043 又说如果已经做了承诺就不要反悔。两者针对不同时间点，但可能让家长困惑。",
+      "needed_evidence": "需要明确在承诺前和承诺后的不同处理原则，以及如何避免类似错误。"
+    }
+  ],
+  "path": [
+    {
+      "name": "幼儿分享引导",
+      "steps": [
+        {
+          "action": "让孩子知道对自己的东西有绝对主导权",
+          "atom_ids": [
+            "s-5c190f739775-c001:a003"
+          ],
+          "condition": "孩子年龄约21个月，尚无道德意识"
+        },
+        {
+          "action": "当孩子想玩别人的东西时，告诉他拿东西去交换",
+          "atom_ids": [
+            "s-5c190f739775-c001:a003",
+            "s-5c190f739775-c001:a008"
+          ],
+          "condition": "孩子想玩别人的东西"
+        },
+        {
+          "action": "通过交换实现双赢，并灌输双赢智慧",
+          "atom_ids": [
+            "s-5c190f739775-c001:a009",
+            "s-5c190f739775-c001:a010"
+          ],
+          "condition": "交换过程中"
+        }
+      ]
+    },
+    {
+      "name": "幼儿发脾气处理",
+      "steps": [
+        {
+          "action": "提前预警食物快吃完",
+          "atom_ids": [
+            "s-5c190f739775-c001:a025"
+          ],
+          "condition": "孩子因食物吃完而发脾气"
+        },
+        {
+          "action": "摔碗前抓住手并告知后果",
+          "atom_ids": [
+            "s-5c190f739775-c001:a026"
+          ],
+          "condition": "孩子要摔碗"
+        },
+        {
+          "action": "执行后果并允许孩子哭",
+          "atom_ids": [
+            "s-5c190f739775-c001:a028"
+          ],
+          "condition": "孩子摔碗后"
+        },
+        {
+          "action": "持续训练孩子根据后果做决定",
+          "atom_ids": [
+            "s-5c190f739775-c001:a030"
+          ],
+          "condition": "长期训练"
+        }
+      ]
+    },
+    {
+      "name": "作业自主与后果管理",
+      "steps": [
+        {
+          "action": "告诉孩子作业是他自己的事，不陪写",
+          "atom_ids": [
+            "s-5c190f739775-c001:a035",
+            "s-5c190f739775-c002:a001",
+            "s-5c190f739775-c002:a002"
+          ],
+          "condition": "孩子开始上学"
+        },
+        {
+          "action": "不自律时给后果，不讲道理",
+          "atom_ids": [
+            "s-5c190f739775-c001:a037",
+            "s-5c190f739775-c002:a003"
+          ],
+          "condition": "孩子不自律"
+        },
+        {
+          "action": "孩子藏手机时执行后果",
+          "atom_ids": [
+            "s-5c190f739775-c001:a038",
+            "s-5c190f739775-c002:a004"
+          ],
+          "condition": "孩子藏手机"
+        },
+        {
+          "action": "因玩手机未完成作业则失去自由",
+          "atom_ids": [
+            "s-5c190f739775-c002:a005"
+          ],
+          "condition": "孩子因玩手机未完成作业"
+        },
+        {
+          "action": "一周观察期检查作业，根据未完成天数决定失去自由时长",
+          "atom_ids": [
+            "s-5c190f739775-c002:a008",
+            "s-5c190f739775-c002:a011"
+          ],
+          "condition": "孩子需要重新获得信任"
+        }
+      ]
+    },
+    {
+      "name": "保护孩子免受他人伤害",
+      "steps": [
+        {
+          "action": "第一次冷静警告",
+          "atom_ids": [
+            "s-5c190f739775-c002:a033"
+          ],
+          "condition": "需要保护孩子"
+        },
+        {
+          "action": "第二次冷静警告",
+          "atom_ids": [
+            "s-5c190f739775-c002:a033"
+          ],
+          "condition": "对方未改变"
+        },
+        {
+          "action": "第三次说明后果",
+          "atom_ids": [
+            "s-5c190f739775-c002:a033"
+          ],
+          "condition": "对方仍未改变"
+        },
+        {
+          "action": "与爷爷立界限，母亲自己去说",
+          "atom_ids": [
+            "s-5c190f739775-c002:a024",
+            "s-5c190f739775-c002:a025"
+          ],
+          "condition": "爷爷吼孩子"
+        },
+        {
+          "action": "与丈夫沟通，让孩子告诉爸爸害怕",
+          "atom_ids": [
+            "s-5c190f739775-c002:a026"
+          ],
+          "condition": "丈夫不理解"
+        }
+      ]
+    },
+    {
+      "name": "威胁式养育纠正",
+      "steps": [
+        {
+          "action": "要求只说一次",
+          "atom_ids": [
+            "s-5c190f739775-c003:a010"
+          ],
+          "condition": "日常要求"
+        },
+        {
+          "action": "设定等待时间",
+          "atom_ids": [
+            "s-5c190f739775-c003:a010"
+          ],
+          "condition": "孩子未立即行动"
+        },
+        {
+          "action": "如果孩子不来，不帮他做",
+          "atom_ids": [
+            "s-5c190f739775-c003:a010"
+          ],
+          "condition": "等待时间结束"
+        },
+        {
+          "action": "让孩子自己解决或承担后果",
+          "atom_ids": [
+            "s-5c190f739775-c003:a010",
+            "s-5c190f739775-c003:a011"
+          ],
+          "condition": "孩子未配合"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-5c190f739775-c001:U001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a001"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a002"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a003"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a004"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a005"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a006"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a007"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U009",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a008"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a009"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a010"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U013",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c001:a011"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a012"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U015",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c001:a013"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a014"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a015"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a016"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a017"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a018"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a019"
+      ],
+      "blocks": [
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a020"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U023",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c001:a021"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a022"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a023"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a024"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a025"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a026"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a027"
+      ],
+      "blocks": [
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U031",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a028"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U032",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a029"
+      ],
+      "blocks": [
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U033",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a030"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U034",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c001:a031"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U035",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a032"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U036",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c001:a033"
+      ],
+      "blocks": [
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U037",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a034"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U038",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:a035"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U039",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U040",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5c190f739775-c001:v2-n004"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U041",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c001:a036"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c001:U042",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c001:v2-n005"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0001",
+      "kind": "principle",
+      "atom_ids": [
+        "s-5c190f739775-c002:a001",
+        "s-5c190f739775-c002:a002"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0002",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c001:a037",
+        "s-5c190f739775-c002:a003"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0003",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c001:a038",
+        "s-5c190f739775-c002:a004"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5c190f739775-c002:a005",
+        "s-5c190f739775-c002:a006"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0005",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a007",
+        "s-5c190f739775-c002:a008"
+      ],
+      "blocks": [
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0006",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a009"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5c190f739775-c002:a010",
+        "s-5c190f739775-c002:a013"
+      ],
+      "blocks": [
+        "b00049",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0008",
+      "kind": "principle",
+      "atom_ids": [
+        "s-5c190f739775-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a011",
+        "s-5c190f739775-c002:a012"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0010",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c002:a014"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5c190f739775-c002:a015"
+      ],
+      "blocks": [
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0012",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a016"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0013",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5c190f739775-c002:a017"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0014",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a018"
+      ],
+      "blocks": [
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0015",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a019"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0016",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c002:a020"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0017",
+      "kind": "rule",
+      "atom_ids": [
+        "s-5c190f739775-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0018",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5c190f739775-c002:a021"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0019",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c002:a023"
+      ],
+      "blocks": [
+        "b00061",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0020",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a022"
+      ],
+      "blocks": [
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0021",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a024"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0022",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a025"
+      ],
+      "blocks": [
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0023",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a026"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0024",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a027"
+      ],
+      "blocks": [
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0025",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c002:a028"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069",
+        "b00070",
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0026",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a029"
+      ],
+      "blocks": [
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0027",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a030"
+      ],
+      "blocks": [
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0028",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a031"
+      ],
+      "blocks": [
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0029",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5c190f739775-c002:a032"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0030",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a033"
+      ],
+      "blocks": [
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0031",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c002:a034"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0032",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a035"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0033",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5c190f739775-c002:a036"
+      ],
+      "blocks": [
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0034",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c002:a037"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0035",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5c190f739775-c002:a038"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0036",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5c190f739775-c002:a039"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0037",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c002:a040"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0038",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a041"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0039",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5c190f739775-c002:a042"
+      ],
+      "blocks": [
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0040",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a043",
+        "s-5c190f739775-c002:a044"
+      ],
+      "blocks": [
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0041",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c002:a045"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0042",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c002:a046"
+      ],
+      "blocks": [
+        "b00083",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c002:u0043",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5c190f739775-c002:a047"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c003:u001",
+      "kind": "claim",
+      "atom_ids": [
+        "s-5c190f739775-c003:a001"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c003:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c003:a002",
+        "s-5c190f739775-c003:r001"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c003:u003",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-5c190f739775-c003:a003"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c003:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c003:a004"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c003:u005",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-5c190f739775-c003:a005",
+        "s-5c190f739775-c003:a006",
+        "s-5c190f739775-c003:a007",
+        "s-5c190f739775-c003:r002"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c003:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-5c190f739775-c003:a008",
+        "s-5c190f739775-c003:a009"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c003:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-5c190f739775-c003:a010",
+        "s-5c190f739775-c003:a011"
+      ],
+      "blocks": [
+        "b00092",
+        "b00093",
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-5c190f739775-c003:u008",
+      "kind": "claim",
+      "atom_ids": [
+        "s-5c190f739775-c003:a012"
+      ],
+      "blocks": [
+        "b00095"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "21个月男宝拿别人食物玩具案例",
+      "atom_ids": [
+        "s-5c190f739775-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5c190f739775",
+          "blocks": [
+            "b00010",
+            "b00011"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "立界限前先处理情绪问题",
+      "atom_ids": [
+        "s-5c190f739775-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5c190f739775",
+          "blocks": [
+            "b00029"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "归还属于孩子自己的事情",
+      "atom_ids": [
+        "s-5c190f739775-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5c190f739775",
+          "blocks": [
+            "b00043"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "不自律时给后果而不讲道理",
+      "atom_ids": [
+        "s-5c190f739775-c001:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5c190f739775",
+          "blocks": [
+            "b00043",
+            "b00044"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "21个月男宝无分享意识提问",
+      "atom_ids": [
+        "s-5c190f739775-c001:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5c190f739775",
+          "blocks": [
+            "b00002"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "同时有威严与恩典",
+      "atom_ids": [
+        "s-5c190f739775-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5c190f739775",
+          "blocks": [
+            "b00052"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "三到七岁矛盾不用恐吓震慑",
+      "atom_ids": [
+        "s-5c190f739775-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5c190f739775",
+          "blocks": [
+            "b00059"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

@@ -1,0 +1,3458 @@
+{
+  "concepts": [
+    {
+      "name": "行为后果与亲子关系",
+      "definition": "父母应让孩子知道其行为会对父母造成影响，从而影响亲子关系，孩子从小应学习行为有后果。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a001",
+        "s-7ba00cf807f6-c001:a017"
+      ]
+    },
+    {
+      "name": "安全感与恐惧",
+      "definition": "感到不安全是对具体危险情境的正常反应，而没有安全感是对父母照顾和人际信任的长期缺失；安全感一旦建立，偶尔做让孩子感到不安全的事情不会破坏安全感。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a002",
+        "s-7ba00cf807f6-c001:a023",
+        "s-7ba00cf807f6-c002:a013",
+        "s-7ba00cf807f6-c002:a014",
+        "s-7ba00cf807f6-c002:a015"
+      ]
+    },
+    {
+      "name": "高质量陪伴",
+      "definition": "高质量陪伴包括全心地和孩子一起玩；对于21个月的宝宝，每天分三个时段各约30分钟，共约90分钟。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a003",
+        "s-7ba00cf807f6-c001:a019"
+      ]
+    },
+    {
+      "name": "儿童时间感知",
+      "definition": "孩子的时间空间概念与成人不同，父母应理解其磨蹭是必要的探索过程。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a004",
+        "s-7ba00cf807f6-c001:a005",
+        "s-7ba00cf807f6-c001:a020"
+      ]
+    },
+    {
+      "name": "吃饭时间与饥饿体验",
+      "definition": "三岁孩子自己吃饭时，沙漏时间建议20-30分钟；如果孩子没吃饱，可以让他体验饥饿。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a006",
+        "s-7ba00cf807f6-c001:a021"
+      ]
+    },
+    {
+      "name": "复盘与共同寻找解决方案",
+      "definition": "当孩子反复犯同样错误时，父母应和孩子一起复盘，分析错误原因，共同寻找解决方法，帮助孩子知道怎么对。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a007",
+        "s-7ba00cf807f6-c001:a018",
+        "s-7ba00cf807f6-c001:a026"
+      ]
+    },
+    {
+      "name": "破例体验成功激发动力",
+      "definition": "当孩子因反复失败而缺乏动力时，可以破例让他体验一次成功的感觉，从而激发动力。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a008"
+      ]
+    },
+    {
+      "name": "提前介绍访客",
+      "definition": "对于遇到陌生人或陌生环境拘束的孩子，应提前介绍客人，帮助孩子熟悉。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a009"
+      ]
+    },
+    {
+      "name": "单独陪伴被忽视的孩子",
+      "definition": "对于多子女家庭中被忽视的孩子，建议每周安排一段时间单独带他出去，让他感到重要。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a010",
+        "s-7ba00cf807f6-c001:a015"
+      ]
+    },
+    {
+      "name": "过去伤害的处理",
+      "definition": "对于过去未保护好孩子的情况，如果孩子已长大且不记得或不愿提，父母应等待，如果提起则道歉并表达后悔。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a011",
+        "s-7ba00cf807f6-c001:a016"
+      ]
+    },
+    {
+      "name": "睡眠训练哭闹评估",
+      "definition": "如果婴儿期睡眠训练哭闹有时超过15分钟甚至半小时，但平时照顾全方位到位且不是每次都不管或很凶，则没有问题。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a012",
+        "s-7ba00cf807f6-c001:a022"
+      ]
+    },
+    {
+      "name": "青春期界限与教练角色",
+      "definition": "对于青春期孩子沉迷电子产品且态度不尊重的情况，父母应作为教练，温柔而坚定地立界限，并给予后果。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a013",
+        "s-7ba00cf807f6-c001:a024",
+        "s-7ba00cf807f6-c001:a025",
+        "s-7ba00cf807f6-c002:a001",
+        "s-7ba00cf807f6-c002:a002",
+        "s-7ba00cf807f6-c002:a022"
+      ]
+    },
+    {
+      "name": "界限与后果",
+      "definition": "父母应设立界限，对孩子该做不做时给予后果，后果必须是孩子自己感到麻烦的后果。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a014",
+        "s-7ba00cf807f6-c002:a005",
+        "s-7ba00cf807f6-c002:a017",
+        "s-7ba00cf807f6-c002:a018",
+        "s-7ba00cf807f6-c002:a027"
+      ]
+    },
+    {
+      "name": "亲子连接",
+      "definition": "建立亲子连接不是发脾气，而是温柔而坚定地立界限；要真正进入孩子的世界，而不是只谈论学业。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a002",
+        "s-7ba00cf807f6-c002:a003",
+        "s-7ba00cf807f6-c002:a004"
+      ]
+    },
+    {
+      "name": "自我伤害行为干预",
+      "definition": "当孩子打自己时，不要不理会，也不要过度反应；每次冷静地说“妈妈不喜欢你打自己”，脸上有不高兴的表情，但不给更多注意力，然后转走。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a006",
+        "s-7ba00cf807f6-c002:a007",
+        "s-7ba00cf807f6-c002:a023"
+      ]
+    },
+    {
+      "name": "提问技巧",
+      "definition": "提问时最好提供具体示例和来龙去脉，说明观察到的现象、尝试过的方法以及尝试后的现象。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a008",
+        "s-7ba00cf807f6-c002:r001",
+        "s-7ba00cf807f6-c002:r002"
+      ]
+    },
+    {
+      "name": "打人行为界限",
+      "definition": "无论什么原因，打人的行为一定要更正；可以理解孩子为什么想打人，但不管多么想打，都不可以主动打人。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a010",
+        "s-7ba00cf807f6-c002:a016",
+        "s-7ba00cf807f6-c002:a025",
+        "s-7ba00cf807f6-c002:r004"
+      ]
+    },
+    {
+      "name": "面对不公与信息过滤",
+      "definition": "世界上存在无能为力且不公平的事情，要让孩子明白这一点；面对他人的嘲笑和恶意，可以选择过滤信息，不让它影响自己。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a011",
+        "s-7ba00cf807f6-c002:a012"
+      ]
+    },
+    {
+      "name": "年龄阶段认知发展",
+      "definition": "不同年龄阶段有不同的认知特点：7-12岁开始假设性思考，12-19岁产生不加思索的后果，19-25岁前额叶发育成熟能控制冲动，1.5-3岁观察，3-7岁想象。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a019",
+        "s-7ba00cf807f6-c002:a020",
+        "s-7ba00cf807f6-c002:a021",
+        "s-7ba00cf807f6-c003:a001",
+        "s-7ba00cf807f6-c003:a002",
+        "s-7ba00cf807f6-c003:a003",
+        "s-7ba00cf807f6-c003:a004",
+        "s-7ba00cf807f6-c003:a005"
+      ]
+    },
+    {
+      "name": "专注力与想象力",
+      "definition": "当孩子盯着蚂蚁看时，不要打扰；会天花乱坠或做白日梦的孩子是最好的孩子。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c003:a006",
+        "s-7ba00cf807f6-c003:a007"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-7ba00cf807f6-c001:a001",
+      "target": "s-7ba00cf807f6-c001:a017",
+      "kind": "example_of",
+      "condition": "当孩子行为影响父母时",
+      "reason": "a001提出父母应让孩子知道行为影响关系，a017是具体案例：孩子拽头发压到妈妈，妈妈态度不好，讲师指出应让孩子知道行为影响关系。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a002",
+      "target": "s-7ba00cf807f6-c001:a023",
+      "kind": "example_of",
+      "condition": "孩子害怕怪物要陪睡",
+      "reason": "a002区分感到不安全与没有安全感，a023案例中孩子害怕怪物是感到不安全，不是没有安全感。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a002",
+      "target": "s-7ba00cf807f6-c002:a013",
+      "kind": "supports",
+      "condition": "平时安全感和关系建立得好",
+      "reason": "a002说安全感一旦建立，偶尔做让孩子感到不安全的事情不会破坏安全感；a013说伤害孩子不是单一事件，如果平时安全感和关系建立得好，即使做了一件过分的事也能修补。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a002",
+      "target": "s-7ba00cf807f6-c002:a015",
+      "kind": "supports",
+      "condition": "安全感被毁",
+      "reason": "a002说没有安全感是长期缺失；a015说如果一件事情毁了孩子的安全感，说明平时安全感就没有建立起来。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a003",
+      "target": "s-7ba00cf807f6-c001:a019",
+      "kind": "example_of",
+      "condition": "21个月宝宝",
+      "reason": "a003给出高质量陪伴的定义和时间安排，a019是具体案例：21个月宝宝每天三个时段各30分钟。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a004",
+      "target": "s-7ba00cf807f6-c001:a005",
+      "kind": "supports",
+      "condition": "三岁孩子磨蹭",
+      "reason": "孩子与成人时间感知的差异（孩子磨蹭是正常探索）为用彩色闹钟帮助三岁孩子建立出门时间观念提供了理解基础，支持在孩子磨蹭时采用理解与工具辅助的方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a004",
+      "target": "s-7ba00cf807f6-c001:a020",
+      "kind": "example_of",
+      "condition": "三岁孩子出门磨蹭",
+      "reason": "a004解释孩子时间感知不同，a020案例中三岁孩子出门磨蹭，讲师建议用彩色闹钟并理解。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a005",
+      "target": "s-7ba00cf807f6-c001:a020",
+      "kind": "association",
+      "condition": "三岁孩子出门磨蹭",
+      "reason": "用彩色闹钟帮助三岁孩子建立出门时间观念这一建议与案例：三岁孩子出门磨蹭之间是实例与概念关系，案例中讲师建议用彩色闹钟，但原 example_of 方向从概念到案例不成立，以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向应反转。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a006",
+      "target": "s-7ba00cf807f6-c001:a021",
+      "kind": "example_of",
+      "condition": "三岁孩子吃饭",
+      "reason": "a006建议沙漏时间20-30分钟并让孩子体验饥饿，a021案例中孩子用15分钟沙漏，讲师建议改为20-30分钟并体验饥饿。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a007",
+      "target": "s-7ba00cf807f6-c001:a018",
+      "kind": "example_of",
+      "condition": "10岁孩子反复犯错",
+      "reason": "a007提出复盘和共同寻找解决方案，a018案例中10岁女儿反复犯错，讲师建议复盘并共同找解决方案。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a007",
+      "target": "s-7ba00cf807f6-c001:a026",
+      "kind": "supports",
+      "condition": "复盘具体方法",
+      "reason": "a007概述复盘方法，a026提供具体复盘步骤和示例。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a008",
+      "target": "s-7ba00cf807f6-c001:a018",
+      "kind": "example_of",
+      "condition": "孩子因反复失败而自卑",
+      "reason": "a008提出破例体验成功激发动力，a018案例中孩子因反复犯错自卑，讲师建议可破例让孩子体验成功。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a009",
+      "target": "s-7ba00cf807f6-c001:a009",
+      "kind": "supports",
+      "condition": "拘束的孩子",
+      "reason": "a009和a028内容相同，均为提前介绍访客的方法。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a010",
+      "target": "s-7ba00cf807f6-c001:a015",
+      "kind": "association",
+      "condition": "被忽视的老二",
+      "reason": "为被忽视的老二安排单独陪伴时间这一建议与案例：老二被忽视导致反应慢和社交弱之间是实例与概念关系，案例中讲师建议每周单独带老二出去，但原 example_of 方向反了，以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向应反转。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a011",
+      "target": "s-7ba00cf807f6-c001:a016",
+      "kind": "example_of",
+      "condition": "成年子女过去伤害",
+      "reason": "a011建议等待孩子主动提起再道歉，a016案例中儿子不记得且觉得提此事没必要，讲师建议等待。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a012",
+      "target": "s-7ba00cf807f6-c001:a022",
+      "kind": "association",
+      "condition": "婴儿睡眠训练哭闹",
+      "reason": "睡眠训练哭闹超过15分钟的影响评估这一观点与案例：婴儿睡眠训练哭闹超过15分钟之间是实例与概念关系，案例展示了评估结果，但原 example_of 方向反了，以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向应反转。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a013",
+      "target": "s-7ba00cf807f6-c001:a024",
+      "kind": "association",
+      "condition": "12岁孩子沉迷iPad",
+      "reason": "对12岁孩子沉迷iPad和态度问题的界限建议与案例：12岁孩子沉迷iPad且对爸爸不尊重之间是实例与概念关系，案例是建议的应用场景，但原 example_of 方向反了，以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向应反转。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a013",
+      "target": "s-7ba00cf807f6-c001:a025",
+      "kind": "supports",
+      "condition": "教练角色包含管教",
+      "reason": "对12岁孩子沉迷iPad和态度问题的界限建议（父母作为教练给予后果）与教练角色包含管教与后果相互印证，后者为前者提供理论依据。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "方向可接受。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a014",
+      "target": "s-7ba00cf807f6-c002:a018",
+      "kind": "supports",
+      "condition": "8岁孩子不扔垃圾",
+      "reason": "a014案例中孩子不扔垃圾，讲师表示将在界限课回答；a018提供具体后果示例：垃圾不扔垃圾桶就让孩子去倒垃圾。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a014",
+      "target": "s-7ba00cf807f6-c002:a027",
+      "kind": "example_of",
+      "condition": "学员案例",
+      "reason": "a014是学员案例的简述，a027是详细案例，讲师建议后果要让孩子感到麻烦。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a015",
+      "target": "s-7ba00cf807f6-c001:a010",
+      "kind": "example_of",
+      "condition": "被忽视的老二",
+      "reason": "案例：老二被忽视导致反应慢和社交弱是为被忽视的老二安排单独陪伴时间这一建议的具体实例，展示了每周单独陪伴半小时的做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a016",
+      "target": "s-7ba00cf807f6-c001:a011",
+      "kind": "example_of",
+      "condition": "成年子女过去伤害",
+      "reason": "a016案例中儿子不记得且觉得提此事没必要，a011建议等待孩子主动提起再道歉。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a017",
+      "target": "s-7ba00cf807f6-c001:a001",
+      "kind": "example_of",
+      "condition": "孩子行为影响父母",
+      "reason": "a017案例中孩子拽头发压到妈妈，a001提出父母应让孩子知道行为影响关系。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a018",
+      "target": "s-7ba00cf807f6-c001:a007",
+      "kind": "example_of",
+      "condition": "10岁孩子反复犯错",
+      "reason": "a018案例中孩子反复犯错，a007提出复盘和共同寻找解决方案。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a018",
+      "target": "s-7ba00cf807f6-c001:a008",
+      "kind": "example_of",
+      "condition": "孩子因反复失败而自卑",
+      "reason": "a018案例中孩子自卑，a008提出破例体验成功激发动力。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a019",
+      "target": "s-7ba00cf807f6-c001:a003",
+      "kind": "example_of",
+      "condition": "21个月宝宝",
+      "reason": "a019案例中21个月宝宝，a003给出高质量陪伴的定义和时间安排。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a020",
+      "target": "s-7ba00cf807f6-c001:a005",
+      "kind": "example_of",
+      "condition": "三岁孩子出门磨蹭",
+      "reason": "案例：三岁孩子出门磨蹭是用彩色闹钟帮助三岁孩子建立出门时间观念这一建议的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a021",
+      "target": "s-7ba00cf807f6-c001:a006",
+      "kind": "example_of",
+      "condition": "三岁孩子吃饭",
+      "reason": "a021案例中孩子用15分钟沙漏，a006建议沙漏时间20-30分钟并体验饥饿。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a022",
+      "target": "s-7ba00cf807f6-c001:a012",
+      "kind": "example_of",
+      "condition": "婴儿睡眠训练哭闹",
+      "reason": "案例：婴儿睡眠训练哭闹超过15分钟是睡眠训练哭闹超过15分钟的影响评估这一观点的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a023",
+      "target": "s-7ba00cf807f6-c001:a002",
+      "kind": "example_of",
+      "condition": "孩子害怕怪物",
+      "reason": "a023案例中孩子害怕怪物，a002区分感到不安全与没有安全感。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a024",
+      "target": "s-7ba00cf807f6-c001:a013",
+      "kind": "example_of",
+      "condition": "12岁孩子沉迷iPad",
+      "reason": "案例：12岁孩子沉迷iPad且对爸爸不尊重是对12岁孩子沉迷iPad和态度问题的界限建议的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a025",
+      "target": "s-7ba00cf807f6-c001:a013",
+      "kind": "supports",
+      "condition": "教练角色包含管教",
+      "reason": "教练角色包含管教与后果（教练应管教并给予后果）支持对12岁孩子沉迷iPad和态度问题的界限建议（父母作为教练给予后果）。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a026",
+      "target": "s-7ba00cf807f6-c001:a007",
+      "kind": "supports",
+      "condition": "复盘具体方法",
+      "reason": "a026提供具体复盘步骤，a007概述复盘方法。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a008",
+      "target": "s-7ba00cf807f6-c001:a008",
+      "kind": "supports",
+      "condition": "破例体验成功",
+      "reason": "a027和a008内容相同，均为破例体验成功激发动力。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a009",
+      "target": "s-7ba00cf807f6-c001:a009",
+      "kind": "supports",
+      "condition": "拘束的孩子",
+      "reason": "a028和a009内容相同，均为提前介绍访客的方法。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a010",
+      "target": "s-7ba00cf807f6-c001:a010",
+      "kind": "supports",
+      "condition": "被忽视的老二",
+      "reason": "a029和a010内容相同，均为每周单独带被忽视的孩子出去。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a011",
+      "target": "s-7ba00cf807f6-c001:a011",
+      "kind": "supports",
+      "condition": "成年子女过去伤害",
+      "reason": "a030和a011内容相同，均为等待孩子主动提起再道歉。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a012",
+      "target": "s-7ba00cf807f6-c001:a012",
+      "kind": "supports",
+      "condition": "睡眠训练哭闹评估",
+      "reason": "a031和a012内容相同，均为评估睡眠训练哭闹超过15分钟的影响。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a013",
+      "target": "s-7ba00cf807f6-c001:a013",
+      "kind": "supports",
+      "condition": "12岁孩子沉迷iPad",
+      "reason": "a032和a013内容相同，均为建议父母作为教练立界限并给予后果。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a005",
+      "target": "s-7ba00cf807f6-c001:a005",
+      "kind": "supports",
+      "condition": "三岁孩子磨蹭",
+      "reason": "a033和a005内容相同，均为建议用彩色闹钟。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a006",
+      "target": "s-7ba00cf807f6-c001:a006",
+      "kind": "supports",
+      "condition": "三岁孩子吃饭",
+      "reason": "a034和a006内容相同，均为建议沙漏时间20-30分钟并体验饥饿。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a007",
+      "target": "s-7ba00cf807f6-c001:a007",
+      "kind": "supports",
+      "condition": "复盘方法",
+      "reason": "a035和a007内容相同，均为复盘和共同寻找解决方案。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a008",
+      "target": "s-7ba00cf807f6-c001:a008",
+      "kind": "supports",
+      "condition": "破例体验成功",
+      "reason": "a036和a008内容相同，均为破例体验成功激发动力。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a009",
+      "target": "s-7ba00cf807f6-c001:a009",
+      "kind": "supports",
+      "condition": "拘束的孩子",
+      "reason": "a037和a009内容相同，均为提前介绍访客的方法。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a010",
+      "target": "s-7ba00cf807f6-c001:a010",
+      "kind": "supports",
+      "condition": "被忽视的老二",
+      "reason": "a038和a010内容相同，均为每周单独带被忽视的孩子出去。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a011",
+      "target": "s-7ba00cf807f6-c001:a011",
+      "kind": "supports",
+      "condition": "成年子女过去伤害",
+      "reason": "a039和a011内容相同，均为等待孩子主动提起再道歉。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a012",
+      "target": "s-7ba00cf807f6-c001:a012",
+      "kind": "supports",
+      "condition": "睡眠训练哭闹评估",
+      "reason": "a040和a012内容相同，均为评估睡眠训练哭闹超过15分钟的影响。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a013",
+      "target": "s-7ba00cf807f6-c001:a013",
+      "kind": "supports",
+      "condition": "12岁孩子沉迷iPad",
+      "reason": "a041和a013内容相同，均为建议父母作为教练立界限并给予后果。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a005",
+      "target": "s-7ba00cf807f6-c001:a005",
+      "kind": "supports",
+      "condition": "三岁孩子磨蹭",
+      "reason": "a042和a005内容相同，均为建议用彩色闹钟。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a006",
+      "target": "s-7ba00cf807f6-c001:a006",
+      "kind": "supports",
+      "condition": "三岁孩子吃饭",
+      "reason": "a043和a006内容相同，均为建议沙漏时间20-30分钟并体验饥饿。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a007",
+      "target": "s-7ba00cf807f6-c001:a007",
+      "kind": "supports",
+      "condition": "复盘方法",
+      "reason": "a044和a007内容相同，均为复盘和共同寻找解决方案。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a008",
+      "target": "s-7ba00cf807f6-c001:a008",
+      "kind": "supports",
+      "condition": "破例体验成功",
+      "reason": "a045和a008内容相同，均为破例体验成功激发动力。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a009",
+      "target": "s-7ba00cf807f6-c001:a009",
+      "kind": "supports",
+      "condition": "拘束的孩子",
+      "reason": "a046和a009内容相同，均为提前介绍访客的方法。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a010",
+      "target": "s-7ba00cf807f6-c001:a010",
+      "kind": "supports",
+      "condition": "被忽视的老二",
+      "reason": "a047和a010内容相同，均为每周单独带被忽视的孩子出去。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a011",
+      "target": "s-7ba00cf807f6-c001:a011",
+      "kind": "supports",
+      "condition": "成年子女过去伤害",
+      "reason": "a048和a011内容相同，均为等待孩子主动提起再道歉。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a012",
+      "target": "s-7ba00cf807f6-c001:a012",
+      "kind": "supports",
+      "condition": "睡眠训练哭闹评估",
+      "reason": "a049和a012内容相同，均为评估睡眠训练哭闹超过15分钟的影响。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a013",
+      "target": "s-7ba00cf807f6-c001:a013",
+      "kind": "supports",
+      "condition": "12岁孩子沉迷iPad",
+      "reason": "a050和a013内容相同，均为建议父母作为教练立界限并给予后果。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a001",
+      "target": "s-7ba00cf807f6-c001:a025",
+      "kind": "supports",
+      "condition": "教练角色包含管教",
+      "reason": "a001解释教练角色包含管教与后果，a025也解释教练角色包含管教与后果。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a002",
+      "target": "s-7ba00cf807f6-c001:a013",
+      "kind": "supports",
+      "condition": "建立亲子连接",
+      "reason": "建立亲子连接的方法（温柔而坚定地立界限）为对12岁孩子沉迷iPad和态度问题的界限建议中关于温柔坚定立界限的部分提供了支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a003",
+      "target": "s-7ba00cf807f6-c002:a004",
+      "kind": "supports",
+      "condition": "进入孩子世界",
+      "reason": "a003说与孩子的连接不是情绪连接，需要建立更亲密的亲子连接；a004说建立亲子连接要真正进入孩子的世界。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a005",
+      "target": "s-7ba00cf807f6-c002:a018",
+      "kind": "supports",
+      "condition": "家务后果",
+      "reason": "a005设立家务目标与后果，a018提供具体后果示例。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a006",
+      "target": "s-7ba00cf807f6-c002:a007",
+      "kind": "association",
+      "condition": "判断精神问题前兆与应对孩子打自己",
+      "reason": "判断精神问题前兆的标准与应对孩子打自己的方法同属处理孩子打自己议题的两个方面，前者关注判断严重性，后者提供具体应对步骤，没有直接支持关系，故以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 高估，改为 association。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a007",
+      "target": "s-7ba00cf807f6-c002:a023",
+      "kind": "association",
+      "condition": "孩子打自己",
+      "reason": "应对孩子打自己的方法与学员案例：两岁多孩子打自己之间是实例与概念关系，案例展示了该方法的应用，但原 example_of 方向从概念到案例不成立，以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向应反转。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a008",
+      "target": "s-7ba00cf807f6-c002:r001",
+      "kind": "supports",
+      "condition": "提问技巧",
+      "reason": "a008和r001内容相同，均为提问时提供具体示例。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a009",
+      "target": "s-7ba00cf807f6-c002:a024",
+      "kind": "example_of",
+      "condition": "两岁孩子满地乱坐",
+      "reason": "“两岁孩子满地乱坐是正常情况”与“学员案例中两岁女童满地乱坐，讲师指出这是正常情况”构成具体实例关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例是概念的直接实例。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a010",
+      "target": "s-7ba00cf807f6-c002:a025",
+      "kind": "example_of",
+      "condition": "打人行为",
+      "reason": "“无论什么原因，打人的行为一定要更正”与“学员案例中9岁孩子打人，讲师认为打人行为一定要更正”构成具体实例关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例是概念的直接实例。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a011",
+      "target": "s-7ba00cf807f6-c002:a012",
+      "kind": "association",
+      "condition": "面对不公",
+      "reason": "“世界存在不公平，需要学习忍受”与“面对嘲笑和恶意可以选择过滤信息”都涉及面对不公的应对，但未形成直接支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "两者同属一个议题，但支持力度不足，改为关联。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a013",
+      "target": "s-7ba00cf807f6-c002:a014",
+      "kind": "supports",
+      "condition": "爱的银行比喻",
+      "reason": "a013说伤害孩子不是单一事件，a014用爱的银行比喻解释。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a014",
+      "target": "s-7ba00cf807f6-c002:a015",
+      "kind": "supports",
+      "condition": "安全感被毁",
+      "reason": "a014用爱的银行比喻，a015说如果一件事情毁了孩子的安全感，说明平时安全感就没有建立起来。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a016",
+      "target": "s-7ba00cf807f6-c002:a010",
+      "kind": "supports",
+      "condition": "打人后果",
+      "reason": "“孩子打人必须明白打人有后果，可能被起诉或报警”支持“无论什么原因，打人的行为一定要更正”。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "后果作为理由支持更正行为。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a017",
+      "target": "s-7ba00cf807f6-c002:a018",
+      "kind": "supports",
+      "condition": "后果要让孩子感到麻烦",
+      "reason": "a017说后果必须是孩子自己感到麻烦的后果，a018提供具体后果示例。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a019",
+      "target": "s-7ba00cf807f6-c002:a020",
+      "kind": "association",
+      "condition": "年龄阶段判断",
+      "reason": "“年龄阶段判断练习中问太阳从西方升起会怎样属于7-12岁”与“7-12岁孩子开始考虑各种假设性思考”相互关联，但未构成直接支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "练习例子与理论特征相关，改为关联。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a019",
+      "target": "s-7ba00cf807f6-c002:a021",
+      "kind": "association",
+      "condition": "年龄阶段判断",
+      "reason": "“年龄阶段判断练习中女朋友被抢后想打人但算了属于19-25岁”与“19-25岁前额叶发育成熟，能控制冲动”相互关联，但未构成直接支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "练习例子与理论特征相关，改为关联。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a020",
+      "target": "s-7ba00cf807f6-c003:a001",
+      "kind": "supports",
+      "condition": "7-12岁假设性思考",
+      "reason": "a020和a003:a001内容相同，均为7-12岁开始假设性思考。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a021",
+      "target": "s-7ba00cf807f6-c003:a003",
+      "kind": "supports",
+      "condition": "19-25岁前额叶发育成熟",
+      "reason": "a021和a003:a003内容相同，均为19-25岁前额叶发育成熟。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a022",
+      "target": "s-7ba00cf807f6-c001:a024",
+      "kind": "example_of",
+      "condition": "学员案例",
+      "reason": "a022是学员案例的详细描述，a024是案例简述。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a023",
+      "target": "s-7ba00cf807f6-c002:a007",
+      "kind": "example_of",
+      "condition": "孩子打自己",
+      "reason": "“学员案例中两岁多孩子打自己，讲师建议冷静说妈妈不喜欢你打自己等”是“应对孩子打自己的方法”的具体应用实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例是方法的应用实例。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a024",
+      "target": "s-7ba00cf807f6-c002:a009",
+      "kind": "example_of",
+      "condition": "两岁孩子满地乱坐",
+      "reason": "“学员案例中两岁女童满地乱坐”是“两岁孩子满地乱坐是正常情况”的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例是概念的实例。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a025",
+      "target": "s-7ba00cf807f6-c002:a010",
+      "kind": "example_of",
+      "condition": "打人行为",
+      "reason": "“学员案例中9岁孩子打人”是“无论什么原因，打人的行为一定要更正”的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例是概念的实例。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a026",
+      "target": "s-7ba00cf807f6-c002:a013",
+      "kind": "example_of",
+      "condition": "大女儿打架",
+      "reason": "“学员案例中大女儿打架，讲师认为行为与大脑发育、家庭环境等多方面有关，不是单一事件”是“伤害孩子从来不是单一事件，与家庭环境等多方面有关”的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例是概念的实例。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a027",
+      "target": "s-7ba00cf807f6-c002:a018",
+      "kind": "example_of",
+      "condition": "学员案例",
+      "reason": "a027案例中孩子不扔垃圾，a018提供具体后果示例。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:r001",
+      "target": "s-7ba00cf807f6-c002:a008",
+      "kind": "supports",
+      "condition": "提问技巧",
+      "reason": "r001和a008内容相同，均为提问时提供具体示例。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:r002",
+      "target": "s-7ba00cf807f6-c002:a008",
+      "kind": "supports",
+      "condition": "提问技巧",
+      "reason": "r002建议换位思考提问，a008建议提供具体示例。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:r003",
+      "target": "s-7ba00cf807f6-c002:a024",
+      "kind": "association",
+      "condition": "如厕训练与内裤问题",
+      "reason": "“两岁孩子不愿穿内裤可能与如厕训练有关”与“学员案例中两岁女童不愿穿内裤，讲师指出可能与如厕训练有关”相互关联，但未构成直接支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "两者内容一致但未形成严格支持，改为关联。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:r004",
+      "target": "s-7ba00cf807f6-c002:a016",
+      "kind": "supports",
+      "condition": "打人法律后果",
+      "reason": "r004和a016内容相同，均为打人可能被起诉或报警。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:r005",
+      "target": "s-7ba00cf807f6-c002:a009",
+      "kind": "supports",
+      "condition": "绘本重复与大脑刺激",
+      "reason": "r005说九个月孩子看绘本，重复讲一本每天讲能刺激大脑，讲不同的更能刺激大脑；a009说两岁孩子满地乱坐是正常情况，两者无直接关系，但均为幼儿发展知识。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:r006",
+      "target": "s-7ba00cf807f6-c003:a002",
+      "kind": "supports",
+      "condition": "12-19岁不加思索的后果",
+      "reason": "r006和a003:a002内容相同，均为12-19岁产生不加思索的后果。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:r007",
+      "target": "s-7ba00cf807f6-c003:a004",
+      "kind": "supports",
+      "condition": "幼儿专注力表现",
+      "reason": "“孩子盯着一只蚂蚁看30分钟可能属于1.5-3岁在观察”支持“1.5-3岁孩子盯着蚂蚁看可能只是在观察”。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "源为目标的进一步支持。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c003:a001",
+      "target": "s-7ba00cf807f6-c003:a001",
+      "kind": "supports",
+      "condition": "7-12岁假设性思考",
+      "reason": "a001和r001内容相同，均为7-12岁开始假设性思考。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c003:a002",
+      "target": "s-7ba00cf807f6-c003:a002",
+      "kind": "supports",
+      "condition": "12-19岁不加思索的后果",
+      "reason": "a002和r002内容相同，均为12-19岁产生不加思索的后果。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c003:a003",
+      "target": "s-7ba00cf807f6-c003:a003",
+      "kind": "supports",
+      "condition": "19-25岁前额叶发育成熟",
+      "reason": "a003和r003内容相同，均为19-25岁前额叶发育成熟。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c003:a004",
+      "target": "s-7ba00cf807f6-c003:a004",
+      "kind": "supports",
+      "condition": "1.5-3岁观察蚂蚁",
+      "reason": "a004和r004内容相同，均为1.5-3岁孩子盯着蚂蚁看可能只是在观察。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c003:a005",
+      "target": "s-7ba00cf807f6-c003:a005",
+      "kind": "supports",
+      "condition": "3-7岁想象",
+      "reason": "a005和r005内容相同，均为3-7岁孩子盯着蚂蚁可能开始想象。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c003:a006",
+      "target": "s-7ba00cf807f6-c003:a006",
+      "kind": "supports",
+      "condition": "不要打扰观察或想象的孩子",
+      "reason": "a006和r006内容相同，均为不要打扰孩子。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c003:a007",
+      "target": "s-7ba00cf807f6-c003:a007",
+      "kind": "supports",
+      "condition": "白日梦孩子",
+      "reason": "a007和r007内容相同，均为会天花乱坠或做白日梦的孩子是最好的孩子。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c003:a008",
+      "target": "s-7ba00cf807f6-c003:a003",
+      "kind": "example_of",
+      "condition": "19-25岁控制冲动",
+      "reason": "a008案例中儿子女朋友被抢后控制冲动，a003说19-25岁前额叶发育成熟，能控制冲动。"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:v2-n001",
+      "target": "s-7ba00cf807f6-c001:a018",
+      "kind": "complements",
+      "condition": "当十岁孩子反复犯错并导致自卑等巨大代价时",
+      "reason": "source 提到面对反复犯错付出代价时需要调整，a018 提供了具体案例，说明单纯鼓励‘动脑子’无效，需复盘并找方案，补充了调整的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a018",
+      "target": "s-7ba00cf807f6-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当十岁孩子反复犯错并导致自卑等巨大代价时",
+      "reason": "source 提到面对反复犯错付出代价时需要调整，a018 提供了具体案例，说明单纯鼓励‘动脑子’无效，需复盘并找方案，补充了调整的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:v2-n001",
+      "target": "s-7ba00cf807f6-c001:a007",
+      "kind": "complements",
+      "condition": "当孩子反复犯同样错误且知道错但不知道怎么改时",
+      "reason": "source 后半句提到需要进一步复盘和干预，a007 提供了复盘和共同寻找解决方案的具体步骤，补充了操作层面内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a007",
+      "target": "s-7ba00cf807f6-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子反复犯同样错误且知道错但不知道怎么改时",
+      "reason": "source 后半句提到需要进一步复盘和干预，a007 提供了复盘和共同寻找解决方案的具体步骤，补充了操作层面内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:v2-n001",
+      "target": "s-7ba00cf807f6-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "两者都涉及父母根据孩子年龄调整角色，但 v2-n004 是通用原则，source 是十岁阶段的具体应用，主题相关但无直接互补，仅 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n004",
+      "target": "s-7ba00cf807f6-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "两者都涉及父母根据孩子年龄调整角色，但 v2-n004 是通用原则，source 是十岁阶段的具体应用，主题相关但无直接互补，仅 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:v2-n001",
+      "target": "s-7ba00cf807f6-c002:a016",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论鼓励犯错，a016 讨论打人事件，主题不同，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a016",
+      "target": "s-7ba00cf807f6-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论鼓励犯错，a016 讨论打人事件，主题不同，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:v2-n001",
+      "target": "s-7ba00cf807f6-c001:a026",
+      "kind": "complements",
+      "condition": "当孩子反复犯同样错误且知道错但不知道怎么改时",
+      "reason": "与 a007 内容相似，source 提到需要复盘和干预，a026 提供了具体的复盘方法，补充了 source 的后续操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a026",
+      "target": "s-7ba00cf807f6-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子反复犯同样错误且知道错但不知道怎么改时",
+      "reason": "与 a007 内容相似，source 提到需要复盘和干预，a026 提供了具体的复盘方法，补充了 source 的后续操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:v2-n001",
+      "target": "s-7ba00cf807f6-c001:a017",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 针对十岁孩子，a017 是 8 岁孩子探索行为案例，主题不直接相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a017",
+      "target": "s-7ba00cf807f6-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 针对十岁孩子，a017 是 8 岁孩子探索行为案例，主题不直接相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:v2-n001",
+      "target": "s-7ba00cf807f6-c001:a021",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论犯错与修补，a021 是三岁孩子吃饭用沙漏，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a021",
+      "target": "s-7ba00cf807f6-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论犯错与修补，a021 是三岁孩子吃饭用沙漏，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:v2-n001",
+      "target": "s-7ba00cf807f6-c001:a009",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于鼓励犯错，a009 关于为拘束孩子介绍访客，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a009",
+      "target": "s-7ba00cf807f6-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于鼓励犯错，a009 关于为拘束孩子介绍访客，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:v2-n001",
+      "target": "s-7ba00cf807f6-c003:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 针对十岁孩子，a004 是 1.5-3 岁儿童行为，年龄段不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c003:a004",
+      "target": "s-7ba00cf807f6-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 针对十岁孩子，a004 是 1.5-3 岁儿童行为，年龄段不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:v2-n001",
+      "target": "s-7ba00cf807f6-c001:a008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 强调鼓励犯错，a008 强调破例体验成功，两者都是激励方式但侧重点不同，仅主题相近。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a008",
+      "target": "s-7ba00cf807f6-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 强调鼓励犯错，a008 强调破例体验成功，两者都是激励方式但侧重点不同，仅主题相近。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:v2-n001",
+      "target": "s-7ba00cf807f6-c001:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论犯错修补，a004 讨论时间感知，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a004",
+      "target": "s-7ba00cf807f6-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论犯错修补，a004 讨论时间感知，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:v2-n001",
+      "target": "s-7ba00cf807f6-c002:r004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于鼓励犯错，r004 关于打人法律后果，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:r004",
+      "target": "s-7ba00cf807f6-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于鼓励犯错，r004 关于打人法律后果，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n001",
+      "target": "s-7ba00cf807f6-c001:a002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 用弹跳床比喻安全感，a002 明确区分了感到不安全与没有安全感，并用了相同比喻，补充了概念辨析。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a002",
+      "target": "s-7ba00cf807f6-c002:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 用弹跳床比喻安全感，a002 明确区分了感到不安全与没有安全感，并用了相同比喻，补充了概念辨析。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n001",
+      "target": "s-7ba00cf807f6-c001:a023",
+      "kind": "example_of",
+      "condition": "当孩子因想象怪物害怕时",
+      "reason": "source 说遇到真实危险感到不安全是正常反应，a023 案例中的三岁孩子害怕怪物是感到不安全而非没有安全感，是 source 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a023",
+      "target": "s-7ba00cf807f6-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "当孩子因想象怪物害怕时",
+      "reason": "source 说遇到真实危险感到不安全是正常反应，a023 案例中的三岁孩子害怕怪物是感到不安全而非没有安全感，是 source 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n001",
+      "target": "s-7ba00cf807f6-c002:a015",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 暗示安全感像弹跳床偶尔松动没问题，a015 指出若一件事毁了安全感说明平时没建立好，补充了安全感被毁的条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a015",
+      "target": "s-7ba00cf807f6-c002:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 暗示安全感像弹跳床偶尔松动没问题，a015 指出若一件事毁了安全感说明平时没建立好，补充了安全感被毁的条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n001",
+      "target": "s-7ba00cf807f6-c002:a013",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 强调正常危险反应不必过度紧张，a013 说伤害不是单一事件，平时关系好可修补，补充了长期视角。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a013",
+      "target": "s-7ba00cf807f6-c002:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 强调正常危险反应不必过度紧张，a013 说伤害不是单一事件，平时关系好可修补，补充了长期视角。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n001",
+      "target": "s-7ba00cf807f6-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论安全感，v2-n003 讨论两岁孩子打自己，主题不同，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n003",
+      "target": "s-7ba00cf807f6-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论安全感，v2-n003 讨论两岁孩子打自己，主题不同，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n001",
+      "target": "s-7ba00cf807f6-c002:a014",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 用弹跳床比喻，a014 用爱的银行比喻，两者都说明平时积累可缓冲偶尔问题，补充了类似理念。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a014",
+      "target": "s-7ba00cf807f6-c002:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 用弹跳床比喻，a014 用爱的银行比喻，两者都说明平时积累可缓冲偶尔问题，补充了类似理念。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n001",
+      "target": "s-7ba00cf807f6-c001:a022",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于安全感，a022 是婴儿睡眠训练案例，涉及平时照顾到位则无问题，有一定关联但非直接，仅 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a022",
+      "target": "s-7ba00cf807f6-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于安全感，a022 是婴儿睡眠训练案例，涉及平时照顾到位则无问题，有一定关联但非直接，仅 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n001",
+      "target": "s-7ba00cf807f6-c002:a009",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论安全感，a009 说两岁孩子满地乱坐正常，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a009",
+      "target": "s-7ba00cf807f6-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论安全感，a009 说两岁孩子满地乱坐正常，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n001",
+      "target": "s-7ba00cf807f6-c002:a023",
+      "kind": "example_of",
+      "condition": "当两岁多孩子打自己且家长过度反应时",
+      "reason": "source 强调正常反应不必过度紧张，a023 案例中讲师指出两岁多打自己有时是正常表现，家长不应过度反应，是 source 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a023",
+      "target": "s-7ba00cf807f6-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "当两岁多孩子打自己且家长过度反应时",
+      "reason": "source 强调正常反应不必过度紧张，a023 案例中讲师指出两岁多打自己有时是正常表现，家长不应过度反应，是 source 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n001",
+      "target": "s-7ba00cf807f6-c002:a022",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于安全感，a022 是 12 岁孩子沉迷 iPad 案例，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a022",
+      "target": "s-7ba00cf807f6-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于安全感，a022 是 12 岁孩子沉迷 iPad 案例，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n001",
+      "target": "s-7ba00cf807f6-c001:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论安全感，a004 讨论时间感知，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a004",
+      "target": "s-7ba00cf807f6-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论安全感，a004 讨论时间感知，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n001",
+      "target": "s-7ba00cf807f6-c001:a012",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于安全感，a012 是睡眠训练影响评估，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a012",
+      "target": "s-7ba00cf807f6-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于安全感，a012 是睡眠训练影响评估，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n002",
+      "target": "s-7ba00cf807f6-c002:a006",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 提到看行为能否停下来判断精神问题前兆，a006 提供了详细标准，补充了判断方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a006",
+      "target": "s-7ba00cf807f6-c002:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 提到看行为能否停下来判断精神问题前兆，a006 提供了详细标准，补充了判断方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n002",
+      "target": "s-7ba00cf807f6-c002:v2-n003",
+      "kind": "conditional_difference",
+      "condition": "当孩子年龄为两岁多且行为偶发时",
+      "reason": "source 针对 5.5 岁孩子，v2-n003 针对两岁多孩子，指出有时正常，但 source 要求警惕，两者适用年龄和严重程度不同，构成条件差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n003",
+      "target": "s-7ba00cf807f6-c002:v2-n002",
+      "kind": "conditional_difference",
+      "condition": "当孩子年龄为两岁多且行为偶发时",
+      "reason": "source 针对 5.5 岁孩子，v2-n003 针对两岁多孩子，指出有时正常，但 source 要求警惕，两者适用年龄和严重程度不同，构成条件差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n002",
+      "target": "s-7ba00cf807f6-c002:a023",
+      "kind": "example_of",
+      "condition": "两岁多孩子打自己且家长期望判断是否正常",
+      "reason": "source 提出需看行为能否停下来，a023 案例中的两岁孩子打自己，家长过度反应，讲师指出有时正常，是 source 原则的实例（但年龄不同，需注意条件）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a023",
+      "target": "s-7ba00cf807f6-c002:v2-n002",
+      "kind": "has_example",
+      "condition": "两岁多孩子打自己且家长期望判断是否正常",
+      "reason": "source 提出需看行为能否停下来，a023 案例中的两岁孩子打自己，家长过度反应，讲师指出有时正常，是 source 原则的实例（但年龄不同，需注意条件）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n002",
+      "target": "s-7ba00cf807f6-c002:a007",
+      "kind": "step_of",
+      "condition": "当孩子打自己且确定为正常反应时",
+      "reason": "source 提出判断精神问题前兆，a007 提供了应对孩子打自己的具体步骤，是后续行动的一步。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a007",
+      "target": "s-7ba00cf807f6-c002:v2-n002",
+      "kind": "has_step",
+      "condition": "当孩子打自己且确定为正常反应时",
+      "reason": "source 提出判断精神问题前兆，a007 提供了应对孩子打自己的具体步骤，是后续行动的一步。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n002",
+      "target": "s-7ba00cf807f6-c002:a024",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己行为，a024 是两岁女童不愿穿内裤，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a024",
+      "target": "s-7ba00cf807f6-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己行为，a024 是两岁女童不愿穿内裤，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n002",
+      "target": "s-7ba00cf807f6-c001:a017",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论打自己精神问题，a017 是 8 岁孩子探索行为，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a017",
+      "target": "s-7ba00cf807f6-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论打自己精神问题，a017 是 8 岁孩子探索行为，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n002",
+      "target": "s-7ba00cf807f6-c001:a023",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己，a023 是三岁孩子害怕怪物，虽涉及情绪但主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a023",
+      "target": "s-7ba00cf807f6-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己，a023 是三岁孩子害怕怪物，虽涉及情绪但主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n002",
+      "target": "s-7ba00cf807f6-c001:a020",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论打自己行为，a020 是三岁孩子出门磨蹭，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a020",
+      "target": "s-7ba00cf807f6-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论打自己行为，a020 是三岁孩子出门磨蹭，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n002",
+      "target": "s-7ba00cf807f6-c001:a018",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己，a018 是 10 岁孩子反复犯错，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a018",
+      "target": "s-7ba00cf807f6-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己，a018 是 10 岁孩子反复犯错，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n002",
+      "target": "s-7ba00cf807f6-c001:a014",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论打自己，a014 是 8 岁孩子不扔垃圾，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a014",
+      "target": "s-7ba00cf807f6-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论打自己，a014 是 8 岁孩子不扔垃圾，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n002",
+      "target": "s-7ba00cf807f6-c002:a022",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己，a022 是 12 岁孩子沉迷 iPad，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a022",
+      "target": "s-7ba00cf807f6-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己，a022 是 12 岁孩子沉迷 iPad，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n002",
+      "target": "s-7ba00cf807f6-c001:a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论打自己，a001 是让孩子了解行为影响关系，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a001",
+      "target": "s-7ba00cf807f6-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论打自己，a001 是让孩子了解行为影响关系，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n003",
+      "target": "s-7ba00cf807f6-c002:a023",
+      "kind": "example_of",
+      "condition": "当两岁多孩子打自己且家长过度反应时",
+      "reason": "source 指出两岁多打自己有时正常且家长不应过度反应，a023 案例具体展示了这种情况，是 source 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a023",
+      "target": "s-7ba00cf807f6-c002:v2-n003",
+      "kind": "has_example",
+      "condition": "当两岁多孩子打自己且家长过度反应时",
+      "reason": "source 指出两岁多打自己有时正常且家长不应过度反应，a023 案例具体展示了这种情况，是 source 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n003",
+      "target": "s-7ba00cf807f6-c002:a007",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 建议冷静表达不喜欢并淡化，a007 提供了具体的语言和行动步骤，补充了应对方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a007",
+      "target": "s-7ba00cf807f6-c002:v2-n003",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 建议冷静表达不喜欢并淡化，a007 提供了具体的语言和行动步骤，补充了应对方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n003",
+      "target": "s-7ba00cf807f6-c002:a009",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己行为，a009 说两岁孩子满地乱坐正常，主题不同但同年龄段。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a009",
+      "target": "s-7ba00cf807f6-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己行为，a009 说两岁孩子满地乱坐正常，主题不同但同年龄段。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n003",
+      "target": "s-7ba00cf807f6-c002:v2-n002",
+      "kind": "conditional_difference",
+      "condition": "当孩子年龄为 5.5 岁且行为老打自己时",
+      "reason": "source 针对两岁多偶发打自己，v2-n002 针对 5.5 岁老打自己，需警惕精神问题，两者年龄和严重程度不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n002",
+      "target": "s-7ba00cf807f6-c002:v2-n003",
+      "kind": "conditional_difference",
+      "condition": "当孩子年龄为 5.5 岁且行为老打自己时",
+      "reason": "source 针对两岁多偶发打自己，v2-n002 针对 5.5 岁老打自己，需警惕精神问题，两者年龄和严重程度不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n003",
+      "target": "s-7ba00cf807f6-c002:a024",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己，a024 是两岁女童不愿穿内裤，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a024",
+      "target": "s-7ba00cf807f6-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己，a024 是两岁女童不愿穿内裤，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n003",
+      "target": "s-7ba00cf807f6-c002:a006",
+      "kind": "complements",
+      "condition": "当孩子打自己行为频繁或无法停止时",
+      "reason": "source 提到若行为频繁需进一步评估，a006 提供了判断精神问题前兆的具体标准，补充了评估方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a006",
+      "target": "s-7ba00cf807f6-c002:v2-n003",
+      "kind": "complements",
+      "condition": "当孩子打自己行为频繁或无法停止时",
+      "reason": "source 提到若行为频繁需进一步评估，a006 提供了判断精神问题前兆的具体标准，补充了评估方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n003",
+      "target": "s-7ba00cf807f6-c001:a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己行为，a001 是让孩子了解行为影响关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a001",
+      "target": "s-7ba00cf807f6-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己行为，a001 是让孩子了解行为影响关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n003",
+      "target": "s-7ba00cf807f6-c002:r003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己，r003 是如厕训练与内裤问题，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:r003",
+      "target": "s-7ba00cf807f6-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己，r003 是如厕训练与内裤问题，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n003",
+      "target": "s-7ba00cf807f6-c001:a017",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于两岁孩子打自己，a017 是 8 岁孩子探索行为，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a017",
+      "target": "s-7ba00cf807f6-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于两岁孩子打自己，a017 是 8 岁孩子探索行为，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n003",
+      "target": "s-7ba00cf807f6-c002:r007",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己，r007 是幼儿专注力表现，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:r007",
+      "target": "s-7ba00cf807f6-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己，r007 是幼儿专注力表现，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n003",
+      "target": "s-7ba00cf807f6-c001:a015",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于两岁孩子打自己，a015 是老二被忽视案例，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a015",
+      "target": "s-7ba00cf807f6-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于两岁孩子打自己，a015 是老二被忽视案例，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n003",
+      "target": "s-7ba00cf807f6-c001:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己，a004 是时间感知差异，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a004",
+      "target": "s-7ba00cf807f6-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于打自己，a004 是时间感知差异，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n004",
+      "target": "s-7ba00cf807f6-c002:a026",
+      "kind": "example_of",
+      "condition": "当父母未扮演当前年龄阶段角色时",
+      "reason": "source 强调根据年龄扮演角色，a026 案例中讲师观察学员没有在做当前年龄阶段应有的父母角色，是 source 的反面实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a026",
+      "target": "s-7ba00cf807f6-c002:v2-n004",
+      "kind": "has_example",
+      "condition": "当父母未扮演当前年龄阶段角色时",
+      "reason": "source 强调根据年龄扮演角色，a026 案例中讲师观察学员没有在做当前年龄阶段应有的父母角色，是 source 的反面实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n004",
+      "target": "s-7ba00cf807f6-c002:a019",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 要求判断年龄阶段，a019 提供了具体场景判断练习，补充了识别方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a019",
+      "target": "s-7ba00cf807f6-c002:v2-n004",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 要求判断年龄阶段，a019 提供了具体场景判断练习，补充了识别方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n004",
+      "target": "s-7ba00cf807f6-c001:a011",
+      "kind": "complements",
+      "condition": "当孩子已长大且对过去伤害记忆模糊时",
+      "reason": "source 强调当前年龄阶段角色，a011 提到除了做好当前年龄阶段的事没有太多办法弥补，补充了具体情境应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a011",
+      "target": "s-7ba00cf807f6-c002:v2-n004",
+      "kind": "complements",
+      "condition": "当孩子已长大且对过去伤害记忆模糊时",
+      "reason": "source 强调当前年龄阶段角色，a011 提到除了做好当前年龄阶段的事没有太多办法弥补，补充了具体情境应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n004",
+      "target": "s-7ba00cf807f6-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "两者都涉及年龄阶段，但 source 是通用原则，v2-n001 是十岁阶段具体应用，主题相关但无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:v2-n001",
+      "target": "s-7ba00cf807f6-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "两者都涉及年龄阶段，但 source 是通用原则，v2-n001 是十岁阶段具体应用，主题相关但无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n004",
+      "target": "s-7ba00cf807f6-c002:a016",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于父母角色，a016 是处理打人事件，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a016",
+      "target": "s-7ba00cf807f6-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于父母角色，a016 是处理打人事件，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n004",
+      "target": "s-7ba00cf807f6-c001:a026",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于年龄角色，a026 是复盘具体方法，主题不同但同属教育方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a026",
+      "target": "s-7ba00cf807f6-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于年龄角色，a026 是复盘具体方法，主题不同但同属教育方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n004",
+      "target": "s-7ba00cf807f6-c001:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于父母角色，a005 是用闹钟帮三岁孩子建立时间观念，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a005",
+      "target": "s-7ba00cf807f6-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于父母角色，a005 是用闹钟帮三岁孩子建立时间观念，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n004",
+      "target": "s-7ba00cf807f6-c001:a007",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于年龄角色，a007 是复盘帮助孩子从错误中学习，主题相关但非直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a007",
+      "target": "s-7ba00cf807f6-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于年龄角色，a007 是复盘帮助孩子从错误中学习，主题相关但非直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n004",
+      "target": "s-7ba00cf807f6-c002:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于年龄角色，a003 是情绪连接与真正连接区别，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a003",
+      "target": "s-7ba00cf807f6-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于年龄角色，a003 是情绪连接与真正连接区别，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n004",
+      "target": "s-7ba00cf807f6-c001:a009",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于年龄角色，a009 是为拘束孩子介绍访客，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a009",
+      "target": "s-7ba00cf807f6-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于年龄角色，a009 是为拘束孩子介绍访客，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n004",
+      "target": "s-7ba00cf807f6-c001:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于年龄角色，a004 是时间感知差异，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a004",
+      "target": "s-7ba00cf807f6-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于年龄角色，a004 是时间感知差异，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n004",
+      "target": "s-7ba00cf807f6-c001:a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于年龄角色，a001 是让孩子了解行为影响关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a001",
+      "target": "s-7ba00cf807f6-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于年龄角色，a001 是让孩子了解行为影响关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n005",
+      "target": "s-7ba00cf807f6-c003:a003",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 与 a003 内容几乎相同，a003 重复了前额叶成熟能控制冲动的说法，属于补充确认。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c003:a003",
+      "target": "s-7ba00cf807f6-c002:v2-n005",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 与 a003 内容几乎相同，a003 重复了前额叶成熟能控制冲动的说法，属于补充确认。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n005",
+      "target": "s-7ba00cf807f6-c002:a021",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "a021 与 source 内容一致，进一步确认了前额叶发育成熟能控制冲动。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a021",
+      "target": "s-7ba00cf807f6-c002:v2-n005",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "a021 与 source 内容一致，进一步确认了前额叶发育成熟能控制冲动。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n005",
+      "target": "s-7ba00cf807f6-c003:a008",
+      "kind": "example_of",
+      "condition": "当 19-25 岁个体面对冲动时",
+      "reason": "source 说前额叶成熟使人能暂停冲动，a008 案例中儿子女朋友被抢后想打人但算了，是 source 的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c003:a008",
+      "target": "s-7ba00cf807f6-c002:v2-n005",
+      "kind": "has_example",
+      "condition": "当 19-25 岁个体面对冲动时",
+      "reason": "source 说前额叶成熟使人能暂停冲动，a008 案例中儿子女朋友被抢后想打人但算了，是 source 的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n005",
+      "target": "s-7ba00cf807f6-c003:a002",
+      "kind": "prerequisite",
+      "condition": "无特定条件",
+      "reason": "source 说 19-25 岁前额叶成熟能控制冲动，a002 说 12-19 岁产生很多不加思索的后果，暗示前额叶未成熟是前提，因此 source 可视为 a002 的后续阶段，但严格来说不是直接前提，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c003:a002",
+      "target": "s-7ba00cf807f6-c002:v2-n005",
+      "kind": "requires",
+      "condition": "无特定条件",
+      "reason": "source 说 19-25 岁前额叶成熟能控制冲动，a002 说 12-19 岁产生很多不加思索的后果，暗示前额叶未成熟是前提，因此 source 可视为 a002 的后续阶段，但严格来说不是直接前提，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n005",
+      "target": "s-7ba00cf807f6-c002:a012",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于冲动控制，a012 是过滤信息的方法，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a012",
+      "target": "s-7ba00cf807f6-c002:v2-n005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于冲动控制，a012 是过滤信息的方法，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n005",
+      "target": "s-7ba00cf807f6-c002:a019",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 提到 19-25 岁案例，a019 的年龄阶段判断练习中包含该案例，补充了场景识别。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a019",
+      "target": "s-7ba00cf807f6-c002:v2-n005",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 提到 19-25 岁案例，a019 的年龄阶段判断练习中包含该案例，补充了场景识别。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n005",
+      "target": "s-7ba00cf807f6-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于前额叶成熟，v2-n001 是十岁阶段鼓励犯错，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:v2-n001",
+      "target": "s-7ba00cf807f6-c002:v2-n005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于前额叶成熟，v2-n001 是十岁阶段鼓励犯错，主题无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n005",
+      "target": "s-7ba00cf807f6-c003:a001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 提到 19-25 岁，a001 提到 7-12 岁开始假设性思考，两者都是年龄阶段特征，可互补说明不同阶段认知发展。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c003:a001",
+      "target": "s-7ba00cf807f6-c002:v2-n005",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 提到 19-25 岁，a001 提到 7-12 岁开始假设性思考，两者都是年龄阶段特征，可互补说明不同阶段认知发展。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n005",
+      "target": "s-7ba00cf807f6-c002:a006",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于冲动控制，a006 是判断精神问题前兆，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a006",
+      "target": "s-7ba00cf807f6-c002:v2-n005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于冲动控制，a006 是判断精神问题前兆，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n005",
+      "target": "s-7ba00cf807f6-c002:r006",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于 19-25 岁，r006 关于 12-17 岁不加思索后果，虽相关但未直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:r006",
+      "target": "s-7ba00cf807f6-c002:v2-n005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于 19-25 岁，r006 关于 12-17 岁不加思索后果，虽相关但未直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n005",
+      "target": "s-7ba00cf807f6-c002:a026",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于前额叶成熟，a026 是学员案例涉及打架，主题不同但有一定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:a026",
+      "target": "s-7ba00cf807f6-c002:v2-n005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于前额叶成熟，a026 是学员案例涉及打架，主题不同但有一定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n005",
+      "target": "s-7ba00cf807f6-c003:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于 19-25 岁，a005 是 3-7 岁儿童想象，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c003:a005",
+      "target": "s-7ba00cf807f6-c002:v2-n005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于 19-25 岁，a005 是 3-7 岁儿童想象，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c002:v2-n006",
+      "target": "s-7ba00cf807f6-c001:a001",
+      "kind": "complements",
+      "condition": "在亲子关系中，希望建立朋友式尊重时",
+      "reason": "源提出朋友式关系需要尊重对待，候选补充了尊重对待的具体表现：父母让孩子了解其行为对父母造成影响，而非隐瞒。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-7ba00cf807f6-c001:a001",
+      "target": "s-7ba00cf807f6-c002:v2-n006",
+      "kind": "complements",
+      "condition": "在亲子关系中，希望建立朋友式尊重时",
+      "reason": "源提出朋友式关系需要尊重对待，候选补充了尊重对待的具体表现：父母让孩子了解其行为对父母造成影响，而非隐瞒。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "阶段与角色",
+      "when": "当父母需要根据孩子年龄阶段采取不同界限策略时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a013",
+        "s-7ba00cf807f6-c001:a024",
+        "s-7ba00cf807f6-c001:a025",
+        "s-7ba00cf807f6-c002:a001",
+        "s-7ba00cf807f6-c002:a002",
+        "s-7ba00cf807f6-c002:a022"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "阶段与角色",
+      "when": "当需要理解孩子情绪并判断其发展阶段时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a002",
+        "s-7ba00cf807f6-c001:a023",
+        "s-7ba00cf807f6-c002:a013",
+        "s-7ba00cf807f6-c002:a014",
+        "s-7ba00cf807f6-c002:a015"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "阶段与角色",
+      "when": "当需要根据孩子年龄阶段制定规则和行动时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a005",
+        "s-7ba00cf807f6-c001:a006",
+        "s-7ba00cf807f6-c001:a020",
+        "s-7ba00cf807f6-c001:a021"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "内在能力",
+      "to": "阶段与角色",
+      "when": "当需要根据孩子年龄阶段培养内在能力时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a007",
+        "s-7ba00cf807f6-c001:a008",
+        "s-7ba00cf807f6-c001:a018",
+        "s-7ba00cf807f6-c001:a026"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "当界限需要通过具体规则和行动来实施时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a014",
+        "s-7ba00cf807f6-c002:a005",
+        "s-7ba00cf807f6-c002:a017",
+        "s-7ba00cf807f6-c002:a018",
+        "s-7ba00cf807f6-c002:a027"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "当需要理解孩子情绪来设立界限时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a001",
+        "s-7ba00cf807f6-c001:a017"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "当需要根据孩子年龄阶段理解其情绪时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a002",
+        "s-7ba00cf807f6-c001:a023"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "规则与行动",
+      "when": "当需要根据孩子年龄阶段制定规则和行动时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a005",
+        "s-7ba00cf807f6-c001:a006",
+        "s-7ba00cf807f6-c001:a020",
+        "s-7ba00cf807f6-c001:a021"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "内在能力",
+      "when": "当需要根据孩子年龄阶段培养内在能力时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a007",
+        "s-7ba00cf807f6-c001:a008",
+        "s-7ba00cf807f6-c001:a018",
+        "s-7ba00cf807f6-c001:a026"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "理解情绪",
+      "when": "当父母需要提升自我修养以更好理解孩子情绪时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a008",
+        "s-7ba00cf807f6-c002:r001",
+        "s-7ba00cf807f6-c002:r002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a003",
+        "s-7ba00cf807f6-c001:a019"
+      ],
+      "reason": "内容完全相同，均为高质量陪伴的定义和时间安排，且针对21个月宝宝。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a005"
+      ],
+      "reason": "内容完全相同，均为用彩色闹钟帮助三岁孩子建立出门时间观念。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a006"
+      ],
+      "reason": "内容完全相同，均为三岁孩子吃饭时间建议与饥饿体验。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a007",
+        "s-7ba00cf807f6-c001:a026"
+      ],
+      "reason": "内容完全相同，均为帮助孩子从错误中学习：复盘与共同寻找解决方案。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a008"
+      ],
+      "reason": "内容完全相同，均为通过破例体验成功来激发孩子动力。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a009"
+      ],
+      "reason": "内容完全相同，均为为拘束的孩子提前介绍访客。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a010"
+      ],
+      "reason": "内容完全相同，均为为被忽视的老二安排单独陪伴时间。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a011"
+      ],
+      "reason": "内容完全相同，均为对成年子女过去伤害的处理：等待与道歉。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a012"
+      ],
+      "reason": "内容完全相同，均为睡眠训练哭闹超过15分钟的影响评估。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a013"
+      ],
+      "reason": "内容完全相同，均为对12岁孩子沉迷iPad和态度问题的界限建议。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a025",
+        "s-7ba00cf807f6-c002:a001"
+      ],
+      "reason": "内容完全相同，均为教练角色包含管教与后果。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a008",
+        "s-7ba00cf807f6-c002:r001"
+      ],
+      "reason": "内容完全相同，均为提问时提供具体示例。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a020",
+        "s-7ba00cf807f6-c003:a001"
+      ],
+      "reason": "内容完全相同，均为7-12岁儿童开始假设性思考。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a021",
+        "s-7ba00cf807f6-c003:a003"
+      ],
+      "reason": "内容完全相同，均为19-25岁前额叶发育成熟，能控制冲动。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:r006",
+        "s-7ba00cf807f6-c003:a002"
+      ],
+      "reason": "内容完全相同，均为12-19岁青少年不加思索的后果。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:r007",
+        "s-7ba00cf807f6-c003:a004"
+      ],
+      "reason": "内容完全相同，均为幼儿专注力表现，孩子盯着一只蚂蚁看30分钟属于幼儿阶段。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c003:a005"
+      ],
+      "reason": "内容完全相同，均为3-7岁儿童盯着蚂蚁可能开始想象。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c003:a006"
+      ],
+      "reason": "内容完全相同，均为不要打扰观察或想象的孩子。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c003:a007"
+      ],
+      "reason": "内容完全相同，均为会天花乱坠或做白日梦的孩子是最好的孩子。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a006",
+        "s-7ba00cf807f6-c001:a021"
+      ],
+      "description": "a006建议沙漏时间20-30分钟，而a021案例中家长使用15分钟沙漏，讲师建议改为20-30分钟，但未明确说明15分钟是否绝对错误，只是建议调整。",
+      "needed_evidence": "需要更多证据说明15分钟沙漏是否会导致孩子吃不饱或影响发育，以及不同孩子的个体差异。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a007",
+        "s-7ba00cf807f6-c002:a023"
+      ],
+      "description": "a007建议当孩子打自己时，冷静地说“妈妈不喜欢你打自己”，脸上有不高兴的表情，但不给更多注意力，然后转走；而a023案例中家长最初采用抓住手限制自由的方法，讲师建议改为a007的方法，但未说明如果孩子继续打自己且可能伤害自己时，是否应该采取更积极的干预。",
+      "needed_evidence": "需要更多证据说明在自我伤害行为严重时，如何平衡淡化行为和确保安全。"
+    },
+    {
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a013",
+        "s-7ba00cf807f6-c002:a015"
+      ],
+      "description": "a013说伤害孩子不是单一事件，如果平时安全感和关系建立得好，即使做了一件过分的事也能修补；a015说如果一件事情毁了孩子的安全感，说明平时安全感就没有建立起来。两者看似矛盾：a013暗示偶尔过分行为可修补，a015暗示安全感被毁说明平时没建立好，但未明确如果平时建立得好，是否可能因单一事件被毁。",
+      "needed_evidence": "需要更多证据说明安全感建立的程度与单一事件影响的关系。"
+    }
+  ],
+  "path": [
+    {
+      "name": "处理孩子行为问题的综合方法",
+      "steps": [
+        {
+          "action": "理解孩子的发展阶段和情绪",
+          "atom_ids": [
+            "s-7ba00cf807f6-c001:a002",
+            "s-7ba00cf807f6-c001:a004",
+            "s-7ba00cf807f6-c002:a009",
+            "s-7ba00cf807f6-c002:a019",
+            "s-7ba00cf807f6-c002:a020",
+            "s-7ba00cf807f6-c002:a021",
+            "s-7ba00cf807f6-c003:a001",
+            "s-7ba00cf807f6-c003:a002",
+            "s-7ba00cf807f6-c003:a003",
+            "s-7ba00cf807f6-c003:a004",
+            "s-7ba00cf807f6-c003:a005"
+          ],
+          "condition": "当孩子出现行为问题时，首先理解其年龄阶段和情绪状态"
+        },
+        {
+          "action": "建立亲子连接",
+          "atom_ids": [
+            "s-7ba00cf807f6-c002:a002",
+            "s-7ba00cf807f6-c002:a003",
+            "s-7ba00cf807f6-c002:a004"
+          ],
+          "condition": "当亲子关系疏远或孩子不愿沟通时"
+        },
+        {
+          "action": "设立界限并给予后果",
+          "atom_ids": [
+            "s-7ba00cf807f6-c001:a013",
+            "s-7ba00cf807f6-c001:a025",
+            "s-7ba00cf807f6-c002:a001",
+            "s-7ba00cf807f6-c002:a005",
+            "s-7ba00cf807f6-c002:a017",
+            "s-7ba00cf807f6-c002:a018"
+          ],
+          "condition": "当孩子该做不做或行为越界时"
+        },
+        {
+          "action": "针对具体问题采取特定方法",
+          "atom_ids": [
+            "s-7ba00cf807f6-c001:a005",
+            "s-7ba00cf807f6-c001:a006",
+            "s-7ba00cf807f6-c001:a007",
+            "s-7ba00cf807f6-c001:a008",
+            "s-7ba00cf807f6-c001:a009",
+            "s-7ba00cf807f6-c001:a010",
+            "s-7ba00cf807f6-c001:a011",
+            "s-7ba00cf807f6-c002:a007"
+          ],
+          "condition": "根据具体问题（如磨蹭、吃饭、反复犯错、缺乏动力、拘束、被忽视、过去伤害、自我伤害）选择相应方法"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-7ba00cf807f6-c001:u001",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a014"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a015"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u003",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a010"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a016"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a011"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a001"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a017"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u008",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a002"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a023"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a003"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a019"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a004"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028",
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a020"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a005"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a006"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a021"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a007"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a018"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020",
+        "b00021",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a008"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u022",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a009"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u023",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a012"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u024",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a022"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a025"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u026",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a013"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c001:u027",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a022"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0002",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a024",
+        "s-7ba00cf807f6-c002:a022"
+      ],
+      "blocks": [
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:a025",
+        "s-7ba00cf807f6-c002:a001"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a022"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a002"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0006",
+      "kind": "condition",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a022",
+        "s-7ba00cf807f6-c001:a013"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a003"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0008",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a004"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a004"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0010",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a005"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0011",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a005"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0012",
+      "kind": "condition",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a006"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046",
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0013",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0014",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a007"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0015",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a023"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050",
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0016",
+      "kind": "condition",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0017",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a008",
+        "s-7ba00cf807f6-c002:r001"
+      ],
+      "blocks": [
+        "b00049",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0018",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:r002"
+      ],
+      "blocks": [
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0019",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a024"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053",
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0020",
+      "kind": "condition",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a009",
+        "s-7ba00cf807f6-c002:a024"
+      ],
+      "blocks": [
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0021",
+      "kind": "condition",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:r003"
+      ],
+      "blocks": [
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0022",
+      "kind": "condition",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a024"
+      ],
+      "blocks": [
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0023",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a008",
+        "s-7ba00cf807f6-c002:r001"
+      ],
+      "blocks": [
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0024",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a025"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0025",
+      "kind": "rule",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a010"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a011"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0027",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a012"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0028",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a026"
+      ],
+      "blocks": [
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a013",
+        "s-7ba00cf807f6-c002:a026"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0030",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a013"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0031",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a014"
+      ],
+      "blocks": [
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0032",
+      "kind": "condition",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a015"
+      ],
+      "blocks": [
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0033",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:v2-n004"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0034",
+      "kind": "condition",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a026"
+      ],
+      "blocks": [
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0035",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a016",
+        "s-7ba00cf807f6-c002:r004"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0036",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:r005"
+      ],
+      "blocks": [
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0037",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a027",
+        "s-7ba00cf807f6-c002:a017",
+        "s-7ba00cf807f6-c002:a018"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0038",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a017"
+      ],
+      "blocks": [
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0039",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a019"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0040",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a019"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0041",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a019",
+        "s-7ba00cf807f6-c002:a020",
+        "s-7ba00cf807f6-c003:a001"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0042",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:r006",
+        "s-7ba00cf807f6-c003:a002"
+      ],
+      "blocks": [
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0043",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a019",
+        "s-7ba00cf807f6-c002:v2-n005"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0044",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a019"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c002:u0045",
+      "kind": "condition",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:v2-n006"
+      ],
+      "blocks": [
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c003:u0001",
+      "kind": "case",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a019",
+        "s-7ba00cf807f6-c003:a008"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c003:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a021",
+        "s-7ba00cf807f6-c003:a003"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c003:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:a019",
+        "s-7ba00cf807f6-c002:r007",
+        "s-7ba00cf807f6-c003:a004",
+        "s-7ba00cf807f6-c003:a005"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c003:u0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-7ba00cf807f6-c003:a006"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-7ba00cf807f6-c003:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-7ba00cf807f6-c003:a007"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "十岁阶段应鼓励孩子犯错并让其知道失败后可以修补",
+      "atom_ids": [
+        "s-7ba00cf807f6-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-7ba00cf807f6",
+          "blocks": [
+            "b00014"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "安全感像弹跳床，遇到危险感到不安全是正常反应",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-7ba00cf807f6",
+          "blocks": [
+            "b00039"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "metaphor"
+    },
+    {
+      "title": "案例：5.5岁孩子老打自己的行为",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-7ba00cf807f6",
+          "blocks": [
+            "b00046"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "两岁多打自己的行为可能正常",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-7ba00cf807f6",
+          "blocks": [
+            "b00050"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "condition"
+    },
+    {
+      "title": "父母应根据孩子年龄扮演相应角色",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-7ba00cf807f6",
+          "blocks": [
+            "b00067",
+            "b00068"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "19-25岁前额叶成熟使人能暂停冲动",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-7ba00cf807f6",
+          "blocks": [
+            "b00084"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "朋友式关系需要尊重对待",
+      "atom_ids": [
+        "s-7ba00cf807f6-c002:v2-n006"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-7ba00cf807f6",
+          "blocks": [
+            "b00068"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "condition"
+    }
+  ]
+}

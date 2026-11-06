@@ -1,0 +1,1574 @@
+{
+  "concepts": [
+    {
+      "name": "界限原则",
+      "definition": "界限原则是在设立界限过程中起定海神针作用的根本准则，用于判断某个界限是否属于界限范畴、是否应该设立，避免因学习界限后过于敏感而设立不当界限或不敢设立应设界限。",
+      "atom_ids": [
+        "s-80f55564356f-c001:a001",
+        "s-80f55564356f-c001:a002"
+      ]
+    },
+    {
+      "name": "界限提供安全感",
+      "definition": "界限给人安全感，因为它让人知道安全的范围在哪里。没有界限的人一定没有安全感，如同没有门的房子不会让人感到安全。安全感主要通过界限获得，但界限不是获得安全感的唯一途径。",
+      "atom_ids": [
+        "s-80f55564356f-c001:a003",
+        "s-80f55564356f-c001:a013",
+        "s-80f55564356f-c002:r001"
+      ]
+    },
+    {
+      "name": "无界限导致关系破裂",
+      "definition": "没有界限的关系如同没有栏杆的公路，最终可能冲入海中。例如朋友之间因不敢设立界限而一直忍耐，最终忍无可忍而断绝关系；朋友合伙做生意因最初没有立好界限而导致散伙反目。",
+      "atom_ids": [
+        "s-80f55564356f-c001:a004"
+      ]
+    },
+    {
+      "name": "界限与个人认知相互促进",
+      "definition": "界限给人个人认知，个人认知和界限相互推进：个人认知让一个人更有界限，更有界限时个人认知又更加明确，形成良性循环。缺乏界限观念的人个人认知未建立，容易受到PUA等伤害。",
+      "atom_ids": [
+        "s-80f55564356f-c001:a005"
+      ]
+    },
+    {
+      "name": "界限保护自我价值",
+      "definition": "界限帮助人阻止别人对自己有任何暴力（包括冷暴力）和损害自我价值的行为。当人有界限时，能保护自己不被他人贬低和攻击。",
+      "atom_ids": [
+        "s-80f55564356f-c001:a008"
+      ]
+    },
+    {
+      "name": "界限让人感知愉悦和快乐",
+      "definition": "人只有在安全的环境中才能感受美好和愉悦。界限提供安全感，使人能够放松和享受生活。在关系中，即使与喜欢的人在一起，如果没有界限，也无法感知真正的愉悦。",
+      "atom_ids": [
+        "s-80f55564356f-c001:a009"
+      ]
+    },
+    {
+      "name": "界限通过教导他人如何对待自己而赋予力量",
+      "definition": "界限通过教导别人如何正确对待自己而让自己感到力量。在关系初期，有界限的人就在教对方哪些行为可以接受、哪些不可以。没有界限的人会吸引不良对待。",
+      "atom_ids": [
+        "s-80f55564356f-c001:a010"
+      ]
+    },
+    {
+      "name": "健康界限与过度强硬界限的区别",
+      "definition": "有些人外表强硬、刀枪不入，认为界限就是不行就不行，没有商量余地，但这并不是健康界限。健康界限既不太软也不太硬。",
+      "atom_ids": [
+        "s-80f55564356f-c001:a011"
+      ]
+    },
+    {
+      "name": "无界限导致失控与讨好行为",
+      "definition": "没有界限会让人感到失控，于是想用各种方法获得控制感。讨好型人格通过讨好别人来控制对方对自己的印象，完美主义也是通过不断追求优秀来控制他人评价。但控制别人是可怕的，最终导致无力感。",
+      "atom_ids": [
+        "s-80f55564356f-c001:a012"
+      ]
+    },
+    {
+      "name": "界限原则一：种什么收什么",
+      "definition": "种什么收什么是指让一个人承担自己行为的后果。如果一个人没有界限，他就不会承担自己行为的后果，问题会转移到别人身上。",
+      "atom_ids": [
+        "s-80f55564356f-c001:a014",
+        "s-80f55564356f-c002:a001"
+      ]
+    },
+    {
+      "name": "界限原则二：责任",
+      "definition": "责任原则是“我对你负责，但我不为你负责”（I'm responsible to you, but not for you）。意思是对他人有责任帮助其成长或建立安全感，但不承担对方因自身原因产生的问题。",
+      "atom_ids": [
+        "s-80f55564356f-c002:a004",
+        "s-80f55564356f-c002:r005"
+      ]
+    },
+    {
+      "name": "界限原则三：尊重",
+      "definition": "尊重原则是要求他人尊重自己的界限，同时自己也尊重他人的界限。界限不是双重标准，不能对自己一套标准，对别人另一套标准。",
+      "atom_ids": [
+        "s-80f55564356f-c002:a006",
+        "s-80f55564356f-c002:r006"
+      ]
+    },
+    {
+      "name": "伤害与受伤的区别",
+      "definition": "伤害（harm）是主动词，指主动伤害他人；受伤（hurt）是被动词，指自己感到受伤。立界限时，我们尽量不主动伤害别人，但如果用对的方法、对的目的、对的语言做了对的事情，对方仍然感到受伤，那不是我们的错，而是对方需要处理自己的问题。",
+      "atom_ids": [
+        "s-80f55564356f-c002:a008",
+        "s-80f55564356f-c002:r007",
+        "s-80f55564356f-c002:r008"
+      ]
+    },
+    {
+      "name": "界限原则五：行动",
+      "definition": "行动原则是指立界限必须自己主动采取行动（take initiative），而不是等待别人改变或期待别人有界限意识。自己是行为发起人、选择决定者、立界限和持守界限的贯彻人。",
+      "atom_ids": [
+        "s-80f55564356f-c002:a009",
+        "s-80f55564356f-c002:r009"
+      ]
+    },
+    {
+      "name": "界限原则六：沟通",
+      "definition": "沟通原则是指立界限前必须事先与对方沟通，说明为什么立界限，目的是让关系更亲近而不是破裂。沟通方式有三种：被动型、攻击型、坚定型。",
+      "atom_ids": [
+        "s-80f55564356f-c002:a010"
+      ]
+    },
+    {
+      "name": "被动型沟通",
+      "definition": "被动型沟通是指一个人把他人的感受、需要和想法放在自己之前，哪怕自己付出很高代价。不表达自己的需要，不为自己站出来说话，容易被人占便宜。特点包括说话小声、不敢看人眼睛、允许别人占便宜、不能理直气壮表达需要。这种人可能很优秀但缺乏自信，容易自卑。",
+      "atom_ids": [
+        "s-80f55564356f-c002:a011",
+        "s-80f55564356f-c002:r011"
+      ]
+    },
+    {
+      "name": "攻击型沟通",
+      "definition": "攻击型沟通的人容易不耐烦、生气，经常使用批评、嘲笑、讽刺或强硬要求。说话声量大，攻击性强，不愿意妥协，经常打断对方，不尊重他人。",
+      "atom_ids": [
+        "s-80f55564356f-c002:a012"
+      ]
+    },
+    {
+      "name": "坚定型沟通（温柔而坚定）",
+      "definition": "坚定型沟通关注双方的需要，既在乎自己的需要也在乎对方的需要。能自信表达感受、需要和想法，同时聆听并尊重对方。有真正的自信、健全的自我认知、富有同情心，愿意在自己同意的范围内妥协。表现包括不打断别人、为自己发声、清楚表达需要、自信的语气和身体语言、目光注视对方。",
+      "atom_ids": [
+        "s-80f55564356f-c002:a013",
+        "s-80f55564356f-c002:r012",
+        "s-80f55564356f-c002:r013"
+      ]
+    },
+    {
+      "name": "界限原则七：关系不同，界限不同",
+      "definition": "不同关系有不同的界限。界限是循序渐进的，如果一个人能遵守第一层界限，就可以放松；如果不能遵守，就要设置更紧的界限来保护。",
+      "atom_ids": [
+        "s-80f55564356f-c002:a016",
+        "s-80f55564356f-c002:a018",
+        "s-80f55564356f-c002:r015",
+        "s-80f55564356f-c003:a001",
+        "s-80f55564356f-c003:a002"
+      ]
+    },
+    {
+      "name": "界限的层次与关系亲密度",
+      "definition": "关系亲密度决定界限层次：快递员、邮递员、不熟邻居只能在前院；好一点的朋友可以进客厅；闺蜜可以在厨房边做饭边聊天；更亲密的可以到楼上卧室聊悄悄话；夫妻最亲密。界限随关系亲密度递增而放宽。",
+      "atom_ids": [
+        "s-80f55564356f-c002:a017",
+        "s-80f55564356f-c003:r001"
+      ]
+    },
+    {
+      "name": "根据原则灵活立界限",
+      "definition": "由于生活中情况多变，立界限时应回到界限原则，根据具体关系灵活应用，而不是套用固定规则。",
+      "atom_ids": [
+        "s-80f55564356f-c003:a003"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-80f55564356f-c001:a001",
+      "target": "s-80f55564356f-c001:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "界限原则是根本准则，本课讲述七个界限原则，两者共同说明界限原则的重要性。"
+    },
+    {
+      "source": "s-80f55564356f-c001:a003",
+      "target": "s-80f55564356f-c001:a009",
+      "kind": "supports",
+      "condition": "安全感作为中介",
+      "reason": "界限提供安全感，而安全感使人能够放松和享受生活，因此界限提供安全感支持界限让人感知愉悦和快乐的说法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind=causes 改为 supports。"
+    },
+    {
+      "source": "s-80f55564356f-c001:a003",
+      "target": "s-80f55564356f-c001:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都强调界限提供安全感，且没有界限就没有安全感。"
+    },
+    {
+      "source": "s-80f55564356f-c001:a004",
+      "target": "s-80f55564356f-c001:a003",
+      "kind": "contrasts",
+      "condition": "",
+      "reason": "无界限导致关系破裂，与界限提供安全感形成对比，说明界限的重要性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-80f55564356f-c001:a005",
+      "target": "s-80f55564356f-c001:a008",
+      "kind": "supports",
+      "condition": null,
+      "reason": "界限保护自我价值，同时界限与个人认知相互促进，共同增强个人力量。"
+    },
+    {
+      "source": "s-80f55564356f-c001:a005",
+      "target": "s-80f55564356f-c001:a006",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "某高校女生被PUA自杀案例是缺乏界限观念和个人认知导致伤害的实例。"
+    },
+    {
+      "source": "s-80f55564356f-c001:a005",
+      "target": "s-80f55564356f-c001:a007",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "讲师通过设立界限应对PUA追求者，体现界限带来个人认知并相互促进，是“界限与个人认知相互促进”的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-80f55564356f-c001:a010",
+      "target": "s-80f55564356f-c001:a012",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "界限通过教导他人如何对待自己而赋予力量，而无界限导致失控与讨好行为，形成对比。"
+    },
+    {
+      "source": "s-80f55564356f-c001:a014",
+      "target": "s-80f55564356f-c002:a001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都是对界限原则一“种什么收什么”的阐述。"
+    },
+    {
+      "source": "s-80f55564356f-c001:a014",
+      "target": "s-80f55564356f-c002:a002",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "成年子女赌博欠债父母代偿的案例展示父母未让孩子承担后果，违反“种什么收什么”原则，作为反面例子说明该原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-80f55564356f-c002:a001",
+      "target": "s-80f55564356f-c002:a003",
+      "kind": "causes",
+      "condition": null,
+      "reason": "如果孩子不承担后果，就会认为可以一直种不好的因，因此不让孩子承担后果会导致行为问题。"
+    },
+    {
+      "source": "s-80f55564356f-c002:a004",
+      "target": "s-80f55564356f-c002:a005",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "丈夫对妻子安全感的责任界限是责任原则的具体应用。"
+    },
+    {
+      "source": "s-80f55564356f-c002:a006",
+      "target": "s-80f55564356f-c002:a007",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "无止境帮助别人但不接受帮助表现为双重标准，是违反“尊重原则”的反面例子，说明尊重原则的重要性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-80f55564356f-c002:a008",
+      "target": "s-80f55564356f-c002:r008",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“伤害与受伤的区别”中说明正确立界限下对方受伤不是自己错，支持“对方受伤不是自己错的条件”这一总结。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-80f55564356f-c002:a009",
+      "target": "s-80f55564356f-c002:r009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都强调行动原则要求自己主动采取行动。"
+    },
+    {
+      "source": "s-80f55564356f-c002:a010",
+      "target": "s-80f55564356f-c002:a011",
+      "kind": "association",
+      "condition": "",
+      "reason": "“被动型沟通”是“沟通原则”中提到的三种沟通方式之一，两者属于分类关系，但不是步骤关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不成立，改为关联。"
+    },
+    {
+      "source": "s-80f55564356f-c002:a010",
+      "target": "s-80f55564356f-c002:a012",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "攻击型沟通是沟通原则中的一种方式。"
+    },
+    {
+      "source": "s-80f55564356f-c002:a010",
+      "target": "s-80f55564356f-c002:a013",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "坚定型沟通是沟通原则中的一种方式。"
+    },
+    {
+      "source": "s-80f55564356f-c002:a013",
+      "target": "s-80f55564356f-c002:a014",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "使用坚定型沟通立界限的示例展示了坚定型沟通的具体应用。"
+    },
+    {
+      "source": "s-80f55564356f-c002:a015",
+      "target": "s-80f55564356f-c002:a010",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "不沟通直接断绝关系是违反沟通原则的反例。"
+    },
+    {
+      "source": "s-80f55564356f-c002:a016",
+      "target": "s-80f55564356f-c002:a017",
+      "kind": "supports",
+      "condition": null,
+      "reason": "关系不同界限不同，关系亲密度决定界限层次。"
+    },
+    {
+      "source": "s-80f55564356f-c002:a016",
+      "target": "s-80f55564356f-c002:a018",
+      "kind": "supports",
+      "condition": null,
+      "reason": "界限是循序渐进的，需要根据对方遵守情况调整。"
+    },
+    {
+      "source": "s-80f55564356f-c002:a018",
+      "target": "s-80f55564356f-c002:r015",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都强调界限的循序渐进调整。"
+    },
+    {
+      "source": "s-80f55564356f-c002:r002",
+      "target": "s-80f55564356f-c001:a012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "越优秀的人如果没有界限会感到越无能为力，因为想要控制别人，而无界限导致失控与讨好行为。"
+    },
+    {
+      "source": "s-80f55564356f-c002:r003",
+      "target": "s-80f55564356f-c002:a002",
+      "kind": "association",
+      "condition": "",
+      "reason": "“父母代偿的后果”描述一般后果，案例展示具体父母代偿行为及其后果，两者相关但前者不是后者的原因。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原因果方向不成立，改为关联。"
+    },
+    {
+      "source": "s-80f55564356f-c002:r004",
+      "target": "s-80f55564356f-c002:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "让孩子承担后果的具体做法符合“种什么收什么”原则，避免孩子不承担后果。"
+    },
+    {
+      "source": "s-80f55564356f-c002:r010",
+      "target": "s-80f55564356f-c002:a010",
+      "kind": "supports",
+      "condition": null,
+      "reason": "沟通的目的是让关系更加亲近，因此必须事先沟通。"
+    },
+    {
+      "source": "s-80f55564356f-c002:r012",
+      "target": "s-80f55564356f-c002:a011",
+      "kind": "supports",
+      "condition": "",
+      "reason": "三种沟通方式的关注点指出被动型沟通只在乎对方的需要，与被动型沟通的定义中将他人的感受、需要和想法放在自己之前、不表达自己的需要相一致，因此支持该定义。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-80f55564356f-c002:r012",
+      "target": "s-80f55564356f-c002:a012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "攻击型沟通只在乎自己的需要，与攻击型沟通的定义一致。"
+    },
+    {
+      "source": "s-80f55564356f-c002:r012",
+      "target": "s-80f55564356f-c002:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "坚定型沟通既在乎自己的需要也在乎对方的需要，与坚定型沟通的定义一致。"
+    },
+    {
+      "source": "s-80f55564356f-c002:r014",
+      "target": "s-80f55564356f-c002:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "立界限时必须使用坚定型沟通方式。"
+    },
+    {
+      "source": "s-80f55564356f-c003:a001",
+      "target": "s-80f55564356f-c003:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "关系不同界限不同，界限是循序渐进的。"
+    },
+    {
+      "source": "s-80f55564356f-c003:a003",
+      "target": "s-80f55564356f-c001:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "立界限时应回到界限原则，根据具体关系灵活应用。"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n001",
+      "target": "s-80f55564356f-c001:a014",
+      "kind": "complements",
+      "condition": "无特定条件，同原则",
+      "reason": "源定义“种什么收什么”原则，候选补充了该原则的具体例子（30多岁孩子花钱找父母）并指出不符合原则，补了实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:a014",
+      "target": "s-80f55564356f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件，同原则",
+      "reason": "源定义“种什么收什么”原则，候选补充了该原则的具体例子（30多岁孩子花钱找父母）并指出不符合原则，补了实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n001",
+      "target": "s-80f55564356f-c002:a001",
+      "kind": "complements",
+      "condition": "无特定条件，同原则",
+      "reason": "源定义“种什么收什么”，候选补充了反面后果：没有界限则不承担行为后果，问题转移到别人身上，补了原则内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:a001",
+      "target": "s-80f55564356f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件，同原则",
+      "reason": "源定义“种什么收什么”，候选补充了反面后果：没有界限则不承担行为后果，问题转移到别人身上，补了原则内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n001",
+      "target": "s-80f55564356f-c001:a002",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源是七个原则之一，候选说明界限原则是根本且本课讲述七个原则，提供了整体框架，但未直接补充源原则本身。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:a002",
+      "target": "s-80f55564356f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源是七个原则之一，候选说明界限原则是根本且本课讲述七个原则，提供了整体框架，但未直接补充源原则本身。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n001",
+      "target": "s-80f55564356f-c001:a001",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源是具体原则“种什么收什么”，候选是界限原则的总体定义与作用，范围不同，可视为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:a001",
+      "target": "s-80f55564356f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源是具体原则“种什么收什么”，候选是界限原则的总体定义与作用，范围不同，可视为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n001",
+      "target": "s-80f55564356f-c002:a009",
+      "kind": "association",
+      "condition": "无特定条件，同属界限原则系列",
+      "reason": "源是原则一，候选是原则五（行动），并列关系，共同构成七个原则，但无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:a009",
+      "target": "s-80f55564356f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，同属界限原则系列",
+      "reason": "源是原则一，候选是原则五（行动），并列关系，共同构成七个原则，但无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n001",
+      "target": "s-80f55564356f-c002:a010",
+      "kind": "association",
+      "condition": "无特定条件，同属界限原则系列",
+      "reason": "源是原则一，候选是原则六（沟通），并列关系，共同构成七个原则，但无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:a010",
+      "target": "s-80f55564356f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，同属界限原则系列",
+      "reason": "源是原则一，候选是原则六（沟通），并列关系，共同构成七个原则，但无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n001",
+      "target": "s-80f55564356f-c002:a006",
+      "kind": "association",
+      "condition": "无特定条件，同属界限原则系列",
+      "reason": "源是原则一，候选是原则三（尊重），并列关系，共同构成七个原则，但无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:a006",
+      "target": "s-80f55564356f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，同属界限原则系列",
+      "reason": "源是原则一，候选是原则三（尊重），并列关系，共同构成七个原则，但无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n001",
+      "target": "s-80f55564356f-c002:a004",
+      "kind": "association",
+      "condition": "无特定条件，同属界限原则系列",
+      "reason": "源是原则一，候选是原则二（责任），并列关系，共同构成七个原则，但无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:a004",
+      "target": "s-80f55564356f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，同属界限原则系列",
+      "reason": "源是原则一，候选是原则二（责任），并列关系，共同构成七个原则，但无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n001",
+      "target": "s-80f55564356f-c003:a003",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源是具体原则，候选说明立界限应根据原则灵活应用，关联原则的使用，但未直接针对源原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c003:a003",
+      "target": "s-80f55564356f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源是具体原则，候选说明立界限应根据原则灵活应用，关联原则的使用，但未直接针对源原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n001",
+      "target": "s-80f55564356f-c002:a002",
+      "kind": "complements",
+      "condition": "无特定条件，同原则的应用案例",
+      "reason": "源定义“种什么收什么”，候选提供了一个详细案例（成年子女赌博欠债父母代偿）说明父母未让孩子承担后果，补了原则的反面实操。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:a002",
+      "target": "s-80f55564356f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件，同原则的应用案例",
+      "reason": "源定义“种什么收什么”，候选提供了一个详细案例（成年子女赌博欠债父母代偿）说明父母未让孩子承担后果，补了原则的反面实操。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n001",
+      "target": "s-80f55564356f-c002:r009",
+      "kind": "association",
+      "condition": "无特定条件，同属界限原则系列",
+      "reason": "源是原则一，候选是行动原则的具体要求，属于原则五的细化，与源无直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:r009",
+      "target": "s-80f55564356f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，同属界限原则系列",
+      "reason": "源是原则一，候选是行动原则的具体要求，属于原则五的细化，与源无直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n001",
+      "target": "s-80f55564356f-c002:a016",
+      "kind": "association",
+      "condition": "无特定条件，同属界限原则系列",
+      "reason": "源是原则一，候选是原则七（关系不同界限不同），并列关系，无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:a016",
+      "target": "s-80f55564356f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，同属界限原则系列",
+      "reason": "源是原则一，候选是原则七（关系不同界限不同），并列关系，无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n002",
+      "target": "s-80f55564356f-c002:a002",
+      "kind": "complements",
+      "condition": "同一案例，候选提供完整过程和辅导介入",
+      "reason": "源简述30多岁子女花钱大手大脚找父母，候选补充了赌博欠债、父母代偿、辅导分析等细节，并联系到界限原则，补了源未提及的后续和结论。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:a002",
+      "target": "s-80f55564356f-c001:v2-n002",
+      "kind": "complements",
+      "condition": "同一案例，候选提供完整过程和辅导介入",
+      "reason": "源简述30多岁子女花钱大手大脚找父母，候选补充了赌博欠债、父母代偿、辅导分析等细节，并联系到界限原则，补了源未提及的后续和结论。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n002",
+      "target": "s-80f55564356f-c001:a014",
+      "kind": "example_of",
+      "condition": "当父母接济成年子女而不让其承担后果时",
+      "reason": "源案例中父母可能接济30多岁子女，未让其承担后果，是候选所述“种什么收什么”原则的反例，源为原则的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:a014",
+      "target": "s-80f55564356f-c001:v2-n002",
+      "kind": "has_example",
+      "condition": "当父母接济成年子女而不让其承担后果时",
+      "reason": "源案例中父母可能接济30多岁子女，未让其承担后果，是候选所述“种什么收什么”原则的反例，源为原则的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n002",
+      "target": "s-80f55564356f-c002:a001",
+      "kind": "association",
+      "condition": "无特定条件，可能为例证",
+      "reason": "源案例可能体现候选所述没有界限导致问题转移，但源未明确指出问题转移，故为关联而非例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:a001",
+      "target": "s-80f55564356f-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，可能为例证",
+      "reason": "源案例可能体现候选所述没有界限导致问题转移，但源未明确指出问题转移，故为关联而非例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n002",
+      "target": "s-80f55564356f-c002:r003",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源案例中父母可能接济，候选预测不让承担后果会导致以后更苦，但源未说明后果，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:r003",
+      "target": "s-80f55564356f-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源案例中父母可能接济，候选预测不让承担后果会导致以后更苦，但源未说明后果，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n002",
+      "target": "s-80f55564356f-c001:v2-n001",
+      "kind": "example_of",
+      "condition": "当父母接济成年子女而不让其承担后果时",
+      "reason": "源案例正是“种什么收什么”原则所批评的情况：父母替子女承担后果，源为该原则的具体例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n001",
+      "target": "s-80f55564356f-c001:v2-n002",
+      "kind": "has_example",
+      "condition": "当父母接济成年子女而不让其承担后果时",
+      "reason": "源案例正是“种什么收什么”原则所批评的情况：父母替子女承担后果，源为该原则的具体例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n002",
+      "target": "s-80f55564356f-c001:r001",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源与候选无直接逻辑关系，候选讨论界限缺失与社会问题关联，源是具体案例，但未涉及社会问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:r001",
+      "target": "s-80f55564356f-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源与候选无直接逻辑关系，候选讨论界限缺失与社会问题关联，源是具体案例，但未涉及社会问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n002",
+      "target": "s-80f55564356f-c001:a003",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源未涉及安全感，候选讨论界限提供安全感，主题相关但无直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:a003",
+      "target": "s-80f55564356f-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源未涉及安全感，候选讨论界限提供安全感，主题相关但无直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n002",
+      "target": "s-80f55564356f-c002:a010",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源未涉及沟通，候选是沟通原则，主题相关但无直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:a010",
+      "target": "s-80f55564356f-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源未涉及沟通，候选是沟通原则，主题相关但无直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n002",
+      "target": "s-80f55564356f-c002:a012",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源未涉及沟通方式，候选是攻击型沟通，无直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:a012",
+      "target": "s-80f55564356f-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源未涉及沟通方式，候选是攻击型沟通，无直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n002",
+      "target": "s-80f55564356f-c001:a006",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源与候选无直接逻辑关系，候选是某高校女生被PUA案例，源是子女找父母补贴。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:a006",
+      "target": "s-80f55564356f-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源与候选无直接逻辑关系，候选是某高校女生被PUA案例，源是子女找父母补贴。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n002",
+      "target": "s-80f55564356f-c002:r004",
+      "kind": "association",
+      "condition": "无特定条件，角色不同",
+      "reason": "源涉及成年子女，候选讨论让孩子承担后果的具体做法，可能适用于未成年，角色不同，不能混用，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:r004",
+      "target": "s-80f55564356f-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，角色不同",
+      "reason": "源涉及成年子女，候选讨论让孩子承担后果的具体做法，可能适用于未成年，角色不同，不能混用，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n002",
+      "target": "s-80f55564356f-c002:a003",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源案例中父母可能接济，候选说明不让孩子承担后果的长期影响，但源未体现长期影响，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:a003",
+      "target": "s-80f55564356f-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "源案例中父母可能接济，候选说明不让孩子承担后果的长期影响，但源未体现长期影响，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n003",
+      "target": "s-80f55564356f-c001:a013",
+      "kind": "complements",
+      "condition": "在无界限感的心理后果层面",
+      "reason": "source 指出无界限感导致焦虑和缺乏信心，候选补充无界限感还导致缺乏安全感，两者并列补充界限缺失的心理表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:a013",
+      "target": "s-80f55564356f-c001:v2-n003",
+      "kind": "complements",
+      "condition": "在无界限感的心理后果层面",
+      "reason": "source 指出无界限感导致焦虑和缺乏信心，候选补充无界限感还导致缺乏安全感，两者并列补充界限缺失的心理表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n003",
+      "target": "s-80f55564356f-c002:r001",
+      "kind": "complements",
+      "condition": "在无界限感的心理后果层面",
+      "reason": "候选与上一条内容相同，同样补充安全感缺乏这一心理后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c002:r001",
+      "target": "s-80f55564356f-c001:v2-n003",
+      "kind": "complements",
+      "condition": "在无界限感的心理后果层面",
+      "reason": "候选与上一条内容相同，同样补充安全感缺乏这一心理后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n003",
+      "target": "s-80f55564356f-c001:a009",
+      "kind": "complements",
+      "condition": "在界限作用的正反面对比中",
+      "reason": "source 讲无界限感导致焦虑和缺乏信心，候选讲有界限让人感知愉悦和快乐，共同补充界限对心理状态的影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:a009",
+      "target": "s-80f55564356f-c001:v2-n003",
+      "kind": "complements",
+      "condition": "在界限作用的正反面对比中",
+      "reason": "source 讲无界限感导致焦虑和缺乏信心，候选讲有界限让人感知愉悦和快乐，共同补充界限对心理状态的影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:v2-n003",
+      "target": "s-80f55564356f-c001:r001",
+      "kind": "association",
+      "condition": "在界限缺失的后果层面",
+      "reason": "source 侧重个体心理焦虑与信心缺乏，候选侧重社会问题，两者均涉及界限缺失但层面不同，不确定具体关系，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-80f55564356f-c001:r001",
+      "target": "s-80f55564356f-c001:v2-n003",
+      "kind": "association",
+      "condition": "在界限缺失的后果层面",
+      "reason": "source 侧重个体心理焦虑与信心缺乏，候选侧重社会问题，两者均涉及界限缺失但层面不同，不确定具体关系，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "自我认知",
+      "when": "当人设立界限时，界限与个人认知相互促进，形成良性循环。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-80f55564356f-c001:a005",
+        "s-80f55564356f-c001:a006",
+        "s-80f55564356f-c001:a007",
+        "s-80f55564356f-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "依赖与失控",
+      "when": "当人没有界限时，会感到失控，于是想用各种方法获得控制感，如讨好型人格和完美主义。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-80f55564356f-c001:a012",
+        "s-80f55564356f-c002:r002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-80f55564356f-c001:a013",
+        "s-80f55564356f-c002:r001"
+      ],
+      "reason": "两者都表达“没有界限的人一定没有安全感，安全感主要通过界限获得，但界限不是唯一途径”，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-80f55564356f-c001:a014",
+        "s-80f55564356f-c002:a001"
+      ],
+      "reason": "两者都是对界限原则一“种什么收什么”的定义，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-80f55564356f-c002:a016",
+        "s-80f55564356f-c002:a018",
+        "s-80f55564356f-c002:r015",
+        "s-80f55564356f-c003:a002"
+      ],
+      "reason": "这些记录都表达“界限是循序渐进的，能遵守则放松，不能遵守则收紧”，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-80f55564356f-c002:a017",
+        "s-80f55564356f-c003:r001"
+      ],
+      "reason": "两者都描述关系亲密度与空间接近度的对应关系，内容实质等价。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-80f55564356f-c001:a011",
+        "s-80f55564356f-c002:a013"
+      ],
+      "description": "健康界限既不太软也不太硬，而坚定型沟通强调温柔而坚定，但未明确说明如何把握“坚定”与“强硬”的界限，可能存在模糊性。",
+      "needed_evidence": "需要进一步明确健康界限与过度强硬界限的具体区分标准，以及坚定型沟通在实践中的具体表现。"
+    }
+  ],
+  "path": [
+    {
+      "name": "设立界限的主要方法",
+      "steps": [
+        {
+          "action": "回到界限原则审视",
+          "atom_ids": [
+            "s-80f55564356f-c001:a002",
+            "s-80f55564356f-c003:a003"
+          ],
+          "condition": "在考虑如何为特定情况设立界限时"
+        },
+        {
+          "action": "主动采取行动",
+          "atom_ids": [
+            "s-80f55564356f-c002:a009",
+            "s-80f55564356f-c002:r009"
+          ],
+          "condition": "自己必须是行为发起人，不等待别人改变"
+        },
+        {
+          "action": "事先沟通",
+          "atom_ids": [
+            "s-80f55564356f-c002:a010",
+            "s-80f55564356f-c002:r010"
+          ],
+          "condition": "立界限前必须与对方沟通，说明目的"
+        },
+        {
+          "action": "使用坚定型沟通",
+          "atom_ids": [
+            "s-80f55564356f-c002:a013",
+            "s-80f55564356f-c002:a014",
+            "s-80f55564356f-c002:r014"
+          ],
+          "condition": "表达自己的需要，同时尊重对方"
+        },
+        {
+          "action": "根据关系调整界限",
+          "atom_ids": [
+            "s-80f55564356f-c002:a016",
+            "s-80f55564356f-c002:a018",
+            "s-80f55564356f-c002:r015",
+            "s-80f55564356f-c003:a002"
+          ],
+          "condition": "根据关系亲密度和对方遵守情况灵活调整"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-80f55564356f-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c001:a001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002",
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c001:a002"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c001:a003"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u004",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-80f55564356f-c001:a004"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c001:a005"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-80f55564356f-c001:a006"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-80f55564356f-c001:a007"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021",
+        "b00022",
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c001:a008"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c001:a009"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c001:a010"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u011",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-80f55564356f-c001:a011"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c001:a012"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035",
+        "b00036",
+        "b00037",
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c001:a013"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c001:r001"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:r002"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c001:u018",
+      "kind": "case",
+      "atom_ids": [
+        "s-80f55564356f-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c001:a013",
+        "s-80f55564356f-c002:r001"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c001:a014",
+        "s-80f55564356f-c002:a001"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-80f55564356f-c002:a002"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:r003"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:a003"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-80f55564356f-c002:r004"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:a004",
+        "s-80f55564356f-c002:r005"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-80f55564356f-c002:a005"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051",
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:a006",
+        "s-80f55564356f-c002:a007",
+        "s-80f55564356f-c002:r006"
+      ],
+      "blocks": [
+        "b00054",
+        "b00055",
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:a008",
+        "s-80f55564356f-c002:r007",
+        "s-80f55564356f-c002:r008"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:a009",
+        "s-80f55564356f-c002:r009"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:a010",
+        "s-80f55564356f-c002:r010"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:a011",
+        "s-80f55564356f-c002:r011"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066",
+        "b00067",
+        "b00068",
+        "b00069",
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:a012"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:a013"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075",
+        "b00076",
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:r012"
+      ],
+      "blocks": [
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:r013"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-80f55564356f-c002:a014",
+        "s-80f55564356f-c002:r014"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u019",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-80f55564356f-c002:a015"
+      ],
+      "blocks": [
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c002:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:a016",
+        "s-80f55564356f-c002:a017"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082",
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c003:u-001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c003:a001"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c003:u-002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:a017",
+        "s-80f55564356f-c003:r001"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c003:u-003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-80f55564356f-c002:a018",
+        "s-80f55564356f-c002:r015",
+        "s-80f55564356f-c003:a002"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-80f55564356f-c003:u-004",
+      "kind": "method",
+      "atom_ids": [
+        "s-80f55564356f-c003:a003"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "界限原则之一：种什么收什么",
+      "atom_ids": [
+        "s-80f55564356f-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-80f55564356f",
+          "blocks": [
+            "b00040",
+            "b00041"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "案例：30多岁子女乱花钱找父母补贴",
+      "atom_ids": [
+        "s-80f55564356f-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-80f55564356f",
+          "blocks": [
+            "b00041"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "无界限感与焦虑及缺乏信心的关联",
+      "atom_ids": [
+        "s-80f55564356f-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-80f55564356f",
+          "blocks": [
+            "b00032",
+            "b00033"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "observation"
+    }
+  ]
+}

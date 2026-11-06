@@ -1,0 +1,3256 @@
+{
+  "concepts": [
+    {
+      "name": "安全感",
+      "definition": "孩子在一个安全的家庭环境中经历负面情绪，并学习如何处理这些负面情绪，从而获得更高维度的安全感。",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a001",
+        "s-bbb64f49498f-c001:a002",
+        "s-bbb64f49498f-c001:a003"
+      ]
+    },
+    {
+      "name": "情绪积压与崩溃",
+      "definition": "情绪一直积压到一个地步，人没有办法了就会崩溃。偶尔的崩溃没问题，但最好在积压到崩溃之前让孩子知道自己的情绪。",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a004",
+        "s-bbb64f49498f-c001:a005"
+      ]
+    },
+    {
+      "name": "独立入睡训练",
+      "definition": "宝宝独立入睡时哭闹是一个过程，预计再过一周会好。在穿睡袋之前跟孩子开开心心地互动，如读书、晚安亲吻，然后离开。",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a007",
+        "s-bbb64f49498f-c001:a008",
+        "s-bbb64f49498f-c001:r001"
+      ]
+    },
+    {
+      "name": "兄弟吵架介入时机",
+      "definition": "当孩子争吵时，家长要竖起耳朵听他们在吵什么。如果只是争论谁对谁错，不用管；如果开始攻击对方、骂人，就要介入。",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a010",
+        "s-bbb64f49498f-c001:a011"
+      ]
+    },
+    {
+      "name": "父母权威与界限",
+      "definition": "父母要快速树立尊严和权威，用界限的方式。告诉孩子后果和自然后果，让孩子自己选择。不用吼叫或强迫。",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a012",
+        "s-bbb64f49498f-c001:a013",
+        "s-bbb64f49498f-c001:a015"
+      ]
+    },
+    {
+      "name": "饮食失控与心理问题",
+      "definition": "家长把孩子的心理搅乱了，孩子生理出现问题，但家长只注重生理方面。心理引起的身体病变最麻烦也最容易解决，解决心理问题生理问题就走了。",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a016",
+        "s-bbb64f49498f-c001:a017",
+        "s-bbb64f49498f-c001:a018",
+        "s-bbb64f49498f-c001:a024",
+        "s-bbb64f49498f-c001:a025",
+        "s-bbb64f49498f-c001:a026"
+      ]
+    },
+    {
+      "name": "零食替换法",
+      "definition": "从现在开始不要管孩子吃东西，让他吃零食。吃饭吃到差不多时，告诉孩子待会儿有冰激凌。用零食替换掉他要吃的饭。",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a018",
+        "s-bbb64f49498f-c001:a023",
+        "s-bbb64f49498f-c001:a028",
+        "s-bbb64f49498f-c001:a036",
+        "s-bbb64f49498f-c001:r002"
+      ]
+    },
+    {
+      "name": "心理力量与身体健康",
+      "definition": "记忆、心里面的力量比任何都重要。心理健康活泼喜乐开心的人身体很少不好。",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a030",
+        "s-bbb64f49498f-c001:a031"
+      ]
+    },
+    {
+      "name": "亲子界限与负面感受",
+      "definition": "父母不应向孩子倾诉负面感受，因为孩子不应承担父母的负面情绪，孩子本身已有许多焦虑需要处理。",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a041",
+        "s-bbb64f49498f-c001:a042",
+        "s-bbb64f49498f-c001:a043",
+        "s-bbb64f49498f-c002:r001",
+        "s-bbb64f49498f-c002:r002"
+      ]
+    },
+    {
+      "name": "后果与惩罚的区别",
+      "definition": "后果是行为自然带来的结果，即“种什么得什么”；惩罚是父母因生气而让孩子受罪、痛苦，目的是发泄怒气。",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a044",
+        "s-bbb64f49498f-c002:a001",
+        "s-bbb64f49498f-c002:r003"
+      ]
+    },
+    {
+      "name": "幼儿睡眠自然后果",
+      "definition": "当孩子该睡觉却想玩不上床时，父母可将孩子抱上床后守在旁边，关灯不说话，不允许孩子下床；若孩子再下床，则轻轻按住孩子，使其暂时失去身体自由，但态度不凶。",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a002",
+        "s-bbb64f49498f-c002:r004",
+        "s-bbb64f49498f-c002:xe002"
+      ]
+    },
+    {
+      "name": "体罚的长期危害",
+      "definition": "用板板轻打孩子看似立即有效，但孩子长大后需真正打下去才有效，到十五六岁则打不下去，父母将失去让孩子听话的能力。",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a003",
+        "s-bbb64f49498f-c002:r005"
+      ]
+    },
+    {
+      "name": "考试压力与亲子关系",
+      "definition": "当孩子考试成绩不佳时，父母的生气、失望等情绪表现会刺激孩子的杏仁核，给孩子带来巨大压力。此时孩子根本不想与父母相处。",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a005",
+        "s-bbb64f49498f-c002:a006",
+        "s-bbb64f49498f-c002:r011"
+      ]
+    },
+    {
+      "name": "无条件接纳与学习动力",
+      "definition": "激发孩子学习动力的方法是让孩子知道：学不学由他自己选择，但无论学或不学，父母都永远爱他；只要尽力，即使考不及格也照样爱他。",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a007",
+        "s-bbb64f49498f-c002:a008",
+        "s-bbb64f49498f-c002:r008",
+        "s-bbb64f49498f-c002:r010",
+        "s-bbb64f49498f-c002:r014"
+      ]
+    },
+    {
+      "name": "幸福能力与成绩",
+      "definition": "孩子将来能否幸福、感知幸福的能力比考上好大学更重要。成绩好不代表人生成功。",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a010"
+      ]
+    },
+    {
+      "name": "情绪触发与翻篇",
+      "definition": "当孩子因触及敏感话题而翻脸时，说明他不想再谈此事，父母应翻篇，不要一直提回去。",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a011",
+        "s-bbb64f49498f-c002:a012"
+      ]
+    },
+    {
+      "name": "交托与信任",
+      "definition": "父母将孩子的事情交托给信仰后，不要一直盯着孩子问，因为保守的方法可能与父母想的不同。若父母忍不住又捡回来自己管，则交托无效。",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a013"
+      ]
+    },
+    {
+      "name": "孩子提条件背后的心理",
+      "definition": "孩子提条件是因为他是弱者，需要强者先下来，他有软弱和羞耻，想确认父母是否还爱他。",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a015",
+        "s-bbb64f49498f-c002:a016",
+        "s-bbb64f49498f-c002:a017"
+      ]
+    },
+    {
+      "name": "欺负小动物与玩火",
+      "definition": "孩子欺负小动物一定要小心，需观察他是否玩火，因为欺负小动物和玩火常连在一起。若有此行为，要告诉孩子不可以。",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a019",
+        "s-bbb64f49498f-c003:a001",
+        "s-bbb64f49498f-c003:a003",
+        "s-bbb64f49498f-c003:a004"
+      ]
+    },
+    {
+      "name": "威胁生命的发狂",
+      "definition": "对于威胁生命的发狂要坚决禁止，并告诉孩子如果还有下一次，会毫不犹豫地把他送到医院去。",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:a005",
+        "s-bbb64f49498f-c003:a006"
+      ]
+    },
+    {
+      "name": "早期伤害的弥补",
+      "definition": "弥补早期伤害的方法：向孩子道歉；绝对不要对孩子使用任何类似的暴力方式；家长要记住种什么收什么，父母要花漫长的时间修补。",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:a008",
+        "s-bbb64f49498f-c003:a009"
+      ]
+    },
+    {
+      "name": "蹲下与孩子沟通",
+      "definition": "任何时候与孩子讲话，人都要蹲下去，不要站着跟孩子讲话，这样会让自己不舒服，也会让孩子感到安全。",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:a010",
+        "s-bbb64f49498f-c003:a011"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-bbb64f49498f-c001:a001",
+      "target": "s-bbb64f49498f-c001:a002",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00002 具体说明温室安全感与经得起碰撞的安全感的区别，支持 k00001 中关于在安全环境中经历负面情绪获得更高维度安全感的观点。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a003",
+      "target": "s-bbb64f49498f-c001:a001",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00003 提出让孩子知道父母的负面情绪可以使安全感更完整，是 k00001 中安全感完整度的一个具体方法。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a004",
+      "target": "s-bbb64f49498f-c001:a005",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "k00005 用气球比喻情绪积压，是 k00004 中情绪积压导致崩溃的生动例子。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a007",
+      "target": "s-bbb64f49498f-c001:a008",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "k00008 提供了应对 k00007 中宝宝独立入睡哭闹的具体步骤。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a010",
+      "target": "s-bbb64f49498f-c001:a011",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "k00011 回答了 k00010 中关于兄弟吵架介入时机的问题。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a012",
+      "target": "s-bbb64f49498f-c001:a013",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00013 提出用界限快速树立权威，是解决 k00012 中孩子不听父母问题的具体方法。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a015",
+      "target": "s-bbb64f49498f-c001:a012",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00015 建议 学员 先改变自己，让孩子看到改变后自然会尊重，从而解决 k00012 中孩子不听父母的问题。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a016",
+      "target": "s-bbb64f49498f-c001:a017",
+      "kind": "example_of",
+      "condition": "该案例体现心理问题导致生理症状",
+      "reason": "八岁男孩因被禁止零食而饮食失控，肠胃镜无器质性问题，符合“心理问题导致生理症状”的命题，原因果方向不成立，改为案例是该命题的例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 causes，方向从案例到理论不恰当。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a018",
+      "target": "s-bbb64f49498f-c001:a016",
+      "kind": "association",
+      "condition": "方法针对该案例提出改善步骤",
+      "reason": "该改善饮食失控的方法与八岁男孩饮食失控案例相关，但方法不是案例的证据或支持，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不在允许类型内。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a024",
+      "target": "s-bbb64f49498f-c001:a016",
+      "kind": "association",
+      "condition": "类似案例相互关联，但不等同",
+      "reason": "中耳炎孩子被限制饮食的案例与八岁男孩饮食失控案例都反映饮食限制与心理生理问题的关联，但前者不能作为后者的例子，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 不成立。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a025",
+      "target": "s-bbb64f49498f-c001:a016",
+      "kind": "supports",
+      "condition": "越限制越想吃是该案例的机制",
+      "reason": "“越限制越想吃”解释了八岁男孩因被禁止零食而饮食失控的机制，改为支持关系以符合可用的类型。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 不在允许类型内。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a026",
+      "target": "s-bbb64f49498f-c001:a018",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00026 说明改变父母行为可以解决孩子心理问题，支持 k00018 中停止限制、用零食替换的方法。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a030",
+      "target": "s-bbb64f49498f-c001:a017",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00030 强调心理力量比身体更重要，支持 k00017 中心理问题导致生理症状的观点。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a038",
+      "target": "s-bbb64f49498f-c001:a032",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00038 指出焦虑会导致拉肚子或便秘，支持 k00032 中拉肚子是心理问题的观点。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a041",
+      "target": "s-bbb64f49498f-c001:a042",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "k00042 回答了 k00041 中家长关于是否暂时不向女儿表达负面感受的问题。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a043",
+      "target": "s-bbb64f49498f-c001:a041",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00043 说明孩子不应承担父母负面感受，支持 k00041 中家长的做法。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a044",
+      "target": "s-bbb64f49498f-c002:a001",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00047 进一步解释后果与惩罚的本质区别，支持 k00044 中的定义。"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a002",
+      "target": "s-bbb64f49498f-c002:xe001",
+      "kind": "applies_to",
+      "condition": "无",
+      "reason": "k00048 提供了针对幼儿不上床的自然后果实施方法，适用于 k00118 中母亲描述的 3 岁孩子不上床的情况。"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a003",
+      "target": "s-bbb64f49498f-c002:xe001",
+      "kind": "contrasts",
+      "condition": "无",
+      "reason": "“用板板轻打孩子作为管教手段的长期危害”反对使用板板，而“3岁孩子不上床，母亲用板板轻打立即见效”描述实际使用板板的行为，二者形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a005",
+      "target": "s-bbb64f49498f-c002:a006",
+      "kind": "causes",
+      "condition": "无",
+      "reason": "k00052 解释父母情绪对孩子杏仁核的刺激，是 k00051 中孩子考试成绩不佳时亲子关系紧张的原因。"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a007",
+      "target": "s-bbb64f49498f-c002:a008",
+      "kind": "example_of",
+      "condition": "讲师个人经历是该方法的例证",
+      "reason": "讲师因信仰明白即使考不及格也被无条件爱着，从而努力学习并获奖学金，是“激发孩子学习动力的方法”的具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a009",
+      "target": "s-bbb64f49498f-c002:a007",
+      "kind": "supports",
+      "condition": "母亲后悔支持无条件接纳的重要性",
+      "reason": "讲师母亲后悔因成绩伤害讲师，与讲师从学渣变为学霸、因无条件接纳而改变的经历相关，支持其经历中凸显的有条件爱之害与无条件爱之益。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a011",
+      "target": "s-bbb64f49498f-c002:a012",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "k00058 提供了 k00057 中孩子翻脸后的处理方式。"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a015",
+      "target": "s-bbb64f49498f-c002:a016",
+      "kind": "example_of",
+      "condition": "该案例是孩子提条件心理的例证",
+      "reason": "8岁男孩被拒绝后要求先抱抱，是因为他作为弱者想确认父母是否还爱他，该案例是“孩子提条件背后的心理”的具体例证，原 causes 关系不成立。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 causes，方向从案例到理论不恰当。"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a016",
+      "target": "s-bbb64f49498f-c002:a017",
+      "kind": "supports",
+      "condition": "基于心理需求提出应对方法",
+      "reason": "孩子提条件背后的心理（需要确认被爱）支持应对孩子提条件的方法（先抱抱但不代表认可），两者有支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a019",
+      "target": "s-bbb64f49498f-c003:a001",
+      "kind": "supports",
+      "condition": "同义强调",
+      "reason": "“欺负小动物需警惕”与“欺负小动物与玩火需警惕”均强调孩子欺负小动物与玩火关联需警惕，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:a005",
+      "target": "s-bbb64f49498f-c003:a006",
+      "kind": "example_of",
+      "condition": "威胁生命的发狂案例",
+      "reason": "案例中孩子举刀威胁，讲师告诉孩子不要试图威胁自己的生命去恐吓他人，是威胁生命的发狂坚决禁止并警告送医这一概念的具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不准确，改为 example_of。"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:a008",
+      "target": "s-bbb64f49498f-c003:a009",
+      "kind": "association",
+      "condition": "",
+      "reason": "两岁被关小黑屋的案例描述了早期伤害，弥补早期伤害的方法提供应对策略，但案例未展示方法实施，两者仅为问题与方法关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不成立，改为 association。"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n001",
+      "target": "s-bbb64f49498f-c001:a032",
+      "kind": "complements",
+      "condition": "当孩子出现拉肚子且疑似心理原因时，candidate支持不制止的做法。",
+      "reason": "source建议如果孩子因心理原因拉肚子不要制止；candidate明确说如果吃再拉肚子，让他拉，因为拉肚子是心理的问题，直接支持了source的观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a032",
+      "target": "s-bbb64f49498f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子出现拉肚子且疑似心理原因时，candidate支持不制止的做法。",
+      "reason": "source建议如果孩子因心理原因拉肚子不要制止；candidate明确说如果吃再拉肚子，让他拉，因为拉肚子是心理的问题，直接支持了source的观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n001",
+      "target": "s-bbb64f49498f-c001:a038",
+      "kind": "complements",
+      "condition": "当理解焦虑与消化症状的联系时，candidate补充了焦虑导致拉肚子或便秘的表现。",
+      "reason": "source提到如果不让孩子拉肚子，以后可能焦虑失眠；candidate指出焦虑的人有两种表现：便秘和拉肚子，补充了焦虑的生理表现，强化了心理原因导致生理症状的逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a038",
+      "target": "s-bbb64f49498f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当理解焦虑与消化症状的联系时，candidate补充了焦虑导致拉肚子或便秘的表现。",
+      "reason": "source提到如果不让孩子拉肚子，以后可能焦虑失眠；candidate指出焦虑的人有两种表现：便秘和拉肚子，补充了焦虑的生理表现，强化了心理原因导致生理症状的逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n001",
+      "target": "s-bbb64f49498f-c001:a039",
+      "kind": "association",
+      "condition": "当判断拉肚子的成因时，candidate表达了对焦虑成因的怀疑，但不确定。",
+      "reason": "candidate说讲师怀疑孩子拉肚子究竟因为吃太多还是心里焦虑，但不确定；source是基于心理原因拉肚子的假设，两者都涉及焦虑与拉肚子的关联，但candidate强调不确定性，因此标记为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a039",
+      "target": "s-bbb64f49498f-c001:v2-n001",
+      "kind": "association",
+      "condition": "当判断拉肚子的成因时，candidate表达了对焦虑成因的怀疑，但不确定。",
+      "reason": "candidate说讲师怀疑孩子拉肚子究竟因为吃太多还是心里焦虑，但不确定；source是基于心理原因拉肚子的假设，两者都涉及焦虑与拉肚子的关联，但candidate强调不确定性，因此标记为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n001",
+      "target": "s-bbb64f49498f-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当怀疑拉肚子由心理焦虑引起时，candidate补充了焦虑的消化表现。",
+      "reason": "source认为心理原因拉肚子不应制止；candidate进一步说明讲者怀疑孩子拉肚子可能由心理焦虑引起，并指出焦虑的人可能有便秘或拉肚子表现，补充了焦虑与消化症状的可能关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n001",
+      "target": "s-bbb64f49498f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当怀疑拉肚子由心理焦虑引起时，candidate补充了焦虑的消化表现。",
+      "reason": "source认为心理原因拉肚子不应制止；candidate进一步说明讲者怀疑孩子拉肚子可能由心理焦虑引起，并指出焦虑的人可能有便秘或拉肚子表现，补充了焦虑与消化症状的可能关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n001",
+      "target": "s-bbb64f49498f-c001:a017",
+      "kind": "complements",
+      "condition": "当理解心理问题导致生理症状的原理时，candidate补充了解决心理问题可消除生理症状。",
+      "reason": "source建议不制止心理原因拉肚子以避免其他生理反应；candidate指出心理问题导致生理症状，解决心理问题生理问题就走了，补充了整体原因和解决方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a017",
+      "target": "s-bbb64f49498f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当理解心理问题导致生理症状的原理时，candidate补充了解决心理问题可消除生理症状。",
+      "reason": "source建议不制止心理原因拉肚子以避免其他生理反应；candidate指出心理问题导致生理症状，解决心理问题生理问题就走了，补充了整体原因和解决方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n002",
+      "target": "s-bbb64f49498f-c002:r001",
+      "kind": "complements",
+      "condition": "当父母曾向孩子倾诉负面感受导致孩子抗拒时，candidate补充了停止倾诉和道歉的步骤。",
+      "reason": "source建议母亲停止向女儿倾诉负面感受，向女儿道歉，让她看到改变；candidate概括为父母不应向孩子倾诉负面感受，并列出停止倾诉、道歉、让孩子看到改变等步骤，补充了该原则的明确条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r001",
+      "target": "s-bbb64f49498f-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当父母曾向孩子倾诉负面感受导致孩子抗拒时，candidate补充了停止倾诉和道歉的步骤。",
+      "reason": "source建议母亲停止向女儿倾诉负面感受，向女儿道歉，让她看到改变；candidate概括为父母不应向孩子倾诉负面感受，并列出停止倾诉、道歉、让孩子看到改变等步骤，补充了该原则的明确条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n002",
+      "target": "s-bbb64f49498f-c001:a042",
+      "kind": "complements",
+      "condition": "当执行具体建议时，candidate重复并细化了时间范围（这几年）。",
+      "reason": "candidate与source内容几乎一致：暂时不要跟女儿说负面感受，让她看到改变，道歉，这几年不要再讲，可以找朋友说，补充了具体时间范围和执行细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a042",
+      "target": "s-bbb64f49498f-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当执行具体建议时，candidate重复并细化了时间范围（这几年）。",
+      "reason": "candidate与source内容几乎一致：暂时不要跟女儿说负面感受，让她看到改变，道歉，这几年不要再讲，可以找朋友说，补充了具体时间范围和执行细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n002",
+      "target": "s-bbb64f49498f-c002:r002",
+      "kind": "complements",
+      "condition": "当父母需要倾诉对象时，candidate补充了找朋友倾诉的理由。",
+      "reason": "source建议可以找朋友倾诉；candidate说明父母有负面感受时应找朋友倾诉，因为孩子不应承担父母的负面情绪，孩子本身已有许多焦虑需要处理，补充了选择朋友倾诉的原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r002",
+      "target": "s-bbb64f49498f-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当父母需要倾诉对象时，candidate补充了找朋友倾诉的理由。",
+      "reason": "source建议可以找朋友倾诉；candidate说明父母有负面感受时应找朋友倾诉，因为孩子不应承担父母的负面情绪，孩子本身已有许多焦虑需要处理，补充了选择朋友倾诉的原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n002",
+      "target": "s-bbb64f49498f-c001:a043",
+      "kind": "complements",
+      "condition": "当理解孩子不应承担父母负面感受的原因时，candidate补充了孩子的焦虑负担。",
+      "reason": "source提到孩子不应承担父母的焦虑；candidate明确说女儿不应该来承担父母的负面感受，因为他们自己有很多焦虑的东西要处理，补充了孩子自身焦虑的视角。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a043",
+      "target": "s-bbb64f49498f-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当理解孩子不应承担父母负面感受的原因时，candidate补充了孩子的焦虑负担。",
+      "reason": "source提到孩子不应承担父母的焦虑；candidate明确说女儿不应该来承担父母的负面感受，因为他们自己有很多焦虑的东西要处理，补充了孩子自身焦虑的视角。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n002",
+      "target": "s-bbb64f49498f-c001:a041",
+      "kind": "association",
+      "condition": "当需要了解问题背景时，candidate提供了source建议所针对的具体案例。",
+      "reason": "candidate描述了一位家长过去把女儿当朋友过多诉说负面感受导致女儿抗拒，这正是source建议所解决的问题情境，提供了背景信息，但本身不是source的补充或应用，因此标记为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a041",
+      "target": "s-bbb64f49498f-c001:v2-n002",
+      "kind": "association",
+      "condition": "当需要了解问题背景时，candidate提供了source建议所针对的具体案例。",
+      "reason": "candidate描述了一位家长过去把女儿当朋友过多诉说负面感受导致女儿抗拒，这正是source建议所解决的问题情境，提供了背景信息，但本身不是source的补充或应用，因此标记为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n002",
+      "target": "s-bbb64f49498f-c001:a015",
+      "kind": "association",
+      "condition": "当涉及让孩子看到父母改变时，candidate与source有部分重合但整体不同。",
+      "reason": "candidate提到学员应先改变自己，让孩子看到改变和自信，与source中“让她看到自己的改变”相关，但candidate针对一般管教问题，与source针对倾诉负面感受不同，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a015",
+      "target": "s-bbb64f49498f-c001:v2-n002",
+      "kind": "association",
+      "condition": "当涉及让孩子看到父母改变时，candidate与source有部分重合但整体不同。",
+      "reason": "candidate提到学员应先改变自己，让孩子看到改变和自信，与source中“让她看到自己的改变”相关，但candidate针对一般管教问题，与source针对倾诉负面感受不同，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n002",
+      "target": "s-bbb64f49498f-c001:a003",
+      "kind": "association",
+      "condition": "当比较是否让孩子知道父母负面情绪时，candidate与source有潜在条件差异。",
+      "reason": "candidate说父母可以让孩子知道自己伤心等负面情绪，source则建议暂时不向女儿倾诉负面感受；两者看似矛盾，但条件不同：source针对曾过度倾诉导致孩子抗拒的情况，并非绝对禁止让孩子知道情绪，故不算冲突，mark为关联并注明条件差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a003",
+      "target": "s-bbb64f49498f-c001:v2-n002",
+      "kind": "association",
+      "condition": "当比较是否让孩子知道父母负面情绪时，candidate与source有潜在条件差异。",
+      "reason": "candidate说父母可以让孩子知道自己伤心等负面情绪，source则建议暂时不向女儿倾诉负面感受；两者看似矛盾，但条件不同：source针对曾过度倾诉导致孩子抗拒的情况，并非绝对禁止让孩子知道情绪，故不算冲突，mark为关联并注明条件差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n003",
+      "target": "s-bbb64f49498f-c002:a001",
+      "kind": "complements",
+      "condition": "一般育儿情境，无特定限制",
+      "reason": "source仅指出惩罚不是后果，未解释惩罚本质；candidate补充了惩罚是父母因生气而让孩子受罪、目的是发泄怒气，补全了区别要点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a001",
+      "target": "s-bbb64f49498f-c001:v2-n003",
+      "kind": "complements",
+      "condition": "一般育儿情境，无特定限制",
+      "reason": "source仅指出惩罚不是后果，未解释惩罚本质；candidate补充了惩罚是父母因生气而让孩子受罪、目的是发泄怒气，补全了区别要点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n003",
+      "target": "s-bbb64f49498f-c002:r003",
+      "kind": "complements",
+      "condition": "一般育儿原则",
+      "reason": "source指出后果与惩罚不同，candidate补充了自然后果和惩罚的定义（惩罚是父母因生气让孩子受罪），并给出实践原则（应给自然后果而非惩罚），补充了应用层面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r003",
+      "target": "s-bbb64f49498f-c001:v2-n003",
+      "kind": "complements",
+      "condition": "一般育儿原则",
+      "reason": "source指出后果与惩罚不同，candidate补充了自然后果和惩罚的定义（惩罚是父母因生气让孩子受罪），并给出实践原则（应给自然后果而非惩罚），补充了应用层面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n003",
+      "target": "s-bbb64f49498f-c002:xe002",
+      "kind": "complements",
+      "condition": "适用于幼儿睡觉情境下具体实施自然后果的场景",
+      "reason": "source在理论上区分后果与惩罚，candidate提供了一个自然后果的典型操作步骤（抱上床、限制自由等），补充了实践细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:xe002",
+      "target": "s-bbb64f49498f-c001:v2-n003",
+      "kind": "complements",
+      "condition": "适用于幼儿睡觉情境下具体实施自然后果的场景",
+      "reason": "source在理论上区分后果与惩罚，candidate提供了一个自然后果的典型操作步骤（抱上床、限制自由等），补充了实践细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n003",
+      "target": "s-bbb64f49498f-c001:a013",
+      "kind": "association",
+      "condition": "在父母树立权威的管教场景下",
+      "reason": "candidate提到通过告诉孩子后果和自然后果来树立权威，与source讨论的后果概念相关，但未展开具体区别，关联较弱，不足以构成互补或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a013",
+      "target": "s-bbb64f49498f-c001:v2-n003",
+      "kind": "association",
+      "condition": "在父母树立权威的管教场景下",
+      "reason": "candidate提到通过告诉孩子后果和自然后果来树立权威，与source讨论的后果概念相关，但未展开具体区别，关联较弱，不足以构成互补或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n003",
+      "target": "s-bbb64f49498f-c002:v2-n003",
+      "kind": "association",
+      "condition": "孩子行为不当（扔东西）时考虑自然后果的场景",
+      "reason": "candidate提及该例子的自然后果是下车收拾孩子，但未详细展开，与source关于后果与惩罚区别的讨论仅有主题关联，不足以构成明确关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n003",
+      "target": "s-bbb64f49498f-c001:v2-n003",
+      "kind": "association",
+      "condition": "孩子行为不当（扔东西）时考虑自然后果的场景",
+      "reason": "candidate提及该例子的自然后果是下车收拾孩子，但未详细展开，与source关于后果与惩罚区别的讨论仅有主题关联，不足以构成明确关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n003",
+      "target": "s-bbb64f49498f-c002:r004",
+      "kind": "complements",
+      "condition": "孩子该睡觉却想玩不上床的场景",
+      "reason": "source区分后果与惩罚，candidate给出具体情境下给自然后果的方法（抱上床、限制下床），补充了概念在具体场景中的实施。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r004",
+      "target": "s-bbb64f49498f-c001:v2-n003",
+      "kind": "complements",
+      "condition": "孩子该睡觉却想玩不上床的场景",
+      "reason": "source区分后果与惩罚，candidate给出具体情境下给自然后果的方法（抱上床、限制下床），补充了概念在具体场景中的实施。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n003",
+      "target": "s-bbb64f49498f-c002:xe001",
+      "kind": "association",
+      "condition": "在孩子不睡觉时使用惩罚与自然后果对比的场景",
+      "reason": "candidate描述母亲用板板轻打（惩罚）替代自然后果，与source中惩罚并非后果的辨析相关，但未直接补充区别，关联不确定，仅作弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:xe001",
+      "target": "s-bbb64f49498f-c001:v2-n003",
+      "kind": "association",
+      "condition": "在孩子不睡觉时使用惩罚与自然后果对比的场景",
+      "reason": "candidate描述母亲用板板轻打（惩罚）替代自然后果，与source中惩罚并非后果的辨析相关，但未直接补充区别，关联不确定，仅作弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n003",
+      "target": "s-bbb64f49498f-c002:a002",
+      "kind": "complements",
+      "condition": "幼儿不上床情境",
+      "reason": "source区分后果与惩罚，candidate给出针对幼儿不上床的自然后果实施步骤，补充了具体操作，与source概念互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a002",
+      "target": "s-bbb64f49498f-c001:v2-n003",
+      "kind": "complements",
+      "condition": "幼儿不上床情境",
+      "reason": "source区分后果与惩罚，candidate给出针对幼儿不上床的自然后果实施步骤，补充了具体操作，与source概念互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n003",
+      "target": "s-bbb64f49498f-c002:r005",
+      "kind": "association",
+      "condition": "考虑是否使用体罚的管教场景",
+      "reason": "candidate强调避免使用板板打孩子（惩罚）及其长期危害，与source中惩罚不是后果的讨论相关，但未涉及区别本身，关联不足以构成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r005",
+      "target": "s-bbb64f49498f-c001:v2-n003",
+      "kind": "association",
+      "condition": "考虑是否使用体罚的管教场景",
+      "reason": "candidate强调避免使用板板打孩子（惩罚）及其长期危害，与source中惩罚不是后果的讨论相关，但未涉及区别本身，关联不足以构成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n003",
+      "target": "s-bbb64f49498f-c003:a009",
+      "kind": "association",
+      "condition": "弥补早期错误管教伤害的场景",
+      "reason": "candidate提到绝对不要使用暴力及种什么收什么的后果原则，与source中后果概念相关，但重点是弥补方法，未直接讨论区别，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:a009",
+      "target": "s-bbb64f49498f-c001:v2-n003",
+      "kind": "association",
+      "condition": "弥补早期错误管教伤害的场景",
+      "reason": "candidate提到绝对不要使用暴力及种什么收什么的后果原则，与source中后果概念相关，但重点是弥补方法，未直接讨论区别，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n001",
+      "target": "s-bbb64f49498f-c001:a038",
+      "kind": "association",
+      "condition": "理解焦虑与消化症状关联的一般情况",
+      "reason": "source表达怀疑，candidate明确陈述焦虑导致拉肚子或便秘，两者内容相似但确定性程度不同，candidate未增加实质信息，仅作弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a038",
+      "target": "s-bbb64f49498f-c002:v2-n001",
+      "kind": "association",
+      "condition": "理解焦虑与消化症状关联的一般情况",
+      "reason": "source表达怀疑，candidate明确陈述焦虑导致拉肚子或便秘，两者内容相似但确定性程度不同，candidate未增加实质信息，仅作弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n001",
+      "target": "s-bbb64f49498f-c001:a039",
+      "kind": "complements",
+      "condition": "孩子出现拉肚子症状时",
+      "reason": "source提到怀疑焦虑引起，candidate补充还可能是吃太多，两个可能原因并列，互相补充诊断考虑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a039",
+      "target": "s-bbb64f49498f-c002:v2-n001",
+      "kind": "complements",
+      "condition": "孩子出现拉肚子症状时",
+      "reason": "source提到怀疑焦虑引起，candidate补充还可能是吃太多，两个可能原因并列，互相补充诊断考虑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n001",
+      "target": "s-bbb64f49498f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "确认孩子拉肚子由心理因素引起时",
+      "reason": "source提出焦虑与消化症状的可能关联，candidate补充了不应制止拉肚子的原因及可能的后续心理生理表现，是对该关联的延伸建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n001",
+      "target": "s-bbb64f49498f-c002:v2-n001",
+      "kind": "complements",
+      "condition": "确认孩子拉肚子由心理因素引起时",
+      "reason": "source提出焦虑与消化症状的可能关联，candidate补充了不应制止拉肚子的原因及可能的后续心理生理表现，是对该关联的延伸建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n001",
+      "target": "s-bbb64f49498f-c001:a032",
+      "kind": "association",
+      "condition": "拉肚子症状反复出现时",
+      "reason": "candidate断言拉肚子是心理问题并建议让他拉，source仅怀疑关联，两者方向一致但candidate更绝对，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a032",
+      "target": "s-bbb64f49498f-c002:v2-n001",
+      "kind": "association",
+      "condition": "拉肚子症状反复出现时",
+      "reason": "candidate断言拉肚子是心理问题并建议让他拉，source仅怀疑关联，两者方向一致但candidate更绝对，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n001",
+      "target": "s-bbb64f49498f-c001:a020",
+      "kind": "complements",
+      "condition": "存在长期便秘且心理问题解决的个体",
+      "reason": "source提出焦虑可能导致便秘，candidate提供实例：心理问题解决后便秘消失，补充了经验证据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a020",
+      "target": "s-bbb64f49498f-c002:v2-n001",
+      "kind": "complements",
+      "condition": "存在长期便秘且心理问题解决的个体",
+      "reason": "source提出焦虑可能导致便秘，candidate提供实例：心理问题解决后便秘消失，补充了经验证据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n001",
+      "target": "s-bbb64f49498f-c001:a017",
+      "kind": "complements",
+      "condition": "心理因素引发身体症状的一般情境",
+      "reason": "source具体提出焦虑与消化症状关联，candidate概括心理问题导致生理症状并可解决，补充了理论框架。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a017",
+      "target": "s-bbb64f49498f-c002:v2-n001",
+      "kind": "complements",
+      "condition": "心理因素引发身体症状的一般情境",
+      "reason": "source具体提出焦虑与消化症状关联，candidate概括心理问题导致生理症状并可解决，补充了理论框架。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n001",
+      "target": "s-bbb64f49498f-c002:a005",
+      "kind": "association",
+      "condition": "孩子因学业压力焦虑的情境",
+      "reason": "candidate描述14岁孩子焦虑压力大，但未涉及消化症状，与source的焦虑-消化关联仅有主题相关，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a005",
+      "target": "s-bbb64f49498f-c002:v2-n001",
+      "kind": "association",
+      "condition": "孩子因学业压力焦虑的情境",
+      "reason": "candidate描述14岁孩子焦虑压力大，但未涉及消化症状，与source的焦虑-消化关联仅有主题相关，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n002",
+      "target": "s-bbb64f49498f-c002:r005",
+      "kind": "complements",
+      "condition": "一般管教原则，不受年龄限制",
+      "reason": "source通过个人案例说明不用板板也能管教好孩子且后期容易，candidate从理论解释应避免板板打孩子的原因，两者从实践和理论角度互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r005",
+      "target": "s-bbb64f49498f-c002:v2-n002",
+      "kind": "complements",
+      "condition": "一般管教原则，不受年龄限制",
+      "reason": "source通过个人案例说明不用板板也能管教好孩子且后期容易，candidate从理论解释应避免板板打孩子的原因，两者从实践和理论角度互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n002",
+      "target": "s-bbb64f49498f-c002:xe001",
+      "kind": "conditional_difference",
+      "condition": "在追求长期管教效果时，source主张不用板板；candidate展示板板短期有效但需警惕危害",
+      "reason": "source通过案例表明不用板板长期有效，candidate描述板板短期有效但母亲的困惑，两者在不同时间维度上体现差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:xe001",
+      "target": "s-bbb64f49498f-c002:v2-n002",
+      "kind": "conditional_difference",
+      "condition": "在追求长期管教效果时，source主张不用板板；candidate展示板板短期有效但需警惕危害",
+      "reason": "source通过案例表明不用板板长期有效，candidate描述板板短期有效但母亲的困惑，两者在不同时间维度上体现差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n002",
+      "target": "s-bbb64f49498f-c002:a003",
+      "kind": "complements",
+      "condition": "育儿管教中考虑是否使用板板",
+      "reason": "source提供不用板板的成功经验，candidate详细说明用板板轻打的长期危害，互补地支持了避免板板的立场。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a003",
+      "target": "s-bbb64f49498f-c002:v2-n002",
+      "kind": "complements",
+      "condition": "育儿管教中考虑是否使用板板",
+      "reason": "source提供不用板板的成功经验，candidate详细说明用板板轻打的长期危害，互补地支持了避免板板的立场。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n002",
+      "target": "s-bbb64f49498f-c002:r006",
+      "kind": "complements",
+      "condition": "育儿管教方式选择",
+      "reason": "source案例体现了先累后易原则，candidate明确表述这一原则，来源提供了具体例证，相互补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r006",
+      "target": "s-bbb64f49498f-c002:v2-n002",
+      "kind": "complements",
+      "condition": "育儿管教方式选择",
+      "reason": "source案例体现了先累后易原则，candidate明确表述这一原则，来源提供了具体例证，相互补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n002",
+      "target": "s-bbb64f49498f-c002:v2-n006",
+      "kind": "association",
+      "condition": "孩子处于不同年龄阶段",
+      "reason": "source提及对不同孩子采取不同管教方式，candidate强调按年龄调整，两者都涉及个体化管教，但未直接联系到板板问题，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n006",
+      "target": "s-bbb64f49498f-c002:v2-n002",
+      "kind": "association",
+      "condition": "孩子处于不同年龄阶段",
+      "reason": "source提及对不同孩子采取不同管教方式，candidate强调按年龄调整，两者都涉及个体化管教，但未直接联系到板板问题，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n002",
+      "target": "s-bbb64f49498f-c001:a014",
+      "kind": "association",
+      "condition": "两个孩子发生争执时",
+      "reason": "source提到两个孩子，candidate讨论两个孩子中一个会听的情况，但未涉及板板管教，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a014",
+      "target": "s-bbb64f49498f-c002:v2-n002",
+      "kind": "association",
+      "condition": "两个孩子发生争执时",
+      "reason": "source提到两个孩子，candidate讨论两个孩子中一个会听的情况，但未涉及板板管教，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n002",
+      "target": "s-bbb64f49498f-c002:v2-n003",
+      "kind": "association",
+      "condition": "孩子不当行为时",
+      "reason": "两者都是管教案例，但source针对板板，candidate针对自然后果，主题相关但未直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n003",
+      "target": "s-bbb64f49498f-c002:v2-n002",
+      "kind": "association",
+      "condition": "孩子不当行为时",
+      "reason": "两者都是管教案例，但source针对板板，candidate针对自然后果，主题相关但未直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n003",
+      "target": "s-bbb64f49498f-c002:r003",
+      "kind": "complements",
+      "condition": "孩子行为不当（扔东西）时处理方式的辨析",
+      "reason": "source案例提到自然后果但未展开，candidate给出自然后果与惩罚的定义区别，补充了理论依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r003",
+      "target": "s-bbb64f49498f-c002:v2-n003",
+      "kind": "complements",
+      "condition": "孩子行为不当（扔东西）时处理方式的辨析",
+      "reason": "source案例提到自然后果但未展开，candidate给出自然后果与惩罚的定义区别，补充了理论依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n003",
+      "target": "s-bbb64f49498f-c002:a002",
+      "kind": "association",
+      "condition": "不同情境下的自然后果实施（扔东西 vs 不上床）",
+      "reason": "两者都涉及自然后果，但source是扔爸爸例子且未展开，candidate是睡觉情境的具体步骤，场景不同，不能直接视为同一方法的互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a002",
+      "target": "s-bbb64f49498f-c002:v2-n003",
+      "kind": "association",
+      "condition": "不同情境下的自然后果实施（扔东西 vs 不上床）",
+      "reason": "两者都涉及自然后果，但source是扔爸爸例子且未展开，candidate是睡觉情境的具体步骤，场景不同，不能直接视为同一方法的互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n003",
+      "target": "s-bbb64f49498f-c002:r004",
+      "kind": "association",
+      "condition": "不同情境下的自然后果实施",
+      "reason": "类似上条，source是扔东西情境，candidate是睡觉情境的自然后果方法，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r004",
+      "target": "s-bbb64f49498f-c002:v2-n003",
+      "kind": "association",
+      "condition": "不同情境下的自然后果实施",
+      "reason": "类似上条，source是扔东西情境，candidate是睡觉情境的自然后果方法，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n003",
+      "target": "s-bbb64f49498f-c002:xe002",
+      "kind": "association",
+      "condition": "不同情境下的自然后果实施",
+      "reason": "candidate详细给出幼儿不上床步骤，但source情境不同，无法直接互补，仅作弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:xe002",
+      "target": "s-bbb64f49498f-c002:v2-n003",
+      "kind": "association",
+      "condition": "不同情境下的自然后果实施",
+      "reason": "candidate详细给出幼儿不上床步骤，但source情境不同，无法直接互补，仅作弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n003",
+      "target": "s-bbb64f49498f-c002:a001",
+      "kind": "complements",
+      "condition": "理解自然后果与惩罚的概念差异",
+      "reason": "source案例引出对自然后果的需求，candidate补充了后果与惩罚的本质区别（惩罚是父母生气让孩子受罪），提供了理论背景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a001",
+      "target": "s-bbb64f49498f-c002:v2-n003",
+      "kind": "complements",
+      "condition": "理解自然后果与惩罚的概念差异",
+      "reason": "source案例引出对自然后果的需求，candidate补充了后果与惩罚的本质区别（惩罚是父母生气让孩子受罪），提供了理论背景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n003",
+      "target": "s-bbb64f49498f-c001:a013",
+      "kind": "association",
+      "condition": "父母树立权威时运用后果",
+      "reason": "candidate建议通过告知后果树立权威，source仅是自然后果案例，关联不够具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a013",
+      "target": "s-bbb64f49498f-c002:v2-n003",
+      "kind": "association",
+      "condition": "父母树立权威时运用后果",
+      "reason": "candidate建议通过告知后果树立权威，source仅是自然后果案例，关联不够具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n003",
+      "target": "s-bbb64f49498f-c001:v2-n003",
+      "kind": "association",
+      "condition": "讨论后果与惩罚区别时",
+      "reason": "source案例涉及自然后果，candidate讨论区别但未完整，两者欠缺具体联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:v2-n003",
+      "target": "s-bbb64f49498f-c002:v2-n003",
+      "kind": "association",
+      "condition": "讨论后果与惩罚区别时",
+      "reason": "source案例涉及自然后果，candidate讨论区别但未完整，两者欠缺具体联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n003",
+      "target": "s-bbb64f49498f-c002:v2-n002",
+      "kind": "association",
+      "condition": "不同管教案例",
+      "reason": "source用自然后果，candidate不用板板，均为管教案例但手段不同，主题相关但无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n002",
+      "target": "s-bbb64f49498f-c002:v2-n003",
+      "kind": "association",
+      "condition": "不同管教案例",
+      "reason": "source用自然后果，candidate不用板板，均为管教案例但手段不同，主题相关但无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n003",
+      "target": "s-bbb64f49498f-c001:a044",
+      "kind": "association",
+      "condition": "讨论后果与惩罚区别",
+      "reason": "candidate给出简略区别，与source案例相关但未提供补充信息，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a044",
+      "target": "s-bbb64f49498f-c002:v2-n003",
+      "kind": "association",
+      "condition": "讨论后果与惩罚区别",
+      "reason": "candidate给出简略区别，与source案例相关但未提供补充信息，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n004",
+      "target": "s-bbb64f49498f-c002:a006",
+      "kind": "complements",
+      "condition": "孩子考试成绩不佳，父母表现负面情绪时",
+      "reason": "source说明刺激杏仁核后激励无效，candidate补充了孩子因此不愿与父母相处的后果，扩展了情绪影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a006",
+      "target": "s-bbb64f49498f-c002:v2-n004",
+      "kind": "complements",
+      "condition": "孩子考试成绩不佳，父母表现负面情绪时",
+      "reason": "source说明刺激杏仁核后激励无效，candidate补充了孩子因此不愿与父母相处的后果，扩展了情绪影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n004",
+      "target": "s-bbb64f49498f-c002:r011",
+      "kind": "complements",
+      "condition": "孩子成绩不佳时",
+      "reason": "source说明刺激杏仁核的影响，candidate进一步给出避免刺激的实践指导，补充了行动方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r011",
+      "target": "s-bbb64f49498f-c002:v2-n004",
+      "kind": "complements",
+      "condition": "孩子成绩不佳时",
+      "reason": "source说明刺激杏仁核的影响，candidate进一步给出避免刺激的实践指导，补充了行动方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n004",
+      "target": "s-bbb64f49498f-c002:r008",
+      "kind": "complements",
+      "condition": "孩子成绩不佳时父母的态度选择",
+      "reason": "source指出生气失望无效，candidate提出无条件接纳可激发动力，两者从避免负面情绪和给予正面接纳两方面互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r008",
+      "target": "s-bbb64f49498f-c002:v2-n004",
+      "kind": "complements",
+      "condition": "孩子成绩不佳时父母的态度选择",
+      "reason": "source指出生气失望无效，candidate提出无条件接纳可激发动力，两者从避免负面情绪和给予正面接纳两方面互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n004",
+      "target": "s-bbb64f49498f-c002:a008",
+      "kind": "complements",
+      "condition": "孩子成绩不佳需要激发学习动力时",
+      "reason": "source指出家长情绪反应无效，candidate具体给出激发动力的方法，补充了替代方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a008",
+      "target": "s-bbb64f49498f-c002:v2-n004",
+      "kind": "complements",
+      "condition": "孩子成绩不佳需要激发学习动力时",
+      "reason": "source指出家长情绪反应无效，candidate具体给出激发动力的方法，补充了替代方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n004",
+      "target": "s-bbb64f49498f-c002:r007",
+      "kind": "complements",
+      "condition": "父母因孩子学习产生情绪时",
+      "reason": "source指出应处理自己情绪，candidate通过个人实例说明强迫孩子会毁掉关系，强调调整自己，补充了经验论据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r007",
+      "target": "s-bbb64f49498f-c002:v2-n004",
+      "kind": "complements",
+      "condition": "父母因孩子学习产生情绪时",
+      "reason": "source指出应处理自己情绪，candidate通过个人实例说明强迫孩子会毁掉关系，强调调整自己，补充了经验论据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n004",
+      "target": "s-bbb64f49498f-c002:r014",
+      "kind": "complements",
+      "condition": "孩子学习问题上父母的强制行为",
+      "reason": "source提示负面情绪无效，candidate进一步建议避免强迫学习，给出具体行为指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r014",
+      "target": "s-bbb64f49498f-c002:v2-n004",
+      "kind": "complements",
+      "condition": "孩子学习问题上父母的强制行为",
+      "reason": "source提示负面情绪无效，candidate进一步建议避免强迫学习，给出具体行为指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n004",
+      "target": "s-bbb64f49498f-c003:v2-n003",
+      "kind": "association",
+      "condition": "家长因过去错误管教导致孩子负面反应",
+      "reason": "candidate描述孩子对家长尖叫，与source中家长情绪刺激相关，但场景不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n003",
+      "target": "s-bbb64f49498f-c002:v2-n004",
+      "kind": "association",
+      "condition": "家长因过去错误管教导致孩子负面反应",
+      "reason": "candidate描述孩子对家长尖叫，与source中家长情绪刺激相关，但场景不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n004",
+      "target": "s-bbb64f49498f-c001:a001",
+      "kind": "association",
+      "condition": "孩子安全感和情绪处理",
+      "reason": "candidate强调在安全环境中经历负面情绪，与source中处理自己情绪相关，但未直接联系到激励无效，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a001",
+      "target": "s-bbb64f49498f-c002:v2-n004",
+      "kind": "association",
+      "condition": "孩子安全感和情绪处理",
+      "reason": "candidate强调在安全环境中经历负面情绪，与source中处理自己情绪相关，但未直接联系到激励无效，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n004",
+      "target": "s-bbb64f49498f-c001:a003",
+      "kind": "association",
+      "condition": "父母表达负面情绪的考量",
+      "reason": "source建议处理自身情绪，candidate认为可以让孩子知道父母的负面情绪，两者在情绪表达上相关但方向不一致，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a003",
+      "target": "s-bbb64f49498f-c002:v2-n004",
+      "kind": "association",
+      "condition": "父母表达负面情绪的考量",
+      "reason": "source建议处理自身情绪，candidate认为可以让孩子知道父母的负面情绪，两者在情绪表达上相关但方向不一致，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n005",
+      "target": "s-bbb64f49498f-c002:a007",
+      "kind": "complements",
+      "condition": "孩子学习表现晚熟、家长逼迫的场景",
+      "reason": "source用晚熟草莓比喻并提供母亲放手好转的简要经历，candidate详细叙述了讲师被逼无效、放手好转及信仰带来的转变，从个人案例上补充了相同模式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a007",
+      "target": "s-bbb64f49498f-c002:v2-n005",
+      "kind": "complements",
+      "condition": "孩子学习表现晚熟、家长逼迫的场景",
+      "reason": "source用晚熟草莓比喻并提供母亲放手好转的简要经历，candidate详细叙述了讲师被逼无效、放手好转及信仰带来的转变，从个人案例上补充了相同模式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n005",
+      "target": "s-bbb64f49498f-c002:a009",
+      "kind": "complements",
+      "condition": "家长曾因成绩伤害孩子后反思的场景",
+      "reason": "source叙述母亲放手后好转，candidate补充了母亲因伤害孩子而后悔并告诫他人，加深了对该经历后果的理解。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a009",
+      "target": "s-bbb64f49498f-c002:v2-n005",
+      "kind": "complements",
+      "condition": "家长曾因成绩伤害孩子后反思的场景",
+      "reason": "source叙述母亲放手后好转，candidate补充了母亲因伤害孩子而后悔并告诫他人，加深了对该经历后果的理解。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n005",
+      "target": "s-bbb64f49498f-c002:v2-n002",
+      "kind": "association",
+      "condition": "讲者的不同管教案例",
+      "reason": "两者都是讲者个人或家庭案例，但一个关乎学习压力，一个关乎体罚，主题相关但无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n002",
+      "target": "s-bbb64f49498f-c002:v2-n005",
+      "kind": "association",
+      "condition": "讲者的不同管教案例",
+      "reason": "两者都是讲者个人或家庭案例，但一个关乎学习压力，一个关乎体罚，主题相关但无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n005",
+      "target": "s-bbb64f49498f-c002:xe001",
+      "kind": "association",
+      "condition": "不同管教挫折场景",
+      "reason": "candidate展示板板轻打短期有效，source展示逼迫无效，两者对比可能产生误导，但未在同一条件下，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:xe001",
+      "target": "s-bbb64f49498f-c002:v2-n005",
+      "kind": "association",
+      "condition": "不同管教挫折场景",
+      "reason": "candidate展示板板轻打短期有效，source展示逼迫无效，两者对比可能产生误导，但未在同一条件下，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n005",
+      "target": "s-bbb64f49498f-c002:a005",
+      "kind": "complements",
+      "condition": "孩子成绩不佳导致母亲负面情绪的场景",
+      "reason": "source讲述越逼越不好，candidate描述母亲生气导致孩子压力大、焦虑，补充了父母负面情绪与孩子学习困境的关联案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a005",
+      "target": "s-bbb64f49498f-c002:v2-n005",
+      "kind": "complements",
+      "condition": "孩子成绩不佳导致母亲负面情绪的场景",
+      "reason": "source讲述越逼越不好，candidate描述母亲生气导致孩子压力大、焦虑，补充了父母负面情绪与孩子学习困境的关联案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n005",
+      "target": "s-bbb64f49498f-c001:a002",
+      "kind": "association",
+      "condition": "孩子成长中父母放手与安全感培养",
+      "reason": "两者都涉及父母放手让孩子经历挑战，但source是学习逼迫的放手，candidate是安全感培养原则，关联不够具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a002",
+      "target": "s-bbb64f49498f-c002:v2-n005",
+      "kind": "association",
+      "condition": "孩子成长中父母放手与安全感培养",
+      "reason": "两者都涉及父母放手让孩子经历挑战，但source是学习逼迫的放手，candidate是安全感培养原则，关联不够具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n005",
+      "target": "s-bbb64f49498f-c002:v2-n004",
+      "kind": "complements",
+      "condition": "家长因孩子学习表现出现负面情绪时",
+      "reason": "source描述越逼越不好，candidate提供杏仁核刺激导致激励无效的机制，从生理心理角度补充了解释。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n004",
+      "target": "s-bbb64f49498f-c002:v2-n005",
+      "kind": "complements",
+      "condition": "家长因孩子学习表现出现负面情绪时",
+      "reason": "source描述越逼越不好，candidate提供杏仁核刺激导致激励无效的机制，从生理心理角度补充了解释。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n006",
+      "target": "s-bbb64f49498f-c002:a003",
+      "kind": "complements",
+      "condition": "当孩子年龄增长，若沿用相同管教手段（如板板轻打）时",
+      "reason": "source 提出不同年龄阶段管教方式应不同，a003 具体说明不调整手段的后果：板板轻打随年龄增长需升级，终致失效，补充了不调整的负面结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a003",
+      "target": "s-bbb64f49498f-c002:v2-n006",
+      "kind": "complements",
+      "condition": "当孩子年龄增长，若沿用相同管教手段（如板板轻打）时",
+      "reason": "source 提出不同年龄阶段管教方式应不同，a003 具体说明不调整手段的后果：板板轻打随年龄增长需升级，终致失效，补充了不调整的负面结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n006",
+      "target": "s-bbb64f49498f-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅因均涉及管教方式差异",
+      "reason": "两者都涉及不同孩子/年龄采用不同管教方式，但 v2-n002 侧重个体差异和不用板板，与 source 的年龄阶段焦点不完全一致，实质关联不足，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n002",
+      "target": "s-bbb64f49498f-c002:v2-n006",
+      "kind": "association",
+      "condition": "无特定条件，仅因均涉及管教方式差异",
+      "reason": "两者都涉及不同孩子/年龄采用不同管教方式，但 v2-n002 侧重个体差异和不用板板，与 source 的年龄阶段焦点不完全一致，实质关联不足，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n007",
+      "target": "s-bbb64f49498f-c002:a017",
+      "kind": "complements",
+      "condition": "当孩子被拒绝后发脾气并提出条件（如先抱抱）时",
+      "reason": "a017 引用 source 的“孩子被拒绝后发脾气是正常的”，并补充了父母应对孩子提条件的具体做法：抱抱但不等于认可错误，避免传递有条件的爱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a017",
+      "target": "s-bbb64f49498f-c002:v2-n007",
+      "kind": "complements",
+      "condition": "当孩子被拒绝后发脾气并提出条件（如先抱抱）时",
+      "reason": "a017 引用 source 的“孩子被拒绝后发脾气是正常的”，并补充了父母应对孩子提条件的具体做法：抱抱但不等于认可错误，避免传递有条件的爱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n007",
+      "target": "s-bbb64f49498f-c002:a015",
+      "kind": "association",
+      "condition": "无特定条件，仅因均涉及孩子被拒绝后发脾气的场景",
+      "reason": "a015 是 source 所述现象的实例（8岁男孩被拒绝后发脾气并提条件），但 source 是普遍规律，案例为具体情境，方向不对称，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a015",
+      "target": "s-bbb64f49498f-c002:v2-n007",
+      "kind": "association",
+      "condition": "无特定条件，仅因均涉及孩子被拒绝后发脾气的场景",
+      "reason": "a015 是 source 所述现象的实例（8岁男孩被拒绝后发脾气并提条件），但 source 是普遍规律，案例为具体情境，方向不对称，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n007",
+      "target": "s-bbb64f49498f-c002:a016",
+      "kind": "association",
+      "condition": "当孩子提条件时",
+      "reason": "a016 解释孩子提条件背后的心理（确认父母是否还爱他），与 source 关于发脾气的正常性相关，但未直接补充发脾气原因，关联不足，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a016",
+      "target": "s-bbb64f49498f-c002:v2-n007",
+      "kind": "association",
+      "condition": "当孩子提条件时",
+      "reason": "a016 解释孩子提条件背后的心理（确认父母是否还爱他），与 source 关于发脾气的正常性相关，但未直接补充发脾气原因，关联不足，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n008",
+      "target": "s-bbb64f49498f-c003:a002",
+      "kind": "association",
+      "condition": "无特定条件，两知识表述一致",
+      "reason": "c003:a002 与 source 均为可控发狂的制止条件，内容几乎相同，属同义重复，无实质补充，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:a002",
+      "target": "s-bbb64f49498f-c002:v2-n008",
+      "kind": "association",
+      "condition": "无特定条件，两知识表述一致",
+      "reason": "c003:a002 与 source 均为可控发狂的制止条件，内容几乎相同，属同义重复，无实质补充，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n008",
+      "target": "s-bbb64f49498f-c003:r001",
+      "kind": "association",
+      "condition": "无特定条件，两知识内容一致",
+      "reason": "c003:r001 表达的“发狂时其他时间对小朋友很好则问题不大”是 source 的一部分，属重复，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:r001",
+      "target": "s-bbb64f49498f-c002:v2-n008",
+      "kind": "association",
+      "condition": "无特定条件，两知识内容一致",
+      "reason": "c003:r001 表达的“发狂时其他时间对小朋友很好则问题不大”是 source 的一部分，属重复，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n008",
+      "target": "s-bbb64f49498f-c003:a006",
+      "kind": "complements",
+      "condition": "当发狂威胁生命时（区别于 source 的可控发狂）",
+      "reason": "source 限定可控发狂且无行为不制止，a006 补充了威胁生命的发狂需坚决禁止并警告送医，扩展了处理不同发狂类型的边界。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:a006",
+      "target": "s-bbb64f49498f-c002:v2-n008",
+      "kind": "complements",
+      "condition": "当发狂威胁生命时（区别于 source 的可控发狂）",
+      "reason": "source 限定可控发狂且无行为不制止，a006 补充了威胁生命的发狂需坚决禁止并警告送医，扩展了处理不同发狂类型的边界。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n008",
+      "target": "s-bbb64f49498f-c002:a019",
+      "kind": "association",
+      "condition": "当可控发狂或生气时涉及欺负小动物",
+      "reason": "source 未涉及具体不良行为，a019 提到可控发狂或生气时欺负小动物需警惕，与 source 的“发狂带有行为才控制”有间接关联，但焦点不同，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a019",
+      "target": "s-bbb64f49498f-c002:v2-n008",
+      "kind": "association",
+      "condition": "当可控发狂或生气时涉及欺负小动物",
+      "reason": "source 未涉及具体不良行为，a019 提到可控发狂或生气时欺负小动物需警惕，与 source 的“发狂带有行为才控制”有间接关联，但焦点不同，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n001",
+      "target": "s-bbb64f49498f-c002:a018",
+      "kind": "association",
+      "condition": "当孩子或他人做错事时",
+      "reason": "a018 是朋友无条件支持的感人话语，是 source 所述“做错时仍站在他这边”的具体案例，方向不对称，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a018",
+      "target": "s-bbb64f49498f-c003:v2-n001",
+      "kind": "association",
+      "condition": "当孩子或他人做错事时",
+      "reason": "a018 是朋友无条件支持的感人话语，是 source 所述“做错时仍站在他这边”的具体案例，方向不对称，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n001",
+      "target": "s-bbb64f49498f-c002:a017",
+      "kind": "complements",
+      "condition": "当孩子做错事且提出条件（如先抱抱）时",
+      "reason": "a017 补充了具体做法：父母可抱抱孩子但不代表认可错误，体现即使做错也永远爱他，与 source 的“不鼓励错误但仍站在一起”一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a017",
+      "target": "s-bbb64f49498f-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子做错事且提出条件（如先抱抱）时",
+      "reason": "a017 补充了具体做法：父母可抱抱孩子但不代表认可错误，体现即使做错也永远爱他，与 source 的“不鼓励错误但仍站在一起”一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n001",
+      "target": "s-bbb64f49498f-c003:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子主动认错并求抱时",
+      "reason": "v2-n002 是 source 的具体应用：孩子表达做错并希望被抱时，家长不必紧盯错误，优先回应拥抱需求，补了操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n002",
+      "target": "s-bbb64f49498f-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子主动认错并求抱时",
+      "reason": "v2-n002 是 source 的具体应用：孩子表达做错并希望被抱时，家长不必紧盯错误，优先回应拥抱需求，补了操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n001",
+      "target": "s-bbb64f49498f-c002:r008",
+      "kind": "association",
+      "condition": "无特定条件，均涉及无条件接纳",
+      "reason": "r008 提出无条件接纳孩子以激发学习动力，与 source 的无条件爱核心一致，但焦点在学习动力，关联不够具体，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r008",
+      "target": "s-bbb64f49498f-c003:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，均涉及无条件接纳",
+      "reason": "r008 提出无条件接纳孩子以激发学习动力，与 source 的无条件爱核心一致，但焦点在学习动力，关联不够具体，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n001",
+      "target": "s-bbb64f49498f-c002:a016",
+      "kind": "association",
+      "condition": "当孩子提条件时",
+      "reason": "a016 解释孩子提条件是为了确认父母是否还爱他，与 source 的无条件爱相关，但未直接补充做错时的行为，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a016",
+      "target": "s-bbb64f49498f-c003:v2-n001",
+      "kind": "association",
+      "condition": "当孩子提条件时",
+      "reason": "a016 解释孩子提条件是为了确认父母是否还爱他，与 source 的无条件爱相关，但未直接补充做错时的行为，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n001",
+      "target": "s-bbb64f49498f-c002:a008",
+      "kind": "association",
+      "condition": "无特定条件，均涉及无条件的爱",
+      "reason": "a008 提到无论学或不学父母都永远爱他，与 source 的无条件爱精神一致，但更侧重学习场景，关联有限，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a008",
+      "target": "s-bbb64f49498f-c003:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，均涉及无条件的爱",
+      "reason": "a008 提到无论学或不学父母都永远爱他，与 source 的无条件爱精神一致，但更侧重学习场景，关联有限，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n002",
+      "target": "s-bbb64f49498f-c003:v2-n001",
+      "kind": "example_of",
+      "condition": "当孩子主动认错并求抱时",
+      "reason": "source 描述的是孩子认错求抱时家长优先回应拥抱，这是 target 所述“孩子做错时仍站在他这边”的一种具体体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n001",
+      "target": "s-bbb64f49498f-c003:v2-n002",
+      "kind": "has_example",
+      "condition": "当孩子主动认错并求抱时",
+      "reason": "source 描述的是孩子认错求抱时家长优先回应拥抱，这是 target 所述“孩子做错时仍站在他这边”的一种具体体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n002",
+      "target": "s-bbb64f49498f-c002:a017",
+      "kind": "association",
+      "condition": "当孩子提条件要求先抱抱时（区别于 source 的主动认错）",
+      "reason": "两者都涉及父母抱抱但不等于认可错误，但 source 是孩子主动认错，a017 是孩子提条件，触发条件不同，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a017",
+      "target": "s-bbb64f49498f-c003:v2-n002",
+      "kind": "association",
+      "condition": "当孩子提条件要求先抱抱时（区别于 source 的主动认错）",
+      "reason": "两者都涉及父母抱抱但不等于认可错误，但 source 是孩子主动认错，a017 是孩子提条件，触发条件不同，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n002",
+      "target": "s-bbb64f49498f-c002:a015",
+      "kind": "association",
+      "condition": "当孩子被拒绝后提条件要求先抱抱时",
+      "reason": "a015 是具体案例，孩子提条件而非主动认错，与 source 有相似行为模式（要求先抱），但情境不同，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a015",
+      "target": "s-bbb64f49498f-c003:v2-n002",
+      "kind": "association",
+      "condition": "当孩子被拒绝后提条件要求先抱抱时",
+      "reason": "a015 是具体案例，孩子提条件而非主动认错，与 source 有相似行为模式（要求先抱），但情境不同，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n003",
+      "target": "s-bbb64f49498f-c003:a010",
+      "kind": "complements",
+      "condition": "当孩子尖叫时",
+      "reason": "source 描述孩子尖叫给家长带来困扰，a010 提供具体应对方法：家长先蹲下与孩子平视，让孩子感到安全，补充了处理步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:a010",
+      "target": "s-bbb64f49498f-c003:v2-n003",
+      "kind": "complements",
+      "condition": "当孩子尖叫时",
+      "reason": "source 描述孩子尖叫给家长带来困扰，a010 提供具体应对方法：家长先蹲下与孩子平视，让孩子感到安全，补充了处理步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n003",
+      "target": "s-bbb64f49498f-c002:r002",
+      "kind": "association",
+      "condition": "当家长因孩子行为产生负面感受（如被拒绝、愤怒）时",
+      "reason": "r002 建议父母有负面感受时找朋友倾诉，而 source 中家长正经历痛苦和愤怒，r002 可作为处理建议，但 source 未提及倾诉，关联不够直接，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r002",
+      "target": "s-bbb64f49498f-c003:v2-n003",
+      "kind": "association",
+      "condition": "当家长因孩子行为产生负面感受（如被拒绝、愤怒）时",
+      "reason": "r002 建议父母有负面感受时找朋友倾诉，而 source 中家长正经历痛苦和愤怒，r002 可作为处理建议，但 source 未提及倾诉，关联不够直接，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n003",
+      "target": "s-bbb64f49498f-c002:a006",
+      "kind": "association",
+      "condition": "当家长情绪刺激孩子杏仁核时（类似成绩场景但此处为尖叫）",
+      "reason": "source 中家长接近孩子导致尖叫，可能与家长情绪刺激有关，a006 指出父母情绪会刺激杏仁核造成压力，但与成绩场景不同，关联有限，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:a006",
+      "target": "s-bbb64f49498f-c003:v2-n003",
+      "kind": "association",
+      "condition": "当家长情绪刺激孩子杏仁核时（类似成绩场景但此处为尖叫）",
+      "reason": "source 中家长接近孩子导致尖叫，可能与家长情绪刺激有关，a006 指出父母情绪会刺激杏仁核造成压力，但与成绩场景不同，关联有限，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n003",
+      "target": "s-bbb64f49498f-c002:v2-n004",
+      "kind": "association",
+      "condition": "当家长已出现明显负面情绪时",
+      "reason": "source 家长感到被拒绝和愤怒，v2-n004 指出此时激励方法无效应处理自身情绪，与 source 相关，但 v2-n004 聚焦成绩情境，条件不完全一致，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:v2-n004",
+      "target": "s-bbb64f49498f-c003:v2-n003",
+      "kind": "association",
+      "condition": "当家长已出现明显负面情绪时",
+      "reason": "source 家长感到被拒绝和愤怒，v2-n004 指出此时激励方法无效应处理自身情绪，与 source 相关，但 v2-n004 聚焦成绩情境，条件不完全一致，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n003",
+      "target": "s-bbb64f49498f-c001:a041",
+      "kind": "association",
+      "condition": "当家长负面感受影响孩子时",
+      "reason": "a041 是女儿抗拒母亲负面感受的案例，与 source 中家长因孩子尖叫感到痛苦类似，均涉及负面情绪互动，但具体情境不同，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c001:a041",
+      "target": "s-bbb64f49498f-c003:v2-n003",
+      "kind": "association",
+      "condition": "当家长负面感受影响孩子时",
+      "reason": "a041 是女儿抗拒母亲负面感受的案例，与 source 中家长因孩子尖叫感到痛苦类似，均涉及负面情绪互动，但具体情境不同，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c003:v2-n003",
+      "target": "s-bbb64f49498f-c002:r007",
+      "kind": "association",
+      "condition": "当家长因孩子问题产生愤怒时",
+      "reason": "r007 建议调整自身情绪而非强迫孩子，与 source 家长愤怒情绪相关，但 source 未涉及强迫行为，关联一般，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bbb64f49498f-c002:r007",
+      "target": "s-bbb64f49498f-c003:v2-n003",
+      "kind": "association",
+      "condition": "当家长因孩子问题产生愤怒时",
+      "reason": "r007 建议调整自身情绪而非强迫孩子，与 source 家长愤怒情绪相关，但 source 未涉及强迫行为，关联一般，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "当孩子出现情绪问题（如独立入睡哭闹）且需要行为引导时，需要理解情绪并设定界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a016",
+        "s-bbb64f49498f-c001:a017",
+        "s-bbb64f49498f-c001:a018",
+        "s-bbb64f49498f-c001:a007",
+        "s-bbb64f49498f-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "设定界限时，需要理解孩子的情绪反应，避免因界限导致心理问题。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a013",
+        "s-bbb64f49498f-c002:a002",
+        "s-bbb64f49498f-c002:r004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-bbb64f49498f-c002:a002",
+          "limits": [
+            "态度不凶，只是轻轻按住"
+          ]
+        },
+        {
+          "atom_id": "s-bbb64f49498f-c002:r004",
+          "limits": [
+            "态度不凶，只是轻轻按住"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "内在能力",
+      "when": "理解孩子的情绪压力（如考试焦虑）后，需要通过无条件接纳来激发孩子的内在学习动力。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a005",
+        "s-bbb64f49498f-c002:a006",
+        "s-bbb64f49498f-c002:a008",
+        "s-bbb64f49498f-c002:r008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "界限",
+      "when": "父母需要先调整自己的情绪和行为，才能有效地设定界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a015",
+        "s-bbb64f49498f-c001:a021",
+        "s-bbb64f49498f-c002:r007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我修养",
+      "when": "父母需要理解自己的负面情绪，并学会自我调节，避免将情绪转嫁给孩子。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a041",
+        "s-bbb64f49498f-c001:a042",
+        "s-bbb64f49498f-c001:a043",
+        "s-bbb64f49498f-c002:r001",
+        "s-bbb64f49498f-c002:r002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a008",
+        "s-bbb64f49498f-c001:r001"
+      ],
+      "reason": "两条记录内容完全一致，都是描述处理孩子独立入睡哭闹的完整步骤。"
+    },
+    {
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a018",
+        "s-bbb64f49498f-c001:a023",
+        "s-bbb64f49498f-c001:a028",
+        "s-bbb64f49498f-c001:a036",
+        "s-bbb64f49498f-c001:r002"
+      ],
+      "reason": "这些记录都描述了用零食替换停止进食的具体操作，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a044",
+        "s-bbb64f49498f-c002:a001",
+        "s-bbb64f49498f-c002:r003"
+      ],
+      "reason": "这些记录都定义了后果与惩罚的区别，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a002",
+        "s-bbb64f49498f-c002:r004",
+        "s-bbb64f49498f-c002:xe002"
+      ],
+      "reason": "这些记录都描述了幼儿不上床时的自然后果实施方法，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a003",
+        "s-bbb64f49498f-c002:r005"
+      ],
+      "reason": "这些记录都指出了用板板轻打孩子的长期危害，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a019",
+        "s-bbb64f49498f-c003:a001",
+        "s-bbb64f49498f-c003:a003",
+        "s-bbb64f49498f-c003:a004"
+      ],
+      "reason": "这些记录都涉及欺负小动物与玩火需警惕，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bbb64f49498f-c002:r001",
+        "s-bbb64f49498f-c002:r002"
+      ],
+      "reason": "这些记录都强调父母不应向孩子倾诉负面感受，应找朋友倾诉，内容实质等价。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a003",
+        "s-bbb64f49498f-c001:a041",
+        "s-bbb64f49498f-c001:a042",
+        "s-bbb64f49498f-c001:a043"
+      ],
+      "description": "k00003 建议父母让孩子知道自己的负面情绪，而 k00041、k00042、k00043 则强调父母不应向孩子倾诉负面感受，因为孩子不应承担父母的负面情绪。两者之间存在矛盾，需要区分不同情境：k00003 可能适用于适度表达负面情绪以建立安全感，而 k00041 等则针对过度倾诉导致孩子负担的情况。",
+      "needed_evidence": "需要明确父母表达负面情绪的适当程度和情境，以及不同年龄孩子的承受能力。"
+    },
+    {
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a018",
+        "s-bbb64f49498f-c001:a027"
+      ],
+      "description": "k00018 建议停止限制孩子饮食，用零食替换，而 k00027 指出如果继续限制孩子吃，18 岁就管不住了。两者看似矛盾，但 k00018 是针对当前心理问题的短期解决方案，k00027 是长期后果的警告，实际并不矛盾，但需要澄清时间框架。",
+      "needed_evidence": "需要明确停止限制饮食的持续时间以及后续如何建立健康的饮食习惯。"
+    },
+    {
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a003",
+        "s-bbb64f49498f-c002:xe001"
+      ],
+      "description": "k00049 指出用板板轻打孩子的长期危害，而 k00118 中母亲使用板板轻打立即见效。两者之间存在张力：短期有效与长期危害的权衡。",
+      "needed_evidence": "需要更多证据支持体罚的长期危害，以及替代方法的有效性。"
+    }
+  ],
+  "path": [
+    {
+      "name": "处理孩子情绪问题的通用方法",
+      "steps": [
+        {
+          "action": "理解孩子的情绪和心理需求",
+          "atom_ids": [
+            "s-bbb64f49498f-c001:a001",
+            "s-bbb64f49498f-c001:a002",
+            "s-bbb64f49498f-c001:a003",
+            "s-bbb64f49498f-c001:a004",
+            "s-bbb64f49498f-c001:a005",
+            "s-bbb64f49498f-c001:a017",
+            "s-bbb64f49498f-c001:a030",
+            "s-bbb64f49498f-c001:a031",
+            "s-bbb64f49498f-c001:a038",
+            "s-bbb64f49498f-c001:a039",
+            "s-bbb64f49498f-c001:a040",
+            "s-bbb64f49498f-c002:a006",
+            "s-bbb64f49498f-c002:a016"
+          ],
+          "condition": "当孩子出现情绪或行为问题时"
+        },
+        {
+          "action": "调整父母自身的情绪和行为",
+          "atom_ids": [
+            "s-bbb64f49498f-c001:a015",
+            "s-bbb64f49498f-c001:a021",
+            "s-bbb64f49498f-c001:a042",
+            "s-bbb64f49498f-c002:a013",
+            "s-bbb64f49498f-c002:r001",
+            "s-bbb64f49498f-c002:r002",
+            "s-bbb64f49498f-c002:r007",
+            "s-bbb64f49498f-c002:r012"
+          ],
+          "condition": "当父母自身情绪或行为影响孩子时"
+        },
+        {
+          "action": "设定界限并给予自然后果",
+          "atom_ids": [
+            "s-bbb64f49498f-c001:a011",
+            "s-bbb64f49498f-c001:a013",
+            "s-bbb64f49498f-c001:a018",
+            "s-bbb64f49498f-c001:a023",
+            "s-bbb64f49498f-c001:a028",
+            "s-bbb64f49498f-c001:a034",
+            "s-bbb64f49498f-c001:a035",
+            "s-bbb64f49498f-c001:a036",
+            "s-bbb64f49498f-c001:a044",
+            "s-bbb64f49498f-c002:a001",
+            "s-bbb64f49498f-c002:a002",
+            "s-bbb64f49498f-c002:r003",
+            "s-bbb64f49498f-c002:r004",
+            "s-bbb64f49498f-c002:xe002",
+            "s-bbb64f49498f-c003:a002",
+            "s-bbb64f49498f-c003:a006"
+          ],
+          "condition": "当孩子行为越界或需要引导时"
+        },
+        {
+          "action": "无条件接纳孩子并建立安全感",
+          "atom_ids": [
+            "s-bbb64f49498f-c002:a008",
+            "s-bbb64f49498f-c002:a017",
+            "s-bbb64f49498f-c002:r008",
+            "s-bbb64f49498f-c002:r010",
+            "s-bbb64f49498f-c002:r014",
+            "s-bbb64f49498f-c003:a009",
+            "s-bbb64f49498f-c003:a010",
+            "s-bbb64f49498f-c003:a011"
+          ],
+          "condition": "当孩子感到不安全或需要情感支持时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "b9bb74e26bc82119e7ba92a85d19caf19c3efab2f80df1cff091e618e314a526",
+  "point_units": [
+    {
+      "id": "s-bbb64f49498f-c001:U001",
+      "kind": "case_question",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a006"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a004"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U003",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a005"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U004",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a003"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U006",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a002"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U007",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a007"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U008",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a008",
+        "s-bbb64f49498f-c001:r001"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U009",
+      "kind": "prediction",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a009"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U010",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a010"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U011",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a011"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a012"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U013",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a013"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U014",
+      "kind": "prediction",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a014"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U015",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a015"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U016",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a016"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U017",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a017"
+      ],
+      "blocks": [
+        "b00023",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U018",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a018"
+      ],
+      "blocks": [
+        "b00024",
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U019",
+      "kind": "claim",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a019"
+      ],
+      "blocks": [
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U020",
+      "kind": "claim",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a020"
+      ],
+      "blocks": [
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U021",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a021"
+      ],
+      "blocks": [
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U022",
+      "kind": "claim",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a022"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U023",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a023"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U024",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a024"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U025",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a025"
+      ],
+      "blocks": [
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U026",
+      "kind": "claim",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a026"
+      ],
+      "blocks": [
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U027",
+      "kind": "prediction",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a027"
+      ],
+      "blocks": [
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U028",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a028"
+      ],
+      "blocks": [
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U029",
+      "kind": "claim",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a029"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U030",
+      "kind": "claim",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a030"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U031",
+      "kind": "claim",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a031"
+      ],
+      "blocks": [
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U032",
+      "kind": "claim",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a032"
+      ],
+      "blocks": [
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U033",
+      "kind": "claim",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a033"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U034",
+      "kind": "case_detail",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a016"
+      ],
+      "blocks": [
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U035",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a034"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U036",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a035"
+      ],
+      "blocks": [
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U037",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a036",
+        "s-bbb64f49498f-c001:r002"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U038",
+      "kind": "claim",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a037"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U039",
+      "kind": "claim",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U040",
+      "kind": "claim",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a040"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U041",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a038"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U042",
+      "kind": "uncertain",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a039"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U043",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a041"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U044",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c001:U045",
+      "kind": "question",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u001",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a042",
+        "s-bbb64f49498f-c001:a043",
+        "s-bbb64f49498f-c002:r001",
+        "s-bbb64f49498f-c002:r002"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:a044",
+        "s-bbb64f49498f-c002:a001",
+        "s-bbb64f49498f-c002:r003"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:xe001"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:xe002",
+        "s-bbb64f49498f-c002:a002",
+        "s-bbb64f49498f-c002:r004"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u006",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a003",
+        "s-bbb64f49498f-c002:r005"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052",
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:r006",
+        "s-bbb64f49498f-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u009",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a004"
+      ],
+      "blocks": [
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a005"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:r012",
+        "s-bbb64f49498f-c002:r011"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u012",
+      "kind": "claim",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:v2-n004"
+      ],
+      "blocks": [
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a007"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:v2-n005"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a008",
+        "s-bbb64f49498f-c002:r008",
+        "s-bbb64f49498f-c002:r010",
+        "s-bbb64f49498f-c002:r014"
+      ],
+      "blocks": [
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:xe003"
+      ],
+      "blocks": [
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a009"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u018",
+      "kind": "claim",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a010",
+        "s-bbb64f49498f-c002:r009",
+        "s-bbb64f49498f-c002:r013"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:r010",
+        "s-bbb64f49498f-c002:a008",
+        "s-bbb64f49498f-c002:r008"
+      ],
+      "blocks": [
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u020",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:r007"
+      ],
+      "blocks": [
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u021",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a011",
+        "s-bbb64f49498f-c002:a012"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u022",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a013"
+      ],
+      "blocks": [
+        "b00075",
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u023",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a014"
+      ],
+      "blocks": [
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u024",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a015"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u025",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a016"
+      ],
+      "blocks": [
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u026",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a017",
+        "s-bbb64f49498f-c002:v2-n007"
+      ],
+      "blocks": [
+        "b00082",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u027",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:v2-n006"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u028",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a018"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:a019"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c002:u030",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:v2-n008"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c003:u001",
+      "kind": "condition",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:a001"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c003:u002",
+      "kind": "condition",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:a002"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c003:u003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:a003"
+      ],
+      "blocks": [
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c003:u004",
+      "kind": "condition",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:r001"
+      ],
+      "blocks": [
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c003:u005",
+      "kind": "condition",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:a004"
+      ],
+      "blocks": [
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c003:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:a005"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c003:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:a006"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c003:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:a008"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c003:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:a009"
+      ],
+      "blocks": [
+        "b00091",
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c003:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:a010"
+      ],
+      "blocks": [
+        "b00093",
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c003:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:a011"
+      ],
+      "blocks": [
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c003:u012",
+      "kind": "principle",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c003:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-bbb64f49498f-c003:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:v2-n003"
+      ],
+      "blocks": [
+        "b00093"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "宁愿孩子现在拉肚子也不要以后焦虑失眠",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bbb64f49498f",
+          "blocks": [
+            "b00041"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "claim"
+    },
+    {
+      "title": "停止向女儿倾诉负面感受并道歉",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bbb64f49498f",
+          "blocks": [
+            "b00044",
+            "b00045"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "后果与惩罚的区别（未完整阐述）",
+      "atom_ids": [
+        "s-bbb64f49498f-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bbb64f49498f",
+          "blocks": [
+            "b00045"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "焦虑与消化症状的可能关联",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bbb64f49498f",
+          "blocks": [
+            "b00042"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "到访老师观察：讲者用非板板方式也让两个孩子做对了事",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bbb64f49498f",
+          "blocks": [
+            "b00055"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "老二扔爸爸例子及自然后果",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bbb64f49498f",
+          "blocks": [
+            "b00056"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "家长刺激杏仁核时激励方法无效",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bbb64f49498f",
+          "blocks": [
+            "b00060"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "claim"
+    },
+    {
+      "title": "晚熟草莓与母亲放手后好转",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bbb64f49498f",
+          "blocks": [
+            "b00063",
+            "b00064"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "按年龄阶段调整管教方式",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:v2-n006"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bbb64f49498f",
+          "blocks": [
+            "b00081",
+            "b00082"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "孩子被拒绝后发脾气是正常的",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:v2-n007"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bbb64f49498f",
+          "blocks": [
+            "b00082"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "claim"
+    },
+    {
+      "title": "可控发狂的行为控制标准",
+      "atom_ids": [
+        "s-bbb64f49498f-c002:v2-n008"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bbb64f49498f",
+          "blocks": [
+            "b00086",
+            "b00087"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "无条件的爱：孩子做错时仍站在他这边",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bbb64f49498f",
+          "blocks": [
+            "b00084"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "孩子认错并求抱时不必纠结错误",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bbb64f49498f",
+          "blocks": [
+            "b00085"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "孩子尖叫时家长的困扰案例",
+      "atom_ids": [
+        "s-bbb64f49498f-c003:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bbb64f49498f",
+          "blocks": [
+            "b00093"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    }
+  ]
+}

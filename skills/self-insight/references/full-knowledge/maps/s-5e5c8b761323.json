@@ -1,0 +1,1969 @@
+{
+  "concepts": [
+    {
+      "name": "有界限的牺牲",
+      "definition": "经过清楚思考后的理性选择，当事人知道自己可以不牺牲，可以坦然选择停下来或停止到某个程度。",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a001",
+        "s-5e5c8b761323-c001:a002"
+      ]
+    },
+    {
+      "name": "无界限的牺牲",
+      "definition": "不清楚自己在做什么，懵懵懂懂、浑浑噩噩地做出牺牲，不是主动选择，而是被推着走；当事人不能不做，如果不牺牲会非常内疚、自责。",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a001",
+        "s-5e5c8b761323-c001:a002"
+      ]
+    },
+    {
+      "name": "健康界限",
+      "definition": "温柔而坚定地告诉对方合理的界限需求，界限必须合理。",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a002",
+        "s-5e5c8b761323-c001:a023"
+      ]
+    },
+    {
+      "name": "界限如照妖镜",
+      "definition": "界限能照出畸形的关系和关系中不尊重你的人；当你想立界限，对方以断绝关系相威胁，说明对方不是真正想进入关系的人。",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a005"
+      ]
+    },
+    {
+      "name": "层层立界限",
+      "definition": "如果对方一直来敲门，可以进一步立界限：把对方推出门外，在门外一米处再立一个界限，让对方无法来敲门。",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a011"
+      ]
+    },
+    {
+      "name": "资格感",
+      "definition": "界限没有后果，而给不出后果的原因是不认为自己有资格给对方后果；必须真正发自内心相信自己有资格，才能给出后果。",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a031",
+        "s-5e5c8b761323-c002:a032"
+      ]
+    },
+    {
+      "name": "被逼的独立",
+      "definition": "因为被夺走了力量，没有办法，于是在外面产生一个看似独立、果敢、独断、强硬强势的保护外壳；这种独立不是健康成长出来的，并不健康。",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a013"
+      ]
+    },
+    {
+      "name": "头与身体比喻",
+      "definition": "头严重依赖身体各个器官，因为头很多事情做不到；真正做“头”不是什么都由头说了算，而是头要信赖、相信身体各个器官的能力，依赖这些能力来做决定。",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a024",
+        "s-5e5c8b761323-c002:a025"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-5e5c8b761323-c001:a001",
+      "target": "s-5e5c8b761323-c001:a002",
+      "kind": "supports",
+      "condition": "有界限的牺牲与无界限的牺牲在停止能力上的区别",
+      "reason": "两者都涉及牺牲，但界限的有无决定了当事人能否停止牺牲。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a003",
+      "target": "s-5e5c8b761323-c001:a004",
+      "kind": "association",
+      "condition": "同一案例情境",
+      "reason": "照顾残疾大哥的案例与针对该案例提出的与父母立界限方法虽相关，但案例不构成方法的典型例示，方法是对问题的回应，作为关联更合适。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "改为关联。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a004",
+      "target": "s-5e5c8b761323-c001:a005",
+      "kind": "association",
+      "condition": "针对不同对象的方法",
+      "reason": "与父母立界限的方法和根据大哥界限感调整界限松紧的方法分别针对不同关系对象，不是同一流程的连续步骤，仅相关。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "改为关联。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a005",
+      "target": "s-5e5c8b761323-c001:a006",
+      "kind": "step_of",
+      "condition": "如果大哥没有界限感",
+      "reason": "根据对方界限感调整界限松紧的命题中若大哥没有界限感则要立得死，具体方法给出了该分支的执行步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "保留。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a006",
+      "target": "s-5e5c8b761323-c001:a007",
+      "kind": "association",
+      "condition": "沟通内容与原则相关",
+      "reason": "与无界限感的大哥立界限的具体方法和沟通界限的原则相互配合，但前者是具体内容，后者是解释原则，不构成步骤关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "改为关联。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a007",
+      "target": "s-5e5c8b761323-c001:a008",
+      "kind": "step_of",
+      "condition": "立界限过程中",
+      "reason": "a007是与大哥沟通，a008是给自己立界限，都是立界限的组成部分。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a009",
+      "target": "s-5e5c8b761323-c001:a010",
+      "kind": "supports",
+      "condition": "人设和缺乏喜欢自己的能力导致畏惧外界评价",
+      "reason": "人设和缺乏喜欢自己的能力导致无法立界限，其机制中包含不畏惧别人眼光的能力，畏惧外界评价导致不敢立界限的命题支持该机制。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "保留。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a009",
+      "target": "s-5e5c8b761323-c001:a011",
+      "kind": "association",
+      "condition": "问题与解决方法相关",
+      "reason": "人设和缺乏喜欢自己的能力导致无法立界限的命题与打破人设和培养喜欢自己的能力的解决方法相关联，但不是因果关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "改为关联。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a012",
+      "target": "s-5e5c8b761323-c001:a013",
+      "kind": "causes",
+      "condition": "大事能独立小事选择困难",
+      "reason": "a012指出这不是界限问题，而是童年父母没有能力满足情绪和心理需要导致独立被逼；a013进一步说明被逼的独立形成保护外壳。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a013",
+      "target": "s-5e5c8b761323-c001:a014",
+      "kind": "supports",
+      "condition": "被逼的独立",
+      "reason": "a013描述保护外壳，a014解释心理机制：大事情被逼独立，小事情潜意识不愿意。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a014",
+      "target": "s-5e5c8b761323-c001:a015",
+      "kind": "causes",
+      "condition": "大事能独立小事选择困难",
+      "reason": "a014解释心理机制，a015指出解决方法是解决内心过去伤害的问题。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a016",
+      "target": "s-5e5c8b761323-c002:a014",
+      "kind": "supports",
+      "condition": "孩子适应界限需要时间",
+      "reason": "孩子适应界限需要时间的命题支持界限适应期约一周的具体时限。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "保留。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a017",
+      "target": "s-5e5c8b761323-c001:a018",
+      "kind": "step_of",
+      "condition": "重组家庭中丈夫不尊重的界限问题",
+      "reason": "重组家庭案例中提出三个处理思路，用离婚作为界限要求尊重是第一个思路的具体内容，属于案例建议中的一个步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立，保留原 step_of。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a017",
+      "target": "s-5e5c8b761323-c001:a019",
+      "kind": "step_of",
+      "condition": "重组家庭中丈夫不尊重的界限问题",
+      "reason": "重组家庭案例中提出三个处理思路，通过找继子办事让丈夫意识到问题是第二个思路的具体内容，属于案例建议中的一个步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立，保留原 step_of。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a017",
+      "target": "s-5e5c8b761323-c001:a020",
+      "kind": "step_of",
+      "condition": "重组家庭中丈夫不尊重的界限问题",
+      "reason": "重组家庭案例中提出三个处理思路，历界限表达愤怒和不满是第三个思路的具体内容，属于案例建议中的一个步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立，保留原 step_of。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a021",
+      "target": "s-5e5c8b761323-c001:a022",
+      "kind": "supports",
+      "condition": "位高权重时对身边人不好导致晚年凄凉",
+      "reason": "位高权重时对身边人不好会导致晚年凄凉的命题，为趁当权时积德的建议提供了依据。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a023",
+      "target": "s-5e5c8b761323-c002:a002",
+      "kind": "supports",
+      "condition": "界限让一切看得更清楚的前提",
+      "reason": "a023指出前提是立健康的界限，c002:a002具体说明健康界限是温柔而坚定地告诉对方合理的界限需求。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a002",
+      "target": "s-5e5c8b761323-c002:a003",
+      "kind": "contrasts",
+      "condition": "合理界限与不合理界限",
+      "reason": "a002是健康界限，a003是不合理界限示例，形成对比。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a002",
+      "target": "s-5e5c8b761323-c002:a004",
+      "kind": "causes",
+      "condition": "提出合理界限后对方不配合",
+      "reason": "a002是健康界限，a004说明当以正确方式提出合理界限对方仍不配合时的两种含义。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a004",
+      "target": "s-5e5c8b761323-c002:a005",
+      "kind": "supports",
+      "condition": "界限如照妖镜",
+      "reason": "a004说明对方不配合说明关系不健康，a005用照妖镜比喻界限能照出畸形关系。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a005",
+      "target": "s-5e5c8b761323-c002:a006",
+      "kind": "supports",
+      "condition": "用界限测试他人",
+      "reason": "a005说明界限能筛选关系，a006提出具体测试方法。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a006",
+      "target": "s-5e5c8b761323-c002:a007",
+      "kind": "supports",
+      "condition": "尊重界限是看得上你的表现",
+      "reason": "a006提出测试，a007说明看得上你的人能够尊重界限。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a008",
+      "target": "s-5e5c8b761323-c002:a009",
+      "kind": "example_of",
+      "condition": "立界限需要付出代价",
+      "reason": "a008是原则，a009是具体案例：为哥哥立界限的代价与选择。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a009",
+      "target": "s-5e5c8b761323-c002:a010",
+      "kind": "supports",
+      "condition": "婴儿期后午睡习惯已建立",
+      "reason": "a009提到妹妹午睡，a010说明婴儿期后午睡习惯已建立，因此更应优先给哥哥立界限。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a011",
+      "target": "s-5e5c8b761323-c002:a012",
+      "kind": "step_of",
+      "condition": "层层立界限的方法",
+      "reason": "a011是层层立界限的一般方法，a012是给哥哥立界限的具体话术与后果。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a012",
+      "target": "s-5e5c8b761323-c002:a013",
+      "kind": "step_of",
+      "condition": "发现对方持续越界时",
+      "reason": "a012是具体界限，a013是当对方持续越界时推远界限。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a013",
+      "target": "s-5e5c8b761323-c002:a014",
+      "kind": "supports",
+      "condition": "界限适应期",
+      "reason": "a013是推远界限，a014说明适应期约一周。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a015",
+      "target": "s-5e5c8b761323-c002:a016",
+      "kind": "example_of",
+      "condition": "缺乏界限与其他因素交织",
+      "reason": "后果不单纯是界限缺乏造成的命题，通过缺乏界限与其他因素交织的具体示例得到说明。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "示例关系成立。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a016",
+      "target": "s-5e5c8b761323-c002:a017",
+      "kind": "supports",
+      "condition": "无需分清楚各因素，但都要处理",
+      "reason": "缺乏界限与其他因素交织的具体示例，支撑无需分清楚各因素占比但都需要处理的结论。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a018",
+      "target": "s-5e5c8b761323-c002:a019",
+      "kind": "supports",
+      "condition": "育儿需多层面提升",
+      "reason": "a018指出育儿需多层面提升，a019说明原生家庭伤害未修复的影响。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a019",
+      "target": "s-5e5c8b761323-c002:a020",
+      "kind": "supports",
+      "condition": "心理健康和关系健康是多层面的",
+      "reason": "a019是原生家庭伤害的影响，a020说明心理健康和关系健康是多层面的。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a021",
+      "target": "s-5e5c8b761323-c002:a022",
+      "kind": "supports",
+      "condition": "情绪不好时拒绝与孩子说话是合理界限",
+      "reason": "a021是合理界限示例，a022说明认知未提升会导致界限立错。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a022",
+      "target": "s-5e5c8b761323-c002:a023",
+      "kind": "example_of",
+      "condition": "认知未提升会导致界限立错",
+      "reason": "a022是原则，a023是具体示例：错误理解“顺服”和“头”的含义。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a023",
+      "target": "s-5e5c8b761323-c002:a024",
+      "kind": "supports",
+      "condition": "错误理解“头”的含义",
+      "reason": "a023指出错误理解“头”，a024用比喻解释头依赖身体器官。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a024",
+      "target": "s-5e5c8b761323-c002:a025",
+      "kind": "supports",
+      "condition": "真正做“头”的含义",
+      "reason": "a024是比喻，a025解释真正做“头”的含义。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a025",
+      "target": "s-5e5c8b761323-c002:a026",
+      "kind": "supports",
+      "condition": "更了解孩子需要时可自行决定",
+      "reason": "a025是原则，a026是具体应用：更了解孩子需要时可自行决定。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a026",
+      "target": "s-5e5c8b761323-c002:a027",
+      "kind": "supports",
+      "condition": "家中谁更专业就听谁的",
+      "reason": "a026是育儿决策，a027是普遍原则：谁更专业就听谁的。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a027",
+      "target": "s-5e5c8b761323-c002:a028",
+      "kind": "example_of",
+      "condition": "讲师家庭育儿决策案例",
+      "reason": "家中谁更专业就听谁的原则，通过讲师家庭育儿和买房决策的案例得到具体展示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "示例关系成立。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a028",
+      "target": "s-5e5c8b761323-c002:a029",
+      "kind": "supports",
+      "condition": "谁更懂谁做决定",
+      "reason": "讲师家庭中育儿听讲师、买房听丈夫的案例，支撑谁更懂谁做决定的总结。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a023",
+      "target": "s-5e5c8b761323-c002:a030",
+      "kind": "causes",
+      "condition": "对顺服有错误认知",
+      "reason": "a023指出错误认知，a030建议学习真理。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a031",
+      "target": "s-5e5c8b761323-c002:a032",
+      "kind": "supports",
+      "condition": "真正相信自己有资格才能给出后果",
+      "reason": "a031指出原因，a032是结论。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a033",
+      "target": "s-5e5c8b761323-c002:a034",
+      "kind": "supports",
+      "condition": "不敢立界限的可能原因",
+      "reason": "a033是给自己立界限的示例，a034列出不敢立界限的可能原因。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a034",
+      "target": "s-5e5c8b761323-c002:a035",
+      "kind": "causes",
+      "condition": "通过团体课解决不敢发声等问题",
+      "reason": "a034列出原因，a035给出解决方法。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a036",
+      "target": "s-5e5c8b761323-c002:a037",
+      "kind": "example_of",
+      "condition": "立界限不需要大架势",
+      "reason": "a036是原则，a037是公共场合阻止他人碰孩子的界限案例。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a038",
+      "target": "s-5e5c8b761323-c002:a039",
+      "kind": "supports",
+      "condition": "孩子不愿尝试新事物的其他原因",
+      "reason": "a038指出完美主义与害怕别人失望的关联，a039说明孩子不愿尝试新事物的其他原因。"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a039",
+      "target": "s-5e5c8b761323-c002:a040",
+      "kind": "supports",
+      "condition": "12个能力课程涵盖相关内容",
+      "reason": "a039提到主动积极、面对失败、自我认知，a040说明12个能力课程涵盖这些内容。"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n001",
+      "target": "s-5e5c8b761323-c001:a003",
+      "kind": "complements",
+      "condition": "当需要了解具体案例背景时",
+      "reason": "候选1提供了源所针对的典型情境（照顾残疾大哥，父母道德绑架），补充了三个面向的适用背景，使源更具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a003",
+      "target": "s-5e5c8b761323-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要了解具体案例背景时",
+      "reason": "候选1提供了源所针对的典型情境（照顾残疾大哥，父母道德绑架），补充了三个面向的适用背景，使源更具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n001",
+      "target": "s-5e5c8b761323-c001:a005",
+      "kind": "complements",
+      "condition": "当与大哥立界限时",
+      "reason": "候选2详细展开源中limits提到的“界限松紧需根据对方界限感调整”，为三个面向中与大哥立界限提供了判断方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a005",
+      "target": "s-5e5c8b761323-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当与大哥立界限时",
+      "reason": "候选2详细展开源中limits提到的“界限松紧需根据对方界限感调整”，为三个面向中与大哥立界限提供了判断方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n001",
+      "target": "s-5e5c8b761323-c001:a008",
+      "kind": "complements",
+      "condition": "当给自己立界限时",
+      "reason": "候选3给出给自己立界限的具体步骤，对应源三个面向中的“给自己树立后果与责任归属”。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a008",
+      "target": "s-5e5c8b761323-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当给自己立界限时",
+      "reason": "候选3给出给自己立界限的具体步骤，对应源三个面向中的“给自己树立后果与责任归属”。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n001",
+      "target": "s-5e5c8b761323-c001:a004",
+      "kind": "complements",
+      "condition": "当与父母立界限时",
+      "reason": "候选4提供与父母立界限的具体话术和后果，补充源三个面向中的“与施压的父母划清责任边界”。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a004",
+      "target": "s-5e5c8b761323-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当与父母立界限时",
+      "reason": "候选4提供与父母立界限的具体话术和后果，补充源三个面向中的“与施压的父母划清责任边界”。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n001",
+      "target": "s-5e5c8b761323-c001:a007",
+      "kind": "complements",
+      "condition": "当与大哥沟通界限时",
+      "reason": "候选5说明与大哥沟通的原则（解释立界限原因以保全关系），为源中与大哥本人立界限补充沟通策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a007",
+      "target": "s-5e5c8b761323-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当与大哥沟通界限时",
+      "reason": "候选5说明与大哥沟通的原则（解释立界限原因以保全关系），为源中与大哥本人立界限补充沟通策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n001",
+      "target": "s-5e5c8b761323-c001:a006",
+      "kind": "complements",
+      "condition": "当大哥无界限感时",
+      "reason": "候选8针对大哥无界限感的情况列出具体界限内容，是源中与大哥立界限的深入细化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a006",
+      "target": "s-5e5c8b761323-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当大哥无界限感时",
+      "reason": "候选8针对大哥无界限感的情况列出具体界限内容，是源中与大哥立界限的深入细化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n001",
+      "target": "s-5e5c8b761323-c002:a011",
+      "kind": "association",
+      "condition": "作为进一步立界限的通用技巧",
+      "reason": "候选6层层立界限的方法可在处理照顾压力时使用，但源未提及，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a011",
+      "target": "s-5e5c8b761323-c001:v2-n001",
+      "kind": "association",
+      "condition": "作为进一步立界限的通用技巧",
+      "reason": "候选6层层立界限的方法可在处理照顾压力时使用，但源未提及，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n001",
+      "target": "s-5e5c8b761323-c002:a033",
+      "kind": "association",
+      "condition": "作为给自己立界限的类似场景",
+      "reason": "候选7关于不要求姐妹给父母钱，是给自己立界限的另一个具体场景，与源中照顾大哥场景不同，但同属给自己立界限的方法，可关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a033",
+      "target": "s-5e5c8b761323-c001:v2-n001",
+      "kind": "association",
+      "condition": "作为给自己立界限的类似场景",
+      "reason": "候选7关于不要求姐妹给父母钱，是给自己立界限的另一个具体场景，与源中照顾大哥场景不同，但同属给自己立界限的方法，可关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n001",
+      "target": "s-5e5c8b761323-c001:a002",
+      "kind": "association",
+      "condition": "作为界限牺牲概念的区别",
+      "reason": "候选9区分有界限与无界限牺牲，有助于理解源中划定责任的目的，但不是直接补充三个面向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a002",
+      "target": "s-5e5c8b761323-c001:v2-n001",
+      "kind": "association",
+      "condition": "作为界限牺牲概念的区别",
+      "reason": "候选9区分有界限与无界限牺牲，有助于理解源中划定责任的目的，但不是直接补充三个面向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n001",
+      "target": "s-5e5c8b761323-c001:v2-n002",
+      "kind": "association",
+      "condition": "作为界限作用的整体认知",
+      "reason": "候选10是课程中相关概念，帮助理解立界限的意义，但不直接补充三个面向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n002",
+      "target": "s-5e5c8b761323-c001:v2-n001",
+      "kind": "association",
+      "condition": "作为界限作用的整体认知",
+      "reason": "候选10是课程中相关概念，帮助理解立界限的意义，但不直接补充三个面向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n002",
+      "target": "s-5e5c8b761323-c002:a002",
+      "kind": "complements",
+      "condition": "当需要明确健康界限定义时",
+      "reason": "候选1给出健康界限的具体前提：温柔而坚定地告诉对方合理界限需求，补充了源中“健康”的内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a002",
+      "target": "s-5e5c8b761323-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要明确健康界限定义时",
+      "reason": "候选1给出健康界限的具体前提：温柔而坚定地告诉对方合理界限需求，补充了源中“健康”的内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n002",
+      "target": "s-5e5c8b761323-c001:a003",
+      "kind": "association",
+      "condition": "作为具体应用场景的案例",
+      "reason": "候选6是照顾残疾大哥的案例，可理解为健康界限原则在具体情境中的体现，但非直接补充，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a003",
+      "target": "s-5e5c8b761323-c001:v2-n002",
+      "kind": "association",
+      "condition": "作为具体应用场景的案例",
+      "reason": "候选6是照顾残疾大哥的案例，可理解为健康界限原则在具体情境中的体现，但非直接补充，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n002",
+      "target": "s-5e5c8b761323-c001:v2-n001",
+      "kind": "association",
+      "condition": "作为健康界限原则的实施示例",
+      "reason": "候选8提供三个面向立界限的策略，是源原则在具体压力情境下的应用，有助于理解如何达到“看得更清楚”，但非直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n001",
+      "target": "s-5e5c8b761323-c001:v2-n002",
+      "kind": "association",
+      "condition": "作为健康界限原则的实施示例",
+      "reason": "候选8提供三个面向立界限的策略，是源原则在具体压力情境下的应用，有助于理解如何达到“看得更清楚”，但非直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n002",
+      "target": "s-5e5c8b761323-c001:a007",
+      "kind": "association",
+      "condition": "作为与大哥立界限的具体原则",
+      "reason": "候选9是源原则的一个具体应用点，但源未直接涉及，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a007",
+      "target": "s-5e5c8b761323-c001:v2-n002",
+      "kind": "association",
+      "condition": "作为与大哥立界限的具体原则",
+      "reason": "候选9是源原则的一个具体应用点，但源未直接涉及，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n002",
+      "target": "s-5e5c8b761323-c002:a011",
+      "kind": "association",
+      "condition": "作为界限方法之一",
+      "reason": "候选10层层立界限的方法可以视为健康界限的一种具体手段，但源未提及，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a011",
+      "target": "s-5e5c8b761323-c001:v2-n002",
+      "kind": "association",
+      "condition": "作为界限方法之一",
+      "reason": "候选10层层立界限的方法可以视为健康界限的一种具体手段，但源未提及，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:v2-n002",
+      "target": "s-5e5c8b761323-c001:a008",
+      "kind": "association",
+      "condition": "作为给自己立界限的方法",
+      "reason": "候选12提供给自己立界限的步骤，可视为实现健康界限的一个面向，但源未直接说明，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c001:a008",
+      "target": "s-5e5c8b761323-c001:v2-n002",
+      "kind": "association",
+      "condition": "作为给自己立界限的方法",
+      "reason": "候选12提供给自己立界限的步骤，可视为实现健康界限的一个面向，但源未直接说明，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c003:v2-n001",
+      "target": "s-5e5c8b761323-c003:v2-n002",
+      "kind": "association",
+      "condition": "作为规则应用的案例",
+      "reason": "候选2提供了学员学员提问未被回答的具体案例，是源所述规则的实际体现，帮助理解规则执行，但非规则本身的补充，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c003:v2-n002",
+      "target": "s-5e5c8b761323-c003:v2-n001",
+      "kind": "association",
+      "condition": "作为规则应用的案例",
+      "reason": "候选2提供了学员学员提问未被回答的具体案例，是源所述规则的实际体现，帮助理解规则执行，但非规则本身的补充，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c003:v2-n002",
+      "target": "s-5e5c8b761323-c002:a041",
+      "kind": "example_of",
+      "condition": "当引用具体案例说明规则时",
+      "reason": "源案例“学员提问未被回答”是候选1“提问需与课程主题相关”规则的一个具体示例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c002:a041",
+      "target": "s-5e5c8b761323-c003:v2-n002",
+      "kind": "has_example",
+      "condition": "当引用具体案例说明规则时",
+      "reason": "源案例“学员提问未被回答”是候选1“提问需与课程主题相关”规则的一个具体示例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c003:v2-n002",
+      "target": "s-5e5c8b761323-c003:v2-n001",
+      "kind": "example_of",
+      "condition": "当引用具体案例说明规则时",
+      "reason": "源案例是候选2“课程提问主题相关性规则”的具体体现，该规则更完整，源为其示例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5e5c8b761323-c003:v2-n001",
+      "target": "s-5e5c8b761323-c003:v2-n002",
+      "kind": "has_example",
+      "condition": "当引用具体案例说明规则时",
+      "reason": "源案例是候选2“课程提问主题相关性规则”的具体体现，该规则更完整，源为其示例。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "自我认知",
+      "when": "当人设被卡住、缺乏喜欢自己的能力、畏惧外界评价时，无法立界限；需要打破人设、培养喜欢自己的能力。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a009",
+        "s-5e5c8b761323-c001:a010",
+        "s-5e5c8b761323-c001:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我认知",
+      "when": "当原生家庭伤害未修复时，会影响现在的生活，导致不敢立界限；需要解决内心伤害。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a019",
+        "s-5e5c8b761323-c002:a020",
+        "s-5e5c8b761323-c001:a015"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "内在能力",
+      "when": "孩子不愿尝试新事物可能因为缺乏主动积极的能力、害怕面对失败、不喜欢自己，需要培养内在能力。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a039",
+        "s-5e5c8b761323-c002:a040"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "界限",
+      "when": "当认知未提升时，界限可能会立错，如错误理解“顺服”和“头”的含义。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a022",
+        "s-5e5c8b761323-c002:a023"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a021",
+        "s-5e5c8b761323-c001:r001"
+      ],
+      "reason": "内容几乎一致，都是位高权重者应趁当权时积德。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a022",
+        "s-5e5c8b761323-c002:a001"
+      ],
+      "reason": "内容几乎一致，都是位高权重时积德以保退位后境遇。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a011"
+      ],
+      "reason": "内容完全一致，都是层层立界限的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a012"
+      ],
+      "reason": "内容完全一致，都是给哥哥立界限的具体话术与后果。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a013"
+      ],
+      "reason": "内容完全一致，都是发现对方持续越界时推远界限。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a014"
+      ],
+      "reason": "内容完全一致，都是界限适应期约一周。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a015"
+      ],
+      "reason": "内容完全一致，都是后果不单纯是界限缺乏造成。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a016"
+      ],
+      "reason": "内容完全一致，都是缺乏界限与其他因素交织的示例。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a017"
+      ],
+      "reason": "内容完全一致，都是无需分清楚各因素，但都要处理。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a018"
+      ],
+      "reason": "内容完全一致，都是育儿需多层面提升。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a019"
+      ],
+      "reason": "内容完全一致，都是原生家庭伤害未修复的影响。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a020"
+      ],
+      "reason": "内容完全一致，都是心理健康和关系健康是多层面的。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a021"
+      ],
+      "reason": "内容完全一致，都是情绪不好时拒绝与孩子说话是合理界限。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a022"
+      ],
+      "reason": "内容完全一致，都是认知未提升会导致界限立错。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a023"
+      ],
+      "reason": "内容完全一致，都是错误理解“顺服”和“头”的含义。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a024"
+      ],
+      "reason": "内容完全一致，都是“头”依赖身体器官的比喻。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a025"
+      ],
+      "reason": "内容完全一致，都是真正做“头”的含义。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a026"
+      ],
+      "reason": "内容完全一致，都是更了解孩子需要时可自行决定。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a027"
+      ],
+      "reason": "内容完全一致，都是家中谁更专业就听谁的。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a028"
+      ],
+      "reason": "内容完全一致，都是讲师家庭育儿决策案例。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a029"
+      ],
+      "reason": "内容完全一致，都是谁更懂谁做决定。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a030"
+      ],
+      "reason": "内容完全一致，都是对顺服有错误认知需学习真理。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a031"
+      ],
+      "reason": "内容完全一致，都是给不出后果的原因是不认为自己有资格。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a032"
+      ],
+      "reason": "内容完全一致，都是真正相信自己有资格才能给出后果。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a033"
+      ],
+      "reason": "内容完全一致，都是给自己立界限：不要求姐妹给父母钱。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a034"
+      ],
+      "reason": "内容完全一致，都是不敢立界限的可能原因。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a035"
+      ],
+      "reason": "内容完全一致，都是通过团体课解决不敢发声等问题。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a036"
+      ],
+      "reason": "内容完全一致，都是立界限不需要大架势。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a037"
+      ],
+      "reason": "内容完全一致，都是公共场合阻止他人碰孩子的界限案例。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a038"
+      ],
+      "reason": "内容完全一致，都是完美主义与害怕别人失望的关联。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a039"
+      ],
+      "reason": "内容完全一致，都是孩子不愿尝试新事物的其他原因。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a040"
+      ],
+      "reason": "内容完全一致，都是12个能力课程涵盖相关内容。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a041"
+      ],
+      "reason": "内容完全一致，都是提问需与课程主题相关。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a012",
+        "s-5e5c8b761323-c001:a013",
+        "s-5e5c8b761323-c001:a014",
+        "s-5e5c8b761323-c001:a015"
+      ],
+      "description": "a012-a015认为大事能独立小事选择困难不是界限问题，而是童年伤害导致；但其他记录（如a009-a011）认为人设和缺乏喜欢自己的能力导致不能立界限，两者可能都涉及自我认知，但具体机制不同，需要进一步证据明确界限问题与自我认知问题的边界。",
+      "needed_evidence": "需要更多案例或理论说明如何区分界限问题与自我认知问题，以及两者如何交互。"
+    },
+    {
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a021",
+        "s-5e5c8b761323-c002:a022"
+      ],
+      "description": "a021认为情绪不好时拒绝与孩子说话是合理界限，但a022指出认知未提升会导致界限立错，可能暗示某些看似合理的界限可能因认知错误而不合理，需要明确判断标准。",
+      "needed_evidence": "需要具体标准判断界限是否合理，以及认知如何影响界限的合理性。"
+    }
+  ],
+  "path": [
+    {
+      "name": "立界限的一般步骤",
+      "steps": [
+        {
+          "action": "明确界限需求，确保界限合理",
+          "atom_ids": [
+            "s-5e5c8b761323-c002:a002",
+            "s-5e5c8b761323-c001:a023"
+          ],
+          "condition": "界限必须合理，温柔而坚定地表达"
+        },
+        {
+          "action": "评估对方是否有界限感，调整界限松紧",
+          "atom_ids": [
+            "s-5e5c8b761323-c001:a005"
+          ],
+          "condition": "根据对方平时是否有界限感决定界限严格程度"
+        },
+        {
+          "action": "清晰沟通界限内容，说明原因和后果",
+          "atom_ids": [
+            "s-5e5c8b761323-c001:a004",
+            "s-5e5c8b761323-c001:a006",
+            "s-5e5c8b761323-c001:a007",
+            "s-5e5c8b761323-c002:a012"
+          ],
+          "condition": "具体列出提供帮助和不提供帮助的事情类别，说明立界限是为了保全关系"
+        },
+        {
+          "action": "执行后果，必要时层层推远界限",
+          "atom_ids": [
+            "s-5e5c8b761323-c002:a011",
+            "s-5e5c8b761323-c002:a013",
+            "s-5e5c8b761323-c002:a037"
+          ],
+          "condition": "如果对方持续越界，推远界限或给予警告性后果"
+        },
+        {
+          "action": "坚持界限，给予适应时间",
+          "atom_ids": [
+            "s-5e5c8b761323-c001:a016",
+            "s-5e5c8b761323-c002:a014"
+          ],
+          "condition": "孩子或对方需要约一周时间适应"
+        },
+        {
+          "action": "处理自身问题，如打破人设、培养喜欢自己的能力",
+          "atom_ids": [
+            "s-5e5c8b761323-c001:a011",
+            "s-5e5c8b761323-c002:a035"
+          ],
+          "condition": "当不敢立界限源于自我认知问题时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-5e5c8b761323-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a001"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a002"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a003"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00010",
+        "b00012",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a004"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a005"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a006"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a007"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a008"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u010",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a009"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a010"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a011"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u013",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a012"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a013"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u015",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a014"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a015"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a016"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u018",
+      "kind": "case",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a017"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035",
+        "b00036",
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a018"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a019"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u021",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a020"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u022",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a021"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c001:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00040",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a021"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00041",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a021"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00045",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a021"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00046",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:a023",
+        "s-5e5c8b761323-c002:a002"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00047_health",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a002"
+      ],
+      "blocks": [
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00047_unreasonable",
+      "kind": "case",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a003"
+      ],
+      "blocks": [
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00047_refusal",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a004"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00048_two_points",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a004"
+      ],
+      "blocks": [
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00048_mirror",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a005"
+      ],
+      "blocks": [
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00049_testing",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a006"
+      ],
+      "blocks": [
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00050_respect",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a007"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00050_cost",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a008"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00051_example",
+      "kind": "case",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a009"
+      ],
+      "blocks": [
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00052_choice_result",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a009"
+      ],
+      "blocks": [
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00053_priority",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a010"
+      ],
+      "blocks": [
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00054_layered",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a011"
+      ],
+      "blocks": [
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00055_consequences",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a012"
+      ],
+      "blocks": [
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00056_choice",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a012"
+      ],
+      "blocks": [
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00057_push",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a013"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00057_one_week",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a014"
+      ],
+      "blocks": [
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00057_not_only",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a015"
+      ],
+      "blocks": [
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00058_complication",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a015",
+        "s-5e5c8b761323-c002:a016"
+      ],
+      "blocks": [
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00059_examples",
+      "kind": "case",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a016"
+      ],
+      "blocks": [
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00060_need_handle",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a017"
+      ],
+      "blocks": [
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00060_more_than_boundary",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a017"
+      ],
+      "blocks": [
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00061_parenting_multi",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a018"
+      ],
+      "blocks": [
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00062_native",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a019"
+      ],
+      "blocks": [
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00063_multi_layer",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a020"
+      ],
+      "blocks": [
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00064_all_layers",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a020"
+      ],
+      "blocks": [
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00064_emotional_boundary",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a021"
+      ],
+      "blocks": [
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00065_responsibility",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a021"
+      ],
+      "blocks": [
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00065_cognition",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a022"
+      ],
+      "blocks": [
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00066_misunderstanding",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a023"
+      ],
+      "blocks": [
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00067_head_depend",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a024",
+        "s-5e5c8b761323-c002:a025"
+      ],
+      "blocks": [
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00068_true_head",
+      "kind": "definition",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a025"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00068_expert",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a026",
+        "s-5e5c8b761323-c002:a027"
+      ],
+      "blocks": [
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00069_expert_rule",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a027"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00069_case",
+      "kind": "case",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a028"
+      ],
+      "blocks": [
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00070_case_continue",
+      "kind": "case",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a028"
+      ],
+      "blocks": [
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00071_who_knows",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a029"
+      ],
+      "blocks": [
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00071_submission",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a030"
+      ],
+      "blocks": [
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00073_no_qualification",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a031"
+      ],
+      "blocks": [
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00074_believe",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a032"
+      ],
+      "blocks": [
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00074_self_boundary_start",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a033"
+      ],
+      "blocks": [
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00075_example",
+      "kind": "case",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a033"
+      ],
+      "blocks": [
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00076_no_demand",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a033"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00077_reasons",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a034"
+      ],
+      "blocks": [
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00078_courses",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a035"
+      ],
+      "blocks": [
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00078_calm",
+      "kind": "method",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a036"
+      ],
+      "blocks": [
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00079_case",
+      "kind": "case",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a037"
+      ],
+      "blocks": [
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00080_escalation",
+      "kind": "case",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a037"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00081_perfectionism",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a038"
+      ],
+      "blocks": [
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00082_other_reasons",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a039"
+      ],
+      "blocks": [
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00084_rule",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a041"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c002:u_b00085_rule_continue",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5e5c8b761323-c002:a041"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c003:u001",
+      "kind": "rule",
+      "atom_ids": [
+        "s-5e5c8b761323-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-5e5c8b761323-c003:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-5e5c8b761323-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "处理照顾压力时立界限的三个面向",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5e5c8b761323",
+          "blocks": [
+            "b00010",
+            "b00012",
+            "b00020"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "健康界限使问题看得更清楚",
+      "atom_ids": [
+        "s-5e5c8b761323-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5e5c8b761323",
+          "blocks": [
+            "b00046"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    }
+  ]
+}

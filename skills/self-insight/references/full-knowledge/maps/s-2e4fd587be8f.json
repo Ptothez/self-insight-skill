@@ -1,0 +1,3271 @@
+{
+  "concepts": [
+    {
+      "name": "未满足阶段需求导致行为回退",
+      "definition": "如果孩子在某个发展阶段没有获得父母应当提供的角色支持，他会一直想要回到这个阶段，表现出与该阶段相符的行为。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a001"
+      ]
+    },
+    {
+      "name": "应对大孩子婴儿式拥抱需求的方法",
+      "definition": "当大孩子要求像婴儿一样被抱时，父母可以沟通自己的不适，并共同寻找既能满足身体接触需求又不造成伤害的方式，例如让孩子侧坐被抱。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a002"
+      ]
+    },
+    {
+      "name": "排查性侵可能",
+      "definition": "当孩子出现吃手指、要求像婴儿一样被抱等行为时，父母需要排查孩子是否在幼时遭受性侵，但不应直接询问，而应委婉地通过不同方式了解。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a003"
+      ]
+    },
+    {
+      "name": "道德观未发展不等于不能教导",
+      "definition": "孩子道德观尚未发展起来时，不代表父母不能影响或教导孩子。此时孩子无法从道德上认知错误，但可以通过界限和后果来禁止不当行为。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a004"
+      ]
+    },
+    {
+      "name": "用后果而非道德说教纠正行为",
+      "definition": "对于年幼孩子的不当行为（如吐口水），不要讲礼貌等抽象道理，而是告知具体后果，例如会被带离现场、别人不喜欢他等，让他明白行为会带来不好的结果。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a005"
+      ]
+    },
+    {
+      "name": "独立睡眠与安全感的关系",
+      "definition": "独立睡眠是孩子在婴儿期就可以独立完成的事情，越早独立入睡的孩子独立能力越强。如果孩子年龄较大仍需要父母陪伴才能入睡，说明其缺乏安全感，而父母的陪伴实际上是在喂养不安全感。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a006"
+      ]
+    },
+    {
+      "name": "培养独立入睡的原则",
+      "definition": "孩子累了自然会睡，不睡觉是因为不够累。父母应养成习惯，不陪睡，让孩子自己入睡。反对哭声免疫法，但训练独立入睡是可行的。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a007"
+      ]
+    },
+    {
+      "name": "身体抚摸的重要性",
+      "definition": "除了陪伴，身体抚摸对孩子的情绪连接很重要。如果小时候缺乏身体抚摸，孩子可能通过其他方式寻求这种连接。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a008"
+      ]
+    },
+    {
+      "name": "应对孩子需要陪伴的情况",
+      "definition": "当孩子需要陪伴时，可以耐心陪伴，但睡觉必须自己完成。睡前可以聊天，但不要像小时候一样重新安抚。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a009"
+      ]
+    },
+    {
+      "name": "行为与年龄不符提示未满足需求",
+      "definition": "如果孩子在某些方面表现得很独立甚至像大人，但在其他方面像小孩子，说明其行为与年龄不相符，可能存在小时候未满足的需求。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a010"
+      ]
+    },
+    {
+      "name": "补救过去错误的原则",
+      "definition": "不要试图补救孩子小时候错过的需求，而应按当前年龄提供所需。如果孩子出现退行行为，可以适当给予一些以前需要的，但主要任务是完成当前年龄阶段的父母角色。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a011"
+      ]
+    },
+    {
+      "name": "孩子不承认错误的原因",
+      "definition": "孩子不承认错误有两个原因：一是分不清现实与想象（多见于幼儿），二是害怕父母生气或承担后果。九岁孩子通常是因为害怕。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a012"
+      ]
+    },
+    {
+      "name": "处理孩子不承认错误的方法",
+      "definition": "向孩子灌输两个概念：一是宁愿被管教也不愿失去信任；二是要做尊贵的事。当孩子承认后，要肯定他的勇敢。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a013"
+      ]
+    },
+    {
+      "name": "告状与偏心",
+      "definition": "孩子不承认错误也可能因为觉得父母偏心弟妹。在多子女家庭中，老大往往处于不利地位，因为父母倾向于保护幼小。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a014"
+      ]
+    },
+    {
+      "name": "处理孩子告状的方法",
+      "definition": "除非涉及动手打人，否则父母可以少管告状，让孩子自己解决，解决不了就不一起玩。告状会让孩子觉得可以钻空子。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a015",
+        "s-2e4fd587be8f-c001:r001",
+        "s-2e4fd587be8f-c001:r002"
+      ]
+    },
+    {
+      "name": "21个月宝宝急躁是正常的",
+      "definition": "21个月的宝宝性格急躁、没有耐心是正常的，因为大脑发育尚未达到有耐心的程度。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a016"
+      ]
+    },
+    {
+      "name": "用条件反射培养幼儿耐心",
+      "definition": "对于幼儿翻书跳页的行为，不要讲道理或给予强烈反应，而是冷静地说“耐心”或“patient”，并翻回页面继续读。重复这个提醒词，使其成为条件反射，让孩子听到后停下来。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a017",
+        "s-2e4fd587be8f-c001:r005"
+      ]
+    },
+    {
+      "name": "避免强化不良行为",
+      "definition": "当孩子做出不良行为时，如果父母给予强烈的情绪反应，会强化该行为。应保持冷静，只给予简单的提醒词。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a018"
+      ]
+    },
+    {
+      "name": "按当前年龄扮演父母角色",
+      "definition": "即使孩子心理年龄滞后，父母也应按照孩子当前生理年龄来扮演角色，而不是心理年龄。通过父母的做法提醒孩子他现在的年龄，帮助他心理成熟。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a019"
+      ]
+    },
+    {
+      "name": "心理年龄与需求的关系",
+      "definition": "孩子有低龄需求并不代表心理年龄就是低龄，可能只是某些需求未满足。父母按当前年龄对待可以帮助加速心理成熟。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a020"
+      ]
+    },
+    {
+      "name": "案例：14岁女儿要求婴儿式拥抱",
+      "definition": "一位母亲的14岁女儿身高166cm，有时吃手指并要求像婴儿一样被抱，母亲感到腿痛并推开她。母亲怀疑是否婴儿期拥抱不足。讲师建议沟通并寻找替代拥抱方式，同时排查性侵可能。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a021"
+      ]
+    },
+    {
+      "name": "案例：4岁8个月男孩吐口水",
+      "definition": "一位母亲的老二男孩4岁8个月，见到长辈就吐口水，母亲训斥但无效。讲师指出道德观未发展，应通过界限和后果来禁止，而非道德说教。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a022"
+      ]
+    },
+    {
+      "name": "案例：12岁孩子睡眠问题",
+      "definition": "一位母亲的12岁孩子难以独立入睡，需要父母陪伴。讲师认为12岁仍需陪伴说明缺乏安全感，父母应停止陪睡，让孩子自己入睡。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a023"
+      ]
+    },
+    {
+      "name": "案例：孩子需要陪伴和身体抚摸",
+      "definition": "一位母亲的老大女儿需要陪伴，晚上要求捏身体。讲师认为可能与小时候缺乏安抚和身体抚摸有关，建议平时多抚摸，但睡觉必须自己完成。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a024"
+      ]
+    },
+    {
+      "name": "案例：7岁半女儿过去养育失误",
+      "definition": "一位母亲的7岁半女儿，1.5岁断奶送人，至今陪睡，3-5岁喂饭等。母亲询问如何补救。讲师建议按当前年龄提供支持，不要补救过去。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a025"
+      ]
+    },
+    {
+      "name": "案例：9岁男孩不承认错误",
+      "definition": "一位母亲的9岁男孩较真，不承认扔玩具等行为。讲师认为原因是害怕父母生气，建议灌输信任和尊贵概念，并肯定承认错误。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a026"
+      ]
+    },
+    {
+      "name": "案例：21个月宝宝急躁",
+      "definition": "一位家长的21个月宝宝性格急躁，翻书跳页。讲师认为正常，建议用“耐心”提醒词建立条件反射。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a027"
+      ]
+    },
+    {
+      "name": "案例：18岁孩子心理年龄滞后",
+      "definition": "一位家长的孩子生理年龄18岁，心理年龄12-13岁。讲师建议按18岁对待，帮助心理成熟。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a028"
+      ]
+    },
+    {
+      "name": "告状行为与孩子年龄的关系",
+      "definition": "一般情况下，告状的多是年龄较小的孩子，而年龄较大的孩子在这种事情上处于不利地位。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:r003"
+      ]
+    },
+    {
+      "name": "家庭环境对幼儿急躁的影响",
+      "definition": "如果家中有老人经常催促孩子“快一点”，可能会影响孩子的急躁表现，需要留意。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:r004"
+      ]
+    },
+    {
+      "name": "心理年龄与生理年龄的区分",
+      "definition": "孩子可能有十二三岁的需求，但并不代表其心理年龄在十二三岁；可能因为早期需求未满足而表现出退行需求，但实际生理年龄已18岁。父母应按照孩子当前生理年龄（18岁）来对待，而非按心理年龄或退行需求对待。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a001"
+      ]
+    },
+    {
+      "name": "按生理年龄对待可加速心理成熟",
+      "definition": "当孩子表现出低于生理年龄的需求时，父母若按照其生理年龄对待，可以帮助孩子加速心理年龄的成熟。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a002"
+      ]
+    },
+    {
+      "name": "浸泡困难环境与提供帮助不冲突",
+      "definition": "让孩子浸泡在困难环境中是让他自己面对困难，但这不代表不给予任何帮助。父母可以在旁边随时准备保护并给予必要帮助，如同让孩子学游泳时在旁边守护。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a003"
+      ]
+    },
+    {
+      "name": "判断是否同意孩子回家补课的条件",
+      "definition": "如果孩子在学校上课睡觉、不听课，回家要求补课，则不应同意；如果孩子因学习压力焦虑需要帮助，可以考虑提供心理辅导或请大学生陪伴引导，而非直接补课。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a004"
+      ]
+    },
+    {
+      "name": "请大学生陪伴引导焦虑孩子",
+      "definition": "对于焦虑的高三孩子，可以请一位背景相似、知书达理、会正向引导的大学生（如大三大四学生）来家里吃饭聊天，分享自己如何逐步调整学习状态，给予心理鼓励。这比单纯补课效果更好。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a005"
+      ]
+    },
+    {
+      "name": "父母应观察判断孩子需要的帮助",
+      "definition": "帮助孩子有很多方法，不是孩子要什么就给什么。父母应观察孩子的情况，判断其真正需要的帮助，并智慧地提供。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a006"
+      ]
+    },
+    {
+      "name": "丈夫过度追求物质需心理辅导",
+      "definition": "学员提到丈夫小时候父母对钱管理紧，导致缺乏感，后来过度追求物质，买很贵的东西，拥有后就没有新鲜感。讲师判断如果是丈夫的问题，必须接受心理辅导，并建议妻子不要扮演妈妈角色，应让丈夫自己参加自我认知课程。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a007"
+      ]
+    },
+    {
+      "name": "两岁三个月奶睡孩子的断奶方法",
+      "definition": "对于两岁三个月仍奶睡的孩子，断奶时不能涂胡椒水或辣椒水。睡前用喝水替代喝奶，孩子要喝奶就给水，慢慢断掉。孩子可能会哭，父母需要耐心，这个年龄不可能完全不哭。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a008"
+      ]
+    },
+    {
+      "name": "讲师自己孩子断奶经历",
+      "definition": "讲师分享自己两次断奶经历：老大断奶时，睡醒先给牛奶，喝饱后不再喝母乳，自然断奶；老二断奶时用喝水替代，没有哭。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a009"
+      ]
+    },
+    {
+      "name": "三岁孩子睡眠习惯调整方法",
+      "definition": "对于三岁孩子睡眠习惯不好、晚睡的情况，应白天安排午睡，晚上八点准时上床。孩子越缺睡眠越不肯睡觉，需要先补足睡眠。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a010"
+      ]
+    },
+    {
+      "name": "讲师老二睡眠调整案例",
+      "definition": "讲师家老二曾因与哥哥一起睡而睡眠不足，每睡一小时到一个半小时就醒来大哭。后来调整让弟弟七点睡、哥哥八点睡，弟弟睡眠改善，一觉到天亮。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a011"
+      ]
+    },
+    {
+      "name": "两岁孩子兴趣尝试与坚持培养",
+      "definition": "两岁孩子没有坚持性，应让其尝试所有感兴趣的事物，发现特别喜欢的东西。等孩子稍大后，再约定学习一年，并立合约：如果不好好学，需要打工还钱；如果认真学，父母付钱。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a012"
+      ]
+    },
+    {
+      "name": "11岁老大被当大孩子养的处理",
+      "definition": "对于11岁老大因弟弟妹妹而被当大孩子养、出现粘人退行行为的情况，父母应按照11岁孩子的角色对待，不能因是老大就要求像大人。偶尔允许孩子退行（如假装喝奶）是正常的，但需做好当前角色。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a013"
+      ]
+    },
+    {
+      "name": "讲师孩子假装喝奶的退行行为",
+      "definition": "讲师的孩子长大后偶尔会假装要喝妈妈的奶，讲师允许这种假装行为，但不会真的让孩子喝。这被视为正常的退行表现。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a014"
+      ]
+    },
+    {
+      "name": "两岁孩子缠人时的陪伴方法",
+      "definition": "对于两岁孩子缠人、不陪就发火的情况，建议每天上午和下午各安排一小时陪伴，分成两个半小时。陪伴时专注，不玩手机；之后让孩子独立玩耍40分钟，若不能独立玩则缩短下次陪伴时间。不要给孩子手机或iPad，让孩子练习独立玩耍。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a015"
+      ]
+    },
+    {
+      "name": "培养孩子独立玩耍能力",
+      "definition": "父母应安排独立玩耍时间，即使坐在旁边做自己的事也不陪玩，让孩子自己翻书、玩玩具。不要过度关注或干涉，以培养独立能力。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a016",
+        "s-2e4fd587be8f-c003:a009"
+      ]
+    },
+    {
+      "name": "睡眠调整的重要性与坚持",
+      "definition": "讲师强调睡眠对孩子大脑发育和智力很重要，调整睡眠过程艰难但值得。应温柔而坚定地培养睡眠习惯，不要凶孩子。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a017"
+      ]
+    },
+    {
+      "name": "讲师老大睡眠调整案例",
+      "definition": "讲师家老大曾是超级睡渣，晚上白天都不睡且哭闹，导致讲师产后抑郁和耳鸣。讲师坚持准点放睡，第一周很痛苦，但第二三周后好转，现在睡眠质量很高，孩子智商超常。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a018"
+      ]
+    },
+    {
+      "name": "四到六岁关键点需系统学习",
+      "definition": "四到六岁孩子的关键点包括培养耐心、自信心等，需要系统学习相关课程，不可能在一节课讲完。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a019"
+      ]
+    },
+    {
+      "name": "如何保护好奇心又让孩子坚持",
+      "definition": "家长提问如何保护孩子好奇心同时让孩子坚持兴趣。讲师回答两岁孩子没有坚持性，应让其尝试，稍大后约定学习一年并立合约。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a020"
+      ]
+    },
+    {
+      "name": "四个孩子家庭的养育心态",
+      "definition": "对于四个孩子的家庭，父母需要大量学习和练习，虽然辛苦，但培养好孩子后会有四倍的祝福和欣慰。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a021"
+      ]
+    },
+    {
+      "name": "哪些事情允许孩子说不",
+      "definition": "家长提问哪些事情允许孩子说不，讲师要求提具体问题才能回答，因为不同事情界限不同。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a022"
+      ]
+    },
+    {
+      "name": "九个月宝宝自主入睡训练",
+      "definition": "对于九个月宝宝洗完澡要奶睡、不奶睡就大哭的情况，需要锻炼自主入睡，具体方法可参考讲师视频。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a023",
+        "s-2e4fd587be8f-c002:r001"
+      ]
+    },
+    {
+      "name": "挠痒痒游戏的紧张反应正常",
+      "definition": "孩子玩挠痒痒游戏时表现出期待和紧张是正常的，不会刺激神经，家长不必过度紧张。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a024",
+        "s-2e4fd587be8f-c003:a008"
+      ]
+    },
+    {
+      "name": "两岁左右婴儿入睡训练方法",
+      "definition": "针对快两岁左右的婴儿入睡问题，采用渐进式等待与安抚的方法：孩子哭时，先等5分钟，然后进去抱起安抚，一般一抱起来就不哭了；不要等孩子在自己身上睡着再放回床上，应在孩子不哭后放下。如果放下后又哭，关上门出去，第二次等10分钟再进去安抚；第三次及以后等15分钟再进去，且每次等待不超过15分钟。每次进去安抚时，可以唱同一首安眠曲，帮助孩子建立睡眠联想。通过多次重复，孩子可能自然入睡，一旦有一两次自然入睡，后续就会顺利。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c003:a001"
+      ]
+    },
+    {
+      "name": "使用固定安眠曲建立睡眠联想",
+      "definition": "睡前固定唱几首安眠曲，可以帮助孩子建立睡眠联想。每次进去安抚孩子时唱同一首歌，孩子就会知道这首歌是让他睡觉的信号。有案例显示，一个孩子在地上打滚要玩具时，妈妈一唱这首歌，孩子就安静下来昏昏欲睡。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c003:a002"
+      ]
+    },
+    {
+      "name": "孩子打滚要玩具时安眠曲安抚案例",
+      "definition": "一个孩子在地上打滚要玩具，妈妈一给他唱固定的安眠曲，他就安静下来，昏昏欲睡。这个案例说明固定安眠曲可以起到安抚和引导睡眠的作用。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c003:a003"
+      ]
+    },
+    {
+      "name": "睡眠训练的安全前提",
+      "definition": "进行睡眠训练时，前提条件是孩子是安全的，不会从床上掉下来，并且最好有监控设备，家长可以在外面观察孩子。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c003:a004"
+      ]
+    },
+    {
+      "name": "睡眠问题与权威问题的区分",
+      "definition": "如果两岁多的孩子不听指令，非要下床玩，家长招呼不住，那么可能不是睡眠问题，而是权威问题。此时需要先解决权威问题，而不是仅用睡眠训练方法。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c003:a005"
+      ]
+    },
+    {
+      "name": "处理孩子下床玩的方法",
+      "definition": "如果孩子自己跑下床玩，家长应将他抱回床上，并告诉他如果再自己下床，就要给床安装一个类似围栏的东西，不让他下来。如果孩子两岁多，家长已经招呼不住，可能涉及权威问题。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c003:a006"
+      ]
+    },
+    {
+      "name": "九个月宝宝懒睡问题",
+      "definition": "家长提问：九个月宝宝晚上洗完澡要懒睡，如果不懒睡会大哭，需要锻炼他自己入睡吗？讲师回答：需要。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c003:a007"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-2e4fd587be8f-c001:a001",
+      "target": "s-2e4fd587be8f-c001:a010",
+      "kind": "supports",
+      "condition": "当孩子表现出与年龄不符的行为时",
+      "reason": "未满足阶段需求导致行为回退，而行为与年龄不符正是回退的表现，因此前者支持后者。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a001",
+      "target": "s-2e4fd587be8f-c001:a011",
+      "kind": "association",
+      "condition": "当父母意识到过去有失误时",
+      "reason": "“未满足阶段需求导致行为回退”与“补救过去错误的原则”讨论同一现象，但前者描述成因，后者给出应对原则，未能直接构成支持或因果，故标为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "关系类型修正为association"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a021",
+      "target": "s-2e4fd587be8f-c001:a002",
+      "kind": "example_of",
+      "condition": "当14岁女儿要求婴儿式拥抱时",
+      "reason": "“案例：14岁女儿要求婴儿式拥抱”是“应对大孩子婴儿式拥抱需求的方法”的具体案例，原方向颠倒。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向修正"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a021",
+      "target": "s-2e4fd587be8f-c001:a003",
+      "kind": "example_of",
+      "condition": "当孩子出现退行行为时",
+      "reason": "“案例：14岁女儿要求婴儿式拥抱”属于“排查性侵可能”所描述的情境，是该概念的应用示例，原关系类型不适用且方向颠倒。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "关系类型修正为example_of，方向修正"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a004",
+      "target": "s-2e4fd587be8f-c001:a005",
+      "kind": "supports",
+      "condition": "当孩子道德认知未成熟时",
+      "reason": "道德观未发展不等于不能教导，因此可以通过界限和后果来禁止不当行为，即用后果而非道德说教。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a022",
+      "target": "s-2e4fd587be8f-c001:a005",
+      "kind": "example_of",
+      "condition": "当4岁8个月男孩吐口水时",
+      "reason": "“案例：4岁8个月男孩吐口水”是“用后果而非道德说教纠正行为”的具体示例，原方向颠倒。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向修正"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a023",
+      "target": "s-2e4fd587be8f-c001:a006",
+      "kind": "example_of",
+      "condition": "当12岁孩子需要父母陪伴才能入睡时",
+      "reason": "“案例：12岁孩子睡眠问题”是“独立睡眠与安全感的关系”所述情况的具体示例，原方向颠倒。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向修正"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a007",
+      "target": "s-2e4fd587be8f-c001:a009",
+      "kind": "supports",
+      "condition": "当孩子需要陪伴时",
+      "reason": "培养独立入睡的原则是不陪睡，因此应对孩子需要陪伴的情况时，睡觉必须自己完成。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a024",
+      "target": "s-2e4fd587be8f-c001:a008",
+      "kind": "example_of",
+      "condition": "当孩子需要身体抚摸时",
+      "reason": "“案例：孩子需要陪伴和身体抚摸”是“身体抚摸的重要性”的具体表现，原方向颠倒。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向修正"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a025",
+      "target": "s-2e4fd587be8f-c001:a011",
+      "kind": "example_of",
+      "condition": "当7岁半女儿过去养育失误时",
+      "reason": "“案例：7岁半女儿过去养育失误”是“补救过去错误的原则”的应用实例，原方向颠倒。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向修正"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a012",
+      "target": "s-2e4fd587be8f-c001:a013",
+      "kind": "supports",
+      "condition": "当孩子不承认错误时",
+      "reason": "“孩子不承认错误的原因”说明了孩子害怕父母生气，支持“处理孩子不承认错误的方法”中需要强调信任和肯定承认错误等做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "关系类型由causes修正为supports"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a026",
+      "target": "s-2e4fd587be8f-c001:a013",
+      "kind": "example_of",
+      "condition": "当9岁男孩不承认错误时",
+      "reason": "“案例：9岁男孩不承认错误”是“处理孩子不承认错误的方法”的具体应用示例，原方向颠倒。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向修正"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a014",
+      "target": "s-2e4fd587be8f-c001:a015",
+      "kind": "supports",
+      "condition": "当多子女家庭中孩子告状时",
+      "reason": "“告状与偏心”说明孩子可能觉得父母偏心，支持“处理孩子告状的方法”中父母少管、让孩子自己解决的做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a016",
+      "target": "s-2e4fd587be8f-c001:a017",
+      "kind": "causes",
+      "condition": "当21个月宝宝急躁时",
+      "reason": "因为21个月宝宝急躁是正常的，所以需要用条件反射培养耐心。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a017",
+      "target": "s-2e4fd587be8f-c001:a018",
+      "kind": "example_of",
+      "condition": "当幼儿缺乏耐心时",
+      "reason": "“用条件反射培养幼儿耐心”是“避免强化不良行为”这一原则的具体应用示例，原关系为支持但方向不当。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "关系类型修正为example_of"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a019",
+      "target": "s-2e4fd587be8f-c001:a020",
+      "kind": "supports",
+      "condition": "当孩子心理年龄滞后时",
+      "reason": "按当前年龄扮演父母角色可以帮助加速心理成熟，因为孩子有低龄需求并不代表心理年龄就是低龄。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a028",
+      "target": "s-2e4fd587be8f-c001:a019",
+      "kind": "example_of",
+      "condition": "当18岁孩子心理年龄滞后时",
+      "reason": "“案例：18岁孩子心理年龄滞后”是“按当前年龄扮演父母角色”的具体应用示例，原方向颠倒。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向修正"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a020",
+      "target": "s-2e4fd587be8f-c002:a001",
+      "kind": "supports",
+      "condition": "当孩子有低龄需求时",
+      "reason": "心理年龄与需求的关系说明低龄需求不代表心理年龄低，因此需要区分心理年龄与生理年龄。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a021",
+      "target": "s-2e4fd587be8f-c001:a002",
+      "kind": "example_of",
+      "condition": "当14岁女儿要求婴儿式拥抱时",
+      "reason": "“案例：14岁女儿要求婴儿式拥抱”是“应对大孩子婴儿式拥抱需求的方法”的具体体现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a022",
+      "target": "s-2e4fd587be8f-c001:a005",
+      "kind": "example_of",
+      "condition": "当4岁8个月男孩吐口水时",
+      "reason": "“案例：4岁8个月男孩吐口水”是“用后果而非道德说教纠正行为”的具体体现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a023",
+      "target": "s-2e4fd587be8f-c001:a006",
+      "kind": "example_of",
+      "condition": "当12岁孩子需要父母陪伴才能入睡时",
+      "reason": "“案例：12岁孩子睡眠问题”是“独立睡眠与安全感的关系”的具体体现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a024",
+      "target": "s-2e4fd587be8f-c001:a008",
+      "kind": "example_of",
+      "condition": "当孩子需要身体抚摸时",
+      "reason": "“案例：孩子需要陪伴和身体抚摸”是“身体抚摸的重要性”的具体体现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a025",
+      "target": "s-2e4fd587be8f-c001:a011",
+      "kind": "example_of",
+      "condition": "当7岁半女儿过去养育失误时",
+      "reason": "案例中的母亲对7岁半女儿的过去养育失误询问补救，讲师建议按当前年龄提供支持，体现了不要补救过去错误、按当前年龄提供支持的原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例是原则的适当示例，方向正确。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a026",
+      "target": "s-2e4fd587be8f-c001:a013",
+      "kind": "example_of",
+      "condition": "当9岁男孩不承认错误时",
+      "reason": "案例中的9岁男孩不承认扔玩具，讲师建议灌输信任和尊贵概念并肯定承认错误，体现了处理孩子不承认错误的方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例与方法内容匹配。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a027",
+      "target": "s-2e4fd587be8f-c001:a017",
+      "kind": "example_of",
+      "condition": "当21个月宝宝急躁时",
+      "reason": "案例中的21个月宝宝翻书跳页，讲师建议用“耐心”提醒词建立条件反射，体现了用条件反射培养幼儿耐心的方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例与方法匹配。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a028",
+      "target": "s-2e4fd587be8f-c001:a019",
+      "kind": "example_of",
+      "condition": "当18岁孩子心理年龄滞后时",
+      "reason": "案例中的18岁孩子心理年龄12-13岁，讲师建议按18岁生理年龄对待，体现了按当前年龄扮演父母角色的原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例与原则匹配。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:r001",
+      "target": "s-2e4fd587be8f-c001:a015",
+      "kind": "association",
+      "condition": "当孩子之间发生冲突时",
+      "reason": "处理告状的一般原则与处理孩子告状的方法两段内容几乎完全相同，不构成支持关系，仅为同一议题的重复描述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原kind supports不成立，因为两段内容重复无推断关系，改为association。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:r002",
+      "target": "s-2e4fd587be8f-c001:a015",
+      "kind": "supports",
+      "condition": "当孩子之间发生冲突时",
+      "reason": "应对孩子告状的具体做法提供了告诉孩子不要告状、鼓励自己解决等步骤，支持处理孩子告状的一般方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "source具体做法可作为target方法的实现支持。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:r003",
+      "target": "s-2e4fd587be8f-c001:a014",
+      "kind": "supports",
+      "condition": "当多子女家庭中孩子告状时",
+      "reason": "告状行为与孩子年龄的关系说明年龄较小的孩子告状多，年龄较大的孩子处于不利地位，与告状与偏心中的观点一致。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:r004",
+      "target": "s-2e4fd587be8f-c001:a016",
+      "kind": "supports",
+      "condition": "当幼儿急躁时",
+      "reason": "家庭环境对幼儿急躁的影响说明老人催促可能影响急躁表现，与21个月宝宝急躁是正常的观点相关。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:r005",
+      "target": "s-2e4fd587be8f-c001:a017",
+      "kind": "supports",
+      "condition": "当幼儿缺乏耐心时",
+      "reason": "用提醒词培养幼儿耐心的具体操作与用条件反射培养幼儿耐心内容一致。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a018",
+      "target": "s-2e4fd587be8f-c001:a018",
+      "kind": "supports",
+      "condition": "当孩子做出不良行为时",
+      "reason": "避免强化不良行为与避免强化不良行为内容一致。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a019",
+      "target": "s-2e4fd587be8f-c001:a019",
+      "kind": "supports",
+      "condition": "当孩子心理年龄滞后时",
+      "reason": "按当前年龄扮演父母角色与按当前年龄扮演父母角色内容一致。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a020",
+      "target": "s-2e4fd587be8f-c001:a020",
+      "kind": "supports",
+      "condition": "当孩子有低龄需求时",
+      "reason": "心理年龄与需求的关系与心理年龄与需求的关系内容一致。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a001",
+      "target": "s-2e4fd587be8f-c002:a002",
+      "kind": "causes",
+      "condition": "当孩子表现出低于生理年龄的需求时",
+      "reason": "因为心理年龄与生理年龄的区分说明应按生理年龄对待，所以按生理年龄对待可加速心理成熟。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a003",
+      "target": "s-2e4fd587be8f-c002:a006",
+      "kind": "supports",
+      "condition": "当孩子面对困难时",
+      "reason": "浸泡困难环境与提供帮助不冲突，因此父母应观察判断孩子需要的帮助。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a004",
+      "target": "s-2e4fd587be8f-c002:a005",
+      "kind": "supports",
+      "condition": "当孩子因学习压力焦虑需要帮助时",
+      "reason": "判断是否同意孩子回家补课的条件中建议请大学生陪伴引导焦虑孩子，支持请大学生陪伴引导焦虑孩子这一具体方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "源条件建议与目标方法一致。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a005",
+      "target": "s-2e4fd587be8f-c002:a006",
+      "kind": "supports",
+      "condition": "当孩子处于焦虑状态时",
+      "reason": "请大学生陪伴引导焦虑孩子是父母观察判断孩子需要的帮助的一种具体方法。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a008",
+      "target": "s-2e4fd587be8f-c002:a009",
+      "kind": "example_of",
+      "condition": "当孩子两岁三个月奶睡时",
+      "reason": "讲师自己孩子断奶经历是两岁三个月奶睡孩子的断奶方法的实例。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a010",
+      "target": "s-2e4fd587be8f-c002:a011",
+      "kind": "example_of",
+      "condition": "当孩子三岁睡眠习惯不好时",
+      "reason": "讲师老二睡眠调整案例是三岁孩子睡眠习惯调整方法的实例。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a012",
+      "target": "s-2e4fd587be8f-c002:a020",
+      "kind": "supports",
+      "condition": "当家长询问如何保护好奇心又让孩子坚持时",
+      "reason": "两岁孩子兴趣尝试与坚持培养的步骤回答了如何保护好奇心又让孩子坚持的问题，支持该问题解答。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "源方法支持目标问题。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a013",
+      "target": "s-2e4fd587be8f-c002:a014",
+      "kind": "association",
+      "condition": "当11岁老大出现退行行为时",
+      "reason": "11岁老大被当大孩子养的处理中提到允许偶尔退行（如假装喝奶），与讲师孩子假装喝奶的退行行为相关，但原example_of方向错误：案例应是概念的示例，而非相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原kind example_of方向反了，改为association。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a015",
+      "target": "s-2e4fd587be8f-c002:a016",
+      "kind": "supports",
+      "condition": "当孩子两岁缠人时",
+      "reason": "两岁孩子缠人时的陪伴方法中包括让孩子独立玩耍40分钟，支持培养孩子独立玩耍能力。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "源方法包含目标方法的步骤。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a017",
+      "target": "s-2e4fd587be8f-c002:a018",
+      "kind": "association",
+      "condition": "当孩子睡眠习惯不好时",
+      "reason": "睡眠调整的重要性与坚持提倡坚持准点放睡、温柔坚定，与讲师老大睡眠调整案例相关，但原example_of方向错误：案例应是原则的示例，而非相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原example_of方向反了，改为association。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a023",
+      "target": "s-2e4fd587be8f-c003:a007",
+      "kind": "supports",
+      "condition": "当九个月宝宝奶睡时",
+      "reason": "九个月宝宝自主入睡训练指出需要锻炼自主入睡，支持九个月宝宝懒睡问题的回答。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "源方法支持目标问题。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a001",
+      "target": "s-2e4fd587be8f-c003:a002",
+      "kind": "association",
+      "condition": "当进行两岁左右婴儿入睡训练时",
+      "reason": "两岁左右婴儿入睡训练方法中提到每次安抚时可唱同一首安眠曲，与使用固定安眠曲建立睡眠联想相关，但原step_of方向错误：固定安眠曲是方法中的一个步骤，而非方法作为安眠曲的步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of方向反了，改为association。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a002",
+      "target": "s-2e4fd587be8f-c003:a003",
+      "kind": "association",
+      "condition": "当孩子打滚要玩具时",
+      "reason": "使用固定安眠曲建立睡眠联想提到孩子打滚要玩具时安眠曲安抚案例，与该案例相关，但原example_of方向错误：案例应是概念的示例，而非相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原example_of方向反了，改为association。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a004",
+      "target": "s-2e4fd587be8f-c003:a001",
+      "kind": "prerequisite",
+      "condition": "当进行睡眠训练时",
+      "reason": "睡眠训练的安全前提是进行两岁左右婴儿入睡训练方法的前提条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "方向正确。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a005",
+      "target": "s-2e4fd587be8f-c003:a006",
+      "kind": "supports",
+      "condition": "当孩子下床玩时",
+      "reason": "睡眠问题与权威问题的区分说明需要先解决权威问题，支持处理孩子下床玩的方法中考虑权威问题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "源概念支持目标方法。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a006",
+      "target": "s-2e4fd587be8f-c003:a005",
+      "kind": "supports",
+      "condition": "当孩子下床玩时",
+      "reason": "处理孩子下床玩的方法中涉及权威问题，支持睡眠问题与权威问题的区分。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "与另一条类似，但独立有效。"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0001",
+      "target": "s-2e4fd587be8f-c001:a007",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 以“不睡觉是因为不够累”类比说明不吃饭，target 详细阐述不睡觉是因为不够累及独立入睡训练，通过类比关联但属于不同主题，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a007",
+      "target": "s-2e4fd587be8f-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 以“不睡觉是因为不够累”类比说明不吃饭，target 详细阐述不睡觉是因为不够累及独立入睡训练，通过类比关联但属于不同主题，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0001",
+      "target": "s-2e4fd587be8f-c001:a012",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于吃饭与睡眠，target 关于孩子不承认错误，主题不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a012",
+      "target": "s-2e4fd587be8f-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于吃饭与睡眠，target 关于孩子不承认错误，主题不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0001",
+      "target": "s-2e4fd587be8f-c001:a014",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于吃饭与睡眠，target 关于告状与偏心，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a014",
+      "target": "s-2e4fd587be8f-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于吃饭与睡眠，target 关于告状与偏心，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0001",
+      "target": "s-2e4fd587be8f-c001:a009",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 提到不睡觉是因为不够累，target 讲应对孩子需要陪伴时坚持自己睡，同属睡眠话题但具体内容不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a009",
+      "target": "s-2e4fd587be8f-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 提到不睡觉是因为不够累，target 讲应对孩子需要陪伴时坚持自己睡，同属睡眠话题但具体内容不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0001",
+      "target": "s-2e4fd587be8f-c002:a022",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于吃饭与睡眠，target 关于哪些事情允许孩子说不，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a022",
+      "target": "s-2e4fd587be8f-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于吃饭与睡眠，target 关于哪些事情允许孩子说不，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0001",
+      "target": "s-2e4fd587be8f-c002:a010",
+      "kind": "conditional_difference",
+      "condition": "source 针对一般孩子不睡是因为不够累；target 针对三岁睡眠习惯不好的孩子，越缺睡眠越不肯睡",
+      "reason": "source 说不睡觉是因为不够累，target 提出越缺睡眠越不肯睡觉，两者在不同条件下（一般 vs 三岁习惯不好）结论相反，构成条件差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a010",
+      "target": "s-2e4fd587be8f-c001:v2-n0001",
+      "kind": "conditional_difference",
+      "condition": "source 针对一般孩子不睡是因为不够累；target 针对三岁睡眠习惯不好的孩子，越缺睡眠越不肯睡",
+      "reason": "source 说不睡觉是因为不够累，target 提出越缺睡眠越不肯睡觉，两者在不同条件下（一般 vs 三岁习惯不好）结论相反，构成条件差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0001",
+      "target": "s-2e4fd587be8f-c003:a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 提到不睡觉与累，target 提供两岁婴儿入睡训练详细步骤，同属睡眠话题但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a001",
+      "target": "s-2e4fd587be8f-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 提到不睡觉与累，target 提供两岁婴儿入睡训练详细步骤，同属睡眠话题但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0001",
+      "target": "s-2e4fd587be8f-c002:v2-n004",
+      "kind": "conditional_difference",
+      "condition": "source 针对一般孩子，target 针对三岁孩子晚睡调整案例",
+      "reason": "source 说不睡觉是因为不够累，target 案例中讲师建议先补足睡眠，指出越缺睡眠越不肯睡，与 source 在一般条件下结论不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n004",
+      "target": "s-2e4fd587be8f-c001:v2-n0001",
+      "kind": "conditional_difference",
+      "condition": "source 针对一般孩子，target 针对三岁孩子晚睡调整案例",
+      "reason": "source 说不睡觉是因为不够累，target 案例中讲师建议先补足睡眠，指出越缺睡眠越不肯睡，与 source 在一般条件下结论不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0001",
+      "target": "s-2e4fd587be8f-c002:a018",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于吃饭与睡眠，target 是讲师老大睡眠调整案例，同属睡眠话题但具体内容不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a018",
+      "target": "s-2e4fd587be8f-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于吃饭与睡眠，target 是讲师老大睡眠调整案例，同属睡眠话题但具体内容不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0001",
+      "target": "s-2e4fd587be8f-c003:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于不睡觉与累，target 关于安眠曲安抚案例，同属睡眠话题但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a003",
+      "target": "s-2e4fd587be8f-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于不睡觉与累，target 关于安眠曲安抚案例，同属睡眠话题但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0001",
+      "target": "s-2e4fd587be8f-c003:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于不睡觉与累，target 关于区分睡眠问题与权威问题，主题相关但内容不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a005",
+      "target": "s-2e4fd587be8f-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于不睡觉与累，target 关于区分睡眠问题与权威问题，主题相关但内容不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0001",
+      "target": "s-2e4fd587be8f-c003:a002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于不吃饭与不睡觉，target 关于固定安眠曲建立睡眠联想，同属睡眠话题但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a002",
+      "target": "s-2e4fd587be8f-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于不吃饭与不睡觉，target 关于固定安眠曲建立睡眠联想，同属睡眠话题但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0002",
+      "target": "s-2e4fd587be8f-c002:a003",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 说浸泡困难环境不代表不给予帮助，target 补充了父母可以随时准备保护并给予必要帮助，用学游泳守护作比喻，补足了帮助的具体方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a003",
+      "target": "s-2e4fd587be8f-c001:v2-n0002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 说浸泡困难环境不代表不给予帮助，target 补充了父母可以随时准备保护并给予必要帮助，用学游泳守护作比喻，补足了帮助的具体方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0002",
+      "target": "s-2e4fd587be8f-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 是原则，target 是准高三案例应用，但 target 还包含具体判断条件，方向不适合 example_of，故标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n002",
+      "target": "s-2e4fd587be8f-c001:v2-n0002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 是原则，target 是准高三案例应用，但 target 还包含具体判断条件，方向不适合 example_of，故标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0002",
+      "target": "s-2e4fd587be8f-c001:a028",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 是原则，target 是18岁孩子案例应用，主题相关但具体内容不同，标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a028",
+      "target": "s-2e4fd587be8f-c001:v2-n0002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 是原则，target 是18岁孩子案例应用，主题相关但具体内容不同，标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0002",
+      "target": "s-2e4fd587be8f-c001:a020",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲帮助，target 讲心理年龄与需求，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a020",
+      "target": "s-2e4fd587be8f-c001:v2-n0002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲帮助，target 讲心理年龄与需求，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0002",
+      "target": "s-2e4fd587be8f-c001:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲帮助，target 讲道德观未发展不等于不能教导，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a004",
+      "target": "s-2e4fd587be8f-c001:v2-n0002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲帮助，target 讲道德观未发展不等于不能教导，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0002",
+      "target": "s-2e4fd587be8f-c002:a006",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 说浸泡困难环境不代表不帮助，target 补充了父母应观察孩子状态、判断真正需求、提供适当帮助的实质步骤，补足了如何帮助。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a006",
+      "target": "s-2e4fd587be8f-c001:v2-n0002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 说浸泡困难环境不代表不帮助，target 补充了父母应观察孩子状态、判断真正需求、提供适当帮助的实质步骤，补足了如何帮助。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0002",
+      "target": "s-2e4fd587be8f-c001:a015",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于帮助，target 关于处理告状，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a015",
+      "target": "s-2e4fd587be8f-c001:v2-n0002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于帮助，target 关于处理告状，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0002",
+      "target": "s-2e4fd587be8f-c001:a007",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于帮助，target 关于独立入睡，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a007",
+      "target": "s-2e4fd587be8f-c001:v2-n0002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于帮助，target 关于独立入睡，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0002",
+      "target": "s-2e4fd587be8f-c001:r001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于帮助，target 关于告状一般原则，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:r001",
+      "target": "s-2e4fd587be8f-c001:v2-n0002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于帮助，target 关于告状一般原则，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0002",
+      "target": "s-2e4fd587be8f-c002:a016",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于帮助，target 关于培养独立玩耍，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a016",
+      "target": "s-2e4fd587be8f-c001:v2-n0002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于帮助，target 关于培养独立玩耍，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0002",
+      "target": "s-2e4fd587be8f-c001:a002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于帮助，target 关于大孩子婴儿式拥抱，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a002",
+      "target": "s-2e4fd587be8f-c001:v2-n0002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于帮助，target 关于大孩子婴儿式拥抱，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0002",
+      "target": "s-2e4fd587be8f-c001:r004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于帮助，target 关于家庭环境影响急躁，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:r004",
+      "target": "s-2e4fd587be8f-c001:v2-n0002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于帮助，target 关于家庭环境影响急躁，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n001",
+      "target": "s-2e4fd587be8f-c001:a017",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 说耐心是条件反射式指示，target 给出了具体操作：说“耐心”、翻回页面、重复提醒词，补足了如何实施条件反射。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a017",
+      "target": "s-2e4fd587be8f-c002:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 说耐心是条件反射式指示，target 给出了具体操作：说“耐心”、翻回页面、重复提醒词，补足了如何实施条件反射。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n001",
+      "target": "s-2e4fd587be8f-c001:r005",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 说耐心是条件反射式指示，target 提供了同样具体操作步骤，补足了实操方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:r005",
+      "target": "s-2e4fd587be8f-c002:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 说耐心是条件反射式指示，target 提供了同样具体操作步骤，补足了实操方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n001",
+      "target": "s-2e4fd587be8f-c003:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于耐心条件反射，target 关于固定安眠曲形成条件反射，都是条件反射应用但主题不同（耐心 vs 睡眠），故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:v2-n001",
+      "target": "s-2e4fd587be8f-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于耐心条件反射，target 关于固定安眠曲形成条件反射，都是条件反射应用但主题不同（耐心 vs 睡眠），故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n001",
+      "target": "s-2e4fd587be8f-c001:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于道德观教导，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a004",
+      "target": "s-2e4fd587be8f-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于道德观教导，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n001",
+      "target": "s-2e4fd587be8f-c002:a006",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于观察判断孩子需要的帮助，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a006",
+      "target": "s-2e4fd587be8f-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于观察判断孩子需要的帮助，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n001",
+      "target": "s-2e4fd587be8f-c001:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于排查性侵可能，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a003",
+      "target": "s-2e4fd587be8f-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于排查性侵可能，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n001",
+      "target": "s-2e4fd587be8f-c001:a019",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于按年龄扮演父母角色，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a019",
+      "target": "s-2e4fd587be8f-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于按年龄扮演父母角色，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n001",
+      "target": "s-2e4fd587be8f-c002:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于判断回家补课条件，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a004",
+      "target": "s-2e4fd587be8f-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于判断回家补课条件，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n001",
+      "target": "s-2e4fd587be8f-c002:a008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于断奶方法，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a008",
+      "target": "s-2e4fd587be8f-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于断奶方法，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n001",
+      "target": "s-2e4fd587be8f-c001:r002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于告状做法，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:r002",
+      "target": "s-2e4fd587be8f-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于告状做法，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n001",
+      "target": "s-2e4fd587be8f-c002:a021",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于四孩子养育心态，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a021",
+      "target": "s-2e4fd587be8f-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于四孩子养育心态，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n001",
+      "target": "s-2e4fd587be8f-c002:a013",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于11岁老大处理，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a013",
+      "target": "s-2e4fd587be8f-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于条件反射，target 关于11岁老大处理，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n002",
+      "target": "s-2e4fd587be8f-c002:a004",
+      "kind": "example_of",
+      "condition": "无特定条件",
+      "reason": "source 是准高三案例，target 是判断条件总结，source 具体体现了 target 中上课睡觉不应同意、可考虑心理辅导等条件，故 source 是 target 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a004",
+      "target": "s-2e4fd587be8f-c002:v2-n002",
+      "kind": "has_example",
+      "condition": "无特定条件",
+      "reason": "source 是准高三案例，target 是判断条件总结，source 具体体现了 target 中上课睡觉不应同意、可考虑心理辅导等条件，故 source 是 target 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n002",
+      "target": "s-2e4fd587be8f-c001:a028",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 与 target 都是准高三孩子想回家补课案例，内容相似但具体主体和细节不同，均为案例，不能互为例子，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a028",
+      "target": "s-2e4fd587be8f-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 与 target 都是准高三孩子想回家补课案例，内容相似但具体主体和细节不同，均为案例，不能互为例子，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n002",
+      "target": "s-2e4fd587be8f-c001:v2-n0002",
+      "kind": "example_of",
+      "condition": "无特定条件",
+      "reason": "source 中讲师回应“浸泡困难环境不排斥帮助”，直接体现了 target 的原则，source 是 target 的应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:v2-n0002",
+      "target": "s-2e4fd587be8f-c002:v2-n002",
+      "kind": "has_example",
+      "condition": "无特定条件",
+      "reason": "source 中讲师回应“浸泡困难环境不排斥帮助”，直接体现了 target 的原则，source 是 target 的应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n002",
+      "target": "s-2e4fd587be8f-c002:a003",
+      "kind": "example_of",
+      "condition": "无特定条件",
+      "reason": "source 是具体案例，target 是浸泡困难环境与提供帮助不冲突的概念，source 体现了该原则，故 source 是 target 的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a003",
+      "target": "s-2e4fd587be8f-c002:v2-n002",
+      "kind": "has_example",
+      "condition": "无特定条件",
+      "reason": "source 是具体案例，target 是浸泡困难环境与提供帮助不冲突的概念，source 体现了该原则，故 source 是 target 的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n002",
+      "target": "s-2e4fd587be8f-c002:a005",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 提到“可考虑心理辅导或请大学生陪伴”，target 详细补充了请大学生的具体步骤：调查背景、邀请吃饭、聊天分享，补足了实施方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a005",
+      "target": "s-2e4fd587be8f-c002:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 提到“可考虑心理辅导或请大学生陪伴”，target 详细补充了请大学生的具体步骤：调查背景、邀请吃饭、聊天分享，补足了实施方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n002",
+      "target": "s-2e4fd587be8f-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于准高三焦虑，target 关于三岁孩子晚睡，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n004",
+      "target": "s-2e4fd587be8f-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于准高三焦虑，target 关于三岁孩子晚睡，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n002",
+      "target": "s-2e4fd587be8f-c002:a020",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于学习焦虑，target 关于保护好奇心与坚持，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a020",
+      "target": "s-2e4fd587be8f-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于学习焦虑，target 关于保护好奇心与坚持，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n002",
+      "target": "s-2e4fd587be8f-c003:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于准高三，target 关于睡眠问题与权威问题，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a005",
+      "target": "s-2e4fd587be8f-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于准高三，target 关于睡眠问题与权威问题，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n002",
+      "target": "s-2e4fd587be8f-c002:a012",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于准高三，target 关于两岁孩子兴趣培养，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a012",
+      "target": "s-2e4fd587be8f-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于准高三，target 关于两岁孩子兴趣培养，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n002",
+      "target": "s-2e4fd587be8f-c003:a006",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于准高三，target 关于处理孩子下床玩，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a006",
+      "target": "s-2e4fd587be8f-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于准高三，target 关于处理孩子下床玩，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n002",
+      "target": "s-2e4fd587be8f-c001:a023",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于准高三，target 关于12岁孩子睡眠，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a023",
+      "target": "s-2e4fd587be8f-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于准高三，target 关于12岁孩子睡眠，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n002",
+      "target": "s-2e4fd587be8f-c002:a006",
+      "kind": "example_of",
+      "condition": "无特定条件",
+      "reason": "source 中讲师观察判断孩子需要帮助并提供适当方式（心理辅导或大学生），体现了 target 中“观察状态、判断需求、提供适当帮助”的原则，故 source 是 target 的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a006",
+      "target": "s-2e4fd587be8f-c002:v2-n002",
+      "kind": "has_example",
+      "condition": "无特定条件",
+      "reason": "source 中讲师观察判断孩子需要帮助并提供适当方式（心理辅导或大学生），体现了 target 中“观察状态、判断需求、提供适当帮助”的原则，故 source 是 target 的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n003",
+      "target": "s-2e4fd587be8f-c002:a014",
+      "kind": "complements",
+      "condition": "当孩子出现假装喝奶的退行行为时",
+      "reason": "源提出允许偶尔假装喝奶的退行行为，候选1提供了讲师自己孩子假装喝奶的具体实例，补充了该行为的实际表现（讲师允许但不会真的让孩子喝），证实了正常退行的具体情形。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a014",
+      "target": "s-2e4fd587be8f-c002:v2-n003",
+      "kind": "complements",
+      "condition": "当孩子出现假装喝奶的退行行为时",
+      "reason": "源提出允许偶尔假装喝奶的退行行为，候选1提供了讲师自己孩子假装喝奶的具体实例，补充了该行为的实际表现（讲师允许但不会真的让孩子喝），证实了正常退行的具体情形。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n003",
+      "target": "s-2e4fd587be8f-c002:a013",
+      "kind": "complements",
+      "condition": "当孩子11岁且家中有弟弟妹妹时",
+      "reason": "源强调父母做好当前角色前提下允许偶尔退行，候选2将此原则应用于11岁老大因弟弟妹妹被当大孩子养的情况，补充了该原则在特定年龄和家庭结构下的应用，并重申“允许偶尔退行（如假装喝奶）但需做好当前角色”。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a013",
+      "target": "s-2e4fd587be8f-c002:v2-n003",
+      "kind": "complements",
+      "condition": "当孩子11岁且家中有弟弟妹妹时",
+      "reason": "源强调父母做好当前角色前提下允许偶尔退行，候选2将此原则应用于11岁老大因弟弟妹妹被当大孩子养的情况，补充了该原则在特定年龄和家庭结构下的应用，并重申“允许偶尔退行（如假装喝奶）但需做好当前角色”。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n003",
+      "target": "s-2e4fd587be8f-c001:a011",
+      "kind": "association",
+      "condition": "当孩子出现退行行为时（不限年龄）",
+      "reason": "源涉及退行处理中的“做好当前角色”，候选3提出“主要任务是完成当前年龄阶段的父母角色”，两者在退行处理原则上一致，但候选3更泛化，未限定具体行为，仅作为通用原则关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a011",
+      "target": "s-2e4fd587be8f-c002:v2-n003",
+      "kind": "association",
+      "condition": "当孩子出现退行行为时（不限年龄）",
+      "reason": "源涉及退行处理中的“做好当前角色”，候选3提出“主要任务是完成当前年龄阶段的父母角色”，两者在退行处理原则上一致，但候选3更泛化，未限定具体行为，仅作为通用原则关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n003",
+      "target": "s-2e4fd587be8f-c001:a019",
+      "kind": "association",
+      "condition": "当孩子心理年龄滞后时",
+      "reason": "源中“父母做好当前角色”与候选4中“按当前生理年龄扮演角色”相通，但候选4侧重心理年龄与生理年龄的区分，未涉及具体退行行为，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a019",
+      "target": "s-2e4fd587be8f-c002:v2-n003",
+      "kind": "association",
+      "condition": "当孩子心理年龄滞后时",
+      "reason": "源中“父母做好当前角色”与候选4中“按当前生理年龄扮演角色”相通，但候选4侧重心理年龄与生理年龄的区分，未涉及具体退行行为，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n003",
+      "target": "s-2e4fd587be8f-c002:a008",
+      "kind": "association",
+      "condition": "两岁三个月奶睡孩子的断奶场景",
+      "reason": "源涉及“孩子真的要喝奶就必须阻止”，候选7涉及断奶时用喝水替代；两者都涉及喝奶和界限，但场景不同（退行假装喝奶 vs 实际断奶），无直接因果或前提，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a008",
+      "target": "s-2e4fd587be8f-c002:v2-n003",
+      "kind": "association",
+      "condition": "两岁三个月奶睡孩子的断奶场景",
+      "reason": "源涉及“孩子真的要喝奶就必须阻止”，候选7涉及断奶时用喝水替代；两者都涉及喝奶和界限，但场景不同（退行假装喝奶 vs 实际断奶），无直接因果或前提，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n003",
+      "target": "s-2e4fd587be8f-c002:a001",
+      "kind": "association",
+      "condition": "孩子心理年龄与生理年龄不一致时",
+      "reason": "源要求“做好当前角色”，候选9强调按生理年龄对待而非退行需求，为源提供理论背景，但未涉及喝奶细节，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a001",
+      "target": "s-2e4fd587be8f-c002:v2-n003",
+      "kind": "association",
+      "condition": "孩子心理年龄与生理年龄不一致时",
+      "reason": "源要求“做好当前角色”，候选9强调按生理年龄对待而非退行需求，为源提供理论背景，但未涉及喝奶细节，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n003",
+      "target": "s-2e4fd587be8f-c001:a002",
+      "kind": "association",
+      "condition": "大孩子有婴儿式身体接触需求时",
+      "reason": "源处理退行式喝奶需求，候选10处理大孩子婴儿式拥抱需求，两者都是大孩子退行需求的应对，但具体策略不同（源强调界限，候选10寻求替代姿势），故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a002",
+      "target": "s-2e4fd587be8f-c002:v2-n003",
+      "kind": "association",
+      "condition": "大孩子有婴儿式身体接触需求时",
+      "reason": "源处理退行式喝奶需求，候选10处理大孩子婴儿式拥抱需求，两者都是大孩子退行需求的应对，但具体策略不同（源强调界限，候选10寻求替代姿势），故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n004",
+      "target": "s-2e4fd587be8f-c002:a010",
+      "kind": "example_of",
+      "condition": "当孩子三岁睡眠习惯不好、晚睡时",
+      "reason": "源是具体案例，展示了讲师对一位三岁晚睡孩子的指导，候选1是该方法的概念化表述（白天午睡、晚上八点上床、先补睡眠），源是候选1方法的应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a010",
+      "target": "s-2e4fd587be8f-c002:v2-n004",
+      "kind": "has_example",
+      "condition": "当孩子三岁睡眠习惯不好、晚睡时",
+      "reason": "源是具体案例，展示了讲师对一位三岁晚睡孩子的指导，候选1是该方法的概念化表述（白天午睡、晚上八点上床、先补睡眠），源是候选1方法的应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n004",
+      "target": "s-2e4fd587be8f-c002:a017",
+      "kind": "association",
+      "condition": "睡眠调整过程中",
+      "reason": "源中的“绝对不行，白天要睡午觉，晚上八点准时上床”体现坚持，候选2强调睡眠调整的坚持和温柔坚定，两者都涉及睡眠调整的立场，但源是具体指令，候选2是原则性强调，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a017",
+      "target": "s-2e4fd587be8f-c002:v2-n004",
+      "kind": "association",
+      "condition": "睡眠调整过程中",
+      "reason": "源中的“绝对不行，白天要睡午觉，晚上八点准时上床”体现坚持，候选2强调睡眠调整的坚持和温柔坚定，两者都涉及睡眠调整的立场，但源是具体指令，候选2是原则性强调，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n004",
+      "target": "s-2e4fd587be8f-c003:a005",
+      "kind": "association",
+      "condition": "孩子不听指令下床且年龄两岁多时",
+      "reason": "源针对三岁晚睡，候选4区分睡眠问题和权威问题，两者都涉及孩子睡眠相关的不听指令，但情境不同（晚睡 vs 下床玩），故关联并注明区分。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a005",
+      "target": "s-2e4fd587be8f-c002:v2-n004",
+      "kind": "association",
+      "condition": "孩子不听指令下床且年龄两岁多时",
+      "reason": "源针对三岁晚睡，候选4区分睡眠问题和权威问题，两者都涉及孩子睡眠相关的不听指令，但情境不同（晚睡 vs 下床玩），故关联并注明区分。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n004",
+      "target": "s-2e4fd587be8f-c001:a023",
+      "kind": "association",
+      "condition": "孩子年龄12岁，睡眠问题持续",
+      "reason": "源是三岁晚睡调整，候选5是12岁睡眠问题，均涉及儿童睡眠困难，但年龄和处理方式不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a023",
+      "target": "s-2e4fd587be8f-c002:v2-n004",
+      "kind": "association",
+      "condition": "孩子年龄12岁，睡眠问题持续",
+      "reason": "源是三岁晚睡调整，候选5是12岁睡眠问题，均涉及儿童睡眠困难，但年龄和处理方式不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n004",
+      "target": "s-2e4fd587be8f-c002:a018",
+      "kind": "association",
+      "condition": "睡眠困难儿童调整",
+      "reason": "源和候选6都是睡眠调整案例，源建议白天午睡、晚上八点睡，候选6坚持准点放睡，两者方法类似，但对象不同（三岁家长孩子 vs 讲师老大），互为佐证，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a018",
+      "target": "s-2e4fd587be8f-c002:v2-n004",
+      "kind": "association",
+      "condition": "睡眠困难儿童调整",
+      "reason": "源和候选6都是睡眠调整案例，源建议白天午睡、晚上八点睡，候选6坚持准点放睡，两者方法类似，但对象不同（三岁家长孩子 vs 讲师老大），互为佐证，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n004",
+      "target": "s-2e4fd587be8f-c002:a011",
+      "kind": "association",
+      "condition": "多子女家庭睡眠安排",
+      "reason": "源是一孩晚睡调整，候选8是兄弟睡眠相互影响并调整时间，都涉及睡眠规律安排，但情境不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a011",
+      "target": "s-2e4fd587be8f-c002:v2-n004",
+      "kind": "association",
+      "condition": "多子女家庭睡眠安排",
+      "reason": "源是一孩晚睡调整，候选8是兄弟睡眠相互影响并调整时间，都涉及睡眠规律安排，但情境不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n004",
+      "target": "s-2e4fd587be8f-c003:a002",
+      "kind": "association",
+      "condition": "建立睡眠联想时",
+      "reason": "源未提及安眠曲，候选9提供用固定安眠曲建立睡眠联想的策略，可辅助睡眠调整，但源未采用，故作为相关策略关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a002",
+      "target": "s-2e4fd587be8f-c002:v2-n004",
+      "kind": "association",
+      "condition": "建立睡眠联想时",
+      "reason": "源未提及安眠曲，候选9提供用固定安眠曲建立睡眠联想的策略，可辅助睡眠调整，但源未采用，故作为相关策略关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n004",
+      "target": "s-2e4fd587be8f-c001:a024",
+      "kind": "association",
+      "condition": "孩子睡前需要安抚和身体接触",
+      "reason": "源是三岁晚睡需调整，候选11涉及孩子睡前身体抚摸需求，均涉及睡前行为，但侧重点不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a024",
+      "target": "s-2e4fd587be8f-c002:v2-n004",
+      "kind": "association",
+      "condition": "孩子睡前需要安抚和身体接触",
+      "reason": "源是三岁晚睡需调整，候选11涉及孩子睡前身体抚摸需求，均涉及睡前行为，但侧重点不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n005",
+      "target": "s-2e4fd587be8f-c002:a024",
+      "kind": "association",
+      "condition": "孩子玩挠痒痒游戏出现紧张期待时",
+      "reason": "源和候选1都表达同样观点：挠痒痒游戏中期待和紧张是正常的，不会刺激神经。两者内容几乎一致，没有实质补充，故仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a024",
+      "target": "s-2e4fd587be8f-c002:v2-n005",
+      "kind": "association",
+      "condition": "孩子玩挠痒痒游戏出现紧张期待时",
+      "reason": "源和候选1都表达同样观点：挠痒痒游戏中期待和紧张是正常的，不会刺激神经。两者内容几乎一致，没有实质补充，故仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n005",
+      "target": "s-2e4fd587be8f-c003:a008",
+      "kind": "association",
+      "condition": "家长询问挠痒痒是否刺激神经时",
+      "reason": "源是讲师观点，候选2是家长提问形式，内容一致，说明紧张正常，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a008",
+      "target": "s-2e4fd587be8f-c002:v2-n005",
+      "kind": "association",
+      "condition": "家长询问挠痒痒是否刺激神经时",
+      "reason": "源是讲师观点，候选2是家长提问形式，内容一致，说明紧张正常，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n005",
+      "target": "s-2e4fd587be8f-c001:a016",
+      "kind": "association",
+      "condition": "幼儿表现出急躁等正常行为时",
+      "reason": "源强调挠痒痒紧张正常，候选4强调21个月宝宝急躁正常，都涉及幼儿某种行为正常化，但具体行为不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a016",
+      "target": "s-2e4fd587be8f-c002:v2-n005",
+      "kind": "association",
+      "condition": "幼儿表现出急躁等正常行为时",
+      "reason": "源强调挠痒痒紧张正常，候选4强调21个月宝宝急躁正常，都涉及幼儿某种行为正常化，但具体行为不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:v2-n001",
+      "target": "s-2e4fd587be8f-c003:a002",
+      "kind": "example_of",
+      "condition": "长期睡前反复唱同一首安眠曲时",
+      "reason": "源是讲师自己孩子对固定安眠曲打呵欠的具体表现，候选2是“使用固定安眠曲建立睡眠联想”的通用概念，源是该概念的一个实例，证明条件反射形成。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a002",
+      "target": "s-2e4fd587be8f-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "长期睡前反复唱同一首安眠曲时",
+      "reason": "源是讲师自己孩子对固定安眠曲打呵欠的具体表现，候选2是“使用固定安眠曲建立睡眠联想”的通用概念，源是该概念的一个实例，证明条件反射形成。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:v2-n001",
+      "target": "s-2e4fd587be8f-c003:a003",
+      "kind": "association",
+      "condition": "使用固定安眠曲安抚孩子时",
+      "reason": "源和候选1都是固定安眠曲的应用案例，但一个用于睡眠，一个用于安抚哭闹要玩具，两者都展示安眠曲的安抚效果，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a003",
+      "target": "s-2e4fd587be8f-c003:v2-n001",
+      "kind": "association",
+      "condition": "使用固定安眠曲安抚孩子时",
+      "reason": "源和候选1都是固定安眠曲的应用案例，但一个用于睡眠，一个用于安抚哭闹要玩具，两者都展示安眠曲的安抚效果，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:v2-n001",
+      "target": "s-2e4fd587be8f-c001:r005",
+      "kind": "association",
+      "condition": "培养幼儿其他行为的条件反射时",
+      "reason": "源展示安眠曲作为条件反射信号，候选3用提醒词“耐心”形成条件反射，两者原理相似但目标行为不同，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:r005",
+      "target": "s-2e4fd587be8f-c003:v2-n001",
+      "kind": "association",
+      "condition": "培养幼儿其他行为的条件反射时",
+      "reason": "源展示安眠曲作为条件反射信号，候选3用提醒词“耐心”形成条件反射，两者原理相似但目标行为不同，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:v2-n001",
+      "target": "s-2e4fd587be8f-c001:a017",
+      "kind": "association",
+      "condition": "同上",
+      "reason": "同候选3，候选4是用条件反射培养耐心，与源的睡眠条件反射原理一致，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c001:a017",
+      "target": "s-2e4fd587be8f-c003:v2-n001",
+      "kind": "association",
+      "condition": "同上",
+      "reason": "同候选3，候选4是用条件反射培养耐心，与源的睡眠条件反射原理一致，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:v2-n001",
+      "target": "s-2e4fd587be8f-c002:v2-n001",
+      "kind": "association",
+      "condition": "条件反射式指示的应用",
+      "reason": "源展示固定安眠曲使孩子形成睡眠联想，候选6提出“耐心作为条件反射式指示”，两者都利用条件反射引导行为，但应用场景不同，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:v2-n001",
+      "target": "s-2e4fd587be8f-c003:v2-n001",
+      "kind": "association",
+      "condition": "条件反射式指示的应用",
+      "reason": "源展示固定安眠曲使孩子形成睡眠联想，候选6提出“耐心作为条件反射式指示”，两者都利用条件反射引导行为，但应用场景不同，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:v2-n001",
+      "target": "s-2e4fd587be8f-c003:a001",
+      "kind": "association",
+      "condition": "两岁左右婴儿入睡训练时",
+      "reason": "源是安眠曲条件反射实例，候选7的入睡训练方法中包含“唱同一首安眠曲”作为步骤之一，因此两者在安眠曲使用上相关，但候选7更综合，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:a001",
+      "target": "s-2e4fd587be8f-c003:v2-n001",
+      "kind": "association",
+      "condition": "两岁左右婴儿入睡训练时",
+      "reason": "源是安眠曲条件反射实例，候选7的入睡训练方法中包含“唱同一首安眠曲”作为步骤之一，因此两者在安眠曲使用上相关，但候选7更综合，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c003:v2-n001",
+      "target": "s-2e4fd587be8f-c002:a018",
+      "kind": "association",
+      "condition": "讲师老大的睡眠调整历程",
+      "reason": "源提到讲师老大对安眠曲打呵欠，候选8是讲师老大睡眠调整案例，均涉及同一孩子的睡眠相关经历，但侧重点不同，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-2e4fd587be8f-c002:a018",
+      "target": "s-2e4fd587be8f-c003:v2-n001",
+      "kind": "association",
+      "condition": "讲师老大的睡眠调整历程",
+      "reason": "源提到讲师老大对安眠曲打呵欠，候选8是讲师老大睡眠调整案例，均涉及同一孩子的睡眠相关经历，但侧重点不同，故关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "当孩子出现退行行为或心理年龄滞后时，需要按当前年龄扮演角色并设立界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a001",
+        "s-2e4fd587be8f-c001:a011",
+        "s-2e4fd587be8f-c001:a019",
+        "s-2e4fd587be8f-c002:a001",
+        "s-2e4fd587be8f-c002:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "依赖与失控",
+      "when": "当孩子出现独立睡眠问题或依赖行为时，需要根据年龄阶段调整角色。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a006",
+        "s-2e4fd587be8f-c001:a007",
+        "s-2e4fd587be8f-c001:a009",
+        "s-2e4fd587be8f-c001:a023"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "当孩子出现退行行为或情绪需求时，需要理解其未满足的需求。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a008",
+        "s-2e4fd587be8f-c001:a010",
+        "s-2e4fd587be8f-c001:a024"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "专注力",
+      "when": "当培养幼儿耐心或独立玩耍时，需要设立界限并培养专注力。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a017",
+        "s-2e4fd587be8f-c001:a018",
+        "s-2e4fd587be8f-c002:a015",
+        "s-2e4fd587be8f-c002:a016",
+        "s-2e4fd587be8f-c003:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "当孩子出现焦虑或情绪问题时，需要设立界限并提供心理支持。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a004",
+        "s-2e4fd587be8f-c002:a005",
+        "s-2e4fd587be8f-c002:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a015",
+        "s-2e4fd587be8f-c001:r001",
+        "s-2e4fd587be8f-c001:r002"
+      ],
+      "reason": "三条记录内容实质相同，都是关于处理孩子告状的方法，步骤和条件一致。"
+    },
+    {
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a017",
+        "s-2e4fd587be8f-c001:r005"
+      ],
+      "reason": "两条记录内容实质相同，都是关于用条件反射培养幼儿耐心的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a018"
+      ],
+      "reason": "两条记录内容实质相同，都是关于避免强化不良行为。"
+    },
+    {
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a019"
+      ],
+      "reason": "两条记录内容实质相同，都是关于按当前年龄扮演父母角色。"
+    },
+    {
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a020"
+      ],
+      "reason": "两条记录内容实质相同，都是关于心理年龄与需求的关系。"
+    },
+    {
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a023",
+        "s-2e4fd587be8f-c002:r001"
+      ],
+      "reason": "两条记录内容实质相同，都是关于九个月宝宝自主入睡训练。"
+    },
+    {
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a024",
+        "s-2e4fd587be8f-c003:a008"
+      ],
+      "reason": "三条记录内容实质相同，都是关于挠痒痒游戏的紧张反应正常。"
+    },
+    {
+      "atom_ids": [
+        "s-2e4fd587be8f-c003:a006"
+      ],
+      "reason": "两条记录内容实质相同，都是关于处理孩子下床玩的方法。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a007",
+        "s-2e4fd587be8f-c003:a001"
+      ],
+      "description": "a007反对哭声免疫法，但训练独立入睡是可行的；a003提供渐进式等待与安抚的方法，其中包含让孩子哭一段时间再安抚，可能被视为哭声免疫法的变体。",
+      "needed_evidence": "需要明确哭声免疫法的定义和边界，以及渐进式等待与安抚是否属于哭声免疫法。"
+    },
+    {
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a006",
+        "s-2e4fd587be8f-c001:a009"
+      ],
+      "description": "a006认为父母的陪伴喂养不安全感，应停止陪睡；a009认为当孩子需要陪伴时，可以耐心陪伴，但睡觉必须自己完成。两者在陪伴的程度上可能存在矛盾。",
+      "needed_evidence": "需要明确陪伴的具体形式和时长，以及不同年龄段的适用性。"
+    },
+    {
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a011",
+        "s-2e4fd587be8f-c002:a013"
+      ],
+      "description": "a011建议不要试图补救孩子小时候错过的需求，而应按当前年龄提供所需；a013建议偶尔允许孩子退行（如假装喝奶）是正常的。两者在是否允许退行行为上可能存在矛盾。",
+      "needed_evidence": "需要明确退行行为的允许范围和频率，以及不同情境下的处理原则。"
+    }
+  ],
+  "path": [
+    {
+      "name": "本课主要方法：按年龄阶段调整父母角色并设立界限",
+      "steps": [
+        {
+          "action": "识别孩子行为与年龄不符或退行行为",
+          "atom_ids": [
+            "s-2e4fd587be8f-c001:a001",
+            "s-2e4fd587be8f-c001:a010",
+            "s-2e4fd587be8f-c001:a021",
+            "s-2e4fd587be8f-c001:a022",
+            "s-2e4fd587be8f-c001:a023",
+            "s-2e4fd587be8f-c001:a024",
+            "s-2e4fd587be8f-c001:a025",
+            "s-2e4fd587be8f-c001:a026",
+            "s-2e4fd587be8f-c001:a027",
+            "s-2e4fd587be8f-c001:a028"
+          ],
+          "condition": "当孩子出现退行行为、心理年龄滞后或行为问题时"
+        },
+        {
+          "action": "按当前生理年龄扮演父母角色，不补救过去",
+          "atom_ids": [
+            "s-2e4fd587be8f-c001:a011",
+            "s-2e4fd587be8f-c001:a019",
+            "s-2e4fd587be8f-c001:a020",
+            "s-2e4fd587be8f-c002:a001",
+            "s-2e4fd587be8f-c002:a002"
+          ],
+          "condition": "当孩子心理年龄滞后或父母意识到过去失误时"
+        },
+        {
+          "action": "设立界限，用后果而非道德说教纠正行为",
+          "atom_ids": [
+            "s-2e4fd587be8f-c001:a004",
+            "s-2e4fd587be8f-c001:a005",
+            "s-2e4fd587be8f-c001:a013",
+            "s-2e4fd587be8f-c001:a015",
+            "s-2e4fd587be8f-c001:a018",
+            "s-2e4fd587be8f-c002:a003",
+            "s-2e4fd587be8f-c002:a004",
+            "s-2e4fd587be8f-c002:a006",
+            "s-2e4fd587be8f-c002:a008",
+            "s-2e4fd587be8f-c002:a010",
+            "s-2e4fd587be8f-c002:a012",
+            "s-2e4fd587be8f-c002:a015",
+            "s-2e4fd587be8f-c002:a016",
+            "s-2e4fd587be8f-c002:a017",
+            "s-2e4fd587be8f-c002:a022",
+            "s-2e4fd587be8f-c002:a023",
+            "s-2e4fd587be8f-c003:a001",
+            "s-2e4fd587be8f-c003:a004",
+            "s-2e4fd587be8f-c003:a005",
+            "s-2e4fd587be8f-c003:a006"
+          ],
+          "condition": "当孩子出现不当行为、依赖行为或需要培养独立能力时"
+        },
+        {
+          "action": "提供适当帮助，观察判断孩子真正需求",
+          "atom_ids": [
+            "s-2e4fd587be8f-c002:a003",
+            "s-2e4fd587be8f-c002:a004",
+            "s-2e4fd587be8f-c002:a005",
+            "s-2e4fd587be8f-c002:a006"
+          ],
+          "condition": "当孩子面对困难或焦虑时"
+        },
+        {
+          "action": "培养独立能力和专注力",
+          "atom_ids": [
+            "s-2e4fd587be8f-c001:a007",
+            "s-2e4fd587be8f-c001:a009",
+            "s-2e4fd587be8f-c001:a017",
+            "s-2e4fd587be8f-c002:a015",
+            "s-2e4fd587be8f-c002:a016",
+            "s-2e4fd587be8f-c003:a009"
+          ],
+          "condition": "当孩子需要培养独立睡眠、独立玩耍或耐心时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-2e4fd587be8f-c001:u0001",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a021"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006",
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a002"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a003"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a008"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a022"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a004"
+      ],
+      "blocks": [
+        "b00009",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a005"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0010",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a023"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a006"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a007"
+      ],
+      "blocks": [
+        "b00014",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:v2-n0001"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0015",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a024"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a008"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a009"
+      ],
+      "blocks": [
+        "b00019",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a010"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0019",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a025"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a011"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0021",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a026"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029",
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a012"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a013"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a014"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a015"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:r003"
+      ],
+      "blocks": [
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0027",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a027"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035",
+        "b00036",
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a016"
+      ],
+      "blocks": [
+        "b00034",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:r004"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a017",
+        "s-2e4fd587be8f-c001:r005"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0031",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a018"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0032",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a028"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0033",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a019"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0034",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a020"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c001:u0035",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:v2-n0002"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u01",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a020",
+        "s-2e4fd587be8f-c002:a001"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u02",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a002"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u03",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:a028"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u04",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u05",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a003"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u06",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a004"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u07",
+      "kind": "method",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a005"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048",
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u08",
+      "kind": "method",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a006"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u09",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a007"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u10",
+      "kind": "method",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a008"
+      ],
+      "blocks": [
+        "b00052",
+        "b00057",
+        "b00058",
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u11",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a009"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u12",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a017"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u13",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a018"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u14",
+      "kind": "method",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a010"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u15",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a011"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u16",
+      "kind": "method",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a012"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u17",
+      "kind": "method",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a013"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070",
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u18",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a014"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u19",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u20",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a021"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u21",
+      "kind": "question",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a022"
+      ],
+      "blocks": [
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u22",
+      "kind": "method",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a015"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080",
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u23",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a016",
+        "s-2e4fd587be8f-c003:a009"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u24",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a019"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u25",
+      "kind": "question",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a020"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u26",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u27",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:v2-n004"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c002:u28",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:v2-n005"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c003:u001",
+      "kind": "question",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a023",
+        "s-2e4fd587be8f-c003:a007"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c003:u002",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:a024",
+        "s-2e4fd587be8f-c003:a008"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c003:u003",
+      "kind": "method",
+      "atom_ids": [
+        "s-2e4fd587be8f-c003:a001",
+        "s-2e4fd587be8f-c003:a002",
+        "s-2e4fd587be8f-c003:a004",
+        "s-2e4fd587be8f-c003:a005"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087",
+        "b00088",
+        "b00089",
+        "b00090",
+        "b00091",
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c003:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c003:a002",
+        "s-2e4fd587be8f-c003:a003"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c003:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-2e4fd587be8f-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c003:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-2e4fd587be8f-c003:a006",
+        "s-2e4fd587be8f-c003:a005"
+      ],
+      "blocks": [
+        "b00094",
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c003:u007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-2e4fd587be8f-c003:a005"
+      ],
+      "blocks": [
+        "b00088",
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-2e4fd587be8f-c003:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-2e4fd587be8f-c003:a009"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "不吃饭是因为不够饿",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:v2-n0001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-2e4fd587be8f",
+          "blocks": [
+            "b00016"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "浸泡困难环境与帮助的关系",
+      "atom_ids": [
+        "s-2e4fd587be8f-c001:v2-n0002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-2e4fd587be8f",
+          "blocks": [
+            "b00043"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "耐心作为条件反射式指示",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-2e4fd587be8f",
+          "blocks": [
+            "b00040"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "案例：准高三孩子焦虑想回家补课",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-2e4fd587be8f",
+          "blocks": [
+            "b00042",
+            "b00043",
+            "b00045",
+            "b00046"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "性教育中的身体尊重与退行界限",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-2e4fd587be8f",
+          "blocks": [
+            "b00072",
+            "b00073",
+            "b00074"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "案例：三岁孩子晚睡调整",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-2e4fd587be8f",
+          "blocks": [
+            "b00061",
+            "b00062",
+            "b00064",
+            "b00065"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "挠痒痒游戏中的紧张期待正常",
+      "atom_ids": [
+        "s-2e4fd587be8f-c002:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-2e4fd587be8f",
+          "blocks": [
+            "b00084",
+            "b00085"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "讲师自己的孩子对固定安眠曲打呵欠",
+      "atom_ids": [
+        "s-2e4fd587be8f-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-2e4fd587be8f",
+          "blocks": [
+            "b00090"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    }
+  ]
+}

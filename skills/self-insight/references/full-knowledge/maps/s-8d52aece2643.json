@@ -1,0 +1,1483 @@
+{
+  "concepts": [
+    {
+      "name": "情绪连接",
+      "definition": "一种育儿方式，指进入孩子的世界，了解他、听懂他、明白他在做什么，目的是建立连接而非解决问题。",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a006",
+        "s-8d52aece2643-c002:a009",
+        "s-8d52aece2643-c002:a007"
+      ]
+    },
+    {
+      "name": "立界限",
+      "definition": "一种管教方式，指对不可接受的行为设定界限并执行后果，要求父母必须能执行所设后果。",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a004",
+        "s-8d52aece2643-c001:a005",
+        "s-8d52aece2643-c002:a004"
+      ]
+    },
+    {
+      "name": "情绪与发脾气的区别",
+      "definition": "情绪是内在感受，应被允许和接纳；发脾气是外在行为，有些行为可接受，有些不可接受。",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a002"
+      ]
+    },
+    {
+      "name": "情绪连接与立界限的适用情境",
+      "definition": "情绪连接适用于孩子有情绪但无危险行为时；立界限适用于孩子有不可接受行为时；紧急危险情境优先保证安全。",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a003",
+        "s-8d52aece2643-c001:r001",
+        "s-8d52aece2643-c002:a001",
+        "s-8d52aece2643-c002:a003",
+        "s-8d52aece2643-c002:a005"
+      ]
+    },
+    {
+      "name": "情绪词汇培养",
+      "definition": "通过情绪轮等工具帮助孩子积累情绪词汇，养成用语言表达情绪的习惯，替代行为表达。",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a013",
+        "s-8d52aece2643-c001:a014"
+      ]
+    },
+    {
+      "name": "习惯建立时间公式",
+      "definition": "孩子改变或建立习惯所需时间约为年龄乘以3到5天。",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a011"
+      ]
+    },
+    {
+      "name": "睡眠习惯调整",
+      "definition": "帮助孩子养成早睡习惯，逐步提前睡觉时间，每次提前半小时，适应后再提前。",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a016",
+        "s-8d52aece2643-c002:a021"
+      ]
+    },
+    {
+      "name": "前额叶发育",
+      "definition": "前额叶在青少年期间开始发育，到25岁左右发育完成。",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a008"
+      ]
+    },
+    {
+      "name": "性别平等",
+      "definition": "男女都应被平等对待，谦让应基于彼此谦让，而非性别。",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a026"
+      ]
+    },
+    {
+      "name": "情绪控制方法适用于家长",
+      "definition": "情绪控制的方法同样适用于家长。",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a027"
+      ]
+    },
+    {
+      "name": "头部撞击运动伤害前额叶",
+      "definition": "经常撞击头部的运动（如散打）会伤害孩子的前额叶，不建议参与。",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a028",
+        "s-8d52aece2643-c003:a001"
+      ]
+    },
+    {
+      "name": "情绪激动时的陪伴与界限",
+      "definition": "孩子情绪激动时，若无过激行为，家长安静陪伴；若有过激行为，明确表示不同意。",
+      "atom_ids": [
+        "s-8d52aece2643-c003:a002",
+        "s-8d52aece2643-c003:r001"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-8d52aece2643-c001:a002",
+      "target": "s-8d52aece2643-c001:a003",
+      "kind": "supports",
+      "condition": "当孩子有情绪但无危险行为时，情绪连接适用；当孩子有不可接受行为时，立界限适用。",
+      "reason": "“情绪与发脾气的区别”区分情绪和发脾气，支持“情绪连接与立界限的适用情境”中具体选择策略的逻辑。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8d52aece2643-c001:a003",
+      "target": "s-8d52aece2643-c002:a001",
+      "kind": "supports",
+      "condition": "紧急危险情境优先保证安全。",
+      "reason": "“情绪连接与立界限的适用情境”中紧急危险时优先安全，支持“情绪连接并非适用于所有情境”的具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8d52aece2643-c001:a004",
+      "target": "s-8d52aece2643-c001:a005",
+      "kind": "example_of",
+      "condition": "母亲无法执行“不要回家”的后果，因此不是立界限。",
+      "reason": "a004说明立界限要求父母能执行后果，a005是具体案例。"
+    },
+    {
+      "source": "s-8d52aece2643-c001:a013",
+      "target": "s-8d52aece2643-c001:a014",
+      "kind": "supports",
+      "condition": "培养情绪词汇习惯可替代行为表达。",
+      "reason": "a013提供情绪轮方法，a014解释其原理：用语言表达情绪的习惯强于动手习惯。"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a003",
+      "target": "s-8d52aece2643-c002:a004",
+      "kind": "step_of",
+      "condition": "孩子撒野时，先立界限，后情绪连接。",
+      "reason": "a003说明撒野时情绪连接会强化不良行为，应先立界限；a004给出具体步骤。"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a006",
+      "target": "s-8d52aece2643-c002:a007",
+      "kind": "supports",
+      "condition": "情绪连接不应带功利性，结果不是目的。",
+      "reason": "a006强调情绪连接目的纯粹，a007进一步区分结果与目的。"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a009",
+      "target": "s-8d52aece2643-c002:a006",
+      "kind": "supports",
+      "condition": "情绪连接是过程，亲密关系是结果。",
+      "reason": "a009说明情绪连接不是建立亲密关系，而是进入孩子世界的桥梁，支持a006中情绪连接不应带功利性的观点。"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a011",
+      "target": "s-8d52aece2643-c002:a012",
+      "kind": "example_of",
+      "condition": "父母表达情绪影响孩子情绪词汇发展。",
+      "reason": "a011是讲师自己孩子的案例，a012是普遍规律。"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a016",
+      "target": "s-8d52aece2643-c002:a021",
+      "kind": "association",
+      "condition": "",
+      "reason": "“两岁孩子睡眠时间建议”和“逐步调整孩子睡眠时间的方法”都涉及睡眠时间，但前者是具体时间建议，后者是调整方法，无直接支持关系，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 不成立，改为 association。"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a025",
+      "target": "s-8d52aece2643-c002:a026",
+      "kind": "example_of",
+      "condition": "排队争执中道德绑架案例。",
+      "reason": "a025是具体案例，a026是性别平等原则。"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a028",
+      "target": "s-8d52aece2643-c003:a001",
+      "kind": "supports",
+      "condition": "头部撞击运动伤害前额叶。",
+      "reason": "“某些运动可能伤害前额叶”支持“头部撞击运动伤害前额叶”，后者语气更确定，但内容一致。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8d52aece2643-c003:a002",
+      "target": "s-8d52aece2643-c003:r001",
+      "kind": "supports",
+      "condition": "情绪激动时陪伴与界限的区分。",
+      "reason": "“情绪激动时的陪伴与界限”支持“情绪激动时安静陪伴与越界干预的区分”，两者内容基本一致。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8d52aece2643-c001:v2-n001",
+      "target": "s-8d52aece2643-c001:a012",
+      "kind": "complements",
+      "condition": "当孩子需要音乐等外部辅助入睡时",
+      "reason": "source 明确指出需要音乐辅助可能意味着依赖转移或焦虑，这为 target 强调的“正常孩子累了自然会睡，不需要音乐”提供了病理学解释，补充了 target 缺乏的警示点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:a012",
+      "target": "s-8d52aece2643-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子需要音乐等外部辅助入睡时",
+      "reason": "source 明确指出需要音乐辅助可能意味着依赖转移或焦虑，这为 target 强调的“正常孩子累了自然会睡，不需要音乐”提供了病理学解释，补充了 target 缺乏的警示点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:v2-n001",
+      "target": "s-8d52aece2643-c001:a010",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "target 是一个具体案例，展示孩子依赖音乐助眠和立界限的无效，与 source 关于依赖转移的观点互为印证，但因方向限制标为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:a010",
+      "target": "s-8d52aece2643-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "target 是一个具体案例，展示孩子依赖音乐助眠和立界限的无效，与 source 关于依赖转移的观点互为印证，但因方向限制标为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:v2-n001",
+      "target": "s-8d52aece2643-c002:a021",
+      "kind": "association",
+      "condition": "孩子习惯晚睡时",
+      "reason": "target 提供了逐步调整睡眠时间的方法，与 source 的睡眠问题主题相关，但 target 未涉及依赖辅助问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a021",
+      "target": "s-8d52aece2643-c001:v2-n001",
+      "kind": "association",
+      "condition": "孩子习惯晚睡时",
+      "reason": "target 提供了逐步调整睡眠时间的方法，与 source 的睡眠问题主题相关，但 target 未涉及依赖辅助问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:v2-n001",
+      "target": "s-8d52aece2643-c002:a022",
+      "kind": "association",
+      "condition": "孩子出现失眠或焦虑时",
+      "reason": "target 案例中孩子失眠可能与焦虑相关，source 提到需要辅助可能提示焦虑，两者均涉及焦虑与睡眠问题，但无直接逻辑衔接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a022",
+      "target": "s-8d52aece2643-c001:v2-n001",
+      "kind": "association",
+      "condition": "孩子出现失眠或焦虑时",
+      "reason": "target 案例中孩子失眠可能与焦虑相关，source 提到需要辅助可能提示焦虑，两者均涉及焦虑与睡眠问题，但无直接逻辑衔接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:v2-n002",
+      "target": "s-8d52aece2643-c001:a003",
+      "kind": "complements",
+      "condition": "当考虑无条件爱在立界限情境中的适用性时",
+      "reason": "source 提出无条件爱并非所有情况都适用，补充了 target 仅讨论情绪连接与立界限选择时未涉及的爱的维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:a003",
+      "target": "s-8d52aece2643-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当考虑无条件爱在立界限情境中的适用性时",
+      "reason": "source 提出无条件爱并非所有情况都适用，补充了 target 仅讨论情绪连接与立界限选择时未涉及的爱的维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:v2-n002",
+      "target": "s-8d52aece2643-c002:a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 说无条件爱并非所有情况适用，target 说情绪连接并非所有情况适用，两者强调情境选择性，但讨论对象不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a001",
+      "target": "s-8d52aece2643-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 说无条件爱并非所有情况适用，target 说情绪连接并非所有情况适用，两者强调情境选择性，但讨论对象不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:v2-n002",
+      "target": "s-8d52aece2643-c002:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 强调情境判断，target 也强调情绪连接与界限顺序因情况而异，两者观点一致但未建立明确逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a005",
+      "target": "s-8d52aece2643-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 强调情境判断，target 也强调情绪连接与界限顺序因情况而异，两者观点一致但未建立明确逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:v2-n002",
+      "target": "s-8d52aece2643-c002:a010",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "target 区分了无条件爱中“期待”的不同含义，有助于理解 source 中“无条件爱”的内涵，但 source 未涉及该区分。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a010",
+      "target": "s-8d52aece2643-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "target 区分了无条件爱中“期待”的不同含义，有助于理解 source 中“无条件爱”的内涵，但 source 未涉及该区分。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:v2-n002",
+      "target": "s-8d52aece2643-c001:a018",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "target 提出育儿需建立体系而非单一方法，与 source 的情境判断观点相符，但未直接提及无条件爱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:a018",
+      "target": "s-8d52aece2643-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "target 提出育儿需建立体系而非单一方法，与 source 的情境判断观点相符，但未直接提及无条件爱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:v2-n002",
+      "target": "s-8d52aece2643-c002:a018",
+      "kind": "association",
+      "condition": "生日礼物设置时",
+      "reason": "target 展示无条件礼物与金额限制结合，体现了 source 中无条件爱需与界限结合的原则，但方向限制为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a018",
+      "target": "s-8d52aece2643-c001:v2-n002",
+      "kind": "association",
+      "condition": "生日礼物设置时",
+      "reason": "target 展示无条件礼物与金额限制结合，体现了 source 中无条件爱需与界限结合的原则，但方向限制为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c002:v2-n001",
+      "target": "s-8d52aece2643-c001:a006",
+      "kind": "example_of",
+      "condition": "孩子洗澡抓狂因花洒声刺激时",
+      "reason": "source 描述孩子洗澡抓狂，讲师推测花洒声刺激杏仁核；target 提出一岁八个月孩子洗澡抓狂可能因花洒声或水喷身上，与杏仁核发育有关，source 作为具体案例体现了 target 的概念。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:a006",
+      "target": "s-8d52aece2643-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "孩子洗澡抓狂因花洒声刺激时",
+      "reason": "source 描述孩子洗澡抓狂，讲师推测花洒声刺激杏仁核；target 提出一岁八个月孩子洗澡抓狂可能因花洒声或水喷身上，与杏仁核发育有关，source 作为具体案例体现了 target 的概念。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c002:v2-n001",
+      "target": "s-8d52aece2643-c001:a007",
+      "kind": "complements",
+      "condition": "当孩子因感官刺激洗澡抓狂时",
+      "reason": "source 明确指出花洒声刺激杏仁核，补充了 target 只提供应对方法而缺乏的具体原因信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:a007",
+      "target": "s-8d52aece2643-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子因感官刺激洗澡抓狂时",
+      "reason": "source 明确指出花洒声刺激杏仁核，补充了 target 只提供应对方法而缺乏的具体原因信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c002:v2-n001",
+      "target": "s-8d52aece2643-c001:a015",
+      "kind": "example_of",
+      "condition": "家长关注孩子行为根源时",
+      "reason": "source 具体展示了讲师推测孩子洗澡抓狂的感官诱因，体现了 target 提出的“关注行为根源而非表面行为”的原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:a015",
+      "target": "s-8d52aece2643-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "家长关注孩子行为根源时",
+      "reason": "source 具体展示了讲师推测孩子洗澡抓狂的感官诱因，体现了 target 提出的“关注行为根源而非表面行为”的原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c003:v2-n001",
+      "target": "s-8d52aece2643-c002:a026",
+      "kind": "complements",
+      "condition": "处理孩子间先后顺序冲突时",
+      "reason": "source 明确指出不应以性别为由要求男孩让女孩，补充了 target 关于性别平等原则在儿童冲突情境中的具体应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a026",
+      "target": "s-8d52aece2643-c003:v2-n001",
+      "kind": "complements",
+      "condition": "处理孩子间先后顺序冲突时",
+      "reason": "source 明确指出不应以性别为由要求男孩让女孩，补充了 target 关于性别平等原则在儿童冲突情境中的具体应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c003:v2-n001",
+      "target": "s-8d52aece2643-c002:a025",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "target 是排队争执中道德绑架的案例，与 source 反对以性别为由要求让位的原则一致，但方向限制为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a025",
+      "target": "s-8d52aece2643-c003:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "target 是排队争执中道德绑架的案例，与 source 反对以性别为由要求让位的原则一致，但方向限制为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c003:v2-n002",
+      "target": "s-8d52aece2643-c001:a001",
+      "kind": "complements",
+      "condition": "当家长因他人产生负面情绪并向孩子描述时",
+      "reason": "source指出情绪控制方法适用于家长但未展开具体方法，候选11提供了“描述情绪不讲人”的具体做法，补充了source的不足",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:a001",
+      "target": "s-8d52aece2643-c003:v2-n002",
+      "kind": "complements",
+      "condition": "当家长因他人产生负面情绪并向孩子描述时",
+      "reason": "source指出情绪控制方法适用于家长但未展开具体方法，候选11提供了“描述情绪不讲人”的具体做法，补充了source的不足",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c003:v2-n002",
+      "target": "s-8d52aece2643-c003:a002",
+      "kind": "association",
+      "condition": "孩子情绪激动时",
+      "reason": "两者都涉及情绪管理但角度不同：source是家长自身情绪控制原则，候选2是家长应对孩子情绪的具体做法，无直接补充或因果",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c003:a002",
+      "target": "s-8d52aece2643-c003:v2-n002",
+      "kind": "association",
+      "condition": "孩子情绪激动时",
+      "reason": "两者都涉及情绪管理但角度不同：source是家长自身情绪控制原则，候选2是家长应对孩子情绪的具体做法，无直接补充或因果",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c003:v2-n002",
+      "target": "s-8d52aece2643-c003:r001",
+      "kind": "association",
+      "condition": "孩子情绪激动时",
+      "reason": "与候选2类似，补充了越界干预的细节，但与source无直接补充，仅主题相关",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c003:r001",
+      "target": "s-8d52aece2643-c003:v2-n002",
+      "kind": "association",
+      "condition": "孩子情绪激动时",
+      "reason": "与候选2类似，补充了越界干预的细节，但与source无直接补充，仅主题相关",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c003:v2-n002",
+      "target": "s-8d52aece2643-c002:a001",
+      "kind": "association",
+      "condition": "孩子面临危险情境时",
+      "reason": "候选4说明情绪连接并非所有情境适用，与source的情绪控制方法适用性相关但不同角度，无直接矛盾",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a001",
+      "target": "s-8d52aece2643-c003:v2-n002",
+      "kind": "association",
+      "condition": "孩子面临危险情境时",
+      "reason": "候选4说明情绪连接并非所有情境适用，与source的情绪控制方法适用性相关但不同角度，无直接矛盾",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c003:v2-n002",
+      "target": "s-8d52aece2643-c001:a003",
+      "kind": "association",
+      "condition": "不同管教情境下",
+      "reason": "候选5综合情绪连接与立界限的选择，与source的通用原则相关但更具体，无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:a003",
+      "target": "s-8d52aece2643-c003:v2-n002",
+      "kind": "association",
+      "condition": "不同管教情境下",
+      "reason": "候选5综合情绪连接与立界限的选择，与source的通用原则相关但更具体，无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c003:v2-n002",
+      "target": "s-8d52aece2643-c001:r001",
+      "kind": "association",
+      "condition": "紧急危险情境",
+      "reason": "候选6是候选5的一部分，与source无直接关系，仅主题相关",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:r001",
+      "target": "s-8d52aece2643-c003:v2-n002",
+      "kind": "association",
+      "condition": "紧急危险情境",
+      "reason": "候选6是候选5的一部分，与source无直接关系，仅主题相关",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c003:v2-n002",
+      "target": "s-8d52aece2643-c002:a007",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选7讨论情绪连接的目的与结果，与source的家长情绪控制不直接相关，仅同属情绪连接主题",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a007",
+      "target": "s-8d52aece2643-c003:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选7讨论情绪连接的目的与结果，与source的家长情绪控制不直接相关，仅同属情绪连接主题",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c003:v2-n002",
+      "target": "s-8d52aece2643-c002:a004",
+      "kind": "association",
+      "condition": "孩子撒野时",
+      "reason": "候选8提供先立界限后情绪连接的步骤，与source的家长自身情绪控制无关，仅主题相关",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c002:a004",
+      "target": "s-8d52aece2643-c003:v2-n002",
+      "kind": "association",
+      "condition": "孩子撒野时",
+      "reason": "候选8提供先立界限后情绪连接的步骤，与source的家长自身情绪控制无关，仅主题相关",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c003:v2-n002",
+      "target": "s-8d52aece2643-c001:a018",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选9强调育儿需建立体系，与source的单一原则不同但同属育儿方法，关联较弱",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:a018",
+      "target": "s-8d52aece2643-c003:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选9强调育儿需建立体系，与source的单一原则不同但同属育儿方法，关联较弱",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c003:v2-n002",
+      "target": "s-8d52aece2643-c001:a017",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选12是情绪连接无效的案例，与source的家长情绪控制原则无直接关系，仅涉及情绪连接",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8d52aece2643-c001:a017",
+      "target": "s-8d52aece2643-c003:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选12是情绪连接无效的案例，与source的家长情绪控制原则无直接关系，仅涉及情绪连接",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "当孩子有情绪但无危险行为时，使用情绪连接；当孩子有不可接受行为时，使用立界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a003",
+        "s-8d52aece2643-c002:a001",
+        "s-8d52aece2643-c002:a003",
+        "s-8d52aece2643-c002:a004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "规则与行动",
+      "when": "通过情绪轮培养情绪词汇习惯，替代行为表达。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a013",
+        "s-8d52aece2643-c001:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "理解情绪",
+      "when": "父母对孩子情绪手足无措时，可能触发自身创伤，需要自我管理。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a008",
+        "s-8d52aece2643-c001:a016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "立界限要求父母能执行后果，否则无效。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a004",
+        "s-8d52aece2643-c001:a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-8d52aece2643-c001:a004",
+          "limits": [
+            "不能执行后果的界限无效"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-8d52aece2643-c002:a028",
+        "s-8d52aece2643-c003:a001"
+      ],
+      "reason": "内容完全一致，均指出头部撞击运动伤害前额叶，不建议参与。"
+    },
+    {
+      "atom_ids": [
+        "s-8d52aece2643-c002:a027"
+      ],
+      "reason": "内容完全一致，均指出情绪控制方法适用于家长。"
+    },
+    {
+      "atom_ids": [
+        "s-8d52aece2643-c002:a026"
+      ],
+      "reason": "内容完全一致，均阐述真正的性别平等。"
+    },
+    {
+      "atom_ids": [
+        "s-8d52aece2643-c002:a025"
+      ],
+      "reason": "内容完全一致，均为排队争执中道德绑架的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-8d52aece2643-c002:a024"
+      ],
+      "reason": "内容完全一致，均为八岁孩子发脾气时的界限处理。"
+    },
+    {
+      "atom_ids": [
+        "s-8d52aece2643-c002:a023",
+        "s-8d52aece2643-c002:r001"
+      ],
+      "reason": "内容完全一致，均为两岁半孩子自伤行为的处理步骤。"
+    },
+    {
+      "atom_ids": [
+        "s-8d52aece2643-c003:a002",
+        "s-8d52aece2643-c003:r001"
+      ],
+      "reason": "内容基本一致，均描述情绪激动时的陪伴与界限，r001为a002的补充。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-8d52aece2643-c002:a008"
+      ],
+      "description": "前额叶发育时间存在不同研究观点，讲师观点为青少年期间开始发育，到25岁左右完成，但未提供具体依据。",
+      "needed_evidence": "需要权威神经科学研究支持前额叶发育时间。"
+    },
+    {
+      "atom_ids": [
+        "s-8d52aece2643-c002:a022"
+      ],
+      "description": "14岁孩子失眠案例中，讲师推测可能有焦虑，但未进行专业评估。",
+      "needed_evidence": "需要专业心理评估确认焦虑诊断。"
+    },
+    {
+      "atom_ids": [
+        "s-8d52aece2643-c002:a028",
+        "s-8d52aece2643-c003:a001"
+      ],
+      "description": "头部撞击运动伤害前额叶的说法缺乏充分证据支持。",
+      "needed_evidence": "需要更多研究证明特定运动与前额叶损伤的因果关系。"
+    }
+  ],
+  "path": [
+    {
+      "name": "重新认识孩子的情绪",
+      "steps": [
+        {
+          "action": "识别情绪与行为",
+          "atom_ids": [
+            "s-8d52aece2643-c001:a002"
+          ],
+          "condition": "区分孩子是情绪问题还是行为问题。"
+        },
+        {
+          "action": "选择管教方式",
+          "atom_ids": [
+            "s-8d52aece2643-c001:a003",
+            "s-8d52aece2643-c002:a001",
+            "s-8d52aece2643-c002:a003",
+            "s-8d52aece2643-c002:a004"
+          ],
+          "condition": "情绪问题用情绪连接，行为问题用立界限，紧急危险优先安全。"
+        },
+        {
+          "action": "培养情绪词汇",
+          "atom_ids": [
+            "s-8d52aece2643-c001:a013",
+            "s-8d52aece2643-c001:a014"
+          ],
+          "condition": "通过情绪轮等工具帮助孩子用语言表达情绪。"
+        },
+        {
+          "action": "调整睡眠习惯",
+          "atom_ids": [
+            "s-8d52aece2643-c002:a016",
+            "s-8d52aece2643-c002:a021"
+          ],
+          "condition": "逐步提前睡觉时间，每次半小时。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "82b27507ec1fcabb0f34f5c891a654d4c40707906f1528c3c9e37e9ac1307d4d",
+  "recovered_from_response": "s-8d52aece2643-relations-1793881143841973700.json",
+  "point_units": [
+    {
+      "id": "s-8d52aece2643-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a001"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0002",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a002"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a003"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a004"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0005",
+      "kind": "case",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a005"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a006"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a007"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a008"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a009"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0010",
+      "kind": "case",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a010"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022",
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a011"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a012"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a013"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a014"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a015"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a016"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0017",
+      "kind": "case",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a017"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a018"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c001:u0020",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8d52aece2643-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a003",
+        "s-8d52aece2643-c001:r001",
+        "s-8d52aece2643-c002:a001"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a018",
+        "s-8d52aece2643-c002:a002"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a005"
+      ],
+      "blocks": [
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a003"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a004"
+      ],
+      "blocks": [
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a006"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a007"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u008",
+      "kind": "course_claim",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a008"
+      ],
+      "blocks": [
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u009",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a009"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u010",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a010"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a011",
+        "s-8d52aece2643-c002:a012"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u012",
+      "kind": "condition",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a013"
+      ],
+      "blocks": [
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a014"
+      ],
+      "blocks": [
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a015"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a016"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u016",
+      "kind": "condition",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a017"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a018"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u018",
+      "kind": "fact",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a019"
+      ],
+      "blocks": [
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u019",
+      "kind": "condition",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a020"
+      ],
+      "blocks": [
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a021"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u021",
+      "kind": "case",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a022"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u022",
+      "kind": "method",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a023",
+        "s-8d52aece2643-c002:r001"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u023",
+      "kind": "method",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a024"
+      ],
+      "blocks": [
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u024",
+      "kind": "case",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a025"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a026"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u026",
+      "kind": "condition",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a027"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u027",
+      "kind": "condition",
+      "atom_ids": [
+        "s-8d52aece2643-c002:a028"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u028",
+      "kind": "method",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a003"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u029",
+      "kind": "case",
+      "atom_ids": [
+        "s-8d52aece2643-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c002:u030",
+      "kind": "method",
+      "atom_ids": [
+        "s-8d52aece2643-c001:a003"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c003:u1",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c003:a001"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c003:u2",
+      "kind": "method",
+      "atom_ids": [
+        "s-8d52aece2643-c003:a002",
+        "s-8d52aece2643-c003:r001"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c003:u3",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-8d52aece2643-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-8d52aece2643-c003:u4",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8d52aece2643-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "依赖转移至外部辅助物",
+      "atom_ids": [
+        "s-8d52aece2643-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8d52aece2643",
+          "blocks": [
+            "b00024",
+            "b00025"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "无条件爱与立界限的关系",
+      "atom_ids": [
+        "s-8d52aece2643-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8d52aece2643",
+          "blocks": [
+            "b00024"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "洗澡抓狂因花洒喷水声刺激杏仁核的案例",
+      "atom_ids": [
+        "s-8d52aece2643-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8d52aece2643",
+          "blocks": [
+            "b00013"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "不可用性别作为孩子退让的理由",
+      "atom_ids": [
+        "s-8d52aece2643-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8d52aece2643",
+          "blocks": [
+            "b00082",
+            "b00083"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "gender_equality_rule"
+    },
+    {
+      "title": "情绪控制方法适用于家长",
+      "atom_ids": [
+        "s-8d52aece2643-c003:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8d52aece2643",
+          "blocks": [
+            "b00083"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "applicability"
+    }
+  ]
+}

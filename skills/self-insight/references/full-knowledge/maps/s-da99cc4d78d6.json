@@ -1,0 +1,377 @@
+{
+  "concepts": [
+    {
+      "name": "身体接触",
+      "definition": "通过拥抱、抚摸、按摩等身体接触方式表达爱和建立依恋关系。",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a001",
+        "s-da99cc4d78d6-c001:a004",
+        "s-da99cc4d78d6-c001:a009",
+        "s-da99cc4d78d6-c001:a010",
+        "s-da99cc4d78d6-c001:a011",
+        "s-da99cc4d78d6-c001:a013",
+        "s-da99cc4d78d6-c001:a014",
+        "s-da99cc4d78d6-c001:a015"
+      ]
+    },
+    {
+      "name": "依恋关系",
+      "definition": "通过身体接触建立的信任和情感纽带，影响未来恋爱关系。",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a004",
+        "s-da99cc4d78d6-c001:a005",
+        "s-da99cc4d78d6-c001:a007"
+      ]
+    },
+    {
+      "name": "催产素",
+      "definition": "一种在分娩、母乳喂养和拥抱时释放的激素，带来愉悦和放松。",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a008",
+        "s-da99cc4d78d6-c001:a009"
+      ]
+    },
+    {
+      "name": "管教",
+      "definition": "教导孩子而非惩罚，通过身体接触帮助孩子进入受教模式。",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a014",
+        "s-da99cc4d78d6-c001:r001"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-da99cc4d78d6-c001:a001",
+      "target": "s-da99cc4d78d6-c001:a004",
+      "kind": "supports",
+      "condition": "0-2岁儿童",
+      "reason": "a001指出0-2岁孩子通过身体接触接受爱，a004解释身体接触让孩子感到安全并建立依恋，后者为前者提供机制支持。"
+    },
+    {
+      "source": "s-da99cc4d78d6-c001:a004",
+      "target": "s-da99cc4d78d6-c001:a007",
+      "kind": "causes",
+      "condition": "早期建立牢固依恋关系",
+      "reason": "a004说明身体接触建立依恋关系，a007指出牢固依恋关系为未来恋爱关系提供稳定基础，存在因果链。"
+    },
+    {
+      "source": "s-da99cc4d78d6-c001:a008",
+      "target": "s-da99cc4d78d6-c001:a009",
+      "kind": "supports",
+      "condition": "拥抱时",
+      "reason": "a008介绍催产素的作用，a009说明拥抱时双方释放催产素，后者是前者的具体情境。"
+    },
+    {
+      "source": "s-da99cc4d78d6-c001:a009",
+      "target": "s-da99cc4d78d6-c001:a010",
+      "kind": "causes",
+      "condition": "身体接触促进神经发育",
+      "reason": "a009提到拥抱释放催产素带来愉悦，a010指出身体接触促进大脑神经发育，两者都涉及身体接触的积极效果，但a010是更广泛的神经发育结果，可视为身体接触的后果之一。"
+    },
+    {
+      "source": "s-da99cc4d78d6-c001:a011",
+      "target": "s-da99cc4d78d6-c001:a004",
+      "kind": "supports",
+      "condition": "产后立即抚摸",
+      "reason": "a011建议产后立即抚摸孩子以建立纽带，a004说明身体接触建立依恋关系，前者是后者的具体实践。"
+    },
+    {
+      "source": "s-da99cc4d78d6-c001:a012",
+      "target": "s-da99cc4d78d6-c001:a010",
+      "kind": "supports",
+      "condition": "产后抑郁妈妈给婴儿按摩",
+      "reason": "a012指出按摩促进婴儿生长发育，a010说明身体接触促进神经发育，两者都涉及身体接触对发育的积极影响。"
+    },
+    {
+      "source": "s-da99cc4d78d6-c001:a013",
+      "target": "s-da99cc4d78d6-c001:a015",
+      "kind": "supports",
+      "condition": "孩子情绪烦躁或发脾气时",
+      "reason": "a013指出孩子烦躁时需要身体接触，a015进一步解释发脾气是情绪求救，需要身体接触连接，后者是前者的具体情境。"
+    },
+    {
+      "source": "s-da99cc4d78d6-c001:a014",
+      "target": "s-da99cc4d78d6-c001:r001",
+      "kind": "supports",
+      "condition": "孩子犯错时",
+      "reason": "a014说明犯错时用身体接触帮助孩子进入受教模式，r001定义管教为教导而非惩罚，两者理念一致。"
+    },
+    {
+      "source": "s-da99cc4d78d6-c001:a002",
+      "target": "s-da99cc4d78d6-c001:a004",
+      "kind": "contrasts",
+      "condition": "童年被拒绝身体接触",
+      "reason": "台湾客人因童年被拒抱而厌恶身体接触，与身体接触让孩子感到安全并建立依恋形成鲜明对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-da99cc4d78d6-c001:a003",
+      "target": "s-da99cc4d78d6-c001:a004",
+      "kind": "supports",
+      "condition": "缺乏拥抱导致生长停滞",
+      "reason": "三岁孩子因缺乏拥抱停止生长，恢复拥抱后追赶生长的案例，支持了身体接触让孩子感到安全并建立依恋的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-da99cc4d78d6-c001:a005",
+      "target": "s-da99cc4d78d6-c001:a006",
+      "kind": "causes",
+      "condition": "保姆带大孩子",
+      "reason": "a005指出保姆带大孩子会对保姆产生依恋，a006建议父母亲自带孩子以避免依恋错位，后者是前者的应对措施。"
+    },
+    {
+      "source": "s-da99cc4d78d6-c001:a006",
+      "target": "s-da99cc4d78d6-c001:a004",
+      "kind": "supports",
+      "condition": "父母亲自带孩子并多拥抱",
+      "reason": "a006建议父母亲自带孩子并多拥抱，a004说明身体接触建立依恋关系，前者是后者的实践建议。"
+    },
+    {
+      "source": "s-da99cc4d78d6-c001:v2-n001",
+      "target": "s-da99cc4d78d6-c001:a003",
+      "kind": "association",
+      "condition": "当孩子因非典型原因（如缺乏拥抱停止生长）被送入寄养家庭时",
+      "reason": "source 定义寄养家庭收留因家暴虐待等被移出的孩子，candidate 案例中孩子被送到 foster family 观察学习拥抱，虽然不是因家暴，但仍是寄养家庭实例，关联较弱，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-da99cc4d78d6-c001:a003",
+      "target": "s-da99cc4d78d6-c001:v2-n001",
+      "kind": "association",
+      "condition": "当孩子因非典型原因（如缺乏拥抱停止生长）被送入寄养家庭时",
+      "reason": "source 定义寄养家庭收留因家暴虐待等被移出的孩子，candidate 案例中孩子被送到 foster family 观察学习拥抱，虽然不是因家暴，但仍是寄养家庭实例，关联较弱，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a013",
+        "s-da99cc4d78d6-c001:a015"
+      ],
+      "description": "a013指出孩子烦躁时父母自然反应是不想碰孩子，但需要身体接触；a015指出孩子发脾气时父母不愿意碰他，但需要身体接触。两者都强调在负面情绪时需要身体接触，但未明确区分烦躁和发脾气的具体年龄或情境，可能存在适用范围重叠或需要更精确的界定。",
+      "needed_evidence": "需要明确烦躁和发脾气的定义、年龄范围以及身体接触的具体方式是否相同。"
+    }
+  ],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-da99cc4d78d6-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a001"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a002"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a003"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006",
+        "b00007",
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a004"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a005"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a006"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a007"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a008"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a009"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a010"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a011"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a012"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u013",
+      "kind": "condition",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a013"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u014",
+      "kind": "condition",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a014"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u015",
+      "kind": "condition",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:a015"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u016",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:r001"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-da99cc4d78d6-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "Foster care（寄养家庭）的定义",
+      "atom_ids": [
+        "s-da99cc4d78d6-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-da99cc4d78d6",
+          "blocks": [
+            "b00006",
+            "b00007"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "definition"
+    }
+  ]
+}

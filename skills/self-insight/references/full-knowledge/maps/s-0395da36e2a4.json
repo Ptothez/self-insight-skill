@@ -1,0 +1,823 @@
+{
+  "concepts": [
+    {
+      "name": "认知谦逊",
+      "definition": "承认自己可能有1%的错误，不认为自己绝不可能错，从而为沟通和学习创造空间。",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a001",
+        "s-0395da36e2a4-c001:a002",
+        "s-0395da36e2a4-c001:a003",
+        "s-0395da36e2a4-c001:a004"
+      ]
+    },
+    {
+      "name": "学习动力提升方法",
+      "definition": "通过自我提醒、反省弱项、移除障碍、设置目标、从想要变成要等方式提升学习动力。",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a005",
+        "s-0395da36e2a4-c001:a006",
+        "s-0395da36e2a4-c001:a007",
+        "s-0395da36e2a4-c001:a016",
+        "s-0395da36e2a4-c001:r001"
+      ]
+    },
+    {
+      "name": "想要与要的区别",
+      "definition": "想要是遇到困难就退缩，会找借口；要是无论如何都要做到，自己下狠心改变。前提是目标可行。",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a008",
+        "s-0395da36e2a4-c001:a009",
+        "s-0395da36e2a4-c001:a010",
+        "s-0395da36e2a4-c001:a011",
+        "s-0395da36e2a4-c001:a013",
+        "s-0395da36e2a4-c001:r001"
+      ]
+    },
+    {
+      "name": "目标设置",
+      "definition": "从最长远的十年目标到最近的六个月目标依次设置，并反推步骤。目标分为外在和内在，内在目标应可行且比较困难。",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a016",
+        "s-0395da36e2a4-c001:a017",
+        "s-0395da36e2a4-c001:a018",
+        "s-0395da36e2a4-c001:a019",
+        "s-0395da36e2a4-c001:a020",
+        "s-0395da36e2a4-c001:a021",
+        "s-0395da36e2a4-c001:a022",
+        "s-0395da36e2a4-c001:a023"
+      ]
+    },
+    {
+      "name": "自我驱动与育儿后果",
+      "definition": "要么自己逼自己学习，要么将来被孩子逼着学习。自己不逼自己，孩子将来可能用问题行为逼父母。",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a014",
+        "s-0395da36e2a4-c001:a015"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-0395da36e2a4-c001:a001",
+      "target": "s-0395da36e2a4-c001:a005",
+      "kind": "supports",
+      "condition": "承认自己可能不知道是提升学习动力的前提",
+      "reason": "a001指出承认1%可能错误会产生学习动力，a005提出时刻提醒自己有很多不知道会引起学习欲望，两者都强调认知谦逊对学习动力的作用。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a001",
+      "target": "s-0395da36e2a4-c001:a002",
+      "kind": "example_of",
+      "condition": "夫妻沟通中应用认知谦逊",
+      "reason": "a002是a001中认知谦逊原则在夫妻沟通中的具体案例。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a001",
+      "target": "s-0395da36e2a4-c001:a003",
+      "kind": "contrasts",
+      "condition": "父母自以为知道的反例",
+      "reason": "a003展示父母不承认自己不知道的反例，与a001的认知谦逊形成对比。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a001",
+      "target": "s-0395da36e2a4-c001:a004",
+      "kind": "supports",
+      "condition": "心理学认知有限性支持认知谦逊",
+      "reason": "a004通过讲师自身经历说明认知有限，支持a001承认自己可能不知道的观点。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a005",
+      "target": "s-0395da36e2a4-c001:a006",
+      "kind": "step_of",
+      "condition": "提升学习动力的方法",
+      "reason": "a005和a006都是提升学习动力的具体方法，属于同一流程的不同步骤。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a006",
+      "target": "s-0395da36e2a4-c001:a007",
+      "kind": "step_of",
+      "condition": "提升学习动力的方法",
+      "reason": "a006和a007都是提升学习动力的具体方法，属于同一流程的不同步骤。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a007",
+      "target": "s-0395da36e2a4-c001:a016",
+      "kind": "association",
+      "condition": "提升学习动力的方法",
+      "reason": "移除阻挡学习的东西和设置目标都是提升学习动力的具体方法，属于同一主题下的并列策略，不存在步骤上的先后依赖关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind step_of 不成立，改为 association。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a016",
+      "target": "s-0395da36e2a4-c001:r001",
+      "kind": "association",
+      "condition": "提升学习动力的方法",
+      "reason": "设置目标和从想要变成要都是提升学习动力的具体方法，属于同一主题下的并列策略，不存在步骤上的先后依赖关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind step_of 不成立，改为 association。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a008",
+      "target": "s-0395da36e2a4-c001:a009",
+      "kind": "example_of",
+      "condition": "婚姻辅导中想要与要的区分",
+      "reason": "婚姻辅导中询问夫妻想要还是要婚姻更好，是想要与要区别概念的具体应用案例，因此案例是概念的一个例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向 a008->a009 有误，正确方向应为 a009->a008。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a008",
+      "target": "s-0395da36e2a4-c001:a010",
+      "kind": "prerequisite",
+      "condition": "想要与要的前提是目标可行",
+      "reason": "目标可行是想要与要区分能够成立的前提条件，因此目标可行是想要与要区别的前提。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向 a008->a010 有误，正确方向应为 a010->a008。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a008",
+      "target": "s-0395da36e2a4-c001:a011",
+      "kind": "supports",
+      "condition": "从想要变成要产生强烈学习动机",
+      "reason": "想要与要的区别解释了为什么从想要变成要后学习会产生强烈动机，因此想要与要的区别支持了从想要变成要产生强烈学习动机的论点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 不属于允许的六种，改为 supports。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a008",
+      "target": "s-0395da36e2a4-c001:a013",
+      "kind": "supports",
+      "condition": "想要与要导致不同学习结果",
+      "reason": "想要与要的区别解释了为什么只是想要会导致难以坚持，而要则能坚持学习，因此想要与要的区别支持了不同学习结果的论点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 不属于允许的六种，改为 supports。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a011",
+      "target": "s-0395da36e2a4-c001:r001",
+      "kind": "supports",
+      "condition": "从想要变成要提升学习动力",
+      "reason": "从想要变成要产生强烈学习动机这一概念与提升学习动力的方法三内容一致，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a012",
+      "target": "s-0395da36e2a4-c001:a014",
+      "kind": "supports",
+      "condition": "父母不自己带孩子导致孩子逼父母",
+      "reason": "父母不自己带孩子却抱怨的反例支持了如果不自己逼自己，孩子将来会逼自己的论点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a014",
+      "target": "s-0395da36e2a4-c001:a015",
+      "kind": "example_of",
+      "condition": "被孩子逼得没办法的家长案例",
+      "reason": "被孩子逼得没办法的家长案例是孩子逼父母的具体实例，因此案例是概念的一个例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向 a014->a015 有误，正确方向应为 a015->a014。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a016",
+      "target": "s-0395da36e2a4-c001:a017",
+      "kind": "example_of",
+      "condition": "理财顾问的目标设置案例",
+      "reason": "理财顾问的目标设置案例是目标设置顺序方法的具体实例，因此案例是概念的一个例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向 a016->a017 有误，正确方向应为 a017->a016。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a016",
+      "target": "s-0395da36e2a4-c001:a018",
+      "kind": "prerequisite",
+      "condition": "目标设置后制作完整步骤",
+      "reason": "设置目标是制作完整步骤的前提步骤，即先设定长远目标才能反推制作完整步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind step_of 不成立，改为 prerequisite。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a016",
+      "target": "s-0395da36e2a4-c001:a019",
+      "kind": "supports",
+      "condition": "目标是学习的动力",
+      "reason": "设置目标的方法体现了目标是学习的动力这一原则，因此设置目标方法支持了目标是学习的动力。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 不属于允许的六种，改为 supports。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a016",
+      "target": "s-0395da36e2a4-c001:a020",
+      "kind": "example_of",
+      "condition": "对自己十年和五年后的目标提问",
+      "reason": "对自己十年和五年后的目标提问是目标设置方法在自我目标上的具体应用实例，因此提问是方法的一个例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind applies_to 不属于允许的六种，改为 example_of；原方向有误，正确方向应为 a020->a016。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a016",
+      "target": "s-0395da36e2a4-c001:a021",
+      "kind": "supports",
+      "condition": "内在与外在目标的区分作为目标设置的一部分",
+      "reason": "设置目标的方法与外在目标与内在目标的区分是补充关系，后者补充了前者在目标类型上的区分；原方向反了，应为后者支持前者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反了，已调整关系解释。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a021",
+      "target": "s-0395da36e2a4-c001:a022",
+      "kind": "prerequisite",
+      "condition": "内在目标应可行且比较困难",
+      "reason": "a022是a021内在目标设置的条件。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a016",
+      "target": "s-0395da36e2a4-c001:a023",
+      "kind": "example_of",
+      "condition": "讲师与丈夫不吵架的目标分解案例",
+      "reason": "讲师与丈夫不吵架的目标分解案例是设置目标方法与反推步骤的具体例证，原方向反了，应为案例作为设置目标概念的例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了。"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:v2-n001",
+      "target": "s-0395da36e2a4-c001:a001",
+      "kind": "complements",
+      "condition": "适用于想建立学习动力的学习者",
+      "reason": "source 提出需要刻意建立学习动力，a001 提供第一前提：承认自己可能不知道，补充了建立动力的起点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a001",
+      "target": "s-0395da36e2a4-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于想建立学习动力的学习者",
+      "reason": "source 提出需要刻意建立学习动力，a001 提供第一前提：承认自己可能不知道，补充了建立动力的起点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:v2-n001",
+      "target": "s-0395da36e2a4-c001:r001",
+      "kind": "complements",
+      "condition": "适用于期待明确的学习者",
+      "reason": "source 需刻意建立动力，r001 提供方法三：从想要变成要，补充了具体策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:r001",
+      "target": "s-0395da36e2a4-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于期待明确的学习者",
+      "reason": "source 需刻意建立动力，r001 提供方法三：从想要变成要，补充了具体策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:v2-n001",
+      "target": "s-0395da36e2a4-c001:a019",
+      "kind": "complements",
+      "condition": "适用于缺乏目标的学习者",
+      "reason": "source 需刻意建立动力，a019 指出目标是学习的动力，补充了方法四的核心原理。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a019",
+      "target": "s-0395da36e2a4-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于缺乏目标的学习者",
+      "reason": "source 需刻意建立动力，a019 指出目标是学习的动力，补充了方法四的核心原理。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:v2-n001",
+      "target": "s-0395da36e2a4-c001:a006",
+      "kind": "complements",
+      "condition": "适用于愿意反省弱点的学习者",
+      "reason": "source 需刻意建立动力，a006 提供方法二：反省弱项及其伤害，补充了具体策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a006",
+      "target": "s-0395da36e2a4-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于愿意反省弱点的学习者",
+      "reason": "source 需刻意建立动力，a006 提供方法二：反省弱项及其伤害，补充了具体策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:v2-n001",
+      "target": "s-0395da36e2a4-c001:a005",
+      "kind": "complements",
+      "condition": "适用于意识不到自己不足的学习者",
+      "reason": "source 需刻意建立动力，a005 提供方法一：时刻提醒自己有很多不知道，补充了具体做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a005",
+      "target": "s-0395da36e2a4-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于意识不到自己不足的学习者",
+      "reason": "source 需刻意建立动力，a005 提供方法一：时刻提醒自己有很多不知道，补充了具体做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:v2-n001",
+      "target": "s-0395da36e2a4-c001:a016",
+      "kind": "complements",
+      "condition": "适用于需要目标规划的学习者",
+      "reason": "source 需刻意建立动力，a016 提供方法四：设置目标的具体步骤，补充了操作方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a016",
+      "target": "s-0395da36e2a4-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于需要目标规划的学习者",
+      "reason": "source 需刻意建立动力，a016 提供方法四：设置目标的具体步骤，补充了操作方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:v2-n001",
+      "target": "s-0395da36e2a4-c001:a011",
+      "kind": "complements",
+      "condition": "适用于希望增强动机的学习者",
+      "reason": "source 需刻意建立动力，a011 细化了从想要变成要产生强烈动机，补充了原理说明。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a011",
+      "target": "s-0395da36e2a4-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于希望增强动机的学习者",
+      "reason": "source 需刻意建立动力，a011 细化了从想要变成要产生强烈动机，补充了原理说明。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:v2-n001",
+      "target": "s-0395da36e2a4-c001:a007",
+      "kind": "complements",
+      "condition": "适用于被外部事物阻挡学习的学习者",
+      "reason": "source 需刻意建立动力，a007 提供移除阻挡学习的东西的具体行动，补充了执行策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a007",
+      "target": "s-0395da36e2a4-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于被外部事物阻挡学习的学习者",
+      "reason": "source 需刻意建立动力，a007 提供移除阻挡学习的东西的具体行动，补充了执行策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:v2-n001",
+      "target": "s-0395da36e2a4-c001:a008",
+      "kind": "complements",
+      "condition": "适用于区分想要与要的学习者",
+      "reason": "source 需刻意建立动力，a008 定义了想要与要的区别，为相关策略提供了概念基础。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a008",
+      "target": "s-0395da36e2a4-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于区分想要与要的学习者",
+      "reason": "source 需刻意建立动力，a008 定义了想要与要的区别，为相关策略提供了概念基础。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:v2-n001",
+      "target": "s-0395da36e2a4-c001:a014",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a014 讲自己逼自己与孩子逼自己，与学习动力相关但偏向后果驱动，不是建立动力的直接方法，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a014",
+      "target": "s-0395da36e2a4-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a014 讲自己逼自己与孩子逼自己，与学习动力相关但偏向后果驱动，不是建立动力的直接方法，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:v2-n001",
+      "target": "s-0395da36e2a4-c001:a013",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a013 讲想要与要导致的不同学习结果，与 source 相关但属于结果表现，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a013",
+      "target": "s-0395da36e2a4-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a013 讲想要与要导致的不同学习结果，与 source 相关但属于结果表现，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:v2-n001",
+      "target": "s-0395da36e2a4-c001:a015",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a015 是被孩子逼得没办法的家长案例，展示了被迫学习，与 source 的人之常性相关，但为案例证据，关联一般。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0395da36e2a4-c001:a015",
+      "target": "s-0395da36e2a4-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a015 是被孩子逼得没办法的家长案例，展示了被迫学习，与 source 的人之常性相关，但为案例证据，关联一般。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "自我修养",
+      "to": "界限",
+      "when": "父母不自己带孩子，把孩子扔给老人带，又抱怨老人带得不好、孩子不跟自己亲，但不做事情重新获得抚养权。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a011",
+        "s-0395da36e2a4-c001:r001"
+      ],
+      "reason": "两者都表达从想要变成要能产生强烈学习动机，内容实质等价。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "提升学习动力的方法",
+      "steps": [
+        {
+          "action": "承认自己可能不知道",
+          "atom_ids": [
+            "s-0395da36e2a4-c001:a001"
+          ],
+          "condition": "建立学习动力的第一前提"
+        },
+        {
+          "action": "时刻提醒自己有很多不知道",
+          "atom_ids": [
+            "s-0395da36e2a4-c001:a005"
+          ],
+          "condition": "提升学习动力的方法一"
+        },
+        {
+          "action": "反省弱项及其伤害",
+          "atom_ids": [
+            "s-0395da36e2a4-c001:a006"
+          ],
+          "condition": "提升学习动力的方法二"
+        },
+        {
+          "action": "移除阻挡学习的东西",
+          "atom_ids": [
+            "s-0395da36e2a4-c001:a007"
+          ],
+          "condition": "提升学习动力的方法三"
+        },
+        {
+          "action": "设置目标（从十年到六个月）",
+          "atom_ids": [
+            "s-0395da36e2a4-c001:a016"
+          ],
+          "condition": "提升学习动力的方法四"
+        },
+        {
+          "action": "从想要变成要",
+          "atom_ids": [
+            "s-0395da36e2a4-c001:r001"
+          ],
+          "condition": "提升学习动力的方法五"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-0395da36e2a4-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u003",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a003"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a004"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a005"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a006"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a007"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a008"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a009"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a010"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a011"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u012",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a012"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a013"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a014"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a015"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a016"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a017"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a018"
+      ],
+      "blocks": [
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a019"
+      ],
+      "blocks": [
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a020"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a021"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a022"
+      ],
+      "blocks": [
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u023",
+      "kind": "case",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:a023"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:r001"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-0395da36e2a4-c001:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "人通常没有学习动力：人之常性",
+      "atom_ids": [
+        "s-0395da36e2a4-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0395da36e2a4",
+          "blocks": [
+            "b00002"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "definition"
+    }
+  ]
+}

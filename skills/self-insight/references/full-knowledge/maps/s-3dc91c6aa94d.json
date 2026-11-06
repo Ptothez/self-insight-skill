@@ -1,0 +1,515 @@
+{
+  "concepts": [
+    {
+      "name": "父母角色调整",
+      "definition": "父母需要根据孩子不同年龄阶段的心理变化调整自己的角色，否则会导致孩子发展停滞或心理问题。",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a002",
+        "s-3dc91c6aa94d-c001:a005",
+        "s-3dc91c6aa94d-c001:a008",
+        "s-3dc91c6aa94d-c001:a009",
+        "s-3dc91c6aa94d-c001:a010",
+        "s-3dc91c6aa94d-c001:a011"
+      ]
+    },
+    {
+      "name": "童年缺失的长期影响",
+      "definition": "童年时期缺乏适当的父母角色或供养，会导致个体在成年后以某种形式表现出补偿行为或心理问题。",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a005",
+        "s-3dc91c6aa94d-c001:a006",
+        "s-3dc91c6aa94d-c001:a007",
+        "s-3dc91c6aa94d-c001:a022"
+      ]
+    },
+    {
+      "name": "大脑发育与心理需求",
+      "definition": "大脑发育带来能力增强和心理需求变化，忽略大脑发育与心理健康的联系会导致育儿偏颇。",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a016",
+        "s-3dc91c6aa94d-c001:a017",
+        "s-3dc91c6aa94d-c001:a018",
+        "s-3dc91c6aa94d-c001:a019"
+      ]
+    },
+    {
+      "name": "阶段特定能力发展",
+      "definition": "不同年龄阶段需要发展特定能力，如3-5岁独立、6-12岁允许犯错、青少年独立和反抗，否则会导致发展停滞。",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a012",
+        "s-3dc91c6aa94d-c001:a013",
+        "s-3dc91c6aa94d-c001:a014",
+        "s-3dc91c6aa94d-c001:a015"
+      ]
+    },
+    {
+      "name": "心理问题的隐蔽性",
+      "definition": "孩子心理问题可能在长大后才能被发现，表面优秀不代表没有问题。",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a020",
+        "s-3dc91c6aa94d-c001:a021"
+      ]
+    },
+    {
+      "name": "健康养育环境对生理的影响",
+      "definition": "缺乏健康养育环境会导致荷尔蒙紊乱和免疫系统削弱，影响终身身心健康。",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a023",
+        "s-3dc91c6aa94d-c001:a024"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-3dc91c6aa94d-c001:a001",
+      "target": "s-3dc91c6aa94d-c001:a002",
+      "kind": "supports",
+      "condition": "如果父母用同一套方法养育不同年龄的孩子",
+      "reason": "孩子不是机器、不能用固定方法养育，支持了用同一套方法养育不同年龄孩子会留下伤害的论断。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-3dc91c6aa94d-c001:a003",
+      "target": "s-3dc91c6aa94d-c001:a016",
+      "kind": "supports",
+      "condition": "孩子能力发展",
+      "reason": "能力发展影响沟通、决策等，而大脑发育带来能力增强和心理需求变化。"
+    },
+    {
+      "source": "s-3dc91c6aa94d-c001:a005",
+      "target": "s-3dc91c6aa94d-c001:a006",
+      "kind": "example_of",
+      "condition": "童年缺乏母亲喂饭和唱儿歌",
+      "reason": "连环杀手案例是童年缺乏适当父母角色导致卡在某个阶段的极端例子。"
+    },
+    {
+      "source": "s-3dc91c6aa94d-c001:a005",
+      "target": "s-3dc91c6aa94d-c001:a007",
+      "kind": "example_of",
+      "condition": "童年贫穷导致成年后囤积水果",
+      "reason": "学员案例是童年缺乏适当父母角色导致卡在某个阶段的例子。"
+    },
+    {
+      "source": "s-3dc91c6aa94d-c001:a008",
+      "target": "s-3dc91c6aa94d-c001:a009",
+      "kind": "causes",
+      "condition": "父母未调整角色",
+      "reason": "父母未调整角色导致孩子叛逆，叛逆并非突然。"
+    },
+    {
+      "source": "s-3dc91c6aa94d-c001:a010",
+      "target": "s-3dc91c6aa94d-c001:a011",
+      "kind": "contrasts",
+      "condition": "父母角色是否调整",
+      "reason": "父母期待孩子一如既往回应角色会压抑能力发育，而做好角色会赋能能力。"
+    },
+    {
+      "source": "s-3dc91c6aa94d-c001:a012",
+      "target": "s-3dc91c6aa94d-c001:a013",
+      "kind": "step_of",
+      "condition": "年龄阶段",
+      "reason": "3-5岁独立需要未满足导致妈宝，6-12岁不被鼓励犯错导致卡住，是不同阶段的发展任务。"
+    },
+    {
+      "source": "s-3dc91c6aa94d-c001:a013",
+      "target": "s-3dc91c6aa94d-c001:a014",
+      "kind": "step_of",
+      "condition": "年龄阶段",
+      "reason": "6-12岁不被鼓励犯错导致卡住，青少年未获独立和犯错允许导致婚姻中卡在反抗，是连续阶段。"
+    },
+    {
+      "source": "s-3dc91c6aa94d-c001:a014",
+      "target": "s-3dc91c6aa94d-c001:a015",
+      "kind": "supports",
+      "condition": "青少年需要独立",
+      "reason": "允许孩子反抗才能养成独立习惯，否则会卡在反抗状态。"
+    },
+    {
+      "source": "s-3dc91c6aa94d-c001:a016",
+      "target": "s-3dc91c6aa94d-c001:a017",
+      "kind": "supports",
+      "condition": "忽略大脑发育与心理健康联系",
+      "reason": "大脑发育与心理健康相关及能力增强带来心理需求变化，支持了忽略这种联系会导致育儿偏颇的判断。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型为“causes”，按允许类型修订为“supports”。"
+    },
+    {
+      "source": "s-3dc91c6aa94d-c001:a018",
+      "target": "s-3dc91c6aa94d-c001:a019",
+      "kind": "supports",
+      "condition": "了解大脑发育",
+      "reason": "了解大脑发育后，父母在心理健康方面会少很多焦虑。"
+    },
+    {
+      "source": "s-3dc91c6aa94d-c001:a020",
+      "target": "s-3dc91c6aa94d-c001:a021",
+      "kind": "example_of",
+      "condition": "该学员 案例",
+      "reason": "该学员 表面优秀但患有严重心理疾病的案例，是孩子看似很好不等于没有问题这一概念的具体实例；原方向应从案例指向概念。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系方向为概念到案例，按例证关系应反转为案例到概念；在给定方向下保留 example_of 并说明。"
+    },
+    {
+      "source": "s-3dc91c6aa94d-c001:a022",
+      "target": "s-3dc91c6aa94d-c001:a023",
+      "kind": "supports",
+      "condition": "缺乏健康养育环境",
+      "reason": "童年缺乏供养长大后必以某种形式表现，缺乏健康养育环境导致荷尔蒙紊乱。"
+    },
+    {
+      "source": "s-3dc91c6aa94d-c001:a023",
+      "target": "s-3dc91c6aa94d-c001:a024",
+      "kind": "supports",
+      "condition": "缺乏健康养育环境",
+      "reason": "缺乏健康养育环境导致荷尔蒙紊乱和免疫系统削弱。"
+    },
+    {
+      "source": "s-3dc91c6aa94d-c001:r001",
+      "target": "s-3dc91c6aa94d-c001:r002",
+      "kind": "association",
+      "condition": "孩子成长",
+      "reason": "孩子越小变化越快与孩子逐渐掌握能力并控制需求都描述成长过程，但前者强调变化速度，后者强调能力掌握，没有直接支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型为“supports”，但两端命题无直接支持，改为“association”。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "婴儿通过哭、表情、肢体语言等表达需求，父母需要理解这些情绪信号。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a004",
+        "s-3dc91c6aa94d-c001:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "青少年需要反抗父母以养成独立习惯，父母需要允许反抗。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a014",
+        "s-3dc91c6aa94d-c001:a015"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a008"
+      ],
+      "reason": "三条记录内容完全相同，都是关于父母不调整角色导致孩子自卑、情绪暴躁、上瘾等。"
+    }
+  ],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-3dc91c6aa94d-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a002"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a003"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:r001"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a004"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:r002"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a005"
+      ],
+      "blocks": [
+        "b00007",
+        "b00012",
+        "b00013",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a006"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a007"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a008"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a009"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a010"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a011"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a012"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a013"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a014"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a015"
+      ],
+      "blocks": [
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a016"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a017"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a018"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a019"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a020"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u023",
+      "kind": "case",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a021"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a022"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a023"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-3dc91c6aa94d-c001:u026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3dc91c6aa94d-c001:a024"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

@@ -1,0 +1,782 @@
+{
+  "concepts": [
+    {
+      "name": "0-1.5岁核心情感需求：信任",
+      "definition": "0-1.5岁孩子的核心情感需求是信任，即能否信任他人。成功意味着让孩子感到生活有希望、人际关系可信任。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a001"
+      ]
+    },
+    {
+      "name": "0-1.5岁核心情感需求：安全",
+      "definition": "0-1.5岁期间孩子的核心情感需求是安全。这个年龄阶段孩子的弱小无助让安全感成为他最强烈的渴望。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a004"
+      ]
+    },
+    {
+      "name": "1.5-3岁核心情感需求：独立",
+      "definition": "1.5岁到3岁是一个人独立或自我怀疑的时期，核心问题是'我可以独立吗？我是一个具备独立能力的人吗？'",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a013"
+      ]
+    },
+    {
+      "name": "1.5-3岁核心情感需求：被听见",
+      "definition": "1.5-3岁阶段的核心情感需求是被听见。孩子需要被人听见，因为他是独立的个体，独立的声音应该被听见。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a017"
+      ]
+    },
+    {
+      "name": "满足0-1.5岁情感需求的方法",
+      "definition": "包括高质量陪伴、供给（身体和心理）、安全的家庭环境。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a005",
+        "s-04492c118b9b-c001:a006",
+        "s-04492c118b9b-c001:a007"
+      ]
+    },
+    {
+      "name": "满足1.5-3岁情感需求的方法",
+      "definition": "包括成为孩子情绪的依靠、放手让孩子自己做、不要急着纠正。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a018",
+        "s-04492c118b9b-c001:a020",
+        "s-04492c118b9b-c001:a021"
+      ]
+    },
+    {
+      "name": "信任感建立的作用",
+      "definition": "通过建立信任感，孩子在危险时可以把他人当作帮助者和支持者。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a002"
+      ]
+    },
+    {
+      "name": "不信任的后果",
+      "definition": "如果孩子不信任人，会导致恐惧、焦虑、抑郁等情况。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a003"
+      ]
+    },
+    {
+      "name": "不安全家庭环境对婴儿的长期影响",
+      "definition": "如果婴儿期经历不安全、嘈杂的环境，即使孩子记不住具体事情，这种感觉会在脑子里刻画下来，导致长大后一定有非常强烈的焦虑症。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a008"
+      ]
+    },
+    {
+      "name": "0-1.5岁未获得安全感的后果",
+      "definition": "如果孩子在0-1.5岁没有获得安全感，不认为可以信任别人，以后会对亲密关系不感兴趣，婚姻出现很大问题，会出轨。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a010"
+      ]
+    },
+    {
+      "name": "独立阶段成功的结果",
+      "definition": "如果这个阶段成功，孩子将来会成为一个意志坚强的人。如果孩子感觉到被鼓励、被支持，他们将对自己在这个世界上的生存能力变得更有自信，觉得更加安全。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a015"
+      ]
+    },
+    {
+      "name": "独立阶段失败的结果",
+      "definition": "如果孩子在这个阶段没有建立独立，会成为一个自我怀疑的人。受到过于严苛的批评、过度控制，或没有机会做该年龄要做的事情，孩子会开始感觉自己的生存能力不够，变得过度依赖他人，缺乏自信心，经常为自己感到羞耻，并深深怀疑自己的能力。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a016"
+      ]
+    },
+    {
+      "name": "1.5-3岁情感需求未满足的后果",
+      "definition": "如果不能满足孩子在这个时期的情感需要，孩子会变得非常自卑、不自信，害怕新鲜事物。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a022"
+      ]
+    },
+    {
+      "name": "父母关于孩子胆小的常见问题",
+      "definition": "很多父母问：孩子什么都怕，不愿意尝试新事物，怎样让孩子变得更勇敢？讲师认为问题不是如何让孩子勇敢，而是父母如何成为可以培养出勇敢孩子的父母。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a023"
+      ]
+    },
+    {
+      "name": "讲师对父母期望的批评",
+      "definition": "很多父母喜欢听具体步骤，甚至希望讲师直接帮他们培养孩子，但讲师认为这是父母的悲哀。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a024"
+      ]
+    },
+    {
+      "name": "为孩子的安全考虑离婚或离开家暴者",
+      "definition": "讲师建议：为了孩子，也许需要离婚或离开家暴的人。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a009"
+      ]
+    },
+    {
+      "name": "习惯性出轨案例",
+      "definition": "讲师提到有客人是习惯性出轨、上瘾型出轨。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a011"
+      ]
+    },
+    {
+      "name": "年轻人不谈恋爱的原因",
+      "definition": "今天很多年轻人不想谈恋爱，只想搞钱或有朋友一起玩，但坚决不谈恋爱。原因可能是小时候父母忙着挣钱，把孩子扔给保姆，孩子没有获得可以相信别人的环境，导致对人第一不信任，第二对关系不感兴趣。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a012"
+      ]
+    },
+    {
+      "name": "1.5-3岁孩子发展身体技能和控制感",
+      "definition": "在这个阶段，孩子们专注于发展身体技能和个人控制感，所以什么都要摸一摸，不要别人帮忙做。",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a014"
+      ]
+    },
+    {
+      "name": "探测能否成为孩子情绪依靠的三个问题",
+      "definition": "三个问题探测能否成为孩子情绪的依靠：1. 孩子哭的时候，你的第一个反应是什么？2. 孩子尖叫的时候，你的第一反应是什么？3. 当孩子害怕、不敢尝试时，你的第一反应是什么？",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a019"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-04492c118b9b-c001:a001",
+      "target": "s-04492c118b9b-c001:a002",
+      "kind": "supports",
+      "condition": "当孩子建立信任感时",
+      "reason": "信任感建立后，孩子会把他人当作帮助者和支持者。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a001",
+      "target": "s-04492c118b9b-c001:a003",
+      "kind": "causes",
+      "condition": "如果孩子没有建立信任感",
+      "reason": "不信任人会导致恐惧、焦虑、抑郁。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a004",
+      "target": "s-04492c118b9b-c001:a007",
+      "kind": "supports",
+      "condition": "提供安全的家庭环境",
+      "reason": "安全的家庭环境满足孩子的安全需求。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a007",
+      "target": "s-04492c118b9b-c001:a008",
+      "kind": "causes",
+      "condition": "如果家庭环境不安全",
+      "reason": "不安全环境会导致孩子长大后焦虑症。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a004",
+      "target": "s-04492c118b9b-c001:a010",
+      "kind": "causes",
+      "condition": "如果孩子没有获得安全感",
+      "reason": "没有安全感会导致对亲密关系不感兴趣、婚姻问题、出轨。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a013",
+      "target": "s-04492c118b9b-c001:a015",
+      "kind": "causes",
+      "condition": "如果独立阶段成功",
+      "reason": "成功会让孩子意志坚强、自信。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a013",
+      "target": "s-04492c118b9b-c001:a016",
+      "kind": "causes",
+      "condition": "如果独立阶段失败",
+      "reason": "失败会导致自我怀疑、依赖、缺乏自信。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a017",
+      "target": "s-04492c118b9b-c001:a018",
+      "kind": "supports",
+      "condition": "成为孩子情绪的依靠",
+      "reason": "被听见的需求通过成为情绪依靠来满足。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a017",
+      "target": "s-04492c118b9b-c001:a020",
+      "kind": "supports",
+      "condition": "放手让孩子自己做",
+      "reason": "放手让孩子自己做意味着信任，满足被听见的需求。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a017",
+      "target": "s-04492c118b9b-c001:a021",
+      "kind": "supports",
+      "condition": "不要急着纠正",
+      "reason": "不要急着纠正让孩子感到被听见。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a013",
+      "target": "s-04492c118b9b-c001:a022",
+      "kind": "causes",
+      "condition": "如果情感需求未满足",
+      "reason": "未满足会导致自卑、不自信、害怕新鲜事物。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a023",
+      "target": "s-04492c118b9b-c001:a024",
+      "kind": "supports",
+      "condition": "父母希望具体步骤",
+      "reason": "讲师批评父母期望具体步骤，认为这是悲哀。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a010",
+      "target": "s-04492c118b9b-c001:a011",
+      "kind": "example_of",
+      "condition": "习惯性出轨案例",
+      "reason": "习惯性出轨案例是未获得安全感后果的例子。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a010",
+      "target": "s-04492c118b9b-c001:a012",
+      "kind": "example_of",
+      "condition": "年轻人不谈恋爱",
+      "reason": "年轻人不谈恋爱是未获得安全感后果的例子。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a013",
+      "target": "s-04492c118b9b-c001:a014",
+      "kind": "supports",
+      "condition": "发展身体技能和控制感",
+      "reason": "独立阶段孩子发展身体技能和控制感。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a018",
+      "target": "s-04492c118b9b-c001:a019",
+      "kind": "step_of",
+      "condition": "探测能否成为情绪依靠",
+      "reason": "三个问题用于探测能否成为孩子情绪的依靠，是成为情绪依靠方法的具体步骤，原方向反了，应为三个问题作为方法的步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了。"
+    },
+    {
+      "source": "s-04492c118b9b-c001:v2-n001",
+      "target": "s-04492c118b9b-c001:a004",
+      "kind": "complements",
+      "condition": "0-1.5岁",
+      "reason": "source 强调不同年龄不同核心情感需求；candidate 明确0-1.5岁核心需求是安全，补足了具体年龄的情感需求。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a004",
+      "target": "s-04492c118b9b-c001:v2-n001",
+      "kind": "complements",
+      "condition": "0-1.5岁",
+      "reason": "source 强调不同年龄不同核心情感需求；candidate 明确0-1.5岁核心需求是安全，补足了具体年龄的情感需求。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:v2-n001",
+      "target": "s-04492c118b9b-c001:a017",
+      "kind": "complements",
+      "condition": "1.5-3岁",
+      "reason": "source 强调年龄匹配；candidate 明确1.5-3岁核心需求是被听见，补足了具体年龄的情感需求。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a017",
+      "target": "s-04492c118b9b-c001:v2-n001",
+      "kind": "complements",
+      "condition": "1.5-3岁",
+      "reason": "source 强调年龄匹配；candidate 明确1.5-3岁核心需求是被听见，补足了具体年龄的情感需求。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:v2-n001",
+      "target": "s-04492c118b9b-c001:a001",
+      "kind": "complements",
+      "condition": "0-1.5岁",
+      "reason": "candidate 指出0-1.5岁核心需求是信任，补足了该年龄段情感需求，支撑 source 的年龄差异化观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a001",
+      "target": "s-04492c118b9b-c001:v2-n001",
+      "kind": "complements",
+      "condition": "0-1.5岁",
+      "reason": "candidate 指出0-1.5岁核心需求是信任，补足了该年龄段情感需求，支撑 source 的年龄差异化观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:v2-n001",
+      "target": "s-04492c118b9b-c001:a007",
+      "kind": "complements",
+      "condition": "0-1.5岁",
+      "reason": "candidate 提供满足0-1.5岁安全/信任需求的方法：安全的家庭环境，补足了如何满足该年龄需求。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a007",
+      "target": "s-04492c118b9b-c001:v2-n001",
+      "kind": "complements",
+      "condition": "0-1.5岁",
+      "reason": "candidate 提供满足0-1.5岁安全/信任需求的方法：安全的家庭环境，补足了如何满足该年龄需求。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:v2-n001",
+      "target": "s-04492c118b9b-c001:a005",
+      "kind": "complements",
+      "condition": "0-1.5岁",
+      "reason": "candidate 提供满足0-1.5岁需求的方法：高质量陪伴，补足了具体满足方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a005",
+      "target": "s-04492c118b9b-c001:v2-n001",
+      "kind": "complements",
+      "condition": "0-1.5岁",
+      "reason": "candidate 提供满足0-1.5岁需求的方法：高质量陪伴，补足了具体满足方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:v2-n001",
+      "target": "s-04492c118b9b-c001:a013",
+      "kind": "complements",
+      "condition": "1.5-3岁",
+      "reason": "candidate 指出1.5-3岁核心需求是独立，补足了该年龄阶段情感需求，体现年龄匹配。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a013",
+      "target": "s-04492c118b9b-c001:v2-n001",
+      "kind": "complements",
+      "condition": "1.5-3岁",
+      "reason": "candidate 指出1.5-3岁核心需求是独立，补足了该年龄阶段情感需求，体现年龄匹配。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:v2-n001",
+      "target": "s-04492c118b9b-c001:a022",
+      "kind": "complements",
+      "condition": "1.5-3岁需求未满足时",
+      "reason": "candidate 说明未满足1.5-3岁需求的后果（自卑不自信），反证了 source 年龄匹配的重要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a022",
+      "target": "s-04492c118b9b-c001:v2-n001",
+      "kind": "complements",
+      "condition": "1.5-3岁需求未满足时",
+      "reason": "candidate 说明未满足1.5-3岁需求的后果（自卑不自信），反证了 source 年龄匹配的重要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:v2-n001",
+      "target": "s-04492c118b9b-c001:a021",
+      "kind": "complements",
+      "condition": "1.5-3岁",
+      "reason": "candidate 提供满足1.5-3岁需求的方法：不要急着纠正，补足了具体满足方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a021",
+      "target": "s-04492c118b9b-c001:v2-n001",
+      "kind": "complements",
+      "condition": "1.5-3岁",
+      "reason": "candidate 提供满足1.5-3岁需求的方法：不要急着纠正，补足了具体满足方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:v2-n001",
+      "target": "s-04492c118b9b-c001:a018",
+      "kind": "complements",
+      "condition": "1.5-3岁",
+      "reason": "candidate 提供满足1.5-3岁需求的方法：成为孩子情绪的依靠，补足了具体满足方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a018",
+      "target": "s-04492c118b9b-c001:v2-n001",
+      "kind": "complements",
+      "condition": "1.5-3岁",
+      "reason": "candidate 提供满足1.5-3岁需求的方法：成为孩子情绪的依靠，补足了具体满足方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:v2-n001",
+      "target": "s-04492c118b9b-c001:a006",
+      "kind": "complements",
+      "condition": "0-1.5岁",
+      "reason": "candidate 提供满足0-1.5岁需求的供给方法，包括身体和心理供给，补足了具体操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a006",
+      "target": "s-04492c118b9b-c001:v2-n001",
+      "kind": "complements",
+      "condition": "0-1.5岁",
+      "reason": "candidate 提供满足0-1.5岁需求的供给方法，包括身体和心理供给，补足了具体操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:v2-n001",
+      "target": "s-04492c118b9b-c001:a020",
+      "kind": "complements",
+      "condition": "1.5-3岁",
+      "reason": "candidate 提供满足1.5-3岁独立需求的方法：放手让孩子自己做，补足了具体满足方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a020",
+      "target": "s-04492c118b9b-c001:v2-n001",
+      "kind": "complements",
+      "condition": "1.5-3岁",
+      "reason": "candidate 提供满足1.5-3岁独立需求的方法：放手让孩子自己做，补足了具体满足方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:v2-n001",
+      "target": "s-04492c118b9b-c001:a023",
+      "kind": "association",
+      "condition": "孩子胆小不勇敢时",
+      "reason": "candidate 提出父母关于孩子胆小的常见问题，与 source 年龄匹配相关，但未直接补充核心需求，仅通过问题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-04492c118b9b-c001:a023",
+      "target": "s-04492c118b9b-c001:v2-n001",
+      "kind": "association",
+      "condition": "孩子胆小不勇敢时",
+      "reason": "candidate 提出父母关于孩子胆小的常见问题，与 source 年龄匹配相关，但未直接补充核心需求，仅通过问题关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-04492c118b9b-c001:a001",
+        "s-04492c118b9b-c001:a004"
+      ],
+      "description": "0-1.5岁核心情感需求同时被表述为信任和安全，两者关系未明确。",
+      "needed_evidence": "需要明确信任和安全是并列还是从属关系。"
+    },
+    {
+      "atom_ids": [
+        "s-04492c118b9b-c001:a013",
+        "s-04492c118b9b-c001:a017"
+      ],
+      "description": "1.5-3岁核心情感需求同时被表述为独立和被听见，两者关系未明确。",
+      "needed_evidence": "需要明确独立和被听见是并列还是从属关系。"
+    },
+    {
+      "atom_ids": [
+        "s-04492c118b9b-c001:a008"
+      ],
+      "description": "原文断言不安全环境导致长大后一定有非常强烈的焦虑症，属于绝对化表述。",
+      "needed_evidence": "需要核验该因果关系的强度和普遍性。"
+    },
+    {
+      "atom_ids": [
+        "s-04492c118b9b-c001:a010"
+      ],
+      "description": "原文将早期安全感缺失与出轨直接关联，属于简化归因。",
+      "needed_evidence": "需要核验该关联的可靠性。"
+    },
+    {
+      "atom_ids": [
+        "s-04492c118b9b-c001:a012"
+      ],
+      "description": "原文将年轻人不谈恋爱归因于早期保姆照顾，属于推测。",
+      "needed_evidence": "需要核验该归因的合理性。"
+    }
+  ],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-04492c118b9b-c001:u0001",
+      "kind": "principle",
+      "atom_ids": [
+        "s-04492c118b9b-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0002",
+      "kind": "definition",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a002"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a003"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0005",
+      "kind": "definition",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a004"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0006",
+      "kind": "method",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a005"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0007",
+      "kind": "method",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a006"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0008",
+      "kind": "method",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a007"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0009",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a008"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0010",
+      "kind": "method",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a009"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a010"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0012",
+      "kind": "case",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a011"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0013",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a012"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0014",
+      "kind": "definition",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a013"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0015",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a014"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0016",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a015"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0017",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a016"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0018",
+      "kind": "definition",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a017"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0019",
+      "kind": "method",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a018"
+      ],
+      "blocks": [
+        "b00012",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0020",
+      "kind": "question",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a019"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0021",
+      "kind": "method",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a020"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0022",
+      "kind": "method",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a021"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0023",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a022"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0024",
+      "kind": "question",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a023"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-04492c118b9b-c001:u0025",
+      "kind": "method",
+      "atom_ids": [
+        "s-04492c118b9b-c001:a024"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "错的时间给对的情感需求仍是错的",
+      "atom_ids": [
+        "s-04492c118b9b-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-04492c118b9b",
+          "blocks": [
+            "b00001"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    }
+  ]
+}

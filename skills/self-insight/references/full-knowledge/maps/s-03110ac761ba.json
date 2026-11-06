@@ -1,0 +1,548 @@
+{
+  "concepts": [
+    {
+      "name": "情绪失联",
+      "definition": "个体与自身深层情绪缺乏连接，无法深入认知自己的情绪。",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a001"
+      ]
+    },
+    {
+      "name": "表层情绪",
+      "definition": "与朋友吐槽、表达烦恼等社交性情绪表达。",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a002"
+      ]
+    },
+    {
+      "name": "深层情绪",
+      "definition": "自我向内深入挖掘、对自身情绪的深层认知。",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a002"
+      ]
+    },
+    {
+      "name": "情绪压抑",
+      "definition": "个体否认或抑制自己的感受，可能导致情绪更加强烈、持续和问题化。",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a004"
+      ]
+    },
+    {
+      "name": "情绪压抑的迹象",
+      "definition": "包括讨厌被问感受、难以建立情感亲密、总是说“我很好”、很少情绪化、极端情绪波动、否认所有问题、对他人怀恨在心。",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a005"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-03110ac761ba-c001:a004",
+      "target": "s-03110ac761ba-c001:a013",
+      "kind": "supports",
+      "condition": "如果一直压抑情绪",
+      "reason": "情绪压抑的定义中包含否认或抑制自己的感受，这支持了如果一直压抑情绪就会与自身情绪失联的论点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 不属于允许的六种，改为 supports。"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a013",
+      "target": "s-03110ac761ba-c001:a014",
+      "kind": "causes",
+      "condition": "如果自己与情绪失联",
+      "reason": "记录a014说明自身情绪失联会导致与孩子情绪失联。"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a013",
+      "target": "s-03110ac761ba-c001:a015",
+      "kind": "causes",
+      "condition": "如果自己与情绪失联并经常压抑情绪",
+      "reason": "记录a015说明自身情绪失联和压抑情绪会导致与孩子情绪失联。"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a005",
+      "target": "s-03110ac761ba-c001:a006",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a006是a005中“讨厌被问感受”迹象的具体描述。"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a005",
+      "target": "s-03110ac761ba-c001:a007",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a007是a005中“难以建立情感亲密”迹象的具体描述。"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a005",
+      "target": "s-03110ac761ba-c001:a008",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "总是说“我很好”是情绪压抑的七个迹象之一，其具体描述是情绪压抑迹象的展开，因此该具体描述是情绪压抑迹象的一个例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向 a005->a008 有误，正确方向应为 a008->a005。"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a005",
+      "target": "s-03110ac761ba-c001:a009",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a009是a005中“很少情绪化”迹象的具体描述。"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a005",
+      "target": "s-03110ac761ba-c001:a010",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a010是a005中“极端情绪波动”迹象的具体描述。"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a005",
+      "target": "s-03110ac761ba-c001:a011",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a011是a005中“否认所有问题”迹象的具体描述。"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a005",
+      "target": "s-03110ac761ba-c001:a012",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "对他人怀恨在心是情绪压抑的七个迹象之一，其具体描述是情绪压抑迹象的展开，因此该具体描述是情绪压抑迹象的一个例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向 a005->a012 有误，正确方向应为 a012->a005。"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a003",
+      "target": "s-03110ac761ba-c001:a004",
+      "kind": "supports",
+      "condition": "",
+      "reason": "压抑情绪可能带来暂时的缓解，但长期会导致痛苦后果，使人与自己和周围人失去连接；情绪压抑被定义为难以理解情绪、导致情绪更加强烈持续和问题化。两者均指向压抑情绪的负面后果，相互支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-03110ac761ba-c001:v2-n001",
+      "target": "s-03110ac761ba-c001:a013",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 暗示用道理压抑情绪导致失联，a013 明确表述压抑情绪导致与自身情绪失联，补充了因果结论。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a013",
+      "target": "s-03110ac761ba-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 暗示用道理压抑情绪导致失联，a013 明确表述压抑情绪导致与自身情绪失联，补充了因果结论。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:v2-n001",
+      "target": "s-03110ac761ba-c001:a015",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "a015 补充自身情绪失联会影响亲子情绪连接，扩展了失联的后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a015",
+      "target": "s-03110ac761ba-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "a015 补充自身情绪失联会影响亲子情绪连接，扩展了失联的后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:v2-n001",
+      "target": "s-03110ac761ba-c001:a014",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "a014 补充自身情绪失联导致与孩子情绪失联，具体化了失联影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a014",
+      "target": "s-03110ac761ba-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "a014 补充自身情绪失联导致与孩子情绪失联，具体化了失联影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:v2-n001",
+      "target": "s-03110ac761ba-c001:a001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 使用情绪失联概念但未定义，a001 提供了情绪失联的定义，补充了术语解释。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a001",
+      "target": "s-03110ac761ba-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 使用情绪失联概念但未定义，a001 提供了情绪失联的定义，补充了术语解释。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:v2-n001",
+      "target": "s-03110ac761ba-c001:a003",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 只提到压抑导致失联，a003 补充压抑情绪的长期后果，丰富了后果描述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a003",
+      "target": "s-03110ac761ba-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 只提到压抑导致失联，a003 补充压抑情绪的长期后果，丰富了后果描述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:v2-n001",
+      "target": "s-03110ac761ba-c001:a004",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 提到用道理压抑情绪，a004 提供了情绪压抑的定义，补充了概念界定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a004",
+      "target": "s-03110ac761ba-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source 提到用道理压抑情绪，a004 提供了情绪压抑的定义，补充了概念界定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:v2-n001",
+      "target": "s-03110ac761ba-c001:a010",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a010 是情绪压抑的迹象五（极端情绪波动），属于情绪压抑表现，与 source 无直接因果，但主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a010",
+      "target": "s-03110ac761ba-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a010 是情绪压抑的迹象五（极端情绪波动），属于情绪压抑表现，与 source 无直接因果，但主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:v2-n001",
+      "target": "s-03110ac761ba-c001:a002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a002 讲表层与深层情绪区别，source 未涉及，但与自我情绪连接主题相关，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a002",
+      "target": "s-03110ac761ba-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a002 讲表层与深层情绪区别，source 未涉及，但与自我情绪连接主题相关，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:v2-n001",
+      "target": "s-03110ac761ba-c001:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a005 列出情绪压抑的七个迹象，与 source 的压抑情绪主题相关，但 source 未列举迹象，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a005",
+      "target": "s-03110ac761ba-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a005 列出情绪压抑的七个迹象，与 source 的压抑情绪主题相关，但 source 未列举迹象，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:v2-n001",
+      "target": "s-03110ac761ba-c001:a012",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a012 是迹象七，具体表现，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a012",
+      "target": "s-03110ac761ba-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a012 是迹象七，具体表现，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:v2-n001",
+      "target": "s-03110ac761ba-c001:a006",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a006 是迹象一，具体表现，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a006",
+      "target": "s-03110ac761ba-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a006 是迹象一，具体表现，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:v2-n001",
+      "target": "s-03110ac761ba-c001:a008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a008 是迹象三，具体表现，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-03110ac761ba-c001:a008",
+      "target": "s-03110ac761ba-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a008 是迹象三，具体表现，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "自我认知",
+      "to": "界限",
+      "when": "当个体因自身情绪失联而无法清晰区分自己与孩子的情绪责任，导致亲子界限模糊时。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a014",
+        "s-03110ac761ba-c001:a015"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-03110ac761ba-c001:u001",
+      "kind": "claim",
+      "atom_ids": [
+        "s-03110ac761ba-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u002",
+      "kind": "definition",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a002"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a003"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a004"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u006",
+      "kind": "list",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a005"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u007",
+      "kind": "definition",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a006"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u008",
+      "kind": "definition",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a007"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u009",
+      "kind": "definition",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a008"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u010",
+      "kind": "definition",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a009"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u011",
+      "kind": "definition",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a010"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u012",
+      "kind": "definition",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a011"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u013",
+      "kind": "definition",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a012"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u014",
+      "kind": "causality",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a013"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u015",
+      "kind": "causality",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a014"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u016",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a015"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u017",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a016"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-03110ac761ba-c001:u018",
+      "kind": "case",
+      "atom_ids": [
+        "s-03110ac761ba-c001:a017"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "情绪比道理更重要，用道理压抑情绪导致失联",
+      "atom_ids": [
+        "s-03110ac761ba-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-03110ac761ba",
+          "blocks": [
+            "b00002"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "claim"
+    }
+  ]
+}

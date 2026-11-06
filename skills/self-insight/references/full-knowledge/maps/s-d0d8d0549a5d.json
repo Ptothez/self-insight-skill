@@ -1,0 +1,2064 @@
+{
+  "concepts": [
+    {
+      "name": "界限",
+      "definition": "在家庭关系和育儿中设定规则和边界，包括公共场合行为限制、睡眠界限、安全控制、与前夫立界限等。",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a001",
+        "s-d0d8d0549a5d-c001:a004",
+        "s-d0d8d0549a5d-c001:a005",
+        "s-d0d8d0549a5d-c001:a006",
+        "s-d0d8d0549a5d-c001:a012",
+        "s-d0d8d0549a5d-c001:a013",
+        "s-d0d8d0549a5d-c001:a014",
+        "s-d0d8d0549a5d-c002:a009",
+        "s-d0d8d0549a5d-c002:a013",
+        "s-d0d8d0549a5d-c002:a014",
+        "s-d0d8d0549a5d-c002:a015",
+        "s-d0d8d0549a5d-c002:a016",
+        "s-d0d8d0549a5d-c002:a017",
+        "s-d0d8d0549a5d-c002:a018",
+        "s-d0d8d0549a5d-c002:a020",
+        "s-d0d8d0549a5d-c003:a003",
+        "s-d0d8d0549a5d-c003:a004",
+        "s-d0d8d0549a5d-c003:a006",
+        "s-d0d8d0549a5d-c003:a007",
+        "s-d0d8d0549a5d-c003:a008",
+        "s-d0d8d0549a5d-c003:a009",
+        "s-d0d8d0549a5d-c003:a010",
+        "s-d0d8d0549a5d-c003:a011",
+        "s-d0d8d0549a5d-c003:a012",
+        "s-d0d8d0549a5d-c003:a013",
+        "s-d0d8d0549a5d-c003:a014"
+      ]
+    },
+    {
+      "name": "管教",
+      "definition": "包括管和教，管是制止不当行为，教是告诉孩子可以做什么、不可以做什么，并引导孩子关注行为后果而非父母情绪。",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a007",
+        "s-d0d8d0549a5d-c001:a008",
+        "s-d0d8d0549a5d-c001:a009",
+        "s-d0d8d0549a5d-c002:a013",
+        "s-d0d8d0549a5d-c002:a014",
+        "s-d0d8d0549a5d-c002:a015",
+        "s-d0d8d0549a5d-c002:a020"
+      ]
+    },
+    {
+      "name": "双赢",
+      "definition": "解决问题后双方都得到想要的；共赢是得到自己想要的。双赢的基础是让对方看到好处，将事情变成孩子自己的事情。",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a010",
+        "s-d0d8d0549a5d-c002:a016",
+        "s-d0d8d0549a5d-c002:a017"
+      ]
+    },
+    {
+      "name": "情绪表达",
+      "definition": "孩子生气是OK的，但在公共场合打扰别人时不OK；孩子发脾气说明情绪健康，父母应等待而非压制。",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a006",
+        "s-d0d8d0549a5d-c002:a019"
+      ]
+    },
+    {
+      "name": "睡眠训练",
+      "definition": "在孩子很小的时候帮助训练自主入睡，让孩子自己面对并克服睡眠问题，可能增强自主能力和睡眠质量。",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a002",
+        "s-d0d8d0549a5d-c001:a003",
+        "s-d0d8d0549a5d-c001:a004",
+        "s-d0d8d0549a5d-c001:a012",
+        "s-d0d8d0549a5d-c001:a013"
+      ]
+    },
+    {
+      "name": "公平分配",
+      "definition": "在没有其他前提的情况下，分配东西应一人一半；但若有特殊原因（如奖励），可以不平均分配。",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a009",
+        "s-d0d8d0549a5d-c002:a010"
+      ]
+    },
+    {
+      "name": "因材施教",
+      "definition": "父母对每个孩子的爱是一样的，但表达方式因孩子性格和需求而异，不能因方式不同而判断偏爱。",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a011",
+        "s-d0d8d0549a5d-c002:a012"
+      ]
+    },
+    {
+      "name": "产后抑郁",
+      "definition": "产后抑郁可能表现为感觉非常糟糕、缺乏动力、觉得生活不正常或不健康，慢性抑郁不易被注意到。",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a025",
+        "s-d0d8d0549a5d-c002:a026",
+        "s-d0d8d0549a5d-c003:a001",
+        "s-d0d8d0549a5d-c003:a002"
+      ]
+    },
+    {
+      "name": "兄弟姐妹冲突",
+      "definition": "兄弟姐妹打架时，父母不应阻止一方，如果必须阻止应阻止先动手的一方；危险物品需立即阻止。",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a009",
+        "s-d0d8d0549a5d-c003:a010",
+        "s-d0d8d0549a5d-c003:a011",
+        "s-d0d8d0549a5d-c003:a012",
+        "s-d0d8d0549a5d-c003:a013",
+        "s-d0d8d0549a5d-c003:a014"
+      ]
+    },
+    {
+      "name": "育儿体系",
+      "definition": "建议每节课都学，搭建自己的育儿体系，一层一层搭建，并将所学应用到生活中。",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a015",
+        "s-d0d8d0549a5d-c003:a016"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-d0d8d0549a5d-c001:a007",
+      "target": "s-d0d8d0549a5d-c001:a008",
+      "kind": "step_of",
+      "condition": "当孩子在公共场合撒野时",
+      "reason": "“管教中管与教的区别”包含公共场合处理步骤的简述，“公共场合孩子撒野的处理步骤”详细描述了这些步骤，是其中“教”的具体实施，构成步骤关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:a008",
+      "target": "s-d0d8d0549a5d-c001:a009",
+      "kind": "association",
+      "condition": "孩子乱发脾气且事先有约定",
+      "reason": "“公共场合孩子撒野的处理步骤”是原则，“开车一个半小时后因孩子发脾气返回的案例”是该原则的具体案例，两者相关，但原关系方向（原则示例案例）不成立，应为案例示例原则，故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向错误，已改为 association。"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:a012",
+      "target": "s-d0d8d0549a5d-c001:a013",
+      "kind": "contrasts",
+      "condition": "孩子不睡觉时",
+      "reason": "“处理孩子不睡觉的方法”主张锁门不干预，“睡觉问题上的讨价还价方法”允许讨价还价，两者提供两种对立的处理方法，形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:a014",
+      "target": "s-d0d8d0549a5d-c002:a001",
+      "kind": "supports",
+      "condition": "孩子当众指出他人错误时",
+      "reason": "“大女儿告状朋友孩子踢脏车座的案例”是具体案例，“处理孩子当众指出他人错误的方法”是总结的处理方法，案例支持该方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:a013",
+      "target": "s-d0d8d0549a5d-c002:a014",
+      "kind": "supports",
+      "condition": "管教孩子时",
+      "reason": "a013 指出情绪反应过大会让孩子关注父母情绪，a014 给出控制情绪并引导关注后果的具体方法。"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:a016",
+      "target": "s-d0d8d0549a5d-c002:a017",
+      "kind": "supports",
+      "condition": "涉及安全问题时",
+      "reason": "“双赢的基础：让孩子看到好处”是一般原则，支持“安全问题的控制与双赢”中利用该原则实现双赢的具体做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不在允许类型内，改为 supports。"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:a018",
+      "target": "s-d0d8d0549a5d-c002:a016",
+      "kind": "supports",
+      "condition": "孩子不承认问题时",
+      "reason": "a018 建议让孩子自己看到问题而非指责，a016 提出通过开放性问题让孩子思考后果，两者方法一致。"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a009",
+      "target": "s-d0d8d0549a5d-c003:a010",
+      "kind": "association",
+      "condition": "兄弟姐妹打架时",
+      "reason": "“12岁姐姐与6岁弟弟打架事件”是具体案例，“处理兄弟姐妹打架的建议”是针对该案例的解决方案，两者关联，但案例本身不能支持建议的正确性，故为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 不准确，改为 association。"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a010",
+      "target": "s-d0d8d0549a5d-c003:a011",
+      "kind": "contrasts",
+      "condition": "使用危险物品时",
+      "reason": "“处理兄弟姐妹打架的建议”主张不阻止一方，而“危险物品时需立即阻止”指出在危险物品情况下必须立即阻止，两者形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 exception 改为 contrasts。"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a012",
+      "target": "s-d0d8d0549a5d-c003:a010",
+      "kind": "supports",
+      "condition": "父母不管时",
+      "reason": "“父母不管时孩子打架更收敛”支持“处理兄弟姐妹打架的建议”中不阻止一方的建议。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a013",
+      "target": "s-d0d8d0549a5d-c003:a010",
+      "kind": "supports",
+      "condition": "",
+      "reason": "讲师质问妈妈为何阻止姐姐而非弟弟，支持应阻止先动手的弟弟而非姐姐的处理建议。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a014",
+      "target": "s-d0d8d0549a5d-c003:a010",
+      "kind": "supports",
+      "condition": "",
+      "reason": "如果妈妈继续错误对待姐姐，女儿可能将来恨妈妈、骂妈妈、打妈妈，这一警告支持应正确对待姐姐、阻止先动手的弟弟而非姐姐的处理建议。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为causes，修订为supports"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:v2-n001",
+      "target": "s-d0d8d0549a5d-c003:a015",
+      "kind": "complements",
+      "condition": "适用于所有有意系统学习育儿的家长",
+      "reason": "source 建议搭建完整育儿体系而非只听单课，a015 补充了具体做法：每节课都学、一层一层搭建体系，提供了操作步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a015",
+      "target": "s-d0d8d0549a5d-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于所有有意系统学习育儿的家长",
+      "reason": "source 建议搭建完整育儿体系而非只听单课，a015 补充了具体做法：每节课都学、一层一层搭建体系，提供了操作步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:v2-n001",
+      "target": "s-d0d8d0549a5d-c001:a006",
+      "kind": "complements",
+      "condition": "适用于处理孩子情绪表达时需区分场合的家长",
+      "reason": "source 举例“孩子生气是OK的，但在公共场合打扰他人时不OK”，a006 详细展开了公共场合与家中情绪表达的界限，补充了具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:a006",
+      "target": "s-d0d8d0549a5d-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于处理孩子情绪表达时需区分场合的家长",
+      "reason": "source 举例“孩子生气是OK的，但在公共场合打扰他人时不OK”，a006 详细展开了公共场合与家中情绪表达的界限，补充了具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:v2-n001",
+      "target": "s-d0d8d0549a5d-c001:a008",
+      "kind": "complements",
+      "condition": "适用于孩子在公共场合撒野时的处理",
+      "reason": "source 提到未设立场合界限，a008 给出了公共场合孩子撒野的具体处理步骤，补充了行动方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:a008",
+      "target": "s-d0d8d0549a5d-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于孩子在公共场合撒野时的处理",
+      "reason": "source 提到未设立场合界限，a008 给出了公共场合孩子撒野的具体处理步骤，补充了行动方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:v2-n001",
+      "target": "s-d0d8d0549a5d-c001:a007",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a007 讲管教中管与教的区别，属于育儿体系内容，但 source 未直接涉及该点，仅主题相关，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:a007",
+      "target": "s-d0d8d0549a5d-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a007 讲管教中管与教的区别，属于育儿体系内容，但 source 未直接涉及该点，仅主题相关，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:v2-n001",
+      "target": "s-d0d8d0549a5d-c001:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a005 是父亲沉迷游戏不陪伴孩子的案例，讲师建议系统学习立界限，与 source 的完整体系建议有呼应，但案例核心不是论证体系，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:a005",
+      "target": "s-d0d8d0549a5d-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a005 是父亲沉迷游戏不陪伴孩子的案例，讲师建议系统学习立界限，与 source 的完整体系建议有呼应，但案例核心不是论证体系，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:v2-n001",
+      "target": "s-d0d8d0549a5d-c003:a006",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a006 是离婚后前夫依赖建议，与 source 无直接关系，虽涉及界限但属于特定情境，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a006",
+      "target": "s-d0d8d0549a5d-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a006 是离婚后前夫依赖建议，与 source 无直接关系，虽涉及界限但属于特定情境，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:v2-n001",
+      "target": "s-d0d8d0549a5d-c003:r001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "r001 内容与 a006 类似，与 source 无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:r001",
+      "target": "s-d0d8d0549a5d-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "r001 内容与 a006 类似，与 source 无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:v2-n001",
+      "target": "s-d0d8d0549a5d-c002:a023",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a023 是孩子自杀事件案例，与 source 的体系建议无直接关联，仅同属育儿话题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:a023",
+      "target": "s-d0d8d0549a5d-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a023 是孩子自杀事件案例，与 source 的体系建议无直接关联，仅同属育儿话题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:v2-n001",
+      "target": "s-d0d8d0549a5d-c001:a009",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a009 是开车回家案例，展示执行界限需付代价，与 source 的体系观念有间接联系，但不是 source 的直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:a009",
+      "target": "s-d0d8d0549a5d-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a009 是开车回家案例，展示执行界限需付代价，与 source 的体系观念有间接联系，但不是 source 的直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:v2-n001",
+      "target": "s-d0d8d0549a5d-c003:a010",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a010 是处理兄弟姐妹打架建议，属于界限处理，与 source 无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a010",
+      "target": "s-d0d8d0549a5d-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a010 是处理兄弟姐妹打架建议，属于界限处理，与 source 无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:v2-n001",
+      "target": "s-d0d8d0549a5d-c001:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a004 是处理夜醒的方法，属于界限主题，与 source 无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:a004",
+      "target": "s-d0d8d0549a5d-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a004 是处理夜醒的方法，属于界限主题，与 source 无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:v2-n001",
+      "target": "s-d0d8d0549a5d-c002:a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a001 是处理孩子当众指出他人错误的方法，属于界限沟通，与 source 无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:a001",
+      "target": "s-d0d8d0549a5d-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a001 是处理孩子当众指出他人错误的方法，属于界限沟通，与 source 无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n001",
+      "target": "s-d0d8d0549a5d-c003:a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a001 重复了产后抑郁的可能表现，与 source 内容高度重叠，未提供实质补充，仅主题一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a001",
+      "target": "s-d0d8d0549a5d-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a001 重复了产后抑郁的可能表现，与 source 内容高度重叠，未提供实质补充，仅主题一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n001",
+      "target": "s-d0d8d0549a5d-c002:a026",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a026 强调慢性抑郁不易被注意，source 已提及该点，内容重复，无实质补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:a026",
+      "target": "s-d0d8d0549a5d-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a026 强调慢性抑郁不易被注意，source 已提及该点，内容重复，无实质补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n001",
+      "target": "s-d0d8d0549a5d-c002:a025",
+      "kind": "complements",
+      "condition": "适用于妈妈感到糟糕、想躺平时",
+      "reason": "source 建议考虑产后抑郁，a025 补充了具体识别步骤（检查抑郁、从交朋友开始），提供了行动建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:a025",
+      "target": "s-d0d8d0549a5d-c002:v2-n001",
+      "kind": "complements",
+      "condition": "适用于妈妈感到糟糕、想躺平时",
+      "reason": "source 建议考虑产后抑郁，a025 补充了具体识别步骤（检查抑郁、从交朋友开始），提供了行动建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n001",
+      "target": "s-d0d8d0549a5d-c003:a002",
+      "kind": "complements",
+      "condition": "适用于感到糟糕、孤单、缺乏动力的产后妈妈",
+      "reason": "source 描述了抑郁表现，a002 补充了具体应对建议（交朋友、社交、心理辅导），补了行动方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a002",
+      "target": "s-d0d8d0549a5d-c002:v2-n001",
+      "kind": "complements",
+      "condition": "适用于感到糟糕、孤单、缺乏动力的产后妈妈",
+      "reason": "source 描述了抑郁表现，a002 补充了具体应对建议（交朋友、社交、心理辅导），补了行动方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n001",
+      "target": "s-d0d8d0549a5d-c002:a021",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a021 讲运动不足影响心理健康，与产后抑郁主题相关但非同一话题，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:a021",
+      "target": "s-d0d8d0549a5d-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a021 讲运动不足影响心理健康，与产后抑郁主题相关但非同一话题，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n001",
+      "target": "s-d0d8d0549a5d-c002:a019",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a019 讲孩子情绪表达健康，与产后抑郁无直接关系，仅同属情绪主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:a019",
+      "target": "s-d0d8d0549a5d-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a019 讲孩子情绪表达健康，与产后抑郁无直接关系，仅同属情绪主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n001",
+      "target": "s-d0d8d0549a5d-c003:a010",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a010 是处理兄弟姐妹打架建议，与产后抑郁无直接关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a010",
+      "target": "s-d0d8d0549a5d-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a010 是处理兄弟姐妹打架建议，与产后抑郁无直接关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n001",
+      "target": "s-d0d8d0549a5d-c001:a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a001 是戒除吃被角习惯的方法，与产后抑郁无直接关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:a001",
+      "target": "s-d0d8d0549a5d-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a001 是戒除吃被角习惯的方法，与产后抑郁无直接关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n001",
+      "target": "s-d0d8d0549a5d-c002:a024",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a024 讲孩子脆弱与社会进步，与产后抑郁无直接关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:a024",
+      "target": "s-d0d8d0549a5d-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a024 讲孩子脆弱与社会进步，与产后抑郁无直接关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n001",
+      "target": "s-d0d8d0549a5d-c002:v2-n002",
+      "kind": "complements",
+      "condition": "适用于感到孤单、逼自己学习的妈妈",
+      "reason": "source 描述了产后抑郁表现，v2-n002 补充了社交支持建议（交朋友、与妈妈社交），是具体行动方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n002",
+      "target": "s-d0d8d0549a5d-c002:v2-n001",
+      "kind": "complements",
+      "condition": "适用于感到孤单、逼自己学习的妈妈",
+      "reason": "source 描述了产后抑郁表现，v2-n002 补充了社交支持建议（交朋友、与妈妈社交），是具体行动方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n001",
+      "target": "s-d0d8d0549a5d-c003:a008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a008 是前夫搬走前妈妈应注意的原则，与产后抑郁无直接关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a008",
+      "target": "s-d0d8d0549a5d-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a008 是前夫搬走前妈妈应注意的原则，与产后抑郁无直接关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n001",
+      "target": "s-d0d8d0549a5d-c003:a007",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a007 是对妈妈处理事件的评价，与产后抑郁无直接关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a007",
+      "target": "s-d0d8d0549a5d-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a007 是对妈妈处理事件的评价，与产后抑郁无直接关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n002",
+      "target": "s-d0d8d0549a5d-c003:a002",
+      "kind": "complements",
+      "condition": "适用于感到糟糕、孤单、缺乏动力的产后妈妈",
+      "reason": "source 建议先交朋友、社交，a002 补充了心理辅导评估等额外内容，扩展了建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a002",
+      "target": "s-d0d8d0549a5d-c002:v2-n002",
+      "kind": "complements",
+      "condition": "适用于感到糟糕、孤单、缺乏动力的产后妈妈",
+      "reason": "source 建议先交朋友、社交，a002 补充了心理辅导评估等额外内容，扩展了建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n002",
+      "target": "s-d0d8d0549a5d-c002:a025",
+      "kind": "complements",
+      "condition": "适用于妈妈感到糟糕、想躺平时",
+      "reason": "source 建议社交支持，a025 补充了识别产后抑郁的建议（检查抑郁），增加了行动前评估。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:a025",
+      "target": "s-d0d8d0549a5d-c002:v2-n002",
+      "kind": "complements",
+      "condition": "适用于妈妈感到糟糕、想躺平时",
+      "reason": "source 建议社交支持，a025 补充了识别产后抑郁的建议（检查抑郁），增加了行动前评估。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n002",
+      "target": "s-d0d8d0549a5d-c003:a015",
+      "kind": "association",
+      "condition": "条件不同：source 针对感到孤单、可能抑郁的妈妈，a015 面向一般家长",
+      "reason": "source 建议不要逼自己学习，而 a015 建议每节课都学搭建体系，两者针对对象不同可能不冲突，但缺乏直接承接，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a015",
+      "target": "s-d0d8d0549a5d-c002:v2-n002",
+      "kind": "association",
+      "condition": "条件不同：source 针对感到孤单、可能抑郁的妈妈，a015 面向一般家长",
+      "reason": "source 建议不要逼自己学习，而 a015 建议每节课都学搭建体系，两者针对对象不同可能不冲突，但缺乏直接承接，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n002",
+      "target": "s-d0d8d0549a5d-c003:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a005 是孩子情绪低落案例，与社交支持建议无直接关系，仅同属育儿问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a005",
+      "target": "s-d0d8d0549a5d-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a005 是孩子情绪低落案例，与社交支持建议无直接关系，仅同属育儿问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n002",
+      "target": "s-d0d8d0549a5d-c001:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a003 讲奶嘴与吃手，与社交支持无直接关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:a003",
+      "target": "s-d0d8d0549a5d-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a003 讲奶嘴与吃手，与社交支持无直接关系，主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n002",
+      "target": "s-d0d8d0549a5d-c003:a010",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a010 讲兄弟姐妹打架，与社交支持无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a010",
+      "target": "s-d0d8d0549a5d-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a010 讲兄弟姐妹打架，与社交支持无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n002",
+      "target": "s-d0d8d0549a5d-c003:r001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "r001 是处理顶撞事件的建议，与社交支持无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:r001",
+      "target": "s-d0d8d0549a5d-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "r001 是处理顶撞事件的建议，与社交支持无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n002",
+      "target": "s-d0d8d0549a5d-c001:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a004 讲夜醒处理，与社交支持无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:a004",
+      "target": "s-d0d8d0549a5d-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a004 讲夜醒处理，与社交支持无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n002",
+      "target": "s-d0d8d0549a5d-c001:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a005 是父亲沉迷游戏案例，涉及系统学习，与社交支持无直接关系，仅学习主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:a005",
+      "target": "s-d0d8d0549a5d-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a005 是父亲沉迷游戏案例，涉及系统学习，与社交支持无直接关系，仅学习主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n002",
+      "target": "s-d0d8d0549a5d-c002:a027",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a027 是二胎家庭忽略老大案例，与社交支持无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:a027",
+      "target": "s-d0d8d0549a5d-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a027 是二胎家庭忽略老大案例，与社交支持无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n002",
+      "target": "s-d0d8d0549a5d-c003:a006",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a006 是离婚后前夫依赖建议，与社交支持无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c003:a006",
+      "target": "s-d0d8d0549a5d-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a006 是离婚后前夫依赖建议，与社交支持无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c002:v2-n002",
+      "target": "s-d0d8d0549a5d-c001:a014",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a014 是大女儿告状案例，与社交支持无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d0d8d0549a5d-c001:a014",
+      "target": "s-d0d8d0549a5d-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a014 是大女儿告状案例，与社交支持无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "处理公共场合撒野时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a006",
+        "s-d0d8d0549a5d-c001:a007",
+        "s-d0d8d0549a5d-c001:a008",
+        "s-d0d8d0549a5d-c001:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "涉及父母情绪控制和双赢时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a013",
+        "s-d0d8d0549a5d-c002:a014",
+        "s-d0d8d0549a5d-c002:a015",
+        "s-d0d8d0549a5d-c002:a016",
+        "s-d0d8d0549a5d-c002:a017",
+        "s-d0d8d0549a5d-c002:a018"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "讨论孩子情绪表达和心理健康时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a019",
+        "s-d0d8d0549a5d-c002:a021",
+        "s-d0d8d0549a5d-c003:a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a008"
+      ],
+      "reason": "内容完全相同，都是处理公共场合撒野的步骤。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a012"
+      ],
+      "reason": "内容完全相同，都是处理孩子不睡觉的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a013"
+      ],
+      "reason": "内容完全相同，都是睡觉问题上的讨价还价方法。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a014"
+      ],
+      "reason": "内容完全相同，都是大女儿告状朋友孩子踢脏车座的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a001"
+      ],
+      "reason": "内容完全相同，都是处理孩子当众指出他人错误的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a002"
+      ],
+      "reason": "内容完全相同，都是让孩子练习改进社交表达。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a003"
+      ],
+      "reason": "内容完全相同，都是父母无法避免伤害孩子。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a004"
+      ],
+      "reason": "内容完全相同，都是讲师母亲的教育方式与讲师的心理辅导经历。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a005"
+      ],
+      "reason": "内容完全相同，都是不同年代孩子的需求层次差异。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a006"
+      ],
+      "reason": "内容完全相同，都是群体游戏对儿童心理的治疗作用。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a007"
+      ],
+      "reason": "内容完全相同，都是糖分和垃圾食品对大脑的影响。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a008"
+      ],
+      "reason": "内容完全相同，都是控制孩子糖分摄入的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a009"
+      ],
+      "reason": "内容完全相同，都是公平分配的原则。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a010"
+      ],
+      "reason": "内容完全相同，都是兄弟因糖果分配产生误会。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a011"
+      ],
+      "reason": "内容完全相同，都是爱的方式因材施教，但爱本身相同。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a012"
+      ],
+      "reason": "内容完全相同，都是母亲对两个孩子的不同回应方式。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a013"
+      ],
+      "reason": "内容完全相同，都是管教中情绪状态影响孩子关注点。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a014"
+      ],
+      "reason": "内容完全相同，都是管教时控制情绪并引导关注后果。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a015"
+      ],
+      "reason": "内容完全相同，都是讲师处理孩子撒谎的情绪控制。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a016"
+      ],
+      "reason": "内容完全相同，都是双赢的基础：让孩子看到好处。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a017"
+      ],
+      "reason": "内容完全相同，都是安全问题的控制与双赢。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a018"
+      ],
+      "reason": "内容完全相同，都是让孩子自己看到问题而非指责。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a019"
+      ],
+      "reason": "内容完全相同，都是孩子情绪表达是健康的表现。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a020"
+      ],
+      "reason": "内容完全相同，都是管教时让孩子关注行为后果而非父母情绪。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a021"
+      ],
+      "reason": "内容完全相同，都是运动不足和多巴胺分泌不够影响心理健康。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a022"
+      ],
+      "reason": "内容完全相同，都是网络发达导致心理问题报道增多。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a023"
+      ],
+      "reason": "内容完全相同，都是过去孩子自杀事件被遮掩的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a024"
+      ],
+      "reason": "内容完全相同，都是孩子脆弱是社会进步的表现。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a025"
+      ],
+      "reason": "内容完全相同，都是产后抑郁的识别与建议。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a026"
+      ],
+      "reason": "内容完全相同，都是慢性抑郁不易被注意。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a027"
+      ],
+      "reason": "内容完全相同，都是二胎家庭中母亲对老大的忽略与情感困惑。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a006",
+        "s-d0d8d0549a5d-c003:r001"
+      ],
+      "reason": "内容完全相同，都是处理离婚后前夫依赖和孩子问题的建议。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a008"
+      ],
+      "reason": "内容完全相同，都是前夫搬走前妈妈应注意的原则。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a010"
+      ],
+      "reason": "内容完全相同，都是处理兄弟姐妹打架的建议。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a011"
+      ],
+      "reason": "内容完全相同，都是危险物品时需立即阻止。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a012"
+      ],
+      "reason": "内容完全相同，都是父母不管时孩子打架更收敛。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a013"
+      ],
+      "reason": "内容完全相同，都是质问为何阻止姐姐而非弟弟。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a014"
+      ],
+      "reason": "内容完全相同，都是警告女儿可能因愤怒而打妈妈。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a015"
+      ],
+      "reason": "内容完全相同，都是搭建育儿体系的学习建议。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a016"
+      ],
+      "reason": "内容完全相同，都是将所学应用到生活中。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a012",
+        "s-d0d8d0549a5d-c001:a013"
+      ],
+      "description": "a012 建议锁门不干预，a013 允许讨价还价，两种方法可能冲突，未明确适用条件。",
+      "needed_evidence": "需要明确在什么情况下使用哪种方法，以及是否可以根据孩子年龄或情况选择。"
+    },
+    {
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a010",
+        "s-d0d8d0549a5d-c003:a011"
+      ],
+      "description": "a010 建议不阻止一方，但 a011 指出危险物品必须立即阻止，两者存在例外关系，但未明确非危险物品的界限。",
+      "needed_evidence": "需要明确哪些物品属于危险物品，以及如何判断伤害风险。"
+    }
+  ],
+  "path": [
+    {
+      "name": "处理公共场合孩子撒野",
+      "steps": [
+        {
+          "action": "制止孩子撒野",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c001:a008"
+          ],
+          "condition": "孩子在公共场合撒野"
+        },
+        {
+          "action": "好好说",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c001:a008"
+          ],
+          "condition": "孩子继续撒野"
+        },
+        {
+          "action": "如果不行，立刻带孩子离开",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c001:a008"
+          ],
+          "condition": "好好说无效"
+        },
+        {
+          "action": "把孩子拉起来往家里走，不要把孩子一个人扔下",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c001:a008"
+          ],
+          "condition": "决定离开"
+        }
+      ]
+    },
+    {
+      "name": "处理孩子不睡觉",
+      "steps": [
+        {
+          "action": "关掉所有灯，移除房间内玩具等物品，只留床",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c001:a012"
+          ],
+          "condition": "孩子不睡觉"
+        },
+        {
+          "action": "告诉孩子要么自己上床，要么被锁在房间",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c001:a012"
+          ],
+          "condition": "环境准备后"
+        },
+        {
+          "action": "如果孩子撒野，锁门不干预",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c001:a012"
+          ],
+          "condition": "孩子撒野"
+        },
+        {
+          "action": "让孩子自己选择睡床上或地上，重复多次",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c001:a012"
+          ],
+          "condition": "孩子哭闹后"
+        }
+      ]
+    },
+    {
+      "name": "睡觉问题上的讨价还价",
+      "steps": [
+        {
+          "action": "允许孩子提出额外时间请求",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c001:a013"
+          ],
+          "condition": "孩子不睡觉，提出额外时间请求"
+        },
+        {
+          "action": "与孩子协商具体时间",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c001:a013"
+          ],
+          "condition": "孩子提出请求后"
+        },
+        {
+          "action": "要求孩子承诺时间到后必须睡觉",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c001:a013"
+          ],
+          "condition": "协商一致后"
+        },
+        {
+          "action": "如果孩子不遵守，取消以后的讨价还价机会",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c001:a013"
+          ],
+          "condition": "孩子不遵守承诺"
+        }
+      ]
+    },
+    {
+      "name": "处理孩子当众指出他人错误",
+      "steps": [
+        {
+          "action": "直接制止对方的不当行为，语气和善，说明原因",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c002:a001"
+          ],
+          "condition": "孩子当众指出他人错误，导致场面尴尬"
+        },
+        {
+          "action": "邀请对方一起清理或弥补，示范一致标准",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c002:a001"
+          ],
+          "condition": "制止后"
+        },
+        {
+          "action": "私下肯定孩子道理正确，指出方式不当和结果尴尬",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c002:a001"
+          ],
+          "condition": "事后私下"
+        },
+        {
+          "action": "引导孩子思考下次如何改进，给予练习机会",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c002:a001"
+          ],
+          "condition": "指出问题后"
+        }
+      ]
+    },
+    {
+      "name": "管教时控制情绪并引导关注后果",
+      "steps": [
+        {
+          "action": "允许自己生气，但控制行为",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c002:a014"
+          ],
+          "condition": "管教孩子时"
+        },
+        {
+          "action": "避免情绪爆发",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c002:a014"
+          ],
+          "condition": "生气时"
+        },
+        {
+          "action": "引导孩子关注行为后果",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c002:a014"
+          ],
+          "condition": "控制情绪后"
+        }
+      ]
+    },
+    {
+      "name": "处理兄弟姐妹打架",
+      "steps": [
+        {
+          "action": "不阻止一方",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c003:a010"
+          ],
+          "condition": "兄弟姐妹打架且无严重伤害风险时"
+        },
+        {
+          "action": "如果必须阻止，阻止先动手的弟弟",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c003:a010"
+          ],
+          "condition": "必须阻止时"
+        },
+        {
+          "action": "坚定地告诉弟弟活该被打",
+          "atom_ids": [
+            "s-d0d8d0549a5d-c003:a010"
+          ],
+          "condition": "阻止弟弟后"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-d0d8d0549a5d-c001:u0001",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c001:u0002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a002"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c001:u0003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a003"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c001:u0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a004"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c001:u0005",
+      "kind": "case",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a005"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c001:u0006",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a006"
+      ],
+      "blocks": [
+        "b00015",
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c001:u0007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a007"
+      ],
+      "blocks": [
+        "b00015",
+        "b00019",
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c001:u0008",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a008"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c001:u0009",
+      "kind": "case",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a009"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c001:u0010",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a010"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c001:u0011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a011"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c001:u0012",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a012"
+      ],
+      "blocks": [
+        "b00034",
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c001:u0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a013"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036",
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c001:u0014",
+      "kind": "case",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a014"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u1",
+      "kind": "case",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:a014"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u2",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a001"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044",
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u3",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a002"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u4",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a003"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u5",
+      "kind": "case",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a004"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049",
+        "b00050",
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u6",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a005"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u7",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a006"
+      ],
+      "blocks": [
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u8",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a007"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u9",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a008"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u10",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a009"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u11",
+      "kind": "case",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a010"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u12",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a011"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067",
+        "b00068",
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u13",
+      "kind": "case",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a012"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u14",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a013"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u15",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a014"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u16",
+      "kind": "case",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a015"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u17",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a016"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u18",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a017"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u19",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a018"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u20",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a019"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u21",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a020"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u22",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a021"
+      ],
+      "blocks": [
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u23",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a022"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u24",
+      "kind": "case",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a023"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u25",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a024"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u26",
+      "kind": "case",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a027"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u27",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c002:u28",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:a025",
+        "s-d0d8d0549a5d-c002:a026",
+        "s-d0d8d0549a5d-c003:a001"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a002"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a003"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u004",
+      "kind": "question",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a004"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a005"
+      ],
+      "blocks": [
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a006",
+        "s-d0d8d0549a5d-c003:r001"
+      ],
+      "blocks": [
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u007",
+      "kind": "judgment",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a007"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a008"
+      ],
+      "blocks": [
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a009"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a010"
+      ],
+      "blocks": [
+        "b00091",
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u011",
+      "kind": "condition",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a011"
+      ],
+      "blocks": [
+        "b00093",
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a012"
+      ],
+      "blocks": [
+        "b00094",
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u013",
+      "kind": "question",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a013"
+      ],
+      "blocks": [
+        "b00095",
+        "b00096"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u014",
+      "kind": "warning",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a014"
+      ],
+      "blocks": [
+        "b00096",
+        "b00097"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a015"
+      ],
+      "blocks": [
+        "b00097",
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-d0d8d0549a5d-c003:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c003:a016"
+      ],
+      "blocks": [
+        "b00100"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "构建完整育儿体系而非只听单课",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-d0d8d0549a5d",
+          "blocks": [
+            "b00016",
+            "b00017"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "产后抑郁与慢性抑郁的表现",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-d0d8d0549a5d",
+          "blocks": [
+            "b00083",
+            "b00084"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "symptom"
+    },
+    {
+      "title": "社交支持建议",
+      "atom_ids": [
+        "s-d0d8d0549a5d-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-d0d8d0549a5d",
+          "blocks": [
+            "b00084"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "advice"
+    }
+  ]
+}

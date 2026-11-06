@@ -1,0 +1,1806 @@
+{
+  "concepts": [
+    {
+      "name": "界限与自由",
+      "definition": "孩子的自由是相对的，父母有权管理并设立界限，不能给予绝对民主。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a001",
+        "s-e3d6d2fe9ec5-c001:a002",
+        "s-e3d6d2fe9ec5-c001:a003",
+        "s-e3d6d2fe9ec5-c001:a005",
+        "s-e3d6d2fe9ec5-c001:a012",
+        "s-e3d6d2fe9ec5-c001:r004",
+        "s-e3d6d2fe9ec5-c001:r005",
+        "s-e3d6d2fe9ec5-c002:a003",
+        "s-e3d6d2fe9ec5-c002:a004",
+        "s-e3d6d2fe9ec5-c002:a005",
+        "s-e3d6d2fe9ec5-c003:a007"
+      ]
+    },
+    {
+      "name": "所有权与尊重",
+      "definition": "物品归属决定使用权限：父母买的物品父母可自由使用，孩子自己挣钱买的物品父母需询问，体现尊重。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a004",
+        "s-e3d6d2fe9ec5-c001:a032",
+        "s-e3d6d2fe9ec5-c001:a021"
+      ]
+    },
+    {
+      "name": "权威型父母",
+      "definition": "既给孩子力量又进行管教，避免放纵。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a007"
+      ]
+    },
+    {
+      "name": "自我价值与喜欢自己",
+      "definition": "不喜欢自己的人会自卑或自大，意识到自己宝贵的前提是喜欢自己。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a008",
+        "s-e3d6d2fe9ec5-c001:a009",
+        "s-e3d6d2fe9ec5-c001:r003"
+      ]
+    },
+    {
+      "name": "父母作为力量源泉",
+      "definition": "父母需建立关键品格，成为力量的源泉，才能给孩子赋能。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a010",
+        "s-e3d6d2fe9ec5-c001:a011"
+      ]
+    },
+    {
+      "name": "情绪连接与界限结合",
+      "definition": "情绪连接需与界限结合，否则孩子会认为闹情绪就能被安抚。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a014",
+        "s-e3d6d2fe9ec5-c002:a010",
+        "s-e3d6d2fe9ec5-c002:a011",
+        "s-e3d6d2fe9ec5-c002:a012",
+        "s-e3d6d2fe9ec5-c002:a015",
+        "s-e3d6d2fe9ec5-c002:a019",
+        "s-e3d6d2fe9ec5-c003:a001"
+      ]
+    },
+    {
+      "name": "后果教育",
+      "definition": "通过给予后果让孩子承担责任，如不洗澡就不洗衣服。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a019",
+        "s-e3d6d2fe9ec5-c001:a020",
+        "s-e3d6d2fe9ec5-c001:a022"
+      ]
+    },
+    {
+      "name": "父母自我生活",
+      "definition": "父母应有自己的朋友和世界，不把孩子作为全部生活中心。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a016",
+        "s-e3d6d2fe9ec5-c001:a017"
+      ]
+    },
+    {
+      "name": "社交能力与道德",
+      "definition": "真正的社交能力包括与道德不好的人交往并发挥正面影响，道德应成为吸引朋友的光。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a003",
+        "s-e3d6d2fe9ec5-c003:a004",
+        "s-e3d6d2fe9ec5-c003:a006",
+        "s-e3d6d2fe9ec5-c003:r001"
+      ]
+    },
+    {
+      "name": "责任与选择",
+      "definition": "孩子需为自己的选择承担责任，不能推卸给家长。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a010",
+        "s-e3d6d2fe9ec5-c003:a011"
+      ]
+    },
+    {
+      "name": "成绩与价值感",
+      "definition": "家长对成绩的异常兴奋会传递在意成绩的信息，应淡化成绩，重视努力。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a012",
+        "s-e3d6d2fe9ec5-c003:a013"
+      ]
+    },
+    {
+      "name": "家庭氛围与孩子情绪",
+      "definition": "孩子消极悲观可能源于家庭氛围消极悲观，家长应活出积极状态影响孩子。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a014",
+        "s-e3d6d2fe9ec5-c003:a015"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a001",
+      "target": "s-e3d6d2fe9ec5-c001:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "孩子的钱可自由支配但父母有权管理吃多吃少，说明自由是相对的，父母仍需管教。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a002",
+      "target": "s-e3d6d2fe9ec5-c001:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "相对自由意味着父母仍需管教，因此父母要有胆量拒绝孩子，不能给予绝对民主。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a003",
+      "target": "s-e3d6d2fe9ec5-c001:a005",
+      "kind": "causes",
+      "condition": null,
+      "reason": "如果父母给孩子过多力量（绝对民主），孩子会变成自私的人。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a004",
+      "target": "s-e3d6d2fe9ec5-c001:a032",
+      "kind": "supports",
+      "condition": null,
+      "reason": "酸奶是父母买的，父母不需要问孩子就可以吃，并理直气壮地说明。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a010",
+      "target": "s-e3d6d2fe9ec5-c001:a011",
+      "kind": "prerequisite",
+      "condition": "",
+      "reason": "“给孩子力量的前提是父母是力量源泉”以“父母必须建立关键品格才能成为力量源泉”为前提。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a012",
+      "target": "s-e3d6d2fe9ec5-c001:r005",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都强调力量必须在界限中建立，否则孩子会变成怪物。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a013",
+      "target": "s-e3d6d2fe9ec5-c001:a014",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "两个孩子同时有情绪的处理案例说明情绪连接与界限需结合。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a019",
+      "target": "s-e3d6d2fe9ec5-c001:a022",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "孩子不洗澡不刷牙的处理需要给后果，具体后果是不给洗衣服，是“不洗澡的后果：没有干净衣服换”的一个例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a021",
+      "target": "s-e3d6d2fe9ec5-c001:a001",
+      "kind": "applies_to",
+      "condition": "压岁钱不属于孩子自己挣的钱",
+      "reason": "压岁钱父母应直接收走，因为孩子自己挣的钱才可自由支配。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a023",
+      "target": "s-e3d6d2fe9ec5-c001:r007",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都强调教导孩子礼貌，并教孩子用更温和的方法请奶奶出去。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a024",
+      "target": "s-e3d6d2fe9ec5-c001:a025",
+      "kind": "contrasts",
+      "condition": "",
+      "reason": "频繁要求抱抱可能只是爱的语言，与用抱抱威胁时父母绝不妥协形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a025",
+      "target": "s-e3d6d2fe9ec5-c001:a026",
+      "kind": "step_of",
+      "condition": "",
+      "reason": "“不向威胁妥协”是“教孩子健康提要求”的前置步骤，先不妥协再教健康方式。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a027",
+      "target": "s-e3d6d2fe9ec5-c001:r010",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都建议不要把所有时间花在哥哥身上，并给妹妹选择。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a028",
+      "target": "s-e3d6d2fe9ec5-c001:a029",
+      "kind": "prerequisite",
+      "condition": null,
+      "reason": "如果孩子在家能独立完成作业，就可以不去辅导老师，避免传递错误信息。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a030",
+      "target": "s-e3d6d2fe9ec5-c002:a001",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“辅导老师的工作性质”与“老师的工作职责与家长的选择权”均强调老师是让孩子完成作业而非绝对权威，家长不应指责老师，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a031",
+      "target": "s-e3d6d2fe9ec5-c001:a001",
+      "kind": "applies_to",
+      "condition": "物品使用受法律限制",
+      "reason": "即使自己的钱买的刀，也只能用于合法用途，说明自由有界限。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:r003",
+      "target": "s-e3d6d2fe9ec5-c001:a009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "解决自卑需要建立完整自我意识，核心是喜欢自己，与意识到自己宝贵的前提一致。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:r004",
+      "target": "s-e3d6d2fe9ec5-c001:a012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "给孩子力量需按年龄给予，且必须在界限中建立。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a002",
+      "target": "s-e3d6d2fe9ec5-c002:a020",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都强调家长理直气壮提要求会让孩子尊重家长。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a003",
+      "target": "s-e3d6d2fe9ec5-c002:a004",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "增加界限孩子会反抗，但界限立得好，三到四个月可掰回来。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a005",
+      "target": "s-e3d6d2fe9ec5-c002:a003",
+      "kind": "supports",
+      "condition": "",
+      "reason": "家长在界限冲突中稳住定力是应对孩子激烈反抗的准备，支持“孩子对界限增加的反应”中家长需做好准备。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a006",
+      "target": "s-e3d6d2fe9ec5-c002:a021",
+      "kind": "applies_to",
+      "condition": "要求合理且孩子能做到",
+      "reason": "对刚会走路孩子要求配合是合理的，不算要求太多。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a007",
+      "target": "s-e3d6d2fe9ec5-c002:r001",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "引导幼儿配合穿衣的具体步骤包括数到十，孩子不过来就做别的事。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a008",
+      "target": "s-e3d6d2fe9ec5-c002:a007",
+      "kind": "supports",
+      "condition": null,
+      "reason": "传递“我在帮你”的信息有助于幼儿配合。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a009",
+      "target": "s-e3d6d2fe9ec5-c001:r004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "根据年龄调整父母角色，包括给予力量的方式。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a011",
+      "target": "s-e3d6d2fe9ec5-c002:a012",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "赋能孩子处理人际关系时，先让孩子明白喜好不同正常，再给予具体话术。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a013",
+      "target": "s-e3d6d2fe9ec5-c002:a014",
+      "kind": "association",
+      "condition": "",
+      "reason": "两者都涉及孩子拖拉的原因，源列举生理、情绪等可能原因并归结为缺乏动力，目标讲催促过多导致拖拉，二者无直接因果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原causes改为association"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a015",
+      "target": "s-e3d6d2fe9ec5-c002:a011",
+      "kind": "supports",
+      "condition": null,
+      "reason": "情绪本身不可控制，但可引导控制情绪后的行为，赋能孩子处理人际关系。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a018",
+      "target": "s-e3d6d2fe9ec5-c002:a010",
+      "kind": "applies_to",
+      "condition": "父母当着孩子面吵架后",
+      "reason": "吵架后需当着孩子面和好，是情绪连接的一种体现。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a019",
+      "target": "s-e3d6d2fe9ec5-c003:a001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都强调通过提问引导孩子挖掘深层感受。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a019",
+      "target": "s-e3d6d2fe9ec5-c003:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "赋能时问孩子有什么其他方法获得主动权，与引导思考其他方法一致。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a003",
+      "target": "s-e3d6d2fe9ec5-c003:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "有信仰的人不应只与道德高尚者交友，无法与道德不好的人交朋友说明社交能力不好。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a004",
+      "target": "s-e3d6d2fe9ec5-c003:a006",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“无法与道德不好的人交朋友说明社交能力不好”支持“道德应成为吸引朋友的光而非阻隔的鸿沟”。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a005",
+      "target": "s-e3d6d2fe9ec5-c003:a004",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“AI替代学霸的风险与社交能力的重要性”中提到工作后需与道德可能不好的人打交道，支持“无法与道德不好的人交朋友说明社交能力不好”。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a007",
+      "target": "s-e3d6d2fe9ec5-c001:a003",
+      "kind": "supports",
+      "condition": "安全情况下",
+      "reason": "安全情况下可不给孩子选择，体现父母有权拒绝。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a008",
+      "target": "s-e3d6d2fe9ec5-c002:a009",
+      "kind": "applies_to",
+      "condition": "幼儿期",
+      "reason": "幼儿独自玩耍正常，但十多岁仍如此需担心，说明需根据年龄调整。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a009",
+      "target": "s-e3d6d2fe9ec5-c002:a012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "支持孩子面对困难不会削弱抗挫折能力，与赋能话术中强调暂时性一致。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a010",
+      "target": "s-e3d6d2fe9ec5-c003:a011",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“孩子需为自己的选择承担责任，不能推卸”为案例“孩子不愿帮忙拍摄后生气，家长指出其无资格生气”提供理论支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原example_of方向有误（概念到案例），改为supports保留解释关系"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a012",
+      "target": "s-e3d6d2fe9ec5-c003:a013",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "家长对成绩异常兴奋会传递在意成绩，而讲师家淡化成绩，重视努力。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a014",
+      "target": "s-e3d6d2fe9ec5-c003:a015",
+      "kind": "causes",
+      "condition": null,
+      "reason": "孩子消极悲观可能源于家庭氛围消极悲观，家长应活出积极状态影响孩子。"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:v2-n001",
+      "target": "s-e3d6d2fe9ec5-c001:a006",
+      "kind": "complements",
+      "condition": "当孩子对自己的物品有自主权且在不扰乱公共秩序的前提下",
+      "reason": "源内容为学员困惑孩子是否必须分享；候选指出孩子可以不分享用自己的钱买的棒棒糖，但不可以带到主日学故意缠别人扰乱次序，补充了分享的自愿性和界限，回应了源中不想让孩子觉得必须分享的困惑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a006",
+      "target": "s-e3d6d2fe9ec5-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子对自己的物品有自主权且在不扰乱公共秩序的前提下",
+      "reason": "源内容为学员困惑孩子是否必须分享；候选指出孩子可以不分享用自己的钱买的棒棒糖，但不可以带到主日学故意缠别人扰乱次序，补充了分享的自愿性和界限，回应了源中不想让孩子觉得必须分享的困惑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:v2-n001",
+      "target": "s-e3d6d2fe9ec5-c001:a032",
+      "kind": "association",
+      "condition": "涉及物权与界限的不同角色",
+      "reason": "源关注孩子对分享的道德绑架感，候选强调父母对自己购买物品的所有权，两者都涉及物权和界限，但角色和具体场景不同，关联不直接，故标记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a032",
+      "target": "s-e3d6d2fe9ec5-c001:v2-n001",
+      "kind": "association",
+      "condition": "涉及物权与界限的不同角色",
+      "reason": "源关注孩子对分享的道德绑架感，候选强调父母对自己购买物品的所有权，两者都涉及物权和界限，但角色和具体场景不同，关联不直接，故标记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:v2-n002",
+      "target": "s-e3d6d2fe9ec5-c002:a009",
+      "kind": "example_of",
+      "condition": "适用于孩子在当前年龄阶段的行为表现",
+      "reason": "源指出学员孩子当前年龄直言直语不是大问题，体现了应根据孩子年龄调整父母角色、不将该年龄正常表现视为问题的原则，因此源是该原则在语言表达方面的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a009",
+      "target": "s-e3d6d2fe9ec5-c001:v2-n002",
+      "kind": "has_example",
+      "condition": "适用于孩子在当前年龄阶段的行为表现",
+      "reason": "源指出学员孩子当前年龄直言直语不是大问题，体现了应根据孩子年龄调整父母角色、不将该年龄正常表现视为问题的原则，因此源是该原则在语言表达方面的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:v2-n002",
+      "target": "s-e3d6d2fe9ec5-c003:a008",
+      "kind": "association",
+      "condition": "不同行为但同属年龄阶段正常表现",
+      "reason": "源认为直言直语在年龄小不是问题，候选认为幼儿独自玩耍不与人交往是正常现象，两者都强调年龄阶段特定行为的正常性，但具体行为不同，不能直接互为例子，故标记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a008",
+      "target": "s-e3d6d2fe9ec5-c001:v2-n002",
+      "kind": "association",
+      "condition": "不同行为但同属年龄阶段正常表现",
+      "reason": "源认为直言直语在年龄小不是问题，候选认为幼儿独自玩耍不与人交往是正常现象，两者都强调年龄阶段特定行为的正常性，但具体行为不同，不能直接互为例子，故标记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:v2-n001",
+      "target": "s-e3d6d2fe9ec5-c002:a019",
+      "kind": "example_of",
+      "condition": "适用于孩子同伴交往受挫场景",
+      "reason": "源提供了在球场被排斥情境中具体提问引导情绪和赋能的具体步骤，是候选概括的提问方法在该场景中的具体应用例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a019",
+      "target": "s-e3d6d2fe9ec5-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "适用于孩子同伴交往受挫场景",
+      "reason": "源提供了在球场被排斥情境中具体提问引导情绪和赋能的具体步骤，是候选概括的提问方法在该场景中的具体应用例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:v2-n001",
+      "target": "s-e3d6d2fe9ec5-c003:a002",
+      "kind": "example_of",
+      "condition": "适用于引导孩子获得主动权的赋能场景",
+      "reason": "源中的赋能提问步骤如“有什么其他方法让你跟他们的交往可以多一点吗？”具体演示了候选所述的赋能方法，因此源是候选赋能方法在球场场景中的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a002",
+      "target": "s-e3d6d2fe9ec5-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "适用于引导孩子获得主动权的赋能场景",
+      "reason": "源中的赋能提问步骤如“有什么其他方法让你跟他们的交往可以多一点吗？”具体演示了候选所述的赋能方法，因此源是候选赋能方法在球场场景中的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:v2-n001",
+      "target": "s-e3d6d2fe9ec5-c003:a001",
+      "kind": "example_of",
+      "condition": "适用于孩子情绪挖掘的提问场景",
+      "reason": "源的提问如“你像傻子一样站在那儿的时候，心里是什么感受？”具体演示了候选通过提问引导孩子挖掘深层感受的情绪连接方法，因此源是候选情绪连接方法在球场场景中的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a001",
+      "target": "s-e3d6d2fe9ec5-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "适用于孩子情绪挖掘的提问场景",
+      "reason": "源的提问如“你像傻子一样站在那儿的时候，心里是什么感受？”具体演示了候选通过提问引导孩子挖掘深层感受的情绪连接方法，因此源是候选情绪连接方法在球场场景中的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:v2-n001",
+      "target": "s-e3d6d2fe9ec5-c001:a014",
+      "kind": "complements",
+      "condition": "当使用情绪连接与赋能方法时",
+      "reason": "源只提供了情绪连接与赋能的提问法，未提及界限；候选补充了情绪连接必须与界限结合，否则孩子会无论怎么闹都要求安抚，补了方法的必要配套原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c001:a014",
+      "target": "s-e3d6d2fe9ec5-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当使用情绪连接与赋能方法时",
+      "reason": "源只提供了情绪连接与赋能的提问法，未提及界限；候选补充了情绪连接必须与界限结合，否则孩子会无论怎么闹都要求安抚，补了方法的必要配套原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:v2-n002",
+      "target": "s-e3d6d2fe9ec5-c002:a005",
+      "kind": "association",
+      "condition": "反面案例与原则的对应",
+      "reason": "源描述孩子大吼大叫砸门，并指出家长若稳不住会被孩子拿捏；候选说明家长在界限冲突中必须稳住有定力，否则被孩子拿捏。源是候选原则的反面案例，但未体现正面做法，故标记为 association 而非 example_of。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a005",
+      "target": "s-e3d6d2fe9ec5-c002:v2-n002",
+      "kind": "association",
+      "condition": "反面案例与原则的对应",
+      "reason": "源描述孩子大吼大叫砸门，并指出家长若稳不住会被孩子拿捏；候选说明家长在界限冲突中必须稳住有定力，否则被孩子拿捏。源是候选原则的反面案例，但未体现正面做法，故标记为 association 而非 example_of。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:v2-n002",
+      "target": "s-e3d6d2fe9ec5-c002:a003",
+      "kind": "association",
+      "condition": "激烈反抗的案例呈现",
+      "reason": "源中孩子大吼大叫砸门可视为孩子激烈反抗的一种表现，候选说明孩子对界限增加会感到失控并激烈反抗，但源未明确是界限增加引发，故用 association 关联案例与可能原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a003",
+      "target": "s-e3d6d2fe9ec5-c002:v2-n002",
+      "kind": "association",
+      "condition": "激烈反抗的案例呈现",
+      "reason": "源中孩子大吼大叫砸门可视为孩子激烈反抗的一种表现，候选说明孩子对界限增加会感到失控并激烈反抗，但源未明确是界限增加引发，故用 association 关联案例与可能原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:v2-n002",
+      "target": "s-e3d6d2fe9ec5-c003:a011",
+      "kind": "association",
+      "condition": "不同场景下的孩子情绪爆发与家长界限回应",
+      "reason": "源是孩子砸门爆发，候选是孩子拍摄后生气，两者都涉及孩子情绪与家长界限回应，但具体情境和应对不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a011",
+      "target": "s-e3d6d2fe9ec5-c002:v2-n002",
+      "kind": "association",
+      "condition": "不同场景下的孩子情绪爆发与家长界限回应",
+      "reason": "源是孩子砸门爆发，候选是孩子拍摄后生气，两者都涉及孩子情绪与家长界限回应，但具体情境和应对不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:v2-n001",
+      "target": "s-e3d6d2fe9ec5-c002:a018",
+      "kind": "complements",
+      "condition": "当吵架为正常争吵（无身体伤害、语言侮辱或脏话）时",
+      "reason": "源强调必须当着孩子面和好；候选补充了在正常争吵情况下不需要向孩子道歉，但仍必须和好，为源增加了道歉与否的条件细节，两者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c002:a018",
+      "target": "s-e3d6d2fe9ec5-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当吵架为正常争吵（无身体伤害、语言侮辱或脏话）时",
+      "reason": "源强调必须当着孩子面和好；候选补充了在正常争吵情况下不需要向孩子道歉，但仍必须和好，为源增加了道歉与否的条件细节，两者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:v2-n002",
+      "target": "s-e3d6d2fe9ec5-c003:a005",
+      "kind": "example_of",
+      "condition": "高学历环境下的道德风险",
+      "reason": "源提供清华老师间竞争可怕的具体案例，说明高学历环境中也存在道德不好、自私、竞争力的情况，直接佐证了候选中‘清华、北大、哈佛毕业也可能道德不好、自私、有竞争力’的论断，源是该论断的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a005",
+      "target": "s-e3d6d2fe9ec5-c003:v2-n002",
+      "kind": "has_example",
+      "condition": "高学历环境下的道德风险",
+      "reason": "源提供清华老师间竞争可怕的具体案例，说明高学历环境中也存在道德不好、自私、竞争力的情况，直接佐证了候选中‘清华、北大、哈佛毕业也可能道德不好、自私、有竞争力’的论断，源是该论断的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:v2-n002",
+      "target": "s-e3d6d2fe9ec5-c003:r001",
+      "kind": "association",
+      "condition": "社交能力与环境事实的关联",
+      "reason": "源揭露高学历环境中存在道德不好者，候选认为社交能力需包括与道德不好的人交往，源提供了需要发展此类社交能力的环境背景，但未直接论述社交能力，故标记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:r001",
+      "target": "s-e3d6d2fe9ec5-c003:v2-n002",
+      "kind": "association",
+      "condition": "社交能力与环境事实的关联",
+      "reason": "源揭露高学历环境中存在道德不好者，候选认为社交能力需包括与道德不好的人交往，源提供了需要发展此类社交能力的环境背景，但未直接论述社交能力，故标记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:v2-n002",
+      "target": "s-e3d6d2fe9ec5-c003:a004",
+      "kind": "association",
+      "condition": "无法与道德不好者交往的判断背景",
+      "reason": "源说明高学历环境存在道德不好者，候选指出无法与道德不好的人交朋友说明社交能力不好，源提供了对该判断的环境支撑，但未直接讨论社交能力评价，故标记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a004",
+      "target": "s-e3d6d2fe9ec5-c003:v2-n002",
+      "kind": "association",
+      "condition": "无法与道德不好者交往的判断背景",
+      "reason": "源说明高学历环境存在道德不好者，候选指出无法与道德不好的人交朋友说明社交能力不好，源提供了对该判断的环境支撑，但未直接讨论社交能力评价，故标记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:v2-n003",
+      "target": "s-e3d6d2fe9ec5-c003:a008",
+      "kind": "example_of",
+      "condition": "在幼儿期（年龄较小）的情境下",
+      "reason": "source中讲师家老二小时候在新公园自己溜达、对他人没有太大兴趣，这是没问题的；target指出幼儿独自玩耍不与人交往是正常现象，与该案例相符，因此source是target的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e3d6d2fe9ec5-c003:a008",
+      "target": "s-e3d6d2fe9ec5-c003:v2-n003",
+      "kind": "has_example",
+      "condition": "在幼儿期（年龄较小）的情境下",
+      "reason": "source中讲师家老二小时候在新公园自己溜达、对他人没有太大兴趣，这是没问题的；target指出幼儿独自玩耍不与人交往是正常现象，与该案例相符，因此source是target的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "建立界限时需通过具体规则和行动执行，如不洗澡就不洗衣服。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a019",
+        "s-e3d6d2fe9ec5-c001:a022",
+        "s-e3d6d2fe9ec5-c002:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "情绪连接需与界限结合，否则孩子会认为闹情绪就能被安抚。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a014",
+        "s-e3d6d2fe9ec5-c002:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "内在能力",
+      "when": "父母需建立完整自我意识，喜欢自己，才能成为力量源泉给孩子赋能。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a009",
+        "s-e3d6d2fe9ec5-c001:a010",
+        "s-e3d6d2fe9ec5-c001:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "根据孩子年龄调整给予力量和界限的方式。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:r004",
+        "s-e3d6d2fe9ec5-c002:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "理解情绪",
+      "when": "家长活出积极状态影响消极悲观的孩子。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a014",
+        "s-e3d6d2fe9ec5-c003:a015"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-e3d6d2fe9ec5-c003:a015",
+          "limits": [
+            "家长目前没有太多力量直接改变孩子"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a012",
+        "s-e3d6d2fe9ec5-c001:r005"
+      ],
+      "reason": "两者内容完全一致，都强调力量必须在界限中建立，否则孩子会变成怪物。"
+    },
+    {
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a022"
+      ],
+      "reason": "两者内容完全一致，都是不洗澡的后果：不给洗衣服，直到孩子洗澡。"
+    },
+    {
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a023",
+        "s-e3d6d2fe9ec5-c001:r007"
+      ],
+      "reason": "两者内容完全一致，都是孩子对奶奶不礼貌的处理方法。"
+    },
+    {
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a026"
+      ],
+      "reason": "两者内容完全一致，都是教孩子健康提要求。"
+    },
+    {
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a027",
+        "s-e3d6d2fe9ec5-c001:r010"
+      ],
+      "reason": "两者内容完全一致，都是哥哥中考与妹妹辅导的平衡建议。"
+    },
+    {
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a028"
+      ],
+      "reason": "两者内容完全一致，都是辅导老师传递的错误信息。"
+    },
+    {
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a029"
+      ],
+      "reason": "两者内容完全一致，都是不去辅导老师的前提。"
+    },
+    {
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a030"
+      ],
+      "reason": "两者内容完全一致，都是辅导老师的工作性质。"
+    },
+    {
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a002",
+        "s-e3d6d2fe9ec5-c002:a020"
+      ],
+      "reason": "两者内容完全一致，都是家长理直气壮提要求会让孩子尊重家长。"
+    },
+    {
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a012",
+        "s-e3d6d2fe9ec5-c002:r002"
+      ],
+      "reason": "两者内容完全一致，都是赋能孩子的具体话术。"
+    },
+    {
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a019"
+      ],
+      "reason": "两者内容完全一致，都是情绪连接与赋能的提问方法。"
+    },
+    {
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a004",
+        "s-e3d6d2fe9ec5-c003:r001"
+      ],
+      "reason": "两者内容完全一致，都是社交能力不仅限于与道德高尚者交往。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a001",
+        "s-e3d6d2fe9ec5-c001:a021"
+      ],
+      "description": "孩子的钱可以自由支配，但压岁钱父母应直接收走，两者对“孩子的钱”的定义可能不同，需要明确哪些钱属于孩子可自由支配的范围。",
+      "needed_evidence": "需要明确压岁钱是否属于孩子自己挣的钱，以及自由支配的具体边界。"
+    },
+    {
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a024",
+        "s-e3d6d2fe9ec5-c001:a025"
+      ],
+      "description": "孩子频繁要求抱抱可能只是爱的语言，但当孩子用抱抱威胁时父母绝不妥协，需要区分正常需求和威胁行为。",
+      "needed_evidence": "需要明确如何判断孩子的要求是正常需求还是威胁行为。"
+    },
+    {
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a013",
+        "s-e3d6d2fe9ec5-c002:a014"
+      ],
+      "description": "孩子拖拉的可能原因包括生理、情绪等多种因素，但催促过多也可能导致拖拉，需要区分不同原因并采取相应措施。",
+      "needed_evidence": "需要评估孩子拖拉的具体原因，以确定是生理问题还是行为习惯问题。"
+    }
+  ],
+  "path": [
+    {
+      "name": "管教实操方法",
+      "steps": [
+        {
+          "action": "建立界限",
+          "atom_ids": [
+            "s-e3d6d2fe9ec5-c001:a002",
+            "s-e3d6d2fe9ec5-c001:a003",
+            "s-e3d6d2fe9ec5-c001:a012"
+          ],
+          "condition": "父母需有胆量拒绝孩子，给予相对自由。"
+        },
+        {
+          "action": "给予后果",
+          "atom_ids": [
+            "s-e3d6d2fe9ec5-c001:a019",
+            "s-e3d6d2fe9ec5-c001:a022"
+          ],
+          "condition": "当孩子不遵守规则时，如不洗澡。"
+        },
+        {
+          "action": "情绪连接与赋能",
+          "atom_ids": [
+            "s-e3d6d2fe9ec5-c002:a019",
+            "s-e3d6d2fe9ec5-c003:a001",
+            "s-e3d6d2fe9ec5-c003:a002"
+          ],
+          "condition": "孩子有情绪或遇到困难时，通过提问引导感受并赋能。"
+        },
+        {
+          "action": "调整父母角色",
+          "atom_ids": [
+            "s-e3d6d2fe9ec5-c002:a009",
+            "s-e3d6d2fe9ec5-c001:r004"
+          ],
+          "condition": "根据孩子年龄调整管教方式。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0001",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a001",
+        "s-e3d6d2fe9ec5-c001:a002"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0002",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a031"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a003"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0004",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a004",
+        "s-e3d6d2fe9ec5-c001:a005"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0005",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a032"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0006",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a006",
+        "s-e3d6d2fe9ec5-c001:a002"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a007"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0008",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:r001"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:r002"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0010",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a009",
+        "s-e3d6d2fe9ec5-c001:r003"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a008"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a010"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0013",
+      "kind": "condition",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a011",
+        "s-e3d6d2fe9ec5-c001:r004"
+      ],
+      "blocks": [
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0014",
+      "kind": "condition",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a012",
+        "s-e3d6d2fe9ec5-c001:r005"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0015",
+      "kind": "case",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a013"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a014"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0017",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a015"
+      ],
+      "blocks": [
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0018",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a016"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0019",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a017"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0021",
+      "kind": "condition",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a018"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0022",
+      "kind": "case",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a019"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0023",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a020"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0024",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a021"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0025",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a022"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0026",
+      "kind": "case",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a023"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0027",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a024"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0028",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a025"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053",
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0029",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a026"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0030",
+      "kind": "case",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a027"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0031",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a028"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0032",
+      "kind": "condition",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a029"
+      ],
+      "blocks": [
+        "b00059",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0033",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a030"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064",
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c001:u0034",
+      "kind": "case",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u01",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:a030",
+        "s-e3d6d2fe9ec5-c002:a001"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064",
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u02",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a002",
+        "s-e3d6d2fe9ec5-c002:a020"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u03",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a003"
+      ],
+      "blocks": [
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u04",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a004"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u05",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a005",
+        "s-e3d6d2fe9ec5-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00070",
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u06",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a006",
+        "s-e3d6d2fe9ec5-c002:a021"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u07",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a007",
+        "s-e3d6d2fe9ec5-c002:a008",
+        "s-e3d6d2fe9ec5-c002:r001"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077",
+        "b00078",
+        "b00079",
+        "b00080",
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u08",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a009"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u09",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a010"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u10",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a011"
+      ],
+      "blocks": [
+        "b00089",
+        "b00090",
+        "b00091",
+        "b00092",
+        "b00093",
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u11",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a013"
+      ],
+      "blocks": [
+        "b00097",
+        "b00098",
+        "b00099",
+        "b00100"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u12",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a014"
+      ],
+      "blocks": [
+        "b00101",
+        "b00102",
+        "b00103",
+        "b00104",
+        "b00105"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u13",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a015"
+      ],
+      "blocks": [
+        "b00107",
+        "b00108"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u14",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a012",
+        "s-e3d6d2fe9ec5-c002:r002"
+      ],
+      "blocks": [
+        "b00109",
+        "b00110",
+        "b00111",
+        "b00112"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u16",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a017"
+      ],
+      "blocks": [
+        "b00119",
+        "b00120",
+        "b00121",
+        "b00122",
+        "b00123"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u17",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a018"
+      ],
+      "blocks": [
+        "b00124",
+        "b00125",
+        "b00126"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c002:u18",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00127",
+        "b00128",
+        "b00129"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c003:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:a019",
+        "s-e3d6d2fe9ec5-c003:a001",
+        "s-e3d6d2fe9ec5-c003:a002"
+      ],
+      "blocks": [
+        "b00128",
+        "b00129",
+        "b00130"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c003:u002",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a003"
+      ],
+      "blocks": [
+        "b00131",
+        "b00132"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c003:u003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a004",
+        "s-e3d6d2fe9ec5-c003:a006",
+        "s-e3d6d2fe9ec5-c003:r001"
+      ],
+      "blocks": [
+        "b00133",
+        "b00136",
+        "b00137"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c003:u004",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a005",
+        "s-e3d6d2fe9ec5-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00133",
+        "b00134",
+        "b00135"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c003:u005",
+      "kind": "condition",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a007"
+      ],
+      "blocks": [
+        "b00138"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c003:u006",
+      "kind": "condition",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a008",
+        "s-e3d6d2fe9ec5-c003:v2-n003"
+      ],
+      "blocks": [
+        "b00139",
+        "b00140"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c003:u007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a009"
+      ],
+      "blocks": [
+        "b00141",
+        "b00142"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c003:u008",
+      "kind": "condition",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a010"
+      ],
+      "blocks": [
+        "b00143",
+        "b00146",
+        "b00147"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c003:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a011"
+      ],
+      "blocks": [
+        "b00144",
+        "b00145",
+        "b00146"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c003:u010",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a012"
+      ],
+      "blocks": [
+        "b00148",
+        "b00149"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c003:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a013"
+      ],
+      "blocks": [
+        "b00149",
+        "b00150",
+        "b00151",
+        "b00152"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c003:u012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a014"
+      ],
+      "blocks": [
+        "b00153",
+        "b00154",
+        "b00155"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c003:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:a015"
+      ],
+      "blocks": [
+        "b00154",
+        "b00155"
+      ]
+    },
+    {
+      "id": "s-e3d6d2fe9ec5-c003:u014",
+      "kind": "rule",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00126"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "名字的分享困扰背景",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e3d6d2fe9ec5",
+          "blocks": [
+            "b00003"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "直言直语在该年龄不算大问题",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e3d6d2fe9ec5",
+          "blocks": [
+            "b00032"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "stage"
+    },
+    {
+      "title": "球场被排斥场景中的情绪连接与赋能提问法",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e3d6d2fe9ec5",
+          "blocks": [
+            "b00127",
+            "b00128",
+            "b00129"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "直播连麦中儿子大吼大叫砸门",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e3d6d2fe9ec5",
+          "blocks": [
+            "b00072",
+            "b00073"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "吵架后必须当着孩子面和好",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e3d6d2fe9ec5",
+          "blocks": [
+            "b00126"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "rule"
+    },
+    {
+      "title": "案例：清华老师间竞争可怕",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e3d6d2fe9ec5",
+          "blocks": [
+            "b00135"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "案例：讲师家老二小时候独自玩耍正常",
+      "atom_ids": [
+        "s-e3d6d2fe9ec5-c003:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e3d6d2fe9ec5",
+          "blocks": [
+            "b00139"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "concepts": [
+    {
+      "name": "赋能孩子达到不抓狂状态",
+      "definition": "父母赋能给孩子，帮助孩子自己达到不抓狂的状态，而不是替孩子达到。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a001"
+      ]
+    },
+    {
+      "name": "婴幼儿基础情绪学习（0-2岁）",
+      "definition": "0-2岁孩子大量积累和学习情绪，情绪简单粗暴，主要是第一情绪（咯咯笑、哇哇哭、啊啊生气），主要从父母或养育者学习，且学习后不会反馈给父母。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a002",
+        "s-54e16185d7df-c001:a005"
+      ]
+    },
+    {
+      "name": "养育者表情对婴幼儿情绪理解的影响",
+      "definition": "养育者面无表情或严肃会导致孩子情绪理解片面、易焦虑；互动活泼则情绪学习更全面广泛。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a003"
+      ]
+    },
+    {
+      "name": "社交情绪发展（2-4岁）",
+      "definition": "2-4岁孩子延伸出社交情绪，如恐惧、害羞、因输而产生的愤怒，这些情绪是孩子与他人和外界建立联系后延伸出来的。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a004"
+      ]
+    },
+    {
+      "name": "夫妻界限影响孩子情绪安全感",
+      "definition": "夫妻之间有没有界限会影响孩子情绪里的安全感、以后跟人的亲密度以及对情感的兴趣度。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a006"
+      ]
+    },
+    {
+      "name": "父母婚姻不幸福与孩子上瘾行为关联",
+      "definition": "沉迷于游戏、色情、毒品等上瘾行为的人，其父母婚姻往往不幸福；父母健康恩爱的孩子很少对谈恋爱不感兴趣。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a007"
+      ]
+    },
+    {
+      "name": "夫妻冲突对儿童的负面影响机制",
+      "definition": "夫妻冲突对儿童情绪、行为和学业完成有负面影响，通过羞耻和恐惧的内化、模仿等机制发生。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a008",
+        "s-54e16185d7df-c001:r001"
+      ]
+    },
+    {
+      "name": "家暴家庭孩子模仿暴力行为",
+      "definition": "家暴家庭中孩子可能出现打同学、伤害动物等暴力行为，是模仿在家看到的倾向。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a009"
+      ]
+    },
+    {
+      "name": "错误的吵架方式",
+      "definition": "包括暴力行为、语言侮辱、冷暴力、讽刺，会让孩子感受到人与人之间刺透人心的伤害，产生恐惧和焦虑。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a010"
+      ]
+    },
+    {
+      "name": "语言侮辱案例",
+      "definition": "丈夫对孤儿妻子说“你是一个没有人要的人，怪不得你爸妈要抛弃你”，属于语言侮辱。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a011"
+      ]
+    },
+    {
+      "name": "正确的吵架方式",
+      "definition": "可以提高音量、生气、指责行为（而非人格）、哭、走开、拒绝继续对话。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a012"
+      ]
+    },
+    {
+      "name": "夫妻和好对孩子的重要性",
+      "definition": "夫妻吵架后一定要在孩子面前和好，否则孩子以后与人发生矛盾时容易崩溃，因为脑子里没有和好的模型。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a013"
+      ]
+    },
+    {
+      "name": "知道如何和好的孩子更少极端行为",
+      "definition": "知道如何与别人和好的孩子，在与人闹矛盾后崩溃几率更少，出现伤害他人或自己的极端情绪和行为几率更小。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a014"
+      ]
+    },
+    {
+      "name": "自残案例：未婚夫削肉",
+      "definition": "男性客人与未婚妻吵架后自残削肉，因不知道如何处理矛盾、如何和好；其父母婚姻支离破碎但表面维系，从不在孩子面前吵架和和好。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a015"
+      ]
+    },
+    {
+      "name": "错误的和好方式",
+      "definition": "包括找别的话题转移、装没发生过、开玩笑平事，没有真正解决问题。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a016"
+      ]
+    },
+    {
+      "name": "开玩笑和好案例",
+      "definition": "三姨父开玩笑说“数到三他马上就笑”，三姨说“滚”，然后两人就好了，但问题从未解决。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a017"
+      ]
+    },
+    {
+      "name": "正确的和好方式：先恢复关系再解决问题",
+      "definition": "和好的第一步是恢复关系，然后再解决问题，绝对不是先解决问题。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a018"
+      ]
+    },
+    {
+      "name": "和好方法：撒娇",
+      "definition": "撒娇是非常好的和好方式，男方女方都可以撒娇，孩子也会学。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a019"
+      ]
+    },
+    {
+      "name": "和好方法：谈感受",
+      "definition": "和好时谈感受，如“我觉得好难过”“我好害怕”，包括谈对吵架的感受、孤独感受等。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a020"
+      ]
+    },
+    {
+      "name": "和好方法：谈为什么生气",
+      "definition": "和好时谈为什么生气，如对方的话让自己联想到父母曾说过，感觉被瞧不起。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a021"
+      ]
+    },
+    {
+      "name": "和好方法：分析吵架中发生了什么",
+      "definition": "和好时分析吵架过程中发生了什么，包括外界干扰因素导致矛盾激化。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a022"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-54e16185d7df-c001:a002",
+      "target": "s-54e16185d7df-c001:a004",
+      "kind": "prerequisite",
+      "condition": "年龄阶段递进",
+      "reason": "0-2岁是基础情绪学习，2-4岁延伸出社交情绪，后者建立在前者基础上。"
+    },
+    {
+      "source": "s-54e16185d7df-c001:a003",
+      "target": "s-54e16185d7df-c001:a002",
+      "kind": "applies_to",
+      "condition": "养育者表情影响情绪学习",
+      "reason": "养育者表情是0-2岁孩子学习情绪的重要来源，影响情绪理解。"
+    },
+    {
+      "source": "s-54e16185d7df-c001:a006",
+      "target": "s-54e16185d7df-c001:a007",
+      "kind": "supports",
+      "condition": "当夫妻界限影响情感兴趣度时",
+      "reason": "“夫妻界限影响孩子情绪安全感”提出夫妻界限会影响孩子对情感的兴趣度，使年轻人更愿打游戏、对情感没兴趣；“父母婚姻不幸福与孩子上瘾行为关联”观察到父母婚姻不幸福与上瘾及对恋爱无兴趣相关，前者为后者提供解释性支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-54e16185d7df-c001:a008",
+      "target": "s-54e16185d7df-c001:a009",
+      "kind": "example_of",
+      "condition": "模仿机制",
+      "reason": "家暴家庭孩子模仿暴力行为是夫妻冲突负面影响中模仿机制的具体例子。"
+    },
+    {
+      "source": "s-54e16185d7df-c001:a010",
+      "target": "s-54e16185d7df-c001:a011",
+      "kind": "example_of",
+      "condition": "语言侮辱",
+      "reason": "丈夫对孤儿妻子的语言侮辱是错误吵架方式中语言侮辱的案例。"
+    },
+    {
+      "source": "s-54e16185d7df-c001:a010",
+      "target": "s-54e16185d7df-c001:a012",
+      "kind": "contrasts",
+      "condition": "吵架方式",
+      "reason": "“错误的吵架方式”列举暴力、侮辱、冷暴力、讽刺等方式，“正确的吵架方式”列举提高音量、生气、指责行为等方式，两者形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-54e16185d7df-c001:a013",
+      "target": "s-54e16185d7df-c001:a014",
+      "kind": "supports",
+      "condition": "当孩子见证父母和好并建立和好模型时",
+      "reason": "“夫妻和好对孩子的重要性”指出孩子见证父母和好才拥有和好模型；“知道如何和好的孩子更少极端行为”承接该模型，说明知道和好可减少崩溃和极端行为，故前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原causes按允许类型调整为supports；方向与含义仍成立。"
+    },
+    {
+      "source": "s-54e16185d7df-c001:a015",
+      "target": "s-54e16185d7df-c001:a013",
+      "kind": "example_of",
+      "condition": "缺乏和好模型",
+      "reason": "“案例：未婚夫自残削肉”中当事人父母从不在孩子面前吵架和好，导致没有和好模型；“夫妻和好对孩子的重要性”强调见证和好才能建立模型，该案例作为其具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-54e16185d7df-c001:a016",
+      "target": "s-54e16185d7df-c001:a017",
+      "kind": "example_of",
+      "condition": "开玩笑和好",
+      "reason": "三姨父开玩笑和好是错误和好方式中开玩笑平事的案例。"
+    },
+    {
+      "source": "s-54e16185d7df-c001:a018",
+      "target": "s-54e16185d7df-c001:a019",
+      "kind": "step_of",
+      "condition": "恢复关系",
+      "reason": "撒娇是恢复关系的一种方法，属于正确和好方式的第一步。"
+    },
+    {
+      "source": "s-54e16185d7df-c001:a018",
+      "target": "s-54e16185d7df-c001:a020",
+      "kind": "step_of",
+      "condition": "恢复关系",
+      "reason": "谈感受是恢复关系的一种方法。"
+    },
+    {
+      "source": "s-54e16185d7df-c001:a018",
+      "target": "s-54e16185d7df-c001:a021",
+      "kind": "step_of",
+      "condition": "解决问题",
+      "reason": "谈为什么生气属于解决问题阶段，在恢复关系之后。"
+    },
+    {
+      "source": "s-54e16185d7df-c001:a018",
+      "target": "s-54e16185d7df-c001:a022",
+      "kind": "step_of",
+      "condition": "解决问题",
+      "reason": "分析吵架中发生了什么属于解决问题阶段。"
+    },
+    {
+      "source": "s-54e16185d7df-c001:a016",
+      "target": "s-54e16185d7df-c001:a018",
+      "kind": "contrasts",
+      "condition": "和好方式",
+      "reason": "错误和好方式与正确和好方式形成对比。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "夫妻界限影响孩子情绪安全感、亲密度和情感兴趣度；夫妻冲突通过内化和模仿机制影响儿童情绪和行为。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a006",
+        "s-54e16185d7df-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-54e16185d7df-c001:a008",
+        "s-54e16185d7df-c001:r001"
+      ],
+      "reason": "两者都描述夫妻冲突对儿童学业完成的负面影响，内容实质等价。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "培养不抓狂孩子的夫妻关系处理路径",
+      "steps": [
+        {
+          "action": "理解孩子情绪发展基础",
+          "atom_ids": [
+            "s-54e16185d7df-c001:a002",
+            "s-54e16185d7df-c001:a004"
+          ],
+          "condition": "0-2岁基础情绪学习，2-4岁社交情绪发展"
+        },
+        {
+          "action": "建立健康的夫妻界限",
+          "atom_ids": [
+            "s-54e16185d7df-c001:a006"
+          ],
+          "condition": "夫妻界限影响孩子安全感"
+        },
+        {
+          "action": "避免错误吵架方式",
+          "atom_ids": [
+            "s-54e16185d7df-c001:a010"
+          ],
+          "condition": "不使用暴力、语言侮辱、冷暴力、讽刺"
+        },
+        {
+          "action": "采用正确吵架方式",
+          "atom_ids": [
+            "s-54e16185d7df-c001:a012"
+          ],
+          "condition": "可以生气、指责行为、哭、走开等"
+        },
+        {
+          "action": "在孩子面前和好",
+          "atom_ids": [
+            "s-54e16185d7df-c001:a013"
+          ],
+          "condition": "吵架后必须和好"
+        },
+        {
+          "action": "先恢复关系再解决问题",
+          "atom_ids": [
+            "s-54e16185d7df-c001:a018"
+          ],
+          "condition": "和好第一步是恢复关系"
+        },
+        {
+          "action": "运用具体和好方法",
+          "atom_ids": [
+            "s-54e16185d7df-c001:a019",
+            "s-54e16185d7df-c001:a020",
+            "s-54e16185d7df-c001:a021",
+            "s-54e16185d7df-c001:a022"
+          ],
+          "condition": "撒娇、谈感受、谈生气原因、分析吵架过程"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-54e16185d7df-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a002"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a003"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a004"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a005"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a006"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a007"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a008"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a009"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a010"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a011"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a012"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a013"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a014"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a015"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a016"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a017"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a018"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a019"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a020"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a021"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:a022"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-54e16185d7df-c001:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-54e16185d7df-c001:r001"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

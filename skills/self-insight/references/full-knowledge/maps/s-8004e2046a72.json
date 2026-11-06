@@ -1,0 +1,2105 @@
+{
+  "concepts": [
+    {
+      "name": "婴儿独处时间",
+      "definition": "婴儿独处时间随年龄增长而逐渐增加，0-4个月无需特意训练独处，8-10个月可短暂独处2-3分钟，一两岁可适当留独处时间。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a001",
+        "s-8004e2046a72-c001:a004",
+        "s-8004e2046a72-c001:a006"
+      ]
+    },
+    {
+      "name": "婴儿清醒时间",
+      "definition": "0-4个月婴儿清醒时间很短，通常喝奶约20分钟，玩10-15分钟，之后需要睡觉。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a002"
+      ]
+    },
+    {
+      "name": "婴儿陪伴与互动",
+      "definition": "0-4个月婴儿清醒时，父母应全程陪伴并进行互动，如抱着动一动、举高高、跟着音乐跳舞等，直到婴儿累了。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a003"
+      ]
+    },
+    {
+      "name": "语言刺激",
+      "definition": "婴儿越小，父母越应尽可能多地与他说话，做话唠，以提供语言刺激。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a005"
+      ]
+    },
+    {
+      "name": "选择性缄默症",
+      "definition": "选择性缄默症是一种心理疾病，父母无法自行帮助孩子消除症状，必须带孩子去看心理医生接受专业帮助。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a007"
+      ]
+    },
+    {
+      "name": "安全感建立",
+      "definition": "帮助孩子感到环境安全、身体语言情绪上建立安全感，对所有孩子都有益，但并非专门针对选择性缄默症的治疗方法。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a008"
+      ]
+    },
+    {
+      "name": "心理问题专业帮助",
+      "definition": "当孩子出现心理问题时，父母应尽早带孩子接受专业帮助，不要认为自己可以解决，否则会拖延治疗，使症状加重。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a009"
+      ]
+    },
+    {
+      "name": "公开情绪",
+      "definition": "父母应真实公开自己的情绪，而不是做金刚侠（表面装作无所谓，内心受伤却表现凶狠）。公开情绪是用语言表达内心感受，如“妈妈听到你讲这句话，心里好难过”，而不是对孩子大吼大叫。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a010"
+      ]
+    },
+    {
+      "name": "成熟行为处理情绪",
+      "definition": "父母公开情绪时，应通过成熟正确的行为平静地处理情绪，如自我冷静、设立界限、自我梳理，而不是用粗暴行为。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a011"
+      ]
+    },
+    {
+      "name": "情绪不敏感",
+      "definition": "父母对自己的情绪不敏感时，可能将担忧等原始情绪转化为愤怒，例如孩子走丢后找到时，父母因担忧而表现出愤怒甚至打骂孩子。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a012"
+      ]
+    },
+    {
+      "name": "情绪敏感表达",
+      "definition": "当父母对自己的情绪敏感时，应告诉孩子自己内心的真实感受，如“我心里面是多么的难受，多么的紧张”，而不是用愤怒或打骂表达。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a014"
+      ]
+    },
+    {
+      "name": "沟通方式多样性",
+      "definition": "每个人的沟通方式不同，例如有人先讲故事再表达情绪，有人直接讲重点，有人慢慢表述让人猜测，有人直接提出需求。这些方式没有好坏之分，应让孩子明白并接纳不同。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a015"
+      ]
+    },
+    {
+      "name": "接纳不同沟通方式",
+      "definition": "越早让孩子明白沟通方式没有好坏之分，他越能拥有开放的心态，接纳和接触更多的人。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a016"
+      ]
+    },
+    {
+      "name": "儿童性侵风险",
+      "definition": "儿童性侵（男孩女孩均可能）85%的场景发生在熟人家中，而非陌生人。熟人包括叔叔、爷爷、舅舅、邻居、父母的朋友等。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a017"
+      ]
+    },
+    {
+      "name": "过夜安全",
+      "definition": "如果一家人一起睡在别人家，这种情况是可以接受的，但单独让孩子在别人家过夜有风险。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a019"
+      ]
+    },
+    {
+      "name": "回家习惯",
+      "definition": "父母应传递“倦鸟归巢”的信息，让孩子养成到时间就回家的习惯，避免因一次破例导致逐渐失控。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a020"
+      ]
+    },
+    {
+      "name": "回家规则",
+      "definition": "父母应让孩子从小知道回家睡觉不是选择，而是必须遵守的规则，类似上大学是必须的。父母可以等待或接送，但孩子必须回家。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a021"
+      ]
+    },
+    {
+      "name": "情绪勒索与道德绑架",
+      "definition": "父母不应通过威胁（如不再接受礼物）或道德评判（如看重孝心）来绑架孩子，否则会给孩子造成心理捆绑。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a024"
+      ]
+    },
+    {
+      "name": "礼物与零花钱",
+      "definition": "父母应允许孩子赚钱买自己想要的东西。当孩子用自己赚的钱给父母买礼物时，父母可以提醒孩子考虑后续需求，不要买太贵的，也可以回赠礼物。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a025"
+      ]
+    },
+    {
+      "name": "暑期打工",
+      "definition": "16岁孩子暑期打工是正常成长经历而非惩罚，应选择合适工作，持续整个假期，保证睡眠。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a027",
+        "s-8004e2046a72-c001:a028",
+        "s-8004e2046a72-c001:a029",
+        "s-8004e2046a72-c002:a001",
+        "s-8004e2046a72-c002:a002",
+        "s-8004e2046a72-c002:a003",
+        "s-8004e2046a72-c001:r003",
+        "s-8004e2046a72-c001:r004"
+      ]
+    },
+    {
+      "name": "鼓励提问",
+      "definition": "父母应鼓励孩子提问，因为提问能帮助找出问题，从而更好地解决问题。",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a030"
+      ]
+    },
+    {
+      "name": "刷牙习惯",
+      "definition": "孩子6岁之前没有能力自己把牙齿清洁干净，因此家长应该从孩子出生起就帮助刷牙，而不是让孩子自己刷。6岁以后可以开始让孩子自己刷牙，以建立习惯。",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a004",
+        "s-8004e2046a72-c002:a005"
+      ]
+    },
+    {
+      "name": "幼儿刷牙后果无效",
+      "definition": "对于21个月大的孩子，因为其不理解后果，使用后果方法（如看烂牙图片）无效。此时应通过家长帮助刷牙和读绘本等方式建立习惯。",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a006",
+        "s-8004e2046a72-c002:r001"
+      ]
+    },
+    {
+      "name": "绘本刷牙教育",
+      "definition": "读绘本可以帮助幼儿理解刷牙的重要性。讲师提到有一个很好的绘本，对自己孩子帮助很大，孩子至今记得绘本内容。",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a007"
+      ]
+    },
+    {
+      "name": "越界沟通",
+      "definition": "四到八岁孩子表达喜好（如喜欢小猪佩奇）时，家长否定或试图改变孩子的想法（如说小猪佩奇不好、你不喜欢）属于越界沟通。",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a008"
+      ]
+    },
+    {
+      "name": "分享界限",
+      "definition": "九到十二岁孩子可以分享一些同事朋友间好笑的事情，但不应分享家庭内部负面信息，如“奶奶最坏”“爸爸有外遇”等。",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a009"
+      ]
+    },
+    {
+      "name": "处理朋友孩子骂人",
+      "definition": "建议直接与骂人的孩子沟通：询问原因，然后表达不希望再在孩子面前骂自己，说明这是极度不尊重，若对我不满可以当面说。之后与对方父母沟通，指出这样做不对，以后不会有朋友，然后观察。",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a011"
+      ]
+    },
+    {
+      "name": "朋友筛选",
+      "definition": "对于不够优质的朋友，不建议仅建议孩子远离，而是家长直接减少接触，几乎不带孩子过去，偶尔接触时间很短。对于无法避免的亲戚关系，也尽量快速结束接触。",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a012"
+      ]
+    },
+    {
+      "name": "体罚无效",
+      "definition": "对于两岁调皮男孩，打手惩罚无效且形成恶性循环。建议让朋友来听直播学习，而不是寻求惩罚方法。讲师认为惩罚不是有效方式。",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a013"
+      ]
+    },
+    {
+      "name": "实操打卡",
+      "definition": "讲师强调实操打卡的重要性，但多次推荐无人执行。若不实践，孩子五六岁时家长可能才吃到苦头并反省。",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a014"
+      ]
+    },
+    {
+      "name": "信任表达",
+      "definition": "信任有多种维度：相信孩子能修补错误，相信孩子能通过努力做得更好，相信孩子即使做不好也仍然被爱。不要只抓住信任的表面，要深入。",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a015",
+        "s-8004e2046a72-c002:a016",
+        "s-8004e2046a72-c002:a017",
+        "s-8004e2046a72-c002:a018",
+        "s-8004e2046a72-c002:a020",
+        "s-8004e2046a72-c002:a021",
+        "s-8004e2046a72-c002:a022",
+        "s-8004e2046a72-c002:a024",
+        "s-8004e2046a72-c003:a003",
+        "s-8004e2046a72-c003:a004",
+        "s-8004e2046a72-c003:r001"
+      ]
+    },
+    {
+      "name": "信任表达与后果承担",
+      "definition": "当孩子犯错并面临严重法律后果（如被关押五天）时，父母可以通过不交赎金、让孩子自己承担后果的方式来表达对孩子的信任。",
+      "atom_ids": [
+        "s-8004e2046a72-c003:a001",
+        "s-8004e2046a72-c003:a002"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-8004e2046a72-c001:a001",
+      "target": "s-8004e2046a72-c001:a004",
+      "kind": "contrasts",
+      "condition": "婴儿月龄不同",
+      "reason": "0-4个月无需特意训练独处，而8-10个月可短暂独处，形成对比。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a001",
+      "target": "s-8004e2046a72-c001:a006",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "独处时间随年龄增长，0-4个月无需训练，一两岁可适当留独处时间。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a002",
+      "target": "s-8004e2046a72-c001:a003",
+      "kind": "supports",
+      "condition": "婴儿月龄在0-4个月左右",
+      "reason": "“0-4个月婴儿清醒时间短”支持“0-4个月婴儿需全程陪伴并互动”，因为可互动时间有限，更需充分利用。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原为因果，改为支持关系。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a004",
+      "target": "s-8004e2046a72-c001:a006",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "8-10个月可短暂独处，支持独处时间随年龄增长。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a005",
+      "target": "s-8004e2046a72-c001:a003",
+      "kind": "supports",
+      "condition": "婴儿年龄越小",
+      "reason": "“0-3岁婴儿应多说话，年龄越小越要多说”支持“0-6个月婴儿清醒时需全程陪伴互动”中的语言互动要求。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "具体建议支持互动要求。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a007",
+      "target": "s-8004e2046a72-c001:a009",
+      "kind": "supports",
+      "condition": "孩子被诊断为选择性缄默症",
+      "reason": "选择性缄默症是心理疾病，需要专业帮助，支持尽早寻求专业帮助。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a008",
+      "target": "s-8004e2046a72-c001:a007",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "“建立安全感对所有孩子有益，但不是专门针对选择性缄默症的治疗方法”支持“选择性缄默症需专业心理医生帮助”。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原对照关系不准确，改为支持关系。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a010",
+      "target": "s-8004e2046a72-c001:a011",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "公开情绪后应通过成熟行为处理情绪。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a012",
+      "target": "s-8004e2046a72-c001:a014",
+      "kind": "contrasts",
+      "condition": "父母对自己的情绪是否敏感",
+      "reason": "“情绪不敏感时担忧转为愤怒”与“情绪敏感时应表达真实感受”形成对照。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "两者对比父母情绪敏感度的不同表现。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a013",
+      "target": "s-8004e2046a72-c001:a012",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "“孩子走丢后父亲打孩子案例，讲师认为父亲情绪不敏感，担忧转为愤怒”是“情绪不敏感导致担忧转为愤怒”的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例是概念的实例。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a015",
+      "target": "s-8004e2046a72-c001:a016",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "“沟通方式有多种且无好坏之分，应让孩子明白并接纳”支持“越早让孩子明白沟通方式无好坏，越能拥有开放心态”。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原为因果，改为支持关系。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a017",
+      "target": "s-8004e2046a72-c001:a018",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "“儿童性侵85%发生在熟人家中”与“学员孩子被父亲朋友性侵案例”构成实例关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例是概念的实例。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a019",
+      "target": "s-8004e2046a72-c001:a020",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "全家一起过夜可以接受，但单独过夜有风险，因此应养成回家习惯。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a020",
+      "target": "s-8004e2046a72-c001:a021",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "养成回家习惯与将回家睡觉视为不可协商规则一致。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a022",
+      "target": "s-8004e2046a72-c001:a024",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "“十岁女孩零花钱与礼物绑架案例，讲师指出情绪勒索和道德绑架”是“父母应避免情绪勒索和道德绑架”的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例是概念的实例。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a023",
+      "target": "s-8004e2046a72-c001:a024",
+      "kind": "association",
+      "condition": "无",
+      "reason": "孩子后悔买礼物是正常且有益的，父母不应惩罚；这与父母应避免情绪勒索和道德绑架相关，两者都是关于父母如何正确对待孩子后悔买礼物的建议，但并无直接支持或对比关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系 contrasts 不成立，因为两命题并非对比，而是同一议题下的相关观点，改为 association。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a025",
+      "target": "s-8004e2046a72-c001:a023",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "允许孩子用自己的钱买礼物并提醒考虑后续需求，支持孩子后悔买礼物是正常且有益的这一观点，因为这种引导预先考虑了孩子可能后悔的情况。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系合理，保留。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a026",
+      "target": "s-8004e2046a72-c001:a027",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "16岁男孩暑期打工案例是16岁孩子暑期打工应选择合适工作这一概念的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例与概念关系正确。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a027",
+      "target": "s-8004e2046a72-c001:a028",
+      "kind": "association",
+      "condition": "孩子16岁左右",
+      "reason": "16岁孩子暑期打工应选择合适工作与暑期打工是正常成长经历而非惩罚相关，但两者分别强调工作选择和打工性质，无直接支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 不成立，因为选择合适工作并不直接支持打工是正常成长经历，改为关联。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a028",
+      "target": "s-8004e2046a72-c001:a029",
+      "kind": "supports",
+      "condition": "孩子16岁左右且假期没有其他安排",
+      "reason": "暑期打工是正常成长经历而非惩罚，因此当假期没有其他安排时，应持续整个假期，最后留时间全家旅游或做义工。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 condition 缺少 target 自身的条件，修订以涵盖完整情形。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a029",
+      "target": "s-8004e2046a72-c001:r004",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "暑期打工应持续到开学，与r004一致。"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a030",
+      "target": "s-8004e2046a72-c001:a009",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "鼓励提问帮助发现问题，支持尽早寻求专业帮助。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a001",
+      "target": "s-8004e2046a72-c001:a028",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "16岁孩子暑期打工是正常安排而非惩罚与暑期打工是正常成长经历而非惩罚内容基本一致，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "两命题重复，支持关系成立。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a002",
+      "target": "s-8004e2046a72-c001:a029",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "假期打工持续时间与安排一致。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a003",
+      "target": "s-8004e2046a72-c002:a001",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "当地文化中青少年假期打工普遍，支持打工是正常安排。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a004",
+      "target": "s-8004e2046a72-c002:a005",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "6岁前孩子不能自己刷牙这一事实支持家长应帮助幼儿刷牙的方法，后者是前者的具体应对措施。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系合理。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a006",
+      "target": "s-8004e2046a72-c002:a007",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "对幼儿刷牙问题使用后果无效，因此支持使用绘本帮助幼儿建立刷牙习惯，作为替代方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a008",
+      "target": "s-8004e2046a72-c002:a009",
+      "kind": "contrasts",
+      "condition": "无",
+      "reason": "四到八岁越界沟通与九到十二岁分享界限形成对比。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a010",
+      "target": "s-8004e2046a72-c002:a011",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "朋友女儿在孩子面前骂母亲的案例是处理朋友孩子骂自己的沟通步骤这一概念的具体情境。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例是概念的示例。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a011",
+      "target": "s-8004e2046a72-c002:a012",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "处理骂人后，对于不够优质朋友应减少接触。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a013",
+      "target": "s-8004e2046a72-c002:a014",
+      "kind": "association",
+      "condition": "无",
+      "reason": "对两岁调皮孩子不建议打手惩罚，并建议家长听直播学习；实操打卡的重要性强调实践，两者都涉及家长学习与实践，但无直接支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 不成立，因为没有直接支持的依据，改为关联。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a015",
+      "target": "s-8004e2046a72-c002:a016",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "任何年龄段都应表达信任，13-18岁特别重要，支持具体表达方法。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a016",
+      "target": "s-8004e2046a72-c002:a017",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "偷钱和撒谎时表达信任的方法类似，都强调相信孩子。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a017",
+      "target": "s-8004e2046a72-c002:a018",
+      "kind": "association",
+      "condition": "无",
+      "reason": "发现孩子撒谎时表达信任的方法与孩子考试多次不及格时表达信任的方法都是表达信任的具体情境，两者有共通之处（强调诚实真实），但互不支持，而是并列的信任表达技术。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 不成立，因两者为并列且独立的方法，改为关联。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a018",
+      "target": "s-8004e2046a72-c002:a020",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "孩子考试多次不及格时表达信任的方法要求避免变成给借口或鸡汤，这支持表达信任时避免讨好和虚假的原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a020",
+      "target": "s-8004e2046a72-c002:a021",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "避免虚假，深层方式是表达无条件的爱。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a021",
+      "target": "s-8004e2046a72-c002:a022",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "无条件的爱是信任的一个维度。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a023",
+      "target": "s-8004e2046a72-c002:a024",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "孩子偷东西被抓面临监禁的案例是孩子面临监禁时如何表达信任这一问题情境的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例引出概念，方向正确。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a024",
+      "target": "s-8004e2046a72-c003:a001",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "孩子面临监禁时如何表达信任指出简单说爱不够，需要其他方式，这支持了通过不交赎金让孩子承担后果来表达信任的具体方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-8004e2046a72-c003:a001",
+      "target": "s-8004e2046a72-c003:a002",
+      "kind": "association",
+      "condition": "无",
+      "reason": "通过不交赎金让孩子承担后果来表达信任是该案例所体现的一般原则，但边方向为概念到案例，不符合 example_of 的典型方向（案例应为概念的实例），故改为关联关系以反映两者相关。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向有误，因为案例应是概念的实例，但此处源是概念，目标为案例，因此修订为关联。"
+    },
+    {
+      "source": "s-8004e2046a72-c003:a003",
+      "target": "s-8004e2046a72-c002:a015",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "信任表达适用于不同年龄段，支持任何年龄段都应表达信任。"
+    },
+    {
+      "source": "s-8004e2046a72-c003:a004",
+      "target": "s-8004e2046a72-c002:a014",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "在生活中主动向孩子表达信任强调实践而非仅理论，这支持实操打卡的重要性，因为两者都强调将理论付诸实践。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-8004e2046a72-c003:r001",
+      "target": "s-8004e2046a72-c003:a001",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "同上一关系：信任表达与无条件爱的区别支持通过不交赎金让孩子承担后果来表达信任，因为前者指出需要具体行动。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n001",
+      "target": "s-8004e2046a72-c001:a027",
+      "kind": "complements",
+      "condition": "16岁左右孩子暑期打工时",
+      "reason": "source 建议优先白天工作；candidate 补充了应选择合适工作（如白天）避免影响睡眠健康，具体化了打工选择标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a027",
+      "target": "s-8004e2046a72-c002:v2-n001",
+      "kind": "complements",
+      "condition": "16岁左右孩子暑期打工时",
+      "reason": "source 建议优先白天工作；candidate 补充了应选择合适工作（如白天）避免影响睡眠健康，具体化了打工选择标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n001",
+      "target": "s-8004e2046a72-c001:a026",
+      "kind": "association",
+      "condition": "具体案例",
+      "reason": "candidate 是 16 岁男孩打工案例，涉及下午3点到凌晨12点工作，与 source 优先白天的建议形成对照但无直接补充，仅提供背景案例，不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a026",
+      "target": "s-8004e2046a72-c002:v2-n001",
+      "kind": "association",
+      "condition": "具体案例",
+      "reason": "candidate 是 16 岁男孩打工案例，涉及下午3点到凌晨12点工作，与 source 优先白天的建议形成对照但无直接补充，仅提供背景案例，不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n001",
+      "target": "s-8004e2046a72-c001:a028",
+      "kind": "complements",
+      "condition": "对暑期打工的态度",
+      "reason": "source 说孩子想继续学习正常；candidate 补充了暑期打工是正常成长经历而非惩罚，强调不应视为手段，补充了家长应有的态度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a028",
+      "target": "s-8004e2046a72-c002:v2-n001",
+      "kind": "complements",
+      "condition": "对暑期打工的态度",
+      "reason": "source 说孩子想继续学习正常；candidate 补充了暑期打工是正常成长经历而非惩罚，强调不应视为手段，补充了家长应有的态度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n001",
+      "target": "s-8004e2046a72-c002:a001",
+      "kind": "complements",
+      "condition": "对暑期打工的态度",
+      "reason": "与 a028 类似，candidate 强调打工是正常安排而非惩罚，补充了 source 中未明确的态度定位。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a001",
+      "target": "s-8004e2046a72-c002:v2-n001",
+      "kind": "complements",
+      "condition": "对暑期打工的态度",
+      "reason": "与 a028 类似，candidate 强调打工是正常安排而非惩罚，补充了 source 中未明确的态度定位。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n001",
+      "target": "s-8004e2046a72-c001:r003",
+      "kind": "complements",
+      "condition": "16岁左右孩子打工时",
+      "reason": "source 建议优先白天工作；candidate 补充了原因：需保证睡眠，避免影响健康，解释了为何优先白天。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c001:r003",
+      "target": "s-8004e2046a72-c002:v2-n001",
+      "kind": "complements",
+      "condition": "16岁左右孩子打工时",
+      "reason": "source 建议优先白天工作；candidate 补充了原因：需保证睡眠，避免影响健康，解释了为何优先白天。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n001",
+      "target": "s-8004e2046a72-c001:r004",
+      "kind": "association",
+      "condition": "暑期打工整体安排",
+      "reason": "candidate 说打工应持续到开学，与 source 优先白天无直接补充，但同属暑期打工安排，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c001:r004",
+      "target": "s-8004e2046a72-c002:v2-n001",
+      "kind": "association",
+      "condition": "暑期打工整体安排",
+      "reason": "candidate 说打工应持续到开学，与 source 优先白天无直接补充，但同属暑期打工安排，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n001",
+      "target": "s-8004e2046a72-c001:a029",
+      "kind": "association",
+      "condition": "暑期打工整体安排",
+      "reason": "candidate 说假期最好一直打工，与 source 具体建议无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c001:a029",
+      "target": "s-8004e2046a72-c002:v2-n001",
+      "kind": "association",
+      "condition": "暑期打工整体安排",
+      "reason": "candidate 说假期最好一直打工，与 source 具体建议无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n001",
+      "target": "s-8004e2046a72-c002:a003",
+      "kind": "association",
+      "condition": "文化背景",
+      "reason": "candidate 提供当地文化中青少年假期打工的普遍性，与 source 具体建议相关但无直接补充，仅背景关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a003",
+      "target": "s-8004e2046a72-c002:v2-n001",
+      "kind": "association",
+      "condition": "文化背景",
+      "reason": "candidate 提供当地文化中青少年假期打工的普遍性，与 source 具体建议相关但无直接补充，仅背景关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n001",
+      "target": "s-8004e2046a72-c002:a002",
+      "kind": "association",
+      "condition": "假期打工持续时间",
+      "reason": "candidate 与 r004、a029 类似，说明假期打工安排，与 source 优先白天的具体建议无直接关系，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a002",
+      "target": "s-8004e2046a72-c002:v2-n001",
+      "kind": "association",
+      "condition": "假期打工持续时间",
+      "reason": "candidate 与 r004、a029 类似，说明假期打工安排，与 source 优先白天的具体建议无直接关系，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n003",
+      "target": "s-8004e2046a72-c003:a004",
+      "kind": "association",
+      "condition": "在表达信任的日常实践中",
+      "reason": "source 提醒表达信任时避免语言矛盾，candidate 倡导主动在生活中表达信任，两者同属表达信任主题，但侧重点不同（一是语言规范，一是实践意识），无直接因果或前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c003:a004",
+      "target": "s-8004e2046a72-c002:v2-n003",
+      "kind": "association",
+      "condition": "在表达信任的日常实践中",
+      "reason": "source 提醒表达信任时避免语言矛盾，candidate 倡导主动在生活中表达信任，两者同属表达信任主题，但侧重点不同（一是语言规范，一是实践意识），无直接因果或前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n003",
+      "target": "s-8004e2046a72-c002:a020",
+      "kind": "complements",
+      "condition": "在表达信任的语言层面，同时关注真实性与一致性",
+      "reason": "source 强调避免语言自相矛盾（如强调努力重要却同时分析问题），candidate 强调避免讨好和虚假表达，二者从不同方面规范信任表达的语言，互补完善表达信任的注意事项。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a020",
+      "target": "s-8004e2046a72-c002:v2-n003",
+      "kind": "complements",
+      "condition": "在表达信任的语言层面，同时关注真实性与一致性",
+      "reason": "source 强调避免语言自相矛盾（如强调努力重要却同时分析问题），candidate 强调避免讨好和虚假表达，二者从不同方面规范信任表达的语言，互补完善表达信任的注意事项。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n003",
+      "target": "s-8004e2046a72-c002:a018",
+      "kind": "association",
+      "condition": "孩子在考试多次不及格的场景下",
+      "reason": "source 警告表达信任时避免将肯定努力与分析问题混在一起造成矛盾；candidate 提出具体方法：先表达信任（如相信能面对短板），再询问困难一起想办法，体现了另换维度的做法，但未明确对比，故仅做关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a018",
+      "target": "s-8004e2046a72-c002:v2-n003",
+      "kind": "association",
+      "condition": "孩子在考试多次不及格的场景下",
+      "reason": "source 警告表达信任时避免将肯定努力与分析问题混在一起造成矛盾；candidate 提出具体方法：先表达信任（如相信能面对短板），再询问困难一起想办法，体现了另换维度的做法，但未明确对比，故仅做关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n003",
+      "target": "s-8004e2046a72-c002:a015",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论表达信任的语言，candidate 讨论表达信任的关键年龄段，两者同为表达信任主题，但内容无直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a015",
+      "target": "s-8004e2046a72-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讨论表达信任的语言，candidate 讨论表达信任的关键年龄段，两者同为表达信任主题，但内容无直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n003",
+      "target": "s-8004e2046a72-c002:a021",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于语言矛盾，candidate 关于考试失败时表达深层信任（通过爱表达），主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a021",
+      "target": "s-8004e2046a72-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于语言矛盾，candidate 关于考试失败时表达深层信任（通过爱表达），主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n003",
+      "target": "s-8004e2046a72-c002:a024",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于表达信任的语言矛盾，candidate 关于孩子面临监禁时表达信任，内容无直接交叉。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a024",
+      "target": "s-8004e2046a72-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于表达信任的语言矛盾，candidate 关于孩子面临监禁时表达信任，内容无直接交叉。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n003",
+      "target": "s-8004e2046a72-c002:a016",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于语言矛盾，candidate 关于怀疑孩子偷钱时表达信任的方法，主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a016",
+      "target": "s-8004e2046a72-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于语言矛盾，candidate 关于怀疑孩子偷钱时表达信任的方法，主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n003",
+      "target": "s-8004e2046a72-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 是 anti-pattern，candidate 是案例，两者都涉及表达信任但具体情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n004",
+      "target": "s-8004e2046a72-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 是 anti-pattern，candidate 是案例，两者都涉及表达信任但具体情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n003",
+      "target": "s-8004e2046a72-c003:r001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 强调语言一致性，candidate 强调表达信任需要具体行动而非空话，两者属于表达信任的不同注意点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c003:r001",
+      "target": "s-8004e2046a72-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 强调语言一致性，candidate 强调表达信任需要具体行动而非空话，两者属于表达信任的不同注意点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n003",
+      "target": "s-8004e2046a72-c002:a017",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于语言矛盾，candidate 关于发现孩子撒谎时表达信任，主题相关但无实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a017",
+      "target": "s-8004e2046a72-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 关于语言矛盾，candidate 关于发现孩子撒谎时表达信任，主题相关但无实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n003",
+      "target": "s-8004e2046a72-c003:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 未涉及年龄，candidate 讨论信任表达适用于不同年龄段，主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c003:a003",
+      "target": "s-8004e2046a72-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 未涉及年龄，candidate 讨论信任表达适用于不同年龄段，主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n003",
+      "target": "s-8004e2046a72-c002:a022",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 强调避免混用信任维度，candidate 强调信任有多维度，两者都涉及维度概念，但侧重点不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a022",
+      "target": "s-8004e2046a72-c002:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 强调避免混用信任维度，candidate 强调信任有多维度，两者都涉及维度概念，但侧重点不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n004",
+      "target": "s-8004e2046a72-c002:a023",
+      "kind": "association",
+      "condition": "同一案例背景",
+      "reason": "source 与 candidate 描述的是同一案例（孩子偷窃被抓面临监禁），内容几乎相同，仅为不同记录，无新增关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a023",
+      "target": "s-8004e2046a72-c002:v2-n004",
+      "kind": "association",
+      "condition": "同一案例背景",
+      "reason": "source 与 candidate 描述的是同一案例（孩子偷窃被抓面临监禁），内容几乎相同，仅为不同记录，无新增关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n004",
+      "target": "s-8004e2046a72-c002:a024",
+      "kind": "example_of",
+      "condition": "孩子犯严重错误面临监禁时",
+      "reason": "source 描述了一个具体案例（孩子偷窃面临监禁，如何表达信任未决），candidate 是概括性概念“孩子面临监禁时如何表达信任”，source 是该概念的一个具体情境实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a024",
+      "target": "s-8004e2046a72-c002:v2-n004",
+      "kind": "has_example",
+      "condition": "孩子犯严重错误面临监禁时",
+      "reason": "source 描述了一个具体案例（孩子偷窃面临监禁，如何表达信任未决），candidate 是概括性概念“孩子面临监禁时如何表达信任”，source 是该概念的一个具体情境实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n004",
+      "target": "s-8004e2046a72-c003:a002",
+      "kind": "association",
+      "condition": "不同选择情境下（交赎金 vs 不交赎金）",
+      "reason": "source 提到可以交赎金保释但未决定，candidate 是选择不交赎金让孩子承担后果的具体案例，两者是同一情境下的不同处理方式，但 source 未给出明确方法，故关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c003:a002",
+      "target": "s-8004e2046a72-c002:v2-n004",
+      "kind": "association",
+      "condition": "不同选择情境下（交赎金 vs 不交赎金）",
+      "reason": "source 提到可以交赎金保释但未决定，candidate 是选择不交赎金让孩子承担后果的具体案例，两者是同一情境下的不同处理方式，但 source 未给出明确方法，故关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n004",
+      "target": "s-8004e2046a72-c003:r001",
+      "kind": "example_of",
+      "condition": "在回应孩子犯错时",
+      "reason": "source 案例中讲师指出说“妈妈永远爱你”可以但长期这样讲也不行，正是 r001 所阐述的观点（单纯说“妈妈永远爱你”长期不行，需要具体行动），source 作为实例印证了这一原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c003:r001",
+      "target": "s-8004e2046a72-c002:v2-n004",
+      "kind": "has_example",
+      "condition": "在回应孩子犯错时",
+      "reason": "source 案例中讲师指出说“妈妈永远爱你”可以但长期这样讲也不行，正是 r001 所阐述的观点（单纯说“妈妈永远爱你”长期不行，需要具体行动），source 作为实例印证了这一原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n004",
+      "target": "s-8004e2046a72-c003:a001",
+      "kind": "association",
+      "condition": "孩子已多次承诺未改且面临法律后果时",
+      "reason": "source 提出如何表达信任的问题，candidate 提供了不交赎金让孩子承担后果的具体方法，但该方法有条件限制，且 source 未明确是否采用此法，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c003:a001",
+      "target": "s-8004e2046a72-c002:v2-n004",
+      "kind": "association",
+      "condition": "孩子已多次承诺未改且面临法律后果时",
+      "reason": "source 提出如何表达信任的问题，candidate 提供了不交赎金让孩子承担后果的具体方法，但该方法有条件限制，且 source 未明确是否采用此法，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n004",
+      "target": "s-8004e2046a72-c003:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 是具体案例，candidate 是日常生活中主动表达信任的倡导，主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c003:a004",
+      "target": "s-8004e2046a72-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 是具体案例，candidate 是日常生活中主动表达信任的倡导，主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n004",
+      "target": "s-8004e2046a72-c002:a021",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 涉及偷窃监禁，candidate 涉及考试失败，情境不同，仅同属表达信任主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a021",
+      "target": "s-8004e2046a72-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 涉及偷窃监禁，candidate 涉及考试失败，情境不同，仅同属表达信任主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n004",
+      "target": "s-8004e2046a72-c003:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例针对特定孩子，candidate 讨论信任表达适用于不同年龄段，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c003:a003",
+      "target": "s-8004e2046a72-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例针对特定孩子，candidate 讨论信任表达适用于不同年龄段，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n004",
+      "target": "s-8004e2046a72-c002:a020",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 未涉及讨好和虚假，但两者都属于表达信任的注意事项，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a020",
+      "target": "s-8004e2046a72-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 未涉及讨好和虚假，但两者都属于表达信任的注意事项，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n004",
+      "target": "s-8004e2046a72-c002:a015",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例与年龄无关，candidate 强调年龄段，主题相关但无实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a015",
+      "target": "s-8004e2046a72-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例与年龄无关，candidate 强调年龄段，主题相关但无实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n004",
+      "target": "s-8004e2046a72-c002:a017",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 是偷窃案例，candidate 是撒谎情况，不同情境，仅同属表达信任主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a017",
+      "target": "s-8004e2046a72-c002:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 是偷窃案例，candidate 是撒谎情况，不同情境，仅同属表达信任主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:v2-n004",
+      "target": "s-8004e2046a72-c002:a016",
+      "kind": "association",
+      "condition": "在偷窃相关情境下",
+      "reason": "source 与 candidate 都涉及孩子偷窃，但严重程度不同（监禁 vs 偷钱），具体方法有差异，关联但不强烈。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8004e2046a72-c002:a016",
+      "target": "s-8004e2046a72-c002:v2-n004",
+      "kind": "association",
+      "condition": "在偷窃相关情境下",
+      "reason": "source 与 candidate 都涉及孩子偷窃，但严重程度不同（监禁 vs 偷钱），具体方法有差异，关联但不强烈。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c001:a028",
+        "s-8004e2046a72-c002:a001"
+      ],
+      "reason": "两者都强调16岁孩子暑期打工是正常安排而非惩罚，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c001:a029",
+        "s-8004e2046a72-c002:a002"
+      ],
+      "reason": "两者都描述假期打工应持续到开学，最后留时间旅游或做义工，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c002:a006",
+        "s-8004e2046a72-c002:r001"
+      ],
+      "reason": "两者内容完全相同，都是关于21个月大孩子使用后果无效。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c002:a007"
+      ],
+      "reason": "两者内容完全相同，都是关于使用绘本帮助幼儿建立刷牙习惯。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c002:a012"
+      ],
+      "reason": "两者内容完全相同，都是关于对不够优质朋友的处理方式。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c002:a013"
+      ],
+      "reason": "两者内容完全相同，都是关于对两岁调皮孩子不建议打手惩罚。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c002:a014"
+      ],
+      "reason": "两者内容完全相同，都是关于实操打卡的重要性。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c002:a016"
+      ],
+      "reason": "两者内容完全相同，都是关于怀疑孩子偷钱时表达信任的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c002:a017"
+      ],
+      "reason": "两者内容完全相同，都是关于发现孩子撒谎时表达信任的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c002:a018"
+      ],
+      "reason": "两者内容完全相同，都是关于孩子考试多次不及格时表达信任的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c002:a019"
+      ],
+      "reason": "两者内容完全相同，都是讲师自身数学不及格经历。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c002:a020"
+      ],
+      "reason": "两者内容完全相同，都是关于表达信任时避免讨好和虚假。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c002:a021"
+      ],
+      "reason": "两者内容完全相同，都是关于考试失败时表达信任的深层方式。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c002:a022"
+      ],
+      "reason": "两者内容完全相同，都是关于信任的多维度。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c002:a023"
+      ],
+      "reason": "两者内容完全相同，都是孩子偷东西被抓面临监禁的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c002:a024"
+      ],
+      "reason": "两者内容完全相同，都是关于孩子面临监禁时如何表达信任。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c001:a007",
+        "s-8004e2046a72-c001:a008"
+      ],
+      "description": "a007说选择性缄默症必须专业帮助，a008说建立安全感对所有孩子有益但非专门治疗，两者不矛盾但需明确适用范围。",
+      "needed_evidence": "需要明确建立安全感在选择性缄默症治疗中的辅助作用。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c001:a019",
+        "s-8004e2046a72-c001:a020"
+      ],
+      "description": "a019说全家一起过夜可以接受，a020说不让孩子养成在外过夜的习惯，两者可能冲突，需明确全家过夜是否属于例外。",
+      "needed_evidence": "需要明确全家过夜是否允许，以及如何与回家习惯协调。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c001:a022",
+        "s-8004e2046a72-c001:a023"
+      ],
+      "description": "a022案例中母亲回应被指情绪勒索，a023说孩子后悔买礼物是正常的，两者不矛盾但需注意父母回应方式。",
+      "needed_evidence": "需要明确如何正确回应孩子后悔买礼物。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c002:a013",
+        "s-8004e2046a72-c002:a014"
+      ],
+      "description": "a013反对体罚但未提供具体替代方案，a014强调实操打卡，可能缺乏具体方法。",
+      "needed_evidence": "需要提供针对两岁调皮孩子的具体非惩罚性管教方法。"
+    },
+    {
+      "atom_ids": [
+        "s-8004e2046a72-c003:a001",
+        "s-8004e2046a72-c003:a002"
+      ],
+      "description": "a001建议不交赎金让孩子承担后果，但涉及未成年人被关押，可能违反儿童保护法律。",
+      "needed_evidence": "需要核验当地法律是否允许父母不保释未成年子女，以及关押是否适当。"
+    }
+  ],
+  "path": [
+    {
+      "name": "信任表达方法",
+      "steps": [
+        {
+          "action": "识别孩子犯错类型（偷钱、撒谎、考试失败、严重错误）",
+          "atom_ids": [
+            "s-8004e2046a72-c002:a016",
+            "s-8004e2046a72-c002:a017",
+            "s-8004e2046a72-c002:a018",
+            "s-8004e2046a72-c002:a023"
+          ],
+          "condition": "孩子犯错"
+        },
+        {
+          "action": "根据错误类型选择信任表达维度",
+          "atom_ids": [
+            "s-8004e2046a72-c002:a022"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "使用具体话术表达信任",
+          "atom_ids": [
+            "s-8004e2046a72-c002:a016",
+            "s-8004e2046a72-c002:a017",
+            "s-8004e2046a72-c002:a018"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "对于严重错误，通过让孩子承担后果表达信任",
+          "atom_ids": [
+            "s-8004e2046a72-c003:a001"
+          ],
+          "condition": "孩子多次承诺未改且面临法律后果"
+        },
+        {
+          "action": "在日常生活中主动实践信任表达",
+          "atom_ids": [
+            "s-8004e2046a72-c003:a004"
+          ],
+          "condition": "无"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-8004e2046a72-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a002"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a003"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a005"
+      ],
+      "blocks": [
+        "b00003",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a004"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a006"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:r001"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a007"
+      ],
+      "blocks": [
+        "b00009",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a008"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a009"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a010"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a011"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a012"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a013"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a014"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a015"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a016"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a017"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a018"
+      ],
+      "blocks": [
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a019"
+      ],
+      "blocks": [
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a020"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a021"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u023",
+      "kind": "case",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a022"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a023"
+      ],
+      "blocks": [
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a024"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:r002"
+      ],
+      "blocks": [
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a025"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a030"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u029",
+      "kind": "case",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a026"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a027"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u031",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a028"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c001:u032",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:r003"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a028",
+        "s-8004e2046a72-c002:a001"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a029",
+        "s-8004e2046a72-c001:r004",
+        "s-8004e2046a72-c002:a002"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a003"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c001:a028"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a004",
+        "s-8004e2046a72-c002:a005",
+        "s-8004e2046a72-c002:a006",
+        "s-8004e2046a72-c002:a007"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00049",
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-8004e2046a72-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a008",
+        "s-8004e2046a72-c002:a009"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0009",
+      "kind": "case",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a010",
+        "s-8004e2046a72-c002:a011",
+        "s-8004e2046a72-c002:a012"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056",
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0010",
+      "kind": "case",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a013"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a014"
+      ],
+      "blocks": [
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a015"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a016"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065",
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a017"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a018",
+        "s-8004e2046a72-c002:a019",
+        "s-8004e2046a72-c002:a020"
+      ],
+      "blocks": [
+        "b00071",
+        "b00073",
+        "b00074",
+        "b00075",
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0016",
+      "kind": "case",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a019"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a020"
+      ],
+      "blocks": [
+        "b00073",
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0018",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-8004e2046a72-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a021"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a022"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c002:u0021",
+      "kind": "case",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a023",
+        "s-8004e2046a72-c002:v2-n004"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c003:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c002:a024",
+        "s-8004e2046a72-c003:r001"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c003:u0002",
+      "kind": "case",
+      "atom_ids": [
+        "s-8004e2046a72-c003:a002"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c003:u0003",
+      "kind": "method",
+      "atom_ids": [
+        "s-8004e2046a72-c003:a001"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c003:u0004",
+      "kind": "case",
+      "atom_ids": [
+        "s-8004e2046a72-c003:a002"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c003:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8004e2046a72-c003:a003"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-8004e2046a72-c003:u0006",
+      "kind": "method",
+      "atom_ids": [
+        "s-8004e2046a72-c003:a004"
+      ],
+      "blocks": [
+        "b00090"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "暑期打工优先选择白天工作；孩子想继续学习是正常需求",
+      "atom_ids": [
+        "s-8004e2046a72-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8004e2046a72",
+          "blocks": [
+            "b00041"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "15岁初三学生如何获得学习自信心和归属感（未回答）",
+      "atom_ids": [
+        "s-8004e2046a72-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8004e2046a72",
+          "blocks": [
+            "b00051",
+            "b00052"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "表达信任时避免语言矛盾：分数不重要努力重要与一起分析问题冲突",
+      "atom_ids": [
+        "s-8004e2046a72-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8004e2046a72",
+          "blocks": [
+            "b00078",
+            "b00079",
+            "b00080"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "anti-pattern"
+    },
+    {
+      "title": "孩子偷窃面临监禁时如何表达信任（案例与未决问题）",
+      "atom_ids": [
+        "s-8004e2046a72-c002:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8004e2046a72",
+          "blocks": [
+            "b00083",
+            "b00084",
+            "b00085",
+            "b00086"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "concepts": [
+    {
+      "name": "模仿父母",
+      "definition": "孩子通过观察父母行为来学习，而非听从说教，并希望成为父母的样子。",
+      "atom_ids": [
+        "s-da96650b496a-c001:a001",
+        "s-da96650b496a-c001:a002"
+      ]
+    },
+    {
+      "name": "代际传递",
+      "definition": "父母的行为模式（如不自我照顾、牺牲、缺乏生活美感）会传递给孩子，导致孩子重复相同模式。",
+      "atom_ids": [
+        "s-da96650b496a-c001:a003",
+        "s-da96650b496a-c001:a004",
+        "s-da96650b496a-c001:a005",
+        "s-da96650b496a-c001:a006",
+        "s-da96650b496a-c001:a008",
+        "s-da96650b496a-c001:r001"
+      ]
+    },
+    {
+      "name": "自我照顾",
+      "definition": "用自己的资源来获得所需要的调整休息，与自私（损害他人利益）有本质区别。",
+      "atom_ids": [
+        "s-da96650b496a-c001:a010"
+      ]
+    },
+    {
+      "name": "寻求帮助",
+      "definition": "自我照顾的方法之一，主动向他人请求支持，如婚姻辅导、请人帮忙带孩子等。",
+      "atom_ids": [
+        "s-da96650b496a-c001:a011"
+      ]
+    },
+    {
+      "name": "缺乏关注自己的记忆",
+      "definition": "大脑中没有关注自己的记忆，导致不愿意关注自己，这是不关注自己的第一个原因。",
+      "atom_ids": [
+        "s-da96650b496a-c001:a009"
+      ]
+    },
+    {
+      "name": "自私与自我照顾的区别",
+      "definition": "自私是损害他人利益来达到自己的目的，自我照顾是用自己的资源调整休息，两者有本质区别。",
+      "atom_ids": [
+        "s-da96650b496a-c001:a010"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-da96650b496a-c001:a001",
+      "target": "s-da96650b496a-c001:a002",
+      "kind": "supports",
+      "condition": "",
+      "reason": "孩子模仿父母而非听从说教，说明孩子看父母怎么做，这支持父母行为决定孩子未来人格的结论。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-da96650b496a-c001:a001",
+      "target": "s-da96650b496a-c001:a003",
+      "kind": "supports",
+      "condition": "",
+      "reason": "孩子模仿父母而非听从说教的一般原则，支持父母不自我照顾会导致孩子不自我照顾的具体推断。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为causes，修订为supports"
+    },
+    {
+      "source": "s-da96650b496a-c001:a003",
+      "target": "s-da96650b496a-c001:a004",
+      "kind": "supports",
+      "condition": "",
+      "reason": "父母不自我照顾导致孩子不自我照顾的一般原则，支持优等生牺牲自我照顾循环的具体表现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-da96650b496a-c001:a004",
+      "target": "s-da96650b496a-c001:a005",
+      "kind": "association",
+      "condition": "",
+      "reason": "优等生怪圈与未学会幸福快乐导致重复牺牲模式有关联，但原方向不能证明前者导致后者；后者解释了前者的原因。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为causes，方向不成立，改为关联"
+    },
+    {
+      "source": "s-da96650b496a-c001:a005",
+      "target": "s-da96650b496a-c001:a006",
+      "kind": "causes",
+      "condition": null,
+      "reason": "a005 指出孩子未学会幸福快乐，a006 进一步说明未学到自我照顾导致焦虑。"
+    },
+    {
+      "source": "s-da96650b496a-c001:a006",
+      "target": "s-da96650b496a-c001:a007",
+      "kind": "association",
+      "condition": "",
+      "reason": "名校毕业妈妈焦虑案例是孩子未学到自我照顾导致焦虑的具体例子，但原方向概念到案例不宜使用example_of，两者为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为example_of，方向不成立，改为关联"
+    },
+    {
+      "source": "s-da96650b496a-c001:a008",
+      "target": "s-da96650b496a-c001:r001",
+      "kind": "supports",
+      "condition": "",
+      "reason": "缺乏关注自己的记忆导致生活无美感与父母未展示生活之美导致孩子缺乏生活美感的命题一致，相互支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-da96650b496a-c001:a008",
+      "target": "s-da96650b496a-c001:a009",
+      "kind": "supports",
+      "condition": "",
+      "reason": "缺乏关注自己的记忆导致生活无美感的现象，支持大脑缺乏关注自己的记忆是不关注自己的原因这一解释。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为causes，修订为supports"
+    },
+    {
+      "source": "s-da96650b496a-c001:a009",
+      "target": "s-da96650b496a-c001:a010",
+      "kind": "association",
+      "condition": "",
+      "reason": "大脑缺乏关注自己的记忆是第一个不愿关注自己的原因，自私与自我照顾的区别是第二个原因，两者并列无支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为supports，修订为关联"
+    },
+    {
+      "source": "s-da96650b496a-c001:a010",
+      "target": "s-da96650b496a-c001:a011",
+      "kind": "prerequisite",
+      "condition": "",
+      "reason": "分不清自私和自我照顾会导致对自我照顾有罪恶感，因此理解自私与自我照顾的区别是实践寻求帮助等自我照顾方法的前提。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为step_of，修订为prerequisite"
+    },
+    {
+      "source": "s-da96650b496a-c001:a011",
+      "target": "s-da96650b496a-c001:a012",
+      "kind": "contrasts",
+      "condition": "",
+      "reason": "自我照顾方法一寻求帮助与不愿寻求帮助的反例形成对比，前者提倡，后者是不懂寻求帮助的典型表现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    }
+  ],
+  "module_links": [
+    {
+      "from": "自我修养",
+      "to": "界限",
+      "when": "当父母需要区分自我照顾和自私，以及学习寻求帮助时，自我修养模块与界限模块联动。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-da96650b496a-c001:a010",
+        "s-da96650b496a-c001:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-da96650b496a-c001:a008",
+        "s-da96650b496a-c001:r001"
+      ],
+      "reason": "两者都描述父母未展示生活之美导致孩子缺乏生活美感，内容实质等价。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "自我照顾方法",
+      "steps": [
+        {
+          "action": "识别需要帮助的领域",
+          "atom_ids": [
+            "s-da96650b496a-c001:a011"
+          ],
+          "condition": null
+        },
+        {
+          "action": "寻找合适的帮助来源",
+          "atom_ids": [
+            "s-da96650b496a-c001:a011"
+          ],
+          "condition": null
+        },
+        {
+          "action": "主动提出请求",
+          "atom_ids": [
+            "s-da96650b496a-c001:a011"
+          ],
+          "condition": null
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-da96650b496a-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da96650b496a-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-da96650b496a-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da96650b496a-c001:a002"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-da96650b496a-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da96650b496a-c001:a003"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-da96650b496a-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da96650b496a-c001:a004"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-da96650b496a-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da96650b496a-c001:a005"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-da96650b496a-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da96650b496a-c001:a006"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-da96650b496a-c001:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-da96650b496a-c001:a007"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-da96650b496a-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da96650b496a-c001:a008"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-da96650b496a-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da96650b496a-c001:a009"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-da96650b496a-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-da96650b496a-c001:a010"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-da96650b496a-c001:u0011",
+      "kind": "method",
+      "atom_ids": [
+        "s-da96650b496a-c001:a011"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-da96650b496a-c001:u0012",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-da96650b496a-c001:a012"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

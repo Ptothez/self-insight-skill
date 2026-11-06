@@ -1,0 +1,4003 @@
+{
+  "concepts": [
+    {
+      "name": "情绪连接",
+      "definition": "在引导孩子之前必须完成的情绪连接，是后续所有管教方法的基础。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a001"
+      ]
+    },
+    {
+      "name": "压力过大导致摆烂",
+      "definition": "孩子长期承受过大压力会因无法忍受而放弃努力，表现为摆烂、撂摊子。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a002"
+      ]
+    },
+    {
+      "name": "修复关系需要时间",
+      "definition": "孩子拒绝父母是多年累积的结果，修复关系需要相应时间，不能短期快速解决。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a003"
+      ]
+    },
+    {
+      "name": "真诚道歉的七个步骤",
+      "definition": "父母需要按照七个步骤对孩子真诚道歉，道歉是修复关系的第一步。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a004",
+        "s-296bebb32928-c002:a033",
+        "s-296bebb32928-c003:a001"
+      ]
+    },
+    {
+      "name": "迁怒",
+      "definition": "孩子生气时可能无法直接表达对父母的愤怒，而迁怒于他人，这是正常情绪反应。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a005"
+      ]
+    },
+    {
+      "name": "孩子价值感",
+      "definition": "父母不应只关注学习，要让孩子相信即使成绩不好仍有价值。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a006"
+      ]
+    },
+    {
+      "name": "父母焦虑",
+      "definition": "父母的焦虑会导致教育方式混乱、专制和控制，需先处理自身焦虑。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a007"
+      ]
+    },
+    {
+      "name": "渐进改变",
+      "definition": "改变孩子不能一步到位，要像下象棋一样逐步调整策略。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a008"
+      ]
+    },
+    {
+      "name": "imprint（烙印）",
+      "definition": "刻在记忆中的温暖记忆，能在未来痛苦时刻提供支撑。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a009",
+        "s-296bebb32928-c001:a010"
+      ]
+    },
+    {
+      "name": "陪伴安慰与解决问题的界限",
+      "definition": "父母可以陪伴安慰孩子，但不需要帮助解决一般挫折问题，除非涉及伤害。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a011"
+      ]
+    },
+    {
+      "name": "社交挫折案例",
+      "definition": "孩子未被邀请参加生日会，父母应安慰陪伴但不干预解决问题。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a012"
+      ]
+    },
+    {
+      "name": "哭泣与信任",
+      "definition": "孩子哭时父母的反应决定孩子将来如何与人建立关系和信任。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a013"
+      ]
+    },
+    {
+      "name": "零食冲突案例",
+      "definition": "八岁女儿吃零食被拒，父母管教不一致导致孩子伤心和夫妻矛盾。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a014"
+      ]
+    },
+    {
+      "name": "拒绝行为而非感受",
+      "definition": "父母应拒绝攻击性行为，但不应拒绝孩子的任何感受。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a015"
+      ]
+    },
+    {
+      "name": "管教时机",
+      "definition": "孩子累饿或情绪激动时不宜讲道理，应先满足生理需求。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a016"
+      ]
+    },
+    {
+      "name": "事后沟通",
+      "definition": "管教时机不当后，父母应事后与孩子沟通感受并接纳。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a017",
+        "s-296bebb32928-c001:r001"
+      ]
+    },
+    {
+      "name": "允许表达负面感受",
+      "definition": "必须允许孩子有任何感受，并让孩子知道说出来是安全的。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a018"
+      ]
+    },
+    {
+      "name": "负面感受案例",
+      "definition": "讲师孩子表达负面感受后仍可能爱父母，说明接纳的重要性。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a019"
+      ]
+    },
+    {
+      "name": "延迟满足",
+      "definition": "平时多练习延迟满足，帮助孩子学会等待和控制冲动。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a020"
+      ]
+    },
+    {
+      "name": "夫妻管教不一致",
+      "definition": "夫妻管教不一致会导致夫妻矛盾，矛盾从一方拒绝另一方决定时开始积累。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a021"
+      ]
+    },
+    {
+      "name": "夫妻一致与前提条件",
+      "definition": "一方已同意孩子做某事，另一方应保持一致但可设置前提条件。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a022"
+      ]
+    },
+    {
+      "name": "孩子对前提条件的反应",
+      "definition": "孩子会自己做选择，并逐渐训练做出正确选择。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a023"
+      ]
+    },
+    {
+      "name": "夫妻共同学习",
+      "definition": "夫妻应共同学习育儿方法，避免敌对，共同找到帮助孩子的方法。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a024"
+      ]
+    },
+    {
+      "name": "课后与配偶沟通",
+      "definition": "课后应与配偶商量讨论问题并道歉，优先处理夫妻关系。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a025"
+      ]
+    },
+    {
+      "name": "完成作业再提问",
+      "definition": "父母应认真完成作业再提问，基础工作未做后续指导无法生效。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a026"
+      ]
+    },
+    {
+      "name": "自我反思",
+      "definition": "孩子出现问题时，父母应反思自身行为而非归咎外部因素。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a027"
+      ]
+    },
+    {
+      "name": "不辅导学习",
+      "definition": "建议家长不辅导孩子学习，让孩子自己承担后果。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a001",
+        "s-296bebb32928-c002:xe001"
+      ]
+    },
+    {
+      "name": "学习兴趣",
+      "definition": "孩子对有趣知识感兴趣，对死记硬背不感兴趣。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a002"
+      ]
+    },
+    {
+      "name": "创造性游戏帮助记忆",
+      "definition": "家长可以通过创造性游戏帮助孩子记忆，如有趣方法记单词。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a003"
+      ]
+    },
+    {
+      "name": "纸杯游戏教字母",
+      "definition": "用大小纸杯底部写字母，通过干杯游戏帮助孩子掌握大小写。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a004",
+        "s-296bebb32928-c002:xe003"
+      ]
+    },
+    {
+      "name": "谐音记忆单词",
+      "definition": "用谐音联想帮助记忆单词，如“阿婆吃苹果”记apple。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a005",
+        "s-296bebb32928-c002:r002",
+        "s-296bebb32928-c002:xe004"
+      ]
+    },
+    {
+      "name": "不纠正拼写错误",
+      "definition": "允许孩子自由书写，不纠正拼写错误，不施加压力。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a006"
+      ]
+    },
+    {
+      "name": "用喜欢的方法学习",
+      "definition": "家长应帮助孩子用喜欢的学习方法学习不擅长的内容。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a007"
+      ]
+    },
+    {
+      "name": "没收游戏设备",
+      "definition": "越没收游戏设备孩子越上瘾，没收不可持续，需培养能力。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a008",
+        "s-296bebb32928-c002:a009",
+        "s-296bebb32928-c002:xe007",
+        "s-296bebb32928-c002:xe008"
+      ]
+    },
+    {
+      "name": "分离焦虑训练",
+      "definition": "让孩子待在隔壁房间，从五分钟开始逐渐延长，训练习惯看不见家长但安全。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a010"
+      ]
+    },
+    {
+      "name": "疫情宝宝社交弱",
+      "definition": "疫情期间两岁左右孩子社交发展受影响，社交稍弱是正常的。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a011",
+        "s-296bebb32928-c002:xe010"
+      ]
+    },
+    {
+      "name": "帮助疫情宝宝社交",
+      "definition": "多带孩子出去玩，小范围邀请朋友到家里玩，让孩子对人产生兴趣。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a012"
+      ]
+    },
+    {
+      "name": "从怕生到融入",
+      "definition": "通过不催促、慢慢等待，孩子逐渐适应社交环境。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a013",
+        "s-296bebb32928-c002:xe012"
+      ]
+    },
+    {
+      "name": "疫情宝宝敏感",
+      "definition": "疫情宝宝对人兴趣不强烈且更敏感，需要时间慢慢修复。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a014",
+        "s-296bebb32928-c002:xe013"
+      ]
+    },
+    {
+      "name": "五岁孩子怕失败",
+      "definition": "五岁孩子怕失败是正常的，不能要求他们不怕失败。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a015",
+        "s-296bebb32928-c002:xe014"
+      ]
+    },
+    {
+      "name": "面对怕失败的正确回应",
+      "definition": "不要批评孩子胆小，而是共情并鼓励尝试。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a016"
+      ]
+    },
+    {
+      "name": "逐步挑战克服怕失败",
+      "definition": "通过逐步增加难度的挑战帮助孩子克服怕失败。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a017",
+        "s-296bebb32928-c002:r003",
+        "s-296bebb32928-c002:xe016"
+      ]
+    },
+    {
+      "name": "家长大惊小怪",
+      "definition": "家长大惊小怪会让孩子更怕失败。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a018",
+        "s-296bebb32928-c002:xe017"
+      ]
+    },
+    {
+      "name": "赋能需要时间",
+      "definition": "对孩子的赋能需要时间等待，不能急于求成。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a019",
+        "s-296bebb32928-c002:xe018"
+      ]
+    },
+    {
+      "name": "玩具挣钱目标",
+      "definition": "带孩子逛玩具店选玩具作为挣钱目标，培养动力。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a020",
+        "s-296bebb32928-c002:r004"
+      ]
+    },
+    {
+      "name": "物质满足界限",
+      "definition": "孩子不应经历衣食住行的缺乏，但玩具可以少买。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a021",
+        "s-296bebb32928-c002:xe020"
+      ]
+    },
+    {
+      "name": "金钱观个体差异",
+      "definition": "家长在意钱不代表孩子必须在意，孩子对丢钱乐观是健康的。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a022",
+        "s-296bebb32928-c002:xe021"
+      ]
+    },
+    {
+      "name": "九岁自我认知",
+      "definition": "九岁孩子不可能有健全的自我认知，但可以有健康的自我认知。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a023",
+        "s-296bebb32928-c002:xe022"
+      ]
+    },
+    {
+      "name": "承担后果培养自我认知",
+      "definition": "让孩子自己承担后果是培养自我认知的最好方法。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a024"
+      ]
+    },
+    {
+      "name": "势均力敌的矛盾",
+      "definition": "两个小朋友势均力敌且无伤害时，家长不需插手。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a025",
+        "s-296bebb32928-c002:xe024"
+      ]
+    },
+    {
+      "name": "肥皂洗嘴巴惩罚",
+      "definition": "用肥皂洗嘴巴惩罚骂脏话，孩子经历一次后知道不能骂脏话。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a026",
+        "s-296bebb32928-c002:r005",
+        "s-296bebb32928-c002:xe025"
+      ]
+    },
+    {
+      "name": "高贵品格",
+      "definition": "平时培养孩子高贵品格，不在冲突时讲道理。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a027"
+      ]
+    },
+    {
+      "name": "缺乏安全感导致自我保护",
+      "definition": "九岁孩子自我保护欲强可能因缺乏安全感，出现刺猬心态。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a028",
+        "s-296bebb32928-c002:xe027"
+      ]
+    },
+    {
+      "name": "老师权威",
+      "definition": "老师有权在教室立规矩，可以拒绝家长干涉育儿。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a029",
+        "s-296bebb32928-c002:xe028"
+      ]
+    },
+    {
+      "name": "新学员背景信息",
+      "definition": "新学员需提供更多背景信息才能回答具体问题。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a030",
+        "s-296bebb32928-c002:xe029"
+      ]
+    },
+    {
+      "name": "九岁孩子期待",
+      "definition": "对九岁孩子的期待要符合年龄，鼓励犯错并称赞过程。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a031"
+      ]
+    },
+    {
+      "name": "改变需要持续性",
+      "definition": "对孩子的改变需要持续性，不可能做一两次就改变。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a032",
+        "s-296bebb32928-c002:xe031"
+      ]
+    },
+    {
+      "name": "弥补伤害",
+      "definition": "弥补伤害除了道歉，还需要做对的事情比做错的事情多。",
+      "atom_ids": [
+        "s-296bebb32928-c003:a002"
+      ]
+    },
+    {
+      "name": "父母犯错不可避免",
+      "definition": "父母一定会犯错并伤害孩子，没有人可以永远不犯错。",
+      "atom_ids": [
+        "s-296bebb32928-c003:a003"
+      ]
+    },
+    {
+      "name": "做对多于做错",
+      "definition": "父母要做对的事情比做错的事情多，而不是追求不犯错。",
+      "atom_ids": [
+        "s-296bebb32928-c003:a004"
+      ]
+    },
+    {
+      "name": "银行账户比喻",
+      "definition": "做对的事情是存钱，做错的事情是取钱，余额充足时取钱后仍有余额。",
+      "atom_ids": [
+        "s-296bebb32928-c003:a005"
+      ]
+    },
+    {
+      "name": "孩子对伤害的记忆",
+      "definition": "孩子会记得父母造成的伤害，即使不记得具体事情也可能记得伤害的感觉。",
+      "atom_ids": [
+        "s-296bebb32928-c003:a006"
+      ]
+    },
+    {
+      "name": "做对多于做错对关系的影响",
+      "definition": "只要做对的事情比做错的事情多，就不会毁了孩子和亲子关系。",
+      "atom_ids": [
+        "s-296bebb32928-c003:a007"
+      ]
+    },
+    {
+      "name": "不追求完美父母",
+      "definition": "父母不追求完美，而是追求赋能孩子多于伤害孩子。",
+      "atom_ids": [
+        "s-296bebb32928-c003:a008"
+      ]
+    },
+    {
+      "name": "童年余额",
+      "definition": "童年被赋能多于被伤害，则受到伤害后仍有余额，可治疗将来社会伤害。",
+      "atom_ids": [
+        "s-296bebb32928-c003:a009"
+      ]
+    },
+    {
+      "name": "作业与评语",
+      "definition": "课程结束后需要做作业，学员应查看评语。",
+      "atom_ids": [
+        "s-296bebb32928-c003:a010"
+      ]
+    },
+    {
+      "name": "连麦申请流程",
+      "definition": "星期四早上直播间申请连麦，需先跟助理申请，上课学员优先。",
+      "atom_ids": [
+        "s-296bebb32928-c003:a011"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-296bebb32928-c001:a001",
+      "target": "s-296bebb32928-c001:a004",
+      "kind": "association",
+      "condition": "",
+      "reason": "“情绪连接是引导孩子的前提”与“父母需要对孩子真诚道歉”都涉及管教前提，但原内容未说明情绪连接是道歉的前提，不构成 prerequisite；改为 association。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 prerequisite 条件无依据。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a002",
+      "target": "s-296bebb32928-c001:a003",
+      "kind": "causes",
+      "condition": "孩子摆烂是压力累积的结果，修复关系需要时间。",
+      "reason": "k00002 说明压力导致摆烂，k00003 说明修复关系需要时间，因此摆烂问题需要时间修复。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a004",
+      "target": "s-296bebb32928-c002:a033",
+      "kind": "supports",
+      "condition": "k00070 是 k00004 中七个步骤的具体应用。",
+      "reason": "k00004 提到七个步骤道歉，k00070 提到按照七个步骤道歉并指认伤害，两者一致。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a005",
+      "target": "s-296bebb32928-c001:a015",
+      "kind": "supports",
+      "condition": "迁怒是正常情绪反应，父母应拒绝行为而非拒绝感受。",
+      "reason": "“孩子生气时迁怒他人是正常情绪反应”支持“父母应拒绝攻击行为但不拒绝感受”，因为正常感受应被接纳而行为需被约束。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c001:a006",
+      "target": "s-296bebb32928-c002:a023",
+      "kind": "supports",
+      "condition": "孩子价值不仅在于学习，九岁孩子可以有健康的自我认知。",
+      "reason": "k00006 强调价值感，k00060 强调健康的自我认知，两者都关注孩子的整体价值。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a007",
+      "target": "s-296bebb32928-c001:a027",
+      "kind": "association",
+      "condition": "",
+      "reason": "“父母需处理自身焦虑”和“父母需反思自身行为而非归咎他人”都强调父母自我改变，但两者无直接支持关系，改为 association。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c001:a008",
+      "target": "s-296bebb32928-c002:a032",
+      "kind": "supports",
+      "condition": "改变需要一步一步来，且需要持续性。",
+      "reason": "k00008 强调渐进改变，k00069 强调改变需要持续性，两者一致。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a009",
+      "target": "s-296bebb32928-c001:a010",
+      "kind": "supports",
+      "condition": "imprint 是温暖记忆，能提供心理支撑。",
+      "reason": "“imprint 是刻在记忆中的温暖记忆”直接解释并支持“温暖记忆能提供心理支撑，幸福童年治愈一生”的机制。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c001:a011",
+      "target": "s-296bebb32928-c001:a012",
+      "kind": "example_of",
+      "condition": "生日会案例是陪伴安慰但不解决问题的具体例子。",
+      "reason": "k00011 提出原则，k00012 是具体案例，说明原则的应用。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a013",
+      "target": "s-296bebb32928-c001:a018",
+      "kind": "supports",
+      "condition": "孩子哭时给予安慰和接纳，允许表达负面感受。",
+      "reason": "k00013 强调哭时反应影响信任，k00018 强调允许表达负面感受，两者都关注情绪接纳。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a014",
+      "target": "s-296bebb32928-c001:a021",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "“八岁女儿吃零食被拒的案例”展示了妈妈同意、爸爸拒绝导致夫妻矛盾，是“夫妻矛盾源于管教不一致”的具体例证；原 causes 不是允许的关系类型，改为 example_of。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 不允许。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a015",
+      "target": "s-296bebb32928-c001:a018",
+      "kind": "supports",
+      "condition": "拒绝行为而非感受，允许表达负面感受。",
+      "reason": "“拒绝行为而非拒绝感受”直接支持“允许孩子表达负面感受”，因为感受应被接纳而不惩罚。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c001:a016",
+      "target": "s-296bebb32928-c001:a017",
+      "kind": "association",
+      "condition": "",
+      "reason": "“孩子累饿时不宜讲道理”与“事后与孩子沟通感受”是先后情境但并非前者包含后者的步骤关系，改为 association。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不成立。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a017",
+      "target": "s-296bebb32928-c001:r001",
+      "kind": "supports",
+      "condition": "事后沟通接纳感受的具体做法。",
+      "reason": "“事后与孩子沟通感受”的详细描述支持“管教时机不当后的补救沟通”这一概括性命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c001:a018",
+      "target": "s-296bebb32928-c001:a019",
+      "kind": "example_of",
+      "condition": "讲师孩子表达负面感受的案例。",
+      "reason": "k00018 提出原则，k00019 是具体案例。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a020",
+      "target": "s-296bebb32928-c001:a020",
+      "kind": "supports",
+      "condition": "延迟满足的练习。",
+      "reason": "k00020 和 k00032 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a021",
+      "target": "s-296bebb32928-c001:a022",
+      "kind": "contrasts",
+      "condition": "夫妻不一致导致矛盾，而保持一致并设置前提条件可预防矛盾。",
+      "reason": "“夫妻矛盾源于管教不一致”与“夫妻保持一致并设置前提条件”形成问题与解决方案的对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c001:a022",
+      "target": "s-296bebb32928-c001:a023",
+      "kind": "example_of",
+      "condition": "讲师孩子对前提条件的反应。",
+      "reason": "“夫妻保持一致并设置前提条件”的方法由“讲师孩子对前提条件的反应”这一案例所例示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c001:a024",
+      "target": "s-296bebb32928-c001:a024",
+      "kind": "supports",
+      "condition": "夫妻共同学习育儿方法。",
+      "reason": "k00024 和 k00036 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a025",
+      "target": "s-296bebb32928-c001:a025",
+      "kind": "supports",
+      "condition": "课后与配偶沟通并道歉。",
+      "reason": "k00025 和 k00037 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a026",
+      "target": "s-296bebb32928-c003:a010",
+      "kind": "supports",
+      "condition": "完成作业是提问的前提，作业有评语。",
+      "reason": "k00026 强调完成作业，k00118 提到作业和评语，两者相关。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a027",
+      "target": "s-296bebb32928-c001:a007",
+      "kind": "association",
+      "condition": "",
+      "reason": "“父母需反思自身行为而非归咎他人”和“父母需处理自身焦虑”都强调父母自我改变，但无直接支持，改为 association。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c001:a010",
+      "target": "s-296bebb32928-c001:a010",
+      "kind": "supports",
+      "condition": "童年被安慰记忆的支撑作用。",
+      "reason": "k00028 和 k00010 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c001:r001",
+      "target": "s-296bebb32928-c001:a017",
+      "kind": "supports",
+      "condition": "管教时机不当后的补救沟通。",
+      "reason": "“管教时机不当后的补救沟通”与“事后与孩子沟通感受”内容一致，互为支撑。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c001:a018",
+      "target": "s-296bebb32928-c001:a018",
+      "kind": "supports",
+      "condition": "允许孩子表达负面感受。",
+      "reason": "k00030 和 k00018 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a019",
+      "target": "s-296bebb32928-c001:a019",
+      "kind": "supports",
+      "condition": "讲师孩子表达负面感受的案例。",
+      "reason": "k00031 和 k00019 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a020",
+      "target": "s-296bebb32928-c001:a020",
+      "kind": "supports",
+      "condition": "延迟满足的练习。",
+      "reason": "k00032 和 k00020 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a021",
+      "target": "s-296bebb32928-c001:a021",
+      "kind": "supports",
+      "condition": "夫妻矛盾源于管教不一致。",
+      "reason": "k00033 和 k00021 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a022",
+      "target": "s-296bebb32928-c001:a022",
+      "kind": "supports",
+      "condition": "夫妻保持一致并设置前提条件。",
+      "reason": "k00034 和 k00022 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a023",
+      "target": "s-296bebb32928-c001:a023",
+      "kind": "supports",
+      "condition": "讲师孩子对前提条件的反应。",
+      "reason": "k00035 和 k00023 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a024",
+      "target": "s-296bebb32928-c001:a024",
+      "kind": "supports",
+      "condition": "夫妻共同学习育儿方法。",
+      "reason": "k00036 和 k00024 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c001:a025",
+      "target": "s-296bebb32928-c001:a025",
+      "kind": "supports",
+      "condition": "课后与配偶沟通并道歉。",
+      "reason": "k00037 和 k00025 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a001",
+      "target": "s-296bebb32928-c002:xe001",
+      "kind": "supports",
+      "condition": "不辅导学习，让孩子自己承担后果。",
+      "reason": "k00038 和 k00077 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a002",
+      "target": "s-296bebb32928-c002:a007",
+      "kind": "supports",
+      "condition": "孩子对有趣知识感兴趣，家长用喜欢的方法帮助学习。",
+      "reason": "“孩子对有趣知识感兴趣，对死记硬背不感兴趣”支持“家长应帮助孩子用喜欢的学习方法学习不擅长的内容”。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c002:a003",
+      "target": "s-296bebb32928-c002:a003",
+      "kind": "supports",
+      "condition": "用创造性游戏帮助孩子记忆。",
+      "reason": "k00040 和 k00078 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a004",
+      "target": "s-296bebb32928-c002:xe003",
+      "kind": "supports",
+      "condition": "用纸杯游戏教孩子大小写字母。",
+      "reason": "k00041 和 k00079 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a005",
+      "target": "s-296bebb32928-c002:r002",
+      "kind": "supports",
+      "condition": "用谐音帮助孩子记忆单词。",
+      "reason": "k00042 和 k00072 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a005",
+      "target": "s-296bebb32928-c002:xe004",
+      "kind": "supports",
+      "condition": "用谐音帮助孩子记忆单词。",
+      "reason": "k00042 和 k00080 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a006",
+      "target": "s-296bebb32928-c002:a006",
+      "kind": "supports",
+      "condition": "不纠正孩子的拼写错误。",
+      "reason": "k00043 和 k00081 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a007",
+      "target": "s-296bebb32928-c002:a007",
+      "kind": "supports",
+      "condition": "用孩子喜欢的学习方法帮助学习。",
+      "reason": "k00044 和 k00082 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a008",
+      "target": "s-296bebb32928-c002:xe007",
+      "kind": "supports",
+      "condition": "没收游戏设备会让孩子更上瘾。",
+      "reason": "k00045 和 k00083 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a009",
+      "target": "s-296bebb32928-c002:xe008",
+      "kind": "supports",
+      "condition": "没收设备不可持续，需培养孩子能力。",
+      "reason": "k00046 和 k00084 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a010",
+      "target": "s-296bebb32928-c002:a010",
+      "kind": "supports",
+      "condition": "分离焦虑训练方法。",
+      "reason": "k00047 和 k00085 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a011",
+      "target": "s-296bebb32928-c002:xe010",
+      "kind": "supports",
+      "condition": "疫情宝宝社交弱是正常的。",
+      "reason": "k00048 和 k00086 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a012",
+      "target": "s-296bebb32928-c002:a012",
+      "kind": "supports",
+      "condition": "帮助疫情宝宝发展社交的方法。",
+      "reason": "k00049 和 k00087 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a013",
+      "target": "s-296bebb32928-c002:xe012",
+      "kind": "supports",
+      "condition": "讲师孩子从怕生到融入的转变。",
+      "reason": "k00050 和 k00088 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a014",
+      "target": "s-296bebb32928-c002:xe013",
+      "kind": "supports",
+      "condition": "疫情宝宝对人兴趣不强烈且更敏感。",
+      "reason": "k00051 和 k00089 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a015",
+      "target": "s-296bebb32928-c002:xe014",
+      "kind": "supports",
+      "condition": "五岁孩子怕失败是正常的。",
+      "reason": "k00052 和 k00090 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a016",
+      "target": "s-296bebb32928-c002:a016",
+      "kind": "supports",
+      "condition": "面对孩子怕失败的正确回应。",
+      "reason": "k00053 和 k00091 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a017",
+      "target": "s-296bebb32928-c002:r003",
+      "kind": "supports",
+      "condition": "用逐步挑战帮助孩子克服怕失败。",
+      "reason": "k00054 和 k00073 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a017",
+      "target": "s-296bebb32928-c002:xe016",
+      "kind": "supports",
+      "condition": "用逐步挑战帮助孩子克服怕失败。",
+      "reason": "k00054 和 k00092 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a018",
+      "target": "s-296bebb32928-c002:xe017",
+      "kind": "supports",
+      "condition": "家长大惊小怪会让孩子更怕失败。",
+      "reason": "k00055 和 k00093 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a019",
+      "target": "s-296bebb32928-c002:xe018",
+      "kind": "supports",
+      "condition": "赋能孩子需要时间等待。",
+      "reason": "k00056 和 k00094 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a020",
+      "target": "s-296bebb32928-c002:r004",
+      "kind": "supports",
+      "condition": "用玩具作为挣钱目标培养动力。",
+      "reason": "k00057 和 k00074 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a020",
+      "target": "s-296bebb32928-c002:a020",
+      "kind": "supports",
+      "condition": "用玩具作为挣钱目标培养动力。",
+      "reason": "k00057 和 k00095 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a021",
+      "target": "s-296bebb32928-c002:xe020",
+      "kind": "supports",
+      "condition": "孩子不应经历衣食住行的缺乏。",
+      "reason": "k00058 和 k00096 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a022",
+      "target": "s-296bebb32928-c002:xe021",
+      "kind": "supports",
+      "condition": "家长在意钱不代表孩子必须在意。",
+      "reason": "k00059 和 k00097 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a023",
+      "target": "s-296bebb32928-c002:xe022",
+      "kind": "supports",
+      "condition": "九岁孩子不可能有健全的自我认知。",
+      "reason": "k00060 和 k00098 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a024",
+      "target": "s-296bebb32928-c002:a024",
+      "kind": "supports",
+      "condition": "让孩子自己承担后果来培养自我认知。",
+      "reason": "k00061 和 k00099 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a025",
+      "target": "s-296bebb32928-c002:xe024",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“势均力敌的矛盾家长不需插手”与“势均力敌的矛盾家长不需插手”内容一致，互为支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c002:a026",
+      "target": "s-296bebb32928-c002:r005",
+      "kind": "supports",
+      "condition": "用肥皂洗嘴巴惩罚骂脏话。",
+      "reason": "“用肥皂洗嘴巴惩罚骂脏话”的详细步骤（包括事后讲道理）支持概括性命题“用肥皂洗嘴巴惩罚骂脏话”。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c002:a026",
+      "target": "s-296bebb32928-c002:xe025",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“用肥皂洗嘴巴惩罚骂脏话”的详细步骤支持“讲师分享自己用肥皂洗嘴巴惩罚孩子骂脏话”这一相同命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c002:a027",
+      "target": "s-296bebb32928-c002:a027",
+      "kind": "supports",
+      "condition": "平时培养孩子的高贵品格。",
+      "reason": "k00064 和 k00102 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a028",
+      "target": "s-296bebb32928-c002:xe027",
+      "kind": "supports",
+      "condition": "孩子自我保护欲强可能因缺乏安全感。",
+      "reason": "k00065 和 k00103 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a029",
+      "target": "s-296bebb32928-c002:xe028",
+      "kind": "supports",
+      "condition": "老师有权在教室立规矩。",
+      "reason": "k00066 和 k00104 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a030",
+      "target": "s-296bebb32928-c002:xe029",
+      "kind": "supports",
+      "condition": "新学员需提供更多背景信息。",
+      "reason": "k00067 和 k00105 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a031",
+      "target": "s-296bebb32928-c002:a031",
+      "kind": "supports",
+      "condition": "对九岁孩子的期待要符合年龄。",
+      "reason": "k00068 和 k00106 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a032",
+      "target": "s-296bebb32928-c002:xe031",
+      "kind": "supports",
+      "condition": "改变需要持续性。",
+      "reason": "k00069 和 k00107 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a033",
+      "target": "s-296bebb32928-c002:a033",
+      "kind": "supports",
+      "condition": "按照七个步骤道歉弥补伤害。",
+      "reason": "k00070 和 k00076 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a033",
+      "target": "s-296bebb32928-c002:a033",
+      "kind": "supports",
+      "condition": "按照七个步骤道歉弥补伤害。",
+      "reason": "k00070 和 k00108 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a033",
+      "target": "s-296bebb32928-c003:a001",
+      "kind": "supports",
+      "condition": "按照七个步骤道歉弥补伤害",
+      "reason": "两端均表示按七个步骤道歉并指认伤害可避免遗漏对孩子的伤害，内容一致。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c002:a033",
+      "target": "s-296bebb32928-c002:a033",
+      "kind": "supports",
+      "condition": "按照七个步骤道歉弥补伤害。",
+      "reason": "k00076 和 k00108 内容一致。"
+    },
+    {
+      "source": "s-296bebb32928-c002:a033",
+      "target": "s-296bebb32928-c003:a001",
+      "kind": "supports",
+      "condition": "按照七个步骤道歉弥补伤害",
+      "reason": "两端均表示按七个步骤道歉并指认伤害可避免遗漏对孩子的伤害，内容一致。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c002:a033",
+      "target": "s-296bebb32928-c003:a001",
+      "kind": "supports",
+      "condition": "按照七个步骤道歉弥补伤害",
+      "reason": "两端均表示按七个步骤道歉并指认伤害可避免遗漏对孩子的伤害，内容一致。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-296bebb32928-c003:a002",
+      "target": "s-296bebb32928-c003:a004",
+      "kind": "supports",
+      "condition": "弥补伤害需要做对多于做错。",
+      "reason": "k00110 和 k00112 都强调做对多于做错。"
+    },
+    {
+      "source": "s-296bebb32928-c003:a003",
+      "target": "s-296bebb32928-c003:a008",
+      "kind": "supports",
+      "condition": "父母犯错不可避免，不追求完美。",
+      "reason": "k00111 指出犯错不可避免，k00116 指出不追求完美，两者一致。"
+    },
+    {
+      "source": "s-296bebb32928-c003:a005",
+      "target": "s-296bebb32928-c003:a009",
+      "kind": "supports",
+      "condition": "银行账户比喻说明童年余额的作用。",
+      "reason": "k00113 用银行账户比喻，k00117 提到童年余额，两者相关。"
+    },
+    {
+      "source": "s-296bebb32928-c003:a006",
+      "target": "s-296bebb32928-c003:a002",
+      "kind": "supports",
+      "condition": "孩子会记得伤害，因此需要弥补。",
+      "reason": "k00114 指出孩子记得伤害，k00110 提出弥补方法，两者相关。"
+    },
+    {
+      "source": "s-296bebb32928-c003:a007",
+      "target": "s-296bebb32928-c003:a004",
+      "kind": "supports",
+      "condition": "做对多于做错不会毁了亲子关系。",
+      "reason": "k00115 和 k00112 都强调做对多于做错。"
+    },
+    {
+      "source": "s-296bebb32928-c001:v2-n001",
+      "target": "s-296bebb32928-c001:v2-n003",
+      "kind": "association",
+      "condition": "当家长询问是否可以不辅导孩子学习时",
+      "reason": "source 中家长问是否可不辅导，target 直接建议不要辅导，两者针对同一问题但 target 为一般性建议，无法确定因果，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:v2-n003",
+      "target": "s-296bebb32928-c001:v2-n001",
+      "kind": "association",
+      "condition": "当家长询问是否可以不辅导孩子学习时",
+      "reason": "source 中家长问是否可不辅导，target 直接建议不要辅导，两者针对同一问题但 target 为一般性建议，无法确定因果，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:v2-n001",
+      "target": "s-296bebb32928-c002:a001",
+      "kind": "complements",
+      "condition": "当家长选择不辅导孩子时",
+      "reason": "source 提出不辅导的疑问，target 补充了具体步骤（不辅导、让孩子慢慢追赶、与老师沟通）和让孩子承担后果，补足了 source 未涉及的操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a001",
+      "target": "s-296bebb32928-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当家长选择不辅导孩子时",
+      "reason": "source 提出不辅导的疑问，target 补充了具体步骤（不辅导、让孩子慢慢追赶、与老师沟通）和让孩子承担后果，补足了 source 未涉及的操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:v2-n001",
+      "target": "s-296bebb32928-c002:xe001",
+      "kind": "complements",
+      "condition": "当家长选择不辅导孩子时",
+      "reason": "内容与 c002:a001 相同，补充了不辅导后的具体行动和后果承担，实质点一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:xe001",
+      "target": "s-296bebb32928-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当家长选择不辅导孩子时",
+      "reason": "内容与 c002:a001 相同，补充了不辅导后的具体行动和后果承担，实质点一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:v2-n001",
+      "target": "s-296bebb32928-c001:a001",
+      "kind": "association",
+      "condition": "当家长询问如何引导孩子把精力放到学习上时",
+      "reason": "source 寻求引导方法，target 指出情绪连接是任何引导的前提，但 source 未提及情绪连接，不能确定前提关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:a001",
+      "target": "s-296bebb32928-c001:v2-n001",
+      "kind": "association",
+      "condition": "当家长询问如何引导孩子把精力放到学习上时",
+      "reason": "source 寻求引导方法，target 指出情绪连接是任何引导的前提，但 source 未提及情绪连接，不能确定前提关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:v2-n001",
+      "target": "s-296bebb32928-c002:a008",
+      "kind": "conditional_difference",
+      "condition": "比较 source 中16岁孩子没收设备后学习认真与 target 中16岁没收设备会压不住",
+      "reason": "source 显示短期内孩子学习认真，target 警告长期会依赖网络，两者在时间维度上条件不同，存在潜在差异而非直接矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a008",
+      "target": "s-296bebb32928-c001:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "比较 source 中16岁孩子没收设备后学习认真与 target 中16岁没收设备会压不住",
+      "reason": "source 显示短期内孩子学习认真，target 警告长期会依赖网络，两者在时间维度上条件不同，存在潜在差异而非直接矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:v2-n001",
+      "target": "s-296bebb32928-c002:v2-n003",
+      "kind": "association",
+      "condition": "比较 source 的16岁女生与 target 的八岁孩子",
+      "reason": "都是没收游戏设备后孩子学习认真，但年龄不同，建议和目标不同，不能混用，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n003",
+      "target": "s-296bebb32928-c001:v2-n001",
+      "kind": "association",
+      "condition": "比较 source 的16岁女生与 target 的八岁孩子",
+      "reason": "都是没收游戏设备后孩子学习认真，但年龄不同，建议和目标不同，不能混用，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:v2-n003",
+      "target": "s-296bebb32928-c002:a001",
+      "kind": "complements",
+      "condition": "当落实不辅导建议时",
+      "reason": "source 表明可不辅导，target 补充了让孩子承担后果和与老师沟通的步骤，补足了执行细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a001",
+      "target": "s-296bebb32928-c001:v2-n003",
+      "kind": "complements",
+      "condition": "当落实不辅导建议时",
+      "reason": "source 表明可不辅导，target 补充了让孩子承担后果和与老师沟通的步骤，补足了执行细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:v2-n003",
+      "target": "s-296bebb32928-c002:xe001",
+      "kind": "complements",
+      "condition": "当落实不辅导建议时",
+      "reason": "内容与 c002:a001 相同，补充了不辅导后的步骤和后果承担，与 source 互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:xe001",
+      "target": "s-296bebb32928-c001:v2-n003",
+      "kind": "complements",
+      "condition": "当落实不辅导建议时",
+      "reason": "内容与 c002:a001 相同，补充了不辅导后的步骤和后果承担，与 source 互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:v2-n003",
+      "target": "s-296bebb32928-c002:a003",
+      "kind": "complements",
+      "condition": "当家长希望不辅导但仍想支持学习时",
+      "reason": "source 建议不辅导，target 提供了替代方案：用创造性游戏帮助记忆，补充了“不辅导”后可以做的事。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a003",
+      "target": "s-296bebb32928-c001:v2-n003",
+      "kind": "complements",
+      "condition": "当家长希望不辅导但仍想支持学习时",
+      "reason": "source 建议不辅导，target 提供了替代方案：用创造性游戏帮助记忆，补充了“不辅导”后可以做的事。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:v2-n003",
+      "target": "s-296bebb32928-c001:v2-n001",
+      "kind": "association",
+      "condition": "当面对高二女生案例时",
+      "reason": "source 是不辅导的一般建议，target 是具体案例背景，包含家长询问是否可不辅导，案例与建议相关但无确定方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:v2-n001",
+      "target": "s-296bebb32928-c001:v2-n003",
+      "kind": "association",
+      "condition": "当面对高二女生案例时",
+      "reason": "source 是不辅导的一般建议，target 是具体案例背景，包含家长询问是否可不辅导，案例与建议相关但无确定方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:v2-n003",
+      "target": "s-296bebb32928-c002:v2-n003",
+      "kind": "association",
+      "condition": "当面对八岁孩子案例时",
+      "reason": "source 建议不辅导，target 案例中讲师也回应可不辅导，但年龄不同，只能关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n003",
+      "target": "s-296bebb32928-c001:v2-n003",
+      "kind": "association",
+      "condition": "当面对八岁孩子案例时",
+      "reason": "source 建议不辅导，target 案例中讲师也回应可不辅导，但年龄不同，只能关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n001",
+      "target": "s-296bebb32928-c001:a025",
+      "kind": "complements",
+      "condition": "当夫妻教育分歧且孩子在场或不在场时",
+      "reason": "source 要求当晚先不要找孩子，与配偶沟通道歉；candidate 具体到课后不管孩子是否睡着都不再找，明天再找，补充了时机和操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:a025",
+      "target": "s-296bebb32928-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当夫妻教育分歧且孩子在场或不在场时",
+      "reason": "source 要求当晚先不要找孩子，与配偶沟通道歉；candidate 具体到课后不管孩子是否睡着都不再找，明天再找，补充了时机和操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n001",
+      "target": "s-296bebb32928-c002:r001",
+      "kind": "association",
+      "condition": "当需要与配偶保持一致时",
+      "reason": "source 和 target 都强调与配偶沟通道歉、保持一致，target 是更简洁的概括，内容重叠但无补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:r001",
+      "target": "s-296bebb32928-c002:v2-n001",
+      "kind": "association",
+      "condition": "当需要与配偶保持一致时",
+      "reason": "source 和 target 都强调与配偶沟通道歉、保持一致，target 是更简洁的概括，内容重叠但无补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n001",
+      "target": "s-296bebb32928-c001:a022",
+      "kind": "association",
+      "condition": "当夫妻需要保持一致但一方已做决定时",
+      "reason": "source 处理分歧，candidate 提供保持一致的技巧（设置前提条件），两者相关但方向不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:a022",
+      "target": "s-296bebb32928-c002:v2-n001",
+      "kind": "association",
+      "condition": "当夫妻需要保持一致但一方已做决定时",
+      "reason": "source 处理分歧，candidate 提供保持一致的技巧（设置前提条件），两者相关但方向不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n001",
+      "target": "s-296bebb32928-c001:a021",
+      "kind": "association",
+      "condition": "当分析夫妻矛盾原因时",
+      "reason": "source 是分歧处理步骤，candidate 指出夫妻矛盾源于管教不一致，是背景分析，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:a021",
+      "target": "s-296bebb32928-c002:v2-n001",
+      "kind": "association",
+      "condition": "当分析夫妻矛盾原因时",
+      "reason": "source 是分歧处理步骤，candidate 指出夫妻矛盾源于管教不一致，是背景分析，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n001",
+      "target": "s-296bebb32928-c001:a024",
+      "kind": "association",
+      "condition": "当夫妻需要共同育儿时",
+      "reason": "source 提到如何与配偶保持一致，candidate 建议夫妻共同学习育儿方法，相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:a024",
+      "target": "s-296bebb32928-c002:v2-n001",
+      "kind": "association",
+      "condition": "当夫妻需要共同育儿时",
+      "reason": "source 提到如何与配偶保持一致，candidate 建议夫妻共同学习育儿方法，相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n002",
+      "target": "s-296bebb32928-c003:a003",
+      "kind": "association",
+      "condition": "当阐述犯错不可避免时",
+      "reason": "source 与 target 内容几乎相同，都强调父母和专家会犯错伤害孩子，无新增信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:a003",
+      "target": "s-296bebb32928-c002:v2-n002",
+      "kind": "association",
+      "condition": "当阐述犯错不可避免时",
+      "reason": "source 与 target 内容几乎相同，都强调父母和专家会犯错伤害孩子，无新增信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n002",
+      "target": "s-296bebb32928-c003:a008",
+      "kind": "complements",
+      "condition": "当应对犯错的态度时",
+      "reason": "source 说明犯错不可避免，target 补充了不应追求完美而应追求赋能多于伤害，提供了应对方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:a008",
+      "target": "s-296bebb32928-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当应对犯错的态度时",
+      "reason": "source 说明犯错不可避免，target 补充了不应追求完美而应追求赋能多于伤害，提供了应对方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n002",
+      "target": "s-296bebb32928-c003:a006",
+      "kind": "association",
+      "condition": "当考虑伤害的后果时",
+      "reason": "source 提到会伤害孩子，target 说明孩子会记得伤害的感觉，相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:a006",
+      "target": "s-296bebb32928-c002:v2-n002",
+      "kind": "association",
+      "condition": "当考虑伤害的后果时",
+      "reason": "source 提到会伤害孩子，target 说明孩子会记得伤害的感觉，相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n002",
+      "target": "s-296bebb32928-c003:a001",
+      "kind": "complements",
+      "condition": "当伤害发生后需要弥补时",
+      "reason": "source 承认伤害存在，target 提出道歉并指认伤害可以弥补，补齐了修复环节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:a001",
+      "target": "s-296bebb32928-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当伤害发生后需要弥补时",
+      "reason": "source 承认伤害存在，target 提出道歉并指认伤害可以弥补，补齐了修复环节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n002",
+      "target": "s-296bebb32928-c003:a002",
+      "kind": "complements",
+      "condition": "当需要长期弥补时",
+      "reason": "source 承认伤害，target 补充除了道歉还需做对的事情比错的事多，提供弥补途径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:a002",
+      "target": "s-296bebb32928-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当需要长期弥补时",
+      "reason": "source 承认伤害，target 补充除了道歉还需做对的事情比错的事多，提供弥补途径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n002",
+      "target": "s-296bebb32928-c002:a033",
+      "kind": "association",
+      "condition": "当涉及具体道歉步骤时",
+      "reason": "source 承认伤害，target 建议按照七个步骤道歉弥补，相关但更具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a033",
+      "target": "s-296bebb32928-c002:v2-n002",
+      "kind": "association",
+      "condition": "当涉及具体道歉步骤时",
+      "reason": "source 承认伤害，target 建议按照七个步骤道歉弥补，相关但更具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n002",
+      "target": "s-296bebb32928-c003:a009",
+      "kind": "association",
+      "condition": "当讨论伤害后影响时",
+      "reason": "source 说会伤害，target 提到童年余额可缓冲伤害，相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:a009",
+      "target": "s-296bebb32928-c002:v2-n002",
+      "kind": "association",
+      "condition": "当讨论伤害后影响时",
+      "reason": "source 说会伤害，target 提到童年余额可缓冲伤害，相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n002",
+      "target": "s-296bebb32928-c001:a018",
+      "kind": "association",
+      "condition": "当伤害后孩子表达负面感受时",
+      "reason": "source 承认伤害，target 建议允许孩子表达负面感受，是伤害后的接纳，相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:a018",
+      "target": "s-296bebb32928-c002:v2-n002",
+      "kind": "association",
+      "condition": "当伤害后孩子表达负面感受时",
+      "reason": "source 承认伤害，target 建议允许孩子表达负面感受，是伤害后的接纳，相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n002",
+      "target": "s-296bebb32928-c002:v2-n008",
+      "kind": "association",
+      "condition": "当家长学习后孩子感觉变温柔时",
+      "reason": "source 说会犯错，target 案例显示家长改变带来积极反馈，相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n008",
+      "target": "s-296bebb32928-c002:v2-n002",
+      "kind": "association",
+      "condition": "当家长学习后孩子感觉变温柔时",
+      "reason": "source 说会犯错，target 案例显示家长改变带来积极反馈，相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n003",
+      "target": "s-296bebb32928-c002:a002",
+      "kind": "example_of",
+      "condition": "当八岁孩子对死记硬背不感兴趣时",
+      "reason": "source 描述孩子只对有趣知识感兴趣，target 概括了‘孩子并非不喜欢学习，而是对有趣知识感兴趣’这一普遍现象，source 是该现象的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a002",
+      "target": "s-296bebb32928-c002:v2-n003",
+      "kind": "has_example",
+      "condition": "当八岁孩子对死记硬背不感兴趣时",
+      "reason": "source 描述孩子只对有趣知识感兴趣，target 概括了‘孩子并非不喜欢学习，而是对有趣知识感兴趣’这一普遍现象，source 是该现象的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n003",
+      "target": "s-296bebb32928-c002:a003",
+      "kind": "association",
+      "condition": "当需要帮助孩子记忆时",
+      "reason": "source 中讲师回应可不辅导但可用创造性游戏帮助记忆，target 是这一建议的概括，两者内容一致但 source 未展示具体游戏。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a003",
+      "target": "s-296bebb32928-c002:v2-n003",
+      "kind": "association",
+      "condition": "当需要帮助孩子记忆时",
+      "reason": "source 中讲师回应可不辅导但可用创造性游戏帮助记忆，target 是这一建议的概括，两者内容一致但 source 未展示具体游戏。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n003",
+      "target": "s-296bebb32928-c002:a008",
+      "kind": "association",
+      "condition": "当讲师警告没收设备时",
+      "reason": "source 中讲师警告没收设备会让孩子更上瘾，target 为同一警告，source 包含该主张。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a008",
+      "target": "s-296bebb32928-c002:v2-n003",
+      "kind": "association",
+      "condition": "当讲师警告没收设备时",
+      "reason": "source 中讲师警告没收设备会让孩子更上瘾，target 为同一警告，source 包含该主张。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n003",
+      "target": "s-296bebb32928-c002:xe007",
+      "kind": "association",
+      "condition": "当讲师警告没收设备时",
+      "reason": "内容与 c002:a008 相同，source 中的警告与 target 一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:xe007",
+      "target": "s-296bebb32928-c002:v2-n003",
+      "kind": "association",
+      "condition": "当讲师警告没收设备时",
+      "reason": "内容与 c002:a008 相同，source 中的警告与 target 一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n003",
+      "target": "s-296bebb32928-c002:a007",
+      "kind": "association",
+      "condition": "当孩子对枯燥内容不感兴趣时",
+      "reason": "source 孩子只对有趣知识感兴趣，target 建议用孩子喜欢的学习方法帮助学习，相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a007",
+      "target": "s-296bebb32928-c002:v2-n003",
+      "kind": "association",
+      "condition": "当孩子对枯燥内容不感兴趣时",
+      "reason": "source 孩子只对有趣知识感兴趣，target 建议用孩子喜欢的学习方法帮助学习，相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n003",
+      "target": "s-296bebb32928-c001:v2-n001",
+      "kind": "association",
+      "condition": "比较 source 八岁与 target 16岁案例",
+      "reason": "都是没收设备后学习认真，但年龄不同，不可直接等同，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:v2-n001",
+      "target": "s-296bebb32928-c002:v2-n003",
+      "kind": "association",
+      "condition": "比较 source 八岁与 target 16岁案例",
+      "reason": "都是没收设备后学习认真，但年龄不同，不可直接等同，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n003",
+      "target": "s-296bebb32928-c001:v2-n003",
+      "kind": "association",
+      "condition": "当家长询问是否可不辅导时",
+      "reason": "source 中讲师回应可不辅导，target 也是不建议辅导，两者一致但无因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:v2-n003",
+      "target": "s-296bebb32928-c002:v2-n003",
+      "kind": "association",
+      "condition": "当家长询问是否可不辅导时",
+      "reason": "source 中讲师回应可不辅导，target 也是不建议辅导，两者一致但无因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n003",
+      "target": "s-296bebb32928-c002:xe001",
+      "kind": "association",
+      "condition": "当家长不辅导时",
+      "reason": "source 未提及承担后果，target 增加后果要求，但都关于不辅导，相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:xe001",
+      "target": "s-296bebb32928-c002:v2-n003",
+      "kind": "association",
+      "condition": "当家长不辅导时",
+      "reason": "source 未提及承担后果，target 增加后果要求，但都关于不辅导，相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n004",
+      "target": "s-296bebb32928-c002:a020",
+      "kind": "example_of",
+      "condition": "当家长用玩具作为挣钱目标时",
+      "reason": "source 中家长提出带孩子逛玩具店选玩具作为挣钱目标，讲师肯定，target 是该方法的概念化，source 是该概念的具体应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a020",
+      "target": "s-296bebb32928-c002:v2-n004",
+      "kind": "has_example",
+      "condition": "当家长用玩具作为挣钱目标时",
+      "reason": "source 中家长提出带孩子逛玩具店选玩具作为挣钱目标，讲师肯定，target 是该方法的概念化，source 是该概念的具体应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n004",
+      "target": "s-296bebb32928-c002:a021",
+      "kind": "association",
+      "condition": "当指出孩子不应缺乏衣食住行时",
+      "reason": "source 中讲师说孩子不应经历衣食住行缺乏，target 为该观点，关联但非 source 的主线例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a021",
+      "target": "s-296bebb32928-c002:v2-n004",
+      "kind": "association",
+      "condition": "当指出孩子不应缺乏衣食住行时",
+      "reason": "source 中讲师说孩子不应经历衣食住行缺乏，target 为该观点，关联但非 source 的主线例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n004",
+      "target": "s-296bebb32928-c002:xe020",
+      "kind": "association",
+      "condition": "当指出孩子不应缺乏衣食住行时",
+      "reason": "内容与 c002:a021 相同，source 包含该观点，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:xe020",
+      "target": "s-296bebb32928-c002:v2-n004",
+      "kind": "association",
+      "condition": "当指出孩子不应缺乏衣食住行时",
+      "reason": "内容与 c002:a021 相同，source 包含该观点，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n004",
+      "target": "s-296bebb32928-c002:a022",
+      "kind": "association",
+      "condition": "当家长在意钱而孩子不在意时",
+      "reason": "source 中讲师说家长在意钱不代表孩子也必须在意，target 为该观点，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a022",
+      "target": "s-296bebb32928-c002:v2-n004",
+      "kind": "association",
+      "condition": "当家长在意钱而孩子不在意时",
+      "reason": "source 中讲师说家长在意钱不代表孩子也必须在意，target 为该观点，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n004",
+      "target": "s-296bebb32928-c002:xe021",
+      "kind": "association",
+      "condition": "当家长在意钱而孩子不在意时",
+      "reason": "内容与 c002:a022 相同，source 包含该观点，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:xe021",
+      "target": "s-296bebb32928-c002:v2-n004",
+      "kind": "association",
+      "condition": "当家长在意钱而孩子不在意时",
+      "reason": "内容与 c002:a022 相同，source 包含该观点，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n004",
+      "target": "s-296bebb32928-c002:r004",
+      "kind": "example_of",
+      "condition": "当用玩具作为挣钱目标培养动力时",
+      "reason": "source 实践了用玩具作为挣钱目标，target 是同概念的另一表述，source 是其实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:r004",
+      "target": "s-296bebb32928-c002:v2-n004",
+      "kind": "has_example",
+      "condition": "当用玩具作为挣钱目标培养动力时",
+      "reason": "source 实践了用玩具作为挣钱目标，target 是同概念的另一表述，source 是其实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n005",
+      "target": "s-296bebb32928-c002:a024",
+      "kind": "example_of",
+      "condition": "当孩子面临生活选择（如嫌书丑）时",
+      "reason": "源案例中家长尊重孩子选择（觉得书丑不想拿）、告知可能遇到的问题、让孩子自己承担后果并相信孩子有能力，与 a024 中'尊重孩子的选择、告知可能遇到的问题或后果、让孩子自己承担后果、相信孩子有能力承担后果'的步骤完全一致，因此源案例是该概念的一个具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a024",
+      "target": "s-296bebb32928-c002:v2-n005",
+      "kind": "has_example",
+      "condition": "当孩子面临生活选择（如嫌书丑）时",
+      "reason": "源案例中家长尊重孩子选择（觉得书丑不想拿）、告知可能遇到的问题、让孩子自己承担后果并相信孩子有能力，与 a024 中'尊重孩子的选择、告知可能遇到的问题或后果、让孩子自己承担后果、相信孩子有能力承担后果'的步骤完全一致，因此源案例是该概念的一个具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n005",
+      "target": "s-296bebb32928-c002:a023",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源案例中讲师明确指出'九岁孩子不可能有健全的自我认知，但可有健康的自我认知'，与 a023 的核心内容相同，但源案例还包含其他做法（如让孩子承担后果），因此两者为内容关联而非从属关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a023",
+      "target": "s-296bebb32928-c002:v2-n005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源案例中讲师明确指出'九岁孩子不可能有健全的自我认知，但可有健康的自我认知'，与 a023 的核心内容相同，但源案例还包含其他做法（如让孩子承担后果），因此两者为内容关联而非从属关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n005",
+      "target": "s-296bebb32928-c002:xe022",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "同 a023，源案例中讲师的观点与 xe022 内容一致，但源案例并非专门阐述该概念，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:xe022",
+      "target": "s-296bebb32928-c002:v2-n005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "同 a023，源案例中讲师的观点与 xe022 内容一致，但源案例并非专门阐述该概念，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n005",
+      "target": "s-296bebb32928-c002:a001",
+      "kind": "association",
+      "condition": "应用领域不同：源案例针对生活选择，a001 针对学习",
+      "reason": "两者都包含'让孩子自己承担后果'的原则，但源案例中孩子承担的是社交后果（怕被笑），a001 中承担的是学习后果，应用场景不同，因此仅为原则上的关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a001",
+      "target": "s-296bebb32928-c002:v2-n005",
+      "kind": "association",
+      "condition": "应用领域不同：源案例针对生活选择，a001 针对学习",
+      "reason": "两者都包含'让孩子自己承担后果'的原则，但源案例中孩子承担的是社交后果（怕被笑），a001 中承担的是学习后果，应用场景不同，因此仅为原则上的关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n005",
+      "target": "s-296bebb32928-c002:xe001",
+      "kind": "association",
+      "condition": "同上，应用领域不同",
+      "reason": "同 a001，源案例与 xe001 共享让孩子承担后果的理念，但 xe001 针对学习领域，不构成直接应用关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:xe001",
+      "target": "s-296bebb32928-c002:v2-n005",
+      "kind": "association",
+      "condition": "同上，应用领域不同",
+      "reason": "同 a001，源案例与 xe001 共享让孩子承担后果的理念，但 xe001 针对学习领域，不构成直接应用关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n006",
+      "target": "s-296bebb32928-c002:a025",
+      "kind": "example_of",
+      "condition": "当两个孩子势均力敌且无伤害时",
+      "reason": "源案例中讲师建议势均力敌且无伤害时家长不必介入，谁先骂不重要两人都有错，与 a025 内容一致，因此源案例是 a025 的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a025",
+      "target": "s-296bebb32928-c002:v2-n006",
+      "kind": "has_example",
+      "condition": "当两个孩子势均力敌且无伤害时",
+      "reason": "源案例中讲师建议势均力敌且无伤害时家长不必介入，谁先骂不重要两人都有错，与 a025 内容一致，因此源案例是 a025 的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n006",
+      "target": "s-296bebb32928-c002:a026",
+      "kind": "example_of",
+      "condition": "当孩子骂脏话时",
+      "reason": "源案例中讲师提到骂脏话要单独处理，用肥皂洗嘴巴，与 a026 的步骤和条件（无论有无矛盾）一致，因此源案例是 a026 的具体应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a026",
+      "target": "s-296bebb32928-c002:v2-n006",
+      "kind": "has_example",
+      "condition": "当孩子骂脏话时",
+      "reason": "源案例中讲师提到骂脏话要单独处理，用肥皂洗嘴巴，与 a026 的步骤和条件（无论有无矛盾）一致，因此源案例是 a026 的具体应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n006",
+      "target": "s-296bebb32928-c002:xe024",
+      "kind": "example_of",
+      "condition": "当孩子势均力敌且无伤害时",
+      "reason": "源案例中讲师建议不插手势均力敌的矛盾，与 xe024 内容一致，故源案例是 xe024 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:xe024",
+      "target": "s-296bebb32928-c002:v2-n006",
+      "kind": "has_example",
+      "condition": "当孩子势均力敌且无伤害时",
+      "reason": "源案例中讲师建议不插手势均力敌的矛盾，与 xe024 内容一致，故源案例是 xe024 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n006",
+      "target": "s-296bebb32928-c002:xe025",
+      "kind": "example_of",
+      "condition": "当孩子骂脏话时",
+      "reason": "源案例中讲师提到用肥皂洗嘴巴惩罚骂脏话，与 xe025 内容一致，故源案例是 xe025 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:xe025",
+      "target": "s-296bebb32928-c002:v2-n006",
+      "kind": "has_example",
+      "condition": "当孩子骂脏话时",
+      "reason": "源案例中讲师提到用肥皂洗嘴巴惩罚骂脏话，与 xe025 内容一致，故源案例是 xe025 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n006",
+      "target": "s-296bebb32928-c002:r005",
+      "kind": "example_of",
+      "condition": "当孩子骂脏话时",
+      "reason": "源案例中讲师提到用肥皂洗嘴巴作为惩罚，与 r005 内容一致，故源案例是 r005 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:r005",
+      "target": "s-296bebb32928-c002:v2-n006",
+      "kind": "has_example",
+      "condition": "当孩子骂脏话时",
+      "reason": "源案例中讲师提到用肥皂洗嘴巴作为惩罚，与 r005 内容一致，故源案例是 r005 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n006",
+      "target": "s-296bebb32928-c002:a027",
+      "kind": "example_of",
+      "condition": "平时培养孩子高贵品格",
+      "reason": "源案例中讲师建议在平时培养孩子高贵品格，与 a027 内容一致（不在冲突时讲，平时生活中培养），故源案例是 a027 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a027",
+      "target": "s-296bebb32928-c002:v2-n006",
+      "kind": "has_example",
+      "condition": "平时培养孩子高贵品格",
+      "reason": "源案例中讲师建议在平时培养孩子高贵品格，与 a027 内容一致（不在冲突时讲，平时生活中培养），故源案例是 a027 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n007",
+      "target": "s-296bebb32928-c002:a031",
+      "kind": "example_of",
+      "condition": "当面对九岁孩子缺少勇气时",
+      "reason": "源案例中讲师建议对九岁孩子的期待要符合年龄，鼓励犯错并鼓励过程，与 a031 的步骤（调整期待、鼓励犯错、鼓励过程、称赞孩子）一致，因此源案例是 a031 的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a031",
+      "target": "s-296bebb32928-c002:v2-n007",
+      "kind": "has_example",
+      "condition": "当面对九岁孩子缺少勇气时",
+      "reason": "源案例中讲师建议对九岁孩子的期待要符合年龄，鼓励犯错并鼓励过程，与 a031 的步骤（调整期待、鼓励犯错、鼓励过程、称赞孩子）一致，因此源案例是 a031 的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n007",
+      "target": "s-296bebb32928-c002:xe029",
+      "kind": "example_of",
+      "condition": "当新学员提问缺乏背景信息时",
+      "reason": "源案例中讲师认为可能性太多，需要更多背景信息，与 xe029 内容一致，故源案例是 xe029 的具体体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:xe029",
+      "target": "s-296bebb32928-c002:v2-n007",
+      "kind": "has_example",
+      "condition": "当新学员提问缺乏背景信息时",
+      "reason": "源案例中讲师认为可能性太多，需要更多背景信息，与 xe029 内容一致，故源案例是 xe029 的具体体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n007",
+      "target": "s-296bebb32928-c002:a030",
+      "kind": "example_of",
+      "condition": "同 xe029",
+      "reason": "同 xe029，源案例中讲师要求提供更多背景信息，是 a030 的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a030",
+      "target": "s-296bebb32928-c002:v2-n007",
+      "kind": "has_example",
+      "condition": "同 xe029",
+      "reason": "同 xe029，源案例中讲师要求提供更多背景信息，是 a030 的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n007",
+      "target": "s-296bebb32928-c002:a032",
+      "kind": "example_of",
+      "condition": "当讨论改变孩子的持续性时",
+      "reason": "源案例中讲师指出改变需持续性，与 a032 内容一致，故源案例是 a032 的具体体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a032",
+      "target": "s-296bebb32928-c002:v2-n007",
+      "kind": "has_example",
+      "condition": "当讨论改变孩子的持续性时",
+      "reason": "源案例中讲师指出改变需持续性，与 a032 内容一致，故源案例是 a032 的具体体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n007",
+      "target": "s-296bebb32928-c002:xe031",
+      "kind": "example_of",
+      "condition": "同 a032",
+      "reason": "同 a032，源案例中提到改变需持续性，是 xe031 的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:xe031",
+      "target": "s-296bebb32928-c002:v2-n007",
+      "kind": "has_example",
+      "condition": "同 a032",
+      "reason": "同 a032，源案例中提到改变需持续性，是 xe031 的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n007",
+      "target": "s-296bebb32928-c003:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源案例中提到改变需持续性，c003:v2-n001 强调父母持续执行正确做法孩子才可能改变，两者都涉及持续性，但 c003:v2-n001 更侧重父母行动，源案例侧重对孩子期待和鼓励，具体侧重不同，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:v2-n001",
+      "target": "s-296bebb32928-c002:v2-n007",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源案例中提到改变需持续性，c003:v2-n001 强调父母持续执行正确做法孩子才可能改变，两者都涉及持续性，但 c003:v2-n001 更侧重父母行动，源案例侧重对孩子期待和鼓励，具体侧重不同，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n008",
+      "target": "s-296bebb32928-c002:a033",
+      "kind": "example_of",
+      "condition": "当父母曾对孩子造成伤害（如打过孩子）并考虑道歉时",
+      "reason": "源案例中讲师建议如果以前打过孩子就按七个步骤道歉，其中包含指认伤害，与 a033 的内容和步骤一致，因此源案例是 a033 的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a033",
+      "target": "s-296bebb32928-c002:v2-n008",
+      "kind": "has_example",
+      "condition": "当父母曾对孩子造成伤害（如打过孩子）并考虑道歉时",
+      "reason": "源案例中讲师建议如果以前打过孩子就按七个步骤道歉，其中包含指认伤害，与 a033 的内容和步骤一致，因此源案例是 a033 的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n008",
+      "target": "s-296bebb32928-c001:a004",
+      "kind": "example_of",
+      "condition": "当需要修复关系第一步时",
+      "reason": "源案例中讲师提到按七个步骤道歉，与 c001:a004 的核心做法（真诚道歉的七个步骤）一致，虽然 c001:a004 还提到孩子摆烂等背景，但主要步骤相同，故源案例可视为其应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:a004",
+      "target": "s-296bebb32928-c002:v2-n008",
+      "kind": "has_example",
+      "condition": "当需要修复关系第一步时",
+      "reason": "源案例中讲师提到按七个步骤道歉，与 c001:a004 的核心做法（真诚道歉的七个步骤）一致，虽然 c001:a004 还提到孩子摆烂等背景，但主要步骤相同，故源案例可视为其应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n008",
+      "target": "s-296bebb32928-c003:a001",
+      "kind": "association",
+      "condition": "注意条件差异：源案例中未确认已道歉，c003:a001 假设已道歉",
+      "reason": "源案例中讲师建议按七个步骤道歉并指认伤害，c003:a001 陈述如果已道歉并指认伤害则伤害无遗漏，两者都涉及道歉环节，但 c003:a001 的条件（已道歉）在源案例中未满足，故为关联而非实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:a001",
+      "target": "s-296bebb32928-c002:v2-n008",
+      "kind": "association",
+      "condition": "注意条件差异：源案例中未确认已道歉，c003:a001 假设已道歉",
+      "reason": "源案例中讲师建议按七个步骤道歉并指认伤害，c003:a001 陈述如果已道歉并指认伤害则伤害无遗漏，两者都涉及道歉环节，但 c003:a001 的条件（已道歉）在源案例中未满足，故为关联而非实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n008",
+      "target": "s-296bebb32928-c003:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "两者都是孩子反馈妈妈学习后变好的案例，源案例中 Sandy 的孩子反馈她变温柔，v2-n003 中孩子反馈妈妈变好，情境相似但具体细节不同，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:v2-n003",
+      "target": "s-296bebb32928-c002:v2-n008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "两者都是孩子反馈妈妈学习后变好的案例，源案例中 Sandy 的孩子反馈她变温柔，v2-n003 中孩子反馈妈妈变好，情境相似但具体细节不同，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n008",
+      "target": "s-296bebb32928-c003:a002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源案例中只提到道歉，c003:a002 强调除了道歉还需做对的事情比做错的事情多，两者都在弥补伤害的主题下，但源案例未涉及后者，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:a002",
+      "target": "s-296bebb32928-c002:v2-n008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源案例中只提到道歉，c003:a002 强调除了道歉还需做对的事情比做错的事情多，两者都在弥补伤害的主题下，但源案例未涉及后者，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:v2-n001",
+      "target": "s-296bebb32928-c002:a032",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源内容强调持续行动，a032 强调改变需要持续性，两者核心意思一致，但源内容更具体到父母持续执行正确做法和孩子能量改变，a032 更泛化，故为关联而非从属。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a032",
+      "target": "s-296bebb32928-c003:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源内容强调持续行动，a032 强调改变需要持续性，两者核心意思一致，但源内容更具体到父母持续执行正确做法和孩子能量改变，a032 更泛化，故为关联而非从属。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:v2-n001",
+      "target": "s-296bebb32928-c002:xe031",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "同 a032，源内容与 xe031 均强调持续性，但表述侧重不同，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:xe031",
+      "target": "s-296bebb32928-c003:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "同 a032，源内容与 xe031 均强调持续性，但表述侧重不同，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:v2-n001",
+      "target": "s-296bebb32928-c002:v2-n007",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "v2-n007 案例中讲师提到改变需持续性，与源内容中的持续性要求一致，但源内容是概念，v2-n007 是案例，两者方向相反，不构成 example_of，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n007",
+      "target": "s-296bebb32928-c003:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "v2-n007 案例中讲师提到改变需持续性，与源内容中的持续性要求一致，但源内容是概念，v2-n007 是案例，两者方向相反，不构成 example_of，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:v2-n001",
+      "target": "s-296bebb32928-c001:a008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源内容强调持续执行，c001:a008 强调改变孩子需一步一步来，两者都涉及改变过程但侧重点不同（持续 vs 策略），故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:a008",
+      "target": "s-296bebb32928-c003:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源内容强调持续执行，c001:a008 强调改变孩子需一步一步来，两者都涉及改变过程但侧重点不同（持续 vs 策略），故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:v2-n001",
+      "target": "s-296bebb32928-c001:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源内容强调持续行动，c001:a003 强调修复关系需要时间，两者都涉及时间延续性，但具体对象不同（改变孩子 vs 修复关系），故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:a003",
+      "target": "s-296bebb32928-c003:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源内容强调持续行动，c001:a003 强调修复关系需要时间，两者都涉及时间延续性，但具体对象不同（改变孩子 vs 修复关系），故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:v2-n002",
+      "target": "s-296bebb32928-c002:a030",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源内容要求提问时提供背景信息，a030 针对新学员需要更多背景信息，两者内容重叠但源内容更通用，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:a030",
+      "target": "s-296bebb32928-c003:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源内容要求提问时提供背景信息，a030 针对新学员需要更多背景信息，两者内容重叠但源内容更通用，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:v2-n002",
+      "target": "s-296bebb32928-c002:xe029",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "同 a030，源内容与 xe029 都强调提供背景信息，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:xe029",
+      "target": "s-296bebb32928-c003:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "同 a030，源内容与 xe029 都强调提供背景信息，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:v2-n002",
+      "target": "s-296bebb32928-c002:v2-n007",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "v2-n007 案例中讲师要求提供更多背景信息，与源内容的提问规则一致，但 v2-n007 是案例，源内容是通用规则，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n007",
+      "target": "s-296bebb32928-c003:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "v2-n007 案例中讲师要求提供更多背景信息，与源内容的提问规则一致，但 v2-n007 是案例，源内容是通用规则，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:v2-n002",
+      "target": "s-296bebb32928-c002:v2-n008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "v2-n008 案例中 Sandra 提问，讲师因不了解具体行为而不确定，体现了源内容要求提供背景信息的原则，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n008",
+      "target": "s-296bebb32928-c003:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "v2-n008 案例中 Sandra 提问，讲师因不了解具体行为而不确定，体现了源内容要求提供背景信息的原则，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:v2-n002",
+      "target": "s-296bebb32928-c001:a026",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源内容要求提供背景信息，c001:a026 要求完成作业再提问，两者都是提问前的准备要求，但具体内容不同，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:a026",
+      "target": "s-296bebb32928-c003:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源内容要求提供背景信息，c001:a026 要求完成作业再提问，两者都是提问前的准备要求，但具体内容不同，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:v2-n003",
+      "target": "s-296bebb32928-c002:v2-n008",
+      "kind": "complements",
+      "condition": "同一学员案例的不同记录",
+      "reason": "source 记录了孩子反馈妈妈越来越好且讲师表示高兴，target 补充了学员身份为 Sandy 以及讲师后续不确定和建议按七个步骤道歉的具体内容，两者共同构成完整案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c002:v2-n008",
+      "target": "s-296bebb32928-c003:v2-n003",
+      "kind": "complements",
+      "condition": "同一学员案例的不同记录",
+      "reason": "source 记录了孩子反馈妈妈越来越好且讲师表示高兴，target 补充了学员身份为 Sandy 以及讲师后续不确定和建议按七个步骤道歉的具体内容，两者共同构成完整案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:v2-n003",
+      "target": "s-296bebb32928-c001:a019",
+      "kind": "association",
+      "condition": "均为孩子对父母感受的表达，但情境不同",
+      "reason": "source 是孩子对妈妈正面变化的反馈，target 是孩子表达负面感受后仍爱父母的案例，两者都涉及孩子对父母的情感表达，但具体情绪和情境不同，不确定有直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c001:a019",
+      "target": "s-296bebb32928-c003:v2-n003",
+      "kind": "association",
+      "condition": "均为孩子对父母感受的表达，但情境不同",
+      "reason": "source 是孩子对妈妈正面变化的反馈，target 是孩子表达负面感受后仍爱父母的案例，两者都涉及孩子对父母的情感表达，但具体情绪和情境不同，不确定有直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:v2-n003",
+      "target": "s-296bebb32928-c003:a007",
+      "kind": "association",
+      "condition": "亲子关系改善的案例与一般原则",
+      "reason": "source 显示妈妈学习后变好且孩子高兴，target 提出只要父母做对多于做错就不会毁亲子关系，source 可能是该原则的一个体现，但未明确提及'做对多于做错'，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-296bebb32928-c003:a007",
+      "target": "s-296bebb32928-c003:v2-n003",
+      "kind": "association",
+      "condition": "亲子关系改善的案例与一般原则",
+      "reason": "source 显示妈妈学习后变好且孩子高兴，target 提出只要父母做对多于做错就不会毁亲子关系，source 可能是该原则的一个体现，但未明确提及'做对多于做错'，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "规则与行动",
+      "when": "情绪连接是引导孩子的前提，所有管教方法都基于情绪连接。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a001",
+        "s-296bebb32928-c001:a016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我修养",
+      "when": "父母需处理自身焦虑，反思自身行为，才能有效引导孩子。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a007",
+        "s-296bebb32928-c001:a027"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "自我修养",
+      "when": "父母需先完成作业再提问，反思自身行为。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a026",
+        "s-296bebb32928-c001:a027"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "父母应拒绝行为而非感受，允许孩子表达负面感受。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a015",
+        "s-296bebb32928-c001:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "界限",
+      "when": "夫妻保持一致并设置前提条件，避免管教冲突。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a022",
+        "s-296bebb32928-c001:a021"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "阶段与角色",
+      "when": "疫情宝宝社交弱是正常的，需要时间修复。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a011",
+        "s-296bebb32928-c002:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "内在能力",
+      "when": "童年被安慰的记忆能提供心理支撑，赋能需要时间。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-296bebb32928-c001:a010",
+        "s-296bebb32928-c002:a019"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "自我认知",
+      "when": "让孩子自己承担后果来培养自我认知。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a024",
+        "s-296bebb32928-c002:a001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "依赖与失控",
+      "to": "规则与行动",
+      "when": "没收游戏设备不可持续，需培养孩子能力和自觉性。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-296bebb32928-c002:a009",
+        "s-296bebb32928-c002:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "规则与行动",
+      "when": "父母做对多于做错，弥补伤害。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-296bebb32928-c003:a004",
+        "s-296bebb32928-c003:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-296bebb32928-c001:a009",
+        "s-296bebb32928-c001:a010"
+      ],
+      "reason": "内容完全一致，都是关于imprint（烙印）和童年温暖记忆的支撑作用。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c001:a017",
+        "s-296bebb32928-c001:r001"
+      ],
+      "reason": "内容完全一致，都是关于管教时机不当后的事后沟通。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c001:a018"
+      ],
+      "reason": "内容完全一致，都是关于允许孩子表达负面感受。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c001:a019"
+      ],
+      "reason": "内容完全一致，都是讲师孩子表达负面感受的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c001:a020"
+      ],
+      "reason": "内容完全一致，都是关于延迟满足的练习。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c001:a021"
+      ],
+      "reason": "内容完全一致，都是关于夫妻矛盾源于管教不一致。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c001:a022"
+      ],
+      "reason": "内容完全一致，都是关于夫妻保持一致并设置前提条件。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c001:a023"
+      ],
+      "reason": "内容完全一致，都是讲师孩子对前提条件的反应。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c001:a024"
+      ],
+      "reason": "内容完全一致，都是关于夫妻共同学习育儿方法。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c001:a025"
+      ],
+      "reason": "内容完全一致，都是关于课后与配偶沟通并道歉。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a001",
+        "s-296bebb32928-c002:xe001"
+      ],
+      "reason": "内容完全一致，都是关于不辅导学习，让孩子自己承担后果。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a003"
+      ],
+      "reason": "内容完全一致，都是关于用创造性游戏帮助孩子记忆。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a004",
+        "s-296bebb32928-c002:xe003"
+      ],
+      "reason": "内容完全一致，都是关于用纸杯游戏教孩子大小写字母。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a005",
+        "s-296bebb32928-c002:r002",
+        "s-296bebb32928-c002:xe004"
+      ],
+      "reason": "内容完全一致，都是关于用谐音帮助孩子记忆单词。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a006"
+      ],
+      "reason": "内容完全一致，都是关于不纠正孩子的拼写错误。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a007"
+      ],
+      "reason": "内容完全一致，都是关于用孩子喜欢的学习方法帮助学习。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a008",
+        "s-296bebb32928-c002:xe007"
+      ],
+      "reason": "内容完全一致，都是关于没收游戏设备会让孩子更上瘾。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a009",
+        "s-296bebb32928-c002:xe008"
+      ],
+      "reason": "内容完全一致，都是关于没收设备不可持续，需培养孩子能力。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a010"
+      ],
+      "reason": "内容完全一致，都是关于分离焦虑训练方法。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a011",
+        "s-296bebb32928-c002:xe010"
+      ],
+      "reason": "内容完全一致，都是关于疫情宝宝社交弱是正常的。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a012"
+      ],
+      "reason": "内容完全一致，都是关于帮助疫情宝宝发展社交的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a013",
+        "s-296bebb32928-c002:xe012"
+      ],
+      "reason": "内容完全一致，都是关于讲师孩子从怕生到融入的转变。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a014",
+        "s-296bebb32928-c002:xe013"
+      ],
+      "reason": "内容完全一致，都是关于疫情宝宝对人兴趣不强烈且更敏感。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a015",
+        "s-296bebb32928-c002:xe014"
+      ],
+      "reason": "内容完全一致，都是关于五岁孩子怕失败是正常的。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a016"
+      ],
+      "reason": "内容完全一致，都是关于面对孩子怕失败的正确回应。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a017",
+        "s-296bebb32928-c002:r003",
+        "s-296bebb32928-c002:xe016"
+      ],
+      "reason": "内容完全一致，都是关于用逐步挑战帮助孩子克服怕失败。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a018",
+        "s-296bebb32928-c002:xe017"
+      ],
+      "reason": "内容完全一致，都是关于家长大惊小怪会让孩子更怕失败。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a019",
+        "s-296bebb32928-c002:xe018"
+      ],
+      "reason": "内容完全一致，都是关于赋能孩子需要时间等待。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a020",
+        "s-296bebb32928-c002:r004"
+      ],
+      "reason": "内容完全一致，都是关于用玩具作为挣钱目标培养动力。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a021",
+        "s-296bebb32928-c002:xe020"
+      ],
+      "reason": "内容完全一致，都是关于孩子不应经历衣食住行的缺乏。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a022",
+        "s-296bebb32928-c002:xe021"
+      ],
+      "reason": "内容完全一致，都是关于家长在意钱不代表孩子必须在意。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a023",
+        "s-296bebb32928-c002:xe022"
+      ],
+      "reason": "内容完全一致，都是关于九岁孩子不可能有健全的自我认知。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a024"
+      ],
+      "reason": "内容完全一致，都是关于让孩子自己承担后果来培养自我认知。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a025",
+        "s-296bebb32928-c002:xe024"
+      ],
+      "reason": "内容完全一致，都是关于势均力敌的矛盾家长不需插手。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a026",
+        "s-296bebb32928-c002:r005",
+        "s-296bebb32928-c002:xe025"
+      ],
+      "reason": "内容完全一致，都是关于用肥皂洗嘴巴惩罚骂脏话。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a027"
+      ],
+      "reason": "内容完全一致，都是关于平时培养孩子的高贵品格。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a028",
+        "s-296bebb32928-c002:xe027"
+      ],
+      "reason": "内容完全一致，都是关于孩子自我保护欲强可能因缺乏安全感。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a029",
+        "s-296bebb32928-c002:xe028"
+      ],
+      "reason": "内容完全一致，都是关于老师有权在教室立规矩。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a030",
+        "s-296bebb32928-c002:xe029"
+      ],
+      "reason": "内容完全一致，都是关于新学员需提供更多背景信息。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a031"
+      ],
+      "reason": "内容完全一致，都是关于对九岁孩子的期待要符合年龄。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a032",
+        "s-296bebb32928-c002:xe031"
+      ],
+      "reason": "内容完全一致，都是关于改变需要持续性。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a033",
+        "s-296bebb32928-c003:a001"
+      ],
+      "reason": "内容完全一致，都是关于按照七个步骤道歉弥补伤害。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a026",
+        "s-296bebb32928-c002:a027"
+      ],
+      "description": "k00063 提到用肥皂洗嘴巴惩罚骂脏话，而 k00102 强调平时培养高贵品格，不在冲突时讲道理。两者在管教方式上存在潜在矛盾：惩罚与品格培养的时机和方式不同。",
+      "needed_evidence": "需要明确惩罚与品格培养的适用条件和界限，以及是否应该避免体罚。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a001",
+        "s-296bebb32928-c002:a003"
+      ],
+      "description": "k00038 建议家长不辅导孩子学习，让孩子自己承担后果；而 k00040 建议家长通过创造性游戏帮助孩子记忆。两者在家长是否参与学习上存在矛盾。",
+      "needed_evidence": "需要明确不辅导与创造性游戏帮助的适用范围，以及如何平衡家长参与和自主承担后果。"
+    },
+    {
+      "atom_ids": [
+        "s-296bebb32928-c002:a008",
+        "s-296bebb32928-c002:a009"
+      ],
+      "description": "k00045 指出没收游戏设备会让孩子更上瘾，而 k00046 指出没收设备不可持续，需培养孩子能力。两者在没收设备的短期效果和长期策略上存在矛盾。",
+      "needed_evidence": "需要明确没收设备的短期和长期影响，以及如何过渡到能力培养。"
+    }
+  ],
+  "path": [
+    {
+      "name": "不抓狂的管教实操流程",
+      "steps": [
+        {
+          "action": "完成情绪连接",
+          "atom_ids": [
+            "s-296bebb32928-c001:a001"
+          ],
+          "condition": "在引导孩子之前必须完成情绪连接，否则任何引导方法无效。"
+        },
+        {
+          "action": "处理父母自身焦虑并反思",
+          "atom_ids": [
+            "s-296bebb32928-c001:a007",
+            "s-296bebb32928-c001:a027"
+          ],
+          "condition": "父母需先处理自身焦虑，反思自身行为，而不是归咎外部因素。"
+        },
+        {
+          "action": "真诚道歉",
+          "atom_ids": [
+            "s-296bebb32928-c001:a004",
+            "s-296bebb32928-c002:a033"
+          ],
+          "condition": "如果之前有伤害行为，按照七个步骤真诚道歉，指认伤害。"
+        },
+        {
+          "action": "夫妻保持一致并设置前提条件",
+          "atom_ids": [
+            "s-296bebb32928-c001:a022"
+          ],
+          "condition": "夫妻在管教上保持一致，一方已同意时另一方设置前提条件。"
+        },
+        {
+          "action": "接纳孩子感受，拒绝行为",
+          "atom_ids": [
+            "s-296bebb32928-c001:a015",
+            "s-296bebb32928-c001:a018"
+          ],
+          "condition": "允许孩子表达任何感受，但拒绝攻击性行为。"
+        },
+        {
+          "action": "把握管教时机",
+          "atom_ids": [
+            "s-296bebb32928-c001:a016",
+            "s-296bebb32928-c001:a017"
+          ],
+          "condition": "孩子累饿或情绪激动时不宜讲道理，事后沟通感受。"
+        },
+        {
+          "action": "逐步改变并持续",
+          "atom_ids": [
+            "s-296bebb32928-c001:a008",
+            "s-296bebb32928-c002:a032"
+          ],
+          "condition": "改变孩子要一步一步来，并保持持续性。"
+        },
+        {
+          "action": "做对多于做错",
+          "atom_ids": [
+            "s-296bebb32928-c003:a004",
+            "s-296bebb32928-c003:a007"
+          ],
+          "condition": "父母要做对的事情比做错的事情多，不追求完美。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "81f5f35c80dc3b02fc82ab860b375d94e66f9817b14c2ae7287adbafc5cbf42a",
+  "point_units": [
+    {
+      "id": "s-296bebb32928-c001:unit-001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-296bebb32928-c001:a001"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007",
+        "b00009",
+        "b00012",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-002",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c001:a026"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009",
+        "b00010",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-296bebb32928-c001:a002"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-296bebb32928-c001:a003"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-005",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c001:a004"
+      ],
+      "blocks": [
+        "b00014",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-006",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-296bebb32928-c001:a005"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-007",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c001:a006"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-008",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c001:a007"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-009",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c001:a008"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-010",
+      "kind": "definition",
+      "atom_ids": [
+        "s-296bebb32928-c001:a009"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-296bebb32928-c001:a010"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-012",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-296bebb32928-c001:a011"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-013",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c001:a012"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-296bebb32928-c001:a013"
+      ],
+      "blocks": [
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-015",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c001:a014"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036",
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042",
+        "b00055",
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-016",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-296bebb32928-c001:a015"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-017",
+      "kind": "condition",
+      "atom_ids": [
+        "s-296bebb32928-c001:a016"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046",
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-018",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c001:a017"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-296bebb32928-c001:a018"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051",
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-020",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c001:a019"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-021",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c001:a020"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-022",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-296bebb32928-c001:a021"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056",
+        "b00057",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-023",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c001:a022"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-024",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c001:a023"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-025",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c001:a024"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-026",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c001:a025"
+      ],
+      "blocks": [
+        "b00063",
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-296bebb32928-c001:a027"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-028",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c002:r001"
+      ],
+      "blocks": [
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-029",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00013",
+        "b00067",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c001:unit-030",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U01",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U02",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U03",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c002:a001"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U04",
+      "kind": "concept",
+      "atom_ids": [
+        "s-296bebb32928-c002:a002"
+      ],
+      "blocks": [
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U06",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c002:a003"
+      ],
+      "blocks": [
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U07",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c002:a004"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074",
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U08",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c002:a005"
+      ],
+      "blocks": [
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U09",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c002:a006"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U10",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c002:a007"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U11",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-296bebb32928-c002:a008"
+      ],
+      "blocks": [
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U12",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-296bebb32928-c002:a009"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U14",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c002:a010"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U15",
+      "kind": "condition",
+      "atom_ids": [
+        "s-296bebb32928-c002:a011"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U16",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c002:a012"
+      ],
+      "blocks": [
+        "b00088",
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U17",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c002:a013"
+      ],
+      "blocks": [
+        "b00089",
+        "b00090",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U18",
+      "kind": "condition",
+      "atom_ids": [
+        "s-296bebb32928-c002:a014"
+      ],
+      "blocks": [
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U19",
+      "kind": "condition",
+      "atom_ids": [
+        "s-296bebb32928-c002:a015"
+      ],
+      "blocks": [
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U20",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c002:a016"
+      ],
+      "blocks": [
+        "b00095",
+        "b00096"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U21",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c002:a017"
+      ],
+      "blocks": [
+        "b00096",
+        "b00097",
+        "b00098",
+        "b00099"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U22",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-296bebb32928-c002:a018"
+      ],
+      "blocks": [
+        "b00099",
+        "b00100"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U23",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-296bebb32928-c002:a019"
+      ],
+      "blocks": [
+        "b00101",
+        "b00102"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U24",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n004"
+      ],
+      "blocks": [
+        "b00102",
+        "b00103",
+        "b00104"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U25",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c002:a020"
+      ],
+      "blocks": [
+        "b00103",
+        "b00104"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U26",
+      "kind": "condition",
+      "atom_ids": [
+        "s-296bebb32928-c002:a021"
+      ],
+      "blocks": [
+        "b00105",
+        "b00106"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U27",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-296bebb32928-c002:a022"
+      ],
+      "blocks": [
+        "b00106",
+        "b00107",
+        "b00108",
+        "b00109"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U28",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n005"
+      ],
+      "blocks": [
+        "b00110"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U29",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c002:a024"
+      ],
+      "blocks": [
+        "b00110",
+        "b00112"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U30",
+      "kind": "condition",
+      "atom_ids": [
+        "s-296bebb32928-c002:a023"
+      ],
+      "blocks": [
+        "b00111",
+        "b00112"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U31",
+      "kind": "condition",
+      "atom_ids": [
+        "s-296bebb32928-c002:a025"
+      ],
+      "blocks": [
+        "b00113",
+        "b00114"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U32",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n006"
+      ],
+      "blocks": [
+        "b00112",
+        "b00113",
+        "b00114",
+        "b00115"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U33",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c002:a026"
+      ],
+      "blocks": [
+        "b00115"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U34",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c002:a027"
+      ],
+      "blocks": [
+        "b00116",
+        "b00117"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U35",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-296bebb32928-c002:a028"
+      ],
+      "blocks": [
+        "b00117",
+        "b00118",
+        "b00119"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U36",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-296bebb32928-c002:a029"
+      ],
+      "blocks": [
+        "b00120",
+        "b00121",
+        "b00122"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U37",
+      "kind": "condition",
+      "atom_ids": [
+        "s-296bebb32928-c002:a030"
+      ],
+      "blocks": [
+        "b00123"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U38",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n007"
+      ],
+      "blocks": [
+        "b00123",
+        "b00124",
+        "b00125"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U39",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c002:a031"
+      ],
+      "blocks": [
+        "b00124",
+        "b00125"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U40",
+      "kind": "condition",
+      "atom_ids": [
+        "s-296bebb32928-c002:a032"
+      ],
+      "blocks": [
+        "b00125",
+        "b00126"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U41",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n008"
+      ],
+      "blocks": [
+        "b00126",
+        "b00127",
+        "b00128"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U42",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c002:a033"
+      ],
+      "blocks": [
+        "b00127",
+        "b00128"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c002:U43",
+      "kind": "concept",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00129"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-296bebb32928-c003:a001"
+      ],
+      "blocks": [
+        "b00127",
+        "b00128"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c003:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-296bebb32928-c003:a003"
+      ],
+      "blocks": [
+        "b00129",
+        "b00130"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c003:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-296bebb32928-c003:a002",
+        "s-296bebb32928-c003:a004"
+      ],
+      "blocks": [
+        "b00128",
+        "b00130"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c003:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-296bebb32928-c003:a005"
+      ],
+      "blocks": [
+        "b00130",
+        "b00131"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c003:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-296bebb32928-c003:a006"
+      ],
+      "blocks": [
+        "b00132"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c003:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-296bebb32928-c003:a007"
+      ],
+      "blocks": [
+        "b00132"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c003:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-296bebb32928-c003:a008"
+      ],
+      "blocks": [
+        "b00133"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c003:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-296bebb32928-c003:a009"
+      ],
+      "blocks": [
+        "b00133"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c003:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-296bebb32928-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00126"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c003:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00126"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c003:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-296bebb32928-c003:v2-n003"
+      ],
+      "blocks": [
+        "b00126",
+        "b00127"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c003:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c003:a010"
+      ],
+      "blocks": [
+        "b00134"
+      ]
+    },
+    {
+      "id": "s-296bebb32928-c003:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-296bebb32928-c003:a011"
+      ],
+      "blocks": [
+        "b00135"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "高二女生案例背景",
+      "atom_ids": [
+        "s-296bebb32928-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-296bebb32928",
+          "blocks": [
+            "b00004",
+            "b00005",
+            "b00013",
+            "b00067",
+            "b00068"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "不建议家长辅导孩子学习",
+      "atom_ids": [
+        "s-296bebb32928-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-296bebb32928",
+          "blocks": [
+            "b00067",
+            "b00068"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "夫妻教育分歧时先与配偶沟通并道歉",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-296bebb32928",
+          "blocks": [
+            "b00066"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "父母和专家也会犯错伤害孩子",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-296bebb32928",
+          "blocks": [
+            "b00129"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "condition"
+    },
+    {
+      "title": "八岁孩子被没收游戏设备后仍认真学习",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-296bebb32928",
+          "blocks": [
+            "b00067",
+            "b00068",
+            "b00070",
+            "b00072",
+            "b00081"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "孩子丢纸壳不心疼，家长用玩具目标引导",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-296bebb32928",
+          "blocks": [
+            "b00102",
+            "b00103",
+            "b00104",
+            "b00105",
+            "b00106",
+            "b00107"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "九岁孩子嫌书丑并怕被笑",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-296bebb32928",
+          "blocks": [
+            "b00110",
+            "b00111",
+            "b00112"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "两个孩子互相指责先骂",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n006"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-296bebb32928",
+          "blocks": [
+            "b00112",
+            "b00113",
+            "b00114",
+            "b00115"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "一位新学员孩子缺少勇气",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n007"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-296bebb32928",
+          "blocks": [
+            "b00123",
+            "b00124",
+            "b00125"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "该学员孩子觉得家长变温柔",
+      "atom_ids": [
+        "s-296bebb32928-c002:v2-n008"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-296bebb32928",
+          "blocks": [
+            "b00126",
+            "b00127",
+            "b00128"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "持续行动与能量改变",
+      "atom_ids": [
+        "s-296bebb32928-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-296bebb32928",
+          "blocks": [
+            "b00126"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "提问时提供背景信息",
+      "atom_ids": [
+        "s-296bebb32928-c003:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-296bebb32928",
+          "blocks": [
+            "b00126"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "一名学员的孩子反馈妈妈学习后变好",
+      "atom_ids": [
+        "s-296bebb32928-c003:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-296bebb32928",
+          "blocks": [
+            "b00126",
+            "b00127"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    }
+  ]
+}

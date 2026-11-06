@@ -1,0 +1,2624 @@
+{
+  "concepts": [
+    {
+      "name": "立界限的后果必须是自己能做到的",
+      "definition": "立界限时给出的后果必须是自己能够执行的，否则每次立界限后因做不到而后退，反而会增加对方侵犯界限的力量。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a001",
+        "s-b22c4f55e0db-c001:a002"
+      ]
+    },
+    {
+      "name": "心理后果也是有效的后果",
+      "definition": "后果不一定是行为上的惩罚，心理上的后果（如让对方知道你瞧不起他、愤怒、失去信任或自由）也是严重的后果。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a003",
+        "s-b22c4f55e0db-c001:a008"
+      ]
+    },
+    {
+      "name": "对长辈立界限的示例话术",
+      "definition": "对长辈立界限时，可以明确表达：如果对方在背后说而不是当面沟通，自己会瞧不起对方、愤怒、不尊重，并认为对方假冒伪善。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a004",
+        "s-b22c4f55e0db-c001:r001"
+      ]
+    },
+    {
+      "name": "被情绪控制长大的孩子与父母关系疏远",
+      "definition": "被情绪控制长大的孩子与父母关系不亲近，内心对父母有很多愤怒，与父母有争执和矛盾，并且与父母分得很开。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a005"
+      ]
+    },
+    {
+      "name": "孩子不快乐是父母种下的果",
+      "definition": "父母看到孩子不快乐、不幸福，自己也会难过，这是父母在承受自己种下的果。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a006"
+      ]
+    },
+    {
+      "name": "女企业家母亲与女儿关系疏远的案例",
+      "definition": "一位中国女企业家母亲从小对女儿管控严格、情绪操控，女儿长大后与母亲不吵架但非常客气、拘谨，在母亲面前从不笑。母亲看到女儿笑时眼睛会亮起来并放松，但女儿离开后母亲表达遗憾，认为母女不亲。母亲现在50多岁，将此视为很大的遗憾。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a007"
+      ]
+    },
+    {
+      "name": "先发制人立界限以消除恐惧",
+      "definition": "在害怕对方说出伤害性话语时，可以主动在立界限时先说出对方可能说的话，从而剥夺对方话语的伤害力。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a009",
+        "s-b22c4f55e0db-c001:a010",
+        "s-b22c4f55e0db-c001:r002"
+      ]
+    },
+    {
+      "name": "立界限时不被对方带偏",
+      "definition": "在立界限时，如果对方转移话题（如指责你不孝），要回到核心问题，坚持要求对方回答是否答应界限，否则结束对话。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a011",
+        "s-b22c4f55e0db-c001:r003"
+      ]
+    },
+    {
+      "name": "用事实检验恐惧",
+      "definition": "当感到害怕时，问自己：我需要紧张吗？我还会受到过去一样的伤害吗？他真的是在生我的气吗？他还能像以前一样伤害我吗？如果答案是否定的，就没有什么好害怕的。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a012",
+        "s-b22c4f55e0db-c001:r004"
+      ]
+    },
+    {
+      "name": "课程主题排序有逻辑原因",
+      "definition": "课程主题的先后次序是有原因的，每个主题牵涉到下一个主题，按顺序学习可以更清晰，否则越听越迷茫。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a013"
+      ]
+    },
+    {
+      "name": "提问需与主题相关",
+      "definition": "提问应与当前课程主题相关，否则无法得到有效回答，因为基础未打牢时，答案对提问者没有帮助。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a014"
+      ]
+    },
+    {
+      "name": "随便提问会削弱思考能力",
+      "definition": "随便提问会让大脑越来越不愿意思考，而认真听课并思考后才能提出与主题相关的问题。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a015"
+      ]
+    },
+    {
+      "name": "检验问题是否与主题相关的方法",
+      "definition": "检验自己的问题是否与主题相关，可以问自己：这个问题是否基于当前课程内容？是否在课程中已有答案？如果课程中已讲，则无需提问。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a016"
+      ]
+    },
+    {
+      "name": "课程曾被清华大学邀请",
+      "definition": "该课程曾被清华大学邀请讲授，需要提供中英文大纲并解释逻辑顺序。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a017"
+      ]
+    },
+    {
+      "name": "不回答无关问题是对提问者负责",
+      "definition": "对于与主题无关的问题，不回答是因为不了解提问者背景，胡乱猜测答案是不负责任的，也浪费双方时间。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a018"
+      ]
+    },
+    {
+      "name": "回答无关问题会挤占认真提问者的机会",
+      "definition": "如果回答所有问题，会挤占认真思考后提问者的机会，导致课程质量下降，对认真听课的人不公平。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a019"
+      ]
+    },
+    {
+      "name": "听课需要思考而非被动接受",
+      "definition": "听课不仅要听，还要思考，听一句停下来思考老师的话，联系自己的生活实例，甚至挑战老师的话。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a020"
+      ]
+    },
+    {
+      "name": "检验问题与课程主题相关性的方法",
+      "definition": "学员提问后，将问题写下来，在问题最后写出该问题与当节课程中哪个知识点有关、有什么关联。如果写不出来，大概率不符合条件；如果能写出来，问题就与课程相关且可以被解决。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a001"
+      ]
+    },
+    {
+      "name": "提问时提供具体案例的方法",
+      "definition": "如果问题涉及知识点的日常应用，应提供具体案例：描述遇到的情况、当时如何做、结合知识点觉得不对，请老师提议或纠正。这样老师可以有目的地回答，在案例中学习。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a002"
+      ]
+    },
+    {
+      "name": "与老师沟通立界限的方法",
+      "definition": "与老师立界限可以温和进行，不需要强硬。具体方法：父母统一态度，不卑不亢；态度坚定而温和（坚定在先，温和在后）；不说场面话如“特别感谢你对孩子的照顾”；直接说明不同意老师的提议及原因，并提出自己的建议。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a003"
+      ]
+    },
+    {
+      "name": "老师不讲道理时的应对策略",
+      "definition": "如果老师不讲道理，坚持自己的方法，则无法通过商量解决。此时应硬刚保护孩子，让老师冷落孩子可能是最好的结果，因为冷落不会伤害孩子的根基，而欺负会。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a004"
+      ]
+    },
+    {
+      "name": "立界限是否激怒对方取决于对方是什么样的人",
+      "definition": "想要不激怒一个人去立界限，决定性因素不是如何立界限，而是对方是什么样的人：是否愿意尊重界限、是否有界限感。如果对方有界限感，正确立界限不会激怒他；如果对方没有界限感，则可能无法避免刺激。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a005"
+      ]
+    },
+    {
+      "name": "16岁孩子没收手机立界限的案例",
+      "definition": "学员问题中，16岁孩子从小没有界限思维，不懂界限，因此无法不刺激他立没收手机的界限。孩子可能以跳楼、不上学、离家出走等威胁。讲师建议：让孩子知道威胁行为的后果，例如不上学超过三天则断网、扔掉所有电子产品；如果孩子以死威胁，家长应离开家并告知若再威胁则报警送医。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a006"
+      ]
+    },
+    {
+      "name": "立界限需要付出代价",
+      "definition": "立界限是要付代价的。如果孩子与父母不共戴天，可能硬碰硬；但一般正常孩子只是吓唬，发现吓不着就不会硬碰硬。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a007"
+      ]
+    },
+    {
+      "name": "反思如何走到孩子敢拿捏父母的地步",
+      "definition": "遇到孩子威胁父母的情况，应反思：怎么走到今天这一步的？做了什么让孩子认为并敢拿捏父母？",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a008"
+      ]
+    },
+    {
+      "name": "尊重是赢得的，不是强迫的",
+      "definition": "孩子不尊重老人是因为老人的行为不赢得尊重。老人自己种的因自己收，妈妈不能越界要求孩子必须尊重老人。尊重是赢得的，不是强迫孩子给的。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a009"
+      ]
+    },
+    {
+      "name": "对强势老人立界限的方法",
+      "definition": "如果老人强势、不讲道理、狂怒争吵，妈妈应告诉老人：孩子不尊重你是你的责任；如果老人再凶妈妈，妈妈要请老人离开。如果必须依赖老人带孩子，则只能害怕，无法克服恐惧。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a010",
+        "s-b22c4f55e0db-c002:r003"
+      ]
+    },
+    {
+      "name": "坚持界限时看对方状态而非自己状态",
+      "definition": "是否坚持界限不应看自己当时的状态，而要看对方的状态和态度。如果对方愿意尊重界限但有习惯问题，且已在尽量注意，可以给予更多宽容；如果对方态度敷衍、没有改变，则需立更近的界限帮助其改掉习惯。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a011"
+      ]
+    },
+    {
+      "name": "“你要听话”不是立界限",
+      "definition": "“孩子你要听话，不要让妈妈太操心”这句话不是立界限，而是模糊、没有定义的育儿语言。它让孩子感到困扰，导致孩子不听话。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a012",
+        "s-b22c4f55e0db-c003:a001"
+      ]
+    },
+    {
+      "name": "对以死威胁的孩子报警送医的步骤",
+      "definition": "当孩子以自杀威胁时，家长应离开家，并在离开前告知孩子：如果再威胁自杀，将立刻报警并送医院，因为伤害自己需要被特殊保护。除非孩子与父母有不共戴天的仇恨，否则一般不会硬碰硬。送一次医院后，孩子通常就知道后果。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:r001"
+      ]
+    },
+    {
+      "name": "父母怕孩子与孩子怕父母都是教育失败",
+      "definition": "父母怕孩子和孩子怕父母都是教育的失败。健康的亲子关系不应是相爱相杀，要么你怕我，要么我怕你。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:r002"
+      ]
+    },
+    {
+      "name": "“听话”缺乏量化标准",
+      "definition": "“听话”一词没有明确的量化标准：是一个指令一个动作，还是三秒内关电视，还是十句话听八句？由于缺乏具体定义，孩子无法知道如何满足要求。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a002"
+      ]
+    },
+    {
+      "name": "“让妈妈操心”缺乏量化标准",
+      "definition": "“让妈妈操心”同样没有量化标准，孩子不知道做到什么程度才能不让你操心。这种模糊指示会让孩子没有安全感。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a003"
+      ]
+    },
+    {
+      "name": "孩子道歉可能是确认爱而非理解指令",
+      "definition": "当孩子因模糊指令而道歉（如“妈妈对不起，我让你操心了”），他可能只是在确认你是否还爱他，并不真正明白指令的含义。家长自己也可能没有量化标准。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a004"
+      ]
+    },
+    {
+      "name": "模糊指令拿走孩子的力量",
+      "definition": "对孩子说“你要听话，不要让妈妈操心”这类模糊指令会拿走孩子的力量，让孩子感到无力。建议以后不要对孩子说这种容易拿走力量的话。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a005"
+      ]
+    },
+    {
+      "name": "老板模糊指令的类比",
+      "definition": "类比：如果老板对员工说“你要好好工作，不要让我总是这么心烦”，员工会每天担惊受怕，因为不知道“好好工作”的具体标准。这类似于家长对孩子说模糊指令。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a006"
+      ]
+    },
+    {
+      "name": "模糊指令导致孩子自我感觉糟糕",
+      "definition": "长期接受模糊指令的孩子会觉得自己永远无法达到要求，从而觉得自己非常糟糕。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a007"
+      ]
+    },
+    {
+      "name": "界限感混乱导致过度责任",
+      "definition": "当界限感混乱时，人会出现“如果我再多做一点点，我就能挽救他”的想法。但自杀始终是当事人自己的责任，任何人给予的美好都是对他负责，但不能为他负责。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a008"
+      ]
+    },
+    {
+      "name": "假设拯救他人是自己的责任",
+      "definition": "说“如果我多去看望他，他就不自杀了”时，隐含了一个前提：拯救他、让他不自杀是你的责任。但实际上那是他自己的责任。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a009"
+      ]
+    },
+    {
+      "name": "讲师与母亲的界限例子",
+      "definition": "讲师举例：讲师告诉母亲，如果母亲自杀，讲师会伤心难过，但不会内疚。这体现了界限感分明的人的态度：自杀是母亲自己的责任，不是因为讲师没有足够表达善意。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a010"
+      ]
+    },
+    {
+      "name": "内疚感源于没有立界限",
+      "definition": "内疚感的产生恰恰是因为没有立界限。如果立了界限，就不会有内疚感。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a011"
+      ]
+    },
+    {
+      "name": "孩子打扰母亲未立界限导致惩罚和内疚",
+      "definition": "案例：孩子中午不顾母亲需要来打扰，母亲没有立界限，反而因愤怒决定惩罚孩子，收走对孩子的帮助。之后母亲与朋友交流后感到内疚。讲师指出这样做不对，因为未立界限导致内疚。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a012"
+      ]
+    },
+    {
+      "name": "离开场景并分析后再回应",
+      "definition": "如果能够离开冲突场景，应该立刻离开，回去分析清楚后再做回应。但有时无法离开，此时需要平时特意练习。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a013"
+      ]
+    },
+    {
+      "name": "学习分知识部分和实践部分",
+      "definition": "好的学习分两个部分：知识部分和实践部分。知识部分提供理论基础，实践部分通过刻意练习将理论用于生活。例如医学生毕业后需实习才能当医生。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a014"
+      ]
+    },
+    {
+      "name": "刻意练习与排练",
+      "definition": "在生活中要反复练习界限回应：如果对方这么说，我应该怎么回应；如果那样说，我应该怎么回应。在脑中反复排练，训练大脑形成自然反应。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a015"
+      ]
+    },
+    {
+      "name": "界限需要实操练习",
+      "definition": "界限不是学了就自动会立，必须实操刻意练习，一次一次训练，即使失败也没问题。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a016"
+      ]
+    },
+    {
+      "name": "刻意制造愧疚感不是健康界限",
+      "definition": "立界限时，如果刻意让对方产生愧疚感，制造道德绑架、情绪勒索甚至信仰绑架，这不是健康的界限。健康界限第一是教对方如何对待你，第二是给对方权利选择想要的结果。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a017"
+      ]
+    },
+    {
+      "name": "立界限自然引发对方愧疚感",
+      "definition": "健康立界限后，对方可能自然产生愧疚感。例如长期被家暴的妻子对丈夫说“从今以后你不可以再打我”，丈夫会立刻产生愧疚感，但可能恼羞成怒、暴跳如雷，因为界限撕破了长久以来的遮羞布，暴露了丑陋事实。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a018"
+      ]
+    },
+    {
+      "name": "妻子质问丈夫不给孩子留菜",
+      "definition": "案例：讲师家中孩子和丈夫都喜欢吃某道菜，丈夫会把最后一口或菜使劲夹到自己那边。讲师会问丈夫：“难道你不会想到要给孩子留一点吗？”讲师表示这是发自内心的好奇，并非故意制造愧疚感，但丈夫可能因此产生愧疚感并暴跳如雷，因为事实丑陋。讲师建议可以冷笑着看着他说：“怎么样？恼羞成怒了啊？”",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a019"
+      ]
+    },
+    {
+      "name": "根据依赖程度决定对待方式",
+      "definition": "如果生意上离不开某人，就不要把他当闺蜜去爱，而要当财神爷去舔；如果生意上可以没有他，就可以作为闺蜜臭骂一顿。这体现了根据依赖程度调整界限和对待方式。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a020"
+      ]
+    },
+    {
+      "name": "快乐老家问题可能原因",
+      "definition": "针对“快乐老家”的问题，讲师指出可能的原因包括：没有认知过滤的能力、对自己有错误的认知、被人设限制住、本身有焦虑问题等，但具体原因不确定。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a021"
+      ]
+    },
+    {
+      "name": "“你没有本身”不是立界限",
+      "definition": "讲师指出，学员对孩子说的“你从孩子出生到现在青春期，你没有本身”这句话不是立界限。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a022"
+      ]
+    },
+    {
+      "name": "立界限时是否让对方有愧疚感的两类情况",
+      "definition": "立界限时让对方产生愧疚感分两种情况：一是刻意制造愧疚感，如道德绑架、情绪勒索、信仰绑架，这不是健康界限；二是健康立界限后对方自然产生愧疚感，这是正常现象。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a023"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-b22c4f55e0db-c001:a001",
+      "target": "s-b22c4f55e0db-c001:a002",
+      "kind": "causes",
+      "condition": "如果立界限后因无法执行后果而后退",
+      "reason": "立界限时给出的后果必须是自己能够执行的，否则每次立界限后因做不到而后退，反而会增加对方侵犯界限的力量。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a003",
+      "target": "s-b22c4f55e0db-c001:a004",
+      "kind": "example_of",
+      "condition": "对长辈立界限时",
+      "reason": "心理后果（如瞧不起、愤怒）是有效的后果，对长辈立界限的示例话术中使用了心理后果。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a005",
+      "target": "s-b22c4f55e0db-c001:a007",
+      "kind": "association",
+      "condition": "被情绪控制长大的孩子与父母关系疏远",
+      "reason": "女企业家母亲与女儿关系疏远的案例具体展示了被情绪控制长大的孩子与父母关系疏远的特征，但原方向概念到案例作为 example_of 不成立；两者为案例与概念的关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反了，改为关联"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a006",
+      "target": "s-b22c4f55e0db-c001:a007",
+      "kind": "association",
+      "condition": "父母看到孩子不快乐",
+      "reason": "女企业家母亲与女儿关系疏远的案例中母亲看到女儿不笑而自己难过，展示了父母看到孩子不快乐自己难过的现象，但原方向概念到案例的 example_of 不成立；两者关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反了，改为关联"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a009",
+      "target": "s-b22c4f55e0db-c001:a010",
+      "kind": "supports",
+      "condition": "当自己先说出对方可能用来伤害自己的话时",
+      "reason": "先发制人立界限以消除恐惧的策略主动说出对方可能说的伤害话语；主动说出恐惧话语可剥夺对方威慑力解释了该策略的机制，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a011",
+      "target": "s-b22c4f55e0db-c001:r003",
+      "kind": "supports",
+      "condition": "立界限时对方转移话题",
+      "reason": "立界限时不被对方带偏的内容与立界限时不被对方带偏的完整步骤相同，前者支持后者的可操作性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a012",
+      "target": "s-b22c4f55e0db-c001:r004",
+      "kind": "supports",
+      "condition": "感到害怕时",
+      "reason": "用事实检验恐惧的内容与用事实检验恐惧的完整步骤相同，前者支持后者的可操作性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a013",
+      "target": "s-b22c4f55e0db-c001:a014",
+      "kind": "causes",
+      "condition": "课程主题有逻辑顺序",
+      "reason": "因为课程主题排序有逻辑原因，所以提问需与主题相关，否则基础未打牢时答案无帮助。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a014",
+      "target": "s-b22c4f55e0db-c001:a018",
+      "kind": "supports",
+      "condition": "提问与主题无关",
+      "reason": "提问需与主题相关指出无关问题无法有效回答；不回答无关问题是对提问者负责则说明因不了解背景胡乱猜测不负责任，前者原则支持后者的做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a015",
+      "target": "s-b22c4f55e0db-c001:a020",
+      "kind": "supports",
+      "condition": "认真听课并思考",
+      "reason": "随便提问会削弱思考能力，而听课需要思考而非被动接受。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a016",
+      "target": "s-b22c4f55e0db-c001:a016",
+      "kind": "supports",
+      "condition": "检验问题是否与主题相关",
+      "reason": "检验问题是否与主题相关的方法提供了具体的自我检验问题。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a018",
+      "target": "s-b22c4f55e0db-c001:a019",
+      "kind": "association",
+      "condition": "回答无关问题",
+      "reason": "不回答无关问题是对提问者负责与回答无关问题会挤占认真提问者的机会有关联：回答会挤占机会是不回答的原因之一，但原方向 a018→a019 的因果方向不成立，两者为相互关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反，改为关联"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a001",
+      "target": "s-b22c4f55e0db-c001:a016",
+      "kind": "association",
+      "condition": "检验问题与课程主题相关性的方法",
+      "reason": "检验问题与课程主题相关性的方法给出基本步骤：写下问题并说明与知识点的关联，写不出则大概率不符合条件；检验问题是否与主题相关的方法进一步区分关联类型并补充应用时的具体情境，同时修正写不出关联即不符合条件的绝对说法，强调问题可能只是不属于主题而非无价值。两者为同一方法的不同表述，存在细化与修正，不能构成单向支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原supports关系不成立，改为association，方向不变。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a002",
+      "target": "s-b22c4f55e0db-c001:a014",
+      "kind": "supports",
+      "condition": "问题涉及知识点的日常应用",
+      "reason": "提问时提供具体案例的方法帮助提问者提出具体、有背景的问题，有助于满足提问需与主题相关的要求，因此支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a003",
+      "target": "s-b22c4f55e0db-c001:a001",
+      "kind": "supports",
+      "condition": "与老师立界限时",
+      "reason": "与老师沟通立界限的方法中提出的建议是自己能做到的，且态度坚定温和；立界限的后果必须是自己能做到的原则是该方法的一部分，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind applies_to 不在允许类型，改为 supports"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a004",
+      "target": "s-b22c4f55e0db-c002:a003",
+      "kind": "contrasts",
+      "condition": "老师不讲道理时",
+      "reason": "老师不讲道理时的应对策略采用硬刚保护孩子，与老师沟通立界限的方法所适用的老师讲道理时温和商量形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a005",
+      "target": "s-b22c4f55e0db-c002:a006",
+      "kind": "supports",
+      "condition": "对方没有界限感",
+      "reason": "「立界限是否激怒对方取决于对方是什么样的人」这一原则支持理解16岁孩子因没有界限思维而无法不刺激他立界限的案例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为applies_to，按允许类型调整为supports。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a006",
+      "target": "s-b22c4f55e0db-c002:r001",
+      "kind": "step_of",
+      "condition": "孩子以死威胁",
+      "reason": "对以死威胁的孩子报警送医的步骤是16岁孩子没收手机立界限案例中的具体应对步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a007",
+      "target": "s-b22c4f55e0db-c002:a006",
+      "kind": "supports",
+      "condition": "立界限需要付出代价",
+      "reason": "立界限需要付出代价这一原则支持理解16岁孩子案例中家长需要承担孩子以跳楼、不上学等威胁的后果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a008",
+      "target": "s-b22c4f55e0db-c002:a006",
+      "kind": "prerequisite",
+      "condition": "遇到孩子威胁父母的情况",
+      "reason": "遇到孩子威胁父母的情况时，需要先反思如何走到孩子敢拿捏父母这一步，才能处理16岁孩子没收手机立界限案例中的威胁行为。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a009",
+      "target": "s-b22c4f55e0db-c002:a010",
+      "kind": "supports",
+      "condition": "孩子不尊重老人",
+      "reason": "尊重是赢得的、不是强迫的，这一原则支持对强势老人立界限时告诉老人孩子不尊重是老人自己的责任。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为causes，按允许类型改为supports。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a010",
+      "target": "s-b22c4f55e0db-c002:r003",
+      "kind": "supports",
+      "condition": "对强势老人立界限",
+      "reason": "对强势老人立界限的方法支持其具体话术，因为话术是该方法的具体表达。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a011",
+      "target": "s-b22c4f55e0db-c001:a001",
+      "kind": "supports",
+      "condition": "坚持界限时",
+      "reason": "坚持界限时看对方状态而非自己状态，有助于确保后果是自己能做到的。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a012",
+      "target": "s-b22c4f55e0db-c003:a001",
+      "kind": "association",
+      "condition": "",
+      "reason": "两端是对同一命题的不同表述，目标端补充了更多后果，但源端并未为目标端提供独立支持证据，只是同一议题的重复陈述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为supports，但两者实为同一论断。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a001",
+      "target": "s-b22c4f55e0db-c003:a002",
+      "kind": "association",
+      "condition": "",
+      "reason": "「你要听话」不是立界限与「听话」缺乏量化标准同属模糊指令的讨论；后者是前者的解释，而非由前者导致，方向不对应，故只能作为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为causes，按允许类型改为association。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a001",
+      "target": "s-b22c4f55e0db-c003:a003",
+      "kind": "association",
+      "condition": "",
+      "reason": "「你要听话」不是立界限与「让妈妈操心」缺乏量化标准同属模糊指令的讨论；后者是前者的解释，而非由前者导致，方向不对应，故只能作为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为causes，按允许类型改为association。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a002",
+      "target": "s-b22c4f55e0db-c003:a004",
+      "kind": "supports",
+      "condition": "孩子因模糊指令道歉",
+      "reason": "「听话」缺乏量化标准这一点支持一种解释：孩子在这种情况下道歉可能只是在确认爱，而不是理解了指令。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为causes，按允许类型改为supports。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a003",
+      "target": "s-b22c4f55e0db-c003:a004",
+      "kind": "causes",
+      "condition": "孩子因模糊指令道歉",
+      "reason": "因为“让妈妈操心”缺乏量化标准，孩子道歉可能只是确认爱而非理解指令。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a005",
+      "target": "s-b22c4f55e0db-c003:a007",
+      "kind": "supports",
+      "condition": "长期接受模糊指令",
+      "reason": "模糊指令拿走孩子的力量，这种无力感支持长期接受模糊指令导致孩子自我感觉糟糕的结论。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为causes，按允许类型改为supports。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a006",
+      "target": "s-b22c4f55e0db-c003:a001",
+      "kind": "supports",
+      "condition": "老板模糊指令的类比",
+      "reason": "老板模糊指令的类比通过相似情境说明模糊指令会造成困扰，支持「你要听话」不是立界限的判断。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为example_of，但类比起解释支持作用，改为supports。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a008",
+      "target": "s-b22c4f55e0db-c003:a009",
+      "kind": "supports",
+      "condition": "界限感混乱",
+      "reason": "界限感混乱导致过度责任这一倾向支持「假设拯救他人是自己的责任」的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为causes，按允许类型改为supports。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a009",
+      "target": "s-b22c4f55e0db-c003:a010",
+      "kind": "contrasts",
+      "condition": "讲师与母亲的界限例子",
+      "reason": "假设拯救他人是自己的责任与讲师对母亲自杀表示会难过但不内疚的界限感分明例子形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a011",
+      "target": "s-b22c4f55e0db-c003:a012",
+      "kind": "supports",
+      "condition": "未立界限导致内疚",
+      "reason": "内疚感源于没有立界限这一原则支持理解孩子打扰母亲未立界限导致惩罚和内疚的案例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为example_of，但方向为原则到案例，改为supports。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a013",
+      "target": "s-b22c4f55e0db-c003:a015",
+      "kind": "supports",
+      "condition": "无法离开冲突场景时",
+      "reason": "离开场景并分析后再回应，如果无法离开，需要平时特意练习，即刻意练习与排练。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a014",
+      "target": "s-b22c4f55e0db-c003:a015",
+      "kind": "supports",
+      "condition": "实践部分",
+      "reason": "学习分知识部分和实践部分，实践部分通过刻意练习将理论用于生活，因此支持刻意练习与排练作为具体实践。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a015",
+      "target": "s-b22c4f55e0db-c003:a016",
+      "kind": "supports",
+      "condition": "界限需要实操练习",
+      "reason": "刻意练习与排练是界限实操练习的具体方法。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a017",
+      "target": "s-b22c4f55e0db-c003:a018",
+      "kind": "contrasts",
+      "condition": "立界限时是否让对方有愧疚感",
+      "reason": "刻意制造愧疚感不是健康界限，而健康立界限后对方可能自然产生愧疚感。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a018",
+      "target": "s-b22c4f55e0db-c003:a019",
+      "kind": "supports",
+      "condition": "健康立界限后对方自然产生愧疚感",
+      "reason": "立界限自然引发对方愧疚感这一原则支持理解妻子质问丈夫不给孩子留菜时丈夫可能产生愧疚感并暴跳如雷的案例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为example_of，方向为原则到案例，改为supports。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a020",
+      "target": "s-b22c4f55e0db-c002:a010",
+      "kind": "supports",
+      "condition": "必须依赖老人带孩子时",
+      "reason": "根据依赖程度决定对待方式这一原则支持对强势老人立界限方法中「如果必须依赖老人带孩子则无法立界限」的限制。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为applies_to，按允许类型改为supports。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a021",
+      "target": "s-b22c4f55e0db-c003:a007",
+      "kind": "supports",
+      "condition": "快乐老家问题可能原因",
+      "reason": "快乐老家问题可能原因包括对自己有错误的认知，与模糊指令导致孩子自我感觉糟糕相关。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a022",
+      "target": "s-b22c4f55e0db-c002:a012",
+      "kind": "association",
+      "condition": "",
+      "reason": "两端都在说明某句话不是立界限，但源端「你没有本身」不是立界限与目标端「你要听话」不是立界限只是同类的模糊语言判断，不能相互支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为supports，改为association。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a023",
+      "target": "s-b22c4f55e0db-c003:a017",
+      "kind": "supports",
+      "condition": "立界限时是否让对方有愧疚感的两类情况",
+      "reason": "立界限时是否让对方有愧疚感的两类情况总结了刻意制造愧疚感和自然产生愧疚感的区别。"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:v2-n002",
+      "target": "s-b22c4f55e0db-c003:a015",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 提供了具体练习方法：设想对方可能说的话，思考自己应如何回应，在脑中反复排练，训练大脑形成自然反应。这补充了 source 中‘立界限需要反复练习’的可操作方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a015",
+      "target": "s-b22c4f55e0db-c001:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 提供了具体练习方法：设想对方可能说的话，思考自己应如何回应，在脑中反复排练，训练大脑形成自然反应。这补充了 source 中‘立界限需要反复练习’的可操作方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:v2-n002",
+      "target": "s-b22c4f55e0db-c003:a016",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 强调界限不是学了就自动会立，必须实操刻意练习，即使失败也没问题。这补充了 source 关于练习必要性的说明，并增加容错态度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a016",
+      "target": "s-b22c4f55e0db-c001:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 强调界限不是学了就自动会立，必须实操刻意练习，即使失败也没问题。这补充了 source 关于练习必要性的说明，并增加容错态度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:v2-n002",
+      "target": "s-b22c4f55e0db-c001:a011",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 具体说明立界限时不被对方带偏的方法：明确核心界限要求，当对方转移话题时不跟随，重复核心问题，如果对方不答应就结束对话。这补充了 source 中‘训练人在对方带节奏时保持定力’的具体策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a011",
+      "target": "s-b22c4f55e0db-c001:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 具体说明立界限时不被对方带偏的方法：明确核心界限要求，当对方转移话题时不跟随，重复核心问题，如果对方不答应就结束对话。这补充了 source 中‘训练人在对方带节奏时保持定力’的具体策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:v2-n002",
+      "target": "s-b22c4f55e0db-c001:r003",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 是 a011 的完整步骤版，内容相同，但以步骤形式列出，进一步补充了不被对方带偏的具体操作流程，与 source 的定力训练形成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:r003",
+      "target": "s-b22c4f55e0db-c001:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 是 a011 的完整步骤版，内容相同，但以步骤形式列出，进一步补充了不被对方带偏的具体操作流程，与 source 的定力训练形成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:v2-n003",
+      "target": "s-b22c4f55e0db-c002:v2-n001",
+      "kind": "example_of",
+      "condition": "在教界限的课程场景中，当遇到与主题无关的问题时",
+      "reason": "source 陈述“讲者自己也会对学员立界限，例如拒绝回答与当前主题无关的问题”，这是对 target 原则“立界限者应首先遵守自己的界限，即使遇到很想回答的问题，如果与当前课程主题无关，也要不予回答”的具体体现，因此 source 是 target 的一个实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n001",
+      "target": "s-b22c4f55e0db-c001:v2-n003",
+      "kind": "has_example",
+      "condition": "在教界限的课程场景中，当遇到与主题无关的问题时",
+      "reason": "source 陈述“讲者自己也会对学员立界限，例如拒绝回答与当前主题无关的问题”，这是对 target 原则“立界限者应首先遵守自己的界限，即使遇到很想回答的问题，如果与当前课程主题无关，也要不予回答”的具体体现，因此 source 是 target 的一个实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:v2-n003",
+      "target": "s-b22c4f55e0db-c001:a018",
+      "kind": "complements",
+      "condition": "在拒绝回答无关问题的情境下",
+      "reason": "source 仅提及拒绝回答无关问题，target 补充了拒绝回答的实质原因：不了解提问者背景，胡乱猜测答案是不负责任的，也浪费双方时间。因此 target 补全了 source 未展开的“为什么不回答”的理据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a018",
+      "target": "s-b22c4f55e0db-c001:v2-n003",
+      "kind": "complements",
+      "condition": "在拒绝回答无关问题的情境下",
+      "reason": "source 仅提及拒绝回答无关问题，target 补充了拒绝回答的实质原因：不了解提问者背景，胡乱猜测答案是不负责任的，也浪费双方时间。因此 target 补全了 source 未展开的“为什么不回答”的理据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:v2-n003",
+      "target": "s-b22c4f55e0db-c001:a019",
+      "kind": "complements",
+      "condition": "在课程问答环节中，当考虑是否回答所有问题时",
+      "reason": "source 表示拒绝回答无关问题，target 进一步补充：如果回答所有问题，会挤占认真思考后提问者的机会，导致课程质量下降。这为 source 的界限行为提供了另一个合理性依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a019",
+      "target": "s-b22c4f55e0db-c001:v2-n003",
+      "kind": "complements",
+      "condition": "在课程问答环节中，当考虑是否回答所有问题时",
+      "reason": "source 表示拒绝回答无关问题，target 进一步补充：如果回答所有问题，会挤占认真思考后提问者的机会，导致课程质量下降。这为 source 的界限行为提供了另一个合理性依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n001",
+      "target": "s-b22c4f55e0db-c001:v2-n003",
+      "kind": "complements",
+      "condition": "在课程教学场景中，讲者以身作则的情况下",
+      "reason": "source 提出“立界限者应首先遵守自己的界限，不予回答无关问题”这一原则，target 补充了具体实例：讲者自己也会对学员立界限，例如拒绝回答与当前主题无关的问题。target 补全了 source 原则的实际表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:v2-n003",
+      "target": "s-b22c4f55e0db-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在课程教学场景中，讲者以身作则的情况下",
+      "reason": "source 提出“立界限者应首先遵守自己的界限，不予回答无关问题”这一原则，target 补充了具体实例：讲者自己也会对学员立界限，例如拒绝回答与当前主题无关的问题。target 补全了 source 原则的实际表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n001",
+      "target": "s-b22c4f55e0db-c001:a019",
+      "kind": "complements",
+      "condition": "在回答与课程主题无关的问题的决策过程中",
+      "reason": "source 决定不回答无关问题，target 补充了不回答的原因之一：回答所有问题会挤占认真思考后提问者的机会，导致课程质量下降，对认真听课的人不公平。target 补全了 source 决策的考量因素。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a019",
+      "target": "s-b22c4f55e0db-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在回答与课程主题无关的问题的决策过程中",
+      "reason": "source 决定不回答无关问题，target 补充了不回答的原因之一：回答所有问题会挤占认真思考后提问者的机会，导致课程质量下降，对认真听课的人不公平。target 补全了 source 决策的考量因素。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n001",
+      "target": "s-b22c4f55e0db-c001:a018",
+      "kind": "complements",
+      "condition": "在拒绝回答无关问题的情境下",
+      "reason": "source 仅表明不予回答，target 解释了为何不回答是对提问者负责：因为不了解提问者背景，胡乱猜测答案不负责任，也浪费双方时间。target 补充了 source 行为背后的负责任态度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a018",
+      "target": "s-b22c4f55e0db-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在拒绝回答无关问题的情境下",
+      "reason": "source 仅表明不予回答，target 解释了为何不回答是对提问者负责：因为不了解提问者背景，胡乱猜测答案不负责任，也浪费双方时间。target 补充了 source 行为背后的负责任态度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n001",
+      "target": "s-b22c4f55e0db-c002:a001",
+      "kind": "complements",
+      "condition": "当需要判断问题是否与课程主题相关时",
+      "reason": "source 提及“如果与当前课程主题无关”即不予回答，但没有给出判断相关性的方法；target 提供了具体步骤：写下来并标出与哪个知识点有关，从而帮助识别无关问题，补全了 source 的前提操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a001",
+      "target": "s-b22c4f55e0db-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要判断问题是否与课程主题相关时",
+      "reason": "source 提及“如果与当前课程主题无关”即不予回答，但没有给出判断相关性的方法；target 提供了具体步骤：写下来并标出与哪个知识点有关，从而帮助识别无关问题，补全了 source 的前提操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n001",
+      "target": "s-b22c4f55e0db-c001:a014",
+      "kind": "complements",
+      "condition": "在学员提问的环节，当问题可能与主题无关时",
+      "reason": "source 的原则是不回答无关问题，target 强调“提问需与主题相关，否则无法得到有效回答”，这为 source 的界限提供了合理解释：基础未打牢时答案无帮助，补全了 source 不予回答的教育逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a014",
+      "target": "s-b22c4f55e0db-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在学员提问的环节，当问题可能与主题无关时",
+      "reason": "source 的原则是不回答无关问题，target 强调“提问需与主题相关，否则无法得到有效回答”，这为 source 的界限提供了合理解释：基础未打牢时答案无帮助，补全了 source 不予回答的教育逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n002",
+      "target": "s-b22c4f55e0db-c002:a002",
+      "kind": "complements",
+      "condition": "当学员提出日常应用类问题，不知道如何做时",
+      "reason": "source 指出日常应用类问题需要提供具体案例，以便老师有针对性地回答；target 详细说明了提供具体案例的方法：描述遇到的情况、当时如何做、结合知识点觉得不对，请老师提议或纠正。target 补全了 source 中“提供具体案例”的操作步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a002",
+      "target": "s-b22c4f55e0db-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当学员提出日常应用类问题，不知道如何做时",
+      "reason": "source 指出日常应用类问题需要提供具体案例，以便老师有针对性地回答；target 详细说明了提供具体案例的方法：描述遇到的情况、当时如何做、结合知识点觉得不对，请老师提议或纠正。target 补全了 source 中“提供具体案例”的操作步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n002",
+      "target": "s-b22c4f55e0db-c002:a001",
+      "kind": "complements",
+      "condition": "在判断学员问题是否与课程主题相关时",
+      "reason": "source 隐含了问题应与课程主题相关（仅讨论与课程相关的问题），但未给出判断方法；target 提供了具体步骤：写下问题并标出与知识点的关联，无法写出则大概率不符合。这补全了 source 中隐含的相关性判断前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a001",
+      "target": "s-b22c4f55e0db-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在判断学员问题是否与课程主题相关时",
+      "reason": "source 隐含了问题应与课程主题相关（仅讨论与课程相关的问题），但未给出判断方法；target 提供了具体步骤：写下问题并标出与知识点的关联，无法写出则大概率不符合。这补全了 source 中隐含的相关性判断前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n002",
+      "target": "s-b22c4f55e0db-c001:a016",
+      "kind": "complements",
+      "condition": "当需要区分问题类型或判断是否适合当前讨论主题时",
+      "reason": "source 将问题分为三类，target 更详细地说明了如何检验问题是否与主题相关，并区分延伸问题、概念困惑或应用困难，与 source 的分类相呼应，补充了操作性指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a016",
+      "target": "s-b22c4f55e0db-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当需要区分问题类型或判断是否适合当前讨论主题时",
+      "reason": "source 将问题分为三类，target 更详细地说明了如何检验问题是否与主题相关，并区分延伸问题、概念困惑或应用困难，与 source 的分类相呼应，补充了操作性指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n002",
+      "target": "s-b22c4f55e0db-c001:a014",
+      "kind": "complements",
+      "condition": "在学员提问之前，确认问题是否与课程主题相关",
+      "reason": "source 讨论的是“与课程相关的问题”类型，target 强调“提问应与当前课程主题相关，否则无法得到有效回答”，这为 source 的分类限定了边界条件，补全了问题有效性的前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a014",
+      "target": "s-b22c4f55e0db-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在学员提问之前，确认问题是否与课程主题相关",
+      "reason": "source 讨论的是“与课程相关的问题”类型，target 强调“提问应与当前课程主题相关，否则无法得到有效回答”，这为 source 的分类限定了边界条件，补全了问题有效性的前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n003",
+      "target": "s-b22c4f55e0db-c002:a004",
+      "kind": "example_of",
+      "condition": "当老师不讲道理时",
+      "reason": "source 中讲师母亲对不讲理的老师硬刚保护孩子，是 target 中“硬刚保护孩子”策略的一个具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a004",
+      "target": "s-b22c4f55e0db-c002:v2-n003",
+      "kind": "has_example",
+      "condition": "当老师不讲道理时",
+      "reason": "source 中讲师母亲对不讲理的老师硬刚保护孩子，是 target 中“硬刚保护孩子”策略的一个具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n003",
+      "target": "s-b22c4f55e0db-c002:v2-n006",
+      "kind": "association",
+      "condition": "当父母害怕老师时",
+      "reason": "target 指出害怕老师导致教育自主权丧失，source 中母亲克服害怕硬刚，是克服恐惧的例子，但未直接说明因果关系，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n006",
+      "target": "s-b22c4f55e0db-c002:v2-n003",
+      "kind": "association",
+      "condition": "当父母害怕老师时",
+      "reason": "target 指出害怕老师导致教育自主权丧失，source 中母亲克服害怕硬刚，是克服恐惧的例子，但未直接说明因果关系，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n003",
+      "target": "s-b22c4f55e0db-c002:a003",
+      "kind": "association",
+      "condition": "当老师讲道理时可商量；不讲道理时需硬刚",
+      "reason": "target 是与老师沟通立界限的温和方法，source 是硬刚，两者适用于不同条件（老师是否讲道理），但 source 未提及温和方法，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a003",
+      "target": "s-b22c4f55e0db-c002:v2-n003",
+      "kind": "association",
+      "condition": "当老师讲道理时可商量；不讲道理时需硬刚",
+      "reason": "target 是与老师沟通立界限的温和方法，source 是硬刚，两者适用于不同条件（老师是否讲道理），但 source 未提及温和方法，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n003",
+      "target": "s-b22c4f55e0db-c001:a009",
+      "kind": "association",
+      "condition": "当面对强势长辈时",
+      "reason": "target 是先发制人立界限消除恐惧的方法，source 是硬刚老师，两者都涉及保护孩子免受强势方伤害，但对象不同，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a009",
+      "target": "s-b22c4f55e0db-c002:v2-n003",
+      "kind": "association",
+      "condition": "当面对强势长辈时",
+      "reason": "target 是先发制人立界限消除恐惧的方法，source 是硬刚老师，两者都涉及保护孩子免受强势方伤害，但对象不同，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n003",
+      "target": "s-b22c4f55e0db-c001:r002",
+      "kind": "association",
+      "condition": "当需要具体步骤时",
+      "reason": "target 是先发制人立界限的完整步骤，与 candidate a009 类似，都是应对强势方，source 未提供步骤，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:r002",
+      "target": "s-b22c4f55e0db-c002:v2-n003",
+      "kind": "association",
+      "condition": "当需要具体步骤时",
+      "reason": "target 是先发制人立界限的完整步骤，与 candidate a009 类似，都是应对强势方，source 未提供步骤，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n004",
+      "target": "s-b22c4f55e0db-c001:a001",
+      "kind": "association",
+      "condition": "当家长立界限时",
+      "reason": "target 强调立界限的后果必须是自己能做到的，source 指出不敢执行是内在力量问题，两者都涉及执行后果，但 source 侧重原因，target 是原则，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a001",
+      "target": "s-b22c4f55e0db-c002:v2-n004",
+      "kind": "association",
+      "condition": "当家长立界限时",
+      "reason": "target 强调立界限的后果必须是自己能做到的，source 指出不敢执行是内在力量问题，两者都涉及执行后果，但 source 侧重原因，target 是原则，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n004",
+      "target": "s-b22c4f55e0db-c001:a002",
+      "kind": "association",
+      "condition": "当立界限失败时",
+      "reason": "target 指出立界限失败会增强对方越界力量，与 source 中不敢执行导致后退的后果相关，但 source 未明确提及该后果，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a002",
+      "target": "s-b22c4f55e0db-c002:v2-n004",
+      "kind": "association",
+      "condition": "当立界限失败时",
+      "reason": "target 指出立界限失败会增强对方越界力量，与 source 中不敢执行导致后退的后果相关，但 source 未明确提及该后果，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n004",
+      "target": "s-b22c4f55e0db-c002:r003",
+      "kind": "association",
+      "condition": "当面对强势老人且依赖老人时",
+      "reason": "target 提到如果必须依赖老人则无法立界限，与 source 中不敢执行后果的内在恐惧类似，但具体情境不同，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:r003",
+      "target": "s-b22c4f55e0db-c002:v2-n004",
+      "kind": "association",
+      "condition": "当面对强势老人且依赖老人时",
+      "reason": "target 提到如果必须依赖老人则无法立界限，与 source 中不敢执行后果的内在恐惧类似，但具体情境不同，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n004",
+      "target": "s-b22c4f55e0db-c002:a010",
+      "kind": "association",
+      "condition": "当面对强势老人时",
+      "reason": "target 是具体方法，其中提到依赖老人则无法克服恐惧，与 source 中内在恐惧导致不敢执行相关，但 source 未提供方法，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a010",
+      "target": "s-b22c4f55e0db-c002:v2-n004",
+      "kind": "association",
+      "condition": "当面对强势老人时",
+      "reason": "target 是具体方法，其中提到依赖老人则无法克服恐惧，与 source 中内在恐惧导致不敢执行相关，但 source 未提供方法，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n004",
+      "target": "s-b22c4f55e0db-c002:a006",
+      "kind": "association",
+      "condition": "当孩子没有界限思维时",
+      "reason": "target 是 16 岁孩子案例，家长可能不敢执行后果，与 source 中不敢执行的原因（内在恐惧）相关，但 source 未涉及具体案例，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a006",
+      "target": "s-b22c4f55e0db-c002:v2-n004",
+      "kind": "association",
+      "condition": "当孩子没有界限思维时",
+      "reason": "target 是 16 岁孩子案例，家长可能不敢执行后果，与 source 中不敢执行的原因（内在恐惧）相关，但 source 未涉及具体案例，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n004",
+      "target": "s-b22c4f55e0db-c003:a012",
+      "kind": "association",
+      "condition": "当母亲未立界限导致内疚时",
+      "reason": "target 案例中母亲未立界限，与 source 中不敢执行后果的问题类似，但 source 未具体描述未立界限的情况，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:a012",
+      "target": "s-b22c4f55e0db-c002:v2-n004",
+      "kind": "association",
+      "condition": "当母亲未立界限导致内疚时",
+      "reason": "target 案例中母亲未立界限，与 source 中不敢执行后果的问题类似，但 source 未具体描述未立界限的情况，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n004",
+      "target": "s-b22c4f55e0db-c002:a005",
+      "kind": "association",
+      "condition": "当考虑对方反应时",
+      "reason": "target 指出立界限是否激怒对方取决于对方是什么样的人，与 source 中家长恐惧（可能担心对方反应）相关，但 source 强调自身内在力量，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a005",
+      "target": "s-b22c4f55e0db-c002:v2-n004",
+      "kind": "association",
+      "condition": "当考虑对方反应时",
+      "reason": "target 指出立界限是否激怒对方取决于对方是什么样的人，与 source 中家长恐惧（可能担心对方反应）相关，但 source 强调自身内在力量，故记为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n005",
+      "target": "s-b22c4f55e0db-c001:a020",
+      "kind": "complements",
+      "condition": "无",
+      "reason": "源知识补充了候选知识未展开的具体操作步骤：听一句后停下来、思考联系生活实例、挑战质疑老师的话、基于思考提出有质量的问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a020",
+      "target": "s-b22c4f55e0db-c002:v2-n005",
+      "kind": "complements",
+      "condition": "无",
+      "reason": "源知识补充了候选知识未展开的具体操作步骤：听一句后停下来、思考联系生活实例、挑战质疑老师的话、基于思考提出有质量的问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n005",
+      "target": "s-b22c4f55e0db-c001:a015",
+      "kind": "association",
+      "condition": "无",
+      "reason": "两者都涉及听课思考与提问，但源知识是具体思考方法，候选知识强调随便提问的负面影响，未构成前提或步骤关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a015",
+      "target": "s-b22c4f55e0db-c002:v2-n005",
+      "kind": "association",
+      "condition": "无",
+      "reason": "两者都涉及听课思考与提问，但源知识是具体思考方法，候选知识强调随便提问的负面影响，未构成前提或步骤关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n005",
+      "target": "s-b22c4f55e0db-c002:a001",
+      "kind": "association",
+      "condition": "无",
+      "reason": "源知识最后一步是提出有质量的问题，候选知识是检验问题与课程主题相关性的方法，两者可能衔接，但源知识未包含检验步骤，不能确定为步骤关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a001",
+      "target": "s-b22c4f55e0db-c002:v2-n005",
+      "kind": "association",
+      "condition": "无",
+      "reason": "源知识最后一步是提出有质量的问题，候选知识是检验问题与课程主题相关性的方法，两者可能衔接，但源知识未包含检验步骤，不能确定为步骤关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n005",
+      "target": "s-b22c4f55e0db-c002:v2-n002",
+      "kind": "association",
+      "condition": "无",
+      "reason": "源知识是提问前的思考方法，候选知识是问题类型分类，主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n002",
+      "target": "s-b22c4f55e0db-c002:v2-n005",
+      "kind": "association",
+      "condition": "无",
+      "reason": "源知识是提问前的思考方法，候选知识是问题类型分类，主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n005",
+      "target": "s-b22c4f55e0db-c002:a002",
+      "kind": "association",
+      "condition": "无",
+      "reason": "源知识是思考提出有效问题，候选知识是提问时提供具体案例的方法，主题相关但无前提或步骤关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a002",
+      "target": "s-b22c4f55e0db-c002:v2-n005",
+      "kind": "association",
+      "condition": "无",
+      "reason": "源知识是思考提出有效问题，候选知识是提问时提供具体案例的方法，主题相关但无前提或步骤关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n005",
+      "target": "s-b22c4f55e0db-c001:a016",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选知识也是检验问题相关性的方法，与源知识中提出有效问题相关，但源知识未说明需要检验，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a016",
+      "target": "s-b22c4f55e0db-c002:v2-n005",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选知识也是检验问题相关性的方法，与源知识中提出有效问题相关，但源知识未说明需要检验，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n005",
+      "target": "s-b22c4f55e0db-c001:a019",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选知识提到认真思考后提问者的机会，与源知识鼓励思考提问有关，但源知识未涉及回答策略，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a019",
+      "target": "s-b22c4f55e0db-c002:v2-n005",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选知识提到认真思考后提问者的机会，与源知识鼓励思考提问有关，但源知识未涉及回答策略，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n005",
+      "target": "s-b22c4f55e0db-c001:a014",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选知识强调提问需与主题相关，源知识通过思考实现这一点，但未明确因果或前提，关联薄弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a014",
+      "target": "s-b22c4f55e0db-c002:v2-n005",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选知识强调提问需与主题相关，源知识通过思考实现这一点，但未明确因果或前提，关联薄弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n006",
+      "target": "s-b22c4f55e0db-c002:a003",
+      "kind": "complements",
+      "condition": "当需要具体操作指导时",
+      "reason": "候选1提供了与老师沟通立界限的具体步骤（统一父母态度、坚定温和、说明原因等），补充了源中提到的“统一父母态度和坚定温和沟通”这一打破恐惧的方法细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a003",
+      "target": "s-b22c4f55e0db-c002:v2-n006",
+      "kind": "complements",
+      "condition": "当需要具体操作指导时",
+      "reason": "候选1提供了与老师沟通立界限的具体步骤（统一父母态度、坚定温和、说明原因等），补充了源中提到的“统一父母态度和坚定温和沟通”这一打破恐惧的方法细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n006",
+      "target": "s-b22c4f55e0db-c002:a004",
+      "kind": "complements",
+      "condition": "当老师不讲道理时",
+      "reason": "源未区分老师是否讲理，候选2补充了老师不讲道理时需硬刚保护孩子的策略，与源中打破恐惧的目标一致，构成条件分支的补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a004",
+      "target": "s-b22c4f55e0db-c002:v2-n006",
+      "kind": "complements",
+      "condition": "当老师不讲道理时",
+      "reason": "源未区分老师是否讲理，候选2补充了老师不讲道理时需硬刚保护孩子的策略，与源中打破恐惧的目标一致，构成条件分支的补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n006",
+      "target": "s-b22c4f55e0db-c002:v2-n003",
+      "kind": "association",
+      "condition": "作为不同应对方式的案例参考",
+      "reason": "候选6为讲师母亲硬刚老师的个人案例，与源中强调的温和沟通方式不同，但都涉及克服害怕老师，不能视为直接补充，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n003",
+      "target": "s-b22c4f55e0db-c002:v2-n006",
+      "kind": "association",
+      "condition": "作为不同应对方式的案例参考",
+      "reason": "候选6为讲师母亲硬刚老师的个人案例，与源中强调的温和沟通方式不同，但都涉及克服害怕老师，不能视为直接补充，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n006",
+      "target": "s-b22c4f55e0db-c001:a012",
+      "kind": "association",
+      "condition": "作为辅助心理工具",
+      "reason": "候选7提供用事实检验恐惧的通用方法，可应用于害怕老师的情境，但源未提及，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a012",
+      "target": "s-b22c4f55e0db-c002:v2-n006",
+      "kind": "association",
+      "condition": "作为辅助心理工具",
+      "reason": "候选7提供用事实检验恐惧的通用方法，可应用于害怕老师的情境，但源未提及，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n006",
+      "target": "s-b22c4f55e0db-c001:r004",
+      "kind": "association",
+      "condition": "作为辅助心理工具",
+      "reason": "候选8与候选7内容相同，均为用事实检验恐惧的步骤，同样可作为克服害怕老师的辅助方法，但关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:r004",
+      "target": "s-b22c4f55e0db-c002:v2-n006",
+      "kind": "association",
+      "condition": "作为辅助心理工具",
+      "reason": "候选8与候选7内容相同，均为用事实检验恐惧的步骤，同样可作为克服害怕老师的辅助方法，但关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n006",
+      "target": "s-b22c4f55e0db-c001:a009",
+      "kind": "association",
+      "condition": "作为另一种消除恐惧的沟通技巧",
+      "reason": "候选9提供先发制人立界限的技巧，可用于与老师沟通时消除恐惧，但源未直接提及，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a009",
+      "target": "s-b22c4f55e0db-c002:v2-n006",
+      "kind": "association",
+      "condition": "作为另一种消除恐惧的沟通技巧",
+      "reason": "候选9提供先发制人立界限的技巧，可用于与老师沟通时消除恐惧，但源未直接提及，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:v2-n006",
+      "target": "s-b22c4f55e0db-c002:a005",
+      "kind": "association",
+      "condition": "作为影响沟通效果的因素",
+      "reason": "候选12指出立界限是否激怒对方取决于对方特质，可能影响与老师沟通的成效，但源未涉及，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a005",
+      "target": "s-b22c4f55e0db-c002:v2-n006",
+      "kind": "association",
+      "condition": "作为影响沟通效果的因素",
+      "reason": "候选12指出立界限是否激怒对方取决于对方特质，可能影响与老师沟通的成效，但源未涉及，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:v2-n001",
+      "target": "s-b22c4f55e0db-c002:a011",
+      "kind": "complements",
+      "condition": "当面对对方口头答应但未改变行为时",
+      "reason": "候选1提供了更细致的判断：看对方状态，若对方态度敷衍、没有改变，则需立更近界限，直接对应源中情形，补充了实施准则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c002:a011",
+      "target": "s-b22c4f55e0db-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当面对对方口头答应但未改变行为时",
+      "reason": "候选1提供了更细致的判断：看对方状态，若对方态度敷衍、没有改变，则需立更近界限，直接对应源中情形，补充了实施准则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:v2-n001",
+      "target": "s-b22c4f55e0db-c001:a002",
+      "kind": "association",
+      "condition": "作为立更近界限必要性的背景",
+      "reason": "候选7指出不坚持后果会增强对方越界力量，为源中需要立更近界限提供了逻辑支撑，但源未明确此因果，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a002",
+      "target": "s-b22c4f55e0db-c003:v2-n001",
+      "kind": "association",
+      "condition": "作为立更近界限必要性的背景",
+      "reason": "候选7指出不坚持后果会增强对方越界力量，为源中需要立更近界限提供了逻辑支撑，但源未明确此因果，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c003:v2-n001",
+      "target": "s-b22c4f55e0db-c001:a001",
+      "kind": "association",
+      "condition": "作为立界限时须注意的要点",
+      "reason": "候选9强调界限的后果必须可执行，否则后退会增加侵犯，与源中立更近界限时须确保有效性相关，但源未直接提及，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b22c4f55e0db-c001:a001",
+      "target": "s-b22c4f55e0db-c003:v2-n001",
+      "kind": "association",
+      "condition": "作为立界限时须注意的要点",
+      "reason": "候选9强调界限的后果必须可执行，否则后退会增加侵犯，与源中立更近界限时须确保有效性相关，但源未直接提及，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "立界限时考虑心理后果，如让对方知道你瞧不起他、愤怒等",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a003",
+        "s-b22c4f55e0db-c001:a004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我认知",
+      "when": "用事实检验恐惧，问自己是否需要紧张",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a012",
+        "s-b22c4f55e0db-c001:r004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "刻意练习与排练界限回应",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a015"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "依赖与失控",
+      "when": "根据依赖程度决定对待方式，如必须依赖老人带孩子则无法立界限",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a020",
+        "s-b22c4f55e0db-c002:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "界限",
+      "when": "学习分知识部分和实践部分，实践部分用于界限实操",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a014",
+        "s-b22c4f55e0db-c003:a016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a001",
+        "s-b22c4f55e0db-c001:a002"
+      ],
+      "reason": "两条记录内容实质相同，都强调立界限的后果必须是自己能做到的，否则后退会增加对方越界力量。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a003",
+        "s-b22c4f55e0db-c001:a008"
+      ],
+      "reason": "两条记录都说明后果有显性和隐性之分，心理后果也是有效的后果。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a004",
+        "s-b22c4f55e0db-c001:r001"
+      ],
+      "reason": "r001是对a004的完整话术与后果的整合，内容实质相同。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a009",
+        "s-b22c4f55e0db-c001:r002"
+      ],
+      "reason": "r002是对a009的完整步骤的整合，内容实质相同。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a011",
+        "s-b22c4f55e0db-c001:r003"
+      ],
+      "reason": "r003是对a011的完整步骤的整合，内容实质相同。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a012",
+        "s-b22c4f55e0db-c001:r004"
+      ],
+      "reason": "r004是对a012的完整步骤的整合，内容实质相同。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a016"
+      ],
+      "reason": "r005是对a016的完整步骤的整合，内容实质相同。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a010",
+        "s-b22c4f55e0db-c002:r003"
+      ],
+      "reason": "r003是对a010的具体话术的整合，内容实质相同。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a012",
+        "s-b22c4f55e0db-c003:a001"
+      ],
+      "reason": "两条记录都说明“你要听话”不是立界限，是模糊指令。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a007"
+      ],
+      "reason": "两条记录都说明模糊指令导致孩子自我感觉糟糕。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a008"
+      ],
+      "reason": "两条记录都说明界限感混乱导致过度责任。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a009"
+      ],
+      "reason": "两条记录都说明假设拯救他人是自己的责任。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a010"
+      ],
+      "reason": "两条记录都是讲师与母亲的界限例子。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a011"
+      ],
+      "reason": "两条记录都说明内疚感源于没有立界限。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a012"
+      ],
+      "reason": "两条记录都是孩子打扰母亲未立界限导致惩罚和内疚的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a013"
+      ],
+      "reason": "两条记录都说明离开场景并分析后再回应。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a014"
+      ],
+      "reason": "两条记录都说明学习分知识部分和实践部分。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a015"
+      ],
+      "reason": "两条记录都说明刻意练习与排练。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a016"
+      ],
+      "reason": "两条记录都说明界限需要实操练习。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a017"
+      ],
+      "reason": "两条记录都说明刻意制造愧疚感不是健康界限。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a018"
+      ],
+      "reason": "两条记录都说明立界限自然引发对方愧疚感。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a019"
+      ],
+      "reason": "两条记录都是妻子质问丈夫不给孩子留菜的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a020"
+      ],
+      "reason": "两条记录都说明根据依赖程度决定对待方式。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a021"
+      ],
+      "reason": "两条记录都说明快乐老家问题可能原因。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a022"
+      ],
+      "reason": "两条记录都说明“你没有本身”不是立界限。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a023"
+      ],
+      "reason": "两条记录都说明立界限时是否让对方有愧疚感的两类情况。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a004",
+        "s-b22c4f55e0db-c002:a003"
+      ],
+      "description": "与老师沟通立界限的方法强调温和坚定，而老师不讲道理时的应对策略建议硬刚保护孩子，两者在老师不讲道理时存在矛盾。",
+      "needed_evidence": "需要明确在老师不讲道理时，温和坚定是否仍然适用，或者硬刚是唯一选择。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a006",
+        "s-b22c4f55e0db-c002:r001"
+      ],
+      "description": "16岁孩子没收手机立界限的案例中，讲师建议如果孩子以死威胁，家长应离开家并告知若再威胁则报警送医，但未明确说明报警送医的具体操作和可能的法律后果。",
+      "needed_evidence": "需要专业法律和心理健康指导，明确报警送医的适用条件和操作流程。"
+    },
+    {
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a008",
+        "s-b22c4f55e0db-c003:a009"
+      ],
+      "description": "界限感混乱导致过度责任，认为自杀是当事人自己的责任，但未考虑抑郁症等心理疾病情况下，他人是否需要承担更多责任。",
+      "needed_evidence": "需要区分一般情况和心理疾病情况下的责任边界。"
+    }
+  ],
+  "path": [
+    {
+      "name": "立界限的主要方法",
+      "steps": [
+        {
+          "action": "明确界限和后果，确保后果是自己能做到的",
+          "atom_ids": [
+            "s-b22c4f55e0db-c001:a001",
+            "s-b22c4f55e0db-c001:a002"
+          ],
+          "condition": "立界限前"
+        },
+        {
+          "action": "考虑心理后果，如表达瞧不起、愤怒等",
+          "atom_ids": [
+            "s-b22c4f55e0db-c001:a003",
+            "s-b22c4f55e0db-c001:a004"
+          ],
+          "condition": "对长辈立界限时"
+        },
+        {
+          "action": "先发制人，主动说出对方可能说的伤害性话语",
+          "atom_ids": [
+            "s-b22c4f55e0db-c001:a009",
+            "s-b22c4f55e0db-c001:a010"
+          ],
+          "condition": "害怕对方说出伤害性话语时"
+        },
+        {
+          "action": "立界限时不被对方带偏，坚持核心问题",
+          "atom_ids": [
+            "s-b22c4f55e0db-c001:a011",
+            "s-b22c4f55e0db-c001:r003"
+          ],
+          "condition": "对方转移话题时"
+        },
+        {
+          "action": "用事实检验恐惧，判断是否需要害怕",
+          "atom_ids": [
+            "s-b22c4f55e0db-c001:a012",
+            "s-b22c4f55e0db-c001:r004"
+          ],
+          "condition": "感到害怕时"
+        },
+        {
+          "action": "根据对方状态和态度决定是否坚持界限",
+          "atom_ids": [
+            "s-b22c4f55e0db-c002:a011"
+          ],
+          "condition": "坚持界限时"
+        },
+        {
+          "action": "刻意练习与排练界限回应",
+          "atom_ids": [
+            "s-b22c4f55e0db-c003:a015"
+          ],
+          "condition": "平时练习"
+        },
+        {
+          "action": "离开冲突场景并分析后再回应",
+          "atom_ids": [
+            "s-b22c4f55e0db-c003:a013"
+          ],
+          "condition": "冲突场景中"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-b22c4f55e0db-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a004",
+        "s-b22c4f55e0db-c001:r001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a001",
+        "s-b22c4f55e0db-c001:a002"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a003"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a005"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a006"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a008"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a007"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a009"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a009",
+        "s-b22c4f55e0db-c001:a010",
+        "s-b22c4f55e0db-c001:r002"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021",
+        "b00022",
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a011",
+        "s-b22c4f55e0db-c001:r003"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a012",
+        "s-b22c4f55e0db-c001:r004"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a013",
+        "s-b22c4f55e0db-c001:a014"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a017"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a015"
+      ],
+      "blocks": [
+        "b00034",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a020"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a018"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:a019"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U002",
+      "kind": "method",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a001"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045",
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U004",
+      "kind": "method",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a002"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U005",
+      "kind": "method",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a003"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052",
+        "b00054",
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U006",
+      "kind": "condition",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a004"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U007",
+      "kind": "case",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a005"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U009",
+      "kind": "case",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a006",
+        "s-b22c4f55e0db-c002:r001"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063",
+        "b00064",
+        "b00065",
+        "b00066",
+        "b00067",
+        "b00068",
+        "b00069",
+        "b00070",
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U010",
+      "kind": "case",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:r001",
+        "s-b22c4f55e0db-c002:a007"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070",
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:v2-n004"
+      ],
+      "blocks": [
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a007"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U013",
+      "kind": "question",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a008"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:r002"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U015",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a009"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U016",
+      "kind": "method",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a010"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078",
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U017",
+      "kind": "condition",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a011"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U018",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:a012"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U019",
+      "kind": "method",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:v2-n005"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c002:U020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:v2-n006"
+      ],
+      "blocks": [
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a001",
+        "s-b22c4f55e0db-c003:a002",
+        "s-b22c4f55e0db-c003:a003",
+        "s-b22c4f55e0db-c003:a004",
+        "s-b22c4f55e0db-c003:a005",
+        "s-b22c4f55e0db-c003:a006",
+        "s-b22c4f55e0db-c003:a007",
+        "s-b22c4f55e0db-c003:r001"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085",
+        "b00086",
+        "b00087",
+        "b00088",
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c003:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a008",
+        "s-b22c4f55e0db-c003:a009"
+      ],
+      "blocks": [
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c003:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a010"
+      ],
+      "blocks": [
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c003:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a011",
+        "s-b22c4f55e0db-c003:a012"
+      ],
+      "blocks": [
+        "b00095",
+        "b00096"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c003:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a013"
+      ],
+      "blocks": [
+        "b00097"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c003:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a014",
+        "s-b22c4f55e0db-c003:a015",
+        "s-b22c4f55e0db-c003:a016"
+      ],
+      "blocks": [
+        "b00098",
+        "b00099",
+        "b00100"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c003:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a021"
+      ],
+      "blocks": [
+        "b00101"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c003:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a022"
+      ],
+      "blocks": [
+        "b00102"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c003:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a017",
+        "s-b22c4f55e0db-c003:a018",
+        "s-b22c4f55e0db-c003:a019",
+        "s-b22c4f55e0db-c003:a023"
+      ],
+      "blocks": [
+        "b00103",
+        "b00104",
+        "b00105",
+        "b00106",
+        "b00107"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c003:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:a020"
+      ],
+      "blocks": [
+        "b00108"
+      ]
+    },
+    {
+      "id": "s-b22c4f55e0db-c003:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "多数人知道喜欢什么但不知道自己要什么",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b22c4f55e0db",
+          "blocks": [
+            "b00002"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "立界限需要练习，理直气壮训练营训练定力",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b22c4f55e0db",
+          "blocks": [
+            "b00027"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "practice"
+    },
+    {
+      "title": "教界限者也会对学员立界限",
+      "atom_ids": [
+        "s-b22c4f55e0db-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b22c4f55e0db",
+          "blocks": [
+            "b00043",
+            "b00044"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "教界限者自己也要立界限",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b22c4f55e0db",
+          "blocks": [
+            "b00043",
+            "b00044",
+            "b00045"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "学员与课程相关问题的三种类型",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b22c4f55e0db",
+          "blocks": [
+            "b00046",
+            "b00047",
+            "b00048"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "category"
+    },
+    {
+      "title": "讲师母亲硬刚老师保护孩子的个人案例",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b22c4f55e0db",
+          "blocks": [
+            "b00057",
+            "b00058"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "不敢执行后果不是界限问题",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b22c4f55e0db",
+          "blocks": [
+            "b00068"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "anti-pattern"
+    },
+    {
+      "title": "听课思考的方法",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b22c4f55e0db",
+          "blocks": [
+            "b00042"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "害怕老师导致教育自主权丧失",
+      "atom_ids": [
+        "s-b22c4f55e0db-c002:v2-n006"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b22c4f55e0db",
+          "blocks": [
+            "b00053"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "cause_effect"
+    },
+    {
+      "title": "对方口头答应未改变时立更近界限",
+      "atom_ids": [
+        "s-b22c4f55e0db-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b22c4f55e0db",
+          "blocks": [
+            "b00083"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

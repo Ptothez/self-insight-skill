@@ -1,0 +1,562 @@
+{
+  "concepts": [
+    {
+      "name": "封闭心态",
+      "definition": "思想关掉，不想从对方那里学习，表现为常说“我吃的盐比你吃的饭都多”等，导致关系不良。",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r002",
+        "s-b7e6a7f8cac4-c001:r010",
+        "s-b7e6a7f8cac4-c001:r013"
+      ]
+    },
+    {
+      "name": "随时学习",
+      "definition": "整个人处于打开状态，随时准备好学习，需要自我挑战、自我反省、自己认错。",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r009",
+        "s-b7e6a7f8cac4-c001:r010",
+        "s-b7e6a7f8cac4-c001:r017"
+      ]
+    },
+    {
+      "name": "不学习的后果",
+      "definition": "不学习导致亲子关系、夫妻关系、自我关系不良，生活困难，像一滩死水。",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r001",
+        "s-b7e6a7f8cac4-c001:r003",
+        "s-b7e6a7f8cac4-c001:r004",
+        "s-b7e6a7f8cac4-c001:r008",
+        "s-b7e6a7f8cac4-c001:r011"
+      ]
+    },
+    {
+      "name": "学习心态",
+      "definition": "愿意从对方那里学习，保持开放，避免自我证明，促进关系改善。",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r001",
+        "s-b7e6a7f8cac4-c001:r003",
+        "s-b7e6a7f8cac4-c001:r014"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-b7e6a7f8cac4-c001:r002",
+      "target": "s-b7e6a7f8cac4-c001:r001",
+      "kind": "causes",
+      "condition": "当父母对孩子分享的信息不感兴趣，不愿倾听时",
+      "reason": "r002描述父母封闭心态的具体表现，r001说明父母拒绝学习导致孩子拒绝学习，从而亲子关系不好，因此封闭心态是原因。"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r013",
+      "target": "s-b7e6a7f8cac4-c001:r002",
+      "kind": "supports",
+      "condition": "常说“我吃的盐比你吃的饭都多”表明封闭心态",
+      "reason": "r013指出这类话表明思想封闭，r002将封闭心态与亲子关系不良关联，因此r013支持r002中封闭心态的存在。"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r009",
+      "target": "s-b7e6a7f8cac4-c001:r010",
+      "kind": "supports",
+      "condition": "随时学习需要自我挑战、自我反省、自己认错",
+      "reason": "r009列出随时学习所需的具体条件，r010强调随时学习要求打开状态；这些条件需要开放心态才能做到，因此r009支持r010。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r003",
+      "target": "s-b7e6a7f8cac4-c001:r014",
+      "kind": "supports",
+      "condition": "夫妻吵架时缺乏学习心态",
+      "reason": "r003指出夫妻关系不好是因为不愿意学习，r014具体描述吵架时双方极力证明自己，缺乏学习心态，因此r014支持r003。"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r004",
+      "target": "s-b7e6a7f8cac4-c001:r015",
+      "kind": "supports",
+      "condition": "不喜欢自己但不行动是因为不爱学习",
+      "reason": "r004指出不喜欢自己但不行动是因为不爱学习，r015以抱怨婚姻为例说明同样原因，因此r015支持r004。"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r005",
+      "target": "s-b7e6a7f8cac4-c001:r017",
+      "kind": "example_of",
+      "condition": "讲者向刚果服务生学习，体现微软企业文化",
+      "reason": "r005是具体案例，展示微软要求员工好学、打开状态，r017是微软企业文化的概括，因此r005是r017的例子。"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r006",
+      "target": "s-b7e6a7f8cac4-c001:r004",
+      "kind": "example_of",
+      "condition": "女孩考研拖延，不采取行动",
+      "reason": "r006是具体案例，说明不行动改变，r004指出不行动是因为不爱学习，因此r006是r004的例子。"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r007",
+      "target": "s-b7e6a7f8cac4-c001:r004",
+      "kind": "association",
+      "condition": "",
+      "reason": "r007案例显示接受心理辅导者改变、未接受者原地踏步；r004主张不行动源于不爱学习。案例未显示未接受辅导者缺乏学习动力，不能直接作为r004的示例，仅可视为同一议题下的关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原example_of过强，降级为association"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r008",
+      "target": "s-b7e6a7f8cac4-c001:r011",
+      "kind": "supports",
+      "condition": "不学习的人像一滩死水，生活困难",
+      "reason": "r008用比喻说明不学习导致没有生气，r011概括不学习带来困难，因此r008支持r011。"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r012",
+      "target": "s-b7e6a7f8cac4-c001:r001",
+      "kind": "supports",
+      "condition": "孩子不听话可能是因为父母拒绝学习",
+      "reason": "r012从孩子不听话角度说明父母拒绝学习导致孩子拒绝学习，与r001的完整机制一致，因此r012支持r001。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r016",
+      "target": "s-b7e6a7f8cac4-c001:r004",
+      "kind": "supports",
+      "condition": "不喜欢自己、现状、婚姻但不去改变",
+      "reason": "r016列举多种不满但不行动的情况，r004指出不行动是因为不爱学习，因此r016支持r004。"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r018",
+      "target": "s-b7e6a7f8cac4-c001:r011",
+      "kind": "supports",
+      "condition": "爱因斯坦比喻生活需要不停学习",
+      "reason": "r018用比喻说明必须不停学习，r011说不学习带来困难，因此r018支持r011。"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:v2-n001",
+      "target": "s-b7e6a7f8cac4-c001:r017",
+      "kind": "complements",
+      "condition": "无特殊条件",
+      "reason": "source 定义学习状态为随时从身边事情学习，r017 补充了微软企业文化中员工保持学习状态的具体体现，即整个人打开、随时准备学习，补了学习状态在职场场景中的表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r017",
+      "target": "s-b7e6a7f8cac4-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特殊条件",
+      "reason": "source 定义学习状态为随时从身边事情学习，r017 补充了微软企业文化中员工保持学习状态的具体体现，即整个人打开、随时准备学习，补了学习状态在职场场景中的表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:v2-n001",
+      "target": "s-b7e6a7f8cac4-c001:r003",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "两段都涉及学习心态，但 source 定义学习状态，r003 讨论不学习对夫妻关系的影响，主题相关但无直接补充或因果联系，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r003",
+      "target": "s-b7e6a7f8cac4-c001:v2-n001",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "两段都涉及学习心态，但 source 定义学习状态，r003 讨论不学习对夫妻关系的影响，主题相关但无直接补充或因果联系，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:v2-n001",
+      "target": "s-b7e6a7f8cac4-c001:r010",
+      "kind": "complements",
+      "condition": "无特殊条件",
+      "reason": "source 强调保持好奇心、从身边事情学习，r010 补充了学习状态的对立面——封闭心态，说明思想关掉则无法学习，补了何谓非学习状态。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r010",
+      "target": "s-b7e6a7f8cac4-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特殊条件",
+      "reason": "source 强调保持好奇心、从身边事情学习，r010 补充了学习状态的对立面——封闭心态，说明思想关掉则无法学习，补了何谓非学习状态。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:v2-n001",
+      "target": "s-b7e6a7f8cac4-c001:r009",
+      "kind": "complements",
+      "condition": "无特殊条件",
+      "reason": "source 定义学习状态，r009 补充了实现随时学习所需的内在条件（自我挑战、自我否认等），补了学习状态的形成条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r009",
+      "target": "s-b7e6a7f8cac4-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特殊条件",
+      "reason": "source 定义学习状态，r009 补充了实现随时学习所需的内在条件（自我挑战、自我否认等），补了学习状态的形成条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:v2-n001",
+      "target": "s-b7e6a7f8cac4-c001:r005",
+      "kind": "complements",
+      "condition": "无特殊条件",
+      "reason": "r005 提供讲者向服务生学习的案例，具体展示了 source 所述随时从身边事情学习的实际情景，补了学习状态的实际案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r005",
+      "target": "s-b7e6a7f8cac4-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特殊条件",
+      "reason": "r005 提供讲者向服务生学习的案例，具体展示了 source 所述随时从身边事情学习的实际情景，补了学习状态的实际案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:v2-n001",
+      "target": "s-b7e6a7f8cac4-c001:r014",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "两段都涉及学习心态在冲突中的缺失，但 source 定义学习状态，r014 讨论夫妻吵架时缺乏学习心，主题相关，无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r014",
+      "target": "s-b7e6a7f8cac4-c001:v2-n001",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "两段都涉及学习心态在冲突中的缺失，但 source 定义学习状态，r014 讨论夫妻吵架时缺乏学习心，主题相关，无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:v2-n001",
+      "target": "s-b7e6a7f8cac4-c001:r004",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "r004 讨论不学习导致自我关系不良，与 source 学习状态定义同主题，但侧重结果，无直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r004",
+      "target": "s-b7e6a7f8cac4-c001:v2-n001",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "r004 讨论不学习导致自我关系不良，与 source 学习状态定义同主题，但侧重结果，无直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:v2-n001",
+      "target": "s-b7e6a7f8cac4-c001:r001",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "r001 讨论不学习导致亲子关系不良，与 source 学习状态相关但关注应用后果，无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r001",
+      "target": "s-b7e6a7f8cac4-c001:v2-n001",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "r001 讨论不学习导致亲子关系不良，与 source 学习状态相关但关注应用后果，无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:v2-n001",
+      "target": "s-b7e6a7f8cac4-c001:r018",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "r018 用骑脚踏车比喻学习需不停前进，与 source 学习状态相关，但比喻侧重持续性，source 未明确提及，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r018",
+      "target": "s-b7e6a7f8cac4-c001:v2-n001",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "r018 用骑脚踏车比喻学习需不停前进，与 source 学习状态相关，但比喻侧重持续性，source 未明确提及，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:v2-n001",
+      "target": "s-b7e6a7f8cac4-c001:r011",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "r011 讨论不学习带来的困难，与 source 主题相关但无直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r011",
+      "target": "s-b7e6a7f8cac4-c001:v2-n001",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "r011 讨论不学习带来的困难，与 source 主题相关但无直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:v2-n001",
+      "target": "s-b7e6a7f8cac4-c001:r008",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "r008 比喻不学习的人像死水，与 source 学习状态形成对比，但仅为比喻，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r008",
+      "target": "s-b7e6a7f8cac4-c001:v2-n001",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "r008 比喻不学习的人像死水，与 source 学习状态形成对比，但仅为比喻，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:v2-n001",
+      "target": "s-b7e6a7f8cac4-c001:r016",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "r016 讨论不学习导致自我不满，与 source 主题相关，无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b7e6a7f8cac4-c001:r016",
+      "target": "s-b7e6a7f8cac4-c001:v2-n001",
+      "kind": "association",
+      "condition": "主题相关，无明确适用条件",
+      "reason": "r016 讨论不学习导致自我不满，与 source 主题相关，无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "当父母或夫妻因封闭心态导致关系不良时，需要自我修养中的随时学习来改善",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r001",
+        "s-b7e6a7f8cac4-c001:r002",
+        "s-b7e6a7f8cac4-c001:r003",
+        "s-b7e6a7f8cac4-c001:r009",
+        "s-b7e6a7f8cac4-c001:r010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r001",
+        "s-b7e6a7f8cac4-c001:r012"
+      ],
+      "reason": "两者都描述父母拒绝学习导致孩子拒绝学习，从而亲子关系不好，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r003",
+        "s-b7e6a7f8cac4-c001:r014"
+      ],
+      "reason": "两者都描述夫妻吵架时缺乏学习心态，导致关系不良，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r004",
+        "s-b7e6a7f8cac4-c001:r015",
+        "s-b7e6a7f8cac4-c001:r016"
+      ],
+      "reason": "三者都描述不喜欢自己或现状但不行动改变，因为不爱学习，内容实质等价。"
+    }
+  ],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-b7e6a7f8cac4-c001:u001",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r018"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-b7e6a7f8cac4-c001:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r005"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-b7e6a7f8cac4-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r017"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-b7e6a7f8cac4-c001:u004",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r010"
+      ],
+      "blocks": [
+        "b00004",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-b7e6a7f8cac4-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r011"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-b7e6a7f8cac4-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r001",
+        "s-b7e6a7f8cac4-c001:r012"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-b7e6a7f8cac4-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r002"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-b7e6a7f8cac4-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r013"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-b7e6a7f8cac4-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r003",
+        "s-b7e6a7f8cac4-c001:r014"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-b7e6a7f8cac4-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r009"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-b7e6a7f8cac4-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r004",
+        "s-b7e6a7f8cac4-c001:r015",
+        "s-b7e6a7f8cac4-c001:r016"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-b7e6a7f8cac4-c001:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r006"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-b7e6a7f8cac4-c001:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r007"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-b7e6a7f8cac4-c001:u014",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:r008"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-b7e6a7f8cac4-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "学习状态的定义与书本学习的区别",
+      "atom_ids": [
+        "s-b7e6a7f8cac4-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b7e6a7f8cac4",
+          "blocks": [
+            "b00016"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    }
+  ]
+}

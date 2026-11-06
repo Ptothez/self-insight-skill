@@ -1,0 +1,319 @@
+{
+  "concepts": [
+    {
+      "name": "过分关注孩子",
+      "definition": "对五六七岁到高中的孩子投入过多时间、精力和经济，超过合理界限，导致孩子出现自我中心、贪婪、不负责任、没有耐心等问题，并导致父母过少关注自己。",
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a001",
+        "s-8cee6bc19931-c001:a002",
+        "s-8cee6bc19931-c001:a003",
+        "s-8cee6bc19931-c001:a004",
+        "s-8cee6bc19931-c001:a005",
+        "s-8cee6bc19931-c001:a006",
+        "s-8cee6bc19931-c001:a007",
+        "s-8cee6bc19931-c001:a008",
+        "s-8cee6bc19931-c001:r001"
+      ]
+    },
+    {
+      "name": "正常关注",
+      "definition": "对于很小的孩子（如两三个月大），父母所有时间都花在孩子身上是应当的，不叫过分关注。",
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a001",
+        "s-8cee6bc19931-c001:r001"
+      ]
+    },
+    {
+      "name": "关注自己的情绪",
+      "definition": "关注自己是否因疲倦引起慢性抑郁、什么事情让自己焦虑、经历了什么伤害；不仅要问开不开心，还要关注事情对自己造成的情绪影响。",
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a009"
+      ]
+    },
+    {
+      "name": "情绪测试",
+      "definition": "在快乐、悲伤、愤怒、恐惧、恶心、惊讶六种基本情绪中，分别写出至少五种第二层情绪。",
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a010"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-8cee6bc19931-c001:a001",
+      "target": "s-8cee6bc19931-c001:a002",
+      "kind": "prerequisite",
+      "condition": "判断是否过分关注需先明确适用年龄范围",
+      "reason": "过分关注孩子的适用年龄范围界定了该概念适用于五六七岁到高中的孩子，而过分关注孩子的十条测试针对该年龄段，因此年龄范围是测试的前提。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8cee6bc19931-c001:a002",
+      "target": "s-8cee6bc19931-c001:a003",
+      "kind": "association",
+      "condition": "当测试结果显示过分关注时",
+      "reason": "过分关注孩子的十条测试是判断过分关注的标准，过分关注孩子导致过少关注自己说明过分关注的后果；测试本身不直接导致过少关注自己，而是通过识别过分关注间接关联，原因果关系不成立，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8cee6bc19931-c001:a002",
+      "target": "s-8cee6bc19931-c001:a004",
+      "kind": "association",
+      "condition": "当测试结果显示过分关注时",
+      "reason": "过分关注孩子的十条测试是判断过分关注的标准，过分关注孩子的危险：自我中心说明过分关注的后果；测试本身不直接导致自我中心，而是通过识别过分关注间接关联，原因果关系不成立，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8cee6bc19931-c001:a002",
+      "target": "s-8cee6bc19931-c001:a005",
+      "kind": "association",
+      "condition": "当测试结果显示过分关注时",
+      "reason": "过分关注孩子的十条测试是判断过分关注的标准，过分关注孩子的危险：贪婪说明过分关注的后果；测试本身不直接导致贪婪，而是通过识别过分关注间接关联，原因果关系不成立，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8cee6bc19931-c001:a002",
+      "target": "s-8cee6bc19931-c001:a006",
+      "kind": "association",
+      "condition": "当测试结果显示过分关注时",
+      "reason": "过分关注孩子的十条测试是判断过分关注的标准，过分关注孩子的危险：不负责任说明过分关注的后果；测试本身不直接导致不负责任，而是通过识别过分关注间接关联，原因果关系不成立，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8cee6bc19931-c001:a002",
+      "target": "s-8cee6bc19931-c001:a007",
+      "kind": "association",
+      "condition": "当测试结果显示过分关注时",
+      "reason": "过分关注孩子的十条测试是判断过分关注的标准，过分关注孩子的危险：没有耐心说明过分关注的后果；测试本身不直接导致没有耐心，而是通过识别过分关注间接关联，原因果关系不成立，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8cee6bc19931-c001:a002",
+      "target": "s-8cee6bc19931-c001:a008",
+      "kind": "association",
+      "condition": "当测试结果显示过分关注时",
+      "reason": "过分关注孩子的十条测试是判断过分关注的标准，过分关注孩子与躺平、网瘾、啃老、草莓族的关系说明其相关性；测试本身不直接导致这些现象，而是通过识别过分关注间接关联，原因果关系不成立，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8cee6bc19931-c001:a003",
+      "target": "s-8cee6bc19931-c001:a009",
+      "kind": "supports",
+      "condition": "当父母意识到过少关注自己时",
+      "reason": "a003 指出过分关注孩子导致过少关注自己，a009 提供关注自己情绪的方法，因此 a003 支持 a009 的必要性。"
+    },
+    {
+      "source": "s-8cee6bc19931-c001:a009",
+      "target": "s-8cee6bc19931-c001:a010",
+      "kind": "step_of",
+      "condition": "在关注自己情绪的过程中",
+      "reason": "a009 强调关注情绪影响，a010 提供情绪测试练习，帮助识别情绪，因此 a010 是 a009 的一个步骤。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "当父母过分关注孩子时，会导致过少关注自己，需要转向自我修养",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a001",
+        "s-8cee6bc19931-c001:r001"
+      ],
+      "reason": "两者内容完全一致，均说明过分关注适用于五六七岁到高中的孩子，很小的孩子不适用。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "判断并应对过分关注孩子",
+      "steps": [
+        {
+          "action": "明确过分关注的适用年龄范围",
+          "atom_ids": [
+            "s-8cee6bc19931-c001:a001"
+          ],
+          "condition": "孩子年龄在五六七岁到高中之间"
+        },
+        {
+          "action": "进行十条测试判断是否过分关注",
+          "atom_ids": [
+            "s-8cee6bc19931-c001:a002"
+          ],
+          "condition": "孩子年龄符合适用条件"
+        },
+        {
+          "action": "认识过分关注的后果",
+          "atom_ids": [
+            "s-8cee6bc19931-c001:a003",
+            "s-8cee6bc19931-c001:a004",
+            "s-8cee6bc19931-c001:a005",
+            "s-8cee6bc19931-c001:a006",
+            "s-8cee6bc19931-c001:a007",
+            "s-8cee6bc19931-c001:a008"
+          ],
+          "condition": "测试结果显示过分关注"
+        },
+        {
+          "action": "转向关注自己的情绪",
+          "atom_ids": [
+            "s-8cee6bc19931-c001:a009"
+          ],
+          "condition": "意识到过少关注自己"
+        },
+        {
+          "action": "进行情绪测试练习",
+          "atom_ids": [
+            "s-8cee6bc19931-c001:a010"
+          ],
+          "condition": "在关注自己情绪的过程中"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-8cee6bc19931-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a001",
+        "s-8cee6bc19931-c001:r001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-8cee6bc19931-c001:u0002",
+      "kind": "method",
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a002"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005",
+        "b00006",
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-8cee6bc19931-c001:u0003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a003"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-8cee6bc19931-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a004"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-8cee6bc19931-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a005"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-8cee6bc19931-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a006"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-8cee6bc19931-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a007"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-8cee6bc19931-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a008"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-8cee6bc19931-c001:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a009"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-8cee6bc19931-c001:u0010",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-8cee6bc19931-c001:a010"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

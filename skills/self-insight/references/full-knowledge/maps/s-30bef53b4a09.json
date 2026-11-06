@@ -1,0 +1,1793 @@
+{
+  "concepts": [
+    {
+      "name": "种什么收什么原则",
+      "definition": "一个人会承担自己行为所带来的坏结果，即自己种下的因要自己承受后果。在界限教育中，父母要让孩子承担其行为的自然或逻辑后果，而不是替孩子绕过后果。",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a001",
+        "s-30bef53b4a09-c001:a002",
+        "s-30bef53b4a09-c002:a008",
+        "s-30bef53b4a09-c002:a009",
+        "s-30bef53b4a09-c002:a012",
+        "s-30bef53b4a09-c002:a013"
+      ]
+    },
+    {
+      "name": "界限基于选择",
+      "definition": "界限一定是带着选择的，我们根据自己的选择来立界限。如果选择留下，就要克服不舒服；如果选择离开，就可以走开。",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a008",
+        "s-30bef53b4a09-c001:a007",
+        "s-30bef53b4a09-c001:a016"
+      ]
+    },
+    {
+      "name": "界限的目的是教别人如何对待自己",
+      "definition": "界限的目的是教别人怎么对待自己。如果自己不舒服，即使全世界的人都舒服，也要教对方不要这样对待自己。",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a010",
+        "s-30bef53b4a09-c001:xe002"
+      ]
+    },
+    {
+      "name": "我为你负责与我不为你负责的区别",
+      "definition": "“我不为你负责”指不承担对方内在小孩的养育责任，不替对方预约心理辅导、不帮对方处理原生家庭问题。“我为你负责”指在对方改变期间，愿意等待、忍受痛苦、帮助对方一起承担重担，但对方必须自己改变。",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a011",
+        "s-30bef53b4a09-c001:a014"
+      ]
+    },
+    {
+      "name": "界限要说到做到",
+      "definition": "立界限后必须执行，不能说了不做。如果孩子平时表现好，偶尔一次可以只提醒；如果多次重复，则必须跟上后果。",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a019",
+        "s-30bef53b4a09-c002:a004"
+      ]
+    },
+    {
+      "name": "界限层层递进",
+      "definition": "立界限时，如果对方继续违反，界限要层层递进。例如，成年子女点外卖，父母先立界限：如果点外卖就不特别做菜；如果子女承诺在家吃却仍点外卖，则一周内不特别做菜。如果继续，则进一步升级后果。",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:r001",
+        "s-30bef53b4a09-c001:a017",
+        "s-30bef53b4a09-c002:a004"
+      ]
+    },
+    {
+      "name": "人不会为别人的问题而改变，只会为自己的麻烦而改变",
+      "definition": "人不会因为给别人造成麻烦而改变行为，只有当自己面临麻烦时才会改变。例如，如果丈夫吵醒孩子后需要自己哄孩子，他才会轻手轻脚；如果只是妻子哄孩子，丈夫不会改变。",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a002",
+        "s-30bef53b4a09-c002:a003",
+        "s-30bef53b4a09-c002:xe001"
+      ]
+    },
+    {
+      "name": "界限缺失导致婚姻关系受损",
+      "definition": "如果夫妻之间没有设立正确的界限，例如丈夫深夜吵闹影响妻子和孩子，而妻子选择分房睡以避免冲突，长期会导致夫妻关系从夫妻变成室友或合伙人，婚姻受损。",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a005",
+        "s-30bef53b4a09-c002:r001"
+      ]
+    },
+    {
+      "name": "帮忙不等于可以越界",
+      "definition": "长辈帮忙带孩子是他们的选择，但不能因为帮忙就可以随意打孩子或干涉父母管教。父母应坚持界限，同时表达感谢。",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a016",
+        "s-30bef53b4a09-c003:a002"
+      ]
+    },
+    {
+      "name": "界限没有统一标准",
+      "definition": "每个人立界限的标准不同，没有统一答案。是否立界限取决于个人感受，而不是他人标准。",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a005",
+        "s-30bef53b4a09-c001:a006"
+      ]
+    },
+    {
+      "name": "面对拒绝沟通的配偶的界限方法",
+      "definition": "对于拒绝沟通的配偶，不能强迫沟通。要先想清楚不沟通的后果，然后让对方做选择。界限基于自己的选择：如果只要婚姻，就放弃其他要求；如果要婚姻中的尊重和沟通，就围绕这些立界限，并告知后果（如暂时分开住）。",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a016"
+      ]
+    },
+    {
+      "name": "成年子女点外卖的界限方法",
+      "definition": "成年子女有权选择晚餐吃什么，尤其用自己钱点外卖时。但父母可以立界限：如果子女点外卖，父母就不刻意多做菜；如果子女说在家吃但之后仍点外卖，则一周内不再特别为其做菜。界限要说到做到，层层递进。",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a017"
+      ]
+    },
+    {
+      "name": "用后果训练行为：让孩子承担吵醒孩子的责任",
+      "definition": "当丈夫深夜回家开灯、制造噪音吵醒孩子时，妻子应把孩子交给丈夫，让他负责哄睡，无论他多疲倦或明天要上班。这样丈夫会因为自己的麻烦而改变行为，通常一两次后就会轻手轻脚。",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a003"
+      ]
+    },
+    {
+      "name": "面对不喜欢的人：在第一次越界时立界限",
+      "definition": "面对不喜欢但必须打交道的人，应在第一次越界时就立界限，而不是忍耐到爆发。如果一开始不立界限，对方会越来越越界，最终导致自己不喜欢对方并爆发式表达愤怒。",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a006"
+      ]
+    },
+    {
+      "name": "界限是保护关系的最好方式",
+      "definition": "界限不是破坏关系，而是保护关系。没有界限，关系无法长久维持。如果想要保全与某人的关系，应在第一次越界时就立界限。",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a007"
+      ]
+    },
+    {
+      "name": "用种什么收什么原则分析孩子作业问题",
+      "definition": "孩子不专心做作业，种下的是不专心，收的是没有时间看电视、玩玩具，以及妈妈的念叨。父母可以立界限：如果孩子专注做作业，20分钟完成，剩下的50分钟可以玩；如果花70分钟，就没有玩的时间。孩子需要多次试验才能明白。",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a009"
+      ]
+    },
+    {
+      "name": "用种什么收什么原则分析配偶情绪管理问题",
+      "definition": "丈夫明知自己情绪管理有问题却不去看心理医生，种下的是有病不治，收的是妻子嫌弃、婚姻岌岌可危、失去面子。妻子应沟通界限，告诉丈夫这些后果，让他选择是否改变。如果丈夫仍不改变，妻子应照顾好自己，自己见辅导，带孩子见家庭辅导，再决定婚姻走向。",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a012"
+      ]
+    },
+    {
+      "name": "用种什么收什么原则分析父亲乱花钱问题",
+      "definition": "父亲毫无节制乱花钱，种下的是乱花钱，收的是一屁股债和关系尴尬。妹妹借钱给父亲并鼓励买不需要的东西，种下的是纵容，收的是自己婚姻可能被牵连。",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a013"
+      ]
+    },
+    {
+      "name": "练习：父母吵架要离婚，孩子如何既表达爱又不越界",
+      "definition": "当父母吵架且母亲坚决要离婚时，孩子可以：理解妈妈的感受，尊重他们的选择；表达自己难受但尊重决定；告诉父母永远爱他们，关系不会因离婚而断绝；请父母不在自己面前讲彼此坏话。",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a014",
+        "s-30bef53b4a09-c002:xe002"
+      ]
+    },
+    {
+      "name": "练习：长辈要打孩子，父母如何既表达爱又不越界",
+      "definition": "当爷爷奶奶或外公外婆因孩子犯错要打孩子时，父母可以：感谢长辈的关心，理解他们的心急；明确告诉长辈不要打孩子，孩子的问题由父母自己管教；让孩子向长辈认错；如果长辈以不帮忙带孩子威胁，父母要坚持界限，同时表达感谢。",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a015",
+        "s-30bef53b4a09-c002:xe003",
+        "s-30bef53b4a09-c003:a001",
+        "s-30bef53b4a09-c003:a004"
+      ]
+    },
+    {
+      "name": "离婚理由的知情权与界限",
+      "definition": "成年子女对父母离婚的理由有权知道，但父母也可以选择不告知。子女应尊重父母的选择，不强迫父母透露理由。",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:xe004"
+      ]
+    },
+    {
+      "name": "与老人沟通界限并做出选择",
+      "definition": "父母需要与老人沟通清楚界限：如果老人坚持按自己的方式带孩子，父母必须选择是否继续让老人帮忙。如果选择继续，就要同意老人的方式；如果不同意，就不要让老人带孩子。",
+      "atom_ids": [
+        "s-30bef53b4a09-c003:a003"
+      ]
+    },
+    {
+      "name": "给长辈立界限的原则",
+      "definition": "给长辈立界限是父母的选择，需要明确表达自己的管教权，同时感谢长辈的帮助。",
+      "atom_ids": [
+        "s-30bef53b4a09-c003:a005"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-30bef53b4a09-c002:a001",
+      "target": "s-30bef53b4a09-c001:a002",
+      "kind": "example_of",
+      "condition": "幼儿园迟到场景",
+      "reason": "k00002 是种什么收什么原则在幼儿园迟到场景的具体应用。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a001",
+      "target": "s-30bef53b4a09-c002:a008",
+      "kind": "example_of",
+      "condition": "孩子消极问题",
+      "reason": "k00030 用种什么收什么原则分析孩子消极问题。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a001",
+      "target": "s-30bef53b4a09-c002:a009",
+      "kind": "example_of",
+      "condition": "孩子作业问题",
+      "reason": "k00031 用种什么收什么原则分析孩子作业问题。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a001",
+      "target": "s-30bef53b4a09-c002:a012",
+      "kind": "example_of",
+      "condition": "配偶情绪管理问题",
+      "reason": "k00034 用种什么收什么原则分析配偶情绪管理问题。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a001",
+      "target": "s-30bef53b4a09-c002:a013",
+      "kind": "example_of",
+      "condition": "父亲乱花钱问题",
+      "reason": "k00035 用种什么收什么原则分析父亲乱花钱问题。"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:a008",
+      "target": "s-30bef53b4a09-c001:a007",
+      "kind": "example_of",
+      "condition": "公共场合面对脏话",
+      "reason": "k00007 是界限基于选择在公共场合面对脏话的具体应用。"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:a008",
+      "target": "s-30bef53b4a09-c001:a016",
+      "kind": "supports",
+      "condition": "配偶拒绝沟通",
+      "reason": "界限基于选择的原则支持面对拒绝沟通的配偶的界限方法，该方法中提到界限基于自己的选择并让对方选择。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原kind example_of方向错误，原则支持具体方法，改为supports。"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:a010",
+      "target": "s-30bef53b4a09-c001:xe002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00022 与 k00010 内容相同，支持界限目的。"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:a011",
+      "target": "s-30bef53b4a09-c001:a014",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00014 补充了 k00011 中“我为你负责”的具体表现。"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:a019",
+      "target": "s-30bef53b4a09-c002:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00026 补充了界限要说到做到中根据行为频率调整后果的细节。"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:r001",
+      "target": "s-30bef53b4a09-c001:a017",
+      "kind": "supports",
+      "condition": "成年子女点外卖",
+      "reason": "界限的层层递进原则以成年子女点外卖为应用例子，成年子女点外卖的界限方法是该原则的具体实践；原 example_of 方向易误解，改为 supports。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向有误，target 是 source 原则的应用，故改为 supports。"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:r001",
+      "target": "s-30bef53b4a09-c002:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00026 补充了界限层层递进中根据行为频率调整后果的细节。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a002",
+      "target": "s-30bef53b4a09-c002:a003",
+      "kind": "example_of",
+      "condition": "丈夫吵醒孩子",
+      "reason": "k00025 是用后果训练行为的具体案例，体现了人不会为别人的问题而改变。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a002",
+      "target": "s-30bef53b4a09-c002:xe001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00045 强调了后果教育比说教更有效，支持人不会为别人的问题而改变。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a005",
+      "target": "s-30bef53b4a09-c002:r001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00039 与 k00027 内容相同，支持界限缺失导致婚姻关系受损。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a016",
+      "target": "s-30bef53b4a09-c002:a016",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00044 与 k00038 内容相同，支持帮忙不等于可以越界。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a016",
+      "target": "s-30bef53b4a09-c003:a002",
+      "kind": "supports",
+      "condition": "",
+      "reason": "帮忙不等于可以越界指出长辈帮忙不能因此打孩子或干涉管教，支持了“帮助不等于有权决定”的观点，后者以帮朋友买电视和老人带孩子为例进一步说明。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-30bef53b4a09-c001:a005",
+      "target": "s-30bef53b4a09-c001:a006",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00006 举例说明敏感不是立界限的障碍，支持界限没有统一标准。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a006",
+      "target": "s-30bef53b4a09-c002:a007",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00029 强调界限是保护关系，支持在第一次越界时立界限。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a012",
+      "target": "s-30bef53b4a09-c002:a012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00040 与 k00034 内容相同，支持用种什么收什么原则分析配偶情绪管理问题。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a013",
+      "target": "s-30bef53b4a09-c002:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00041 与 k00035 内容相同，支持用种什么收什么原则分析父亲乱花钱问题。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a014",
+      "target": "s-30bef53b4a09-c002:a014",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00042 与 k00036 内容相同，支持练习：父母吵架要离婚。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a014",
+      "target": "s-30bef53b4a09-c002:xe002",
+      "kind": "supports",
+      "condition": "",
+      "reason": "练习“父母吵架要离婚，孩子如何既表达爱又不越界”包含更详细的步骤，与实操练习的内容一致并为其提供具体做法，因此支持该练习。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a015",
+      "target": "s-30bef53b4a09-c002:a015",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00043 与 k00037 内容相同，支持练习：长辈要打孩子。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a015",
+      "target": "s-30bef53b4a09-c002:xe003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00047 与 k00037 内容相同，支持练习：长辈要打孩子。"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a015",
+      "target": "s-30bef53b4a09-c003:a001",
+      "kind": "supports",
+      "condition": "",
+      "reason": "练习“长辈要打孩子，父母如何既表达爱又不越界”给出了向老人表达感谢、明确由父母管教、让孩子认错等具体步骤，支持了“向老人表达爱并明确管教界限”的做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a015",
+      "target": "s-30bef53b4a09-c003:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00052 补充了处理老人打孩子时的沟通话术。"
+    },
+    {
+      "source": "s-30bef53b4a09-c003:a003",
+      "target": "s-30bef53b4a09-c003:a005",
+      "kind": "supports",
+      "condition": "",
+      "reason": "与老人沟通界限并做出选择体现父母需要明确管教权并做出选择，这是给长辈立界限原则的具体化，支持该原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-30bef53b4a09-c001:v2-n001",
+      "target": "s-30bef53b4a09-c002:a001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source强调家长不能替孩子消除后果或提供更舒服的环境，补充了candidate中“不是替孩子绕过后果”的具体错误表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a001",
+      "target": "s-30bef53b4a09-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "source强调家长不能替孩子消除后果或提供更舒服的环境，补充了candidate中“不是替孩子绕过后果”的具体错误表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:v2-n001",
+      "target": "s-30bef53b4a09-c001:a002",
+      "kind": "complements",
+      "condition": "适用于孩子拖拉导致迟到场景",
+      "reason": "candidate补充了source原则在幼儿园迟到问题上的具体应用，包括设定出门时间、让孩子承担未准备好的后果，而source未涉及具体场景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:a002",
+      "target": "s-30bef53b4a09-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于孩子拖拉导致迟到场景",
+      "reason": "candidate补充了source原则在幼儿园迟到问题上的具体应用，包括设定出门时间、让孩子承担未准备好的后果，而source未涉及具体场景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:v2-n001",
+      "target": "s-30bef53b4a09-c002:a008",
+      "kind": "complements",
+      "condition": "适用于孩子出现消极行为时，父母反思自身",
+      "reason": "candidate补充了“种什么收什么”原则在父母自我反思中的应用，而source主要强调孩子必须承担后果，两者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a008",
+      "target": "s-30bef53b4a09-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于孩子出现消极行为时，父母反思自身",
+      "reason": "candidate补充了“种什么收什么”原则在父母自我反思中的应用，而source主要强调孩子必须承担后果，两者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:v2-n001",
+      "target": "s-30bef53b4a09-c002:a009",
+      "kind": "complements",
+      "condition": "适用于孩子做作业不专注的情况",
+      "reason": "candidate补充了source原则在孩子作业问题上的具体操作，包括设定时间界限和让孩子体验后果，source未涉及具体学科场景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a009",
+      "target": "s-30bef53b4a09-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于孩子做作业不专注的情况",
+      "reason": "candidate补充了source原则在孩子作业问题上的具体操作，包括设定时间界限和让孩子体验后果，source未涉及具体学科场景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:v2-n001",
+      "target": "s-30bef53b4a09-c001:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "两者都涉及种什么收什么实施中的常见误区，但source强调不能绕过后果，candidate强调不能只盯着最终后果，角度不同，无直接补充或冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:a003",
+      "target": "s-30bef53b4a09-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "两者都涉及种什么收什么实施中的常见误区，但source强调不能绕过后果，candidate强调不能只盯着最终后果，角度不同，无直接补充或冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:v2-n001",
+      "target": "s-30bef53b4a09-c002:a012",
+      "kind": "association",
+      "condition": "角色不同：source针对孩子，candidate针对配偶",
+      "reason": "source讨论孩子行为后果，candidate讨论配偶行为后果，两者都是种什么收什么原则的应用，但适用对象不同，不能混淆。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a012",
+      "target": "s-30bef53b4a09-c001:v2-n001",
+      "kind": "association",
+      "condition": "角色不同：source针对孩子，candidate针对配偶",
+      "reason": "source讨论孩子行为后果，candidate讨论配偶行为后果，两者都是种什么收什么原则的应用，但适用对象不同，不能混淆。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:v2-n001",
+      "target": "s-30bef53b4a09-c002:a013",
+      "kind": "association",
+      "condition": "角色不同：source针对孩子，candidate针对父亲等家人",
+      "reason": "source讨论孩子行为后果，candidate讨论父亲乱花钱问题，两者均为原则应用但对象不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a013",
+      "target": "s-30bef53b4a09-c001:v2-n001",
+      "kind": "association",
+      "condition": "角色不同：source针对孩子，candidate针对父亲等家人",
+      "reason": "source讨论孩子行为后果，candidate讨论父亲乱花钱问题，两者均为原则应用但对象不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:v2-n001",
+      "target": "s-30bef53b4a09-c002:a003",
+      "kind": "association",
+      "condition": "角色不同：source针对孩子，candidate针对配偶",
+      "reason": "source强调孩子承担行为后果，candidate让配偶承担吵醒孩子的责任，理念一致但角色不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a003",
+      "target": "s-30bef53b4a09-c001:v2-n001",
+      "kind": "association",
+      "condition": "角色不同：source针对孩子，candidate针对配偶",
+      "reason": "source强调孩子承担行为后果，candidate让配偶承担吵醒孩子的责任，理念一致但角色不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:v2-n001",
+      "target": "s-30bef53b4a09-c001:a018",
+      "kind": "complements",
+      "condition": "适用于孩子长大、父母无法直接给予后果的情况",
+      "reason": "candidate补充了source未涉及的情况：当父母无法直接给予后果时，应让孩子承担自然结果，而不是强行给后果，从而完善了种什么收什么原则的实施范围。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:a018",
+      "target": "s-30bef53b4a09-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于孩子长大、父母无法直接给予后果的情况",
+      "reason": "candidate补充了source未涉及的情况：当父母无法直接给予后果时，应让孩子承担自然结果，而不是强行给后果，从而完善了种什么收什么原则的实施范围。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:v2-n001",
+      "target": "s-30bef53b4a09-c002:xe001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate格言支持后果教育有效性，与source的后果教育理念相关，但未直接补充或展开source内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:xe001",
+      "target": "s-30bef53b4a09-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate格言支持后果教育有效性，与source的后果教育理念相关，但未直接补充或展开source内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:v2-n001",
+      "target": "s-30bef53b4a09-c002:a004",
+      "kind": "complements",
+      "condition": "适用于孩子不同频率的行为",
+      "reason": "candidate补充了在实施“种什么收什么”时，应根据行为频率采取不同力度的后果，而source未涉及调整策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a004",
+      "target": "s-30bef53b4a09-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于孩子不同频率的行为",
+      "reason": "candidate补充了在实施“种什么收什么”时，应根据行为频率采取不同力度的后果，而source未涉及调整策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:v2-n001",
+      "target": "s-30bef53b4a09-c002:v2-n001",
+      "kind": "association",
+      "condition": "角色不同：source针对孩子，candidate案例中父母承担后果",
+      "reason": "source强调孩子承担行为后果，candidate案例中父母因未学习育儿而承担后果，两者均为种什么收什么原则的体现但角色不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:v2-n001",
+      "target": "s-30bef53b4a09-c001:v2-n001",
+      "kind": "association",
+      "condition": "角色不同：source针对孩子，candidate案例中父母承担后果",
+      "reason": "source强调孩子承担行为后果，candidate案例中父母因未学习育儿而承担后果，两者均为种什么收什么原则的体现但角色不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:v2-n001",
+      "target": "s-30bef53b4a09-c002:a011",
+      "kind": "example_of",
+      "condition": "无特定条件",
+      "reason": "source2案例（家长未学习导致孩子骂妈妈砸门）正是candidate中“躲避育儿辛苦现在躲过将来要承担后果”的具体例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a011",
+      "target": "s-30bef53b4a09-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "无特定条件",
+      "reason": "source2案例（家长未学习导致孩子骂妈妈砸门）正是candidate中“躲避育儿辛苦现在躲过将来要承担后果”的具体例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:v2-n001",
+      "target": "s-30bef53b4a09-c001:v2-n001",
+      "kind": "association",
+      "condition": "角色不同：source2涉及父母，source1涉及孩子",
+      "reason": "两者都涉及种什么收什么原则，但source1强调孩子承担行为后果，source2案例中父母因未学习育儿而承担后果，适用对象不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:v2-n001",
+      "target": "s-30bef53b4a09-c002:v2-n001",
+      "kind": "association",
+      "condition": "角色不同：source2涉及父母，source1涉及孩子",
+      "reason": "两者都涉及种什么收什么原则，但source1强调孩子承担行为后果，source2案例中父母因未学习育儿而承担后果，适用对象不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:v2-n001",
+      "target": "s-30bef53b4a09-c001:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例与candidate关于家长盯最终后果的错误不直接相关，仅都涉及育儿后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:a003",
+      "target": "s-30bef53b4a09-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例与candidate关于家长盯最终后果的错误不直接相关，仅都涉及育儿后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:v2-n001",
+      "target": "s-30bef53b4a09-c002:a001",
+      "kind": "association",
+      "condition": "角色不同：source2为父母承担后果，candidate为原则一般定义",
+      "reason": "candidate定义种什么收什么原则，source2案例体现该原则但对象为父母而非孩子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a001",
+      "target": "s-30bef53b4a09-c002:v2-n001",
+      "kind": "association",
+      "condition": "角色不同：source2为父母承担后果，candidate为原则一般定义",
+      "reason": "candidate定义种什么收什么原则，source2案例体现该原则但对象为父母而非孩子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:v2-n001",
+      "target": "s-30bef53b4a09-c002:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例与candidate具体方法（让配偶承担哄孩子责任）无关，仅都涉及后果教育。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a003",
+      "target": "s-30bef53b4a09-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例与candidate具体方法（让配偶承担哄孩子责任）无关，仅都涉及后果教育。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:v2-n001",
+      "target": "s-30bef53b4a09-c002:xe001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate格言强调后果教育，source2案例未展示通过后果教育孩子，而是父母承担后果，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:xe001",
+      "target": "s-30bef53b4a09-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate格言强调后果教育，source2案例未展示通过后果教育孩子，而是父母承担后果，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:v2-n001",
+      "target": "s-30bef53b4a09-c002:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例不涉及界限层层递进，仅都涉及界限相关主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a004",
+      "target": "s-30bef53b4a09-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例不涉及界限层层递进，仅都涉及界限相关主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:v2-n001",
+      "target": "s-30bef53b4a09-c001:a013",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例与candidate（讲师推动丈夫学习）都涉及育儿学习，但场景和结果不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:a013",
+      "target": "s-30bef53b4a09-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例与candidate（讲师推动丈夫学习）都涉及育儿学习，但场景和结果不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:v2-n001",
+      "target": "s-30bef53b4a09-c002:a010",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例中家长未及时学习并非立界限需要时间沉淀的问题，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a010",
+      "target": "s-30bef53b4a09-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例中家长未及时学习并非立界限需要时间沉淀的问题，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:v2-n001",
+      "target": "s-30bef53b4a09-c001:a002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例与幼儿园迟到应用场景无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c001:a002",
+      "target": "s-30bef53b4a09-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例与幼儿园迟到应用场景无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:v2-n001",
+      "target": "s-30bef53b4a09-c002:a002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例中家长因孩子问题痛苦，但candidate观点是人为自己麻烦改变，可能相关但缺乏直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a002",
+      "target": "s-30bef53b4a09-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例中家长因孩子问题痛苦，但candidate观点是人为自己麻烦改变，可能相关但缺乏直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:v2-n001",
+      "target": "s-30bef53b4a09-c002:a008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例与孩子消极应用场景无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-30bef53b4a09-c002:a008",
+      "target": "s-30bef53b4a09-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source2案例与孩子消极应用场景无关。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "当父母需要反思自己的思维模式或学习习惯时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a001",
+        "s-30bef53b4a09-c001:a004",
+        "s-30bef53b4a09-c001:a012",
+        "s-30bef53b4a09-c002:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "当界限需要通过具体行动和后果来执行时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a002",
+        "s-30bef53b4a09-c001:a017",
+        "s-30bef53b4a09-c001:a019",
+        "s-30bef53b4a09-c001:r001",
+        "s-30bef53b4a09-c002:a003",
+        "s-30bef53b4a09-c002:a004",
+        "s-30bef53b4a09-c002:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-30bef53b4a09-c001:a002",
+          "limits": [
+            "不能因为孩子没准备好而延迟出门"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c001:a017",
+          "limits": [
+            "不能越界给后果（如强制禁止）"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:a003",
+          "limits": [
+            "需要确保孩子安全，且丈夫愿意承担哄孩子责任；如果丈夫拒绝，可能需要其他界限措施"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:a009",
+          "limits": [
+            "需要父母耐心，不期待立竿见影"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "依赖与失控",
+      "when": "当界限涉及配偶或家庭成员的行为改变时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a011",
+        "s-30bef53b4a09-c001:a014",
+        "s-30bef53b4a09-c001:a016",
+        "s-30bef53b4a09-c002:a002",
+        "s-30bef53b4a09-c002:a003",
+        "s-30bef53b4a09-c002:a005",
+        "s-30bef53b4a09-c002:a012",
+        "s-30bef53b4a09-c002:a013",
+        "s-30bef53b4a09-c002:r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-30bef53b4a09-c001:a016",
+          "limits": [
+            "不能强迫成年人沟通"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:a003",
+          "limits": [
+            "需要确保孩子安全，且丈夫愿意承担哄孩子责任；如果丈夫拒绝，可能需要其他界限措施"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:a012",
+          "limits": [
+            "需要妻子有勇气沟通，且可能面临婚姻破裂风险"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:a013",
+          "limits": [
+            "需要家庭成员愿意面对问题"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:a012",
+          "limits": [
+            "需要妻子有勇气沟通，且可能面临婚姻破裂风险"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:a013",
+          "limits": [
+            "需要家庭成员愿意面对问题"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "当界限涉及处理他人情绪或表达自己感受时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a006",
+        "s-30bef53b4a09-c001:a007",
+        "s-30bef53b4a09-c001:a009",
+        "s-30bef53b4a09-c001:a010",
+        "s-30bef53b4a09-c001:xe002",
+        "s-30bef53b4a09-c002:a014",
+        "s-30bef53b4a09-c002:a015",
+        "s-30bef53b4a09-c002:xe002",
+        "s-30bef53b4a09-c002:xe003",
+        "s-30bef53b4a09-c003:a001",
+        "s-30bef53b4a09-c003:a004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-30bef53b4a09-c002:a014",
+          "limits": [
+            "需要子女有情绪管理能力，且不卷入父母冲突"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:a015",
+          "limits": [
+            "需要父母有勇气与长辈沟通，可能面临家庭冲突"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:a014",
+          "limits": [
+            "需要子女有情绪管理能力，且不卷入父母冲突"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:a015",
+          "limits": [
+            "需要父母有勇气与长辈沟通，可能面临家庭冲突"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:xe002",
+          "limits": [
+            "需要子女有情绪管理能力，且不卷入父母冲突"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:xe003",
+          "limits": [
+            "需要父母有勇气与长辈沟通，可能面临家庭冲突"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "阶段与角色",
+      "when": "当界限涉及不同家庭角色（如父母、子女、长辈）时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a017",
+        "s-30bef53b4a09-c002:a014",
+        "s-30bef53b4a09-c002:a015",
+        "s-30bef53b4a09-c002:xe002",
+        "s-30bef53b4a09-c002:xe003",
+        "s-30bef53b4a09-c002:xe004",
+        "s-30bef53b4a09-c003:a001",
+        "s-30bef53b4a09-c003:a003",
+        "s-30bef53b4a09-c003:a004",
+        "s-30bef53b4a09-c003:a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-30bef53b4a09-c001:a017",
+          "limits": [
+            "不能越界给后果（如强制禁止）"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:a014",
+          "limits": [
+            "需要子女有情绪管理能力，且不卷入父母冲突"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:a015",
+          "limits": [
+            "需要父母有勇气与长辈沟通，可能面临家庭冲突"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:a014",
+          "limits": [
+            "需要子女有情绪管理能力，且不卷入父母冲突"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:a015",
+          "limits": [
+            "需要父母有勇气与长辈沟通，可能面临家庭冲突"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:xe002",
+          "limits": [
+            "需要子女有情绪管理能力，且不卷入父母冲突"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:xe003",
+          "limits": [
+            "需要父母有勇气与长辈沟通，可能面临家庭冲突"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "内在能力",
+      "when": "当界限涉及培养孩子的能力时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a008",
+        "s-30bef53b4a09-c002:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-30bef53b4a09-c002:a008",
+          "limits": [
+            "需要父母有自我反思能力，且愿意改变"
+          ]
+        },
+        {
+          "atom_id": "s-30bef53b4a09-c002:a009",
+          "limits": [
+            "需要父母耐心，不期待立竿见影"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "当父母需要反思自己的育儿态度和努力时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a010",
+        "s-30bef53b4a09-c001:xe002"
+      ],
+      "reason": "内容完全相同，均表述界限的目的是教别人如何对待自己。"
+    },
+    {
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a005",
+        "s-30bef53b4a09-c002:r001"
+      ],
+      "reason": "内容完全相同，均表述界限缺失导致婚姻关系受损。"
+    },
+    {
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a012"
+      ],
+      "reason": "内容完全相同，均表述用种什么收什么原则分析配偶情绪管理问题。"
+    },
+    {
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a013"
+      ],
+      "reason": "内容完全相同，均表述用种什么收什么原则分析父亲乱花钱问题。"
+    },
+    {
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a014",
+        "s-30bef53b4a09-c002:xe002"
+      ],
+      "reason": "内容完全相同，均表述练习：父母吵架要离婚，孩子如何既表达爱又不越界。"
+    },
+    {
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a015",
+        "s-30bef53b4a09-c002:xe003"
+      ],
+      "reason": "内容完全相同，均表述练习：长辈要打孩子，父母如何既表达爱又不越界。"
+    },
+    {
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a016"
+      ],
+      "reason": "内容完全相同，均表述帮忙不等于可以越界。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a003",
+        "s-30bef53b4a09-c002:a015"
+      ],
+      "description": "k00025 建议将孩子交给丈夫哄睡作为后果，可能将孩子作为工具；k00037 强调父母应自己管教孩子，不允许长辈打孩子。两者在是否利用孩子作为界限工具上存在潜在矛盾。",
+      "needed_evidence": "需要明确在何种情况下可以将孩子交给另一方照顾作为后果，以及如何避免对孩子造成负面影响。"
+    },
+    {
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a017",
+        "s-30bef53b4a09-c001:a018"
+      ],
+      "description": "k00017 建议父母对成年子女点外卖立界限并给予后果（如不特别做菜），而 k00018 指出孩子越大，很多后果父母给不了，只能等待自然结果。两者在父母是否应主动给予后果上存在张力。",
+      "needed_evidence": "需要明确在成年子女问题上，父母何时可以主动立界限给予后果，何时应等待自然结果。"
+    }
+  ],
+  "path": [
+    {
+      "name": "立界限的主要方法",
+      "steps": [
+        {
+          "action": "识别问题行为并反思自己种下的因",
+          "atom_ids": [
+            "s-30bef53b4a09-c002:a008",
+            "s-30bef53b4a09-c002:a009",
+            "s-30bef53b4a09-c002:a012",
+            "s-30bef53b4a09-c002:a013"
+          ],
+          "condition": "当孩子或他人出现行为问题时"
+        },
+        {
+          "action": "明确界限和后果",
+          "atom_ids": [
+            "s-30bef53b4a09-c001:a002",
+            "s-30bef53b4a09-c001:a009",
+            "s-30bef53b4a09-c001:a016",
+            "s-30bef53b4a09-c001:a017",
+            "s-30bef53b4a09-c002:a003",
+            "s-30bef53b4a09-c002:a009",
+            "s-30bef53b4a09-c002:a012",
+            "s-30bef53b4a09-c002:a013"
+          ],
+          "condition": "根据具体场景设定界限和后果"
+        },
+        {
+          "action": "沟通界限并让对方选择",
+          "atom_ids": [
+            "s-30bef53b4a09-c001:a009",
+            "s-30bef53b4a09-c001:a016",
+            "s-30bef53b4a09-c002:a012",
+            "s-30bef53b4a09-c003:a003"
+          ],
+          "condition": "需要与对方沟通界限时"
+        },
+        {
+          "action": "执行后果并层层递进",
+          "atom_ids": [
+            "s-30bef53b4a09-c001:a002",
+            "s-30bef53b4a09-c001:a017",
+            "s-30bef53b4a09-c001:a019",
+            "s-30bef53b4a09-c001:r001",
+            "s-30bef53b4a09-c002:a003",
+            "s-30bef53b4a09-c002:a004",
+            "s-30bef53b4a09-c002:a009"
+          ],
+          "condition": "当对方违反界限时"
+        },
+        {
+          "action": "允许时间沉淀，持续实践",
+          "atom_ids": [
+            "s-30bef53b4a09-c002:a010",
+            "s-30bef53b4a09-c002:a011"
+          ],
+          "condition": "立界限后需要耐心等待效果"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "f79cfb5fb7b947fae46f9c82b74e7a4aa73ed3750ce239dc914cb8d5a57da7b3",
+  "point_units": [
+    {
+      "id": "s-30bef53b4a09-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a002"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a003"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a004"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a005"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a006"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00017",
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a007"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a008"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a009"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a010"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a011"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022",
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a014"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a012"
+      ],
+      "blocks": [
+        "b00022",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a013"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023",
+        "b00024",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a015"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029",
+        "b00030",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a016"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a017"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a018"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:a019"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:r001"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a004"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c001:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a001"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044",
+        "b00045",
+        "b00056",
+        "b00057",
+        "b00058",
+        "b00059",
+        "b00063",
+        "b00065",
+        "b00066",
+        "b00070",
+        "b00071",
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a002"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u003",
+      "kind": "method",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a003"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048",
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u004",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a004"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a005"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a006"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052",
+        "b00053",
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a007"
+      ],
+      "blocks": [
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a008"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a009"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u010",
+      "kind": "condition",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a010"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u011",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a011"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00063",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a012"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067",
+        "b00068",
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a013"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u014",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a014"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075",
+        "b00076",
+        "b00077",
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u015",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a015"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082",
+        "b00083",
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u017",
+      "kind": "principle",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:xe001"
+      ],
+      "blocks": [
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u018",
+      "kind": "principle",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:xe004"
+      ],
+      "blocks": [
+        "b00080",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c002:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c003:u0001",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:a016"
+      ],
+      "blocks": [
+        "b00086",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c003:u0002",
+      "kind": "method",
+      "atom_ids": [
+        "s-30bef53b4a09-c003:a001"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085",
+        "b00086",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c003:u0003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-30bef53b4a09-c003:a002"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c003:u0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-30bef53b4a09-c003:a003"
+      ],
+      "blocks": [
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c003:u0005",
+      "kind": "method",
+      "atom_ids": [
+        "s-30bef53b4a09-c003:a004"
+      ],
+      "blocks": [
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-30bef53b4a09-c003:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-30bef53b4a09-c003:a005"
+      ],
+      "blocks": [
+        "b00092"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "种什么收什么：不能让孩子绕过后果",
+      "atom_ids": [
+        "s-30bef53b4a09-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-30bef53b4a09",
+          "blocks": [
+            "b00043",
+            "b00044"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "真实案例：三年前未学习，现在孩子骂妈妈砸门",
+      "atom_ids": [
+        "s-30bef53b4a09-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-30bef53b4a09",
+          "blocks": [
+            "b00064",
+            "b00065"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "example"
+    }
+  ]
+}

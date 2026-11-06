@@ -1,0 +1,2046 @@
+{
+  "concepts": [
+    {
+      "name": "处理矛盾的能力",
+      "definition": "人在进入矛盾后能够缓解矛盾的能力。在中国家庭中，人们常被教育避免矛盾，因此进入矛盾后缓解矛盾的能力较弱。",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a001"
+      ]
+    },
+    {
+      "name": "亲密关系必然产生矛盾",
+      "definition": "只要人与人之间产生稍微亲密一点的关系，无论是工作合作、朋友、夫妻还是亲子关系，只要关系不肤浅、不表层，就一定会产生矛盾。",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a002"
+      ]
+    },
+    {
+      "name": "从未吵架的朋友关系是肤浅的",
+      "definition": "如果两个人自称是好朋友或闺蜜但从未出现过矛盾，他们的关系是非常表象、非常肤浅的。",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a003"
+      ]
+    },
+    {
+      "name": "不会处理矛盾的两种极端结果",
+      "definition": "如果孩子不会处理矛盾，会有两种极端结果：第一种是孩子为了避免矛盾而讨好别人，变成讨好型的人、背锅侠、老好人或软壳虾；第二种是孩子变成全身长刺的刺猬，用最强烈、最激烈、最凶悍的方式处理矛盾，反而激化矛盾。",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a004"
+      ]
+    },
+    {
+      "name": "父母对矛盾的误区",
+      "definition": "误区一：认为处理矛盾就是息事宁人，常用“算啦算啦，不要跟他计较”来冷处理，认为这是解决矛盾的最好方法。误区二：认为处理矛盾要会忍耐，常说“退一步海阔天空”。但忍耐应有意义和目标，不能只是忍而自己内爆。忍耐的目的是为了更好、更美满、更健康地处理矛盾，而不是不处理矛盾。误区三：认为解决矛盾最关键的是会沟通。但处理矛盾不仅仅是沟通，一个很会沟通的人也可能很不会处理矛盾。",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a006",
+        "s-802d9fcc2823-c001:a007",
+        "s-802d9fcc2823-c001:a008"
+      ]
+    },
+    {
+      "name": "止损能力",
+      "definition": "培养孩子处理矛盾能力的第一点是培养止损能力（damage control），即防止矛盾变得更加糟糕。止损不是逃避矛盾，有时可能以激烈的方式停止行为，但目的是防止关系变得更糟。",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a011"
+      ]
+    },
+    {
+      "name": "训练止损能力的方法",
+      "definition": "训练孩子止损能力的方法是经常问孩子“你觉得这样下去会有什么样的结果”，帮助孩子预判后果。孩子因果关系和预判能力较弱，需要经常提醒继续这样下去会有什么后果，以及这个后果是否想要。",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a012"
+      ]
+    },
+    {
+      "name": "止损需要搞清楚损的源头",
+      "definition": "止损除了预判能力，还需要搞清楚究竟发生什么事情，在哪个点止损。例如面对谣言，止损的关键是让造谣者停止造谣并澄清，而不是向所有听到谣言的人解释。",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a014"
+      ]
+    },
+    {
+      "name": "道德绑架的止损选择",
+      "definition": "面对道德绑架，止损的选择是维护关系希望对方停止道德绑架，还是远离对方。很多人选择前者，因为不知道止损究竟要止什么损，导致无法做出正确判断。",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a015"
+      ]
+    },
+    {
+      "name": "发现矛盾的真正点",
+      "definition": "培养孩子处理矛盾能力的第二点是发现矛盾的真正点在什么地方，究竟是什么引发了两者之间因为不同而导致矛盾。",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a016"
+      ]
+    },
+    {
+      "name": "矛盾源于感受到威胁而非意见不同",
+      "definition": "从来没有人会因为意见不同而产生矛盾。矛盾产生是因为不同感受到了威胁，不管威胁是否真实存在。当感受到威胁时，矛盾就产生了。",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a017"
+      ]
+    },
+    {
+      "name": "忽略或回避矛盾会加速矛盾激化",
+      "definition": "当双方忽略矛盾、回避矛盾或压抑矛盾时，矛盾反而激化得更快。即使表面风平浪静，矛盾仍存在于潜意识中影响双方，导致翻旧账。",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a020",
+        "s-802d9fcc2823-c002:a001"
+      ]
+    },
+    {
+      "name": "未解决的威胁导致翻旧账",
+      "definition": "夫妻吵架时翻旧账，是因为过去事件背后的威胁感至今仍然存在。虽然事件本身已不再发生，但被威胁的感觉一直在重复发生，所以当事人会觉得那件事就是矛盾。",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a002"
+      ]
+    },
+    {
+      "name": "矛盾源于个人认知而非客观事实",
+      "definition": "每个人面对矛盾时都认为自己所看到的是绝对正确的真理，很难理解对方为何有不同认知。但每个人都是基于自己对事情的认知来应对矛盾，而不是根据客观事实。矛盾的产生往往不是因为事实、道理或真理，而是因为每个人的认知不同。",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a004"
+      ]
+    },
+    {
+      "name": "认知受生活经历、文化、价值观等影响",
+      "definition": "每个人的认知受生活经历、文化、价值观、信仰、信念、世界观等影响。因此不同不代表必须对立，即使做的事情截然相反，也是因为认知不同。",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a006"
+      ]
+    },
+    {
+      "name": "矛盾带来强烈情绪，压抑情绪阻碍解决矛盾",
+      "definition": "矛盾会带出非常强烈的情绪。如果孩子对自己的情绪不能接受，比如压抑情绪，或无法分辨情绪背后的二层、三层情绪，就很难成功解决矛盾。解决矛盾需要知道究竟是什么让自己想进入矛盾，究竟是什么让自己生气、愤怒，它到底带给自己什么。",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a008"
+      ]
+    },
+    {
+      "name": "训练孩子认识并接纳自己的情绪",
+      "definition": "平时要训练孩子理解、认识并接受自己的情绪。例如孩子生气时问“你现在是不是很生气”，很多孩子会否认，要帮助孩子接纳情绪，如说“是的，我现在非常生气，你看到我哭，你还在笑，我觉得你没有关心我”。",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a009"
+      ]
+    },
+    {
+      "name": "忘记约会不是矛盾点，关系破裂才是",
+      "definition": "忘记约会从来不是矛盾的点。如果关系很好、感情很好，对方忙忘了会非常体谅。正是因为关系感情已经破裂、已经不对了，所以忘记才印证了内心深处很多情绪。",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a011"
+      ]
+    },
+    {
+      "name": "矛盾是关系成长的机会",
+      "definition": "矛盾的出现意味着关系可以更进一步。任何没有经过矛盾验证的关系都不是安全的。生死之交之间有过撕扯挣扎，关系非常紧靠。大量信任是通过矛盾以及处理矛盾的方式建立起来的。关系经历挑战、矛盾过后，哪怕不同意对方，关系仍能被建立，就知道关系是安全的。",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a012"
+      ]
+    },
+    {
+      "name": "帮助孩子把矛盾看成机会",
+      "definition": "培养孩子时，要帮助孩子看到矛盾后面的优点和好处，把矛盾看成机会而不是可怕的东西。先在思想上预备孩子，让孩子面对矛盾时有积极心态，而不是消极被动。让孩子觉得有不同，关系可以因不同而变得更亲密。",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a013"
+      ]
+    },
+    {
+      "name": "回应矛盾的第一步：快速解压保持冷静",
+      "definition": "回应矛盾的能力第一步是快速解压，即快速把感受到的压力缓解，然后保持冷静。只有冷静时才能正确体会和解释所收到的对方信息。",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a014"
+      ]
+    },
+    {
+      "name": "压力干扰处理矛盾的能力",
+      "definition": "压力会干扰处理矛盾的能力。压力会阻止正确阅读别人传递的信息，阻碍听到对方真正想传递的信息，扭曲信息，让人无法认识自己的感受和了解内心深处想做什么、需要什么，也无法清楚表达需要。",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a017"
+      ]
+    },
+    {
+      "name": "舒缓压力的方法",
+      "definition": "要很快把压力释放出去，例如暂时离开一下，出去走一走，深呼吸。讲师推荐看《家庭焦虑情绪手册》，里面有很多缓解焦虑和压力的方法。",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a018"
+      ]
+    },
+    {
+      "name": "训练孩子注意对方情绪并对症下药",
+      "definition": "要训练孩子注意对方表达出来的情绪，对症下药。进入矛盾是因为情绪里感受到威胁，如果能明白对方受到的威胁是什么，就能更好控场、帮助对方缓解矛盾。要发现对方害怕的点是什么，经常问：“是什么点让你生气？是什么点让你害怕？是什么点让你不同意？”找到这个点就是对症下药。孩子需要有发现并尊重不同的能力，去发现不同到底在什么地方。",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a019"
+      ]
+    },
+    {
+      "name": "发现并尊重矛盾中的真正不同点",
+      "definition": "处理矛盾时，要发现对方害怕或生气的具体点，通过问“是什么点让你生气/害怕/不同意”来找到真正不同点，从而对症下药。",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a001"
+      ]
+    },
+    {
+      "name": "发现真正不同点可促进尊重与有效沟通",
+      "definition": "当发现真正不同点后，双方可以理解并尊重彼此的不同，即使不同意也尊重对方的想法，从而避免侮辱性言语和行为，使矛盾处理更聚焦。",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a003"
+      ]
+    },
+    {
+      "name": "帮助孩子对情绪敏感以解决矛盾",
+      "definition": "家长应帮助孩子对自己和他人的情绪保持敏感，这是解决矛盾的关键。情绪敏感能帮助孩子认识到为什么事情让对方不高兴，以及为什么让自己不高兴，基于这两点认识，孩子可以进行有效且清晰的沟通。",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a004"
+      ]
+    },
+    {
+      "name": "沟通不畅的原因在于未抓住关键点",
+      "definition": "沟通吃力不是因为说话方式不对，而是因为没有抓住对方的关键点。当知道对方的点在什么地方时，可以一针见血地传递直达对方心里的信息，使沟通有效且清晰。",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a005"
+      ]
+    },
+    {
+      "name": "了解对方情绪可有效影响对方",
+      "definition": "当孩子能够明白对方的点并了解对方的情绪时，可以更有效地影响对方。通过处理对方的情绪，可以影响对方的行为，从而更有效地处理矛盾，且不伤害对方。",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a006"
+      ]
+    },
+    {
+      "name": "捕捉矛盾中的共同认同点",
+      "definition": "在矛盾中，除了关注不同点，还要训练孩子捕捉彼此认同的共同点。如果只纠结于不同点，可能陷入无解；找到共同点并暂时放下激化矛盾的点，争执会更有果效。",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a007"
+      ]
+    },
+    {
+      "name": "家长通过示范寻找共同点来训练孩子",
+      "definition": "家长可以在家中与孩子演练，通过自己找到与孩子的共同认同点，而不是纠结于矛盾问题，向孩子展示如何寻找共同点，从而更容易解决关系中的矛盾。",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a009"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-802d9fcc2823-c001:a001",
+      "target": "s-802d9fcc2823-c001:a002",
+      "kind": "prerequisite",
+      "condition": "处理矛盾的能力是在亲密关系必然产生矛盾的前提下需要的",
+      "reason": "因为亲密关系必然产生矛盾，所以需要处理矛盾的能力"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a001",
+      "target": "s-802d9fcc2823-c001:a004",
+      "kind": "causes",
+      "condition": "如果孩子不会处理矛盾",
+      "reason": "不会处理矛盾导致两种极端结果"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a006",
+      "target": "s-802d9fcc2823-c001:a007",
+      "kind": "step_of",
+      "condition": "父母对矛盾的误区",
+      "reason": "误区一和误区二都是父母对矛盾的错误认识"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a006",
+      "target": "s-802d9fcc2823-c001:a008",
+      "kind": "step_of",
+      "condition": "父母对矛盾的误区",
+      "reason": "误区一和误区三都是父母对矛盾的错误认识"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a007",
+      "target": "s-802d9fcc2823-c001:a008",
+      "kind": "step_of",
+      "condition": "父母对矛盾的误区",
+      "reason": "误区二和误区三都是父母对矛盾的错误认识"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a011",
+      "target": "s-802d9fcc2823-c001:a012",
+      "kind": "step_of",
+      "condition": "培养止损能力",
+      "reason": "训练止损能力的方法是培养止损能力的具体步骤"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a011",
+      "target": "s-802d9fcc2823-c001:a014",
+      "kind": "step_of",
+      "condition": "培养止损能力",
+      "reason": "“止损需要搞清楚损的源头”是“培养处理矛盾能力的第一点：止损能力”的具体组成部分。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "步骤关系成立。"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a011",
+      "target": "s-802d9fcc2823-c001:a015",
+      "kind": "applies_to",
+      "condition": "面对道德绑架时",
+      "reason": "道德绑架的止损选择是止损能力在具体情境中的应用"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a016",
+      "target": "s-802d9fcc2823-c001:a017",
+      "kind": "prerequisite",
+      "condition": "发现矛盾的真正点需要理解矛盾源于威胁",
+      "reason": "“矛盾源于感受到威胁而非意见不同”是理解“发现矛盾的真正点”的前提。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "前提关系成立。"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a017",
+      "target": "s-802d9fcc2823-c001:a020",
+      "kind": "association",
+      "condition": "当讨论矛盾激化机制时",
+      "reason": "“矛盾源于感受到威胁而非意见不同”说明矛盾起因，“忽略或回避矛盾会加速矛盾激化”说明处理方式的影响，两者共同讨论矛盾机制但未构成直接支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原causes不在允许类型且因果证据不足，改为association。"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a020",
+      "target": "s-802d9fcc2823-c002:a002",
+      "kind": "causes",
+      "condition": "未解决的威胁导致翻旧账",
+      "reason": "忽略或回避矛盾导致威胁未解决，从而翻旧账"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a004",
+      "target": "s-802d9fcc2823-c002:a006",
+      "kind": "supports",
+      "condition": "认知受生活经历、文化、价值观等影响",
+      "reason": "认知受多种因素影响，支持了矛盾源于个人认知的观点"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a008",
+      "target": "s-802d9fcc2823-c002:a009",
+      "kind": "step_of",
+      "condition": "训练孩子认识并接纳自己的情绪",
+      "reason": "训练孩子认识并接纳自己的情绪是解决矛盾中情绪问题的具体方法"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a012",
+      "target": "s-802d9fcc2823-c002:a013",
+      "kind": "step_of",
+      "condition": "帮助孩子把矛盾看成机会",
+      "reason": "帮助孩子把矛盾看成机会是让孩子理解矛盾是关系成长机会的教育方法"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a014",
+      "target": "s-802d9fcc2823-c002:a017",
+      "kind": "causes",
+      "condition": "压力干扰处理矛盾的能力",
+      "reason": "因为压力干扰处理矛盾的能力，所以需要快速解压保持冷静"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a014",
+      "target": "s-802d9fcc2823-c002:a018",
+      "kind": "step_of",
+      "condition": "舒缓压力的方法",
+      "reason": "舒缓压力的方法是实现快速解压的具体手段"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a019",
+      "target": "s-802d9fcc2823-c003:a001",
+      "kind": "supports",
+      "condition": "发现并尊重矛盾中的真正不同点",
+      "reason": "训练孩子注意对方情绪并对症下药与发现并尊重矛盾中的真正不同点方法一致"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a001",
+      "target": "s-802d9fcc2823-c003:a003",
+      "kind": "causes",
+      "condition": "发现真正不同点后",
+      "reason": "发现真正不同点可促进尊重与有效沟通"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a004",
+      "target": "s-802d9fcc2823-c003:a005",
+      "kind": "supports",
+      "condition": "沟通不畅的原因在于未抓住关键点",
+      "reason": "情绪敏感帮助抓住关键点，从而改善沟通"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a004",
+      "target": "s-802d9fcc2823-c003:a006",
+      "kind": "supports",
+      "condition": "当孩子对情绪敏感并了解对方情绪时",
+      "reason": "“帮助孩子对情绪敏感以解决矛盾”强调情绪敏感有助于了解对方，支持“了解对方情绪可有效影响对方”的结论。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原causes改为supports，因为情绪敏感是了解情绪进而影响对方的基础。"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a007",
+      "target": "s-802d9fcc2823-c003:a009",
+      "kind": "supports",
+      "condition": "当家长训练孩子捕捉共同认同时",
+      "reason": "“捕捉矛盾中的共同认同点”作为解决矛盾的重要策略，支持家长通过示范来训练孩子的方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of方向不准确，改为supports；家长示范是训练该能力的实践。"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n002",
+      "target": "s-802d9fcc2823-c001:a008",
+      "kind": "complements",
+      "condition": "当讨论父母对矛盾的误区三时。",
+      "reason": "source 概括说父母有错误认知，a008 补充了误区三的具体内容：认为解决矛盾最关键的是会沟通，但事实并非如此。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a008",
+      "target": "s-802d9fcc2823-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论父母对矛盾的误区三时。",
+      "reason": "source 概括说父母有错误认知，a008 补充了误区三的具体内容：认为解决矛盾最关键的是会沟通，但事实并非如此。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n002",
+      "target": "s-802d9fcc2823-c001:a007",
+      "kind": "complements",
+      "condition": "当讨论父母对矛盾的误区二时。",
+      "reason": "source 未列出具体误区，a007 补充了误区二：认为处理矛盾要会忍耐，常说退一步海阔天空，但忍耐应有意义和目标。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a007",
+      "target": "s-802d9fcc2823-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论父母对矛盾的误区二时。",
+      "reason": "source 未列出具体误区，a007 补充了误区二：认为处理矛盾要会忍耐，常说退一步海阔天空，但忍耐应有意义和目标。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n002",
+      "target": "s-802d9fcc2823-c001:a006",
+      "kind": "complements",
+      "condition": "当讨论父母对矛盾的误区一时。",
+      "reason": "source 未列出具体误区，a006 补充了误区一：认为处理矛盾就是息事宁人，用“算啦算啦”冷处理，这是错误认知。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a006",
+      "target": "s-802d9fcc2823-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论父母对矛盾的误区一时。",
+      "reason": "source 未列出具体误区，a006 补充了误区一：认为处理矛盾就是息事宁人，用“算啦算啦”冷处理，这是错误认知。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n002",
+      "target": "s-802d9fcc2823-c001:a011",
+      "kind": "association",
+      "condition": "当关注如何培养孩子处理矛盾能力时。",
+      "reason": "a011 是培养能力的第一点（止损能力），与 source 关注的误区原因不同，但属于后续培养方法，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a011",
+      "target": "s-802d9fcc2823-c001:v2-n002",
+      "kind": "association",
+      "condition": "当关注如何培养孩子处理矛盾能力时。",
+      "reason": "a011 是培养能力的第一点（止损能力），与 source 关注的误区原因不同，但属于后续培养方法，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n002",
+      "target": "s-802d9fcc2823-c001:a016",
+      "kind": "association",
+      "condition": "当关注如何培养孩子处理矛盾能力时。",
+      "reason": "a016 是培养能力的第二点（发现矛盾真正点），与 source 误区原因无直接关系，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a016",
+      "target": "s-802d9fcc2823-c001:v2-n002",
+      "kind": "association",
+      "condition": "当关注如何培养孩子处理矛盾能力时。",
+      "reason": "a016 是培养能力的第二点（发现矛盾真正点），与 source 误区原因无直接关系，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n002",
+      "target": "s-802d9fcc2823-c002:a004",
+      "kind": "association",
+      "condition": "当讨论矛盾产生的认知基础时。",
+      "reason": "source 说父母对矛盾有错误认知，a004 说矛盾源于个人认知差异；两者相关但 a004 未解释具体误区，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a004",
+      "target": "s-802d9fcc2823-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论矛盾产生的认知基础时。",
+      "reason": "source 说父母对矛盾有错误认知，a004 说矛盾源于个人认知差异；两者相关但 a004 未解释具体误区，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n002",
+      "target": "s-802d9fcc2823-c001:a004",
+      "kind": "association",
+      "condition": "当讨论不培养处理矛盾的后果时。",
+      "reason": "source 关注误区导致不培养，a004 描述不会处理矛盾的两种极端结果；后果与原因相关，但非直接补充误区。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a004",
+      "target": "s-802d9fcc2823-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论不培养处理矛盾的后果时。",
+      "reason": "source 关注误区导致不培养，a004 描述不会处理矛盾的两种极端结果；后果与原因相关，但非直接补充误区。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n002",
+      "target": "s-802d9fcc2823-c001:a001",
+      "kind": "association",
+      "condition": "当讨论处理矛盾能力的定义时。",
+      "reason": "source 未涉及定义，a001 定义处理矛盾能力；与误区原因无直接关联，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a001",
+      "target": "s-802d9fcc2823-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论处理矛盾能力的定义时。",
+      "reason": "source 未涉及定义，a001 定义处理矛盾能力；与误区原因无直接关联，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n002",
+      "target": "s-802d9fcc2823-c002:a017",
+      "kind": "association",
+      "condition": "当讨论压力对处理矛盾的影响时。",
+      "reason": "source 关于误区，a017 谈压力干扰处理矛盾；两者不相关，仅同属矛盾处理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a017",
+      "target": "s-802d9fcc2823-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论压力对处理矛盾的影响时。",
+      "reason": "source 关于误区，a017 谈压力干扰处理矛盾；两者不相关，仅同属矛盾处理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n002",
+      "target": "s-802d9fcc2823-c002:a013",
+      "kind": "association",
+      "condition": "当讨论培养孩子积极面对矛盾时。",
+      "reason": "source 说误区导致不培养，a013 是帮助孩子把矛盾看成机会；属于培养方法的正面建议，与误区原因无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a013",
+      "target": "s-802d9fcc2823-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论培养孩子积极面对矛盾时。",
+      "reason": "source 说误区导致不培养，a013 是帮助孩子把矛盾看成机会；属于培养方法的正面建议，与误区原因无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n002",
+      "target": "s-802d9fcc2823-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论亲子冲突产生机制时。",
+      "reason": "source 未涉及冲突如何产生，v2-n001 说亲子冲突因双方感受到威胁；两者有潜在背景关联但无法直接支撑误区。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:v2-n001",
+      "target": "s-802d9fcc2823-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论亲子冲突产生机制时。",
+      "reason": "source 未涉及冲突如何产生，v2-n001 说亲子冲突因双方感受到威胁；两者有潜在背景关联但无法直接支撑误区。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n002",
+      "target": "s-802d9fcc2823-c002:r001",
+      "kind": "association",
+      "condition": "当讨论引导孩子接受不同选择时。",
+      "reason": "source 未提及具体引导方法，r001 是引导孩子接受不同选择；与误区无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:r001",
+      "target": "s-802d9fcc2823-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论引导孩子接受不同选择时。",
+      "reason": "source 未提及具体引导方法，r001 是引导孩子接受不同选择；与误区无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n003",
+      "target": "s-802d9fcc2823-c002:a001",
+      "kind": "complements",
+      "condition": "当双方忽略、回避或压抑矛盾时。",
+      "reason": "source 说明回避压抑导致矛盾加速激化，a001 几乎重复并补充了威胁和危险没有被解除而是被规避过去，一直存在于潜意识中的表述，使机制更清晰。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a001",
+      "target": "s-802d9fcc2823-c001:v2-n003",
+      "kind": "complements",
+      "condition": "当双方忽略、回避或压抑矛盾时。",
+      "reason": "source 说明回避压抑导致矛盾加速激化，a001 几乎重复并补充了威胁和危险没有被解除而是被规避过去，一直存在于潜意识中的表述，使机制更清晰。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n003",
+      "target": "s-802d9fcc2823-c001:a020",
+      "kind": "complements",
+      "condition": "当双方忽略、回避或压抑矛盾时。",
+      "reason": "source 提及翻旧账，a020 明确补充了“导致翻旧账”的后果表述，与 source 一致并强化了观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a020",
+      "target": "s-802d9fcc2823-c001:v2-n003",
+      "kind": "complements",
+      "condition": "当双方忽略、回避或压抑矛盾时。",
+      "reason": "source 提及翻旧账，a020 明确补充了“导致翻旧账”的后果表述，与 source 一致并强化了观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n003",
+      "target": "s-802d9fcc2823-c002:a002",
+      "kind": "complements",
+      "condition": "当分析夫妻翻旧账的心理机制时。",
+      "reason": "source 解释翻旧账是因为威胁感仍在重复发生，a002 更详细说明了过去事件背后的威胁感至今存在，所以当事人觉得那件事就是矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a002",
+      "target": "s-802d9fcc2823-c001:v2-n003",
+      "kind": "complements",
+      "condition": "当分析夫妻翻旧账的心理机制时。",
+      "reason": "source 解释翻旧账是因为威胁感仍在重复发生，a002 更详细说明了过去事件背后的威胁感至今存在，所以当事人觉得那件事就是矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n003",
+      "target": "s-802d9fcc2823-c002:a010",
+      "kind": "association",
+      "condition": "当用具体案例说明压抑情绪导致矛盾累积时。",
+      "reason": "a010 提供压抑约会失望情绪的案例，展示压抑导致矛盾累积，可作为 source 的实例；但因方向限制不能标 example_of，故用 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a010",
+      "target": "s-802d9fcc2823-c001:v2-n003",
+      "kind": "association",
+      "condition": "当用具体案例说明压抑情绪导致矛盾累积时。",
+      "reason": "a010 提供压抑约会失望情绪的案例，展示压抑导致矛盾累积，可作为 source 的实例；但因方向限制不能标 example_of，故用 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n003",
+      "target": "s-802d9fcc2823-c002:a008",
+      "kind": "complements",
+      "condition": "当涉及强烈情绪与解决矛盾的关系时。",
+      "reason": "source 未讨论情绪细节，a008 补充了矛盾带来强烈情绪，压抑情绪会阻碍解决矛盾，需要分辨二层三层情绪。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a008",
+      "target": "s-802d9fcc2823-c001:v2-n003",
+      "kind": "complements",
+      "condition": "当涉及强烈情绪与解决矛盾的关系时。",
+      "reason": "source 未讨论情绪细节，a008 补充了矛盾带来强烈情绪，压抑情绪会阻碍解决矛盾，需要分辨二层三层情绪。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n003",
+      "target": "s-802d9fcc2823-c001:a017",
+      "kind": "complements",
+      "condition": "当讨论矛盾产生的根本原因时。",
+      "reason": "source 提及威胁和危险未被解除，a017 补充前提：矛盾产生是因为不同让一方感受到威胁，而非意见不同本身。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a017",
+      "target": "s-802d9fcc2823-c001:v2-n003",
+      "kind": "complements",
+      "condition": "当讨论矛盾产生的根本原因时。",
+      "reason": "source 提及威胁和危险未被解除，a017 补充前提：矛盾产生是因为不同让一方感受到威胁，而非意见不同本身。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n003",
+      "target": "s-802d9fcc2823-c001:a019",
+      "kind": "association",
+      "condition": "当讨论亲子冲突中的威胁时。",
+      "reason": "a019 案例展示孩子不想读书引发的冲突，双方感到威胁，与 source 中威胁未解除有一定关联，但案例焦点是冲突产生而非回避激化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a019",
+      "target": "s-802d9fcc2823-c001:v2-n003",
+      "kind": "association",
+      "condition": "当讨论亲子冲突中的威胁时。",
+      "reason": "a019 案例展示孩子不想读书引发的冲突，双方感到威胁，与 source 中威胁未解除有一定关联，但案例焦点是冲突产生而非回避激化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n003",
+      "target": "s-802d9fcc2823-c002:v2-n001",
+      "kind": "association",
+      "condition": "当区分矛盾产生与激化阶段时。",
+      "reason": "source 关注回避压抑导致激化，v2-n001 关注威胁导致矛盾产生，两者阶段不同，但都涉及威胁，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:v2-n001",
+      "target": "s-802d9fcc2823-c001:v2-n003",
+      "kind": "association",
+      "condition": "当区分矛盾产生与激化阶段时。",
+      "reason": "source 关注回避压抑导致激化，v2-n001 关注威胁导致矛盾产生，两者阶段不同，但都涉及威胁，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n003",
+      "target": "s-802d9fcc2823-c002:a003",
+      "kind": "association",
+      "condition": "当用案例说明长期未处理矛盾导致关系恶化时。",
+      "reason": "a003 出轨案例展示底层矛盾未解决导致反复吵架，与 source 回避压抑加速激化原则相符，但案例角色为夫妻，场景不同，使用 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a003",
+      "target": "s-802d9fcc2823-c001:v2-n003",
+      "kind": "association",
+      "condition": "当用案例说明长期未处理矛盾导致关系恶化时。",
+      "reason": "a003 出轨案例展示底层矛盾未解决导致反复吵架，与 source 回避压抑加速激化原则相符，但案例角色为夫妻，场景不同，使用 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n003",
+      "target": "s-802d9fcc2823-c001:a016",
+      "kind": "association",
+      "condition": "当讨论如何发现矛盾真正点时。",
+      "reason": "source 未涉及解决矛盾的步骤，a016 是发现矛盾真正点；与回避压抑导致激化无直接因果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a016",
+      "target": "s-802d9fcc2823-c001:v2-n003",
+      "kind": "association",
+      "condition": "当讨论如何发现矛盾真正点时。",
+      "reason": "source 未涉及解决矛盾的步骤，a016 是发现矛盾真正点；与回避压抑导致激化无直接因果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n003",
+      "target": "s-802d9fcc2823-c003:v2-n001",
+      "kind": "association",
+      "condition": "当讨论其他导致矛盾无解的错误方式时。",
+      "reason": "source 说回避压抑导致激化，v2-n001 说只看重不同点导致无解；两者同为矛盾处理不当，但机制不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n001",
+      "target": "s-802d9fcc2823-c001:v2-n003",
+      "kind": "association",
+      "condition": "当讨论其他导致矛盾无解的错误方式时。",
+      "reason": "source 说回避压抑导致激化，v2-n001 说只看重不同点导致无解；两者同为矛盾处理不当，但机制不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n003",
+      "target": "s-802d9fcc2823-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论父母不培养孩子处理矛盾的原因时。",
+      "reason": "source 是矛盾激化机制，v2-n002 是父母不培养的原因（误区）；两者无直接关系，仅同属矛盾处理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:v2-n002",
+      "target": "s-802d9fcc2823-c001:v2-n003",
+      "kind": "association",
+      "condition": "当讨论父母不培养孩子处理矛盾的原因时。",
+      "reason": "source 是矛盾激化机制，v2-n002 是父母不培养的原因（误区）；两者无直接关系，仅同属矛盾处理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:v2-n001",
+      "target": "s-802d9fcc2823-c001:a019",
+      "kind": "association",
+      "condition": "在亲子冲突的具体场景中",
+      "reason": "source 提出亲子冲突源于双方感受到威胁；target 提供了孩子不想读书引发争吵的具体案例，其中母亲感到孩子不读书的威胁，孩子感到提出不同想法后被父母打压的威胁，案例内容与 source 所述机制一致，但 source 为抽象概念，不宜用 example_of，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a019",
+      "target": "s-802d9fcc2823-c002:v2-n001",
+      "kind": "association",
+      "condition": "在亲子冲突的具体场景中",
+      "reason": "source 提出亲子冲突源于双方感受到威胁；target 提供了孩子不想读书引发争吵的具体案例，其中母亲感到孩子不读书的威胁，孩子感到提出不同想法后被父母打压的威胁，案例内容与 source 所述机制一致，但 source 为抽象概念，不宜用 example_of，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:v2-n001",
+      "target": "s-802d9fcc2823-c001:a017",
+      "kind": "complements",
+      "condition": "在分析矛盾产生的根本原因时",
+      "reason": "source 具体描述了亲子冲突中双方感受到威胁的表现；target 提供了更普遍的结论：矛盾源于威胁而非意见不同本身。二者相互补充，source 补充了亲子情境下的具体威胁内容，target 补充了普遍原理。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a017",
+      "target": "s-802d9fcc2823-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在分析矛盾产生的根本原因时",
+      "reason": "source 具体描述了亲子冲突中双方感受到威胁的表现；target 提供了更普遍的结论：矛盾源于威胁而非意见不同本身。二者相互补充，source 补充了亲子情境下的具体威胁内容，target 补充了普遍原理。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:v2-n001",
+      "target": "s-802d9fcc2823-c002:a019",
+      "kind": "complements",
+      "condition": "在从矛盾产生到解决的过程中",
+      "reason": "source 指出矛盾源于感受到威胁；target 提供了处理威胁的方法：注意对方情绪并找到害怕的点对症下药。source 指出问题根源，target 给出解决策略，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a019",
+      "target": "s-802d9fcc2823-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在从矛盾产生到解决的过程中",
+      "reason": "source 指出矛盾源于感受到威胁；target 提供了处理威胁的方法：注意对方情绪并找到害怕的点对症下药。source 指出问题根源，target 给出解决策略，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:v2-n001",
+      "target": "s-802d9fcc2823-c002:a005",
+      "kind": "association",
+      "condition": "在父母对孩子成绩的威胁感受上",
+      "reason": "source 指出父母感到孩子不读书是威胁；target 通过具体案例展示了不同母亲因学历认知差异对孩子成绩的威胁感受不同，与 source 所述父母将孩子不读书视为威胁相符，但案例为个体认知差异，非亲子间双向威胁，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a005",
+      "target": "s-802d9fcc2823-c002:v2-n001",
+      "kind": "association",
+      "condition": "在父母对孩子成绩的威胁感受上",
+      "reason": "source 指出父母感到孩子不读书是威胁；target 通过具体案例展示了不同母亲因学历认知差异对孩子成绩的威胁感受不同，与 source 所述父母将孩子不读书视为威胁相符，但案例为个体认知差异，非亲子间双向威胁，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:v2-n001",
+      "target": "s-802d9fcc2823-c002:a008",
+      "kind": "association",
+      "condition": "在矛盾的情绪体验和解决上",
+      "reason": "source 指出矛盾源于威胁感；target 强调解决矛盾需要知道是什么让自己想进入矛盾，可能与威胁相关，但未明确指明，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a008",
+      "target": "s-802d9fcc2823-c002:v2-n001",
+      "kind": "association",
+      "condition": "在矛盾的情绪体验和解决上",
+      "reason": "source 指出矛盾源于威胁感；target 强调解决矛盾需要知道是什么让自己想进入矛盾，可能与威胁相关，但未明确指明，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:v2-n001",
+      "target": "s-802d9fcc2823-c001:a018",
+      "kind": "association",
+      "condition": "在比较不同关系中的矛盾产生机制时",
+      "reason": "source 描述亲子冲突中的威胁感；target 展示了夫妻因戴口罩问题争吵，双方也因感受到威胁而产生矛盾，机制类似但角色不同，故仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a018",
+      "target": "s-802d9fcc2823-c002:v2-n001",
+      "kind": "association",
+      "condition": "在比较不同关系中的矛盾产生机制时",
+      "reason": "source 描述亲子冲突中的威胁感；target 展示了夫妻因戴口罩问题争吵，双方也因感受到威胁而产生矛盾，机制类似但角色不同，故仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:v2-n001",
+      "target": "s-802d9fcc2823-c003:a004",
+      "kind": "complements",
+      "condition": "在解决矛盾的策略上",
+      "reason": "source 指出矛盾源于威胁感；target 提供方法：培养情绪敏感以识别对方不高兴的原因，有助于处理威胁，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a004",
+      "target": "s-802d9fcc2823-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在解决矛盾的策略上",
+      "reason": "source 指出矛盾源于威胁感；target 提供方法：培养情绪敏感以识别对方不高兴的原因，有助于处理威胁，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:v2-n001",
+      "target": "s-802d9fcc2823-c002:a001",
+      "kind": "association",
+      "condition": "在矛盾的发展和处理上",
+      "reason": "source 关注矛盾产生的原因（威胁感）；target 关注回避矛盾导致的激化后果，两者同属矛盾主题但无直接因果或前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a001",
+      "target": "s-802d9fcc2823-c002:v2-n001",
+      "kind": "association",
+      "condition": "在矛盾的发展和处理上",
+      "reason": "source 关注矛盾产生的原因（威胁感）；target 关注回避矛盾导致的激化后果，两者同属矛盾主题但无直接因果或前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n001",
+      "target": "s-802d9fcc2823-c003:a007",
+      "kind": "complements",
+      "condition": "在矛盾处理策略上",
+      "reason": "source 指出只看重不同点会陷入无解；target 提出相反策略：捕捉共同点并暂时放下激化点，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a007",
+      "target": "s-802d9fcc2823-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在矛盾处理策略上",
+      "reason": "source 指出只看重不同点会陷入无解；target 提出相反策略：捕捉共同点并暂时放下激化点，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n001",
+      "target": "s-802d9fcc2823-c003:a001",
+      "kind": "complements",
+      "condition": "在处理矛盾时对'不同点'的态度上",
+      "reason": "source 指出只看重不同点的负面后果；target 则说明应发现并尊重真正不同点，二者从正反两面完善对'不同点'的处理方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a001",
+      "target": "s-802d9fcc2823-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在处理矛盾时对'不同点'的态度上",
+      "reason": "source 指出只看重不同点的负面后果；target 则说明应发现并尊重真正不同点，二者从正反两面完善对'不同点'的处理方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n001",
+      "target": "s-802d9fcc2823-c003:a003",
+      "kind": "complements",
+      "condition": "在矛盾解决的效果上",
+      "reason": "source 指出只看重不同点导致关系无解或表面和好；target 说明发现真正不同点可带来尊重和有效沟通，避免侮辱性言语，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a003",
+      "target": "s-802d9fcc2823-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在矛盾解决的效果上",
+      "reason": "source 指出只看重不同点导致关系无解或表面和好；target 说明发现真正不同点可带来尊重和有效沟通，避免侮辱性言语，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n001",
+      "target": "s-802d9fcc2823-c003:a009",
+      "kind": "complements",
+      "condition": "在教授孩子处理矛盾的方法上",
+      "reason": "source 指出只看重不同点的弊端；target 提供具体训练方法（示范寻找共同点），二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a009",
+      "target": "s-802d9fcc2823-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在教授孩子处理矛盾的方法上",
+      "reason": "source 指出只看重不同点的弊端；target 提供具体训练方法（示范寻找共同点），二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n001",
+      "target": "s-802d9fcc2823-c001:a016",
+      "kind": "association",
+      "condition": "在培养处理矛盾能力的内容上",
+      "reason": "source 指出只看重不同点会无解；target 提出应发现矛盾真正点，若真正点被识别可能避免只看重表面不同点，但两者主题有交叉，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a016",
+      "target": "s-802d9fcc2823-c003:v2-n001",
+      "kind": "association",
+      "condition": "在培养处理矛盾能力的内容上",
+      "reason": "source 指出只看重不同点会无解；target 提出应发现矛盾真正点，若真正点被识别可能避免只看重表面不同点，但两者主题有交叉，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n001",
+      "target": "s-802d9fcc2823-c002:a013",
+      "kind": "complements",
+      "condition": "在家长教育孩子面对矛盾的态度上",
+      "reason": "source 指出只看重不同点导致无解；target 提出帮助孩子把矛盾看成机会，从而避免消极态度，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a013",
+      "target": "s-802d9fcc2823-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在家长教育孩子面对矛盾的态度上",
+      "reason": "source 指出只看重不同点导致无解；target 提出帮助孩子把矛盾看成机会，从而避免消极态度，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n001",
+      "target": "s-802d9fcc2823-c003:a002",
+      "kind": "association",
+      "condition": "在分析矛盾中不同点的处理时",
+      "reason": "source 指出只看重不同点导致矛盾无解；target 提供了一个案例：表面颜色之争实际是认知不同，通过发现真正不同点解决矛盾，与 source 所述形成对照，但为案例，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a002",
+      "target": "s-802d9fcc2823-c003:v2-n001",
+      "kind": "association",
+      "condition": "在分析矛盾中不同点的处理时",
+      "reason": "source 指出只看重不同点导致矛盾无解；target 提供了一个案例：表面颜色之争实际是认知不同，通过发现真正不同点解决矛盾，与 source 所述形成对照，但为案例，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n002",
+      "target": "s-802d9fcc2823-c003:a005",
+      "kind": "example_of",
+      "condition": "在沟通辅导的具体情境中",
+      "reason": "source 描述了讲师通过抓住关键点进行有效辅导的案例，是 target 所述'抓住关键点则沟通有效'的具体体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a005",
+      "target": "s-802d9fcc2823-c003:v2-n002",
+      "kind": "has_example",
+      "condition": "在沟通辅导的具体情境中",
+      "reason": "source 描述了讲师通过抓住关键点进行有效辅导的案例，是 target 所述'抓住关键点则沟通有效'的具体体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n002",
+      "target": "s-802d9fcc2823-c001:a014",
+      "kind": "association",
+      "condition": "在识别问题关键点的思路上",
+      "reason": "source 强调辅导中抓住关键点；target 指出止损需找到源头，两者都强调识别核心问题，但应用领域不同，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a014",
+      "target": "s-802d9fcc2823-c003:v2-n002",
+      "kind": "association",
+      "condition": "在识别问题关键点的思路上",
+      "reason": "source 强调辅导中抓住关键点；target 指出止损需找到源头，两者都强调识别核心问题，但应用领域不同，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n002",
+      "target": "s-802d9fcc2823-c003:a006",
+      "kind": "association",
+      "condition": "在沟通影响对方时",
+      "reason": "source 说明抓住关键点可有效辅导；target 说明了解对方情绪可影响对方，两者都涉及识别对方的点，但侧重点不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a006",
+      "target": "s-802d9fcc2823-c003:v2-n002",
+      "kind": "association",
+      "condition": "在沟通影响对方时",
+      "reason": "source 说明抓住关键点可有效辅导；target 说明了解对方情绪可影响对方，两者都涉及识别对方的点，但侧重点不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n002",
+      "target": "s-802d9fcc2823-c003:v2-n003",
+      "kind": "complements",
+      "condition": "在具体操作上",
+      "reason": "source 描述讲师抓住关键点进行辅导；target 提供通过提问找到关键情绪点的方法，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n003",
+      "target": "s-802d9fcc2823-c003:v2-n002",
+      "kind": "complements",
+      "condition": "在具体操作上",
+      "reason": "source 描述讲师抓住关键点进行辅导；target 提供通过提问找到关键情绪点的方法，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n002",
+      "target": "s-802d9fcc2823-c003:a001",
+      "kind": "association",
+      "condition": "在识别核心信息上",
+      "reason": "source 强调抓住关键点；target 强调发现真正不同点，两者都涉及识别核心，但对象不同，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a001",
+      "target": "s-802d9fcc2823-c003:v2-n002",
+      "kind": "association",
+      "condition": "在识别核心信息上",
+      "reason": "source 强调抓住关键点；target 强调发现真正不同点，两者都涉及识别核心，但对象不同，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n003",
+      "target": "s-802d9fcc2823-c002:a019",
+      "kind": "complements",
+      "condition": "在训练孩子处理矛盾的场景中",
+      "reason": "source 提供提问找关键情绪点的方法；target 将该方法用于训练孩子，并补充了注意对方情绪、尊重不同的步骤，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a019",
+      "target": "s-802d9fcc2823-c003:v2-n003",
+      "kind": "complements",
+      "condition": "在训练孩子处理矛盾的场景中",
+      "reason": "source 提供提问找关键情绪点的方法；target 将该方法用于训练孩子，并补充了注意对方情绪、尊重不同的步骤，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n003",
+      "target": "s-802d9fcc2823-c003:a001",
+      "kind": "complements",
+      "condition": "在发现矛盾关键点的方法上",
+      "reason": "source 详细说明了提问找情绪点的方法；target 将该方法与尊重不同点联系起来，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a001",
+      "target": "s-802d9fcc2823-c003:v2-n003",
+      "kind": "complements",
+      "condition": "在发现矛盾关键点的方法上",
+      "reason": "source 详细说明了提问找情绪点的方法；target 将该方法与尊重不同点联系起来，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n003",
+      "target": "s-802d9fcc2823-c002:a008",
+      "kind": "association",
+      "condition": "在矛盾的情绪处理上",
+      "reason": "source 提供提问找关键情绪点的方法；target 强调需识别强烈情绪背后的原因，二者可结合，但未明确互补关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c002:a008",
+      "target": "s-802d9fcc2823-c003:v2-n003",
+      "kind": "association",
+      "condition": "在矛盾的情绪处理上",
+      "reason": "source 提供提问找关键情绪点的方法；target 强调需识别强烈情绪背后的原因，二者可结合，但未明确互补关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n003",
+      "target": "s-802d9fcc2823-c003:a004",
+      "kind": "association",
+      "condition": "在帮助孩子对情绪敏感上",
+      "reason": "source 需要先对情绪敏感才能提问；target 提供情绪敏感的培养方法，二者相关但方向不直接，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a004",
+      "target": "s-802d9fcc2823-c003:v2-n003",
+      "kind": "association",
+      "condition": "在帮助孩子对情绪敏感上",
+      "reason": "source 需要先对情绪敏感才能提问；target 提供情绪敏感的培养方法，二者相关但方向不直接，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n003",
+      "target": "s-802d9fcc2823-c003:a006",
+      "kind": "complements",
+      "condition": "在发现情绪点后的效果上",
+      "reason": "source 提供发现情绪点的方法；target 说明发现后可有效影响对方，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:a006",
+      "target": "s-802d9fcc2823-c003:v2-n003",
+      "kind": "complements",
+      "condition": "在发现情绪点后的效果上",
+      "reason": "source 提供发现情绪点的方法；target 说明发现后可有效影响对方，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c003:v2-n003",
+      "target": "s-802d9fcc2823-c001:a016",
+      "kind": "complements",
+      "condition": "在培养发现矛盾真正点的能力上",
+      "reason": "source 聚焦情绪层面的点；target 泛指矛盾的真正点，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-802d9fcc2823-c001:a016",
+      "target": "s-802d9fcc2823-c003:v2-n003",
+      "kind": "complements",
+      "condition": "在培养发现矛盾真正点的能力上",
+      "reason": "source 聚焦情绪层面的点；target 泛指矛盾的真正点，二者互补。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "内在能力",
+      "to": "界限",
+      "when": "培养孩子处理矛盾能力时，需要理解亲密关系必然产生矛盾，并避免父母对矛盾的误区",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a001",
+        "s-802d9fcc2823-c001:a002",
+        "s-802d9fcc2823-c001:a006",
+        "s-802d9fcc2823-c001:a007",
+        "s-802d9fcc2823-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "内在能力",
+      "to": "理解情绪",
+      "when": "培养孩子处理矛盾能力时，需要理解矛盾源于威胁，并帮助孩子认识情绪",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a016",
+        "s-802d9fcc2823-c001:a017",
+        "s-802d9fcc2823-c002:a008",
+        "s-802d9fcc2823-c002:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "处理矛盾时，需要理解矛盾源于威胁，并注意对方情绪",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a017",
+        "s-802d9fcc2823-c002:a019",
+        "s-802d9fcc2823-c003:a004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "回应矛盾时，需要快速解压保持冷静，采用舒缓压力的方法",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a014",
+        "s-802d9fcc2823-c002:a018"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a017"
+      ],
+      "reason": "内容完全一致，均为“矛盾源于感受到威胁而非意见不同”"
+    },
+    {
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a020",
+        "s-802d9fcc2823-c002:a001"
+      ],
+      "reason": "内容实质相同，均表述忽略或回避矛盾会加速矛盾激化"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "培养孩子处理矛盾能力的方法",
+      "steps": [
+        {
+          "action": "培养止损能力",
+          "atom_ids": [
+            "s-802d9fcc2823-c001:a011",
+            "s-802d9fcc2823-c001:a012",
+            "s-802d9fcc2823-c001:a014",
+            "s-802d9fcc2823-c001:a015"
+          ],
+          "condition": "处理矛盾的第一步"
+        },
+        {
+          "action": "发现矛盾的真正点",
+          "atom_ids": [
+            "s-802d9fcc2823-c001:a016",
+            "s-802d9fcc2823-c001:a017",
+            "s-802d9fcc2823-c002:a019",
+            "s-802d9fcc2823-c003:a001"
+          ],
+          "condition": "在止损之后，需要理解矛盾源于威胁并找到真正不同点"
+        },
+        {
+          "action": "帮助孩子认识并接纳情绪",
+          "atom_ids": [
+            "s-802d9fcc2823-c002:a008",
+            "s-802d9fcc2823-c002:a009",
+            "s-802d9fcc2823-c002:a016",
+            "s-802d9fcc2823-c003:a004"
+          ],
+          "condition": "解决矛盾需要情绪敏感和接纳"
+        },
+        {
+          "action": "快速解压保持冷静",
+          "atom_ids": [
+            "s-802d9fcc2823-c002:a014",
+            "s-802d9fcc2823-c002:a017",
+            "s-802d9fcc2823-c002:a018"
+          ],
+          "condition": "回应矛盾前需要冷静"
+        },
+        {
+          "action": "寻找共同认同点",
+          "atom_ids": [
+            "s-802d9fcc2823-c003:a007",
+            "s-802d9fcc2823-c003:a009"
+          ],
+          "condition": "在沟通中捕捉共同点以促进解决"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-802d9fcc2823-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a003"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a004"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a005"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a006"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a007"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a008"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a009"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a010"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a011"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a012"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a013"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a014"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a015"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a016"
+      ],
+      "blocks": [
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a017"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028",
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a018"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u020",
+      "kind": "case",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a019"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036",
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u1",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u2",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:a020"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u3",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a002"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u4",
+      "kind": "case",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a003"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u5",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a004"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u6",
+      "kind": "case",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a005"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u7",
+      "kind": "method",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:r001"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050",
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u8",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a006"
+      ],
+      "blocks": [
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u9",
+      "kind": "case",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a007"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055",
+        "b00056",
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u10",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a008"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u11",
+      "kind": "method",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a009"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u12",
+      "kind": "case",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a010"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00063",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u13",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a011"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u14",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a012"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u15",
+      "kind": "method",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a013"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u16",
+      "kind": "method",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a014"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u17",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a015"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u18",
+      "kind": "method",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a016"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u19",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a017"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u20",
+      "kind": "method",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a018"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u21",
+      "kind": "method",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:a019"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c002:u22",
+      "kind": "case",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a002"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079",
+        "b00080",
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c003:u001",
+      "kind": "case",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a002"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079",
+        "b00080",
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c003:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a003"
+      ],
+      "blocks": [
+        "b00077",
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c003:u003",
+      "kind": "method",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:v2-n003"
+      ],
+      "blocks": [
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c003:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a004"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c003:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a005"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c003:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c003:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a006"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c003:u008",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c003:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a007"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c003:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a008"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089",
+        "b00090",
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-802d9fcc2823-c003:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:a009"
+      ],
+      "blocks": [
+        "b00093"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "父母不培养孩子处理矛盾的原因是对矛盾有错误认知",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-802d9fcc2823",
+          "blocks": [
+            "b00007"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "回避压抑矛盾会加速激化并导致翻旧账",
+      "atom_ids": [
+        "s-802d9fcc2823-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-802d9fcc2823",
+          "blocks": [
+            "b00039",
+            "b00040"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "亲子冲突因双方感受到威胁而进入矛盾",
+      "atom_ids": [
+        "s-802d9fcc2823-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-802d9fcc2823",
+          "blocks": [
+            "b00037",
+            "b00038"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "只看重不同点导致矛盾无解或关系表面和好",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-802d9fcc2823",
+          "blocks": [
+            "b00086",
+            "b00087"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "failure_mode"
+    },
+    {
+      "title": "讲师通过抓住关键点进行有效辅导",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-802d9fcc2823",
+          "blocks": [
+            "b00084"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "通过提问找到矛盾中的关键情绪点",
+      "atom_ids": [
+        "s-802d9fcc2823-c003:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-802d9fcc2823",
+          "blocks": [
+            "b00077"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

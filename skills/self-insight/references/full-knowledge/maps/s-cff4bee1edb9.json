@@ -1,0 +1,2539 @@
+{
+  "concepts": [
+    {
+      "name": "硬界限",
+      "definition": "一种不健康的界限模式，表现为避免亲密关系、过度保护个人信息、不愿寻求帮助、先拒绝他人以防被拒绝、好胜心强、在亲密关系中疏离、绝对不允许不尊重、咄咄逼人、绝不妥协。",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a002",
+        "s-cff4bee1edb9-c001:a007",
+        "s-cff4bee1edb9-c001:a014",
+        "s-cff4bee1edb9-c001:a019",
+        "s-cff4bee1edb9-c001:a023",
+        "s-cff4bee1edb9-c001:a027",
+        "s-cff4bee1edb9-c001:a028",
+        "s-cff4bee1edb9-c001:a029",
+        "s-cff4bee1edb9-c001:a030",
+        "s-cff4bee1edb9-c001:a031",
+        "s-cff4bee1edb9-c001:r001"
+      ]
+    },
+    {
+      "name": "软界限",
+      "definition": "一种不健康的界限模式，表现为过度分享私人信息、难以拒绝他人、过度卷入他人问题、依赖他人意见、害怕被拒绝、允许不尊重和侮辱、替别人找借口、选择困难。",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a003",
+        "s-cff4bee1edb9-c001:a008",
+        "s-cff4bee1edb9-c001:a015",
+        "s-cff4bee1edb9-c001:a021",
+        "s-cff4bee1edb9-c001:a022",
+        "s-cff4bee1edb9-c001:a024",
+        "s-cff4bee1edb9-c001:a025",
+        "s-cff4bee1edb9-c001:a026",
+        "s-cff4bee1edb9-c001:a032",
+        "s-cff4bee1edb9-c001:a033",
+        "s-cff4bee1edb9-c001:r002"
+      ]
+    },
+    {
+      "name": "健康界限",
+      "definition": "一种健康的界限模式，表现为尊重自己和他人、适当分享个人信息、清楚表达需要、对拒绝感到自在、不委曲求全也不咄咄逼人、接受对方界限、不找借口、关系自然。",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a004",
+        "s-cff4bee1edb9-c001:a009",
+        "s-cff4bee1edb9-c001:a010",
+        "s-cff4bee1edb9-c001:a013",
+        "s-cff4bee1edb9-c001:a018",
+        "s-cff4bee1edb9-c001:a020",
+        "s-cff4bee1edb9-c001:a034",
+        "s-cff4bee1edb9-c001:a035",
+        "s-cff4bee1edb9-c001:a036",
+        "s-cff4bee1edb9-c001:a037",
+        "s-cff4bee1edb9-c001:a038",
+        "s-cff4bee1edb9-c001:a039",
+        "s-cff4bee1edb9-c001:a042",
+        "s-cff4bee1edb9-c001:a043",
+        "s-cff4bee1edb9-c001:a044",
+        "s-cff4bee1edb9-c001:r003",
+        "s-cff4bee1edb9-c001:r010"
+      ]
+    },
+    {
+      "name": "界限的后果",
+      "definition": "设立界限时必须包含后果，后果不是威胁，而是表明自己会采取什么行为来保护自己。后果必须是自己能做到并守住的。",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a011",
+        "s-cff4bee1edb9-c001:a012",
+        "s-cff4bee1edb9-c001:a040",
+        "s-cff4bee1edb9-c001:a041",
+        "s-cff4bee1edb9-c003:a006"
+      ]
+    },
+    {
+      "name": "有界限的关系特征",
+      "definition": "在有界限的关系中，身体、语言、精神上是安全的，隐私和界限被尊重，对方会听你说话，感到被欣赏和有价值，说“不”被尊重，没有报复。",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a002",
+        "s-cff4bee1edb9-c002:a003",
+        "s-cff4bee1edb9-c002:a004",
+        "s-cff4bee1edb9-c002:a005",
+        "s-cff4bee1edb9-c002:a006",
+        "s-cff4bee1edb9-c002:a007",
+        "s-cff4bee1edb9-c002:a008",
+        "s-cff4bee1edb9-c002:a009",
+        "s-cff4bee1edb9-c002:r001"
+      ]
+    },
+    {
+      "name": "建立界限的步骤",
+      "definition": "建立界限包括：理清自己喜欢什么、不喜欢什么；明确我要什么、我不要什么；考虑如果对方越界，自己愿意做到什么程度；根据不同关系建立不同界限；逐步推进界限。",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a010",
+        "s-cff4bee1edb9-c002:a011",
+        "s-cff4bee1edb9-c002:a012",
+        "s-cff4bee1edb9-c002:a013",
+        "s-cff4bee1edb9-c002:a014"
+      ]
+    },
+    {
+      "name": "温柔而坚定",
+      "definition": "立界限时应温柔地表明需要，坚定地捍卫需要。温柔指态度不凶，坚定指明确表达并坚持立场。",
+      "atom_ids": [
+        "s-cff4bee1edb9-c003:a004"
+      ]
+    },
+    {
+      "name": "界限的模糊性与练习",
+      "definition": "界限本身是模糊的，需要反复思考和练习，以建立新的思维模式。",
+      "atom_ids": [
+        "s-cff4bee1edb9-c003:a008"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-cff4bee1edb9-c001:a001",
+      "target": "s-cff4bee1edb9-c001:a002",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a001 将界限模式分为三种，a002 是其中硬界限的具体描述。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a001",
+      "target": "s-cff4bee1edb9-c001:a003",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a001 将界限模式分为三种，a003 是其中软界限的具体描述。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a001",
+      "target": "s-cff4bee1edb9-c001:a004",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a001 将界限模式分为三种，a004 是其中健康界限的具体描述。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a005",
+      "target": "s-cff4bee1edb9-c001:a002",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "a005 指出硬界限与健康界限的区别，硬界限绝不妥协，而健康界限可以妥协。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a005",
+      "target": "s-cff4bee1edb9-c001:a004",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "a005 指出硬界限与健康界限的区别，健康界限考虑双方需要，可以妥协。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a006",
+      "target": "s-cff4bee1edb9-c001:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a006 指出软界限和硬界限都是不健康的界限设立方式，支持硬界限不健康的观点。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a006",
+      "target": "s-cff4bee1edb9-c001:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a006 指出软界限和硬界限都是不健康的界限设立方式，支持软界限不健康的观点。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a007",
+      "target": "s-cff4bee1edb9-c001:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a007 解释硬界限者的心理机制，补充硬界限的特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a008",
+      "target": "s-cff4bee1edb9-c001:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a008 解释软界限者的心理机制，补充软界限的特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a009",
+      "target": "s-cff4bee1edb9-c001:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a009 解释健康界限者的心理机制，补充健康界限的特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a010",
+      "target": "s-cff4bee1edb9-c001:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a010 说明健康界限者根据关系亲疏适当分享，是健康界限的具体表现。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a011",
+      "target": "s-cff4bee1edb9-c001:a040",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a011 提出界限必须有后果，a040 进一步强调没有后果的界限只是提要求。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a012",
+      "target": "s-cff4bee1edb9-c001:a041",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a012 和 a041 都说明界限中的后果不是威胁，而是保护自己的行为。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a013",
+      "target": "s-cff4bee1edb9-c001:a039",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a013 和 a039 都描述健康界限者对拒绝感到自在。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a014",
+      "target": "s-cff4bee1edb9-c001:a002",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a014 是硬界限者的具体案例。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a015",
+      "target": "s-cff4bee1edb9-c001:a003",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a015 是软界限者的具体案例。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a016",
+      "target": "s-cff4bee1edb9-c001:a011",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a016 是讲师设立界限的案例，体现了表达需要和后果。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a017",
+      "target": "s-cff4bee1edb9-c001:a042",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a017 是讲师接受先生界限的案例，体现了健康界限者接受对方界限。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a018",
+      "target": "s-cff4bee1edb9-c001:a036",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a018 和 a036 都说明健康界限者不委曲求全。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a019",
+      "target": "s-cff4bee1edb9-c001:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a019 指出硬界限者咄咄逼人，补充硬界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a020",
+      "target": "s-cff4bee1edb9-c001:a038",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a020 和 a038 都说明健康界限者能表达需要。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a021",
+      "target": "s-cff4bee1edb9-c001:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a021 说明软界限者替别人找借口，补充软界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a022",
+      "target": "s-cff4bee1edb9-c001:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a022 说明软界限者允许不尊重，补充软界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a023",
+      "target": "s-cff4bee1edb9-c001:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a023 说明硬界限者不允许不尊重，补充硬界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a024",
+      "target": "s-cff4bee1edb9-c001:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a024 说明软界限者过度卷入他人问题，补充软界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a025",
+      "target": "s-cff4bee1edb9-c001:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a025 说明软界限者难以拒绝，补充软界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a026",
+      "target": "s-cff4bee1edb9-c001:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a026 说明软界限者过度分享，补充软界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a027",
+      "target": "s-cff4bee1edb9-c001:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a027 说明硬界限者避免亲密关系，补充硬界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a028",
+      "target": "s-cff4bee1edb9-c001:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a028 说明硬界限者不愿寻求帮助，补充硬界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a029",
+      "target": "s-cff4bee1edb9-c001:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a029 说明硬界限者保护个人信息，补充硬界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a030",
+      "target": "s-cff4bee1edb9-c001:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a030 说明硬界限者在亲密关系中疏离，补充硬界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a031",
+      "target": "s-cff4bee1edb9-c001:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a031 说明硬界限者先拒绝别人，补充硬界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a032",
+      "target": "s-cff4bee1edb9-c001:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a032 说明软界限者依赖他人意见，补充软界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a033",
+      "target": "s-cff4bee1edb9-c001:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a033 说明软界限者害怕被拒绝，补充软界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a034",
+      "target": "s-cff4bee1edb9-c001:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a034 说明健康界限者尊重自己，补充健康界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a035",
+      "target": "s-cff4bee1edb9-c001:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a035 说明健康界限者要求被尊重，补充健康界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a036",
+      "target": "s-cff4bee1edb9-c001:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a036 说明健康界限者不委曲求全，补充健康界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a037",
+      "target": "s-cff4bee1edb9-c001:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a037 说明健康界限者适当分享，补充健康界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a038",
+      "target": "s-cff4bee1edb9-c001:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a038 说明健康界限者表达需要，补充健康界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a039",
+      "target": "s-cff4bee1edb9-c001:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a039 说明健康界限者对拒绝自在，补充健康界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a040",
+      "target": "s-cff4bee1edb9-c001:a011",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a040 强调界限必须有后果，支持 a011 中界限设立方法。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a041",
+      "target": "s-cff4bee1edb9-c001:a012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a041 和 a012 都说明界限后果不是威胁。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a042",
+      "target": "s-cff4bee1edb9-c001:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a042 说明健康界限者接受对方界限，补充健康界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a043",
+      "target": "s-cff4bee1edb9-c001:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a043 说明健康界限者不找借口，补充健康界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a044",
+      "target": "s-cff4bee1edb9-c001:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a044 说明健康界限者关系自然，补充健康界限特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a045",
+      "target": "s-cff4bee1edb9-c001:a006",
+      "kind": "causes",
+      "condition": null,
+      "reason": "a045 指出缺乏健康界限模式导致认知偏差，容易把硬界限看成有界限，支持 a006 中软硬界限都不健康的观点。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a046",
+      "target": "s-cff4bee1edb9-c001:a047",
+      "kind": "supports",
+      "condition": "母亲控制欲强并打骂孩子",
+      "reason": "“父亲车祸后母亲控制欲强”所描述的母亲控制与打骂，与“孩子长大后叛逆”中孩子对母亲的反抗和刺伤行为存在因果关联，前者的行为可解释后者的叛逆。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "由 causes 改为 supports，因果解释作为支持关系。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a047",
+      "target": "s-cff4bee1edb9-c001:a048",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a047 案例说明打骂导致叛逆，a048 建议善待孩子，支持该建议。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:r001",
+      "target": "s-cff4bee1edb9-c001:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "r001 补充硬界限者好胜心强，与 a002 一致。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:r002",
+      "target": "s-cff4bee1edb9-c001:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "r002 补充软界限者选择困难，与 a003 一致。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:r003",
+      "target": "s-cff4bee1edb9-c001:a019",
+      "kind": "supports",
+      "condition": null,
+      "reason": "r003 和 a019 都说明健康界限者不咄咄逼人，硬界限者咄咄逼人。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a034",
+      "target": "s-cff4bee1edb9-c001:a034",
+      "kind": "supports",
+      "condition": null,
+      "reason": "r004 和 a034 都说明健康界限者尊重自己意见。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a035",
+      "target": "s-cff4bee1edb9-c001:a035",
+      "kind": "supports",
+      "condition": null,
+      "reason": "r005 和 a035 都说明健康界限者要求他人尊重。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a036",
+      "target": "s-cff4bee1edb9-c001:a036",
+      "kind": "supports",
+      "condition": null,
+      "reason": "r006 和 a036 都说明健康界限者不委曲求全。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a037",
+      "target": "s-cff4bee1edb9-c001:a037",
+      "kind": "supports",
+      "condition": null,
+      "reason": "r007 和 a037 都说明健康界限者适当分享。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a038",
+      "target": "s-cff4bee1edb9-c001:a038",
+      "kind": "supports",
+      "condition": null,
+      "reason": "r008 和 a038 都说明健康界限者表达需要。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a039",
+      "target": "s-cff4bee1edb9-c001:a039",
+      "kind": "supports",
+      "condition": null,
+      "reason": "r009 和 a039 都说明健康界限者对拒绝自在。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:r010",
+      "target": "s-cff4bee1edb9-c001:a042",
+      "kind": "supports",
+      "condition": null,
+      "reason": "r010 和 a042 都说明健康界限者接受对方界限。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a043",
+      "target": "s-cff4bee1edb9-c001:a043",
+      "kind": "supports",
+      "condition": null,
+      "reason": "r011 和 a043 都说明健康界限者不找借口。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a044",
+      "target": "s-cff4bee1edb9-c001:a044",
+      "kind": "supports",
+      "condition": null,
+      "reason": "r012 和 a044 都说明健康界限者关系自然。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a045",
+      "target": "s-cff4bee1edb9-c001:a045",
+      "kind": "supports",
+      "condition": null,
+      "reason": "r013 和 a045 内容相同，都说明缺乏界限模式导致认知偏差。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a001",
+      "target": "s-cff4bee1edb9-c001:a046",
+      "kind": "association",
+      "condition": "",
+      "reason": "“童年受辱孩子成年后叛逆并学习立界限”与“案例：父亲车祸后母亲控制欲强”描述同一个真实故事，前者更完整，后者是其中的片段；两者并无例子与概念关系，只是同一案例的不同详略。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "由 example_of 改为 association。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a001",
+      "target": "s-cff4bee1edb9-c001:a047",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "c002:a001 详细描述了孩子叛逆的过程，是 c001:a047 的具体案例。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a001",
+      "target": "s-cff4bee1edb9-c001:a011",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "c002:a001 中孩子设立界限时表达需要并说明后果，是 c001:a011 的实例。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a002",
+      "target": "s-cff4bee1edb9-c002:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a002 和 a003 分别说明有界限的关系中身体和语言安全，共同构成安全特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a002",
+      "target": "s-cff4bee1edb9-c002:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a002 和 a004 分别说明身体和精神安全，共同构成安全特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a003",
+      "target": "s-cff4bee1edb9-c002:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a003 和 a004 分别说明语言和精神安全，共同构成安全特征。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a005",
+      "target": "s-cff4bee1edb9-c002:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a005 说明隐私和界限被尊重，是安全的一部分。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a006",
+      "target": "s-cff4bee1edb9-c002:a016",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a006 和 a016 都说明有界限的关系中对方会听你说话。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a007",
+      "target": "s-cff4bee1edb9-c002:a008",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a007 和 a008 都说明有界限的关系中感到被欣赏和说不被尊重。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a008",
+      "target": "s-cff4bee1edb9-c002:a009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a008 和 a009 都说明有界限的关系中没有报复。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a010",
+      "target": "s-cff4bee1edb9-c002:a011",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "c002:a010 是建立界限第一步，c002:a011 是第二步，存在顺序关系。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a011",
+      "target": "s-cff4bee1edb9-c002:a012",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "c002:a011 是建立界限第二步，c002:a012 是第三步，存在顺序关系。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a012",
+      "target": "s-cff4bee1edb9-c002:a013",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "c002:a012 是建立界限第三步，c002:a013 是第四步，存在顺序关系。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a013",
+      "target": "s-cff4bee1edb9-c002:a014",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "c002:a013 是建立界限第四步，c002:a014 是第五步，存在顺序关系。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a010",
+      "target": "s-cff4bee1edb9-c002:a017",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a010 强调具体定义，c002:a017 解释模糊概念与具体定义的区别。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a011",
+      "target": "s-cff4bee1edb9-c002:a025",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a011 说明要明确表达，c002:a025 说明不表达会导致对方继续越界。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a012",
+      "target": "s-cff4bee1edb9-c002:a029",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a012 和 a029 都涉及考虑越界后自己愿意做到什么程度。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a013",
+      "target": "s-cff4bee1edb9-c002:a020",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a013 和 a020 都说明界限建立取决于关系质量。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a014",
+      "target": "s-cff4bee1edb9-c002:a019",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a014 说明逐步推进界限，c002:a019 说明立界限时对方越界的必然性。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a015",
+      "target": "s-cff4bee1edb9-c001:a048",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a015 和 c001:a048 都强调善待孩子，不要打孩子。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a016",
+      "target": "s-cff4bee1edb9-c002:a006",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a016 对比有界限和无界限关系，支持 c002:a006 的观点。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a017",
+      "target": "s-cff4bee1edb9-c002:a010",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a017 解释模糊概念与具体定义的区别，支持 c002:a010 中具体定义的要求。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a018",
+      "target": "s-cff4bee1edb9-c002:a025",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a018 说明老好人受欢迎是因为没有界限，c002:a025 说明没有界限导致对方继续越界。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a019",
+      "target": "s-cff4bee1edb9-c002:a014",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a019 说明立界限时对方越界的必然性，支持 c002:a014 中逐步推进界限。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a020",
+      "target": "s-cff4bee1edb9-c002:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a020 说明界限建立取决于关系质量，支持 c002:a013 中根据不同关系建立不同界限。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a021",
+      "target": "s-cff4bee1edb9-c001:a047",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a021 解释童年被辱骂导致成年后叛逆机制，与 c001:a047 一致。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a022",
+      "target": "s-cff4bee1edb9-c002:a001",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "c002:a022 是 c002:a001 案例中母亲逐渐适应界限的具体描述。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a023",
+      "target": "s-cff4bee1edb9-c002:a031",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "“朋友电话不挂断导致关系破裂”的具体案例是“没有界限导致积怨和关系破裂”这一一般命题的例证；应由此具体案例指向一般命题，原方向需反转。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向需反转；由 supports 改为 example_of。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a024",
+      "target": "s-cff4bee1edb9-c002:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a024 说明精神虐待导致孩子逃避，支持 c002:a004 中精神安全的重要性。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a025",
+      "target": "s-cff4bee1edb9-c002:a011",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:a025 说明没有界限导致对方继续越界，支持 c002:a011 中明确表达的重要性。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a026",
+      "target": "s-cff4bee1edb9-c002:a001",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "c002:a026 是 c002:a001 案例中母亲先拒绝的反应。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a027",
+      "target": "s-cff4bee1edb9-c002:a010",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "c002:a027 是定义温柔的练习，是 c002:a010 中具体定义的应用。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a028",
+      "target": "s-cff4bee1edb9-c002:a011",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "c002:a028 是明确我要什么的练习，是 c002:a011 的应用。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a029",
+      "target": "s-cff4bee1edb9-c002:a012",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "c002:a029 是问询越界后愿意做到什么程度，是 c002:a012 的应用。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a030",
+      "target": "s-cff4bee1edb9-c002:a013",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "c002:a030 是问询如何根据关系立界限，是 c002:a013 的应用。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a031",
+      "target": "s-cff4bee1edb9-c002:a023",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "“朋友电话不挂断导致关系破裂”的具体案例作为“没有界限导致积怨和关系破裂”这一一般命题的例子，前者例示了后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "由 supports 改为 example_of；方向为具体到一般。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a032",
+      "target": "s-cff4bee1edb9-c002:a006",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "c002:a032 是丈夫与婆婆通话拖延的案例，说明对方不听你说话。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a033",
+      "target": "s-cff4bee1edb9-c002:a024",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "c002:a033 是母亲控制欲强导致孩子逃避的案例，支持 c002:a024。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a034",
+      "target": "s-cff4bee1edb9-c002:a014",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "c002:a034 是给吸毒女儿立界限的案例，体现逐步推进界限。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a035",
+      "target": "s-cff4bee1edb9-c002:a005",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "c002:a035 是亲戚追问隐私的反例，与 c002:a005 中隐私被尊重形成对比。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a036",
+      "target": "s-cff4bee1edb9-c002:a006",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "c002:a036 是夫妻吵架追着说的反例，与 c002:a006 中对方会听你说话形成对比。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a037",
+      "target": "s-cff4bee1edb9-c002:a005",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "c002:a037 是追问收入的反例，与 c002:a005 中隐私被尊重形成对比。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a038",
+      "target": "s-cff4bee1edb9-c002:a008",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "c002:a038 是说不后被冷落的反例，与 c002:a008 中说不被尊重形成对比。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a039",
+      "target": "s-cff4bee1edb9-c002:a003",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "c002:a039 是侮辱性语言的反例，与 c002:a003 中语言安全形成对比。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a040",
+      "target": "s-cff4bee1edb9-c002:a015",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "c002:a040 是打孩子的错误观念，与 c002:a015 中善待孩子形成对比。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:r001",
+      "target": "s-cff4bee1edb9-c002:a008",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c002:r001 说明有界限的关系中需要得到满足，支持 c002:a008 中说不被尊重。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:a001",
+      "target": "s-cff4bee1edb9-c002:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c003:a001 和 c002:a013 都说明界限需根据关系不同而不同。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:a002",
+      "target": "s-cff4bee1edb9-c002:a014",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c003:a002 和 c002:a014 都说明逐步推进界限以应对越界压力。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:a003",
+      "target": "s-cff4bee1edb9-c002:a034",
+      "kind": "association",
+      "condition": "",
+      "reason": "“为吸毒女儿设立分层界限的案例”与“给吸毒女儿立界限”描述同一案例的不同详略，前者包含规律性复吸的第三层后果，后者较简；两者是重叠案例描述，不构成例证关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "由 example_of 改为 association。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:a004",
+      "target": "s-cff4bee1edb9-c001:a011",
+      "kind": "association",
+      "condition": "",
+      "reason": "“温柔而坚定地立界限”侧重立界限的态度（温柔、坚定、不凶），“设立界限的方法：表达需要并说明后果”侧重内容（表达需要、感受和后果）；两者同属立界限方法，但前者未涉及后果说明，不能直接支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "由 supports 改为 association。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:a005",
+      "target": "s-cff4bee1edb9-c001:a005",
+      "kind": "example_of",
+      "condition": "当必须妥协时",
+      "reason": "“必要妥协时寻找综合方法而非允许越界”以替代食物守住水果界限，是“硬界限与健康界限的区别”中健康界限可以妥协的具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "由 supports 改为 example_of。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:a006",
+      "target": "s-cff4bee1edb9-c001:a040",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c003:a006 强调后果必须是自己能做到并守住的，支持 c001:a040 中界限必须有后果。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:a007",
+      "target": "s-cff4bee1edb9-c003:a004",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“面对越界企图时无需愤怒”明确主张以温柔而坚定的方式应对越界，支持“温柔而坚定地立界限”。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:a008",
+      "target": "s-cff4bee1edb9-c002:a010",
+      "kind": "association",
+      "condition": "",
+      "reason": "“界限是模糊的，需要反复思考和练习”与“建立界限第一步是理清自己喜欢什么、不喜欢什么”同属学习界限，但前者未直接说明后者作为第一步或支持其内容，仅涉及练习的必要性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "由 supports 改为 association。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:a001",
+      "target": "s-cff4bee1edb9-c003:a001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "c003:r001 和 c003:a001 内容相同。"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a015",
+      "kind": "complements",
+      "condition": "当需要详细阐述孩子不会忘记及青春期叛逆时。",
+      "reason": "候选1补充了青春期叛逆的具体表现和“几岁前打不会记得”的错误认知，source 只概述打骂导致叛逆，候选1更具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a015",
+      "target": "s-cff4bee1edb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要详细阐述孩子不会忘记及青春期叛逆时。",
+      "reason": "候选1补充了青春期叛逆的具体表现和“几岁前打不会记得”的错误认知，source 只概述打骂导致叛逆，候选1更具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:v2-n001",
+      "target": "s-cff4bee1edb9-c001:a048",
+      "kind": "complements",
+      "condition": "当需要正面行动建议时。",
+      "reason": "候选2直接建议善待孩子，补充了 source 未直接给出的正面行动呼吁。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a048",
+      "target": "s-cff4bee1edb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要正面行动建议时。",
+      "reason": "候选2直接建议善待孩子，补充了 source 未直接给出的正面行动呼吁。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a021",
+      "kind": "association",
+      "condition": "在童年伤害导致成年后叛逆的机制下，候选3侧重辱骂而非打骂，有交叉但不同。",
+      "reason": "候选3讨论辱骂导致叛逆，与 source 的打骂相关但形式不同，属于同一机制的不同表现，弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a021",
+      "target": "s-cff4bee1edb9-c001:v2-n001",
+      "kind": "association",
+      "condition": "在童年伤害导致成年后叛逆的机制下，候选3侧重辱骂而非打骂，有交叉但不同。",
+      "reason": "候选3讨论辱骂导致叛逆，与 source 的打骂相关但形式不同，属于同一机制的不同表现，弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:v2-n001",
+      "target": "s-cff4bee1edb9-c001:a046",
+      "kind": "complements",
+      "condition": "当需要具体案例展示打骂后果时。",
+      "reason": "候选4案例中母亲打骂孩子，孩子长大叛逆，为 source 的反模式提供了实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a046",
+      "target": "s-cff4bee1edb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要具体案例展示打骂后果时。",
+      "reason": "候选4案例中母亲打骂孩子，孩子长大叛逆，为 source 的反模式提供了实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a001",
+      "kind": "complements",
+      "condition": "当需要更完整案例并包含后续改善时。",
+      "reason": "候选5提供了与 source 一致的案例并增加了学习界限后的改善，补充了完整过程和结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a001",
+      "target": "s-cff4bee1edb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要更完整案例并包含后续改善时。",
+      "reason": "候选5提供了与 source 一致的案例并增加了学习界限后的改善，补充了完整过程和结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a040",
+      "kind": "complements",
+      "condition": "当需要反驳错误认知时。",
+      "reason": "候选6明确反驳“几岁前可以打”的观点，与 source 中孩子不会忘记的主张一致，补充了针对性反驳。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a040",
+      "target": "s-cff4bee1edb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要反驳错误认知时。",
+      "reason": "候选6明确反驳“几岁前可以打”的观点，与 source 中孩子不会忘记的主张一致，补充了针对性反驳。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:v2-n001",
+      "target": "s-cff4bee1edb9-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要预防性建议时。",
+      "reason": "候选7建议父母思考未来亲子关系并做好养育，为 source 的警告提供了积极的改进方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n001",
+      "target": "s-cff4bee1edb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要预防性建议时。",
+      "reason": "候选7建议父母思考未来亲子关系并做好养育，为 source 的警告提供了积极的改进方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:v2-n001",
+      "target": "s-cff4bee1edb9-c001:a047",
+      "kind": "complements",
+      "condition": "当需要具体案例时。",
+      "reason": "候选9案例展示孩子叛逆，与 source 所述打骂导致叛逆相符，补充了实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a047",
+      "target": "s-cff4bee1edb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要具体案例时。",
+      "reason": "候选9案例展示孩子叛逆，与 source 所述打骂导致叛逆相符，补充了实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a004",
+      "kind": "association",
+      "condition": "在父母对孩子伤害的主题下，候选8侧重精神虐待，与 source 的打骂相关但不同。",
+      "reason": "候选8讨论精神虐待导致孩子逃避，与 source 打骂后果不同，但同属父母伤害孩子范畴，弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a004",
+      "target": "s-cff4bee1edb9-c001:v2-n001",
+      "kind": "association",
+      "condition": "在父母对孩子伤害的主题下，候选8侧重精神虐待，与 source 的打骂相关但不同。",
+      "reason": "候选8讨论精神虐待导致孩子逃避，与 source 打骂后果不同，但同属父母伤害孩子范畴，弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a024",
+      "kind": "association",
+      "condition": "在精神虐待后果主题下，与 source 无直接关系。",
+      "reason": "候选10谈论精神虐待导致逃避，与 source 的打骂导致叛逆无直接联系，仅同属伤害后果，弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a024",
+      "target": "s-cff4bee1edb9-c001:v2-n001",
+      "kind": "association",
+      "condition": "在精神虐待后果主题下，与 source 无直接关系。",
+      "reason": "候选10谈论精神虐待导致逃避，与 source 的打骂导致叛逆无直接联系，仅同属伤害后果，弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a033",
+      "kind": "association",
+      "condition": "在控制欲强的母亲案例中，与 source 无直接关系。",
+      "reason": "候选11案例涉及控制欲导致逃避，非打骂，与 source 关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a033",
+      "target": "s-cff4bee1edb9-c001:v2-n001",
+      "kind": "association",
+      "condition": "在控制欲强的母亲案例中，与 source 无直接关系。",
+      "reason": "候选11案例涉及控制欲导致逃避，非打骂，与 source 关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a015",
+      "kind": "association",
+      "condition": "当父母希望未来良好亲子关系时",
+      "reason": "源内容强调从现在做好养育，候选警告打孩子会导致青春期叛逆，属于预防叛逆的具体养育建议，但源未明确提及打孩子，故为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a015",
+      "target": "s-cff4bee1edb9-c002:v2-n001",
+      "kind": "association",
+      "condition": "当父母希望未来良好亲子关系时",
+      "reason": "源内容强调从现在做好养育，候选警告打孩子会导致青春期叛逆，属于预防叛逆的具体养育建议，但源未明确提及打孩子，故为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n001",
+      "target": "s-cff4bee1edb9-c001:a047",
+      "kind": "association",
+      "condition": "当父母希望避免孩子青春期叛逆时",
+      "reason": "候选案例展示孩子因母亲刺伤而叛逆，与源中希望良好亲子关系形成对比，但源未直接涉及案例，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a047",
+      "target": "s-cff4bee1edb9-c002:v2-n001",
+      "kind": "association",
+      "condition": "当父母希望避免孩子青春期叛逆时",
+      "reason": "候选案例展示孩子因母亲刺伤而叛逆，与源中希望良好亲子关系形成对比，但源未直接涉及案例，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n001",
+      "target": "s-cff4bee1edb9-c001:v2-n001",
+      "kind": "association",
+      "condition": "当考虑养育方式对亲子关系的影响时",
+      "reason": "候选主张打骂导致叛逆，与源中做好养育以维持良好关系相关，但源未明确打骂，属于主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:v2-n001",
+      "target": "s-cff4bee1edb9-c002:v2-n001",
+      "kind": "association",
+      "condition": "当考虑养育方式对亲子关系的影响时",
+      "reason": "候选主张打骂导致叛逆，与源中做好养育以维持良好关系相关，但源未明确打骂，属于主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a002",
+      "kind": "association",
+      "condition": "当界定良好亲子关系的安全层面时",
+      "reason": "候选强调身体安全，源中思考亲子关系可能包含安全，但源未涉及界限具体内容，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a002",
+      "target": "s-cff4bee1edb9-c002:v2-n001",
+      "kind": "association",
+      "condition": "当界定良好亲子关系的安全层面时",
+      "reason": "候选强调身体安全，源中思考亲子关系可能包含安全，但源未涉及界限具体内容，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a004",
+      "kind": "association",
+      "condition": "当界定良好亲子关系的精神安全层面时",
+      "reason": "候选强调精神安全，源中思考亲子关系可能包含精神层面，但源未展开，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a004",
+      "target": "s-cff4bee1edb9-c002:v2-n001",
+      "kind": "association",
+      "condition": "当界定良好亲子关系的精神安全层面时",
+      "reason": "候选强调精神安全，源中思考亲子关系可能包含精神层面，但源未展开，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a003",
+      "kind": "association",
+      "condition": "当界定良好亲子关系的语言安全层面时",
+      "reason": "候选强调语言安全，与源中希望的良好关系可能相关，但源未明确，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a003",
+      "target": "s-cff4bee1edb9-c002:v2-n001",
+      "kind": "association",
+      "condition": "当界定良好亲子关系的语言安全层面时",
+      "reason": "候选强调语言安全，与源中希望的良好关系可能相关，但源未明确，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a008",
+      "kind": "association",
+      "condition": "当良好亲子关系包含尊重拒绝时",
+      "reason": "候选提到说不被尊重，源中希望孩子如何对待自己可能涉及尊重，但源未具体化，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a008",
+      "target": "s-cff4bee1edb9-c002:v2-n001",
+      "kind": "association",
+      "condition": "当良好亲子关系包含尊重拒绝时",
+      "reason": "候选提到说不被尊重，源中希望孩子如何对待自己可能涉及尊重，但源未具体化，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n001",
+      "target": "s-cff4bee1edb9-c003:a001",
+      "kind": "association",
+      "condition": "当良好亲子关系需要根据关系调整界限时",
+      "reason": "候选强调界限因关系而异，源中思考未来亲子关系可能涉及界限，但未明确，仅为主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:a001",
+      "target": "s-cff4bee1edb9-c002:v2-n001",
+      "kind": "association",
+      "condition": "当良好亲子关系需要根据关系调整界限时",
+      "reason": "候选强调界限因关系而异，源中思考未来亲子关系可能涉及界限，但未明确，仅为主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a013",
+      "kind": "association",
+      "condition": "当建立界限的步骤应用于亲子关系时",
+      "reason": "候选是建立界限第四步，源中做好养育可能需要建立界限，但源未涉及步骤，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a013",
+      "target": "s-cff4bee1edb9-c002:v2-n001",
+      "kind": "association",
+      "condition": "当建立界限的步骤应用于亲子关系时",
+      "reason": "候选是建立界限第四步，源中做好养育可能需要建立界限，但源未涉及步骤，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a011",
+      "kind": "association",
+      "condition": "当明确希望孩子如何对待自己时",
+      "reason": "候选是明确我要什么不要什么，源中思考希望孩子如何对待自己是一种明确需求，可能相近，但源未提界限，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a011",
+      "target": "s-cff4bee1edb9-c002:v2-n001",
+      "kind": "association",
+      "condition": "当明确希望孩子如何对待自己时",
+      "reason": "候选是明确我要什么不要什么，源中思考希望孩子如何对待自己是一种明确需求，可能相近，但源未提界限，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a020",
+      "kind": "association",
+      "condition": "当立界限方法与关系质量相关时",
+      "reason": "候选强调界限建立取决于关系质量，源中思考未来关系可能影响当前养育，但源未涉及立界限，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a020",
+      "target": "s-cff4bee1edb9-c002:v2-n001",
+      "kind": "association",
+      "condition": "当立界限方法与关系质量相关时",
+      "reason": "候选强调界限建立取决于关系质量，源中思考未来关系可能影响当前养育，但源未涉及立界限，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a030",
+      "kind": "association",
+      "condition": "当对孩子立界限的具体问题出现时",
+      "reason": "候选是问询如何根据关系立界限，源中做好养育可能涉及立界限，但源未提及具体问题，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a030",
+      "target": "s-cff4bee1edb9-c002:v2-n001",
+      "kind": "association",
+      "condition": "当对孩子立界限的具体问题出现时",
+      "reason": "候选是问询如何根据关系立界限，源中做好养育可能涉及立界限，但源未提及具体问题，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n002",
+      "target": "s-cff4bee1edb9-c002:a014",
+      "kind": "complements",
+      "condition": "当需要具体执行逐步推进界限时",
+      "reason": "候选a014提供了详细定义和吸毒女儿的例子，补充了源中缺少的具体案例和步骤描述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a014",
+      "target": "s-cff4bee1edb9-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当需要具体执行逐步推进界限时",
+      "reason": "候选a014提供了详细定义和吸毒女儿的例子，补充了源中缺少的具体案例和步骤描述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n002",
+      "target": "s-cff4bee1edb9-c003:a002",
+      "kind": "association",
+      "condition": "当理解逐步推进界限的含义时",
+      "reason": "候选与源内容一致，但措辞略不同，未提供额外实质信息，仅为相似表述关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:a002",
+      "target": "s-cff4bee1edb9-c002:v2-n002",
+      "kind": "association",
+      "condition": "当理解逐步推进界限的含义时",
+      "reason": "候选与源内容一致，但措辞略不同，未提供额外实质信息，仅为相似表述关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n002",
+      "target": "s-cff4bee1edb9-c002:a012",
+      "kind": "association",
+      "condition": "当建立界限的第三步与第五步并列时",
+      "reason": "候选是第三步考虑越界后做到什么程度，与第五步逐步推进同属建立界限步骤系列，但步骤不同，关联为步骤间关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a012",
+      "target": "s-cff4bee1edb9-c002:v2-n002",
+      "kind": "association",
+      "condition": "当建立界限的第三步与第五步并列时",
+      "reason": "候选是第三步考虑越界后做到什么程度，与第五步逐步推进同属建立界限步骤系列，但步骤不同，关联为步骤间关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n002",
+      "target": "s-cff4bee1edb9-c002:a019",
+      "kind": "association",
+      "condition": "当理解为什么需要逐步推进时",
+      "reason": "候选说明立界限时对方越界的必然性，为逐步推进提供了背景原因，但源未直接提及必然性，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a019",
+      "target": "s-cff4bee1edb9-c002:v2-n002",
+      "kind": "association",
+      "condition": "当理解为什么需要逐步推进时",
+      "reason": "候选说明立界限时对方越界的必然性，为逐步推进提供了背景原因，但源未直接提及必然性，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n002",
+      "target": "s-cff4bee1edb9-c001:r010",
+      "kind": "conditional_difference",
+      "condition": "对方为健康界限者时，不会推界限；对方为不健康越界者时，需要逐步收紧界限",
+      "reason": "候选指出健康界限者接受对方界限，与源中对方使劲推越界形成对比，体现不同对象类型下的不同应对。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:r010",
+      "target": "s-cff4bee1edb9-c002:v2-n002",
+      "kind": "conditional_difference",
+      "condition": "对方为健康界限者时，不会推界限；对方为不健康越界者时，需要逐步收紧界限",
+      "reason": "候选指出健康界限者接受对方界限，与源中对方使劲推越界形成对比，体现不同对象类型下的不同应对。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n002",
+      "target": "s-cff4bee1edb9-c001:a042",
+      "kind": "conditional_difference",
+      "condition": "同上，对方为健康界限者时",
+      "reason": "候选与r010类似，但包含具体例子，进一步说明健康界限者不推界限，与源中需要逐步推进的条件有差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a042",
+      "target": "s-cff4bee1edb9-c002:v2-n002",
+      "kind": "conditional_difference",
+      "condition": "同上，对方为健康界限者时",
+      "reason": "候选与r010类似，但包含具体例子，进一步说明健康界限者不推界限，与源中需要逐步推进的条件有差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n002",
+      "target": "s-cff4bee1edb9-c002:a010",
+      "kind": "association",
+      "condition": "当建立界限的步骤系列中第一步与第五步并列时",
+      "reason": "候选是第一步理清喜好，与第五步逐步推进属于同一系列但步骤不同，关联为步骤间关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a010",
+      "target": "s-cff4bee1edb9-c002:v2-n002",
+      "kind": "association",
+      "condition": "当建立界限的步骤系列中第一步与第五步并列时",
+      "reason": "候选是第一步理清喜好，与第五步逐步推进属于同一系列但步骤不同，关联为步骤间关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n002",
+      "target": "s-cff4bee1edb9-c002:a013",
+      "kind": "association",
+      "condition": "当建立界限的步骤系列中第四步与第五步并列时",
+      "reason": "候选是第四步根据不同关系建立界限，与第五步属于同一系列但步骤不同，关联为步骤间关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a013",
+      "target": "s-cff4bee1edb9-c002:v2-n002",
+      "kind": "association",
+      "condition": "当建立界限的步骤系列中第四步与第五步并列时",
+      "reason": "候选是第四步根据不同关系建立界限，与第五步属于同一系列但步骤不同，关联为步骤间关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n002",
+      "target": "s-cff4bee1edb9-c002:a011",
+      "kind": "association",
+      "condition": "当建立界限的步骤系列中第二步与第五步并列时",
+      "reason": "候选是第二步明确我要什么，与第五步属于同一系列但步骤不同，关联为步骤间关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a011",
+      "target": "s-cff4bee1edb9-c002:v2-n002",
+      "kind": "association",
+      "condition": "当建立界限的步骤系列中第二步与第五步并列时",
+      "reason": "候选是第二步明确我要什么，与第五步属于同一系列但步骤不同，关联为步骤间关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n002",
+      "target": "s-cff4bee1edb9-c001:a011",
+      "kind": "association",
+      "condition": "当逐步推进界限需要说明后果时",
+      "reason": "候选提供设立界限的方法包括表达需要和说明后果，与逐步推进中收紧界限可能涉及后果设定，但源未详细，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a011",
+      "target": "s-cff4bee1edb9-c002:v2-n002",
+      "kind": "association",
+      "condition": "当逐步推进界限需要说明后果时",
+      "reason": "候选提供设立界限的方法包括表达需要和说明后果，与逐步推进中收紧界限可能涉及后果设定，但源未详细，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n002",
+      "target": "s-cff4bee1edb9-c002:a020",
+      "kind": "association",
+      "condition": "当界限建立受关系质量影响时",
+      "reason": "候选强调界限建立取决于关系质量，源中逐步推进未提及关系质量，但同属界限建立主题，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a020",
+      "target": "s-cff4bee1edb9-c002:v2-n002",
+      "kind": "association",
+      "condition": "当界限建立受关系质量影响时",
+      "reason": "候选强调界限建立取决于关系质量，源中逐步推进未提及关系质量，但同属界限建立主题，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n002",
+      "target": "s-cff4bee1edb9-c003:a006",
+      "kind": "association",
+      "condition": "当逐步推进中收紧的后果需要可执行时",
+      "reason": "候选指出后果必须自己能做到并守住，与逐步推进中收紧界限的后果可靠性相关，但源未明确，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:a006",
+      "target": "s-cff4bee1edb9-c002:v2-n002",
+      "kind": "association",
+      "condition": "当逐步推进中收紧的后果需要可执行时",
+      "reason": "候选指出后果必须自己能做到并守住，与逐步推进中收紧界限的后果可靠性相关，但源未明确，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n003",
+      "target": "s-cff4bee1edb9-c002:a034",
+      "kind": "complements",
+      "condition": "当需要明确后果的相对轻重时",
+      "reason": "候选a034补充了源中未说明的后果轻重：24小时内主动告知后果较轻，超时被发现后果较重。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a034",
+      "target": "s-cff4bee1edb9-c002:v2-n003",
+      "kind": "complements",
+      "condition": "当需要明确后果的相对轻重时",
+      "reason": "候选a034补充了源中未说明的后果轻重：24小时内主动告知后果较轻，超时被发现后果较重。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n003",
+      "target": "s-cff4bee1edb9-c003:a003",
+      "kind": "complements",
+      "condition": "当需要完整分层界限案例时",
+      "reason": "候选提供了更完整的分层案例，包括规律性复吸最严重及母亲背景，补充了源中缺失的第三层次和背景信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:a003",
+      "target": "s-cff4bee1edb9-c002:v2-n003",
+      "kind": "complements",
+      "condition": "当需要完整分层界限案例时",
+      "reason": "候选提供了更完整的分层案例，包括规律性复吸最严重及母亲背景，补充了源中缺失的第三层次和背景信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n003",
+      "target": "s-cff4bee1edb9-c002:a014",
+      "kind": "example_of",
+      "condition": "当该案例作为逐步推进界限的一个实例时",
+      "reason": "源中的分层后果体现了逐步推进界限：根据越界程度给予不同后果，是建立界限第五步的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a014",
+      "target": "s-cff4bee1edb9-c002:v2-n003",
+      "kind": "has_example",
+      "condition": "当该案例作为逐步推进界限的一个实例时",
+      "reason": "源中的分层后果体现了逐步推进界限：根据越界程度给予不同后果，是建立界限第五步的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n003",
+      "target": "s-cff4bee1edb9-c001:a011",
+      "kind": "association",
+      "condition": "当案例中的界限设定可视为设立界限方法的应用时",
+      "reason": "候选提出设立界限需表达需要并说明后果，源中父亲为女儿设定了后果但未提及表达需要，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a011",
+      "target": "s-cff4bee1edb9-c002:v2-n003",
+      "kind": "association",
+      "condition": "当案例中的界限设定可视为设立界限方法的应用时",
+      "reason": "候选提出设立界限需表达需要并说明后果，源中父亲为女儿设定了后果但未提及表达需要，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n003",
+      "target": "s-cff4bee1edb9-c001:a040",
+      "kind": "example_of",
+      "condition": "当案例展示界限必须有后果时",
+      "reason": "源中父亲为女儿复吸设定了不同后果，体现了界限必须有后果的原则，是候选的具体例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a040",
+      "target": "s-cff4bee1edb9-c002:v2-n003",
+      "kind": "has_example",
+      "condition": "当案例展示界限必须有后果时",
+      "reason": "源中父亲为女儿复吸设定了不同后果，体现了界限必须有后果的原则，是候选的具体例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n003",
+      "target": "s-cff4bee1edb9-c003:v2-n001",
+      "kind": "example_of",
+      "condition": "当案例展示界限的递增层次时",
+      "reason": "源中根据复吸是否及时告知设定不同后果，是递增层次原则的具体应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:v2-n001",
+      "target": "s-cff4bee1edb9-c002:v2-n003",
+      "kind": "has_example",
+      "condition": "当案例展示界限的递增层次时",
+      "reason": "源中根据复吸是否及时告知设定不同后果，是递增层次原则的具体应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n003",
+      "target": "s-cff4bee1edb9-c001:a041",
+      "kind": "association",
+      "condition": "当区分界限后果与威胁时",
+      "reason": "候选指出界限后果不是威胁，源中后果可能被误解为威胁，但内容未明确，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a041",
+      "target": "s-cff4bee1edb9-c002:v2-n003",
+      "kind": "association",
+      "condition": "当区分界限后果与威胁时",
+      "reason": "候选指出界限后果不是威胁，源中后果可能被误解为威胁，但内容未明确，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n003",
+      "target": "s-cff4bee1edb9-c002:a019",
+      "kind": "association",
+      "condition": "当案例体现对方越界的可能性时",
+      "reason": "候选指出立界限时对方越界的必然性，源中女儿可能复吸即越界，但源未直接说明必然性，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a019",
+      "target": "s-cff4bee1edb9-c002:v2-n003",
+      "kind": "association",
+      "condition": "当案例体现对方越界的可能性时",
+      "reason": "候选指出立界限时对方越界的必然性，源中女儿可能复吸即越界，但源未直接说明必然性，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:v2-n001",
+      "target": "s-cff4bee1edb9-c003:a003",
+      "kind": "association",
+      "condition": "当该案例作为递增层次原则的实例时",
+      "reason": "候选案例展示了根据复吸情况设定不同后果，体现了源中的递增层次原则，但方向上是候选例证源，故为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:a003",
+      "target": "s-cff4bee1edb9-c003:v2-n001",
+      "kind": "association",
+      "condition": "当该案例作为递增层次原则的实例时",
+      "reason": "候选案例展示了根据复吸情况设定不同后果，体现了源中的递增层次原则，但方向上是候选例证源，故为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:v2-n001",
+      "target": "s-cff4bee1edb9-c003:a006",
+      "kind": "association",
+      "condition": "当设计递增层次时需确保后果可执行",
+      "reason": "候选强调后果必须能做到并守住，源中设计层次时需考虑后果可执行性，但源未明确提及，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:a006",
+      "target": "s-cff4bee1edb9-c003:v2-n001",
+      "kind": "association",
+      "condition": "当设计递增层次时需确保后果可执行",
+      "reason": "候选强调后果必须能做到并守住，源中设计层次时需考虑后果可执行性，但源未明确提及，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:v2-n001",
+      "target": "s-cff4bee1edb9-c001:a011",
+      "kind": "association",
+      "condition": "当递增层次作为设立界限方法的一部分时",
+      "reason": "候选提供设立界限的一般方法，源中的递增层次可视为后果设定的一种方式，但两者侧重点不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a011",
+      "target": "s-cff4bee1edb9-c003:v2-n001",
+      "kind": "association",
+      "condition": "当递增层次作为设立界限方法的一部分时",
+      "reason": "候选提供设立界限的一般方法，源中的递增层次可视为后果设定的一种方式，但两者侧重点不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a019",
+      "kind": "association",
+      "condition": "当递增层次应对越界可能性时",
+      "reason": "候选指出越界必然性，源中预设不同层次后果以应对不同程度越界，存在背景关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a019",
+      "target": "s-cff4bee1edb9-c003:v2-n001",
+      "kind": "association",
+      "condition": "当递增层次应对越界可能性时",
+      "reason": "候选指出越界必然性，源中预设不同层次后果以应对不同程度越界，存在背景关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:v2-n001",
+      "target": "s-cff4bee1edb9-c002:a012",
+      "kind": "association",
+      "condition": "当设计递增层次时需考虑自己愿意做到的程度",
+      "reason": "候选是建立界限第三步，涉及越界后自己愿意做到什么程度，与源中设计不同严重程度后果相关，但方向不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:a012",
+      "target": "s-cff4bee1edb9-c003:v2-n001",
+      "kind": "association",
+      "condition": "当设计递增层次时需考虑自己愿意做到的程度",
+      "reason": "候选是建立界限第三步，涉及越界后自己愿意做到什么程度，与源中设计不同严重程度后果相关，但方向不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:v2-n001",
+      "target": "s-cff4bee1edb9-c002:v2-n002",
+      "kind": "association",
+      "condition": "当递增层次与逐步推进界限相结合时",
+      "reason": "候选是逐步推进界限，与源中预先设置递增层次不同但相关：前者动态调整，后者预设分级，两者互补但源未明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c002:v2-n002",
+      "target": "s-cff4bee1edb9-c003:v2-n001",
+      "kind": "association",
+      "condition": "当递增层次与逐步推进界限相结合时",
+      "reason": "候选是逐步推进界限，与源中预先设置递增层次不同但相关：前者动态调整，后者预设分级，两者互补但源未明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c003:v2-n001",
+      "target": "s-cff4bee1edb9-c001:a040",
+      "kind": "association",
+      "condition": "当递增层次体现界限必须有后果时",
+      "reason": "候选指出界限必须有后果，源中的递增层次是后果的具体设计，但源未直接断言，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cff4bee1edb9-c001:a040",
+      "target": "s-cff4bee1edb9-c003:v2-n001",
+      "kind": "association",
+      "condition": "当递增层次体现界限必须有后果时",
+      "reason": "候选指出界限必须有后果，源中的递增层次是后果的具体设计，但源未直接断言，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a045"
+      ],
+      "reason": "内容完全相同，都说明缺乏界限模式导致认知偏差。"
+    },
+    {
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a023",
+        "s-cff4bee1edb9-c002:a031"
+      ],
+      "reason": "内容相同，都描述朋友电话不挂断导致关系破裂。"
+    },
+    {
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a034",
+        "s-cff4bee1edb9-c003:a003"
+      ],
+      "reason": "内容相同，都是给吸毒女儿设立分层界限的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-cff4bee1edb9-c003:a001"
+      ],
+      "reason": "内容完全相同，都说明界限需根据关系不同而不同。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a005",
+        "s-cff4bee1edb9-c001:a019"
+      ],
+      "description": "a005 说硬界限的人绝对不可能妥协，而 a019 说硬界限的人会咄咄逼人，但未明确两者是否矛盾。需要进一步证据说明硬界限者是否可能在某些情况下妥协。",
+      "needed_evidence": "硬界限者在不同情境下的行为表现，特别是妥协与咄咄逼人的关系。"
+    },
+    {
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a022",
+        "s-cff4bee1edb9-c001:a023"
+      ],
+      "description": "a022 说软界限者允许别人不尊重甚至侮辱自己，a023 说硬界限者绝对不允许任何一丝不尊重或侮辱。两者形成对比，但未说明健康界限者如何应对不尊重，需要补充健康界限者的态度。",
+      "needed_evidence": "健康界限者面对不尊重和侮辱时的具体反应。"
+    },
+    {
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a015",
+        "s-cff4bee1edb9-c001:a048"
+      ],
+      "description": "两者都建议善待孩子，不要打孩子，但未提供科学依据或文化背景，可能引发争议。",
+      "needed_evidence": "体罚对儿童心理影响的实证研究，以及不同文化背景下的育儿观念。"
+    }
+  ],
+  "path": [
+    {
+      "name": "建立界限的步骤",
+      "steps": [
+        {
+          "action": "理清自己喜欢什么、不喜欢什么，对自己的感受保持敏锐，并用具体行为定义喜欢的方式。",
+          "atom_ids": [
+            "s-cff4bee1edb9-c002:a010"
+          ],
+          "condition": null
+        },
+        {
+          "action": "明确我要什么、我不要什么，从一开始就教对方怎么对待你。",
+          "atom_ids": [
+            "s-cff4bee1edb9-c002:a011"
+          ],
+          "condition": null
+        },
+        {
+          "action": "考虑如果对方越界，你愿意做到什么程度，并据此立界限。",
+          "atom_ids": [
+            "s-cff4bee1edb9-c002:a012"
+          ],
+          "condition": null
+        },
+        {
+          "action": "根据不同关系建立不同界限，考虑关系亲疏和情绪连接。",
+          "atom_ids": [
+            "s-cff4bee1edb9-c002:a013"
+          ],
+          "condition": null
+        },
+        {
+          "action": "逐步推进界限，如果对方越界，将界限收紧。",
+          "atom_ids": [
+            "s-cff4bee1edb9-c002:a014"
+          ],
+          "condition": null
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-cff4bee1edb9-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a001",
+        "s-cff4bee1edb9-c001:a006"
+      ],
+      "blocks": [
+        "b00005",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a002",
+        "s-cff4bee1edb9-c001:a005",
+        "s-cff4bee1edb9-c001:a007",
+        "s-cff4bee1edb9-c001:a019",
+        "s-cff4bee1edb9-c001:a023",
+        "s-cff4bee1edb9-c001:a027",
+        "s-cff4bee1edb9-c001:a028",
+        "s-cff4bee1edb9-c001:a029",
+        "s-cff4bee1edb9-c001:a030",
+        "s-cff4bee1edb9-c001:a031",
+        "s-cff4bee1edb9-c001:r001",
+        "s-cff4bee1edb9-c001:r003"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00007",
+        "b00008",
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a003",
+        "s-cff4bee1edb9-c001:a008",
+        "s-cff4bee1edb9-c001:a021",
+        "s-cff4bee1edb9-c001:a022",
+        "s-cff4bee1edb9-c001:a024",
+        "s-cff4bee1edb9-c001:a025",
+        "s-cff4bee1edb9-c001:a026",
+        "s-cff4bee1edb9-c001:a032",
+        "s-cff4bee1edb9-c001:a033",
+        "s-cff4bee1edb9-c001:r002"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020",
+        "b00021",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a004",
+        "s-cff4bee1edb9-c001:a009",
+        "s-cff4bee1edb9-c001:a010",
+        "s-cff4bee1edb9-c001:a018",
+        "s-cff4bee1edb9-c001:a020",
+        "s-cff4bee1edb9-c001:a034",
+        "s-cff4bee1edb9-c001:a035",
+        "s-cff4bee1edb9-c001:a036",
+        "s-cff4bee1edb9-c001:a037",
+        "s-cff4bee1edb9-c001:a038"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029",
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a013",
+        "s-cff4bee1edb9-c001:a039",
+        "s-cff4bee1edb9-c001:a042",
+        "s-cff4bee1edb9-c001:a043",
+        "s-cff4bee1edb9-c001:a044",
+        "s-cff4bee1edb9-c001:r010"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036",
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c001:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a011",
+        "s-cff4bee1edb9-c001:a012",
+        "s-cff4bee1edb9-c001:a040",
+        "s-cff4bee1edb9-c001:a041"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c001:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a014"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c001:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a015"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c001:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a016"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c001:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a017"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a045"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c001:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a046"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0001",
+      "kind": "case",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a047",
+        "s-cff4bee1edb9-c002:a001",
+        "s-cff4bee1edb9-c002:a021",
+        "s-cff4bee1edb9-c002:a022",
+        "s-cff4bee1edb9-c002:a026"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045",
+        "b00047",
+        "b00048",
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:a048",
+        "s-cff4bee1edb9-c002:a015",
+        "s-cff4bee1edb9-c002:a040",
+        "s-cff4bee1edb9-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a002"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a003",
+        "s-cff4bee1edb9-c002:a039"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053",
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a004",
+        "s-cff4bee1edb9-c002:a024",
+        "s-cff4bee1edb9-c002:a033"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a005",
+        "s-cff4bee1edb9-c002:a035"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a006",
+        "s-cff4bee1edb9-c002:a016",
+        "s-cff4bee1edb9-c002:a036",
+        "s-cff4bee1edb9-c002:a037"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061",
+        "b00062",
+        "b00063",
+        "b00064",
+        "b00065",
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0008",
+      "kind": "case",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a031",
+        "s-cff4bee1edb9-c002:a023"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061",
+        "b00062",
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0009",
+      "kind": "case",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a032"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a007"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a008",
+        "s-cff4bee1edb9-c002:a038"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a009",
+        "s-cff4bee1edb9-c002:r001"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a010",
+        "s-cff4bee1edb9-c002:a017",
+        "s-cff4bee1edb9-c002:a027"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0014",
+      "kind": "method",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a011",
+        "s-cff4bee1edb9-c002:a025",
+        "s-cff4bee1edb9-c002:a028"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075",
+        "b00076",
+        "b00077",
+        "b00078",
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0015",
+      "kind": "method",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a012",
+        "s-cff4bee1edb9-c002:a018",
+        "s-cff4bee1edb9-c002:a019",
+        "s-cff4bee1edb9-c002:a029"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0016",
+      "kind": "method",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a013",
+        "s-cff4bee1edb9-c002:a020",
+        "s-cff4bee1edb9-c002:a030",
+        "s-cff4bee1edb9-c003:a001"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085",
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0017",
+      "kind": "method",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c002:u0018",
+      "kind": "case",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c003:u001",
+      "kind": "principle",
+      "atom_ids": [
+        "s-cff4bee1edb9-c003:a001"
+      ],
+      "blocks": [
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c003:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a014",
+        "s-cff4bee1edb9-c003:a002"
+      ],
+      "blocks": [
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c003:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:a034",
+        "s-cff4bee1edb9-c003:a003"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c003:u004",
+      "kind": "principle",
+      "atom_ids": [
+        "s-cff4bee1edb9-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c003:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-cff4bee1edb9-c003:a004"
+      ],
+      "blocks": [
+        "b00091",
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c003:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-cff4bee1edb9-c003:a005"
+      ],
+      "blocks": [
+        "b00093",
+        "b00094",
+        "b00095",
+        "b00096"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c003:u007",
+      "kind": "principle",
+      "atom_ids": [
+        "s-cff4bee1edb9-c003:a006"
+      ],
+      "blocks": [
+        "b00096"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c003:u008",
+      "kind": "principle",
+      "atom_ids": [
+        "s-cff4bee1edb9-c003:a007"
+      ],
+      "blocks": [
+        "b00097",
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-cff4bee1edb9-c003:u009",
+      "kind": "principle",
+      "atom_ids": [
+        "s-cff4bee1edb9-c003:a008"
+      ],
+      "blocks": [
+        "b00098",
+        "b00099",
+        "b00100"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "打骂孩子会导致叛逆",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cff4bee1edb9",
+          "blocks": [
+            "b00045"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "parenting_violence"
+    },
+    {
+      "title": "皮肤是人的天然界限",
+      "atom_ids": [
+        "s-cff4bee1edb9-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cff4bee1edb9",
+          "blocks": [
+            "b00004",
+            "b00005"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "metaphor"
+    },
+    {
+      "title": "思考未来亲子关系",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cff4bee1edb9",
+          "blocks": [
+            "b00047"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "advice"
+    },
+    {
+      "title": "建立界限第五步：逐步推进界限",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cff4bee1edb9",
+          "blocks": [
+            "b00088"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "案例：给吸毒女儿立界限",
+      "atom_ids": [
+        "s-cff4bee1edb9-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cff4bee1edb9",
+          "blocks": [
+            "b00088",
+            "b00089"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "界限的递增层次与立界限需小心",
+      "atom_ids": [
+        "s-cff4bee1edb9-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cff4bee1edb9",
+          "blocks": [
+            "b00091"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    }
+  ]
+}

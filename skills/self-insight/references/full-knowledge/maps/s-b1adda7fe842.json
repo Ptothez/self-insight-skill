@@ -1,0 +1,2272 @@
+{
+  "concepts": [
+    {
+      "name": "高贵的人",
+      "definition": "指其人性与价值，而非其功能或成就。不将孩子物件化，不让孩子认为其存在意义是为了外在目的。",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a001"
+      ]
+    },
+    {
+      "name": "爱的语言",
+      "definition": "个体感受和表达爱的主要方式，如身体接触、提供帮助、语言鼓励、高质量陪伴等。不同年龄阶段可能不同。",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a002",
+        "s-b1adda7fe842-c002:a003",
+        "s-b1adda7fe842-c002:a020",
+        "s-b1adda7fe842-c002:a028"
+      ]
+    },
+    {
+      "name": "身体接触",
+      "definition": "一种爱的语言，包括抚摸、拥抱等。婴儿期需要大量身体接触，但需适度；12岁后需注意界限和性教育。",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a004",
+        "s-b1adda7fe842-c002:a003",
+        "s-b1adda7fe842-c002:a004",
+        "s-b1adda7fe842-c002:a005",
+        "s-b1adda7fe842-c002:a023"
+      ]
+    },
+    {
+      "name": "依恋关系",
+      "definition": "早期（0-2岁）通过身体接触和关爱建立的亲子情感联结。缺乏依恋可能导致冷漠、不安全感等。",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a010",
+        "s-b1adda7fe842-c002:a011",
+        "s-b1adda7fe842-c002:a013",
+        "s-b1adda7fe842-c002:a023"
+      ]
+    },
+    {
+      "name": "前额叶发展",
+      "definition": "16-17岁孩子前额叶未发育完全，导致情绪控制能力差，容易冲动，不知刹车。",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a007"
+      ]
+    },
+    {
+      "name": "理性认知父母的爱",
+      "definition": "19-25岁孩子能够用理性认知理解父母的爱，即使感受不到，也能从逻辑上相信父母是爱自己的。",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a013",
+        "s-b1adda7fe842-c002:a002"
+      ]
+    },
+    {
+      "name": "提供帮助（爱的语言）",
+      "definition": "13-14岁孩子的主要爱的语言，强调被动帮助和赋能，而非直接解决问题。",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a028"
+      ]
+    },
+    {
+      "name": "习惯训练",
+      "definition": "通过有趣的方法和视觉提示训练孩子生活习惯，一次只设两个目标，避免唠叨。",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a011",
+        "s-b1adda7fe842-c001:a012",
+        "s-b1adda7fe842-c001:r001",
+        "s-b1adda7fe842-c001:r003",
+        "s-b1adda7fe842-c001:r004",
+        "s-b1adda7fe842-c002:a001"
+      ]
+    },
+    {
+      "name": "情绪失控",
+      "definition": "16-17岁孩子因前额叶未成熟，在沟通中非要达到自己想法，达不到就情绪失控、烦躁。",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a006",
+        "s-b1adda7fe842-c002:a007"
+      ]
+    },
+    {
+      "name": "权力斗争",
+      "definition": "父母与孩子之间的控制与反控制，应避免进入权力斗争，适当让孩子赢。",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a008"
+      ]
+    },
+    {
+      "name": "尊重",
+      "definition": "培养孩子高贵的方法是尊重他；孩子不尊重父母往往因为父母行为不当。",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a009",
+        "s-b1adda7fe842-c002:a015"
+      ]
+    },
+    {
+      "name": "自我认知",
+      "definition": "了解自己的真实需要和感受，避免习惯性否认需要；自我认知可帮助改善抑郁等问题。",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a020",
+        "s-b1adda7fe842-c002:a021",
+        "s-b1adda7fe842-c002:a022"
+      ]
+    },
+    {
+      "name": "沟通方法",
+      "definition": "与不同年龄孩子沟通的策略，如坦诚表达感受、避免心理辅导式提问、书信沟通等。",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a018",
+        "s-b1adda7fe842-c002:a029",
+        "s-b1adda7fe842-c002:a030",
+        "s-b1adda7fe842-c002:a031",
+        "s-b1adda7fe842-c002:xe004",
+        "s-b1adda7fe842-c003:p01-a003",
+        "s-b1adda7fe842-c003:p02-r001"
+      ]
+    },
+    {
+      "name": "界限",
+      "definition": "在身体接触、零花钱、行为等方面设定规则，保护孩子并传递价值观。",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a004",
+        "s-b1adda7fe842-c001:a005",
+        "s-b1adda7fe842-c002:a005",
+        "s-b1adda7fe842-c002:a017",
+        "s-b1adda7fe842-c003:p01-a006",
+        "s-b1adda7fe842-c003:p01-r001"
+      ]
+    },
+    {
+      "name": "零花钱冲突",
+      "definition": "孩子因零花钱不够与父母吵架，父母应关注情绪和关系而非钱本身，传递爱意。",
+      "atom_ids": [
+        "s-b1adda7fe842-c003:p01-a001",
+        "s-b1adda7fe842-c003:p01-a002",
+        "s-b1adda7fe842-c003:p01-a003",
+        "s-b1adda7fe842-c003:p01-a004",
+        "s-b1adda7fe842-c003:p01-a005",
+        "s-b1adda7fe842-c003:p01-a006",
+        "s-b1adda7fe842-c003:p01-r001",
+        "s-b1adda7fe842-c003:p02-a002",
+        "s-b1adda7fe842-c003:p02-a003",
+        "s-b1adda7fe842-c003:p02-r001"
+      ]
+    },
+    {
+      "name": "求救信号",
+      "definition": "孩子发脾气可能是求救信号，提示孩子遇到了困难。",
+      "atom_ids": [
+        "s-b1adda7fe842-c003:p01-r002"
+      ]
+    },
+    {
+      "name": "专业帮助",
+      "definition": "当身体接触困难、早期创伤等问题严重时，需要寻求专业心理帮助。",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a025",
+        "s-b1adda7fe842-c002:a026"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-b1adda7fe842-c001:a001",
+      "target": "s-b1adda7fe842-c002:a015",
+      "kind": "supports",
+      "condition": "培养孩子高贵的方法",
+      "reason": "k00001定义高贵的人，k00033指出培养高贵的方法是尊重他，后者是前者的具体应用。"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:a004",
+      "target": "s-b1adda7fe842-c002:a003",
+      "kind": "causes",
+      "condition": "早期大量抚摸拥抱可能影响长大后身体接触偏好",
+      "reason": "k00004提到婴儿需要身体接触但需适度，k00021案例中12岁孩子喜欢身体接触，k00022指出早期抚摸可能与此有关。"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a003",
+      "target": "s-b1adda7fe842-c002:a005",
+      "kind": "applies_to",
+      "condition": "12岁孩子身体接触需注意界限",
+      "reason": "k00021描述12岁孩子喜欢身体接触，k00023指出12岁拥抱没问题但更深接触需小心并连接性教育。"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a006",
+      "target": "s-b1adda7fe842-c002:a007",
+      "kind": "causes",
+      "condition": "16-17岁孩子情绪失控的原因",
+      "reason": "k00024描述孩子情绪失控现象，k00025解释年龄特点：前额叶未发展好，不知刹车。"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a007",
+      "target": "s-b1adda7fe842-c002:a008",
+      "kind": "supports",
+      "condition": "应对情绪失控的建议",
+      "reason": "k00025说明孩子前额叶未成熟，k00026建议适当让孩子赢、避免权力斗争，基于年龄特点。"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a010",
+      "target": "s-b1adda7fe842-c002:a011",
+      "kind": "causes",
+      "condition": "早期缺乏身体接触和依恋导致冷漠",
+      "reason": "k00028描述8岁孩子冷漠且早期缺乏依恋，k00029指出冷漠可能与早期缺乏身体接触、依恋关系有关。"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a010",
+      "target": "s-b1adda7fe842-c002:a013",
+      "kind": "supports",
+      "condition": "8岁仍可修复依恋",
+      "reason": "k00028提到8岁孩子早期缺乏依恋，k00031指出8岁还来得及修复，进入十一二岁就麻烦。"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a012",
+      "target": "s-b1adda7fe842-c001:r002",
+      "kind": "supports",
+      "condition": "父母未教孩子习惯的原因",
+      "reason": "k00030指出父母很难给孩子自己没有的，k00016解释父母未教习惯是因为自己未真正内化。"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a014",
+      "target": "s-b1adda7fe842-c002:a016",
+      "kind": "causes",
+      "condition": "老二攻击行为的可能原因",
+      "reason": "k00032描述老二骂人和攻击行为，k00034推测可能因受过欺负或家庭暴力导致不安全感。"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a016",
+      "target": "s-b1adda7fe842-c002:a017",
+      "kind": "supports",
+      "condition": "对姐姐立界限保护老二",
+      "reason": "k00034指出老二可能受姐姐语言暴力，k00035建议对姐姐立界限控制行为。"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a020",
+      "target": "s-b1adda7fe842-c002:a021",
+      "kind": "causes",
+      "condition": "测试结果与自我认知不符的原因",
+      "reason": "k00038描述测试结果与自我认知相反，k00039解释可能是习惯性否认真实需要。"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a022",
+      "target": "s-b1adda7fe842-c002:a021",
+      "kind": "supports",
+      "condition": "抑郁者感受不到爱可能与否认需要有关",
+      "reason": "k00040描述抑郁者感受不到父母的爱，k00039提到否认真实需要是常见但不健康的心理需求。"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a023",
+      "target": "s-b1adda7fe842-c002:a010",
+      "kind": "causes",
+      "condition": "缺乏身体接触导致不安全感",
+      "reason": "k00041指出没有被抚摸的孩子进入关系后不相信安全，k00028描述8岁孩子早期缺乏身体接触且冷漠。"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a027",
+      "target": "s-b1adda7fe842-c002:a028",
+      "kind": "applies_to",
+      "condition": "13-14岁孩子爱的语言",
+      "reason": "k00045提出13-14岁孩子沮丧回家的问题，k00046指出该年龄爱的语言是提供帮助。"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a028",
+      "target": "s-b1adda7fe842-c002:a029",
+      "kind": "example_of",
+      "condition": "提供帮助的具体沟通示范",
+      "reason": "k00046说明13-14岁孩子需要提供帮助，k00047示范如何通过沟通提供帮助。"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a029",
+      "target": "s-b1adda7fe842-c002:a030",
+      "kind": "supports",
+      "condition": "沟通中先打开自己",
+      "reason": "k00047示范坦诚表达感受，k00048强调父母要先打开自己孩子才可能打开。"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a031",
+      "target": "s-b1adda7fe842-c002:a029",
+      "kind": "contrasts",
+      "condition": "避免心理辅导式提问",
+      "reason": "源命题指出不要像心理辅导一样提问；目标命题示范通过坦诚表达感受与沮丧孩子沟通的有效方式，二者形成问题与改进的对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a001",
+      "target": "s-b1adda7fe842-c003:p01-a002",
+      "kind": "association",
+      "condition": "",
+      "reason": "源命题指出零花钱冲突中父母的目标是让孩子感受到爱；目标命题指出理性讲道理不能让孩子感受到爱。二者都涉及零花钱冲突中的亲子沟通，但源命题并未导致或直接说明理性回应无效，不能构成因果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原“causes”改为关联。"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a002",
+      "target": "s-b1adda7fe842-c003:p01-a003",
+      "kind": "supports",
+      "condition": "当理性回应无效时",
+      "reason": "源命题指出理性讲道理在零花钱冲突中无效，因为孩子处于冲动状态；目标命题提供关注情绪和关系的具体步骤以传递爱，源命题说明需要这些步骤的原因，构成支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原条件“传递爱的具体步骤”调整为“当理性回应无效时”。"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a003",
+      "target": "s-b1adda7fe842-c003:p01-a004",
+      "kind": "supports",
+      "condition": "针对情绪和关系而非钱",
+      "reason": "源命题的具体步骤体现针对孩子情绪和关系而非钱的问题，支持目标命题中有效方法是针对情绪和关系而非钱。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a003",
+      "target": "s-b1adda7fe842-c003:p01-a005",
+      "kind": "supports",
+      "condition": "在零花钱冲突中采取这些步骤可让孩子感到有力量",
+      "reason": "源命题中包含表达情绪、邀请需求等步骤，能让孩子感到被尊重和有力量，支持目标命题中通过情感回应给孩子力量的做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "注意目标命题针对13-14岁，源命题未明确年龄，但方法可推论适用。"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a006",
+      "target": "s-b1adda7fe842-c003:p01-a003",
+      "kind": "step_of",
+      "condition": "孩子拒绝缓解关系时的回应",
+      "reason": "源命题是目标命题中表达难过并寻求缓解关系步骤的后续回应，属于具体化步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-r001",
+      "target": "s-b1adda7fe842-c003:p01-a001",
+      "kind": "prerequisite",
+      "condition": "零花钱足够的前提",
+      "reason": "源命题阐明零花钱足够是进行爱意传递的前提，目标命题也以该前提为基础，故源是目标的前提条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-r002",
+      "target": "s-b1adda7fe842-c002:a006",
+      "kind": "association",
+      "condition": "不明确，待定",
+      "reason": "源命题提出孩子发脾气是否为求救信号的疑问，目标命题描述16-17岁孩子情绪失控的具体案例，二者议题相关但源未形成可证实的主张，无法断定支持或因果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "uncertain",
+      "review_notes": "原 kind applies_to 不可用；证据仅提及可能关联，故标记 uncertain。"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p02-a002",
+      "target": "s-b1adda7fe842-c003:p01-a004",
+      "kind": "supports",
+      "condition": "关注情绪和关系",
+      "reason": "k00093强调关注情绪和关系而非具体事务，k00088也指出针对情绪和关系问题。"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p02-a003",
+      "target": "s-b1adda7fe842-c003:p01-a003",
+      "kind": "supports",
+      "condition": "给予力量的具体做法",
+      "reason": "源命题概括给予孩子力量的做法，与目标命题中传递爱的具体步骤一致，故源支持目标。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p02-a004",
+      "target": "s-b1adda7fe842-c003:p01-a003",
+      "kind": "association",
+      "condition": "方法适用年龄",
+      "reason": "源命题说明具体方法应根据孩子年龄调整，并非普遍适用，目标命题是具体步骤；源并未支持目标内容本身，仅提示适用性限制，故为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不可用，改为 association。"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p02-a005",
+      "target": "s-b1adda7fe842-c003:p02-a006",
+      "kind": "supports",
+      "condition": "实操练习与讨论",
+      "reason": "k00096强调实操练习，k00097鼓励群内讨论，两者都是学习方式。"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p02-r001",
+      "target": "s-b1adda7fe842-c003:p01-a003",
+      "kind": "step_of",
+      "condition": "面对愤怒时的回应",
+      "reason": "源命题是面对孩子愤怒时表达难过并寻求缓解的具体做法，属于目标命题中第6步表达难过和希望缓解关系的细化步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n001",
+      "target": "s-b1adda7fe842-c001:r001",
+      "kind": "complements",
+      "condition": "在训练孩子习惯时",
+      "reason": "source 指出问题（训练耗时过长说明方法不对，应反思设计有趣方法），candidate 直接提供原则（父母需要动脑设计有趣方法，而非反复练习唠叨），二者互补：source 是反面警示，candidate 是正面原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:r001",
+      "target": "s-b1adda7fe842-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在训练孩子习惯时",
+      "reason": "source 指出问题（训练耗时过长说明方法不对，应反思设计有趣方法），candidate 直接提供原则（父母需要动脑设计有趣方法，而非反复练习唠叨），二者互补：source 是反面警示，candidate 是正面原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n001",
+      "target": "s-b1adda7fe842-c001:a012",
+      "kind": "complements",
+      "condition": "在训练冲厕所等简单生活习惯时",
+      "reason": "source 强调需要有趣有奖励的流程，candidate 具体展示了冲厕所的趣味方法（糖果装置、箭头路线），是 source 建议的具体实施，补充了实质做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:a012",
+      "target": "s-b1adda7fe842-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在训练冲厕所等简单生活习惯时",
+      "reason": "source 强调需要有趣有奖励的流程，candidate 具体展示了冲厕所的趣味方法（糖果装置、箭头路线），是 source 建议的具体实施，补充了实质做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n001",
+      "target": "s-b1adda7fe842-c002:a001",
+      "kind": "complements",
+      "condition": "在帮助孩子练习生活习惯时",
+      "reason": "source 强调方法不当需反思并设计有趣方法，candidate 同样阐述需要动脑设计有意思的方法，两者核心一致，candidate 补充了视觉提示等示例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a001",
+      "target": "s-b1adda7fe842-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在帮助孩子练习生活习惯时",
+      "reason": "source 强调方法不当需反思并设计有趣方法，candidate 同样阐述需要动脑设计有意思的方法，两者核心一致，candidate 补充了视觉提示等示例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n001",
+      "target": "s-b1adda7fe842-c001:r003",
+      "kind": "association",
+      "condition": "在训练孩子习惯时",
+      "reason": "source 关注单一习惯训练时间过长，candidate 提出一次只设两个目标，是另一个习惯训练技巧，但与 source 的耗时问题不同侧面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:r003",
+      "target": "s-b1adda7fe842-c001:v2-n001",
+      "kind": "association",
+      "condition": "在训练孩子习惯时",
+      "reason": "source 关注单一习惯训练时间过长，candidate 提出一次只设两个目标，是另一个习惯训练技巧，但与 source 的耗时问题不同侧面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n001",
+      "target": "s-b1adda7fe842-c001:r004",
+      "kind": "complements",
+      "condition": "在训练冲厕所时",
+      "reason": "source 指出需要有趣流程，candidate 提供视觉提示方法（箭头、路线图、糖果奖励），是 source 的具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:r004",
+      "target": "s-b1adda7fe842-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在训练冲厕所时",
+      "reason": "source 指出需要有趣流程，candidate 提供视觉提示方法（箭头、路线图、糖果奖励），是 source 的具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n001",
+      "target": "s-b1adda7fe842-c001:a011",
+      "kind": "association",
+      "condition": "当孩子生活习惯差且之前未得到有效训练时",
+      "reason": "source 认为简单习惯训练超过一年说明方法不对；candidate 提到对于 8 岁孩子补课可能训练长达六年，但条件不同（前者是简单习惯且已尝试；后者是未教过且补课），不冲突，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:a011",
+      "target": "s-b1adda7fe842-c001:v2-n001",
+      "kind": "association",
+      "condition": "当孩子生活习惯差且之前未得到有效训练时",
+      "reason": "source 认为简单习惯训练超过一年说明方法不对；candidate 提到对于 8 岁孩子补课可能训练长达六年，但条件不同（前者是简单习惯且已尝试；后者是未教过且补课），不冲突，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n001",
+      "target": "s-b1adda7fe842-c001:r002",
+      "kind": "association",
+      "condition": "在理解父母未教习惯的原因时",
+      "reason": "source 关注训练方法，candidate 解释父母为何不会自然教孩子习惯，是背景原因，与 source 无直接因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:r002",
+      "target": "s-b1adda7fe842-c001:v2-n001",
+      "kind": "association",
+      "condition": "在理解父母未教习惯的原因时",
+      "reason": "source 关注训练方法，candidate 解释父母为何不会自然教孩子习惯，是背景原因，与 source 无直接因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n001",
+      "target": "s-b1adda7fe842-c003:p02-a004",
+      "kind": "association",
+      "condition": "当方法需要适应孩子年龄时",
+      "reason": "source 提出方法不当需调整，candidate 强调方法要随孩子年龄调整，补充了年龄维度，但未直接关联到 source 的耗时问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p02-a004",
+      "target": "s-b1adda7fe842-c001:v2-n001",
+      "kind": "association",
+      "condition": "当方法需要适应孩子年龄时",
+      "reason": "source 提出方法不当需调整，candidate 强调方法要随孩子年龄调整，补充了年龄维度，但未直接关联到 source 的耗时问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n001",
+      "target": "s-b1adda7fe842-c002:xe004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 讲与 13-14 岁孩子沟通要真实，与 source 习惯训练无关，仅同属育儿主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:xe004",
+      "target": "s-b1adda7fe842-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 讲与 13-14 岁孩子沟通要真实，与 source 习惯训练无关，仅同属育儿主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n001",
+      "target": "s-b1adda7fe842-c001:a010",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 鼓励孩子面对高尔夫瓶颈，与习惯训练无关，主题相近但无实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:a010",
+      "target": "s-b1adda7fe842-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 鼓励孩子面对高尔夫瓶颈，与习惯训练无关，主题相近但无实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n001",
+      "target": "s-b1adda7fe842-c001:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于婴儿身体接触适度，与习惯训练无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:a004",
+      "target": "s-b1adda7fe842-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于婴儿身体接触适度，与习惯训练无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n001",
+      "target": "s-b1adda7fe842-c001:a008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 应对孩子读书快的方法，与习惯训练无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:a008",
+      "target": "s-b1adda7fe842-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 应对孩子读书快的方法，与习惯训练无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n002",
+      "target": "s-b1adda7fe842-c002:a002",
+      "kind": "association",
+      "condition": "当孩子处于19-25岁阶段时",
+      "reason": "source 与 candidate 内容几乎一致，都在阐述 19-25 岁用理性认知理解父母的爱，candidate 是 source 的重述，无新增实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a002",
+      "target": "s-b1adda7fe842-c001:v2-n002",
+      "kind": "association",
+      "condition": "当孩子处于19-25岁阶段时",
+      "reason": "source 与 candidate 内容几乎一致，都在阐述 19-25 岁用理性认知理解父母的爱，candidate 是 source 的重述，无新增实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n002",
+      "target": "s-b1adda7fe842-c001:a013",
+      "kind": "association",
+      "condition": "当孩子出国留学等独立生活时",
+      "reason": "同样内容重复，candidate 提到出国留学场景，与 source 一致，无新增。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:a013",
+      "target": "s-b1adda7fe842-c001:v2-n002",
+      "kind": "association",
+      "condition": "当孩子出国留学等独立生活时",
+      "reason": "同样内容重复，candidate 提到出国留学场景，与 source 一致，无新增。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n002",
+      "target": "s-b1adda7fe842-c002:a009",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 讨论孩子不尊重父母的原因，与 source 的理性认知无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a009",
+      "target": "s-b1adda7fe842-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 讨论孩子不尊重父母的原因，与 source 的理性认知无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n002",
+      "target": "s-b1adda7fe842-c001:r002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于父母未教孩子习惯的原因，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:r002",
+      "target": "s-b1adda7fe842-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于父母未教孩子习惯的原因，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n002",
+      "target": "s-b1adda7fe842-c001:a014",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子读书快问题归属，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:a014",
+      "target": "s-b1adda7fe842-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子读书快问题归属，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n002",
+      "target": "s-b1adda7fe842-c002:a022",
+      "kind": "association",
+      "condition": "当孩子理性确认父母爱但感受不到时",
+      "reason": "source 讲 19-25 岁用理性认知相信父母的爱，candidate 案例中抑郁者理性确认但感受不到，两者都涉及理性认知与感受的关系，但阶段和问题不同，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a022",
+      "target": "s-b1adda7fe842-c001:v2-n002",
+      "kind": "association",
+      "condition": "当孩子理性确认父母爱但感受不到时",
+      "reason": "source 讲 19-25 岁用理性认知相信父母的爱，candidate 案例中抑郁者理性确认但感受不到，两者都涉及理性认知与感受的关系，但阶段和问题不同，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n002",
+      "target": "s-b1adda7fe842-c003:p01-a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于零花钱冲突中的爱意传递，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a001",
+      "target": "s-b1adda7fe842-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于零花钱冲突中的爱意传递，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n002",
+      "target": "s-b1adda7fe842-c002:a030",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于先打开自己才能让孩子打开，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a030",
+      "target": "s-b1adda7fe842-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于先打开自己才能让孩子打开，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n002",
+      "target": "s-b1adda7fe842-c003:p01-a002",
+      "kind": "association",
+      "condition": "当孩子处于冲动状态（如零花钱吵架）时",
+      "reason": "source 讲理性认知是 19-25 岁阶段特点，candidate 讲理性讲道理在冲动状态下无效，两者都涉及理性但条件不同，不冲突，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a002",
+      "target": "s-b1adda7fe842-c001:v2-n002",
+      "kind": "association",
+      "condition": "当孩子处于冲动状态（如零花钱吵架）时",
+      "reason": "source 讲理性认知是 19-25 岁阶段特点，candidate 讲理性讲道理在冲动状态下无效，两者都涉及理性但条件不同，不冲突，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n002",
+      "target": "s-b1adda7fe842-c003:p01-a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 给孩子力量的方式，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a005",
+      "target": "s-b1adda7fe842-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 给孩子力量的方式，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n002",
+      "target": "s-b1adda7fe842-c002:a012",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 父母很难给孩子自己没有的东西，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a012",
+      "target": "s-b1adda7fe842-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 父母很难给孩子自己没有的东西，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c001:v2-n002",
+      "target": "s-b1adda7fe842-c002:a007",
+      "kind": "association",
+      "condition": "当孩子处于16-17岁阶段时",
+      "reason": "source 讲 19-25 岁阶段，candidate 讲 16-17 岁情绪失控特点，年龄段不同，主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a007",
+      "target": "s-b1adda7fe842-c001:v2-n002",
+      "kind": "association",
+      "condition": "当孩子处于16-17岁阶段时",
+      "reason": "source 讲 19-25 岁阶段，candidate 讲 16-17 岁情绪失控特点，年龄段不同，主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:v2-n001",
+      "target": "s-b1adda7fe842-c003:v2-n001",
+      "kind": "complements",
+      "condition": "零花钱足够且不因吵架增加零花钱",
+      "reason": "该候选补充了孩子被要求打工、钱挣不到和学习受影响等具体情节，使案例更完整，补足了源案例中未提及的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:v2-n001",
+      "target": "s-b1adda7fe842-c002:v2-n001",
+      "kind": "complements",
+      "condition": "零花钱足够且不因吵架增加零花钱",
+      "reason": "该候选补充了孩子被要求打工、钱挣不到和学习受影响等具体情节，使案例更完整，补足了源案例中未提及的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:v2-n001",
+      "target": "s-b1adda7fe842-c003:p01-a001",
+      "kind": "example_of",
+      "condition": "零花钱足够",
+      "reason": "源案例描述了一个零花钱冲突的具体场景，孩子抱怨零花钱不够，而候选内容指出在该场景下父母的目标是让孩子感受到爱且零花钱足够，源案例是该概念的典型实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a001",
+      "target": "s-b1adda7fe842-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "零花钱足够",
+      "reason": "源案例描述了一个零花钱冲突的具体场景，孩子抱怨零花钱不够，而候选内容指出在该场景下父母的目标是让孩子感受到爱且零花钱足够，源案例是该概念的典型实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:v2-n001",
+      "target": "s-b1adda7fe842-c003:p01-r001",
+      "kind": "complements",
+      "condition": "零花钱足够",
+      "reason": "候选补充了‘零花钱足够’的具体判断标准（如用于买饭、买奶）以及学校包饭等例外情况，源案例只提到零花钱足够但未展开。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-r001",
+      "target": "s-b1adda7fe842-c002:v2-n001",
+      "kind": "complements",
+      "condition": "零花钱足够",
+      "reason": "候选补充了‘零花钱足够’的具体判断标准（如用于买饭、买奶）以及学校包饭等例外情况，源案例只提到零花钱足够但未展开。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:v2-n001",
+      "target": "s-b1adda7fe842-c003:p01-a003",
+      "kind": "example_of",
+      "condition": "零花钱足够",
+      "reason": "源案例是零花钱冲突的具体情境，候选提供了解决该冲突的6个具体步骤，因此源案例是候选方法应用的典型例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a003",
+      "target": "s-b1adda7fe842-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "零花钱足够",
+      "reason": "源案例是零花钱冲突的具体情境，候选提供了解决该冲突的6个具体步骤，因此源案例是候选方法应用的典型例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:v2-n001",
+      "target": "s-b1adda7fe842-c003:p01-a005",
+      "kind": "complements",
+      "condition": "零花钱足够",
+      "reason": "候选补充了在零花钱冲突中如何给孩子力量的具体做法（如对钱干脆说不、表达感受），源案例未涉及该内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a005",
+      "target": "s-b1adda7fe842-c002:v2-n001",
+      "kind": "complements",
+      "condition": "零花钱足够",
+      "reason": "候选补充了在零花钱冲突中如何给孩子力量的具体做法（如对钱干脆说不、表达感受），源案例未涉及该内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:v2-n001",
+      "target": "s-b1adda7fe842-c003:p01-a002",
+      "kind": "complements",
+      "condition": "孩子处于冲动状态",
+      "reason": "候选补充了该场景下理性讲道理无效的观点，为源案例中处理冲突提供了指导原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a002",
+      "target": "s-b1adda7fe842-c002:v2-n001",
+      "kind": "complements",
+      "condition": "孩子处于冲动状态",
+      "reason": "候选补充了该场景下理性讲道理无效的观点，为源案例中处理冲突提供了指导原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:v2-n002",
+      "target": "s-b1adda7fe842-c002:a026",
+      "kind": "association",
+      "condition": "无特定条件，适用于身体接触困难的情况",
+      "reason": "候选提到身体接触困难需要专业帮助，与源内容‘早期创伤或长期伤害’主题相关，但方向不满足example_of，故归为association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a026",
+      "target": "s-b1adda7fe842-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，适用于身体接触困难的情况",
+      "reason": "候选提到身体接触困难需要专业帮助，与源内容‘早期创伤或长期伤害’主题相关，但方向不满足example_of，故归为association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:v2-n002",
+      "target": "s-b1adda7fe842-c002:a025",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选是源内容中‘被母亲不救’的典型具体案例，但方向受限无法标注为example_of，因此以association记录关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a025",
+      "target": "s-b1adda7fe842-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选是源内容中‘被母亲不救’的典型具体案例，但方向受限无法标注为example_of，因此以association记录关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:v2-n002",
+      "target": "s-b1adda7fe842-c002:a022",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选描述的感受不到父母的爱是源内容中列举的伤害具体案例，方向限制导致只能用association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a022",
+      "target": "s-b1adda7fe842-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选描述的感受不到父母的爱是源内容中列举的伤害具体案例，方向限制导致只能用association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:v2-n002",
+      "target": "s-b1adda7fe842-c002:a011",
+      "kind": "association",
+      "condition": "早期阶段",
+      "reason": "候选讨论了早期缺乏爱与冷漠的关系，与源内容早期创伤主题相关，但未直接涉及处理方法，故为association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a011",
+      "target": "s-b1adda7fe842-c002:v2-n002",
+      "kind": "association",
+      "condition": "早期阶段",
+      "reason": "候选讨论了早期缺乏爱与冷漠的关系，与源内容早期创伤主题相关，但未直接涉及处理方法，故为association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:v2-n002",
+      "target": "s-b1adda7fe842-c002:a023",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选阐述了身体接触与信任的关系，与源内容中‘厌恶亲密关系’等主题相关，但未涉及处理步骤，故association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a023",
+      "target": "s-b1adda7fe842-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选阐述了身体接触与信任的关系，与源内容中‘厌恶亲密关系’等主题相关，但未涉及处理步骤，故association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:v2-n002",
+      "target": "s-b1adda7fe842-c002:a024",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选讨论厌恶丈夫与早期经历的可能关联，与源内容早期创伤主题相似，但不确定具体因果，故association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a024",
+      "target": "s-b1adda7fe842-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选讨论厌恶丈夫与早期经历的可能关联，与源内容早期创伤主题相似，但不确定具体因果，故association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:v2-n001",
+      "target": "s-b1adda7fe842-c003:p01-a001",
+      "kind": "example_of",
+      "condition": "零花钱足够",
+      "reason": "源案例是零花钱冲突的具体实例，且包括打工等细节，仍然是候选概念（父母目标让孩子感受爱且零花钱足够）的典型例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a001",
+      "target": "s-b1adda7fe842-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "零花钱足够",
+      "reason": "源案例是零花钱冲突的具体实例，且包括打工等细节，仍然是候选概念（父母目标让孩子感受爱且零花钱足够）的典型例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:v2-n001",
+      "target": "s-b1adda7fe842-c002:v2-n001",
+      "kind": "association",
+      "condition": "同为零花钱冲突，零花钱足够",
+      "reason": "两个案例内容高度相似，但无实质补充关系，仅为不同表述，故association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:v2-n001",
+      "target": "s-b1adda7fe842-c003:v2-n001",
+      "kind": "association",
+      "condition": "同为零花钱冲突，零花钱足够",
+      "reason": "两个案例内容高度相似，但无实质补充关系，仅为不同表述，故association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:v2-n001",
+      "target": "s-b1adda7fe842-c003:p01-r001",
+      "kind": "complements",
+      "condition": "零花钱足够",
+      "reason": "候选补充了零花钱足够的具体判断标准，源案例只提到前提是零花钱足够，未展开细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-r001",
+      "target": "s-b1adda7fe842-c003:v2-n001",
+      "kind": "complements",
+      "condition": "零花钱足够",
+      "reason": "候选补充了零花钱足够的具体判断标准，源案例只提到前提是零花钱足够，未展开细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:v2-n001",
+      "target": "s-b1adda7fe842-c003:p01-a005",
+      "kind": "complements",
+      "condition": "零花钱足够",
+      "reason": "候选补充了在零花钱冲突中给孩子力量的具体方式，源案例未涉及此操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a005",
+      "target": "s-b1adda7fe842-c003:v2-n001",
+      "kind": "complements",
+      "condition": "零花钱足够",
+      "reason": "候选补充了在零花钱冲突中给孩子力量的具体方式，源案例未涉及此操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:v2-n001",
+      "target": "s-b1adda7fe842-c003:p01-a003",
+      "kind": "example_of",
+      "condition": "零花钱足够",
+      "reason": "源案例是零花钱冲突场景，候选提供了6个具体步骤，源案例是该方法的应用例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a003",
+      "target": "s-b1adda7fe842-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "零花钱足够",
+      "reason": "源案例是零花钱冲突场景，候选提供了6个具体步骤，源案例是该方法的应用例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:v2-n001",
+      "target": "s-b1adda7fe842-c003:p01-a002",
+      "kind": "complements",
+      "condition": "孩子处于冲动状态",
+      "reason": "候选补充了理性讲道理无效的观点，为源案例中如何处理提供指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:p01-a002",
+      "target": "s-b1adda7fe842-c003:v2-n001",
+      "kind": "complements",
+      "condition": "孩子处于冲动状态",
+      "reason": "候选补充了理性讲道理无效的观点，为源案例中如何处理提供指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:v2-n001",
+      "target": "s-b1adda7fe842-c002:a030",
+      "kind": "association",
+      "condition": "13-14岁沟通",
+      "reason": "候选提出先打开自己才能让孩子打开，与源案例中让孩子感受爱可能相关，但未直接提及，故association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:a030",
+      "target": "s-b1adda7fe842-c003:v2-n001",
+      "kind": "association",
+      "condition": "13-14岁沟通",
+      "reason": "候选提出先打开自己才能让孩子打开，与源案例中让孩子感受爱可能相关，但未直接提及，故association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c003:v2-n001",
+      "target": "s-b1adda7fe842-c002:xe004",
+      "kind": "association",
+      "condition": "13-14岁沟通",
+      "reason": "候选强调沟通要真实，与源案例中处理冲突可能相关，但未具体说明，故association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b1adda7fe842-c002:xe004",
+      "target": "s-b1adda7fe842-c003:v2-n001",
+      "kind": "association",
+      "condition": "13-14岁沟通",
+      "reason": "候选强调沟通要真实，与源案例中处理冲突可能相关，但未具体说明，故association。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "当孩子因界限被拒绝而情绪激动时，父母需要理解情绪并传递爱。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a004",
+        "s-b1adda7fe842-c002:a005",
+        "s-b1adda7fe842-c002:a017",
+        "s-b1adda7fe842-c003:p01-a006",
+        "s-b1adda7fe842-c003:p01-r001",
+        "s-b1adda7fe842-c003:p01-a001",
+        "s-b1adda7fe842-c003:p01-a002",
+        "s-b1adda7fe842-c003:p01-a003",
+        "s-b1adda7fe842-c003:p01-a004",
+        "s-b1adda7fe842-c003:p01-a005",
+        "s-b1adda7fe842-c003:p02-a002",
+        "s-b1adda7fe842-c003:p02-a003",
+        "s-b1adda7fe842-c003:p02-r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "不同年龄阶段的孩子情绪表达和需求不同，父母需要根据年龄调整沟通方式。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a006",
+        "s-b1adda7fe842-c002:a007",
+        "s-b1adda7fe842-c002:a008",
+        "s-b1adda7fe842-c002:a027",
+        "s-b1adda7fe842-c002:a028",
+        "s-b1adda7fe842-c002:a029",
+        "s-b1adda7fe842-c002:a030",
+        "s-b1adda7fe842-c002:a031",
+        "s-b1adda7fe842-c002:xe001",
+        "s-b1adda7fe842-c002:xe003",
+        "s-b1adda7fe842-c002:xe004",
+        "s-b1adda7fe842-c003:p01-a001",
+        "s-b1adda7fe842-c003:p01-a002",
+        "s-b1adda7fe842-c003:p01-a003",
+        "s-b1adda7fe842-c003:p01-a004",
+        "s-b1adda7fe842-c003:p01-a005",
+        "s-b1adda7fe842-c003:p01-a006",
+        "s-b1adda7fe842-c003:p01-r001",
+        "s-b1adda7fe842-c003:p02-a002",
+        "s-b1adda7fe842-c003:p02-a003",
+        "s-b1adda7fe842-c003:p02-a004",
+        "s-b1adda7fe842-c003:p02-r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "规则与行动",
+      "when": "父母需要先自我成长，才能有效训练孩子习惯和设定规则。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a011",
+        "s-b1adda7fe842-c001:a012",
+        "s-b1adda7fe842-c001:r001",
+        "s-b1adda7fe842-c001:r002",
+        "s-b1adda7fe842-c001:r003",
+        "s-b1adda7fe842-c001:r004",
+        "s-b1adda7fe842-c002:a001",
+        "s-b1adda7fe842-c002:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "理解情绪",
+      "when": "父母了解自己的情绪和需要，才能更好地理解孩子的情绪。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a020",
+        "s-b1adda7fe842-c002:a021",
+        "s-b1adda7fe842-c002:a022",
+        "s-b1adda7fe842-c002:a024",
+        "s-b1adda7fe842-c002:a025",
+        "s-b1adda7fe842-c002:a026"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "不同年龄阶段需要设定不同的界限，如12岁身体接触界限、零花钱界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a004",
+        "s-b1adda7fe842-c001:a005",
+        "s-b1adda7fe842-c002:a005",
+        "s-b1adda7fe842-c002:a017",
+        "s-b1adda7fe842-c003:p01-a006",
+        "s-b1adda7fe842-c003:p01-r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "内在能力",
+      "to": "阶段与角色",
+      "when": "培养孩子的内在能力需要根据年龄阶段调整方法，如13-14岁赋能。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a010",
+        "s-b1adda7fe842-c002:a028",
+        "s-b1adda7fe842-c002:xe002",
+        "s-b1adda7fe842-c003:p01-a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a013",
+        "s-b1adda7fe842-c002:a002"
+      ],
+      "reason": "内容完全一致，均描述19-25岁孩子用理性认知理解父母的爱。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a003"
+      ],
+      "reason": "内容完全一致，均描述12岁男孩喜欢身体接触的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a004"
+      ],
+      "reason": "内容完全一致，均描述早期抚摸与身体接触偏好的关联。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a005"
+      ],
+      "reason": "内容完全一致，均描述12岁孩子身体接触的界限。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a006"
+      ],
+      "reason": "内容完全一致，均描述16-17岁孩子沟通时非要达到自己想法。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a007"
+      ],
+      "reason": "内容完全一致，均描述16-17岁孩子情绪失控的年龄特点。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a008"
+      ],
+      "reason": "内容完全一致，均描述应对16-17岁孩子情绪失控的建议。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a009"
+      ],
+      "reason": "内容完全一致，均描述孩子不尊重父母的原因。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a010"
+      ],
+      "reason": "内容完全一致，均描述8岁孩子早期缺乏身体接触和依恋关系。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a011"
+      ],
+      "reason": "内容完全一致，均描述早期缺乏爱与冷漠的关系。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a012"
+      ],
+      "reason": "内容完全一致，均描述父母很难给孩子自己没有的东西。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a013"
+      ],
+      "reason": "内容完全一致，均描述修复早期依恋缺失的可能性。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a014"
+      ],
+      "reason": "内容完全一致，均描述二胎家庭中老二骂人和攻击行为。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a015"
+      ],
+      "reason": "内容完全一致，均描述培养孩子高贵的方法是尊重他。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a016"
+      ],
+      "reason": "内容完全一致，均描述老二攻击行为的可能原因。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a017"
+      ],
+      "reason": "内容完全一致，均描述对姐姐立界限以保护老二。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a018"
+      ],
+      "reason": "内容完全一致，均描述无法面对面沟通时可采用书信方式。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a019"
+      ],
+      "reason": "内容完全一致，均描述跟孩子道歉的七个步骤。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a020"
+      ],
+      "reason": "内容完全一致，均描述爱的语言测试结果与自我认知不符。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a021"
+      ],
+      "reason": "内容完全一致，均描述否认真实需要的心理机制。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a022"
+      ],
+      "reason": "内容完全一致，均描述抑郁者感受不到父母的爱。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a023"
+      ],
+      "reason": "内容完全一致，均描述身体接触与依恋关系及恋爱关系。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a024"
+      ],
+      "reason": "内容完全一致，均描述厌恶丈夫与早期经历的可能关联。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a025"
+      ],
+      "reason": "内容完全一致，均描述婴儿期被母乳呛到母亲不救。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a026"
+      ],
+      "reason": "内容完全一致，均描述身体接触困难需要专业帮助。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a027"
+      ],
+      "reason": "内容完全一致，均描述13-14岁孩子沮丧回家关房门。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a028"
+      ],
+      "reason": "内容完全一致，均描述13-14岁孩子爱的语言是提供帮助。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a029"
+      ],
+      "reason": "内容完全一致，均描述与沮丧孩子沟通的示范话术。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a030"
+      ],
+      "reason": "内容完全一致，均描述先打开自己才能让孩子打开。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a031"
+      ],
+      "reason": "内容完全一致，均描述避免像心理辅导一样提问。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a001"
+      ],
+      "reason": "内容完全一致，均描述用趣味性方法帮助孩子练习生活习惯。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a004"
+      ],
+      "description": "讲师认为12岁孩子身体接触爱的语言排第三，照道理应该排第一，对此感到奇怪。但记录中未提供解释或证据，存在认知矛盾。",
+      "needed_evidence": "需要进一步了解该孩子爱的语言排序的原因，或早期抚摸与身体接触偏好关联的更多研究。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a024"
+      ],
+      "description": "家长厌恶丈夫是否与0-2岁经历有关，讲师认为有可能，但也可能是因为本来就厌恶老公，不见得是0-2岁造成。存在不确定性。",
+      "needed_evidence": "需要更多信息判断厌恶丈夫的根本原因，以及早期经历对成人关系的影响程度。"
+    },
+    {
+      "atom_ids": [
+        "s-b1adda7fe842-c002:xe001",
+        "s-b1adda7fe842-c002:a008"
+      ],
+      "description": "k00081指出对16-17岁孩子讲道理效果有限，因为孩子没有这个能力；但k00026中家长讲道理（如动脑子双赢）是对的，只是孩子不听可能因为关系不够好。两者对讲道理的评价存在差异。",
+      "needed_evidence": "需要明确讲道理在16-17岁孩子中的有效性条件，以及关系质量对讲道理效果的影响。"
+    }
+  ],
+  "path": [
+    {
+      "name": "应对孩子情绪冲突的沟通流程",
+      "steps": [
+        {
+          "action": "指出孩子的情绪",
+          "atom_ids": [
+            "s-b1adda7fe842-c003:p01-a003",
+            "s-b1adda7fe842-c003:p02-r001"
+          ],
+          "condition": "适用于孩子因具体事务（如零花钱）情绪激动时"
+        },
+        {
+          "action": "表达自己的感受",
+          "atom_ids": [
+            "s-b1adda7fe842-c003:p01-a003",
+            "s-b1adda7fe842-c003:p02-r001"
+          ],
+          "condition": "父母需坦诚表达自己的担心和难过"
+        },
+        {
+          "action": "说明看到情绪背后的本质",
+          "atom_ids": [
+            "s-b1adda7fe842-c003:p01-a003"
+          ],
+          "condition": "透过现象看本质，如零花钱背后的不爽"
+        },
+        {
+          "action": "邀请孩子说明需求",
+          "atom_ids": [
+            "s-b1adda7fe842-c003:p01-a003"
+          ],
+          "condition": "给孩子机会表达真实需求"
+        },
+        {
+          "action": "明确自己的观点和界限",
+          "atom_ids": [
+            "s-b1adda7fe842-c003:p01-a003",
+            "s-b1adda7fe842-c003:p01-a006",
+            "s-b1adda7fe842-c003:p01-r001"
+          ],
+          "condition": "对不合理要求坚决拒绝，同时说明理由"
+        },
+        {
+          "action": "表达自己的难过和希望缓解关系",
+          "atom_ids": [
+            "s-b1adda7fe842-c003:p01-a003",
+            "s-b1adda7fe842-c003:p01-a006",
+            "s-b1adda7fe842-c003:p02-r001"
+          ],
+          "condition": "即使拒绝，也表达愿意修复关系的意愿"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "5990d0a655f7ebd5bac3735209afdb66d52232d200f369eccac77052e701c1ed",
+  "point_units": [
+    {
+      "id": "s-b1adda7fe842-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a002"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00007",
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c001:u0003",
+      "kind": "case",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a003"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a004"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a005"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a006"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a007"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c001:u0008",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a008",
+        "s-b1adda7fe842-c001:a014"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c001:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a009"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c001:u0010",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a010"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029",
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c001:u0011",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a011",
+        "s-b1adda7fe842-c001:r002",
+        "s-b1adda7fe842-c001:r003"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034",
+        "b00035",
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c001:u0012",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00038",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c001:u0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a012",
+        "s-b1adda7fe842-c001:r004"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0001",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a012",
+        "s-b1adda7fe842-c001:r001",
+        "s-b1adda7fe842-c002:a001"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:a013",
+        "s-b1adda7fe842-c002:a002"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0003",
+      "kind": "case",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a003",
+        "s-b1adda7fe842-c002:a004"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a005"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0005",
+      "kind": "case",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a006"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0006",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a007"
+      ],
+      "blocks": [
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0007",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a008",
+        "s-b1adda7fe842-c002:xe001"
+      ],
+      "blocks": [
+        "b00047",
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a009"
+      ],
+      "blocks": [
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0009",
+      "kind": "case",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a010",
+        "s-b1adda7fe842-c002:a013"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0010",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a011"
+      ],
+      "blocks": [
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a012"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0012",
+      "kind": "case",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a014"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a015"
+      ],
+      "blocks": [
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a016"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0015",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a017"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0016",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a018"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0017",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a019"
+      ],
+      "blocks": [
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0018",
+      "kind": "case",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a020"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0019",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a021"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0020",
+      "kind": "case",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a022"
+      ],
+      "blocks": [
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0021",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a023"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0022",
+      "kind": "case",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a024"
+      ],
+      "blocks": [
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0023",
+      "kind": "case",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a025"
+      ],
+      "blocks": [
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0024",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a026",
+        "s-b1adda7fe842-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0025",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0026",
+      "kind": "case",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a027"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0027",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:xe003"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0028",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a028"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0029",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a031",
+        "s-b1adda7fe842-c002:xe004"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0030",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a029"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0031",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:a030"
+      ],
+      "blocks": [
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c002:u0032",
+      "kind": "case",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b1adda7fe842-c003:p01-a001"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c003:u002",
+      "kind": "condition",
+      "atom_ids": [
+        "s-b1adda7fe842-c003:p01-r001"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c003:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-b1adda7fe842-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085",
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c003:u004",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-b1adda7fe842-c003:p01-a002"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c003:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c003:p01-a003"
+      ],
+      "blocks": [
+        "b00091",
+        "b00092",
+        "b00093",
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c003:u006",
+      "kind": "question",
+      "atom_ids": [
+        "s-b1adda7fe842-c003:p01-r002"
+      ],
+      "blocks": [
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c003:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c003:p01-a005",
+        "s-b1adda7fe842-c003:p02-a003"
+      ],
+      "blocks": [
+        "b00095",
+        "b00097"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c003:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c003:p01-a006",
+        "s-b1adda7fe842-c003:p02-r001"
+      ],
+      "blocks": [
+        "b00096",
+        "b00097"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c003:u009",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-b1adda7fe842-c003:p01-a004",
+        "s-b1adda7fe842-c003:p02-a002"
+      ],
+      "blocks": [
+        "b00095",
+        "b00096",
+        "b00097"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c003:u010",
+      "kind": "condition",
+      "atom_ids": [
+        "s-b1adda7fe842-c003:p02-a004"
+      ],
+      "blocks": [
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c003:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c003:p02-a005"
+      ],
+      "blocks": [
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-b1adda7fe842-c003:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-b1adda7fe842-c003:p02-a006"
+      ],
+      "blocks": [
+        "b00099",
+        "b00100"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "单一习惯训练耗时过长提示方法不当",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b1adda7fe842",
+          "blocks": [
+            "b00038",
+            "b00042"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "training_time"
+    },
+    {
+      "title": "19-25岁用理性认知相信父母的爱",
+      "atom_ids": [
+        "s-b1adda7fe842-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b1adda7fe842",
+          "blocks": [
+            "b00043"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "stage_feature"
+    },
+    {
+      "title": "13-14岁孩子因零花钱不够吵架的假设案例",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b1adda7fe842",
+          "blocks": [
+            "b00084",
+            "b00085"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "早期创伤和伤害需要系统处理，不要止步于课程打卡",
+      "atom_ids": [
+        "s-b1adda7fe842-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b1adda7fe842",
+          "blocks": [
+            "b00067",
+            "b00068",
+            "b00069"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "零花钱冲突案例：13-14岁孩子抱怨同学零花钱更多且自己需打工",
+      "atom_ids": [
+        "s-b1adda7fe842-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b1adda7fe842",
+          "blocks": [
+            "b00084",
+            "b00085",
+            "b00087",
+            "b00088"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "hypothetical"
+    }
+  ]
+}

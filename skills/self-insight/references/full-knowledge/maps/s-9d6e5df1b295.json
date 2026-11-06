@@ -1,0 +1,4255 @@
+{
+  "concepts": [
+    {
+      "name": "理直气壮",
+      "definition": "在道理在自己这边时，可以理直气壮地表达或反击；前提是自己必须是好人，不能无理取闹。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a001",
+        "s-9d6e5df1b295-c001:a005",
+        "s-9d6e5df1b295-c001:a002"
+      ]
+    },
+    {
+      "name": "逻辑漏洞",
+      "definition": "对方在生气或提出不合理要求时，其言语或逻辑中存在的矛盾或不一致之处，抓住漏洞可以反击。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a009",
+        "s-9d6e5df1b295-c001:a010",
+        "s-9d6e5df1b295-c003:a008",
+        "s-9d6e5df1b295-c004:a012",
+        "s-9d6e5df1b295-c004:a014",
+        "s-9d6e5df1b295-c005:a001",
+        "s-9d6e5df1b295-c005:a020"
+      ]
+    },
+    {
+      "name": "清白感",
+      "definition": "希望证明自己是好的、没有责任的心理，这种心理会让人在冲突中陷入被动，被对方拿捏。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a006",
+        "s-9d6e5df1b295-c003:r007",
+        "s-9d6e5df1b295-c004:a003",
+        "s-9d6e5df1b295-c004:r002",
+        "s-9d6e5df1b295-c005:a016"
+      ]
+    },
+    {
+      "name": "情绪操控",
+      "definition": "利用发脾气等情绪表达来操控他人，使对方软下来或达到自己的目的。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a002",
+        "s-9d6e5df1b295-c002:a005",
+        "s-9d6e5df1b295-c002:a006"
+      ]
+    },
+    {
+      "name": "界限",
+      "definition": "在人际关系中明确自己的责任和权利，不承担不属于自己的情绪责任，不让他人越界。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a004",
+        "s-9d6e5df1b295-c005:a003",
+        "s-9d6e5df1b295-c005:a012"
+      ]
+    },
+    {
+      "name": "内在力量",
+      "definition": "使用技巧所需的内在心理力量，通过练习和解决内在问题来增强。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a022",
+        "s-9d6e5df1b295-c005:a024"
+      ]
+    },
+    {
+      "name": "证明圈套",
+      "definition": "对方指责你时，如果你试图证明自己不是那样的人，就落入了对方的圈套；正确做法是直接认定对方的负面评价。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a002",
+        "s-9d6e5df1b295-c004:a009",
+        "s-9d6e5df1b295-c004:r008"
+      ]
+    },
+    {
+      "name": "蠢人",
+      "definition": "做事不带脑子的人，应对方法是丢他的脸，让他知道惹不起你。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a010",
+        "s-9d6e5df1b295-c004:a011",
+        "s-9d6e5df1b295-c004:r009"
+      ]
+    },
+    {
+      "name": "公平的定义权",
+      "definition": "公平应由当事人自己定义，而不是由对方定义。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a013",
+        "s-9d6e5df1b295-c004:r012"
+      ]
+    },
+    {
+      "name": "情绪责任",
+      "definition": "成年人应自己处理情绪问题，不应将情绪垃圾倾倒给他人。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a003",
+        "s-9d6e5df1b295-c005:a012"
+      ]
+    },
+    {
+      "name": "以毒攻毒",
+      "definition": "当对方用道德指责你时，降低自己的道德标准回应，强调对方先不讲道德。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a017"
+      ]
+    },
+    {
+      "name": "欺负与预期",
+      "definition": "欺负者预期你笑脸接受，如果你不按预期反应，对方会感到受伤或愤怒。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a019"
+      ]
+    },
+    {
+      "name": "心魔",
+      "definition": "从小被压制的人内心存在的未解决问题，影响表达自我和设立界限。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a023"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-9d6e5df1b295-c001:a001",
+      "target": "s-9d6e5df1b295-c001:a005",
+      "kind": "supports",
+      "condition": "理直气壮的前提是道理在自己这边，且自己必须是好人。",
+      "reason": "a001 提出理直气壮的前提是理直，a005 进一步补充使用条件是自己必须是好人，两者共同构成理直气壮的前提。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a006",
+      "target": "s-9d6e5df1b295-c001:a008",
+      "kind": "causes",
+      "condition": "面对他人发火时，如果害怕，就会忘记寻找逻辑漏洞。",
+      "reason": "a006 说明人们面对发火时容易害怕，a008 指出害怕会导致忘记找漏洞，因此害怕是忘记找漏洞的原因。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a007",
+      "target": "s-9d6e5df1b295-c001:a009",
+      "kind": "supports",
+      "condition": "保持冷静才能抓住对方生气时的逻辑漏洞。",
+      "reason": "a007 建议面对咄咄逼人时保持冷静，a009 说明生气时会出现逻辑漏洞，冷静有助于抓住漏洞。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a009",
+      "target": "s-9d6e5df1b295-c001:a011",
+      "kind": "step_of",
+      "condition": "找到漏洞后应火力全开反击。",
+      "reason": "a009 指出生气时出现逻辑漏洞，a011 说明找到漏洞后应理直气壮地攻击回去，是后续步骤。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a012",
+      "target": "s-9d6e5df1b295-c001:a013",
+      "kind": "example_of",
+      "condition": "医院老人闹事被警察制服是咄咄逼人者遇到更强硬对待时会怂的例子。",
+      "reason": "a012 说明咄咄逼人者遇到理直气壮的反击会败下阵来，a013 提供具体案例支持。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a014",
+      "target": "s-9d6e5df1b295-c001:a018",
+      "kind": "contrasts",
+      "condition": "应对发火时，冷静旁观与劝解的效果相反。",
+      "reason": "a014 建议冷静旁观让对方自己烧完，a018 指出劝解会火上浇油，两者形成对比。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a015",
+      "target": "s-9d6e5df1b295-c001:r002",
+      "kind": "causes",
+      "condition": "原生家庭伤害导致成年后害怕他人发火。",
+      "reason": "a015 指出对他人情绪负责的错误信念源于原生家庭伤害，r002 说明童年经历导致应激反应，两者相关。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a016",
+      "target": "s-9d6e5df1b295-c001:r007",
+      "kind": "supports",
+      "condition": "争吵对象的安全判断：值得争吵的对象不会造成严重伤害，遇到危险应认怂。",
+      "reason": "a016 和 r007 内容基本一致，都强调安全界限和认怂逃跑。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a017",
+      "target": "s-9d6e5df1b295-c001:r005",
+      "kind": "supports",
+      "condition": "不害怕对方发火的心态建设：认为伤害可能带来赔偿。",
+      "reason": "a017 讲师被父亲打后报警威胁，r005 提出不害怕伤害因为可能带来赔偿，两者观点一致。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:r001",
+      "target": "s-9d6e5df1b295-c001:a007",
+      "kind": "supports",
+      "condition": "抗压训练的目标是保持冷静，与面对咄咄逼人时的态度一致。",
+      "reason": "r001 定义抗压训练旨在保持冷静，a007 建议气定神闲，两者相互支持。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:r003",
+      "target": "s-9d6e5df1b295-c001:a011",
+      "kind": "step_of",
+      "condition": "抓住漏洞后的具体操作是让对方反省，而不是继续争吵。",
+      "reason": "r003 说明抓住时机指出问题让其反省，a011 强调火力全开攻击，两者是不同步骤。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:r004",
+      "target": "s-9d6e5df1b295-c001:a012",
+      "kind": "supports",
+      "condition": "理直气壮反击会让咄咄逼人者败下阵来。",
+      "reason": "r004 解释心理效果，a012 说明行为模式，两者一致。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:r006",
+      "target": "s-9d6e5df1b295-c001:r005",
+      "kind": "example_of",
+      "condition": "讲师对丈夫的假设性应对是不怕被打心态的例子。",
+      "reason": "r006 提供假设案例，r005 是心态建设观点。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:r008",
+      "target": "s-9d6e5df1b295-c001:a016",
+      "kind": "supports",
+      "condition": "父母暴力行为的可能性评估。",
+      "reason": "r008 和 a016 都涉及父母暴力风险，观点一致。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:r009",
+      "target": "s-9d6e5df1b295-c001:a014",
+      "kind": "supports",
+      "condition": "面对发火时内心淡定，不要试图灭火。",
+      "reason": "r009 强调心理功课，a014 建议冷静旁观，两者一致。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a001",
+      "target": "s-9d6e5df1b295-c002:a002",
+      "kind": "association",
+      "condition": "不干预策略与情绪火上浇油的机制",
+      "reason": "面对他人发脾气时的不干预策略与情绪火上浇油的机制相关：不干预策略有效正是因为干预会火上浇油；但原方向将策略指向机制且原 kind causes 不正确，本边仅保留关联，实际机制支持策略。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 不在允许范围，且方向反了；实际应为情绪火上浇油的机制支持不干预策略，已改为 association。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a003",
+      "target": "s-9d6e5df1b295-c002:a001",
+      "kind": "example_of",
+      "condition": "学员应对讲师发脾气的案例展示了不干预策略的效果",
+      "reason": "学员应对讲师发脾气的案例展示了学员不干预、做自己的事情使讲师情绪消退，体现了不干预策略的具体应用和效果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a004",
+      "target": "s-9d6e5df1b295-c002:a001",
+      "kind": "supports",
+      "condition": "情绪不是由你挑起时，不用管他",
+      "reason": "情绪是否由你挑起的判断概念指出若情绪不是由你挑起则缓和不了所以不用管，支持了面对他人发脾气时不干预策略中条件（对方发脾气不是由你引起的）下的做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a005",
+      "target": "s-9d6e5df1b295-c002:a002",
+      "kind": "applies_to",
+      "condition": "情绪操控在商业谈判中的应用。",
+      "reason": "a005 说明利用发脾气获得优势，a002 解释情绪操控机制。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a006",
+      "target": "s-9d6e5df1b295-c002:a005",
+      "kind": "contrasts",
+      "condition": "识别并应对情绪操控与主动使用情绪操控相反。",
+      "reason": "a006 是反操控，a005 是操控，两者对立。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a007",
+      "target": "s-9d6e5df1b295-c002:a008",
+      "kind": "association",
+      "condition": "学员面对婆婆突然指责、措手不及，与应对突然指责的万能回应属于同一应对场景。",
+      "reason": "学员被婆婆突然指责而不知如何回应的案例，与提出的万能回应方法形成问题与对策关联；但案例本身不能证明该回应有效或导致该方法，故归为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 不成立，改为关联。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a008",
+      "target": "s-9d6e5df1b295-c002:a011",
+      "kind": "supports",
+      "condition": "万能回应“你管不着”为具体话术提供原则依据。",
+      "reason": "应对突然指责的万能回应提出用一句固定话回应，并以“你管不着”为例；应对婆婆指责的具体话术则是该原则在特定场景下的落实，因此前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不准确，改为 supports。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a009",
+      "target": "s-9d6e5df1b295-c002:a008",
+      "kind": "supports",
+      "condition": "在人多时使用万能回应的原则。",
+      "reason": "a009 提供公平原则，支持使用万能回应。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a010",
+      "target": "s-9d6e5df1b295-c002:a008",
+      "kind": "supports",
+      "condition": "害怕对方暴怒是不敢使用万能回应的心理障碍，需克服该恐惧。",
+      "reason": "不敢回应的心理原因强调恐惧导致不敢说话，而应对突然指责的万能回应要求说出固定的话；心理原因说明了使用该方法需克服的障碍，对其必要性提供支持，而非因果导致。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 不成立，改为 supports。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a011",
+      "target": "s-9d6e5df1b295-c002:a012",
+      "kind": "association",
+      "condition": "应对婆婆指责后，若出现装病，则关联到急救电话策略。",
+      "reason": "应对婆婆指责的具体话术与应对婆婆装病的方法同属处理婆婆操控的策略，但前者不必然导致后者，仅是场景上先后关联，故为关联而非步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不准确。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a012",
+      "target": "s-9d6e5df1b295-c002:a013",
+      "kind": "association",
+      "condition": "应对婆婆装病的方法与讲师应对装病案例相关。",
+      "reason": "讲师应对婆婆装病的案例是应对婆婆装病方法的一个具体实例，但原方向与关联类型不符；二者为一般方法与具体案例的关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向错误，改为 association。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a014",
+      "target": "s-9d6e5df1b295-c002:a015",
+      "kind": "association",
+      "condition": "学员面对公公凶狠眼神的案例与应对凶狠眼神的方法相关联。",
+      "reason": "学员面对公公凶狠眼神的案例描述了问题情境，应对凶狠眼神的方法提供对策；二者是问题与对策关联，但案例不能支持或导致该方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 不成立。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a015",
+      "target": "s-9d6e5df1b295-c002:a017",
+      "kind": "association",
+      "condition": "应对凶狠眼神的方法与讲师应对公婆瞪眼的案例相关。",
+      "reason": "讲师应对公婆瞪眼的案例是应对凶狠眼神方法的一个变体实例，但该案例中的唱歌跳舞并非方法描述的具体步骤，二者为关联而非直接示例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向或类型不当，改为 association。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a016",
+      "target": "s-9d6e5df1b295-c002:a008",
+      "kind": "supports",
+      "condition": "储备骂人话术以应对攻击，为准备万能回应提供支持。",
+      "reason": "储备骂人话术以应对攻击主张平时要准备话术，而应对突然指责的万能回应也是提前准备一句回应；前者支持后者作为一种准备策略的必要性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a018",
+      "target": "s-9d6e5df1b295-c002:a019",
+      "kind": "supports",
+      "condition": "选择吵架对象的智慧支持对陌生人退让的原则。",
+      "reason": "选择吵架对象的智慧认为只应与有社会关系的人吵架，陌生人没有必要吵；幸福者退让原则则具体建议对陌生人小摩擦退让，前者为后者提供支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a019",
+      "target": "s-9d6e5df1b295-c002:a020",
+      "kind": "association",
+      "condition": "幸福者退让原则与学员被电动三轮按喇叭的案例相关联。",
+      "reason": "学员被电动三轮按喇叭的案例体现了幸福者退让原则中避免因小事争吵的建议，但原方向从原则到案例不符合示例关系，二者为原则与案例的关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向错误，改为 association。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a021",
+      "target": "s-9d6e5df1b295-c002:a019",
+      "kind": "example_of",
+      "condition": "讲师在飞机上吵架的案例是幸福者退让原则的实例。",
+      "reason": "讲师在飞机上吵架的案例说明多年仅一次因情绪不佳而争吵，其余小摩擦均退让，这体现了幸福者退让原则及其例外条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a022",
+      "target": "s-9d6e5df1b295-c002:a019",
+      "kind": "supports",
+      "condition": "吵架对心情的影响支持幸福者退让原则。",
+      "reason": "吵架对心情的影响说明吵架会带来心情代价，幸福者退让原则据此建议退让以避免影响心情，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a012",
+      "target": "s-9d6e5df1b295-c002:a012",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r001 与 a012 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a001",
+      "target": "s-9d6e5df1b295-c002:a018",
+      "kind": "supports",
+      "condition": "吵架代价衡量为选择吵架对象提供支持。",
+      "reason": "吵架代价衡量：陌生人 vs 亲近之人进一步说明与陌生人吵架代价大、亲近之人值得投入，这与选择吵架对象的智慧一致，支持其观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a002",
+      "target": "s-9d6e5df1b295-c003:a001",
+      "kind": "supports",
+      "condition": "能不能与要不要：选择的能力与意愿。",
+      "reason": "a002 提供选择框架，a001 是具体应用。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a003",
+      "target": "s-9d6e5df1b295-c003:a004",
+      "kind": "example_of",
+      "condition": "美国危险街区枪击事件是避免与行走的炸药冲突的例子。",
+      "reason": "美国危险街区枪击事件中讲师面对辱骂未回应并离开，体现了避免与'行走的炸药'冲突的原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a005",
+      "target": "s-9d6e5df1b295-c003:a006",
+      "kind": "example_of",
+      "condition": "学员在婆婆碰瓷事件中失败的原因是清白感。",
+      "reason": "婆婆装病碰瓷事件是清白感导致冲突中处于劣势的具体案例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 不合法，调整为 example_of；原方向 source 案例 target 概念可保留。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a006",
+      "target": "s-9d6e5df1b295-c003:a008",
+      "kind": "causes",
+      "condition": "清白感导致陷入逻辑漏洞。",
+      "reason": "a006 指出清白感，a008 说明逻辑漏洞。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a007",
+      "target": "s-9d6e5df1b295-c003:a005",
+      "kind": "association",
+      "condition": "应对碰瓷的策略适用于无监控、无第三人的场景，本案例中学员与婆婆独处时符合该环境，但学员未采用该策略。",
+      "reason": "应对碰瓷的策略与婆婆装病碰瓷事件都涉及无监控无第三人的碰瓷情境，但策略未在事件中被执行，仅存在适用关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不合法，调整为 association；说明策略与案例的适用性但非已应用。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a008",
+      "target": "s-9d6e5df1b295-c003:a009",
+      "kind": "step_of",
+      "condition": "破除清白感：以谣言对谣言。",
+      "reason": "a008 指出逻辑漏洞，a009 提供反击策略。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a009",
+      "target": "s-9d6e5df1b295-c003:a011",
+      "kind": "step_of",
+      "condition": "以谣言对谣言后建立威慑。",
+      "reason": "破除清白感：以谣言对谣言是建立威慑：让婆婆害怕自己的一个步骤，通过威胁公开坏行为使对方害怕。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a010",
+      "target": "s-9d6e5df1b295-c003:a006",
+      "kind": "supports",
+      "condition": "婆婆利用媳妇的清白感进行控制。",
+      "reason": "a010 解释控制机制，a006 是清白感定义。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a012",
+      "target": "s-9d6e5df1b295-c003:a009",
+      "kind": "supports",
+      "condition": "社会评价：听闲话者多为无聊之人，支持以谣言对谣言。",
+      "reason": "社会评价：听闲话者多为无聊之人降低了对闲话的在意，为采取以谣言对谣言的策略提供了心理支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a013",
+      "target": "s-9d6e5df1b295-c003:a009",
+      "kind": "association",
+      "condition": "两者均涉及婆婆对外传播和应对，但婆婆只讲对自己有利的话倾向揭露真相，以谣言对谣言是以谣言反击，不构成直接支持。",
+      "reason": "婆婆只讲对自己有利的话指出婆婆单方面传播，破除清白感：以谣言对谣言则是用谣言反击，二者策略方向不同，不能直接支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 不成立，调整为 association；揭露真相与编造谣言存在差异。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a014",
+      "target": "s-9d6e5df1b295-c003:a001",
+      "kind": "supports",
+      "condition": "时间价值计算支持冲突代价衡量。",
+      "reason": "a014 提供计算方法，a001 是代价衡量。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:r001",
+      "target": "s-9d6e5df1b295-c003:a001",
+      "kind": "supports",
+      "condition": "冲突后的情绪代价评估。",
+      "reason": "r001 是情绪代价评估，a001 是代价衡量。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:r002",
+      "target": "s-9d6e5df1b295-c003:a004",
+      "kind": "supports",
+      "condition": "日常小冲突的回避策略。",
+      "reason": "日常小冲突的回避策略具体展示了通过道歉和离开避免争吵，支持了避免与'行走的炸药'冲突的原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:r003",
+      "target": "s-9d6e5df1b295-c003:a014",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r003 与 a014 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:r004",
+      "target": "s-9d6e5df1b295-c003:a007",
+      "kind": "association",
+      "condition": "两命题内容高度相似，均为无监控无第三人场景下应对碰瓷的强硬策略。",
+      "reason": "应对碰瓷的强硬策略与应对碰瓷的策略：利用无监控环境内容基本一致，互相印证但属于重复知识。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 duplicate 不合法，调整为 association；两原子内容重复。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:r005",
+      "target": "s-9d6e5df1b295-c003:a009",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r005 与 a009 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a011",
+      "target": "s-9d6e5df1b295-c003:a011",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r006 与 a011 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:r007",
+      "target": "s-9d6e5df1b295-c003:a006",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r007 与 a006 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:r008",
+      "target": "s-9d6e5df1b295-c003:a008",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r008 与 a008 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a010",
+      "target": "s-9d6e5df1b295-c003:a010",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r009 与 a010 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a012",
+      "target": "s-9d6e5df1b295-c003:a012",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r010 与 a012 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a013",
+      "target": "s-9d6e5df1b295-c003:a013",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r011 与 a013 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a001",
+      "target": "s-9d6e5df1b295-c003:a009",
+      "kind": "supports",
+      "condition": "以更不要脸压制不要脸。",
+      "reason": "以更不要脸压制不要脸作为总策略，涵盖了破除清白感：以谣言对谣言的具体方法，支持其运用。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a002",
+      "target": "s-9d6e5df1b295-c003:a006",
+      "kind": "association",
+      "condition": "两者都涉及清白感与证明圈套：不落入证明圈套是应对方法，清白感导致冲突中处于劣势是原因分析。",
+      "reason": "不落入证明圈套建议不要证明自己，清白感导致冲突中处于劣势说明清白感引发的证明行为导致劣势；二者相关但一个为方法一个为原因，原方向支持不成立。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 方向不成立，调整为 association。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a003",
+      "target": "s-9d6e5df1b295-c003:a006",
+      "kind": "supports",
+      "condition": "毁掉清白感获得自由。",
+      "reason": "a003 是解决方法，a006 是问题。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a004",
+      "target": "s-9d6e5df1b295-c004:a001",
+      "kind": "example_of",
+      "condition": "讲师应对亲戚道德绑架的案例。",
+      "reason": "讲师应对亲戚道德绑架案例中讲师以编造习俗反击，体现了以更不要脸压制不要脸策略。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a005",
+      "target": "s-9d6e5df1b295-c004:a001",
+      "kind": "supports",
+      "condition": "撕破脸后反击。",
+      "reason": "撕破脸后反击是以更不要脸压制不要脸的一种具体表现，支持该策略的应用。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a006",
+      "target": "s-9d6e5df1b295-c004:a002",
+      "kind": "supports",
+      "condition": "认领负面标签后反击。",
+      "reason": "认领负面标签后反击是不落入证明圈套的具体做法，直接认领标签而非证明清白，支持该原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a007",
+      "target": "s-9d6e5df1b295-c004:a008",
+      "kind": "association",
+      "condition": "学员与同事的界限问题是大声回击同事指责策略的应用背景。",
+      "reason": "学员与同事的界限问题呈现了同事当众指责的情境，大声回击同事指责是应对方法；案例未显示已采用该方法，二者是应用关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 不合法，调整为 association；案例与方法非因果。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a008",
+      "target": "s-9d6e5df1b295-c004:a009",
+      "kind": "step_of",
+      "condition": "大声回击后引导对方陷入证明圈套。",
+      "reason": "a008 是回击，a009 是后续步骤。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a010",
+      "target": "s-9d6e5df1b295-c004:a011",
+      "kind": "association",
+      "condition": "区分坏人与蠢人提出对蠢人丢脸的应对，蠢人教训几次后会转移目标说明了应对效果。",
+      "reason": "区分坏人与蠢人包含应对蠢人的策略，蠢人教训几次后会转移目标为该策略提供有效性依据；但原支持方向不成立，二者属于互补关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 方向不成立，调整为 association。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a012",
+      "target": "s-9d6e5df1b295-c004:a014",
+      "kind": "example_of",
+      "condition": "学员与姐姐的房产纠纷中揭露流氓逻辑。",
+      "reason": "学员与姐姐的房产纠纷案例中讲师通过角色扮演指出姐姐的逻辑漏洞，是揭露对方的流氓逻辑的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 不合法，调整为 example_of。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a013",
+      "target": "s-9d6e5df1b295-c004:a014",
+      "kind": "supports",
+      "condition": "质疑对方的公平定义。",
+      "reason": "质疑对方的公平定义提供了判断公平的标准，支持揭露对方的流氓逻辑这一具体分析。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:r001",
+      "target": "s-9d6e5df1b295-c003:a005",
+      "kind": "supports",
+      "condition": "婆婆行为模式：先服软后攻击。",
+      "reason": "婆婆行为模式：先服软后攻击为理解婆婆装病碰瓷事件中婆婆先道歉后当众指责的行为提供了框架。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:r002",
+      "target": "s-9d6e5df1b295-c004:a003",
+      "kind": "supports",
+      "condition": "放弃清白感的具体表现。",
+      "reason": "放弃清白感的具体表现通过举例说明接受负面标签和不在意评价，支持毁掉清白感获得自由的原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:r003",
+      "target": "s-9d6e5df1b295-c004:a004",
+      "kind": "association",
+      "condition": "用编造习俗反击道德绑架是策略，讲师应对亲戚道德绑架是应用该策略的案例。",
+      "reason": "用编造习俗反击道德绑架概括了反击方法，讲师应对亲戚道德绑架案例展示了该方法的具体应用；二者为策略与案例关系，但原 duplicate 不成立且方向应为案例指向策略。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 duplicate 不成立，调整为 association；内容并非完全一致。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:r004",
+      "target": "s-9d6e5df1b295-c004:a005",
+      "kind": "supports",
+      "condition": "撕破脸后对方会害怕。",
+      "reason": "撕破脸后对方会害怕说明了撕破脸后反击行为的效果，支持该行为的合理性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:r005",
+      "target": "s-9d6e5df1b295-c004:a006",
+      "kind": "supports",
+      "condition": "认领负面标签后获得自由。",
+      "reason": "r005 是结果，a006 是方法。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:r006",
+      "target": "s-9d6e5df1b295-c004:a007",
+      "kind": "association",
+      "condition": "领导只PUA特定员工的原因与学员与同事的界限问题都涉及领导PUA现象。",
+      "reason": "领导只PUA特定员工的原因提出若领导只PUA特定员工应反省自身，学员与同事的界限问题中仅提及领导会PUA，未明确是否只PUA其一人，二者关联不紧密。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 不成立，调整为 association；案例未充分体现该条件。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:r007",
+      "target": "s-9d6e5df1b295-c004:a008",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r007 与 a008 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:r008",
+      "target": "s-9d6e5df1b295-c004:a009",
+      "kind": "supports",
+      "condition": "引导对方陷入证明圈套的具体操作。",
+      "reason": "引导对方陷入证明圈套的具体操作展开了概念中的细节，支持引导对方陷入证明圈套这一概括性命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 duplicate 不成立，调整为 supports；内容为具体与概括关系。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:r009",
+      "target": "s-9d6e5df1b295-c004:a010",
+      "kind": "supports",
+      "condition": "蠢人的应对策略：丢脸。",
+      "reason": "蠢人的应对策略：丢脸是区分坏人与蠢人中对蠢人应对的具体策略，支持其相关内容。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a011",
+      "target": "s-9d6e5df1b295-c004:a011",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r010 与 a011 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:r011",
+      "target": "s-9d6e5df1b295-c004:a012",
+      "kind": "association",
+      "condition": "姐姐的逻辑漏洞。",
+      "reason": "“姐姐的逻辑漏洞”这一命题在“学员与姐姐的房产纠纷”案例中得到具体体现，案例是概念的实例，但当前由概念指向案例的支持方向不成立，故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向应相反：案例支持概念，但无法在原方向中表示，故用 association。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:r012",
+      "target": "s-9d6e5df1b295-c004:a013",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r012 与 a013 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a014",
+      "target": "s-9d6e5df1b295-c004:a014",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r013 与 a014 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a001",
+      "target": "s-9d6e5df1b295-c004:a014",
+      "kind": "supports",
+      "condition": "识别流氓逻辑：单方面义务。",
+      "reason": "“识别流氓逻辑：单方面义务”是识别不公平逻辑的原则，为“揭露对方的流氓逻辑”提供基础，后者是前者的具体体现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a002",
+      "target": "s-9d6e5df1b295-c005:a001",
+      "kind": "step_of",
+      "condition": "指出逻辑漏洞并让对方听自己的话。",
+      "reason": "a002 是方法，a001 是识别。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a003",
+      "target": "s-9d6e5df1b295-c005:a012",
+      "kind": "supports",
+      "condition": "区分责任：情绪责任归属。",
+      "reason": "“区分责任：情绪责任归属”提出区分责任的原则，支持“情绪责任与心理辅导的界限”中成年人应自己处理情绪、不归咎他人的具体应用。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a004",
+      "target": "s-9d6e5df1b295-c005:a006",
+      "kind": "example_of",
+      "condition": "姐妹冲突案例中的情绪勒索。",
+      "reason": "“姐妹冲突案例：买房要求与情绪勒索”是“情绪勒索的识别”的具体案例，该案例展示了翻旧账、以健康为由转移矛盾等表现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a005",
+      "target": "s-9d6e5df1b295-c005:a004",
+      "kind": "association",
+      "condition": "亲姐妹不如朋友：关系中的期待差异。",
+      "reason": "“亲姐妹不如朋友：关系中的期待差异”是观点，“姐妹冲突案例：买房要求与情绪勒索”是案例，案例可体现观点，但观点不能直接支持案例，故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了：案例应支持观点。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a006",
+      "target": "s-9d6e5df1b295-c005:a007",
+      "kind": "prerequisite",
+      "condition": "识别情绪勒索后拒绝不合理要求。",
+      "reason": "“情绪勒索的识别”是“拒绝不合理要求后的后果管理”的前提，必须先识别出情绪勒索，才能有效管理拒绝后的后果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不准确，改为 prerequisite。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a007",
+      "target": "s-9d6e5df1b295-c005:a009",
+      "kind": "association",
+      "condition": "拒绝不合理要求后的后果管理。",
+      "reason": "“拒绝不合理要求后的后果管理”与“体面的拒绝：不理睬作为保护”都涉及拒绝策略，但前者侧重明确告知后果，后者是不理睬作为保护，二者无直接支持关系，仅主题关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "不支持，改为关联。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a008",
+      "target": "s-9d6e5df1b295-c005:a020",
+      "kind": "supports",
+      "condition": "抓逻辑漏洞作为反驳策略。",
+      "reason": "“抓逻辑漏洞作为反驳策略”为“擒贼先擒王：先抓逻辑漏洞”提供理论依据，后者是前者的关键步骤和具体化。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a009",
+      "target": "s-9d6e5df1b295-c005:a010",
+      "kind": "supports",
+      "condition": "体面的拒绝：不理睬作为保护。",
+      "reason": "a009 是方法，a010 是区别对待。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a010",
+      "target": "s-9d6e5df1b295-c005:a005",
+      "kind": "supports",
+      "condition": "亲姐妹与陌生人的区别对待。",
+      "reason": "a010 是具体区别，a005 是观点。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a011",
+      "target": "s-9d6e5df1b295-c005:a005",
+      "kind": "supports",
+      "condition": "用比较法反驳：别人不会这样要求。",
+      "reason": "a011 是方法，a005 是背景。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a012",
+      "target": "s-9d6e5df1b295-c005:a003",
+      "kind": "association",
+      "condition": "情绪责任与心理辅导的界限。",
+      "reason": "“情绪责任与心理辅导的界限”是具体界限，“区分责任：情绪责任归属”是原则，原则应支持具体界限，但当前方向相反，故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了：原则支持具体界限。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a013",
+      "target": "s-9d6e5df1b295-c005:a014",
+      "kind": "supports",
+      "condition": "练习反驳以克服恐惧，大脑记忆与行为改变。",
+      "reason": "“练习反驳以克服恐惧”通过重复练习导致大脑形成记忆，支持“大脑记忆与行为改变”的机制。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不准确，改为 supports。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a014",
+      "target": "s-9d6e5df1b295-c005:a015",
+      "kind": "supports",
+      "condition": "大脑记忆与行为改变导致从怕到不怕。",
+      "reason": "“大脑记忆与行为改变”是机制，支持“从怕到不怕的过程”这一结果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a015",
+      "target": "s-9d6e5df1b295-c005:a013",
+      "kind": "association",
+      "condition": "从怕到不怕的过程需要练习。",
+      "reason": "“从怕到不怕的过程”需要“练习反驳以克服恐惧”作为方法，但过程本身不能支持方法，方向不成立，故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了：方法支持过程。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a016",
+      "target": "s-9d6e5df1b295-c005:a007",
+      "kind": "association",
+      "condition": "清白感与界限。",
+      "reason": "“清白感与界限”指出清白感阻碍设立界限，而“拒绝不合理要求后的后果管理”是设立界限的具体策略，二者主题相关但无直接支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "支持关系不足，改为关联。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a017",
+      "target": "s-9d6e5df1b295-c005:a018",
+      "kind": "supports",
+      "condition": "以毒攻毒：降低道德标准回应。",
+      "reason": "“以毒攻毒：降低道德标准回应”为使用“使用脏话作为反击工具”提供了策略背景，后者是极端情况下的应用。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a018",
+      "target": "s-9d6e5df1b295-c005:a016",
+      "kind": "supports",
+      "condition": "使用脏话作为反击工具。",
+      "reason": "a018 是工具，a016 是障碍。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a019",
+      "target": "s-9d6e5df1b295-c005:a017",
+      "kind": "supports",
+      "condition": "欺负与预期的关系。",
+      "reason": "“欺负与预期的关系”揭示了欺负者的心理预期，为“以毒攻毒：降低道德标准回应”提供了心理机制上的支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a020",
+      "target": "s-9d6e5df1b295-c005:a021",
+      "kind": "step_of",
+      "condition": "擒贼先擒王：先抓逻辑漏洞，然后逻辑主场优势。",
+      "reason": "“擒贼先擒王：先抓逻辑漏洞”是“逻辑主场优势”的前置步骤，先抓漏洞才能在该逻辑框架内引导对方。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a021",
+      "target": "s-9d6e5df1b295-c005:a022",
+      "kind": "supports",
+      "condition": "逻辑主场优势需要内在力量。",
+      "reason": "“逻辑主场优势”是技巧，而“内在力量与技巧的关系”说明技巧需要内在力量才能有效运用，提供了必要条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a022",
+      "target": "s-9d6e5df1b295-c005:a024",
+      "kind": "supports",
+      "condition": "内在力量与技巧的关系。",
+      "reason": "“内在力量与技巧的关系”说明内在力量的重要性，“通过练习增强内在力量”提供了增强内在力量的方法，支持该关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a023",
+      "target": "s-9d6e5df1b295-c005:a022",
+      "kind": "supports",
+      "condition": "心魔与内在未解决的问题影响内在力量。",
+      "reason": "“心魔与内在未解决的问题”是影响内在力量的因素，而“内在力量与技巧的关系”强调内在力量的重要性，前者支持后者关于内在力量不足的结果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind 不在允许列表，改为 supports。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a024",
+      "target": "s-9d6e5df1b295-c005:a025",
+      "kind": "supports",
+      "condition": "通过练习增强内在力量，线下课有助于内在力量建设。",
+      "reason": "a024 是方法，a025 是途径。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:r001",
+      "target": "s-9d6e5df1b295-c005:a005",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r001 与 a005 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:r002",
+      "target": "s-9d6e5df1b295-c005:a011",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r002 与 a011 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a012",
+      "target": "s-9d6e5df1b295-c005:a012",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r003 与 a012 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a013",
+      "target": "s-9d6e5df1b295-c005:a013",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r004 与 a013 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a014",
+      "target": "s-9d6e5df1b295-c005:a014",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r005 与 a014 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a015",
+      "target": "s-9d6e5df1b295-c005:a015",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r006 与 a015 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a016",
+      "target": "s-9d6e5df1b295-c005:a016",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r007 与 a016 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a017",
+      "target": "s-9d6e5df1b295-c005:a017",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r008 与 a017 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a018",
+      "target": "s-9d6e5df1b295-c005:a018",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r009 与 a018 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a019",
+      "target": "s-9d6e5df1b295-c005:a019",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r010 与 a019 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a020",
+      "target": "s-9d6e5df1b295-c005:a020",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r011 与 a020 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a021",
+      "target": "s-9d6e5df1b295-c005:a021",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r012 与 a021 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a022",
+      "target": "s-9d6e5df1b295-c005:a022",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r013 与 a022 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a023",
+      "target": "s-9d6e5df1b295-c005:a023",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r014 与 a023 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a024",
+      "target": "s-9d6e5df1b295-c005:a024",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r015 与 a024 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a025",
+      "target": "s-9d6e5df1b295-c005:a025",
+      "kind": "duplicate",
+      "condition": "内容完全一致。",
+      "reason": "r016 与 a025 内容相同。"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n001",
+      "target": "s-9d6e5df1b295-c001:a004",
+      "kind": "association",
+      "condition": "筛选学员时",
+      "reason": "候选是学员无理取闹被拉黑的具体案例，与源知识筛选不讲道理学员的行为一致，但属案例叙述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a004",
+      "target": "s-9d6e5df1b295-c001:v2-n001",
+      "kind": "association",
+      "condition": "筛选学员时",
+      "reason": "候选是学员无理取闹被拉黑的具体案例，与源知识筛选不讲道理学员的行为一致，但属案例叙述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n001",
+      "target": "s-9d6e5df1b295-c001:a001",
+      "kind": "association",
+      "condition": "使用理直气壮时",
+      "reason": "候选阐述'理直气壮的前提是理直'，与源知识筛选不讲道理学员的动机相关，但未直接涉及筛选本身。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a001",
+      "target": "s-9d6e5df1b295-c001:v2-n001",
+      "kind": "association",
+      "condition": "使用理直气壮时",
+      "reason": "候选阐述'理直气壮的前提是理直'，与源知识筛选不讲道理学员的动机相关，但未直接涉及筛选本身。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n001",
+      "target": "s-9d6e5df1b295-c001:a005",
+      "kind": "association",
+      "condition": "使用理直气壮时",
+      "reason": "候选强调使用前提是自己必须是好人，否则技能会伤害自己，与源知识担心技能被滥用的考量一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a005",
+      "target": "s-9d6e5df1b295-c001:v2-n001",
+      "kind": "association",
+      "condition": "使用理直气壮时",
+      "reason": "候选强调使用前提是自己必须是好人，否则技能会伤害自己，与源知识担心技能被滥用的考量一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n001",
+      "target": "s-9d6e5df1b295-c001:a002",
+      "kind": "association",
+      "condition": "使用理直气壮时",
+      "reason": "候选区分理直气壮与攻击的区别，与源知识筛选不讲道理学员以防止伤害他人相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a002",
+      "target": "s-9d6e5df1b295-c001:v2-n001",
+      "kind": "association",
+      "condition": "使用理直气壮时",
+      "reason": "候选区分理直气壮与攻击的区别，与源知识筛选不讲道理学员以防止伤害他人相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n001",
+      "target": "s-9d6e5df1b295-c001:a003",
+      "kind": "association",
+      "condition": "面对不讲道理的人时",
+      "reason": "候选描述不动声色的淘汰，与源知识筛选学员的行为类似，但更广泛。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a003",
+      "target": "s-9d6e5df1b295-c001:v2-n001",
+      "kind": "association",
+      "condition": "面对不讲道理的人时",
+      "reason": "候选描述不动声色的淘汰，与源知识筛选学员的行为类似，但更广泛。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c005:a003",
+      "kind": "complements",
+      "condition": "当需要判断对方情绪是否因自己行为直接导致时",
+      "reason": "source 提出“对方生气与你无关”的总体心态，而候选补充了“需要区分你的行为是否直接导致对方情绪”的判断标准，两者互补，共同澄清情绪责任归属。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a003",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要判断对方情绪是否因自己行为直接导致时",
+      "reason": "source 提出“对方生气与你无关”的总体心态，而候选补充了“需要区分你的行为是否直接导致对方情绪”的判断标准，两者互补，共同澄清情绪责任归属。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c002:a001",
+      "kind": "prerequisite",
+      "condition": "当面对他人发脾气且情绪非由你引起时，采用不干预策略",
+      "reason": "source 提供了“不必对对方情绪负责、不需平息其怒火”的认知基础，这是执行候选“不干预、做自己的事、让对方自己烧完”策略的心理前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a001",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "requires",
+      "condition": "当面对他人发脾气且情绪非由你引起时，采用不干预策略",
+      "reason": "source 提供了“不必对对方情绪负责、不需平息其怒火”的认知基础，这是执行候选“不干预、做自己的事、让对方自己烧完”策略的心理前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c001:a015",
+      "kind": "association",
+      "condition": "讨论为何有人难以接受“对方生气与你无关”时",
+      "reason": "source 是正确观念，候选解释了错误信念（认为自己应对他人情绪负责）的来源，但二者分属应然与实然层面，无直接因果或前提关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a015",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "association",
+      "condition": "讨论为何有人难以接受“对方生气与你无关”时",
+      "reason": "source 是正确观念，候选解释了错误信念（认为自己应对他人情绪负责）的来源，但二者分属应然与实然层面，无直接因果或前提关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c001:a009",
+      "kind": "association",
+      "condition": "当对方生气时，若进一步考虑如何应对",
+      "reason": "source 关注情绪责任分离，候选提出“生气时出现逻辑漏洞”可用于反击，两者虽都涉及对方生气的场景，但侧重点不同，无直接支撑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a009",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "association",
+      "condition": "当对方生气时，若进一步考虑如何应对",
+      "reason": "source 关注情绪责任分离，候选提出“生气时出现逻辑漏洞”可用于反击，两者虽都涉及对方生气的场景，但侧重点不同，无直接支撑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c005:a012",
+      "kind": "complements",
+      "condition": "当需要明确情绪责任界限并给出处理建议时",
+      "reason": "source 主张你不必为对方情绪负责，候选补充了“成年人应自己处理情绪，不应倾倒情绪垃圾，应寻求心理辅导”的具体界限和行动建议，两者共同完善情绪责任边界。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a012",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要明确情绪责任界限并给出处理建议时",
+      "reason": "source 主张你不必为对方情绪负责，候选补充了“成年人应自己处理情绪，不应倾倒情绪垃圾，应寻求心理辅导”的具体界限和行动建议，两者共同完善情绪责任边界。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c005:v2-n001",
+      "kind": "association",
+      "condition": "当讨论对方情绪转移策略时",
+      "reason": "source 强调情绪责任分离，候选识别了对方可能用健康或情绪转移话题的 anti-pattern，两者主题相关，但 source 未涉及识别转移，候选未涉及责任归属，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n001",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论对方情绪转移策略时",
+      "reason": "source 强调情绪责任分离，候选识别了对方可能用健康或情绪转移话题的 anti-pattern，两者主题相关，但 source 未涉及识别转移，候选未涉及责任归属，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c005:a007",
+      "kind": "prerequisite",
+      "condition": "当拒绝不合理要求后对方产生情绪反应，需要管理后果时",
+      "reason": "source 建立“对方情绪与我无关”的心态，这是执行候选“拒绝后管理后果、告知对方无法关心”策略的前提，避免因对方情绪而内疚或退让。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a007",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "requires",
+      "condition": "当拒绝不合理要求后对方产生情绪反应，需要管理后果时",
+      "reason": "source 建立“对方情绪与我无关”的心态，这是执行候选“拒绝后管理后果、告知对方无法关心”策略的前提，避免因对方情绪而内疚或退让。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c004:a005",
+      "kind": "association",
+      "condition": "当对方不给自己留面子时考虑反击",
+      "reason": "source 主张不负责对方情绪，候选主张撕破脸反击，二者在冲突应对中可能并存，但策略方向不同（一个不理会，一个主动反击），无直接因果，需根据具体情境选择。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a005",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "association",
+      "condition": "当对方不给自己留面子时考虑反击",
+      "reason": "source 主张不负责对方情绪，候选主张撕破脸反击，二者在冲突应对中可能并存，但策略方向不同（一个不理会，一个主动反击），无直接因果，需根据具体情境选择。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c002:a004",
+      "kind": "complements",
+      "condition": "当需要判断是否应处理对方情绪时",
+      "reason": "source 未区分情绪是否由自己挑起，候选补充了“如果情绪不是你挑起的，你缓和不了，不用管；只有你挑起时才可能处理”的条件判断，弥补了 source 的缺失。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a004",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要判断是否应处理对方情绪时",
+      "reason": "source 未区分情绪是否由自己挑起，候选补充了“如果情绪不是你挑起的，你缓和不了，不用管；只有你挑起时才可能处理”的条件判断，弥补了 source 的缺失。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c004:v2-n001",
+      "kind": "association",
+      "condition": "当考虑是否要维持关系时",
+      "reason": "source 关注情绪责任，候选关注利益依赖下的关系维护，两者都涉及人际界限，但维度不同（情绪 vs 利益），无直接前提或补充关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:v2-n001",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "association",
+      "condition": "当考虑是否要维持关系时",
+      "reason": "source 关注情绪责任，候选关注利益依赖下的关系维护，两者都涉及人际界限，但维度不同（情绪 vs 利益），无直接前提或补充关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c005:a002",
+      "kind": "association",
+      "condition": "当对方提出不合理要求时",
+      "reason": "source 不涉及逻辑漏洞，候选专注于指出逻辑漏洞，虽都可用于冲突应对，但 source 是心态层面，候选是技术层面，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a002",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "association",
+      "condition": "当对方提出不合理要求时",
+      "reason": "source 不涉及逻辑漏洞，候选专注于指出逻辑漏洞，虽都可用于冲突应对，但 source 是心态层面，候选是技术层面，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c005:v2-n002",
+      "kind": "association",
+      "condition": "当对方用亲情道德绑架施压时",
+      "reason": "source 情绪责任分离与候选的“否认亏欠”策略无直接关联，候选针对道德筹码，source 针对情绪责任，仅同属界限模块。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n002",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "association",
+      "condition": "当对方用亲情道德绑架施压时",
+      "reason": "source 情绪责任分离与候选的“否认亏欠”策略无直接关联，候选针对道德筹码，source 针对情绪责任，仅同属界限模块。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n003",
+      "target": "s-9d6e5df1b295-c001:a006",
+      "kind": "example_of",
+      "condition": "当面对他人发火时出现害怕、扑火等常见反应",
+      "reason": "source 中学员学员因面对发火情境而害怕得全身发抖，是候选“面对他人发火时容易害怕、第一反应扑火安抚”概念的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a006",
+      "target": "s-9d6e5df1b295-c001:v2-n003",
+      "kind": "has_example",
+      "condition": "当面对他人发火时出现害怕、扑火等常见反应",
+      "reason": "source 中学员学员因面对发火情境而害怕得全身发抖，是候选“面对他人发火时容易害怕、第一反应扑火安抚”概念的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n003",
+      "target": "s-9d6e5df1b295-c001:r009",
+      "kind": "association",
+      "condition": "当讨论正确应对发火与错误反应对比时",
+      "reason": "source 展示害怕扑火的负面反应，候选提供保持淡定的心理功课，二者形成对照，但 source 未涉及候选的功课内容，无直接因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:r009",
+      "target": "s-9d6e5df1b295-c001:v2-n003",
+      "kind": "association",
+      "condition": "当讨论正确应对发火与错误反应对比时",
+      "reason": "source 展示害怕扑火的负面反应，候选提供保持淡定的心理功课，二者形成对照，但 source 未涉及候选的功课内容，无直接因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n003",
+      "target": "s-9d6e5df1b295-c001:r002",
+      "kind": "association",
+      "condition": "当解释害怕发火的根源时",
+      "reason": "source 仅描述害怕现象，候选提出童年应激反应导致害怕，但未明确指向 source 中该学员的成因，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:r002",
+      "target": "s-9d6e5df1b295-c001:v2-n003",
+      "kind": "association",
+      "condition": "当解释害怕发火的根源时",
+      "reason": "source 仅描述害怕现象，候选提出童年应激反应导致害怕，但未明确指向 source 中该学员的成因，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n003",
+      "target": "s-9d6e5df1b295-c001:r005",
+      "kind": "association",
+      "condition": "当需要建立不害怕的心态时",
+      "reason": "source 显示缺乏这种心态的后果（害怕发抖），候选提供心态建设方法，但 source 未包含候选的具体认知，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:r005",
+      "target": "s-9d6e5df1b295-c001:v2-n003",
+      "kind": "association",
+      "condition": "当需要建立不害怕的心态时",
+      "reason": "source 显示缺乏这种心态的后果（害怕发抖），候选提供心态建设方法，但 source 未包含候选的具体认知，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n003",
+      "target": "s-9d6e5df1b295-c001:v2-n004",
+      "kind": "association",
+      "condition": "当比较不同学员面对发火的应对方式时",
+      "reason": "source 中学员害怕发抖，候选中学员不理会，二者是不同人物的相反案例，不能直接比较或推出因果，仅可说明不同应对。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n004",
+      "target": "s-9d6e5df1b295-c001:v2-n003",
+      "kind": "association",
+      "condition": "当比较不同学员面对发火的应对方式时",
+      "reason": "source 中学员害怕发抖，候选中学员不理会，二者是不同人物的相反案例，不能直接比较或推出因果，仅可说明不同应对。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n003",
+      "target": "s-9d6e5df1b295-c001:a015",
+      "kind": "association",
+      "condition": "当讨论害怕情绪的责任感来源时",
+      "reason": "source 展示害怕反应，候选解释错误信念（对他人情绪负责）可能源于原生家庭，可能相关但无直接证据指向该案例，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a015",
+      "target": "s-9d6e5df1b295-c001:v2-n003",
+      "kind": "association",
+      "condition": "当讨论害怕情绪的责任感来源时",
+      "reason": "source 展示害怕反应，候选解释错误信念（对他人情绪负责）可能源于原生家庭，可能相关但无直接证据指向该案例，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n003",
+      "target": "s-9d6e5df1b295-c001:r001",
+      "kind": "association",
+      "condition": "当说明抗压训练的必要性时",
+      "reason": "source 案例是抗压训练要解决的问题之一（害怕发火），候选定义了训练目标，但 source 未提及训练，无直接前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:r001",
+      "target": "s-9d6e5df1b295-c001:v2-n003",
+      "kind": "association",
+      "condition": "当说明抗压训练的必要性时",
+      "reason": "source 案例是抗压训练要解决的问题之一（害怕发火），候选定义了训练目标，但 source 未提及训练，无直接前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n003",
+      "target": "s-9d6e5df1b295-c001:a014",
+      "kind": "association",
+      "condition": "当对比错误与正确应对发火方法时",
+      "reason": "source 展示害怕扑火的反面，候选提供冷静旁观的方法，二者是对立情境，但 source 是案例，候选是概念，无直接支撑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a014",
+      "target": "s-9d6e5df1b295-c001:v2-n003",
+      "kind": "association",
+      "condition": "当对比错误与正确应对发火方法时",
+      "reason": "source 展示害怕扑火的反面，候选提供冷静旁观的方法，二者是对立情境，但 source 是案例，候选是概念，无直接支撑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n003",
+      "target": "s-9d6e5df1b295-c005:a013",
+      "kind": "association",
+      "condition": "当需要克服害怕、练习反驳时",
+      "reason": "source 中学员害怕发抖是候选“练习反驳以克服恐惧”的适用起点，但 source 未提及练习反驳，仅展示初始恐惧。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a013",
+      "target": "s-9d6e5df1b295-c001:v2-n003",
+      "kind": "association",
+      "condition": "当需要克服害怕、练习反驳时",
+      "reason": "source 中学员害怕发抖是候选“练习反驳以克服恐惧”的适用起点，但 source 未提及练习反驳，仅展示初始恐惧。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n003",
+      "target": "s-9d6e5df1b295-c003:a005",
+      "kind": "association",
+      "condition": "当涉及害怕冲突的具体情境时",
+      "reason": "source 是面对发火害怕，候选是婆婆碰瓷事件中的害怕，二者情境不同，仅共同涉及恐惧情绪。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a005",
+      "target": "s-9d6e5df1b295-c001:v2-n003",
+      "kind": "association",
+      "condition": "当涉及害怕冲突的具体情境时",
+      "reason": "source 是面对发火害怕，候选是婆婆碰瓷事件中的害怕，二者情境不同，仅共同涉及恐惧情绪。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n003",
+      "target": "s-9d6e5df1b295-c001:a013",
+      "kind": "association",
+      "condition": "当讨论强横者遇更强硬的表现时",
+      "reason": "source 是普通人害怕发火，候选是闹事老人被警察制服，二者无直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a013",
+      "target": "s-9d6e5df1b295-c001:v2-n003",
+      "kind": "association",
+      "condition": "当讨论强横者遇更强硬的表现时",
+      "reason": "source 是普通人害怕发火，候选是闹事老人被警察制服，二者无直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n003",
+      "target": "s-9d6e5df1b295-c001:a008",
+      "kind": "association",
+      "condition": "当害怕情绪影响认知表现时",
+      "reason": "source 展示害怕发抖，候选说明害怕会导致忘记找漏洞，可能有关联，但 source 未提及忘记找漏洞的具体表现，故仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a008",
+      "target": "s-9d6e5df1b295-c001:v2-n003",
+      "kind": "association",
+      "condition": "当害怕情绪影响认知表现时",
+      "reason": "source 展示害怕发抖，候选说明害怕会导致忘记找漏洞，可能有关联，但 source 未提及忘记找漏洞的具体表现，故仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n004",
+      "target": "s-9d6e5df1b295-c002:a003",
+      "kind": "association",
+      "condition": "当两个来源描述同一事件时",
+      "reason": "source 与候选内容几乎完全相同，均描述学员应对讲师发脾气不理会，属于重复记录，无新关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a003",
+      "target": "s-9d6e5df1b295-c001:v2-n004",
+      "kind": "association",
+      "condition": "当两个来源描述同一事件时",
+      "reason": "source 与候选内容几乎完全相同，均描述学员应对讲师发脾气不理会，属于重复记录，无新关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n004",
+      "target": "s-9d6e5df1b295-c002:a001",
+      "kind": "example_of",
+      "condition": "当面对他人发脾气且情绪非由你引起时",
+      "reason": "source 中学员不回应、做自己的事、任由讲师干烧并最终让讲师觉得没意思，是候选“面对他人发脾气时不干预、不劝说、做自己的事、等对方自己烧完”策略的成功实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a001",
+      "target": "s-9d6e5df1b295-c001:v2-n004",
+      "kind": "has_example",
+      "condition": "当面对他人发脾气且情绪非由你引起时",
+      "reason": "source 中学员不回应、做自己的事、任由讲师干烧并最终让讲师觉得没意思，是候选“面对他人发脾气时不干预、不劝说、做自己的事、等对方自己烧完”策略的成功实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n004",
+      "target": "s-9d6e5df1b295-c001:v2-n003",
+      "kind": "association",
+      "condition": "当比较不同应对方式时",
+      "reason": "source 展示不理会的学员，候选展示害怕发抖的学员，二者人物不同、应对相反，不能混用或直接比较，仅说明不同心态导致不同结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n003",
+      "target": "s-9d6e5df1b295-c001:v2-n004",
+      "kind": "association",
+      "condition": "当比较不同应对方式时",
+      "reason": "source 展示不理会的学员，候选展示害怕发抖的学员，二者人物不同、应对相反，不能混用或直接比较，仅说明不同心态导致不同结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n004",
+      "target": "s-9d6e5df1b295-c001:a004",
+      "kind": "association",
+      "condition": "当涉及冲突中不妥协的案例时",
+      "reason": "source 是面对发脾气不理会，候选是无理取闹被拉黑，二者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a004",
+      "target": "s-9d6e5df1b295-c001:v2-n004",
+      "kind": "association",
+      "condition": "当涉及冲突中不妥协的案例时",
+      "reason": "source 是面对发脾气不理会，候选是无理取闹被拉黑，二者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n004",
+      "target": "s-9d6e5df1b295-c003:a013",
+      "kind": "association",
+      "condition": "当讨论婆婆言语策略时",
+      "reason": "source 与候选无关，仅同属界限模块。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a013",
+      "target": "s-9d6e5df1b295-c001:v2-n004",
+      "kind": "association",
+      "condition": "当讨论婆婆言语策略时",
+      "reason": "source 与候选无关，仅同属界限模块。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n004",
+      "target": "s-9d6e5df1b295-c002:a007",
+      "kind": "association",
+      "condition": "当涉及被突然指责的应对时",
+      "reason": "source 是学员不理会，候选是学员面对婆婆指责无措，情境不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a007",
+      "target": "s-9d6e5df1b295-c001:v2-n004",
+      "kind": "association",
+      "condition": "当涉及被突然指责的应对时",
+      "reason": "source 是学员不理会，候选是学员面对婆婆指责无措，情境不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n004",
+      "target": "s-9d6e5df1b295-c002:a005",
+      "kind": "association",
+      "condition": "当对比不同情绪策略时",
+      "reason": "source 是不理会他人情绪，候选是利用发脾气在商业中获利，二者策略方向不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a005",
+      "target": "s-9d6e5df1b295-c001:v2-n004",
+      "kind": "association",
+      "condition": "当对比不同情绪策略时",
+      "reason": "source 是不理会他人情绪，候选是利用发脾气在商业中获利，二者策略方向不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n004",
+      "target": "s-9d6e5df1b295-c003:r002",
+      "kind": "association",
+      "condition": "当涉及日常小冲突时",
+      "reason": "source 针对熟悉关系中的发脾气，候选针对路边小冲突，情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:r002",
+      "target": "s-9d6e5df1b295-c001:v2-n004",
+      "kind": "association",
+      "condition": "当涉及日常小冲突时",
+      "reason": "source 针对熟悉关系中的发脾气，候选针对路边小冲突，情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n004",
+      "target": "s-9d6e5df1b295-c003:a011",
+      "kind": "association",
+      "condition": "当需要建立威慑时",
+      "reason": "source 中学员被动不理会，候选是主动建立威慑让婆婆害怕，策略不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a011",
+      "target": "s-9d6e5df1b295-c001:v2-n004",
+      "kind": "association",
+      "condition": "当需要建立威慑时",
+      "reason": "source 中学员被动不理会，候选是主动建立威慑让婆婆害怕，策略不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n004",
+      "target": "s-9d6e5df1b295-c002:a017",
+      "kind": "association",
+      "condition": "当涉及用轻松方式应对敌意时",
+      "reason": "source 不理会，候选唱歌跳舞反气对方，策略不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a017",
+      "target": "s-9d6e5df1b295-c001:v2-n004",
+      "kind": "association",
+      "condition": "当涉及用轻松方式应对敌意时",
+      "reason": "source 不理会，候选唱歌跳舞反气对方，策略不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n004",
+      "target": "s-9d6e5df1b295-c002:a020",
+      "kind": "association",
+      "condition": "当涉及被按喇叭的小冲突时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a020",
+      "target": "s-9d6e5df1b295-c001:v2-n004",
+      "kind": "association",
+      "condition": "当涉及被按喇叭的小冲突时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n004",
+      "target": "s-9d6e5df1b295-c001:a014",
+      "kind": "example_of",
+      "condition": "当面对他人发火时选择冷静旁观",
+      "reason": "source 学员不理会讲师发脾气，正是候选“冷静旁观、让对方自己烧完”方法的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:a014",
+      "target": "s-9d6e5df1b295-c001:v2-n004",
+      "kind": "has_example",
+      "condition": "当面对他人发火时选择冷静旁观",
+      "reason": "source 学员不理会讲师发脾气，正是候选“冷静旁观、让对方自己烧完”方法的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:v2-n001",
+      "target": "s-9d6e5df1b295-c003:r004",
+      "kind": "complements",
+      "condition": "在无监控、无第三人的碰瓷场景中",
+      "reason": "source 提供法律依据（对方无法证明被害，因此不必害怕），候选提供具体强硬策略（警告、假装行动、离开等），两者互补：source 补“为何敢强硬”，候选补“如何强硬”。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:r004",
+      "target": "s-9d6e5df1b295-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在无监控、无第三人的碰瓷场景中",
+      "reason": "source 提供法律依据（对方无法证明被害，因此不必害怕），候选提供具体强硬策略（警告、假装行动、离开等），两者互补：source 补“为何敢强硬”，候选补“如何强硬”。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:v2-n001",
+      "target": "s-9d6e5df1b295-c003:a007",
+      "kind": "complements",
+      "condition": "在无监控、无第三人的碰瓷场景中",
+      "reason": "source 提供证据条件判断，候选提供详细的应对步骤（确认环境、警告、离开、报警等），两者共同构成完整应对方案，source 补充了法律前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a007",
+      "target": "s-9d6e5df1b295-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在无监控、无第三人的碰瓷场景中",
+      "reason": "source 提供证据条件判断，候选提供详细的应对步骤（确认环境、警告、离开、报警等），两者共同构成完整应对方案，source 补充了法律前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:v2-n001",
+      "target": "s-9d6e5df1b295-c001:r005",
+      "kind": "association",
+      "condition": "当需要减轻对冲突的恐惧时",
+      "reason": "source 依据证据条件降低恐惧，候选依据赔偿可能降低恐惧，两者都用于不害怕，但依据不同，不可混用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:r005",
+      "target": "s-9d6e5df1b295-c003:v2-n001",
+      "kind": "association",
+      "condition": "当需要减轻对冲突的恐惧时",
+      "reason": "source 依据证据条件降低恐惧，候选依据赔偿可能降低恐惧，两者都用于不害怕，但依据不同，不可混用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:v2-n001",
+      "target": "s-9d6e5df1b295-c003:a005",
+      "kind": "association",
+      "condition": "当涉及婆婆碰瓷事件时",
+      "reason": "source 提供一般原则，候选是具体案例，但案例中有第三人（公公）出现，不符合 source 的无第三人条件，故仅主题相关，不能直接套用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a005",
+      "target": "s-9d6e5df1b295-c003:v2-n001",
+      "kind": "association",
+      "condition": "当涉及婆婆碰瓷事件时",
+      "reason": "source 提供一般原则，候选是具体案例，但案例中有第三人（公公）出现，不符合 source 的无第三人条件，故仅主题相关，不能直接套用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:v2-n001",
+      "target": "s-9d6e5df1b295-c003:r007",
+      "kind": "association",
+      "condition": "当分析碰瓷失败的心理因素时",
+      "reason": "source 关注证据条件，候选关注清白感导致失败，两者角度不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:r007",
+      "target": "s-9d6e5df1b295-c003:v2-n001",
+      "kind": "association",
+      "condition": "当分析碰瓷失败的心理因素时",
+      "reason": "source 关注证据条件，候选关注清白感导致失败，两者角度不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:v2-n001",
+      "target": "s-9d6e5df1b295-c003:a006",
+      "kind": "association",
+      "condition": "当分析碰瓷失败的心理因素时",
+      "reason": "source 与候选（清白感）无直接关联，仅共同涉及碰瓷案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a006",
+      "target": "s-9d6e5df1b295-c003:v2-n001",
+      "kind": "association",
+      "condition": "当分析碰瓷失败的心理因素时",
+      "reason": "source 与候选（清白感）无直接关联，仅共同涉及碰瓷案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:v2-n001",
+      "target": "s-9d6e5df1b295-c004:r008",
+      "kind": "association",
+      "condition": "当对方否认指控时",
+      "reason": "source 涉及证据，候选涉及证明圈套，但方向不同：source 是要求对方证明，候选是避免自己证明，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:r008",
+      "target": "s-9d6e5df1b295-c003:v2-n001",
+      "kind": "association",
+      "condition": "当对方否认指控时",
+      "reason": "source 涉及证据，候选涉及证明圈套，但方向不同：source 是要求对方证明，候选是避免自己证明，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:v2-n001",
+      "target": "s-9d6e5df1b295-c003:a012",
+      "kind": "association",
+      "condition": "当考虑社会评价时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a012",
+      "target": "s-9d6e5df1b295-c003:v2-n001",
+      "kind": "association",
+      "condition": "当考虑社会评价时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:v2-n001",
+      "target": "s-9d6e5df1b295-c003:r002",
+      "kind": "association",
+      "condition": "当涉及日常小冲突时",
+      "reason": "source 针对碰瓷，候选针对日常小冲突，情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:r002",
+      "target": "s-9d6e5df1b295-c003:v2-n001",
+      "kind": "association",
+      "condition": "当涉及日常小冲突时",
+      "reason": "source 针对碰瓷，候选针对日常小冲突，情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:v2-n001",
+      "target": "s-9d6e5df1b295-c004:a009",
+      "kind": "association",
+      "condition": "当对方否认指控时",
+      "reason": "source 与候选（证明圈套）无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a009",
+      "target": "s-9d6e5df1b295-c003:v2-n001",
+      "kind": "association",
+      "condition": "当对方否认指控时",
+      "reason": "source 与候选（证明圈套）无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:v2-n001",
+      "target": "s-9d6e5df1b295-c005:a018",
+      "kind": "association",
+      "condition": "当考虑极端反击时",
+      "reason": "source 不涉及脏话，候选是脏话反击，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a018",
+      "target": "s-9d6e5df1b295-c003:v2-n001",
+      "kind": "association",
+      "condition": "当考虑极端反击时",
+      "reason": "source 不涉及脏话，候选是脏话反击，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:v2-n001",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论情绪责任时",
+      "reason": "source 针对碰瓷证据，候选针对情绪责任，两者都涉及界限但领域不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c003:v2-n001",
+      "kind": "association",
+      "condition": "当讨论情绪责任时",
+      "reason": "source 针对碰瓷证据，候选针对情绪责任，两者都涉及界限但领域不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:v2-n001",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论人际界限时",
+      "reason": "source 关注利益依赖下的关系维护，候选关注情绪责任分离，两者维度不同，无直接前提或补充关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c004:v2-n001",
+      "kind": "association",
+      "condition": "当讨论人际界限时",
+      "reason": "source 关注利益依赖下的关系维护，候选关注情绪责任分离，两者维度不同，无直接前提或补充关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:v2-n001",
+      "target": "s-9d6e5df1b295-c001:r005",
+      "kind": "association",
+      "condition": "当需要减轻冲突恐惧时",
+      "reason": "source 说无利益依赖不必讨好，候选说不要害怕发火，可互相支持但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:r005",
+      "target": "s-9d6e5df1b295-c004:v2-n001",
+      "kind": "association",
+      "condition": "当需要减轻冲突恐惧时",
+      "reason": "source 说无利益依赖不必讨好，候选说不要害怕发火，可互相支持但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:v2-n001",
+      "target": "s-9d6e5df1b295-c005:a007",
+      "kind": "association",
+      "condition": "当涉及拒绝后的关系管理时",
+      "reason": "source 未涉及拒绝，候选是拒绝后果管理，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a007",
+      "target": "s-9d6e5df1b295-c004:v2-n001",
+      "kind": "association",
+      "condition": "当涉及拒绝后的关系管理时",
+      "reason": "source 未涉及拒绝，候选是拒绝后果管理，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:v2-n001",
+      "target": "s-9d6e5df1b295-c004:a005",
+      "kind": "association",
+      "condition": "当选择冲突升级时",
+      "reason": "source 提供不急于搞好关系的条件，候选提供撕破脸反击，但 source 并未建议反击，二者策略取向不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a005",
+      "target": "s-9d6e5df1b295-c004:v2-n001",
+      "kind": "association",
+      "condition": "当选择冲突升级时",
+      "reason": "source 提供不急于搞好关系的条件，候选提供撕破脸反击，但 source 并未建议反击，二者策略取向不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:v2-n001",
+      "target": "s-9d6e5df1b295-c005:a003",
+      "kind": "association",
+      "condition": "当讨论情绪责任归属时",
+      "reason": "source 与候选均涉及界限，但一个针对关系维护，一个针对情绪责任，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a003",
+      "target": "s-9d6e5df1b295-c004:v2-n001",
+      "kind": "association",
+      "condition": "当讨论情绪责任归属时",
+      "reason": "source 与候选均涉及界限，但一个针对关系维护，一个针对情绪责任，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:v2-n001",
+      "target": "s-9d6e5df1b295-c005:a002",
+      "kind": "association",
+      "condition": "当讨论反驳策略时",
+      "reason": "source 与候选无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a002",
+      "target": "s-9d6e5df1b295-c004:v2-n001",
+      "kind": "association",
+      "condition": "当讨论反驳策略时",
+      "reason": "source 与候选无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:v2-n001",
+      "target": "s-9d6e5df1b295-c002:a016",
+      "kind": "association",
+      "condition": "当准备反击话术时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a016",
+      "target": "s-9d6e5df1b295-c004:v2-n001",
+      "kind": "association",
+      "condition": "当准备反击话术时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:v2-n001",
+      "target": "s-9d6e5df1b295-c003:v2-n001",
+      "kind": "association",
+      "condition": "当涉及碰瓷证据时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:v2-n001",
+      "target": "s-9d6e5df1b295-c004:v2-n001",
+      "kind": "association",
+      "condition": "当涉及碰瓷证据时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:v2-n001",
+      "target": "s-9d6e5df1b295-c004:a009",
+      "kind": "association",
+      "condition": "当对方否认指控时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a009",
+      "target": "s-9d6e5df1b295-c004:v2-n001",
+      "kind": "association",
+      "condition": "当对方否认指控时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:v2-n001",
+      "target": "s-9d6e5df1b295-c005:a019",
+      "kind": "association",
+      "condition": "当讨论欺负者预期时",
+      "reason": "source 说无利益依赖不必讨好，候选说欺负者预期你接受，可能相关但无直接前提，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a019",
+      "target": "s-9d6e5df1b295-c004:v2-n001",
+      "kind": "association",
+      "condition": "当讨论欺负者预期时",
+      "reason": "source 说无利益依赖不必讨好，候选说欺负者预期你接受，可能相关但无直接前提，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:v2-n001",
+      "target": "s-9d6e5df1b295-c002:a004",
+      "kind": "association",
+      "condition": "当判断情绪是否由你挑起时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a004",
+      "target": "s-9d6e5df1b295-c004:v2-n001",
+      "kind": "association",
+      "condition": "当判断情绪是否由你挑起时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:v2-n001",
+      "target": "s-9d6e5df1b295-c004:r004",
+      "kind": "association",
+      "condition": "当撕破脸后观察对方反应时",
+      "reason": "source 未涉及撕破脸，候选是撕破脸后对方害怕，但 source 的条件可适用于选择撕破脸的场景，但无直接前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:r004",
+      "target": "s-9d6e5df1b295-c004:v2-n001",
+      "kind": "association",
+      "condition": "当撕破脸后观察对方反应时",
+      "reason": "source 未涉及撕破脸，候选是撕破脸后对方害怕，但 source 的条件可适用于选择撕破脸的场景，但无直接前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n001",
+      "target": "s-9d6e5df1b295-c005:a006",
+      "kind": "example_of",
+      "condition": "当识别情绪勒索的具体表现时",
+      "reason": "source 描述对方在争论下风时转移话题到健康/情绪，正是候选“情绪勒索识别”中列举的“以健康或情绪为由转移矛盾”的典型表现，故 source 是候选的示例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a006",
+      "target": "s-9d6e5df1b295-c005:v2-n001",
+      "kind": "has_example",
+      "condition": "当识别情绪勒索的具体表现时",
+      "reason": "source 描述对方在争论下风时转移话题到健康/情绪，正是候选“情绪勒索识别”中列举的“以健康或情绪为由转移矛盾”的典型表现，故 source 是候选的示例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n001",
+      "target": "s-9d6e5df1b295-c005:a004",
+      "kind": "association",
+      "condition": "当涉及兄弟/姐妹冲突案例时",
+      "reason": "候选案例中姐姐以身体不好转移话题，体现了 source 所述模式，但 source 是抽象 anti-pattern，候选是具体案例，方向关系不直接，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a004",
+      "target": "s-9d6e5df1b295-c005:v2-n001",
+      "kind": "association",
+      "condition": "当涉及兄弟/姐妹冲突案例时",
+      "reason": "候选案例中姐姐以身体不好转移话题，体现了 source 所述模式，但 source 是抽象 anti-pattern，候选是具体案例，方向关系不直接，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n001",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "association",
+      "condition": "当对方用情绪转移施压时",
+      "reason": "source 是识别转移，候选是情绪责任分离心态，二者可结合使用，但 source 未涉及责任归属，候选未涉及识别转移，无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c005:v2-n001",
+      "kind": "association",
+      "condition": "当对方用情绪转移施压时",
+      "reason": "source 是识别转移，候选是情绪责任分离心态，二者可结合使用，但 source 未涉及责任归属，候选未涉及识别转移，无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n001",
+      "target": "s-9d6e5df1b295-c005:a012",
+      "kind": "complements",
+      "condition": "当需要处理对方的情绪转移并明确责任界限时",
+      "reason": "source 补了“识别对方转移话题到健康或情绪以回避问题”的实质点，候选补了“成年人应自己处理情绪、不应倾倒垃圾”的原则，两者共同完善对情绪操控的应对。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a012",
+      "target": "s-9d6e5df1b295-c005:v2-n001",
+      "kind": "complements",
+      "condition": "当需要处理对方的情绪转移并明确责任界限时",
+      "reason": "source 补了“识别对方转移话题到健康或情绪以回避问题”的实质点，候选补了“成年人应自己处理情绪、不应倾倒垃圾”的原则，两者共同完善对情绪操控的应对。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n001",
+      "target": "s-9d6e5df1b295-c005:a003",
+      "kind": "association",
+      "condition": "当需要区分是否自己导致对方情绪时",
+      "reason": "source 涉及对方转移情绪，候选涉及责任区分，但 source 未提到责任，候选未提到转移，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a003",
+      "target": "s-9d6e5df1b295-c005:v2-n001",
+      "kind": "association",
+      "condition": "当需要区分是否自己导致对方情绪时",
+      "reason": "source 涉及对方转移情绪，候选涉及责任区分，但 source 未提到责任，候选未提到转移，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n001",
+      "target": "s-9d6e5df1b295-c003:a004",
+      "kind": "association",
+      "condition": "当避免与情绪不稳定者冲突时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a004",
+      "target": "s-9d6e5df1b295-c005:v2-n001",
+      "kind": "association",
+      "condition": "当避免与情绪不稳定者冲突时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n001",
+      "target": "s-9d6e5df1b295-c005:a001",
+      "kind": "association",
+      "condition": "当识别逻辑漏洞时",
+      "reason": "source 识别情绪转移，候选识别单方面义务逻辑，二者都属识别技巧，但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a001",
+      "target": "s-9d6e5df1b295-c005:v2-n001",
+      "kind": "association",
+      "condition": "当识别逻辑漏洞时",
+      "reason": "source 识别情绪转移，候选识别单方面义务逻辑，二者都属识别技巧，但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n001",
+      "target": "s-9d6e5df1b295-c003:a014",
+      "kind": "association",
+      "condition": "当评估时间价值时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:a014",
+      "target": "s-9d6e5df1b295-c005:v2-n001",
+      "kind": "association",
+      "condition": "当评估时间价值时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n001",
+      "target": "s-9d6e5df1b295-c003:r001",
+      "kind": "association",
+      "condition": "当评估冲突情绪代价时",
+      "reason": "source 是对方转移情绪，会诱发内疚，候选评估情绪代价，但 source 未涉及代价评估。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c003:r001",
+      "target": "s-9d6e5df1b295-c005:v2-n001",
+      "kind": "association",
+      "condition": "当评估冲突情绪代价时",
+      "reason": "source 是对方转移情绪，会诱发内疚，候选评估情绪代价，但 source 未涉及代价评估。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n001",
+      "target": "s-9d6e5df1b295-c005:a002",
+      "kind": "association",
+      "condition": "当需要指出逻辑漏洞时",
+      "reason": "source 识别转移后若要保持讨论焦点，可能需要指出漏洞，但候选未涉及转移，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a002",
+      "target": "s-9d6e5df1b295-c005:v2-n001",
+      "kind": "association",
+      "condition": "当需要指出逻辑漏洞时",
+      "reason": "source 识别转移后若要保持讨论焦点，可能需要指出漏洞，但候选未涉及转移，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n001",
+      "target": "s-9d6e5df1b295-c004:a002",
+      "kind": "association",
+      "condition": "当面对对方指责时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a002",
+      "target": "s-9d6e5df1b295-c005:v2-n001",
+      "kind": "association",
+      "condition": "当面对对方指责时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n001",
+      "target": "s-9d6e5df1b295-c002:a004",
+      "kind": "association",
+      "condition": "当判断是否自己挑起情绪时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c002:a004",
+      "target": "s-9d6e5df1b295-c005:v2-n001",
+      "kind": "association",
+      "condition": "当判断是否自己挑起情绪时",
+      "reason": "source 与候选无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n002",
+      "target": "s-9d6e5df1b295-c005:a004",
+      "kind": "association",
+      "condition": "当姐妹间因买房要求引发情绪勒索时",
+      "reason": "候选案例中妹妹明确否认欠姐姐任何恩情（没吃过饭、没穿过衣等），直接体现了source的否认亏欠策略；但案例整体还包含指出为难、情绪责任等其他内容，因此仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a004",
+      "target": "s-9d6e5df1b295-c005:v2-n002",
+      "kind": "association",
+      "condition": "当姐妹间因买房要求引发情绪勒索时",
+      "reason": "候选案例中妹妹明确否认欠姐姐任何恩情（没吃过饭、没穿过衣等），直接体现了source的否认亏欠策略；但案例整体还包含指出为难、情绪责任等其他内容，因此仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n002",
+      "target": "s-9d6e5df1b295-c005:a002",
+      "kind": "association",
+      "condition": "面对不合理要求时",
+      "reason": "两者都是应对不合理要求的策略，source通过否认亏欠削弱道德筹码，a002通过指出逻辑漏洞，方法不同但目标相似，无直接步骤或前提关系，故关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a002",
+      "target": "s-9d6e5df1b295-c005:v2-n002",
+      "kind": "association",
+      "condition": "面对不合理要求时",
+      "reason": "两者都是应对不合理要求的策略，source通过否认亏欠削弱道德筹码，a002通过指出逻辑漏洞，方法不同但目标相似，无直接步骤或前提关系，故关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n002",
+      "target": "s-9d6e5df1b295-c005:r002",
+      "kind": "association",
+      "condition": "面对不合理要求时",
+      "reason": "两者均为反驳不合理要求的方法，source否认亏欠，r002用比较法，同属界限模块但无实质互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:r002",
+      "target": "s-9d6e5df1b295-c005:v2-n002",
+      "kind": "association",
+      "condition": "面对不合理要求时",
+      "reason": "两者均为反驳不合理要求的方法，source否认亏欠，r002用比较法，同属界限模块但无实质互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n002",
+      "target": "s-9d6e5df1b295-c005:a011",
+      "kind": "association",
+      "condition": "面对不合理要求时",
+      "reason": "a011是r002的类似表述，与source并列，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a011",
+      "target": "s-9d6e5df1b295-c005:v2-n002",
+      "kind": "association",
+      "condition": "面对不合理要求时",
+      "reason": "a011是r002的类似表述，与source并列，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n002",
+      "target": "s-9d6e5df1b295-c005:a007",
+      "kind": "association",
+      "condition": "拒绝不合理要求后管理后果时",
+      "reason": "source侧重削弱对方道德筹码，a007侧重拒绝后的后果管理，两者不同阶段，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a007",
+      "target": "s-9d6e5df1b295-c005:v2-n002",
+      "kind": "association",
+      "condition": "拒绝不合理要求后管理后果时",
+      "reason": "source侧重削弱对方道德筹码，a007侧重拒绝后的后果管理，两者不同阶段，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n002",
+      "target": "s-9d6e5df1b295-c004:r003",
+      "kind": "association",
+      "condition": "对方用传统习俗道德绑架时",
+      "reason": "source通过否认亏欠，r003通过编造相反习俗，都是反击道德绑架的不同话术，但无补充或前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:r003",
+      "target": "s-9d6e5df1b295-c005:v2-n002",
+      "kind": "association",
+      "condition": "对方用传统习俗道德绑架时",
+      "reason": "source通过否认亏欠，r003通过编造相反习俗，都是反击道德绑架的不同话术，但无补充或前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n002",
+      "target": "s-9d6e5df1b295-c005:a017",
+      "kind": "association",
+      "condition": "对方用道德指责时",
+      "reason": "两者都涉及降低道德筹码，但source否认亏欠，a017以毒攻毒降低自身道德标准，方法不同，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:a017",
+      "target": "s-9d6e5df1b295-c005:v2-n002",
+      "kind": "association",
+      "condition": "对方用道德指责时",
+      "reason": "两者都涉及降低道德筹码，但source否认亏欠，a017以毒攻毒降低自身道德标准，方法不同，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n002",
+      "target": "s-9d6e5df1b295-c004:r008",
+      "kind": "association",
+      "condition": "对方否认指控时",
+      "reason": "r008是引导对方陷入证明圈套，与source的否认亏欠无直接逻辑关联，仅同属界限应对策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:r008",
+      "target": "s-9d6e5df1b295-c005:v2-n002",
+      "kind": "association",
+      "condition": "对方否认指控时",
+      "reason": "r008是引导对方陷入证明圈套，与source的否认亏欠无直接逻辑关联，仅同属界限应对策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n002",
+      "target": "s-9d6e5df1b295-c004:a009",
+      "kind": "association",
+      "condition": "对方否认指控时",
+      "reason": "a009是r008的简版，同无直接关系，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a009",
+      "target": "s-9d6e5df1b295-c005:v2-n002",
+      "kind": "association",
+      "condition": "对方否认指控时",
+      "reason": "a009是r008的简版，同无直接关系，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n002",
+      "target": "s-9d6e5df1b295-c001:v2-n002",
+      "kind": "association",
+      "condition": "对方生气时",
+      "reason": "source处理的是道德绑架，v2-n002处理的是对方情绪归责，两者话题不同，且角色不明确，仅因同属界限模块而关联，但实质不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c001:v2-n002",
+      "target": "s-9d6e5df1b295-c005:v2-n002",
+      "kind": "association",
+      "condition": "对方生气时",
+      "reason": "source处理的是道德绑架，v2-n002处理的是对方情绪归责，两者话题不同，且角色不明确，仅因同属界限模块而关联，但实质不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n002",
+      "target": "s-9d6e5df1b295-c004:a005",
+      "kind": "association",
+      "condition": "对方不留面子时",
+      "reason": "source是温和的否认亏欠，a005是撕破脸反击，激烈程度不同，且条件不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a005",
+      "target": "s-9d6e5df1b295-c005:v2-n002",
+      "kind": "association",
+      "condition": "对方不留面子时",
+      "reason": "source是温和的否认亏欠，a005是撕破脸反击，激烈程度不同，且条件不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c005:v2-n002",
+      "target": "s-9d6e5df1b295-c004:a004",
+      "kind": "association",
+      "condition": "亲戚道德绑架情境",
+      "reason": "该案例使用编造习俗而非否认亏欠，且角色是讲师与亲戚，与source的亲情道德绑架场景不同，关联不强。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9d6e5df1b295-c004:a004",
+      "target": "s-9d6e5df1b295-c005:v2-n002",
+      "kind": "association",
+      "condition": "亲戚道德绑架情境",
+      "reason": "该案例使用编造习俗而非否认亏欠，且角色是讲师与亲戚，与source的亲情道德绑架场景不同，关联不强。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "面对他人发火时，需要理解情绪机制以保持界限，不干预对方情绪。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a001",
+        "s-9d6e5df1b295-c002:a002",
+        "s-9d6e5df1b295-c001:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我认知",
+      "when": "设立界限需要克服清白感和恐惧，这涉及自我认知的调整。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a006",
+        "s-9d6e5df1b295-c004:a003",
+        "s-9d6e5df1b295-c005:a016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我认知",
+      "when": "理解情绪操控需要识别自己的应激反应，这源于自我认知中的童年经历。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a015",
+        "s-9d6e5df1b295-c001:r002",
+        "s-9d6e5df1b295-c002:a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "内在能力",
+      "when": "使用界限技巧需要内在力量，通过练习增强。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a022",
+        "s-9d6e5df1b295-c005:a024",
+        "s-9d6e5df1b295-c002:a019"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "内在能力",
+      "when": "练习反驳和储备话术属于自我修养，有助于增强内在力量。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a013",
+        "s-9d6e5df1b295-c002:a016",
+        "s-9d6e5df1b295-c004:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a012"
+      ],
+      "reason": "内容完全一致，都是应对婆婆装病时坚持打急救电话的策略。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a014",
+        "s-9d6e5df1b295-c003:r003"
+      ],
+      "reason": "内容完全一致，都是时间价值计算的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a007",
+        "s-9d6e5df1b295-c003:r004"
+      ],
+      "reason": "内容完全一致，都是应对碰瓷的强硬策略。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a009",
+        "s-9d6e5df1b295-c003:r005"
+      ],
+      "reason": "内容完全一致，都是以谣言对谣言的反击策略。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a011"
+      ],
+      "reason": "内容完全一致，都是建立威慑让婆婆害怕。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a006",
+        "s-9d6e5df1b295-c003:r007"
+      ],
+      "reason": "内容完全一致，都是清白感导致冲突失败。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a008",
+        "s-9d6e5df1b295-c003:r008"
+      ],
+      "reason": "内容完全一致，都是逻辑漏洞“我把你当女儿”的谬误。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a010"
+      ],
+      "reason": "内容完全一致，都是婆婆利用媳妇的清白感进行控制。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a012"
+      ],
+      "reason": "内容完全一致，都是社会评价：听闲话者多为无聊之人。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a013"
+      ],
+      "reason": "内容完全一致，都是婆婆只讲对自己有利的话。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a004",
+        "s-9d6e5df1b295-c004:r003"
+      ],
+      "reason": "内容完全一致，都是用编造习俗反击道德绑架。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a008",
+        "s-9d6e5df1b295-c004:r007"
+      ],
+      "reason": "内容完全一致，都是大声回击同事指责。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a009",
+        "s-9d6e5df1b295-c004:r008"
+      ],
+      "reason": "内容完全一致，都是引导对方陷入证明圈套。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a011"
+      ],
+      "reason": "内容完全一致，都是蠢人教训几次后转移目标。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a013",
+        "s-9d6e5df1b295-c004:r012"
+      ],
+      "reason": "内容完全一致，都是公平的定义权应属于当事人。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a014"
+      ],
+      "reason": "内容完全一致，都是揭露流氓逻辑。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a005",
+        "s-9d6e5df1b295-c005:r001"
+      ],
+      "reason": "内容完全一致，都是亲姐妹关系中的不合理期待与界限。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a011",
+        "s-9d6e5df1b295-c005:r002"
+      ],
+      "reason": "内容完全一致，都是用比较法反驳不合理要求。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a012"
+      ],
+      "reason": "内容完全一致，都是情绪责任与心理辅导的界限。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a013"
+      ],
+      "reason": "内容完全一致，都是练习反驳以克服恐惧。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a014"
+      ],
+      "reason": "内容完全一致，都是大脑记忆与行为改变。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a015"
+      ],
+      "reason": "内容完全一致，都是从怕到不怕的过程。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a016"
+      ],
+      "reason": "内容完全一致，都是清白感与界限。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a017"
+      ],
+      "reason": "内容完全一致，都是以毒攻毒：降低道德标准回应。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a018"
+      ],
+      "reason": "内容完全一致，都是使用脏话作为反击工具。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a019"
+      ],
+      "reason": "内容完全一致，都是欺负与预期的关系。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a020"
+      ],
+      "reason": "内容完全一致，都是擒贼先擒王：先抓逻辑漏洞。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a021"
+      ],
+      "reason": "内容完全一致，都是逻辑主场优势。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a022"
+      ],
+      "reason": "内容完全一致，都是内在力量与技巧的关系。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a023"
+      ],
+      "reason": "内容完全一致，都是心魔与内在未解决的问题。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a024"
+      ],
+      "reason": "内容完全一致，都是通过练习增强内在力量。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a025"
+      ],
+      "reason": "内容完全一致，都是线下课与内在力量建设。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a016",
+        "s-9d6e5df1b295-c001:r008"
+      ],
+      "description": "a016 认为父母可能给孩子一个耳光，但不太可能打死孩子，因此不必过度恐惧；r008 也持类似观点。但两者都涉及家庭暴力风险评估，可能低估风险，需要核验。",
+      "needed_evidence": "需要专业家庭暴力风险评估数据，以确定父母暴力的实际风险程度。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a017",
+        "s-9d6e5df1b295-c001:r005"
+      ],
+      "description": "a017 讲师认为被打是好事，可以获得赔偿；r005 也认为伤害可能带来赔偿等利益，因此不必害怕。这种观点可能鼓励利用伤害，存在伦理和法律风险。",
+      "needed_evidence": "需要法律和伦理专家意见，评估这种观点的合理性和潜在危害。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a005",
+        "s-9d6e5df1b295-c002:a006"
+      ],
+      "description": "a005 建议在商业谈判中利用发脾气来获得优势，而 a006 建议识别并应对情绪操控。两者存在矛盾：一方面主动使用情绪操控，另一方面反对被操控。",
+      "needed_evidence": "需要明确情绪操控的伦理边界，以及在不同情境下的适用性。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a016",
+        "s-9d6e5df1b295-c005:a018"
+      ],
+      "description": "a016 建议储备骂人话术以应对攻击，a018 也建议使用脏话反击。但使用侮辱性语言可能引发冲突升级，存在风险。",
+      "needed_evidence": "需要研究使用脏话在冲突中的实际效果和潜在后果。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a007",
+        "s-9d6e5df1b295-c003:r004"
+      ],
+      "description": "a007 和 r004 建议在无监控环境下对碰瓷者采取强硬态度，包括威胁性语言。这可能涉及法律风险，需要谨慎处理。",
+      "needed_evidence": "需要法律意见，评估威胁性语言在无监控环境下的合法性和风险。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a009",
+        "s-9d6e5df1b295-c003:r005"
+      ],
+      "description": "a009 和 r005 建议以谣言对谣言，甚至编造故事反击。这可能引发法律和道德问题。",
+      "needed_evidence": "需要法律和道德评估，确定传播谣言的后果。"
+    },
+    {
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a001",
+        "s-9d6e5df1b295-c004:a004"
+      ],
+      "description": "a001 建议以更不要脸压制不要脸，a004 讲师编造习俗反击道德绑架。这些策略可能涉及言语攻击和编造事实，存在风险。",
+      "needed_evidence": "需要评估这些策略在人际关系中的长期影响和伦理问题。"
+    }
+  ],
+  "path": [
+    {
+      "name": "理直气壮应对冲突的步骤",
+      "steps": [
+        {
+          "action": "判断是否值得吵架：评估冲突对象和代价",
+          "atom_ids": [
+            "s-9d6e5df1b295-c002:a018",
+            "s-9d6e5df1b295-c003:a001",
+            "s-9d6e5df1b295-c003:a014"
+          ],
+          "condition": "冲突发生时，先判断对方是否值得投入时间和精力。"
+        },
+        {
+          "action": "保持冷静，不干预对方情绪",
+          "atom_ids": [
+            "s-9d6e5df1b295-c002:a001",
+            "s-9d6e5df1b295-c001:a014"
+          ],
+          "condition": "如果对方发脾气，不要劝解或安抚，让对方自己烧完。"
+        },
+        {
+          "action": "寻找对方逻辑漏洞",
+          "atom_ids": [
+            "s-9d6e5df1b295-c001:a009",
+            "s-9d6e5df1b295-c005:a020"
+          ],
+          "condition": "在对方生气或提出不合理要求时，分析其逻辑矛盾。"
+        },
+        {
+          "action": "抓住漏洞进行反击",
+          "atom_ids": [
+            "s-9d6e5df1b295-c001:a011",
+            "s-9d6e5df1b295-c005:a021"
+          ],
+          "condition": "找到漏洞后，理直气壮地攻击，但避免泼妇骂街。"
+        },
+        {
+          "action": "设立界限，拒绝不合理要求",
+          "atom_ids": [
+            "s-9d6e5df1b295-c005:a007",
+            "s-9d6e5df1b295-c005:a009"
+          ],
+          "condition": "当对方提出不合理要求时，明确拒绝并管理后果。"
+        },
+        {
+          "action": "通过练习增强内在力量",
+          "atom_ids": [
+            "s-9d6e5df1b295-c005:a013",
+            "s-9d6e5df1b295-c005:a024"
+          ],
+          "condition": "多次练习反驳和设立界限，逐渐克服恐惧。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "6fd376773e503165b61dd403a185d42d95b57d78864ec4f5a5ffce22184df04a",
+  "recovered_from_response": "s-9d6e5df1b295-relations-1793881254151272700.json",
+  "point_units": [
+    {
+      "id": "s-9d6e5df1b295-c001:u001",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a004"
+      ],
+      "blocks": [
+        "b00018",
+        "b00020",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a001",
+        "s-9d6e5df1b295-c001:a002",
+        "s-9d6e5df1b295-c001:a005"
+      ],
+      "blocks": [
+        "b00022",
+        "b00028",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a003"
+      ],
+      "blocks": [
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a006",
+        "s-9d6e5df1b295-c001:r001"
+      ],
+      "blocks": [
+        "b00032",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a007"
+      ],
+      "blocks": [
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a008",
+        "s-9d6e5df1b295-c001:r002"
+      ],
+      "blocks": [
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a009",
+        "s-9d6e5df1b295-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a010"
+      ],
+      "blocks": [
+        "b00040",
+        "b00042",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:r003"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a011"
+      ],
+      "blocks": [
+        "b00046",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a012",
+        "s-9d6e5df1b295-c001:r004"
+      ],
+      "blocks": [
+        "b00050",
+        "b00052",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a013"
+      ],
+      "blocks": [
+        "b00054",
+        "b00056",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a014"
+      ],
+      "blocks": [
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a015"
+      ],
+      "blocks": [
+        "b00062",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:r005"
+      ],
+      "blocks": [
+        "b00064",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u018",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:r006"
+      ],
+      "blocks": [
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:r007",
+        "s-9d6e5df1b295-c001:a016",
+        "s-9d6e5df1b295-c001:r008"
+      ],
+      "blocks": [
+        "b00066",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u020",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a017"
+      ],
+      "blocks": [
+        "b00070",
+        "b00072",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u021",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:r009",
+        "s-9d6e5df1b295-c001:a018"
+      ],
+      "blocks": [
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c001:u022",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:a014",
+        "s-9d6e5df1b295-c001:v2-n004"
+      ],
+      "blocks": [
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u1",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a001"
+      ],
+      "blocks": [
+        "b00076",
+        "b00078",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u2",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a003"
+      ],
+      "blocks": [
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u3",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a002"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u4",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a004"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u5",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a005"
+      ],
+      "blocks": [
+        "b00086",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u6",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a006"
+      ],
+      "blocks": [
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u7",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a007"
+      ],
+      "blocks": [
+        "b00092",
+        "b00094",
+        "b00096",
+        "b00098",
+        "b00100",
+        "b00102",
+        "b00104",
+        "b00106",
+        "b00108",
+        "b00110",
+        "b00112",
+        "b00114",
+        "b00116"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u8",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a008"
+      ],
+      "blocks": [
+        "b00118",
+        "b00120"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u9",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a009"
+      ],
+      "blocks": [
+        "b00122",
+        "b00124",
+        "b00126",
+        "b00128"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u10",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a010"
+      ],
+      "blocks": [
+        "b00130",
+        "b00162"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u11",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a011"
+      ],
+      "blocks": [
+        "b00124",
+        "b00132"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u12",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a012"
+      ],
+      "blocks": [
+        "b00134",
+        "b00160",
+        "b00162"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u13",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a013"
+      ],
+      "blocks": [
+        "b00158",
+        "b00160",
+        "b00162"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u14",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a014"
+      ],
+      "blocks": [
+        "b00138",
+        "b00142",
+        "b00146"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u15",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a015"
+      ],
+      "blocks": [
+        "b00140",
+        "b00148",
+        "b00150",
+        "b00152"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u16",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a016"
+      ],
+      "blocks": [
+        "b00154",
+        "b00156"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u17",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a017"
+      ],
+      "blocks": [
+        "b00156"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u18",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a018"
+      ],
+      "blocks": [
+        "b00168",
+        "b00170",
+        "b00172",
+        "b00174",
+        "b00176",
+        "b00178",
+        "b00180",
+        "b00184",
+        "b00188",
+        "b00208",
+        "b00212",
+        "b00214"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u19",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a019"
+      ],
+      "blocks": [
+        "b00184",
+        "b00208",
+        "b00210",
+        "b00212",
+        "b00214"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u20",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a020"
+      ],
+      "blocks": [
+        "b00190",
+        "b00192",
+        "b00194",
+        "b00196",
+        "b00198",
+        "b00200",
+        "b00202",
+        "b00204",
+        "b00208"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c002:u21",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c002:a021"
+      ],
+      "blocks": [
+        "b00212"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a001"
+      ],
+      "blocks": [
+        "b00214"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c003:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a003"
+      ],
+      "blocks": [
+        "b00216",
+        "b00218",
+        "b00220"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c003:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a002"
+      ],
+      "blocks": [
+        "b00220",
+        "b00226",
+        "b00228"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c003:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:r002",
+        "s-9d6e5df1b295-c003:a004"
+      ],
+      "blocks": [
+        "b00212",
+        "b00222"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c003:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a014"
+      ],
+      "blocks": [
+        "b00226"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c003:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a005"
+      ],
+      "blocks": [
+        "b00230",
+        "b00232",
+        "b00234",
+        "b00236",
+        "b00238",
+        "b00240",
+        "b00242",
+        "b00264"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c003:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a007"
+      ],
+      "blocks": [
+        "b00244",
+        "b00246",
+        "b00248"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c003:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a006"
+      ],
+      "blocks": [
+        "b00250",
+        "b00254",
+        "b00268"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c003:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a008"
+      ],
+      "blocks": [
+        "b00250",
+        "b00252"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c003:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00254",
+        "b00256"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c003:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a013"
+      ],
+      "blocks": [
+        "b00258",
+        "b00270",
+        "b00272",
+        "b00274"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c003:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a009"
+      ],
+      "blocks": [
+        "b00266",
+        "b00268",
+        "b00278",
+        "b00280"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c003:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a012"
+      ],
+      "blocks": [
+        "b00268"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c003:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a010"
+      ],
+      "blocks": [
+        "b00276",
+        "b00278"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c003:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:a011"
+      ],
+      "blocks": [
+        "b00256",
+        "b00278",
+        "b00280"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a001"
+      ],
+      "blocks": [
+        "b00278",
+        "b00280"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a002"
+      ],
+      "blocks": [
+        "b00282",
+        "b00284"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:r001"
+      ],
+      "blocks": [
+        "b00282"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a003",
+        "s-9d6e5df1b295-c004:r002"
+      ],
+      "blocks": [
+        "b00288"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:r002"
+      ],
+      "blocks": [
+        "b00290"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a004",
+        "s-9d6e5df1b295-c004:r003",
+        "s-9d6e5df1b295-c004:r004"
+      ],
+      "blocks": [
+        "b00290",
+        "b00292",
+        "b00294",
+        "b00296",
+        "b00298"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a005",
+        "s-9d6e5df1b295-c004:r004"
+      ],
+      "blocks": [
+        "b00298"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a006",
+        "s-9d6e5df1b295-c004:r005"
+      ],
+      "blocks": [
+        "b00296",
+        "b00298",
+        "b00300"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a007"
+      ],
+      "blocks": [
+        "b00302",
+        "b00304",
+        "b00308",
+        "b00312",
+        "b00316",
+        "b00320",
+        "b00324"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a008",
+        "s-9d6e5df1b295-c004:r007"
+      ],
+      "blocks": [
+        "b00322",
+        "b00330",
+        "b00332"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a009",
+        "s-9d6e5df1b295-c004:r008"
+      ],
+      "blocks": [
+        "b00332",
+        "b00342"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u012",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a010",
+        "s-9d6e5df1b295-c004:r009"
+      ],
+      "blocks": [
+        "b00334"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u013",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a011"
+      ],
+      "blocks": [
+        "b00344"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:r006"
+      ],
+      "blocks": [
+        "b00326",
+        "b00338",
+        "b00342"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a012"
+      ],
+      "blocks": [
+        "b00346",
+        "b00350",
+        "b00358",
+        "b00362",
+        "b00366",
+        "b00368",
+        "b00370",
+        "b00372",
+        "b00374",
+        "b00376",
+        "b00380",
+        "b00382",
+        "b00388",
+        "b00390",
+        "b00364"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u016",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:v2-n001"
+      ],
+      "blocks": [
+        "b00352",
+        "b00356"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u017",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a013",
+        "s-9d6e5df1b295-c004:r012"
+      ],
+      "blocks": [
+        "b00382",
+        "b00384",
+        "b00388"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c004:u018",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:a014",
+        "s-9d6e5df1b295-c004:r011"
+      ],
+      "blocks": [
+        "b00376",
+        "b00380",
+        "b00388",
+        "b00392",
+        "b00364",
+        "b00368",
+        "b00374",
+        "b00382",
+        "b00390"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a001",
+        "s-9d6e5df1b295-c005:a002"
+      ],
+      "blocks": [
+        "b00392",
+        "b00394"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a004"
+      ],
+      "blocks": [
+        "b00396"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a005",
+        "s-9d6e5df1b295-c005:r001"
+      ],
+      "blocks": [
+        "b00398",
+        "b00400"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a003",
+        "s-9d6e5df1b295-c005:a006",
+        "s-9d6e5df1b295-c005:v2-n002"
+      ],
+      "blocks": [
+        "b00402"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a006",
+        "s-9d6e5df1b295-c005:a004"
+      ],
+      "blocks": [
+        "b00404"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a007"
+      ],
+      "blocks": [
+        "b00406"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a008",
+        "s-9d6e5df1b295-c005:a006",
+        "s-9d6e5df1b295-c005:a009"
+      ],
+      "blocks": [
+        "b00410"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a010",
+        "s-9d6e5df1b295-c005:a011",
+        "s-9d6e5df1b295-c005:r002"
+      ],
+      "blocks": [
+        "b00412",
+        "b00414"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u009",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:v2-n001"
+      ],
+      "blocks": [
+        "b00416"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a012"
+      ],
+      "blocks": [
+        "b00418",
+        "b00422"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a013",
+        "s-9d6e5df1b295-c005:a014"
+      ],
+      "blocks": [
+        "b00424"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a013"
+      ],
+      "blocks": [
+        "b00426"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u013",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a013",
+        "s-9d6e5df1b295-c005:a014"
+      ],
+      "blocks": [
+        "b00428"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a015",
+        "s-9d6e5df1b295-c005:a016",
+        "s-9d6e5df1b295-c005:a023"
+      ],
+      "blocks": [
+        "b00430"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a017"
+      ],
+      "blocks": [
+        "b00432"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a018"
+      ],
+      "blocks": [
+        "b00434"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a019",
+        "s-9d6e5df1b295-c005:a020"
+      ],
+      "blocks": [
+        "b00436",
+        "b00438",
+        "b00440"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u018",
+      "kind": "case",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a001",
+        "s-9d6e5df1b295-c005:a020"
+      ],
+      "blocks": [
+        "b00442"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a021"
+      ],
+      "blocks": [
+        "b00444"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a022",
+        "s-9d6e5df1b295-c005:a023",
+        "s-9d6e5df1b295-c005:a024"
+      ],
+      "blocks": [
+        "b00446",
+        "b00448"
+      ]
+    },
+    {
+      "id": "s-9d6e5df1b295-c005:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:a022",
+        "s-9d6e5df1b295-c005:a025"
+      ],
+      "blocks": [
+        "b00450"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "筛选不讲道理的学员",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-9d6e5df1b295",
+          "blocks": [
+            "b00030"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "对方生气与你无关",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-9d6e5df1b295",
+          "blocks": [
+            "b00040"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "学员分享时害怕发抖",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-9d6e5df1b295",
+          "blocks": [
+            "b00064"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "学员面对讲师发脾气不理会",
+      "atom_ids": [
+        "s-9d6e5df1b295-c001:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-9d6e5df1b295",
+          "blocks": [
+            "b00078"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "碰瓷指控需要证据",
+      "atom_ids": [
+        "s-9d6e5df1b295-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-9d6e5df1b295",
+          "blocks": [
+            "b00254"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "不需要急切搞好关系",
+      "atom_ids": [
+        "s-9d6e5df1b295-c004:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-9d6e5df1b295",
+          "blocks": [
+            "b00352",
+            "b00356"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "转移话题到健康或情绪以回避问题",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-9d6e5df1b295",
+          "blocks": [
+            "b00416"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "avoidance"
+    },
+    {
+      "title": "通过否认亏欠来反击亲情道德绑架",
+      "atom_ids": [
+        "s-9d6e5df1b295-c005:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-9d6e5df1b295",
+          "blocks": [
+            "b00402"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

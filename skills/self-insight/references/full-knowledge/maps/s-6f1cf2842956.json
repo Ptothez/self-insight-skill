@@ -1,0 +1,392 @@
+{
+  "concepts": [
+    {
+      "name": "高质量陪伴",
+      "definition": "3-7岁孩子接受爱的方式，强调全身心投入、与孩子同一水平、排外、参与孩子的世界，核心是投入程度而非时间长短。",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a001",
+        "s-6f1cf2842956-c001:a003",
+        "s-6f1cf2842956-c001:a007",
+        "s-6f1cf2842956-c001:a009",
+        "s-6f1cf2842956-c001:a010"
+      ]
+    },
+    {
+      "name": "同一水平",
+      "definition": "高质量陪伴的第一个要素，包括情绪水平、身体水平和认知水平与孩子一致。",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a003",
+        "s-6f1cf2842956-c001:a004",
+        "s-6f1cf2842956-c001:a005",
+        "s-6f1cf2842956-c001:a006"
+      ]
+    },
+    {
+      "name": "排外",
+      "definition": "高质量陪伴的第二个要素，全身心投入，排除外界打扰，包括其他孩子和配偶也不能打扰。",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a007",
+        "s-6f1cf2842956-c001:a008"
+      ]
+    },
+    {
+      "name": "参与孩子的世界",
+      "definition": "高质量陪伴的第三个要素，一起做孩子感兴趣的事情，而不是家长感兴趣的事情。",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a009"
+      ]
+    },
+    {
+      "name": "肯定的语言",
+      "definition": "8-12岁孩子接受爱的方式，帮助孩子发展自我认知、提升自信、打下自律基础。",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a011",
+        "s-6f1cf2842956-c001:a012",
+        "s-6f1cf2842956-c001:a013"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-6f1cf2842956-c001:a003",
+      "target": "s-6f1cf2842956-c001:a004",
+      "kind": "step_of",
+      "condition": "情绪水平一致是同一水平的一个方面",
+      "reason": "“情绪水平一致”是“高质量陪伴的要素：同一水平”中包含的一个方面，具体解释同一水平中的情绪水平。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原关系成立"
+    },
+    {
+      "source": "s-6f1cf2842956-c001:a003",
+      "target": "s-6f1cf2842956-c001:a005",
+      "kind": "step_of",
+      "condition": "身体水平一致是同一水平的一个方面",
+      "reason": "a003提到同一水平包括身体水平，a005具体解释身体水平一致"
+    },
+    {
+      "source": "s-6f1cf2842956-c001:a003",
+      "target": "s-6f1cf2842956-c001:a006",
+      "kind": "step_of",
+      "condition": "认知水平一致是同一水平的一个方面",
+      "reason": "“认知水平一致”是“高质量陪伴的要素：同一水平”中包含的一个方面，具体解释同一水平中的认知水平。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原关系成立"
+    },
+    {
+      "source": "s-6f1cf2842956-c001:a007",
+      "target": "s-6f1cf2842956-c001:a008",
+      "kind": "supports",
+      "condition": "单独约会是实现排外的一种方式",
+      "reason": "a007提出排外要素，a008建议单独约会来达到排外"
+    },
+    {
+      "source": "s-6f1cf2842956-c001:a001",
+      "target": "s-6f1cf2842956-c001:a003",
+      "kind": "step_of",
+      "condition": "同一水平是高质量陪伴的要素之一",
+      "reason": "a001定义高质量陪伴，a003说明其第一个要素"
+    },
+    {
+      "source": "s-6f1cf2842956-c001:a001",
+      "target": "s-6f1cf2842956-c001:a007",
+      "kind": "step_of",
+      "condition": "排外是高质量陪伴的要素之一",
+      "reason": "a001定义高质量陪伴，a007说明其第二个要素"
+    },
+    {
+      "source": "s-6f1cf2842956-c001:a001",
+      "target": "s-6f1cf2842956-c001:a009",
+      "kind": "step_of",
+      "condition": "参与孩子的世界是高质量陪伴的要素之一",
+      "reason": "“高质量陪伴的要素：参与孩子的世界”是“3-7岁接受爱的方式：高质量陪伴”的一个组成要素。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原关系成立"
+    },
+    {
+      "source": "s-6f1cf2842956-c001:a010",
+      "target": "s-6f1cf2842956-c001:a001",
+      "kind": "supports",
+      "condition": "核心观点强调投入而非时间，支持高质量陪伴的定义",
+      "reason": "a010进一步解释高质量陪伴的核心，与a001的定义一致"
+    },
+    {
+      "source": "s-6f1cf2842956-c001:a011",
+      "target": "s-6f1cf2842956-c001:a012",
+      "kind": "causes",
+      "condition": "肯定的语言帮助自我认知",
+      "reason": "a011说明8-12岁需要肯定的语言，a012解释其帮助自我认知"
+    },
+    {
+      "source": "s-6f1cf2842956-c001:a012",
+      "target": "s-6f1cf2842956-c001:a013",
+      "kind": "supports",
+      "condition": "肯定的语言通过帮助自我认知和自尊感打下自律基础",
+      "reason": "“肯定的语言帮助自我认知”说明肯定的语言使孩子认识自己、接纳缺点，这与“肯定的语言打下自律基础”中自尊感帮助形成自律的机制一致，前者为后者提供了基础。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 改为 supports"
+    },
+    {
+      "source": "s-6f1cf2842956-c001:a013",
+      "target": "s-6f1cf2842956-c001:a014",
+      "kind": "association",
+      "condition": "讲师孩子的自律案例是肯定语言的实例",
+      "reason": "肯定的语言打下自律基础这一观点与讲师孩子的自律案例之间是实例与概念的关系；案例展示孩子因家长肯定而非逼迫而自觉完成作业，体现自尊感促进自律，但原 example_of 方向从概念指向案例不成立，故以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向应反转，案例是概念的实例。"
+    },
+    {
+      "source": "s-6f1cf2842956-c001:a002",
+      "target": "s-6f1cf2842956-c001:a003",
+      "kind": "association",
+      "condition": "判断场景是否高质量陪伴需参考同一水平等要素",
+      "reason": "“判断高质量陪伴的场景问题”列出若干场景，是否属于高质量陪伴需依据“高质量陪伴的要素：同一水平”等标准判断，但两者之间不能用支持、步骤或前提直接表达，只能用关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不在允许类型中，改为 association"
+    },
+    {
+      "source": "s-6f1cf2842956-c001:a002",
+      "target": "s-6f1cf2842956-c001:a007",
+      "kind": "association",
+      "condition": "判断场景是否高质量陪伴需参考排外要素",
+      "reason": "“判断高质量陪伴的场景问题”列出若干场景，是否属于高质量陪伴需依据“高质量陪伴的要素：排外”等标准判断，但两者之间不能用支持、步骤或前提直接表达，只能用关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不在允许类型中，改为 association"
+    },
+    {
+      "source": "s-6f1cf2842956-c001:a002",
+      "target": "s-6f1cf2842956-c001:a009",
+      "kind": "association",
+      "condition": "判断场景是否高质量陪伴需参考参与孩子的世界要素",
+      "reason": "“判断高质量陪伴的场景问题”列出若干场景，是否属于高质量陪伴需依据“高质量陪伴的要素：参与孩子的世界”等标准判断，但两者之间不能用支持、步骤或前提直接表达，只能用关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不在允许类型中，改为 association"
+    },
+    {
+      "source": "s-6f1cf2842956-c001:a009",
+      "target": "s-6f1cf2842956-c001:r001",
+      "kind": "association",
+      "condition": "参与孩子世界的要素与具体示范相关",
+      "reason": "“高质量陪伴的要素：参与孩子的世界”提出应参与孩子感兴趣的事情，“高质量陪伴的示范：带领孩子放飞的玩”是该要素的具体示范；示范可作为要素的例证，但原 supports 方向不准确，改用 association。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 方向应为例证关系，改为 association"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "在高质量陪伴中实现情绪水平一致时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a003",
+        "s-6f1cf2842956-c001:a004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "自我认知",
+      "when": "8-12岁孩子通过肯定的语言发展自我认知时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a011",
+        "s-6f1cf2842956-c001:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-6f1cf2842956-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a001"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-6f1cf2842956-c001:u0002",
+      "kind": "question",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a002"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-6f1cf2842956-c001:u0003",
+      "kind": "method",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a003"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-6f1cf2842956-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a004"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-6f1cf2842956-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a005"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-6f1cf2842956-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a006"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-6f1cf2842956-c001:u0007",
+      "kind": "method",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a007"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-6f1cf2842956-c001:u0008",
+      "kind": "method",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a008"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-6f1cf2842956-c001:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a009"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-6f1cf2842956-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a010"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-6f1cf2842956-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a011"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-6f1cf2842956-c001:u0012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a012"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-6f1cf2842956-c001:u0013",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a013"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-6f1cf2842956-c001:u0014",
+      "kind": "case",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a014"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-6f1cf2842956-c001:u0015",
+      "kind": "question",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:a015"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-6f1cf2842956-c001:u0016",
+      "kind": "method",
+      "atom_ids": [
+        "s-6f1cf2842956-c001:r001"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

@@ -1,0 +1,2192 @@
+{
+  "concepts": [
+    {
+      "name": "提问动机",
+      "definition": "父母与孩子交流时，提问动机分为了解情况（获取信息）和聊天（建立连接）。了解情况时，信息获取完毕对话即终止；聊天时，即使孩子说听不懂的内容，父母也会因好奇而继续追问，对话得以延续。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a001",
+        "s-c7bc7b458ea2-c001:r001"
+      ]
+    },
+    {
+      "name": "封闭性问题与开放性问题",
+      "definition": "判断标准：如果对方回答“是”或“不是”就能结束回答，则是封闭性问题；如果对方回答了很多内容，则是开放性问题。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a002"
+      ]
+    },
+    {
+      "name": "引导性问题",
+      "definition": "答案唯一、对方明知是圈套的问题，会让对方感到被下套，从而产生对立，导致沟通停止。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a003",
+        "s-c7bc7b458ea2-c001:a015",
+        "s-c7bc7b458ea2-c002:r001"
+      ]
+    },
+    {
+      "name": "鼓励性问题",
+      "definition": "让孩子感到被支持，但可能强化不当行为的问题。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a018"
+      ]
+    },
+    {
+      "name": "被理解的问题",
+      "definition": "通过提问指出孩子的心理情绪，让孩子感到被理解。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a009",
+        "s-c7bc7b458ea2-c002:a010"
+      ]
+    },
+    {
+      "name": "被认识的问题",
+      "definition": "通过提问让孩子解释自己的处境或行为，从而感到自己被理解。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a009",
+        "s-c7bc7b458ea2-c002:a010",
+        "s-c7bc7b458ea2-c003:a001"
+      ]
+    },
+    {
+      "name": "被喜欢的问题",
+      "definition": "通过提问让孩子感受到自己仍然被他人喜欢，即使当前遭遇了不被邀请等负面事件。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a009",
+        "s-c7bc7b458ea2-c002:a010",
+        "s-c7bc7b458ea2-c003:a002"
+      ]
+    },
+    {
+      "name": "毛绒玩具依恋",
+      "definition": "孩子过度依恋毛绒玩具，可能因心理发展被卡住，想要回到过去的安全感中。年龄较大（如12岁）仍过度依恋需关注和评估。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a004",
+        "s-c7bc7b458ea2-c001:a005",
+        "s-c7bc7b458ea2-c001:a006",
+        "s-c7bc7b458ea2-c001:a019",
+        "s-c7bc7b458ea2-c001:a020"
+      ]
+    },
+    {
+      "name": "红领巾选择",
+      "definition": "孩子选择不戴红领巾时，父母应鼓励孩子接受与众不同并承担后果，同时允许改变选择，避免上纲上线。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a007",
+        "s-c7bc7b458ea2-c001:a009",
+        "s-c7bc7b458ea2-c001:a010"
+      ]
+    },
+    {
+      "name": "情绪连接",
+      "definition": "与孩子情绪连接，避免帮对方解释，鼓励继续玩耍并提醒安全。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a016",
+        "s-c7bc7b458ea2-c001:a017",
+        "s-c7bc7b458ea2-c002:a001"
+      ]
+    },
+    {
+      "name": "选择式提问",
+      "definition": "给出感受选项让孩子表达感受，配合手势和面部表情，扩充语言能力。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a002"
+      ]
+    },
+    {
+      "name": "具体有趣的问题",
+      "definition": "避免笼统问题，提出具体、有趣的问题引导孩子分享学校生活。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a004"
+      ]
+    },
+    {
+      "name": "考前冲刺提问",
+      "definition": "考前冲刺期避免问作业问题，转向轻松话题，减轻压力。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a006"
+      ]
+    },
+    {
+      "name": "行为反常排查",
+      "definition": "孩子突然行为反常时，先问发生了什么，制止不当行为，并排除是否遭受不当触摸。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a007"
+      ]
+    },
+    {
+      "name": "反问促进自主",
+      "definition": "通过反问鼓励孩子自己尝试，提高思考能力和自主性。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a008"
+      ]
+    },
+    {
+      "name": "提问灵活性",
+      "definition": "提问不能使用固定模板，需识别关键点并灵活调整。",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c003:a004",
+        "s-c7bc7b458ea2-c003:r001"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-c7bc7b458ea2-c001:a001",
+      "target": "s-c7bc7b458ea2-c001:a011",
+      "kind": "example_of",
+      "condition": "学员与4岁孩子聊天的问题",
+      "reason": "学员提问动机是了解情况而非聊天，导致对话终止，是提问动机理论的实例。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a001",
+      "target": "s-c7bc7b458ea2-c001:a012",
+      "kind": "supports",
+      "condition": "聊天式提问的示范",
+      "reason": "聊天动机下父母会好奇追问，示范了聊天式提问的具体做法。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a002",
+      "target": "s-c7bc7b458ea2-c001:a014",
+      "kind": "example_of",
+      "condition": "关于买房提问的案例",
+      "reason": "买房提问是封闭性问题的实例。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a003",
+      "target": "s-c7bc7b458ea2-c001:a015",
+      "kind": "example_of",
+      "condition": "关于孩子陪伴和情绪影响的提问案例",
+      "reason": "该案例是引导性问题的典型实例。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a003",
+      "target": "s-c7bc7b458ea2-c001:a014",
+      "kind": "example_of",
+      "condition": "买房提问案例",
+      "reason": "买房提问也带有引导性，是引导性问题的实例。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a004",
+      "target": "s-c7bc7b458ea2-c001:a005",
+      "kind": "applies_to",
+      "condition": "12岁男孩过度依恋毛绒玩具的案例",
+      "reason": "提问方法可应用于该案例，但案例中讲师建议专业评估。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a005",
+      "target": "s-c7bc7b458ea2-c001:a006",
+      "kind": "supports",
+      "condition": "年龄界限",
+      "reason": "案例说明12岁依恋需关注，支持年龄界限的观点。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a005",
+      "target": "s-c7bc7b458ea2-c001:a019",
+      "kind": "supports",
+      "condition": "干预建议",
+      "reason": "案例中讲师建议寻求专业评估，与干预建议一致。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a006",
+      "target": "s-c7bc7b458ea2-c001:a019",
+      "kind": "supports",
+      "condition": "年龄较大需评估",
+      "reason": "年龄界限说明12岁需关注，支持干预建议。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a007",
+      "target": "s-c7bc7b458ea2-c001:a010",
+      "kind": "supports",
+      "condition": "",
+      "reason": "a007给出处理孩子不戴红领巾时的心理建设方法，a010在讨论与老师沟通时也回到承担后果和可改变选择等维度，因此a007为a010提供基础。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a009",
+      "target": "s-c7bc7b458ea2-c001:a007",
+      "kind": "supports",
+      "condition": "理解孩子认知",
+      "reason": "理解孩子对红领巾的认知有助于心理建设。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a016",
+      "target": "s-c7bc7b458ea2-c001:a017",
+      "kind": "supports",
+      "condition": "有效回应",
+      "reason": "案例中的无效问题引出有效回应方法。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a018",
+      "target": "s-c7bc7b458ea2-c001:a003",
+      "kind": "supports",
+      "condition": "",
+      "reason": "a018指出应避免鼓励性问题和引导性问题，并改用好奇开放的问题；a003具体说明引导性问题如何破坏沟通，因此a018支持a003。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原contrasts不成立，改为supports"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a020",
+      "target": "s-c7bc7b458ea2-c001:a004",
+      "kind": "supports",
+      "condition": "心理机制与提问方法",
+      "reason": "心理机制说明提问和共情可帮助疏通。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a001",
+      "target": "s-c7bc7b458ea2-c001:a017",
+      "kind": "supports",
+      "condition": "回应方法",
+      "reason": "两者都强调避免帮对方解释，与孩子情绪连接。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a002",
+      "target": "s-c7bc7b458ea2-c002:a001",
+      "kind": "step_of",
+      "condition": "受伤后情绪连接",
+      "reason": "选择式提问是情绪连接的一种方法。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a004",
+      "target": "s-c7bc7b458ea2-c001:a012",
+      "kind": "supports",
+      "condition": "聊天式提问",
+      "reason": "具体有趣的问题也是聊天式提问的一种。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a006",
+      "target": "s-c7bc7b458ea2-c001:a001",
+      "kind": "applies_to",
+      "condition": "考前冲刺阶段",
+      "reason": "考前冲刺期提问动机应转向聊天，避免了解情况。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a007",
+      "target": "s-c7bc7b458ea2-c001:a003",
+      "kind": "association",
+      "condition": "儿童沟通中的提问方式",
+      "reason": "“四岁半孩子突然不理玩伴并踢人时的排查与回应”建议直接询问“发生了什么”且不追着问，与“引导性问题（挖坑式提问）破坏沟通”中避免引导性问题的原则都关注提问方式，但案例未明确讨论或反对引导性问题，因此不构成对比，仅为相关。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 contrasts，但两端并无对立，改为 association。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a009",
+      "target": "s-c7bc7b458ea2-c002:a010",
+      "kind": "example_of",
+      "condition": "未被邀请生日会",
+      "reason": "练习场景是提问三个方向的实例。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c003:a001",
+      "target": "s-c7bc7b458ea2-c002:a009",
+      "kind": "supports",
+      "condition": "被认识的问题",
+      "reason": "补充了被认识问题的定义。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c003:a002",
+      "target": "s-c7bc7b458ea2-c002:a009",
+      "kind": "supports",
+      "condition": "被喜欢的问题",
+      "reason": "补充了被喜欢问题的定义。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c003:a003",
+      "target": "s-c7bc7b458ea2-c002:a010",
+      "kind": "supports",
+      "condition": "孩子未被邀请参加生日会的情境",
+      "reason": "“针对全班未被邀请情境的提问策略”为“孩子未被邀请参加生日会时的提问练习”提供了具体提问方法和示例，补充了后者未给出的被喜欢问题示例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c003:a004",
+      "target": "s-c7bc7b458ea2-c003:a003",
+      "kind": "supports",
+      "condition": "提问灵活性原则在具体情境中的应用",
+      "reason": "“提问需避免固定模板”强调不能使用固定模板，需灵活调整，“针对全班未被邀请情境的提问策略”正是灵活调整的结果，因此前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:v2-n0001",
+      "target": "s-c7bc7b458ea2-c001:a018",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源批评为提问而问问题和未立界限的不当，候选进一步区分鼓励性问题与引导性问题，补充了提问误区的更多类型。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a018",
+      "target": "s-c7bc7b458ea2-c001:v2-n0001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源批评为提问而问问题和未立界限的不当，候选进一步区分鼓励性问题与引导性问题，补充了提问误区的更多类型。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:v2-n0001",
+      "target": "s-c7bc7b458ea2-c001:a003",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源指出提问缺乏真实目的，候选说明引导性问题（挖坑式）破坏沟通，两种不当提问方式互补，共同完善对误区的认识。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a003",
+      "target": "s-c7bc7b458ea2-c001:v2-n0001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源指出提问缺乏真实目的，候选说明引导性问题（挖坑式）破坏沟通，两种不当提问方式互补，共同完善对误区的认识。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:v2-n0001",
+      "target": "s-c7bc7b458ea2-c002:a004",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源批评不当提问，候选提供通过具体有趣问题引导孩子分享的正确方法，补充了应如何提问的正面建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a004",
+      "target": "s-c7bc7b458ea2-c001:v2-n0001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源批评不当提问，候选提供通过具体有趣问题引导孩子分享的正确方法，补充了应如何提问的正面建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:v2-n0001",
+      "target": "s-c7bc7b458ea2-c001:a013",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选提出提问要考虑对象，与源中提问目的相关，但未直接针对源的误区，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a013",
+      "target": "s-c7bc7b458ea2-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选提出提问要考虑对象，与源中提问目的相关，但未直接针对源的误区，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:v2-n0001",
+      "target": "s-c7bc7b458ea2-c001:a014",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选是一个具体提问案例，展示了引导性问题，与源中误区类似，但源是概念，候选是案例，方向不构成例子关系，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a014",
+      "target": "s-c7bc7b458ea2-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选是一个具体提问案例，展示了引导性问题，与源中误区类似，但源是概念，候选是案例，方向不构成例子关系，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:v2-n0001",
+      "target": "s-c7bc7b458ea2-c002:r001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源批评不当提问，候选详细阐述引导性问题的危害和避免方法，补充了源中未展开的误区类型。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:r001",
+      "target": "s-c7bc7b458ea2-c001:v2-n0001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源批评不当提问，候选详细阐述引导性问题的危害和避免方法，补充了源中未展开的误区类型。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:v2-n0001",
+      "target": "s-c7bc7b458ea2-c002:v2-n005",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "候选强调避免引导性问题以免沟通停止，补足了源中关于不当提问后果的讨论。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n005",
+      "target": "s-c7bc7b458ea2-c001:v2-n0001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "候选强调避免引导性问题以免沟通停止，补足了源中关于不当提问后果的讨论。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:v2-n0001",
+      "target": "s-c7bc7b458ea2-c001:a006",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源以过度依恋玩具为例说明需立界限，候选提供儿童依恋毛绒玩具的年龄界限，补充了判断何时需关注的依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a006",
+      "target": "s-c7bc7b458ea2-c001:v2-n0001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源以过度依恋玩具为例说明需立界限，候选提供儿童依恋毛绒玩具的年龄界限，补充了判断何时需关注的依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:v2-n0001",
+      "target": "s-c7bc7b458ea2-c001:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源提到对依恋玩具只用提问不立界限不当，候选提供针对依恋玩具的提问方法，但未涉及立界限，部分相关但不足，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a004",
+      "target": "s-c7bc7b458ea2-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源提到对依恋玩具只用提问不立界限不当，候选提供针对依恋玩具的提问方法，但未涉及立界限，部分相关但不足，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:v2-n0001",
+      "target": "s-c7bc7b458ea2-c003:a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选关于被认识的问题，属于正面提问方式，与源中误区形成对比，但未直接补充源的要点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c003:a001",
+      "target": "s-c7bc7b458ea2-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选关于被认识的问题，属于正面提问方式，与源中误区形成对比，但未直接补充源的要点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:v2-n0001",
+      "target": "s-c7bc7b458ea2-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选关于不要性别标签和孩子不分享问题，与源中提问误区无关，仅同属沟通话题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n002",
+      "target": "s-c7bc7b458ea2-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选关于不要性别标签和孩子不分享问题，与源中提问误区无关，仅同属沟通话题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:v2-n0001",
+      "target": "s-c7bc7b458ea2-c003:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选强调提问避免固定模板，与源中批评为提问而问问题有相通，但源未提及模板，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c003:a004",
+      "target": "s-c7bc7b458ea2-c001:v2-n0001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选强调提问避免固定模板，与源中批评为提问而问问题有相通，但源未提及模板，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n001",
+      "target": "s-c7bc7b458ea2-c003:a004",
+      "kind": "complements",
+      "condition": "当需要将无固定句式原则转化为具体操作时",
+      "reason": "source 指出无固定句式需灵活应用，candidate 补充了“识别关键点并设计问题”的具体步骤，补足了从原则到操作的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c003:a004",
+      "target": "s-c7bc7b458ea2-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要将无固定句式原则转化为具体操作时",
+      "reason": "source 指出无固定句式需灵活应用，candidate 补充了“识别关键点并设计问题”的具体步骤，补足了从原则到操作的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n001",
+      "target": "s-c7bc7b458ea2-c002:a010",
+      "kind": "complements",
+      "condition": "当家长需要具体示例练习时",
+      "reason": "source 提到讲师只能给出示例，candidate 提供了孩子未被邀请生日会的提问示例，作为实际操作补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a010",
+      "target": "s-c7bc7b458ea2-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当家长需要具体示例练习时",
+      "reason": "source 提到讲师只能给出示例，candidate 提供了孩子未被邀请生日会的提问示例，作为实际操作补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n001",
+      "target": "s-c7bc7b458ea2-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子对问题回答简短时",
+      "reason": "source 列举影响孩子反应的因素（饥饿、被欺负等），candidate 补充了“问题无聊”这一因素，扩展了原因清单。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n002",
+      "target": "s-c7bc7b458ea2-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子对问题回答简短时",
+      "reason": "source 列举影响孩子反应的因素（饥饿、被欺负等），candidate 补充了“问题无聊”这一因素，扩展了原因清单。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n001",
+      "target": "s-c7bc7b458ea2-c001:a013",
+      "kind": "complements",
+      "condition": "当选择提问类型时",
+      "reason": "source 强调情境因素，candidate 补充了提问对象这一考量，两者共同构成灵活提问的要素。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a013",
+      "target": "s-c7bc7b458ea2-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当选择提问类型时",
+      "reason": "source 强调情境因素，candidate 补充了提问对象这一考量，两者共同构成灵活提问的要素。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n001",
+      "target": "s-c7bc7b458ea2-c002:a004",
+      "kind": "complements",
+      "condition": "当孩子对笼统问题回答简单时",
+      "reason": "source 指出无固定句式需灵活，candidate 提供了针对该情境的具体问题策略，补足了应用方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a004",
+      "target": "s-c7bc7b458ea2-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子对笼统问题回答简单时",
+      "reason": "source 指出无固定句式需灵活，candidate 提供了针对该情境的具体问题策略，补足了应用方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n001",
+      "target": "s-c7bc7b458ea2-c001:a018",
+      "kind": "complements",
+      "condition": "当需要区分鼓励性与引导性问题时",
+      "reason": "source 未涉及问题类型辨析，candidate 补充了需避免的误区（鼓励不当行为、为提问而问等），与 source 的开放式问题主张互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a018",
+      "target": "s-c7bc7b458ea2-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要区分鼓励性与引导性问题时",
+      "reason": "source 未涉及问题类型辨析，candidate 补充了需避免的误区（鼓励不当行为、为提问而问等），与 source 的开放式问题主张互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n001",
+      "target": "s-c7bc7b458ea2-c001:a002",
+      "kind": "complements",
+      "condition": "当需要判断问题开放/封闭时",
+      "reason": "source 未给出判定标准，candidate 补充了基于对方回答长度的判断方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a002",
+      "target": "s-c7bc7b458ea2-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要判断问题开放/封闭时",
+      "reason": "source 未给出判定标准，candidate 补充了基于对方回答长度的判断方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n001",
+      "target": "s-c7bc7b458ea2-c002:a006",
+      "kind": "complements",
+      "condition": "当孩子处于考前冲刺阶段时",
+      "reason": "source 提出根据情境调整问法，candidate 提供了该特定情境下的具体调整策略（避免作业问题，转向轻松话题）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a006",
+      "target": "s-c7bc7b458ea2-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子处于考前冲刺阶段时",
+      "reason": "source 提出根据情境调整问法，candidate 提供了该特定情境下的具体调整策略（避免作业问题，转向轻松话题）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n001",
+      "target": "s-c7bc7b458ea2-c001:v2-n0001",
+      "kind": "complements",
+      "condition": "当需要避免提问误区时",
+      "reason": "source 未提及误区，candidate 补充了“为提问而问”和“未立界限”等常见误区，完善了提问注意事项。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:v2-n0001",
+      "target": "s-c7bc7b458ea2-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要避免提问误区时",
+      "reason": "source 未提及误区，candidate 补充了“为提问而问”和“未立界限”等常见误区，完善了提问注意事项。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n001",
+      "target": "s-c7bc7b458ea2-c001:a015",
+      "kind": "association",
+      "condition": "该案例展示引导性问题后果",
+      "reason": "source 提倡开放式问题，candidate 反面展示了引导性问题导致沟通停止，两者主题相关但角度不同，无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a015",
+      "target": "s-c7bc7b458ea2-c002:v2-n001",
+      "kind": "association",
+      "condition": "该案例展示引导性问题后果",
+      "reason": "source 提倡开放式问题，candidate 反面展示了引导性问题导致沟通停止，两者主题相关但角度不同，无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n001",
+      "target": "s-c7bc7b458ea2-c001:a014",
+      "kind": "association",
+      "condition": "该案例展示封闭性问题转换",
+      "reason": "source 未涉及具体转换示例，candidate 提供了买房提问案例，可作为参考但无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a014",
+      "target": "s-c7bc7b458ea2-c002:v2-n001",
+      "kind": "association",
+      "condition": "该案例展示封闭性问题转换",
+      "reason": "source 未涉及具体转换示例，candidate 提供了买房提问案例，可作为参考但无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n001",
+      "target": "s-c7bc7b458ea2-c002:v2-n003",
+      "kind": "association",
+      "condition": "该候选针对向他人求助的情境",
+      "reason": "source 针对向孩子提问，candidate 针对家长向他人提问，对象不同，不能直接互补，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n003",
+      "target": "s-c7bc7b458ea2-c002:v2-n001",
+      "kind": "association",
+      "condition": "该候选针对向他人求助的情境",
+      "reason": "source 针对向孩子提问，candidate 针对家长向他人提问，对象不同，不能直接互补，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n002",
+      "target": "s-c7bc7b458ea2-c002:a004",
+      "kind": "complements",
+      "condition": "当孩子对笼统问题回答简单时",
+      "reason": "source 诊断问题无聊是原因，candidate 提供了具体有趣问题作为解决策略，补足了从原因到行动的缺口。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a004",
+      "target": "s-c7bc7b458ea2-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子对笼统问题回答简单时",
+      "reason": "source 诊断问题无聊是原因，candidate 提供了具体有趣问题作为解决策略，补足了从原因到行动的缺口。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n002",
+      "target": "s-c7bc7b458ea2-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当希望避免无聊提问时",
+      "reason": "source 指出问题无聊导致不愿分享，candidate 提供无固定句式灵活应用原则，可防止提问单调。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n001",
+      "target": "s-c7bc7b458ea2-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当希望避免无聊提问时",
+      "reason": "source 指出问题无聊导致不愿分享，candidate 提供无固定句式灵活应用原则，可防止提问单调。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n002",
+      "target": "s-c7bc7b458ea2-c001:v2-n0001",
+      "kind": "complements",
+      "condition": "当需要全面避免提问误区时",
+      "reason": "source 点出贴标签和问题无聊，candidate 补充了“为提问而问”和“未立界限”等误区，扩展了误区的列举。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:v2-n0001",
+      "target": "s-c7bc7b458ea2-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当需要全面避免提问误区时",
+      "reason": "source 点出贴标签和问题无聊，candidate 补充了“为提问而问”和“未立界限”等误区，扩展了误区的列举。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n002",
+      "target": "s-c7bc7b458ea2-c001:a011",
+      "kind": "association",
+      "condition": "该案例展示母亲提问方式不当",
+      "reason": "source 认为问题无聊是孩子不答的原因，candidate 案例中母亲问“有哪些好玩的事情”可能属无聊问题，可作为旁证但角色不同，仅 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a011",
+      "target": "s-c7bc7b458ea2-c002:v2-n002",
+      "kind": "association",
+      "condition": "该案例展示母亲提问方式不当",
+      "reason": "source 认为问题无聊是孩子不答的原因，candidate 案例中母亲问“有哪些好玩的事情”可能属无聊问题，可作为旁证但角色不同，仅 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n002",
+      "target": "s-c7bc7b458ea2-c002:v2-n003",
+      "kind": "association",
+      "condition": "不同情境，家长向他人提问",
+      "reason": "source 针对向孩子提问，candidate 针对向他人求助，两者都强调具体性但对象不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n003",
+      "target": "s-c7bc7b458ea2-c002:v2-n002",
+      "kind": "association",
+      "condition": "不同情境，家长向他人提问",
+      "reason": "source 针对向孩子提问，candidate 针对向他人求助，两者都强调具体性但对象不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n002",
+      "target": "s-c7bc7b458ea2-c003:a001",
+      "kind": "association",
+      "condition": "该候选定义“被认识的问题”",
+      "reason": "source 未涉及问题分类，candidate 是提问类型之一，主题相关但无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c003:a001",
+      "target": "s-c7bc7b458ea2-c002:v2-n002",
+      "kind": "association",
+      "condition": "该候选定义“被认识的问题”",
+      "reason": "source 未涉及问题分类，candidate 是提问类型之一，主题相关但无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n002",
+      "target": "s-c7bc7b458ea2-c002:a002",
+      "kind": "association",
+      "condition": "该候选针对孩子受伤场景",
+      "reason": "source 讨论笼统问题，candidate 是特定场景的提问方法，相关但场景不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a002",
+      "target": "s-c7bc7b458ea2-c002:v2-n002",
+      "kind": "association",
+      "condition": "该候选针对孩子受伤场景",
+      "reason": "source 讨论笼统问题，candidate 是特定场景的提问方法，相关但场景不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n002",
+      "target": "s-c7bc7b458ea2-c001:a016",
+      "kind": "association",
+      "condition": "该案例展示不当回应",
+      "reason": "source 关注提问无聊，candidate 案例中“小哥哥不是故意的”属无效回应，与 source 主题相关但角度不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a016",
+      "target": "s-c7bc7b458ea2-c002:v2-n002",
+      "kind": "association",
+      "condition": "该案例展示不当回应",
+      "reason": "source 关注提问无聊，candidate 案例中“小哥哥不是故意的”属无效回应，与 source 主题相关但角度不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n002",
+      "target": "s-c7bc7b458ea2-c002:a010",
+      "kind": "association",
+      "condition": "该候选为具体提问练习",
+      "reason": "source 未提供练习示例，candidate 可作为参考，但无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a010",
+      "target": "s-c7bc7b458ea2-c002:v2-n002",
+      "kind": "association",
+      "condition": "该候选为具体提问练习",
+      "reason": "source 未提供练习示例，candidate 可作为参考，但无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n002",
+      "target": "s-c7bc7b458ea2-c001:a013",
+      "kind": "association",
+      "condition": "该候选补充对象因素",
+      "reason": "source 指出问题无聊是原因，candidate 提出对象也是因素，可关联但未形成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a013",
+      "target": "s-c7bc7b458ea2-c002:v2-n002",
+      "kind": "association",
+      "condition": "该候选补充对象因素",
+      "reason": "source 指出问题无聊是原因，candidate 提出对象也是因素，可关联但未形成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n002",
+      "target": "s-c7bc7b458ea2-c001:a009",
+      "kind": "association",
+      "condition": "内容涉及认知差异，与 source 无直接关联",
+      "reason": "两者都提醒避免成人视角强加，但 source 是针对性别标签，candidate 是信仰认知，主题相关但不直接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a009",
+      "target": "s-c7bc7b458ea2-c002:v2-n002",
+      "kind": "association",
+      "condition": "内容涉及认知差异，与 source 无直接关联",
+      "reason": "两者都提醒避免成人视角强加，但 source 是针对性别标签，candidate 是信仰认知，主题相关但不直接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n002",
+      "target": "s-c7bc7b458ea2-c001:a010",
+      "kind": "association",
+      "condition": "内容涉及与老师沟通，与 source 无关",
+      "reason": "该候选讨论红领巾问题，不涉及孩子回答简短，仅因同属育儿主题而关联，关系较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a010",
+      "target": "s-c7bc7b458ea2-c002:v2-n002",
+      "kind": "association",
+      "condition": "内容涉及与老师沟通，与 source 无关",
+      "reason": "该候选讨论红领巾问题，不涉及孩子回答简短，仅因同属育儿主题而关联，关系较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n003",
+      "target": "s-c7bc7b458ea2-c002:v2-n001",
+      "kind": "association",
+      "condition": "不同提问对象：source 向他人，candidate 向孩子",
+      "reason": "两者都强调提问的具体性，但适用对象不同，不能直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n001",
+      "target": "s-c7bc7b458ea2-c002:v2-n003",
+      "kind": "association",
+      "condition": "不同提问对象：source 向他人，candidate 向孩子",
+      "reason": "两者都强调提问的具体性，但适用对象不同，不能直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n003",
+      "target": "s-c7bc7b458ea2-c002:a004",
+      "kind": "association",
+      "condition": "不同场景：source 求助，candidate 引导孩子分享",
+      "reason": "两者都涉及具体问题设计，但一个关于求助信息提供，一个关于引导孩子，方向不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a004",
+      "target": "s-c7bc7b458ea2-c002:v2-n003",
+      "kind": "association",
+      "condition": "不同场景：source 求助，candidate 引导孩子分享",
+      "reason": "两者都涉及具体问题设计，但一个关于求助信息提供，一个关于引导孩子，方向不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n003",
+      "target": "s-c7bc7b458ea2-c002:v2-n002",
+      "kind": "association",
+      "condition": "source 关注向他人求助，candidate 关注孩子回答简短",
+      "reason": "两者都涉及问题具体性，但侧重点完全不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n002",
+      "target": "s-c7bc7b458ea2-c002:v2-n003",
+      "kind": "association",
+      "condition": "source 关注向他人求助，candidate 关注孩子回答简短",
+      "reason": "两者都涉及问题具体性，但侧重点完全不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n003",
+      "target": "s-c7bc7b458ea2-c001:a011",
+      "kind": "association",
+      "condition": "案例中母亲向孩子提问而非求助",
+      "reason": "source 要求向他人求助时具体，该案例展示向孩子提问不具体，场景不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a011",
+      "target": "s-c7bc7b458ea2-c002:v2-n003",
+      "kind": "association",
+      "condition": "案例中母亲向孩子提问而非求助",
+      "reason": "source 要求向他人求助时具体，该案例展示向孩子提问不具体，场景不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n003",
+      "target": "s-c7bc7b458ea2-c001:a010",
+      "kind": "association",
+      "condition": "source 关于向讲师求助，candidate 关于与老师沟通",
+      "reason": "两者都涉及与教育者沟通，但一个是如何提问，一个是如何处理孩子问题，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a010",
+      "target": "s-c7bc7b458ea2-c002:v2-n003",
+      "kind": "association",
+      "condition": "source 关于向讲师求助，candidate 关于与老师沟通",
+      "reason": "两者都涉及与教育者沟通，但一个是如何提问，一个是如何处理孩子问题，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n003",
+      "target": "s-c7bc7b458ea2-c002:a008",
+      "kind": "association",
+      "condition": "不同对象和目的",
+      "reason": "source 是家长向他人求助，candidate 是家长通过反问引导孩子，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a008",
+      "target": "s-c7bc7b458ea2-c002:v2-n003",
+      "kind": "association",
+      "condition": "不同对象和目的",
+      "reason": "source 是家长向他人求助，candidate 是家长通过反问引导孩子，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n003",
+      "target": "s-c7bc7b458ea2-c002:a006",
+      "kind": "association",
+      "condition": "不同情境",
+      "reason": "source 关注求助提问，candidate 关注考前孩子的提问，不相关但同属提问话题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a006",
+      "target": "s-c7bc7b458ea2-c002:v2-n003",
+      "kind": "association",
+      "condition": "不同情境",
+      "reason": "source 关注求助提问，candidate 关注考前孩子的提问，不相关但同属提问话题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n003",
+      "target": "s-c7bc7b458ea2-c001:a016",
+      "kind": "association",
+      "condition": "不同情境",
+      "reason": "source 是求助提问，candidate 是回应孩子受伤，无直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a016",
+      "target": "s-c7bc7b458ea2-c002:v2-n003",
+      "kind": "association",
+      "condition": "不同情境",
+      "reason": "source 是求助提问，candidate 是回应孩子受伤，无直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n003",
+      "target": "s-c7bc7b458ea2-c002:a010",
+      "kind": "association",
+      "condition": "不同目的",
+      "reason": "source 要求向他人求助具体，candidate 是向孩子提问的练习，对象不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a010",
+      "target": "s-c7bc7b458ea2-c002:v2-n003",
+      "kind": "association",
+      "condition": "不同目的",
+      "reason": "source 要求向他人求助具体，candidate 是向孩子提问的练习，对象不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n003",
+      "target": "s-c7bc7b458ea2-c001:a015",
+      "kind": "association",
+      "condition": "案例与 source 原则相反",
+      "reason": "source 要求具体背景，该案例中学员提问是引导性问题，缺乏具体信息，可作为反面参考，但无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a015",
+      "target": "s-c7bc7b458ea2-c002:v2-n003",
+      "kind": "association",
+      "condition": "案例与 source 原则相反",
+      "reason": "source 要求具体背景，该案例中学员提问是引导性问题，缺乏具体信息，可作为反面参考，但无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n003",
+      "target": "s-c7bc7b458ea2-c002:a009",
+      "kind": "association",
+      "condition": "不同框架",
+      "reason": "source 针对向他人提问，candidate 是针对向孩子提问的三个方向，不相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a009",
+      "target": "s-c7bc7b458ea2-c002:v2-n003",
+      "kind": "association",
+      "condition": "不同框架",
+      "reason": "source 针对向他人提问，candidate 是针对向孩子提问的三个方向，不相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n003",
+      "target": "s-c7bc7b458ea2-c001:a012",
+      "kind": "association",
+      "condition": "不同对象",
+      "reason": "source 是家长向他人求助，candidate 是家长向孩子提问的示范，对象不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a012",
+      "target": "s-c7bc7b458ea2-c002:v2-n003",
+      "kind": "association",
+      "condition": "不同对象",
+      "reason": "source 是家长向他人求助，candidate 是家长向孩子提问的示范，对象不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n004",
+      "target": "s-c7bc7b458ea2-c001:a011",
+      "kind": "association",
+      "condition": "两个案例均涉及母亲与孩子的沟通状态",
+      "reason": "source 中母亲不耐烦，candidate 中母亲动机是了解情况而非聊天，均反映家长自身因素影响沟通，但具体情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a011",
+      "target": "s-c7bc7b458ea2-c002:v2-n004",
+      "kind": "association",
+      "condition": "两个案例均涉及母亲与孩子的沟通状态",
+      "reason": "source 中母亲不耐烦，candidate 中母亲动机是了解情况而非聊天，均反映家长自身因素影响沟通，但具体情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n004",
+      "target": "s-c7bc7b458ea2-c001:a016",
+      "kind": "association",
+      "condition": "不同情境",
+      "reason": "source 是母亲不耐烦，candidate 是回应孩子受伤，无直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a016",
+      "target": "s-c7bc7b458ea2-c002:v2-n004",
+      "kind": "association",
+      "condition": "不同情境",
+      "reason": "source 是母亲不耐烦，candidate 是回应孩子受伤，无直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n004",
+      "target": "s-c7bc7b458ea2-c001:a015",
+      "kind": "association",
+      "condition": "不同主题",
+      "reason": "source 关注母亲自身议题，candidate 是引导性问题案例，不相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a015",
+      "target": "s-c7bc7b458ea2-c002:v2-n004",
+      "kind": "association",
+      "condition": "不同主题",
+      "reason": "source 关注母亲自身议题，candidate 是引导性问题案例，不相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n004",
+      "target": "s-c7bc7b458ea2-c001:a005",
+      "kind": "association",
+      "condition": "不同案例主题",
+      "reason": "source 是母亲沟通不耐烦，candidate 是孩子过度依恋玩具，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a005",
+      "target": "s-c7bc7b458ea2-c002:v2-n004",
+      "kind": "association",
+      "condition": "不同案例主题",
+      "reason": "source 是母亲沟通不耐烦，candidate 是孩子过度依恋玩具，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n004",
+      "target": "s-c7bc7b458ea2-c001:a010",
+      "kind": "association",
+      "condition": "不同主题",
+      "reason": "source 不涉及与老师沟通，candidate 讨论红领巾问题，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a010",
+      "target": "s-c7bc7b458ea2-c002:v2-n004",
+      "kind": "association",
+      "condition": "不同主题",
+      "reason": "source 不涉及与老师沟通，candidate 讨论红领巾问题，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n004",
+      "target": "s-c7bc7b458ea2-c002:a005",
+      "kind": "association",
+      "condition": "不同案例",
+      "reason": "source 是母亲不耐烦，candidate 是女儿受辱后情绪连接，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a005",
+      "target": "s-c7bc7b458ea2-c002:v2-n004",
+      "kind": "association",
+      "condition": "不同案例",
+      "reason": "source 是母亲不耐烦，candidate 是女儿受辱后情绪连接，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n004",
+      "target": "s-c7bc7b458ea2-c002:a007",
+      "kind": "association",
+      "condition": "不同案例",
+      "reason": "source 是母亲沟通问题，candidate 是孩子反常行为排查，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a007",
+      "target": "s-c7bc7b458ea2-c002:v2-n004",
+      "kind": "association",
+      "condition": "不同案例",
+      "reason": "source 是母亲沟通问题，candidate 是孩子反常行为排查，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n004",
+      "target": "s-c7bc7b458ea2-c001:a008",
+      "kind": "association",
+      "condition": "涉及个人成长经历",
+      "reason": "source 提到母亲需处理自身议题，candidate 是讲师童年经历塑造品质，均与个人成长有关，但内容不直接相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a008",
+      "target": "s-c7bc7b458ea2-c002:v2-n004",
+      "kind": "association",
+      "condition": "涉及个人成长经历",
+      "reason": "source 提到母亲需处理自身议题，candidate 是讲师童年经历塑造品质，均与个人成长有关，但内容不直接相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n004",
+      "target": "s-c7bc7b458ea2-c001:a003",
+      "kind": "association",
+      "condition": "不同主题",
+      "reason": "source 未涉及引导性问题，candidate 讲引导性问题危害，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a003",
+      "target": "s-c7bc7b458ea2-c002:v2-n004",
+      "kind": "association",
+      "condition": "不同主题",
+      "reason": "source 未涉及引导性问题，candidate 讲引导性问题危害，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n004",
+      "target": "s-c7bc7b458ea2-c002:a001",
+      "kind": "association",
+      "condition": "不同主题",
+      "reason": "source 是母亲不耐烦，candidate 是孩子被弄伤回应，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a001",
+      "target": "s-c7bc7b458ea2-c002:v2-n004",
+      "kind": "association",
+      "condition": "不同主题",
+      "reason": "source 是母亲不耐烦，candidate 是孩子被弄伤回应，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n004",
+      "target": "s-c7bc7b458ea2-c001:a017",
+      "kind": "association",
+      "condition": "不同主题",
+      "reason": "类似上条，candidate 是受伤回应，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a017",
+      "target": "s-c7bc7b458ea2-c002:v2-n004",
+      "kind": "association",
+      "condition": "不同主题",
+      "reason": "类似上条，candidate 是受伤回应，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n004",
+      "target": "s-c7bc7b458ea2-c002:a008",
+      "kind": "association",
+      "condition": "不同主题",
+      "reason": "source 是母亲沟通议题，candidate 是反问促进孩子思考，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a008",
+      "target": "s-c7bc7b458ea2-c002:v2-n004",
+      "kind": "association",
+      "condition": "不同主题",
+      "reason": "source 是母亲沟通议题，candidate 是反问促进孩子思考，无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n005",
+      "target": "s-c7bc7b458ea2-c001:a003",
+      "kind": "complements",
+      "condition": "当需要识别引导性问题时",
+      "reason": "source 指出避免引导性问题，candidate 进一步解释了引导性问题的定义和后果，补足了概念细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a003",
+      "target": "s-c7bc7b458ea2-c002:v2-n005",
+      "kind": "complements",
+      "condition": "当需要识别引导性问题时",
+      "reason": "source 指出避免引导性问题，candidate 进一步解释了引导性问题的定义和后果，补足了概念细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n005",
+      "target": "s-c7bc7b458ea2-c002:r001",
+      "kind": "complements",
+      "condition": "当需要理解引导性问题的危害时",
+      "reason": "source 与 candidate 内容一致，candidate 提供了更多具体例子和避免方法，作为补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:r001",
+      "target": "s-c7bc7b458ea2-c002:v2-n005",
+      "kind": "complements",
+      "condition": "当需要理解引导性问题的危害时",
+      "reason": "source 与 candidate 内容一致，candidate 提供了更多具体例子和避免方法，作为补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n005",
+      "target": "s-c7bc7b458ea2-c001:a015",
+      "kind": "association",
+      "condition": "该案例展示引导性问题的实例",
+      "reason": "source 提出避免引导性问题，candidate 案例中学员提问正是引导性问题，可作为例证但非直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a015",
+      "target": "s-c7bc7b458ea2-c002:v2-n005",
+      "kind": "association",
+      "condition": "该案例展示引导性问题的实例",
+      "reason": "source 提出避免引导性问题，candidate 案例中学员提问正是引导性问题，可作为例证但非直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n005",
+      "target": "s-c7bc7b458ea2-c001:a018",
+      "kind": "complements",
+      "condition": "当需要区分鼓励性问题与引导性问题时",
+      "reason": "source 聚焦引导性问题，candidate 区分了鼓励性与引导性，补充了辨别视角。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a018",
+      "target": "s-c7bc7b458ea2-c002:v2-n005",
+      "kind": "complements",
+      "condition": "当需要区分鼓励性问题与引导性问题时",
+      "reason": "source 聚焦引导性问题，candidate 区分了鼓励性与引导性，补充了辨别视角。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n005",
+      "target": "s-c7bc7b458ea2-c001:a014",
+      "kind": "association",
+      "condition": "该案例展示封闭且引导性的问题",
+      "reason": "source 未涉及具体案例，candidate 提供了买房提问案例，展示引导性问题如何修改，可作为参考。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a014",
+      "target": "s-c7bc7b458ea2-c002:v2-n005",
+      "kind": "association",
+      "condition": "该案例展示封闭且引导性的问题",
+      "reason": "source 未涉及具体案例，candidate 提供了买房提问案例，展示引导性问题如何修改，可作为参考。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n005",
+      "target": "s-c7bc7b458ea2-c001:a002",
+      "kind": "association",
+      "condition": "封闭性与引导性相关但不同",
+      "reason": "source 针对引导性问题，candidate 提供开放/封闭判断标准，两者相关但不完全等同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a002",
+      "target": "s-c7bc7b458ea2-c002:v2-n005",
+      "kind": "association",
+      "condition": "封闭性与引导性相关但不同",
+      "reason": "source 针对引导性问题，candidate 提供开放/封闭判断标准，两者相关但不完全等同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n005",
+      "target": "s-c7bc7b458ea2-c001:a013",
+      "kind": "association",
+      "condition": "不同关注点",
+      "reason": "source 关注问题类型，candidate 关注提问对象，关系较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:a013",
+      "target": "s-c7bc7b458ea2-c002:v2-n005",
+      "kind": "association",
+      "condition": "不同关注点",
+      "reason": "source 关注问题类型，candidate 关注提问对象，关系较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n005",
+      "target": "s-c7bc7b458ea2-c001:v2-n0001",
+      "kind": "association",
+      "condition": "不同的误区类型",
+      "reason": "source 仅针对引导性问题，candidate 列举其他误区（为提问而问等），主题相关但侧重点不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c001:v2-n0001",
+      "target": "s-c7bc7b458ea2-c002:v2-n005",
+      "kind": "association",
+      "condition": "不同的误区类型",
+      "reason": "source 仅针对引导性问题，candidate 列举其他误区（为提问而问等），主题相关但侧重点不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n005",
+      "target": "s-c7bc7b458ea2-c003:a004",
+      "kind": "association",
+      "condition": "避免固定模板与避免引导性问题相关",
+      "reason": "source 强调避免引导性，candidate 强调避免固定模板，都是避免不当提问，但角度不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c003:a004",
+      "target": "s-c7bc7b458ea2-c002:v2-n005",
+      "kind": "association",
+      "condition": "避免固定模板与避免引导性问题相关",
+      "reason": "source 强调避免引导性，candidate 强调避免固定模板，都是避免不当提问，但角度不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n005",
+      "target": "s-c7bc7b458ea2-c002:a004",
+      "kind": "association",
+      "condition": "正面方法与 source 的反对形成对照",
+      "reason": "source 反对引导性问题，candidate 提供正面具体问题示例，可作对照但无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a004",
+      "target": "s-c7bc7b458ea2-c002:v2-n005",
+      "kind": "association",
+      "condition": "正面方法与 source 的反对形成对照",
+      "reason": "source 反对引导性问题，candidate 提供正面具体问题示例，可作对照但无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n005",
+      "target": "s-c7bc7b458ea2-c002:v2-n001",
+      "kind": "association",
+      "condition": "开放式问题与避免引导性问题相关",
+      "reason": "source 提倡开放真诚提问，candidate 强调无固定句式灵活应用，两者相通但未直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n001",
+      "target": "s-c7bc7b458ea2-c002:v2-n005",
+      "kind": "association",
+      "condition": "开放式问题与避免引导性问题相关",
+      "reason": "source 提倡开放真诚提问，candidate 强调无固定句式灵活应用，两者相通但未直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:v2-n005",
+      "target": "s-c7bc7b458ea2-c002:a010",
+      "kind": "association",
+      "condition": "具体练习示例",
+      "reason": "source 未提供具体问题示例，candidate 是提问练习，可作为参考但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-c7bc7b458ea2-c002:a010",
+      "target": "s-c7bc7b458ea2-c002:v2-n005",
+      "kind": "association",
+      "condition": "具体练习示例",
+      "reason": "source 未提供具体问题示例，candidate 是提问练习，可作为参考但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a001",
+        "s-c7bc7b458ea2-c001:r001"
+      ],
+      "reason": "内容完全一致，均为提问动机的说明。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a012"
+      ],
+      "reason": "内容完全一致，均为聊天式提问的示范。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a018"
+      ],
+      "reason": "内容完全一致，均为鼓励性问题与引导性问题的区别。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a019"
+      ],
+      "reason": "内容完全一致，均为干预建议。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a020"
+      ],
+      "reason": "内容完全一致，均为心理机制。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a001"
+      ],
+      "reason": "内容完全一致，均为回应方法。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a002"
+      ],
+      "reason": "内容完全一致，均为选择式提问。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a003"
+      ],
+      "reason": "内容完全一致，均为鼓励方法。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a004"
+      ],
+      "reason": "内容完全一致，均为具体有趣的问题。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a005"
+      ],
+      "reason": "内容完全一致，均为极端想法处理。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a006"
+      ],
+      "reason": "内容完全一致，均为考前冲刺提问。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a007"
+      ],
+      "reason": "内容完全一致，均为行为反常排查。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a008"
+      ],
+      "reason": "内容完全一致，均为反问促进自主。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a009"
+      ],
+      "reason": "内容完全一致，均为提问三个方向。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a010"
+      ],
+      "reason": "内容完全一致，均为未被邀请练习。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c003:a004",
+        "s-c7bc7b458ea2-c003:r001"
+      ],
+      "reason": "内容完全一致，均为提问灵活性。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a005",
+        "s-c7bc7b458ea2-c001:a020"
+      ],
+      "description": "案例中讲师认为12岁过度依恋需专业评估，而心理机制部分认为通过提问和共情可帮助疏通，未明确是否需要专业干预。",
+      "needed_evidence": "需要明确不同年龄和严重程度下，提问共情与专业评估的适用边界。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a005"
+      ],
+      "description": "讲师建议仅情绪连接和发泄，未提及专业心理评估或安全措施，可能不足以应对极端想法。",
+      "needed_evidence": "需要证据表明仅情绪连接和发泄对极端想法是安全有效的，或需要补充专业干预建议。"
+    },
+    {
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a007"
+      ],
+      "description": "讲师建议家长自行询问孩子是否遭受不当触摸，但未提及专业机构介入或法律程序，可能不够安全。",
+      "needed_evidence": "需要明确家长自行排查的局限性和专业介入的必要性。"
+    }
+  ],
+  "path": [
+    {
+      "name": "提问技巧实操路径",
+      "steps": [
+        {
+          "action": "识别提问动机：了解情况还是聊天",
+          "atom_ids": [
+            "s-c7bc7b458ea2-c001:a001"
+          ],
+          "condition": "与孩子交流前"
+        },
+        {
+          "action": "避免封闭性、引导性、鼓励性问题，使用开放式问题",
+          "atom_ids": [
+            "s-c7bc7b458ea2-c001:a002",
+            "s-c7bc7b458ea2-c001:a003",
+            "s-c7bc7b458ea2-c001:a018"
+          ],
+          "condition": "设计问题时"
+        },
+        {
+          "action": "根据情境选择提问方向：被理解、被认识、被喜欢",
+          "atom_ids": [
+            "s-c7bc7b458ea2-c002:a009",
+            "s-c7bc7b458ea2-c003:a001",
+            "s-c7bc7b458ea2-c003:a002"
+          ],
+          "condition": "孩子遇到情绪事件时"
+        },
+        {
+          "action": "识别关键点，灵活调整问题，避免固定模板",
+          "atom_ids": [
+            "s-c7bc7b458ea2-c003:a004"
+          ],
+          "condition": "具体情境中"
+        },
+        {
+          "action": "通过具体有趣的问题引导分享，或通过反问促进自主",
+          "atom_ids": [
+            "s-c7bc7b458ea2-c002:a004",
+            "s-c7bc7b458ea2-c002:a008"
+          ],
+          "condition": "日常交流中"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-c7bc7b458ea2-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a007",
+        "s-c7bc7b458ea2-c001:a009"
+      ],
+      "blocks": [
+        "b00006",
+        "b00008",
+        "b00009",
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a009"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c001:u0003",
+      "kind": "case",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a010"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c001:u0004",
+      "kind": "case",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a008"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c001:u0005",
+      "kind": "case",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a005",
+        "s-c7bc7b458ea2-c001:a019"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00017",
+        "b00020",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a006"
+      ],
+      "blocks": [
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a004"
+      ],
+      "blocks": [
+        "b00020",
+        "b00022",
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a020"
+      ],
+      "blocks": [
+        "b00021",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c001:u0009",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a018",
+        "s-c7bc7b458ea2-c001:v2-n0001"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c001:u0010",
+      "kind": "case",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a011",
+        "s-c7bc7b458ea2-c001:a001"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a012"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a002"
+      ],
+      "blocks": [
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a013"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c001:u0014",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a003",
+        "s-c7bc7b458ea2-c001:a014",
+        "s-c7bc7b458ea2-c001:a015",
+        "s-c7bc7b458ea2-c002:r001"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c001:u0015",
+      "kind": "case",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a016"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c002:u001",
+      "kind": "multiple_existing",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:a016",
+        "s-c7bc7b458ea2-c001:a017",
+        "s-c7bc7b458ea2-c002:a001"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c002:u002",
+      "kind": "multiple_existing",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a002"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c002:u003",
+      "kind": "multiple_existing",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a003"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049",
+        "b00050",
+        "b00051",
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c002:u004",
+      "kind": "new",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c002:u005",
+      "kind": "new",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c002:u006",
+      "kind": "multiple_existing",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a004"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057",
+        "b00058",
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c002:u007",
+      "kind": "multiple_existing",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a005"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c002:u008",
+      "kind": "new",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065",
+        "b00066",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c002:u009",
+      "kind": "multiple_existing",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a006"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067",
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c002:u010",
+      "kind": "multiple_existing",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a007"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071",
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c002:u011",
+      "kind": "new",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:v2-n004"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074",
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c002:u012",
+      "kind": "multiple_existing",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a008"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c002:u013",
+      "kind": "multiple_existing",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:a009",
+        "s-c7bc7b458ea2-c002:a010"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082",
+        "b00083",
+        "b00084",
+        "b00085",
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c002:u014",
+      "kind": "new",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:v2-n005"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c003:u1",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c003:a001"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c003:u2",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c003:a002"
+      ],
+      "blocks": [
+        "b00086",
+        "b00089",
+        "b00090",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c003:u3",
+      "kind": "method",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c003:a003"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089",
+        "b00090",
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c003:u4",
+      "kind": "method",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c003:a004",
+        "s-c7bc7b458ea2-c003:r001"
+      ],
+      "blocks": [
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-c7bc7b458ea2-c003:u5",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c003:a005"
+      ],
+      "blocks": [
+        "b00093",
+        "b00094",
+        "b00095"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "提问的误区：为提问而问问题与未立界限后果",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c001:v2-n0001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-c7bc7b458ea2",
+          "blocks": [
+            "b00018",
+            "b00019"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "anti-pattern"
+    },
+    {
+      "title": "开放式/鼓励式问题无固定句式，需根据情境灵活应用",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-c7bc7b458ea2",
+          "blocks": [
+            "b00053",
+            "b00054",
+            "b00055"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "不要以性别标签解释孩子不分享，问题无聊是主因",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-c7bc7b458ea2",
+          "blocks": [
+            "b00056",
+            "b00057"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "anti-pattern"
+    },
+    {
+      "title": "向他人求助时需提供具体背景和已做努力",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-c7bc7b458ea2",
+          "blocks": [
+            "b00064",
+            "b00065",
+            "b00066",
+            "b00078"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "孩子积极沟通但母亲感到不耐烦，可能关联自身成长议题",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-c7bc7b458ea2",
+          "blocks": [
+            "b00073",
+            "b00074",
+            "b00075",
+            "b00076"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "避免引导性问题，否则沟通会停止",
+      "atom_ids": [
+        "s-c7bc7b458ea2-c002:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-c7bc7b458ea2",
+          "blocks": [
+            "b00041"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "anti-pattern"
+    }
+  ]
+}

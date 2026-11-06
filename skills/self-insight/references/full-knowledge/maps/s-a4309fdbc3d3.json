@@ -1,0 +1,2473 @@
+{
+  "concepts": [
+    {
+      "name": "婚姻问题对儿童情绪的影响",
+      "definition": "父母掩饰婚姻问题会导致孩子压抑情绪；孩子察觉母亲看不起父亲时会产生复杂情感；婚姻质量影响育儿效果。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a001",
+        "s-a4309fdbc3d3-c001:a002",
+        "s-a4309fdbc3d3-c001:a003",
+        "s-a4309fdbc3d3-c001:r001"
+      ]
+    },
+    {
+      "name": "儿童自我归因",
+      "definition": "6-10岁儿童以自我为中心，容易将父母婚姻问题或父亲不参与归咎于自己，并可能将父亲后来的参与归因于自己表现好。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a004"
+      ]
+    },
+    {
+      "name": "向孩子道歉与责任澄清",
+      "definition": "父母应认真向孩子道歉，特别是父亲为过去不参与道歉，并明确告诉孩子不是他的错，父亲改变是因为自己认识到错误。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a005"
+      ]
+    },
+    {
+      "name": "夫妻分床睡问题",
+      "definition": "夫妻因睡眠问题分床睡是逃避婚姻问题，应共同面对；适应配偶睡眠习惯需要时间；允许孩子半夜上父母床会强化行为。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a006",
+        "s-a4309fdbc3d3-c001:a007",
+        "s-a4309fdbc3d3-c001:a008",
+        "s-a4309fdbc3d3-c001:a009"
+      ]
+    },
+    {
+      "name": "儿童独立睡眠训练",
+      "definition": "通过坚持将孩子送回房间、允许哭闹、不妥协，最终孩子学会自己睡整觉；孩子睡眠质量影响长期健康。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a010",
+        "s-a4309fdbc3d3-c001:a011"
+      ]
+    },
+    {
+      "name": "婚姻困难共同面对",
+      "definition": "婚姻中遇到困难应夫妻一起想办法解决、适应和面对，而不是绕过困难。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a012"
+      ]
+    },
+    {
+      "name": "行为改变的责任原理",
+      "definition": "人通常不会为他人的不便负责，只会为自己的不便负责；要让对方改变行为，需要让行为成为对方的问题。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a014"
+      ]
+    },
+    {
+      "name": "通过界限和后果促使戒烟",
+      "definition": "要让丈夫戒烟，妻子应设立界限和后果，使抽烟成为丈夫自己的问题，而不是仅表达不满。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a015"
+      ]
+    },
+    {
+      "name": "家庭居住问题与界限",
+      "definition": "对于与公婆同住的问题，建议学习界限与后果课程，为婚姻立界限，通过设立界限来解决。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a016",
+        "s-a4309fdbc3d3-c001:a017"
+      ]
+    },
+    {
+      "name": "离婚过程中的关系处理",
+      "definition": "学员正在办理离婚，与丈夫仍同住；丈夫固执、面子、自卑，不接受婚姻辅导；学员希望离婚后不成为仇人，尤其为了孩子。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a018"
+      ]
+    },
+    {
+      "name": "两种尊重",
+      "definition": "尊重分为两种：一是对一个人作为人的基本尊重，出于敬畏；二是在婚姻中因对方行为而产生的尊重，后者无法强迫。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a019"
+      ]
+    },
+    {
+      "name": "尊重男人的责任",
+      "definition": "在婚姻中，赢得尊重是男人的责任，而不是女人的义务；男人应改变让妻子无法尊重的行为。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a020"
+      ]
+    },
+    {
+      "name": "原生家庭偏见与个人辅导",
+      "definition": "如果因原生家庭对男性有偏见，即使对方没有不当行为也看不起，这是个人需要接受辅导解决的问题。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a021"
+      ]
+    },
+    {
+      "name": "责任划分",
+      "definition": "在关系中，要区分哪些是自己的责任，哪些是对方的责任；自己的问题自己解决，对方的问题由对方负责。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a022"
+      ]
+    },
+    {
+      "name": "公婆移民同住问题",
+      "definition": "学员的孩子2岁，婆婆60多岁，公公快70岁；丈夫准备为公婆办移民，未来一两年会一起住；婆婆没有界限意识，常与丈夫吵架。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a023"
+      ]
+    },
+    {
+      "name": "推迟公婆同住不能解决问题",
+      "definition": "推迟公婆来住只会让问题更严重，因为公婆年龄更大时照顾更难，应尽早面对并设立界限。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a024"
+      ]
+    },
+    {
+      "name": "夫妻共同设立界限应对公婆同住",
+      "definition": "夫妻应一起与公婆设立界限，而不是让丈夫单独去说；夫妻先达成一致，写下界限，一起向公婆说明，并表明这是共同决定。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a025"
+      ]
+    },
+    {
+      "name": "夫妻共同立界限的方法",
+      "definition": "立界限时，夫妻应一起在公婆面前立，而不是让丈夫单独去立；妻子要大大方方坐在那里，表明这是两人共同的决定。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a001"
+      ]
+    },
+    {
+      "name": "夫妻共同立界限避免归咎媳妇",
+      "definition": "如果妻子躲在后面让丈夫单独立界限，公婆会认为坏主意都是媳妇出的；夫妻一起立界限，公婆会认为儿子不孝，但没关系。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a002"
+      ]
+    },
+    {
+      "name": "丈夫吼妻子导航问题的案例",
+      "definition": "丈夫吼妻子“啥也不会”，妻子觉得自己理亏没有吼回去，但心里不舒服；老师建议采取自然后果。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a003"
+      ]
+    },
+    {
+      "name": "为吼叫立后果的方法",
+      "definition": "当配偶吼你时，可以立即停止当前合作行为，或者转身离开，或者在大庭广众之下不留面子；这些是自然的反应，也是后果。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a004"
+      ]
+    },
+    {
+      "name": "五岁孩子带书界限的案例",
+      "definition": "五岁弟弟要带两本又大又厚的书，妈妈和爸爸建议只带一本，弟弟不同意；妈妈劝他书很重，不会帮他背，需要自己背回来；弟弟最终放下书。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a005"
+      ]
+    },
+    {
+      "name": "界限与威胁的区别",
+      "definition": "界限和后果是告诉孩子会有这个事，然后让孩子自己选择；威胁是不断提醒后果，试图说服孩子不要做。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a006"
+      ]
+    },
+    {
+      "name": "让孩子承担后果的方法",
+      "definition": "当孩子选择带很重的书时，父母应告诉一次后果，然后让孩子自己决定；如果孩子仍然选择带，就让他承担后果。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a007"
+      ]
+    },
+    {
+      "name": "丈夫频繁换工作的案例",
+      "definition": "丈夫顾家爱孩子，但频繁换工作，每次从头开始，工资不高，要升职加薪时就不想干了；妻子全职在家，有一些收入。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a008"
+      ]
+    },
+    {
+      "name": "越界的定义",
+      "definition": "越界是指试图控制他人的行为，例如不准丈夫换工作；表达对丈夫换工作的担忧和希望家庭更好是正常的，不算越界。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a009"
+      ]
+    },
+    {
+      "name": "后果有效性的原理",
+      "definition": "如果一个人不怕后果，是因为后果没有给到点子上；如果让他承担自己行为的后果，他一定会想要好好种。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a010"
+      ]
+    },
+    {
+      "name": "婚姻像合伙人的案例",
+      "definition": "妻子描述婚姻感觉更像合伙人，一起辅导孩子作业、带孩子，但夫妻关系没什么了；丈夫生病她不想关心，工作上的事不愿分享。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a011"
+      ]
+    },
+    {
+      "name": "离婚不能解决伤害但能停止伤害",
+      "definition": "离婚绝对不能解决婚姻中的伤害，但可以停止伤害；解决伤害需要在离婚后或离婚前进行修复。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a012"
+      ]
+    },
+    {
+      "name": "夫妻分房睡的案例",
+      "definition": "学员因工作忙碌，很少参与育儿，怕夜晚孩子影响休息，独自搬到客房睡；妻子心里不舒服，想结束分房生活但不知道怎么说。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a013"
+      ]
+    },
+    {
+      "name": "改变被动状态的方法",
+      "definition": "要改变被动状态，需要自己做决定、提要求、做行动；先改变小的被动行为，再处理大的问题。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a014"
+      ]
+    },
+    {
+      "name": "一岁四个月孩子分床睡的案例",
+      "definition": "学员的女儿一岁四个月，纯自己带娃，同屋不同床；孩子一岁左右生病几周，后来养成后半夜要来大床一起睡的习惯。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a015"
+      ]
+    },
+    {
+      "name": "父母紧张对孩子生病的影响",
+      "definition": "孩子生病时，父母越紧张，孩子越容易养成不良习惯；父母应放松，不要让孩子知道父母过分紧张。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a016"
+      ]
+    },
+    {
+      "name": "信仰差异的婚姻案例",
+      "definition": "妻子有信仰，丈夫无神论，但允许孩子有信仰；妻子希望孩子上有信仰的学校，丈夫未调研就否定。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a017"
+      ]
+    },
+    {
+      "name": "影响配偶的方法",
+      "definition": "影响配偶需要配偶自己愿意被影响；可以通过自己开心地参加活动，不强迫对方，让对方感到安全，从而吸引对方。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a018"
+      ]
+    },
+    {
+      "name": "让否定者提供替代方案的方法",
+      "definition": "当配偶不断否定你的选择时，可以要求对方自己提出替代方案并详细调研。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:r001"
+      ]
+    },
+    {
+      "name": "以自身状态吸引孩子而非强迫",
+      "definition": "当孩子不愿参与某项活动时，父母不应施加压力强迫，而是自己开心地去做，孩子会被这种积极状态吸引而主动靠近。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a001",
+        "s-a4309fdbc3d3-c003:r001"
+      ]
+    },
+    {
+      "name": "夫妻在外忍让在家暴露导致伤害",
+      "definition": "学员描述自己和丈夫在外人面前能忍让，但在家里完全暴露自己，彼此很受伤害；经过几年，双方都有一些认识、成长和改变。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a002"
+      ]
+    },
+    {
+      "name": "初二孩子沉迷网络不去上学",
+      "definition": "初二小儿子因上网课迷恋网络，从上课玩到退群不学习，天天玩，开学后也不去学校上课；母亲着急，父亲不着急。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a003"
+      ]
+    },
+    {
+      "name": "反思自身问题与寻求帮助不冲突",
+      "definition": "反思自身问题和主动寻求帮助并不冲突；父母可以同时反思自身问题并寻求外部帮助。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a004"
+      ]
+    },
+    {
+      "name": "反思后走向不管的极端",
+      "definition": "人在反思自身问题时容易走向极端：以前做得不好、管得太严，现在就完全不管；这种走极端的方式是错误的。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a005"
+      ]
+    },
+    {
+      "name": "父母可单独行动不必说服配偶",
+      "definition": "当夫妻意见不一致时，一方可以不必说服另一方，而是自己开始采取行动；例如，母亲可以要求孩子必须去上学。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a006"
+      ]
+    },
+    {
+      "name": "让配偶承担其决定的责任",
+      "definition": "如果配偶坚持相反做法，另一方可以表示既然意见相反，就由配偶来带孩子，自己不再管，以避免每天冲突。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a007"
+      ]
+    },
+    {
+      "name": "通过暂时离开让配偶体验后果",
+      "definition": "如果配偶不着急，自己可以暂时出去住一段时间，让配偶自己天天在家守着孩子，他一定会着急上火。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a008"
+      ]
+    },
+    {
+      "name": "学员与婆婆的沟通困扰",
+      "definition": "学员经常包容婆婆，作为长辈不能直接说她，会有点不爽但不会怼她；内心有时不喜欢婆婆的一些行为。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a009"
+      ]
+    },
+    {
+      "name": "学员与丈夫教育理念不同",
+      "definition": "学员因工作忙，类似事情会跟婆婆沟通但过几天就忘；孩子拖拉，老公直接很豁达，与学员理念不一样。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a010"
+      ]
+    },
+    {
+      "name": "提问要明确具体问题",
+      "definition": "讲师要求学员提问时直接提出具体问题，不要讲一堆背景而不说明问题是什么。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a011"
+      ]
+    },
+    {
+      "name": "让孩子看到父母感情好比想象更重要",
+      "definition": "让孩子知道父母感情很好很重要，例如当着孩子的面表现亲密；但让孩子想象父母在房间里做什么并不重要。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a012"
+      ]
+    },
+    {
+      "name": "建立习惯最重要的是去做而非学",
+      "definition": "建立习惯最重要的是去做，而不是学；学了之后一定要用在生活当中，通过刻意练习建立习惯。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a013"
+      ]
+    },
+    {
+      "name": "通过群内分享梳理自己",
+      "definition": "讲师鼓励学员在群里面分享听课感受、被打开的内容和认知，讨论时就像梳理自己一样。",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a014"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-a4309fdbc3d3-c001:a001",
+      "target": "s-a4309fdbc3d3-c001:a002",
+      "kind": "causes",
+      "condition": "当父母掩饰婚姻问题且孩子察觉母亲看不起父亲时",
+      "reason": "父母粉饰太平导致孩子压抑情绪，而孩子察觉母亲看不起父亲时会产生复杂情感反应，两者都是婚姻问题对儿童情绪的影响。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a003",
+      "target": "s-a4309fdbc3d3-c001:a001",
+      "kind": "supports",
+      "condition": "婚姻和睦时育儿更顺利",
+      "reason": "婚姻质量影响育儿效果，婚姻和睦时孩子各方面表现更好，而父母掩饰婚姻问题会导致孩子压抑情绪，说明婚姻问题对儿童有负面影响。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a004",
+      "target": "s-a4309fdbc3d3-c001:a005",
+      "kind": "prerequisite",
+      "condition": "当孩子因父母婚姻问题产生自我归因时",
+      "reason": "6-10岁儿童容易将父母问题归咎于自己，因此父母需要向孩子道歉并澄清责任，以纠正孩子的错误归因。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a007",
+      "target": "s-a4309fdbc3d3-c001:a008",
+      "kind": "supports",
+      "condition": "夫妻因睡眠问题考虑分床时",
+      "reason": "夫妻分床睡是逃避婚姻问题，而适应配偶睡眠习惯需要时间，因此应坚持同床并适应，而不是分床。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a009",
+      "target": "s-a4309fdbc3d3-c001:a010",
+      "kind": "contrasts",
+      "condition": "当孩子半夜要求上父母床时",
+      "reason": "允许孩子半夜上父母床会强化行为，而讲师个人案例中坚持将孩子送回房间，最终孩子学会自己睡整觉，形成对比。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a011",
+      "target": "s-a4309fdbc3d3-c001:a010",
+      "kind": "supports",
+      "condition": "训练孩子独立睡觉时",
+      "reason": "孩子睡眠质量影响长期健康，因此训练独立睡觉对孩子有益，支持讲师坚持训练的做法。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a012",
+      "target": "s-a4309fdbc3d3-c001:a007",
+      "kind": "supports",
+      "condition": "婚姻中遇到困难时",
+      "reason": "婚姻困难应共同面对而非绕过，而夫妻分床睡是逃避婚姻问题，因此应共同面对睡眠问题。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a014",
+      "target": "s-a4309fdbc3d3-c001:a015",
+      "kind": "prerequisite",
+      "condition": "当需要促使对方改变行为时",
+      "reason": "人只为自己的不便负责，因此要让丈夫戒烟，需要让抽烟成为丈夫自己的问题，通过设立界限和后果实现。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a017",
+      "target": "s-a4309fdbc3d3-c001:a016",
+      "kind": "applies_to",
+      "condition": "当家庭居住安排产生冲突时",
+      "reason": "对于与公婆同住的问题，建议学习界限与后果课程，为婚姻立界限，通过设立界限来解决，适用于学员想与公婆分开住的情况。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a019",
+      "target": "s-a4309fdbc3d3-c001:a020",
+      "kind": "supports",
+      "condition": "在婚姻中涉及尊重问题时",
+      "reason": "尊重分为基本尊重和因行为产生的尊重，后者无法强迫，因此赢得尊重是男人的责任，男人应改变让妻子无法尊重的行为。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a021",
+      "target": "s-a4309fdbc3d3-c001:a022",
+      "kind": "example_of",
+      "condition": "当存在原生家庭偏见时",
+      "reason": "原生家庭导致的偏见需要个人辅导解决，是责任划分中“自己的问题自己解决”的一个例子。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a024",
+      "target": "s-a4309fdbc3d3-c001:a025",
+      "kind": "prerequisite",
+      "condition": "当公婆即将同住时",
+      "reason": "推迟公婆同住不能解决问题，应尽早面对并设立界限，因此需要夫妻共同设立界限应对公婆同住。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a001",
+      "target": "s-a4309fdbc3d3-c002:a002",
+      "kind": "supports",
+      "condition": "当需要向公婆立界限时",
+      "reason": "夫妻共同立界限的方法（一起在公婆面前立，妻子表明共同决定）可以避免公婆将界限归咎于媳妇，支持了夫妻共同立界限避免归咎媳妇这一命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a003",
+      "target": "s-a4309fdbc3d3-c002:a004",
+      "kind": "example_of",
+      "condition": "当配偶吼叫时",
+      "reason": "丈夫吼妻子导航问题的案例展示了当配偶吼叫时如何立后果，是为吼叫立后果方法的具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "同上。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a005",
+      "target": "s-a4309fdbc3d3-c002:a006",
+      "kind": "example_of",
+      "condition": "当给孩子立界限时",
+      "reason": "五岁孩子带书界限的案例展示了给孩子立界限时界限与威胁的区别，是概念的具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "同上。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a006",
+      "target": "s-a4309fdbc3d3-c002:a007",
+      "kind": "step_of",
+      "condition": "当孩子做出不合理选择时",
+      "reason": "让孩子承担后果的方法是界限与威胁区别中的正确做法，即告诉一次后果，然后让孩子自己选择并承担后果。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a008",
+      "target": "s-a4309fdbc3d3-c002:a009",
+      "kind": "example_of",
+      "condition": "当涉及夫妻沟通时",
+      "reason": "丈夫频繁换工作的案例展示了越界的定义，妻子表达担忧是正常的，不算越界。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a010",
+      "target": "s-a4309fdbc3d3-c002:a004",
+      "kind": "supports",
+      "condition": "当设立后果时",
+      "reason": "后果有效性的原理支持为吼叫立后果的方法，如果后果足够严重且可信，对方会停止行为。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a011",
+      "target": "s-a4309fdbc3d3-c002:a012",
+      "kind": "example_of",
+      "condition": "当婚姻中存在伤害时",
+      "reason": "婚姻像合伙人的案例展示了离婚不能解决伤害但能停止伤害的观点。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a013",
+      "target": "s-a4309fdbc3d3-c002:a014",
+      "kind": "example_of",
+      "condition": "当处于被动状态时",
+      "reason": "夫妻分房睡的案例展示了改变被动状态的方法，需要自己做决定、提要求、做行动。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a015",
+      "target": "s-a4309fdbc3d3-c002:a016",
+      "kind": "example_of",
+      "condition": "当孩子生病时",
+      "reason": "一岁四个月孩子分床睡的案例展示了孩子生病时父母紧张的影响，是父母紧张对孩子生病影响概念的具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "同上。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a017",
+      "target": "s-a4309fdbc3d3-c002:a018",
+      "kind": "example_of",
+      "condition": "当配偶信仰或价值观差异时",
+      "reason": "信仰差异的婚姻案例展示了配偶信仰或价值观差异时如何影响配偶，是影响配偶方法的具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "同上。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a018",
+      "target": "s-a4309fdbc3d3-c002:r001",
+      "kind": "step_of",
+      "condition": "当配偶不断否定你的选择时",
+      "reason": "让否定者提供替代方案的方法是影响配偶方法中的一个具体步骤，正确关系应为 target step_of source，原方向有误。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向修订：target是source的步骤。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:a001",
+      "target": "s-a4309fdbc3d3-c002:a018",
+      "kind": "association",
+      "condition": "当影响配偶或孩子时",
+      "reason": "以自身状态吸引孩子而非强迫的原理与影响配偶的方法原理相似，但对象不同（孩子 vs 配偶），不能直接合并为支持，仅存在关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原supports改为association，说明不同角色不能直接合并。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:a003",
+      "target": "s-a4309fdbc3d3-c003:a006",
+      "kind": "example_of",
+      "condition": "当夫妻意见不一致时",
+      "reason": "初二孩子沉迷网络不去上学的案例展示了父母可单独行动不必说服配偶的方法。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:a006",
+      "target": "s-a4309fdbc3d3-c003:a007",
+      "kind": "association",
+      "condition": "当配偶坚持相反做法时",
+      "reason": "父母可单独行动不必说服配偶与让配偶承担其决定的责任是处理夫妻分歧的相关策略，但并非步骤关系，仅属于同一议题的关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of改为association，因为两者非步骤关系。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:a007",
+      "target": "s-a4309fdbc3d3-c003:a008",
+      "kind": "step_of",
+      "condition": "当配偶不着急且自己无法忍受时",
+      "reason": "通过暂时离开让配偶体验后果是让配偶承担其决定责任的一个具体步骤，正确关系应为 target step_of source，原方向有误。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向修订：target是source的步骤。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:a004",
+      "target": "s-a4309fdbc3d3-c003:a005",
+      "kind": "contrasts",
+      "condition": "当反思自身问题时",
+      "reason": "反思自身问题与寻求帮助不冲突，但反思后走向不管的极端是错误的，形成对比。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:a013",
+      "target": "s-a4309fdbc3d3-c003:a014",
+      "kind": "supports",
+      "condition": "当建立习惯时",
+      "reason": "建立习惯最重要的是去做，而通过群内分享梳理自己是一种实践方式，有助于将所学应用到生活中。"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n001",
+      "target": "s-a4309fdbc3d3-c001:v2-n002",
+      "kind": "association",
+      "condition": "婚姻问题对孩子影响的案例",
+      "reason": "候选（s-a4309fdbc3d3-c001:v2-n002）是另一个婚姻表面和睦案例，来源类似但结局不同，两者为同类案例关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n002",
+      "target": "s-a4309fdbc3d3-c001:v2-n001",
+      "kind": "association",
+      "condition": "婚姻问题对孩子影响的案例",
+      "reason": "候选（s-a4309fdbc3d3-c001:v2-n002）是另一个婚姻表面和睦案例，来源类似但结局不同，两者为同类案例关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n001",
+      "target": "s-a4309fdbc3d3-c001:a018",
+      "kind": "association",
+      "condition": "婚姻问题处理",
+      "reason": "候选（s-a4309fdbc3d3-c001:a018）涉及离婚过程，来源也是婚姻问题，但阶段不同，为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a018",
+      "target": "s-a4309fdbc3d3-c001:v2-n001",
+      "kind": "association",
+      "condition": "婚姻问题处理",
+      "reason": "候选（s-a4309fdbc3d3-c001:a018）涉及离婚过程，来源也是婚姻问题，但阶段不同，为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n001",
+      "target": "s-a4309fdbc3d3-c001:a006",
+      "kind": "association",
+      "condition": "分床睡情境",
+      "reason": "来源提及分床睡，候选（s-a4309fdbc3d3-c001:a006）详细探讨分床与孩子睡眠，两者均涉及分床，但重点不同，为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a006",
+      "target": "s-a4309fdbc3d3-c001:v2-n001",
+      "kind": "association",
+      "condition": "分床睡情境",
+      "reason": "来源提及分床睡，候选（s-a4309fdbc3d3-c001:a006）详细探讨分床与孩子睡眠，两者均涉及分床，但重点不同，为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n001",
+      "target": "s-a4309fdbc3d3-c001:a001",
+      "kind": "example_of",
+      "condition": "父母在孩子面前粉饰太平时",
+      "reason": "来源描述学员在前夫婚姻中粉饰太平，正是候选（s-a4309fdbc3d3-c001:a001）概念（粉饰太平导致孩子压抑情绪）的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a001",
+      "target": "s-a4309fdbc3d3-c001:v2-n001",
+      "kind": "has_example",
+      "condition": "父母在孩子面前粉饰太平时",
+      "reason": "来源描述学员在前夫婚姻中粉饰太平，正是候选（s-a4309fdbc3d3-c001:a001）概念（粉饰太平导致孩子压抑情绪）的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n001",
+      "target": "s-a4309fdbc3d3-c001:a003",
+      "kind": "example_of",
+      "condition": "婚姻质量不佳时",
+      "reason": "来源是婚姻质量不佳且担忧孩子影响的案例，是候选（s-a4309fdbc3d3-c001:a003）概念（婚姻质量影响育儿效果）的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a003",
+      "target": "s-a4309fdbc3d3-c001:v2-n001",
+      "kind": "has_example",
+      "condition": "婚姻质量不佳时",
+      "reason": "来源是婚姻质量不佳且担忧孩子影响的案例，是候选（s-a4309fdbc3d3-c001:a003）概念（婚姻质量影响育儿效果）的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n001",
+      "target": "s-a4309fdbc3d3-c001:a002",
+      "kind": "association",
+      "condition": "孩子察觉母亲看不起父亲时",
+      "reason": "候选（s-a4309fdbc3d3-c001:a002）提出孩子对母亲愤怒等复杂情感，来源中学员承认看不起前夫但儿子与其关系好，可能存在复杂情感但未明确，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a002",
+      "target": "s-a4309fdbc3d3-c001:v2-n001",
+      "kind": "association",
+      "condition": "孩子察觉母亲看不起父亲时",
+      "reason": "候选（s-a4309fdbc3d3-c001:a002）提出孩子对母亲愤怒等复杂情感，来源中学员承认看不起前夫但儿子与其关系好，可能存在复杂情感但未明确，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n001",
+      "target": "s-a4309fdbc3d3-c002:a011",
+      "kind": "association",
+      "condition": "婚姻问题案例",
+      "reason": "候选（s-a4309fdbc3d3-c002:a011）是婚姻像合伙人的案例，与来源同属婚姻问题案例，内容不同但主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a011",
+      "target": "s-a4309fdbc3d3-c001:v2-n001",
+      "kind": "association",
+      "condition": "婚姻问题案例",
+      "reason": "候选（s-a4309fdbc3d3-c002:a011）是婚姻像合伙人的案例，与来源同属婚姻问题案例，内容不同但主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n002",
+      "target": "s-a4309fdbc3d3-c001:v2-n001",
+      "kind": "association",
+      "condition": "婚姻表面和睦或粉饰太平的案例",
+      "reason": "候选（s-a4309fdbc3d3-c001:v2-n001）是前夫婚姻粉饰太平案例，来源是婚姻麻木后修复案例，两者同类主题但结局不同，为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n001",
+      "target": "s-a4309fdbc3d3-c001:v2-n002",
+      "kind": "association",
+      "condition": "婚姻表面和睦或粉饰太平的案例",
+      "reason": "候选（s-a4309fdbc3d3-c001:v2-n001）是前夫婚姻粉饰太平案例，来源是婚姻麻木后修复案例，两者同类主题但结局不同，为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n002",
+      "target": "s-a4309fdbc3d3-c001:a003",
+      "kind": "example_of",
+      "condition": "婚姻质量改善后",
+      "reason": "来源描述婚姻从麻木到和睦，孩子感到安全，是候选（s-a4309fdbc3d3-c001:a003）概念（婚姻质量影响育儿效果）的正面实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a003",
+      "target": "s-a4309fdbc3d3-c001:v2-n002",
+      "kind": "has_example",
+      "condition": "婚姻质量改善后",
+      "reason": "来源描述婚姻从麻木到和睦，孩子感到安全，是候选（s-a4309fdbc3d3-c001:a003）概念（婚姻质量影响育儿效果）的正面实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n002",
+      "target": "s-a4309fdbc3d3-c001:a004",
+      "kind": "association",
+      "condition": "孩子年龄在6-10岁且父母婚姻有问题时",
+      "reason": "候选（s-a4309fdbc3d3-c001:a004）指出6-10岁儿童易将父母问题归咎于自己，来源中老二在该年龄段经历婚姻麻木，可能涉及该心理，但来源未明确，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a004",
+      "target": "s-a4309fdbc3d3-c001:v2-n002",
+      "kind": "association",
+      "condition": "孩子年龄在6-10岁且父母婚姻有问题时",
+      "reason": "候选（s-a4309fdbc3d3-c001:a004）指出6-10岁儿童易将父母问题归咎于自己，来源中老二在该年龄段经历婚姻麻木，可能涉及该心理，但来源未明确，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n003",
+      "target": "s-a4309fdbc3d3-c001:a007",
+      "kind": "example_of",
+      "condition": "当夫妻因睡眠问题考虑分床时",
+      "reason": "source中讲师夫妇曾讨论分床但坚决不分床，认为分床是逃避婚姻问题，是a007概念“分床睡是逃避婚姻问题”的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a007",
+      "target": "s-a4309fdbc3d3-c001:v2-n003",
+      "kind": "has_example",
+      "condition": "当夫妻因睡眠问题考虑分床时",
+      "reason": "source中讲师夫妇曾讨论分床但坚决不分床，认为分床是逃避婚姻问题，是a007概念“分床睡是逃避婚姻问题”的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n003",
+      "target": "s-a4309fdbc3d3-c001:a008",
+      "kind": "example_of",
+      "condition": "坚持同床睡眠一段时间时",
+      "reason": "source中讲师夫妇坚持两个月同床，丈夫对声音不再敏感，具体展示了a008所述通过坚持一段时间适应配偶睡眠噪音的过程。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a008",
+      "target": "s-a4309fdbc3d3-c001:v2-n003",
+      "kind": "has_example",
+      "condition": "坚持同床睡眠一段时间时",
+      "reason": "source中讲师夫妇坚持两个月同床，丈夫对声音不再敏感，具体展示了a008所述通过坚持一段时间适应配偶睡眠噪音的过程。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n003",
+      "target": "s-a4309fdbc3d3-c001:a012",
+      "kind": "example_of",
+      "condition": "在婚姻中遇到类似睡眠等困难时",
+      "reason": "source中讲师夫妇面对睡眠问题选择共同适应而非分床绕过，体现了a012所述婚姻困难应共同面对的原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a012",
+      "target": "s-a4309fdbc3d3-c001:v2-n003",
+      "kind": "has_example",
+      "condition": "在婚姻中遇到类似睡眠等困难时",
+      "reason": "source中讲师夫妇面对睡眠问题选择共同适应而非分床绕过，体现了a012所述婚姻困难应共同面对的原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n003",
+      "target": "s-a4309fdbc3d3-c001:a010",
+      "kind": "association",
+      "condition": "当讨论睡眠相关界限或坚持原则时",
+      "reason": "两者均涉及睡眠安排与界限坚持，但source聚焦夫妻同床适应，a010聚焦训练孩子独立睡觉，角色和对象不同，仅因同属睡眠相关主题产生关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a010",
+      "target": "s-a4309fdbc3d3-c001:v2-n003",
+      "kind": "association",
+      "condition": "当讨论睡眠相关界限或坚持原则时",
+      "reason": "两者均涉及睡眠安排与界限坚持，但source聚焦夫妻同床适应，a010聚焦训练孩子独立睡觉，角色和对象不同，仅因同属睡眠相关主题产生关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n003",
+      "target": "s-a4309fdbc3d3-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论婚姻困难与修复时",
+      "reason": "两者都是婚姻案例，涉及困难与改变，但source聚焦睡眠适应，v2-n002聚焦麻木后修复；无直接例证或补充关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n002",
+      "target": "s-a4309fdbc3d3-c001:v2-n003",
+      "kind": "association",
+      "condition": "当讨论婚姻困难与修复时",
+      "reason": "两者都是婚姻案例，涉及困难与改变，但source聚焦睡眠适应，v2-n002聚焦麻木后修复；无直接例证或补充关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n003",
+      "target": "s-a4309fdbc3d3-c001:a006",
+      "kind": "association",
+      "condition": "当探讨夫妻是否分床时",
+      "reason": "source坚持夫妻不分床，认为分床是逃避；a006描述因孩子和睡眠问题夫妻分床的安排；两者涉及分床决策但情境和理由不同，无直接矛盾或例证，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a006",
+      "target": "s-a4309fdbc3d3-c001:v2-n003",
+      "kind": "association",
+      "condition": "当探讨夫妻是否分床时",
+      "reason": "source坚持夫妻不分床，认为分床是逃避；a006描述因孩子和睡眠问题夫妻分床的安排；两者涉及分床决策但情境和理由不同，无直接矛盾或例证，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n003",
+      "target": "s-a4309fdbc3d3-c002:a011",
+      "kind": "association",
+      "condition": "当讨论婚姻中面对问题的逃避行为时",
+      "reason": "两者都涉及逃避概念，source指分床是逃避，a011指不处理离婚可能是逃避；但情境不同，无直接例证或补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a011",
+      "target": "s-a4309fdbc3d3-c001:v2-n003",
+      "kind": "association",
+      "condition": "当讨论婚姻中面对问题的逃避行为时",
+      "reason": "两者都涉及逃避概念，source指分床是逃避，a011指不处理离婚可能是逃避；但情境不同，无直接例证或补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n003",
+      "target": "s-a4309fdbc3d3-c001:v2-n001",
+      "kind": "association",
+      "condition": "当讨论夫妻分床与婚姻质量时",
+      "reason": "source认为分床是逃避婚姻问题，v2-n001中分床发生在粉饰太平的婚姻中；两者涉及分床与婚姻状况，但source是正例，v2-n001是反面情形，无直接补充或冲突，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n001",
+      "target": "s-a4309fdbc3d3-c001:v2-n003",
+      "kind": "association",
+      "condition": "当讨论夫妻分床与婚姻质量时",
+      "reason": "source认为分床是逃避婚姻问题，v2-n001中分床发生在粉饰太平的婚姻中；两者涉及分床与婚姻状况，但source是正例，v2-n001是反面情形，无直接补充或冲突，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n001",
+      "target": "s-a4309fdbc3d3-c002:v2-n003",
+      "kind": "association",
+      "condition": "当讨论夫妻在育儿上的不一致时",
+      "reason": "两者都描述夫妻在育儿问题上存在分歧并引发矛盾，source是饮食问题，c002:v2-n003是网瘾问题，具体情境不同，但主题相似。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n003",
+      "target": "s-a4309fdbc3d3-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论夫妻在育儿上的不一致时",
+      "reason": "两者都描述夫妻在育儿问题上存在分歧并引发矛盾，source是饮食问题，c002:v2-n003是网瘾问题，具体情境不同，但主题相似。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n001",
+      "target": "s-a4309fdbc3d3-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论婚姻困难与改变时",
+      "reason": "两者均为婚姻困难案例，但source是未解决的原生家庭背景差异导致育儿矛盾，c001:v2-n002是麻木后修复；无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n002",
+      "target": "s-a4309fdbc3d3-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论婚姻困难与改变时",
+      "reason": "两者均为婚姻困难案例，但source是未解决的原生家庭背景差异导致育儿矛盾，c001:v2-n002是麻木后修复；无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n001",
+      "target": "s-a4309fdbc3d3-c001:a021",
+      "kind": "association",
+      "condition": "当原生家庭差异导致对配偶的固化看法时",
+      "reason": "source中妻子认为丈夫饮食受其家庭影响无法改变，与c001:a021所述原生家庭导致的偏见需要辅导解决有相似之处；但source未明确是偏见或看不起，故仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a021",
+      "target": "s-a4309fdbc3d3-c002:v2-n001",
+      "kind": "association",
+      "condition": "当原生家庭差异导致对配偶的固化看法时",
+      "reason": "source中妻子认为丈夫饮食受其家庭影响无法改变，与c001:a021所述原生家庭导致的偏见需要辅导解决有相似之处；但source未明确是偏见或看不起，故仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n001",
+      "target": "s-a4309fdbc3d3-c002:a011",
+      "kind": "association",
+      "condition": "当讨论婚姻关系质量时",
+      "reason": "两者都是婚姻关系出现问题的案例，但source聚焦原生家庭差异引发育儿矛盾，c002:a011聚焦关系冷漠如合伙人；无直接补充或例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a011",
+      "target": "s-a4309fdbc3d3-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论婚姻关系质量时",
+      "reason": "两者都是婚姻关系出现问题的案例，但source聚焦原生家庭差异引发育儿矛盾，c002:a011聚焦关系冷漠如合伙人；无直接补充或例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n001",
+      "target": "s-a4309fdbc3d3-c002:a017",
+      "kind": "association",
+      "condition": "当讨论夫妻核心观念差异时",
+      "reason": "两者都涉及夫妻在重要观念上的差异（原生家庭背景 vs 信仰），并引发婚姻问题；但具体内容不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a017",
+      "target": "s-a4309fdbc3d3-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论夫妻核心观念差异时",
+      "reason": "两者都涉及夫妻在重要观念上的差异（原生家庭背景 vs 信仰），并引发婚姻问题；但具体内容不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n001",
+      "target": "s-a4309fdbc3d3-c002:a003",
+      "kind": "association",
+      "condition": "当讨论夫妻冲突处理时",
+      "reason": "两者均为夫妻冲突案例，但source是育儿分歧，c002:a003是导航吼叫；无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a003",
+      "target": "s-a4309fdbc3d3-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论夫妻冲突处理时",
+      "reason": "两者均为夫妻冲突案例，但source是育儿分歧，c002:a003是导航吼叫；无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n001",
+      "target": "s-a4309fdbc3d3-c001:a006",
+      "kind": "association",
+      "condition": "当讨论育儿难题时",
+      "reason": "两者都涉及育儿问题，但source是饮食与家庭影响，c001:a006是睡眠；无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a006",
+      "target": "s-a4309fdbc3d3-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论育儿难题时",
+      "reason": "两者都涉及育儿问题，但source是饮食与家庭影响，c001:a006是睡眠；无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n001",
+      "target": "s-a4309fdbc3d3-c002:a008",
+      "kind": "association",
+      "condition": "当讨论对配偶行为的看法时",
+      "reason": "两者均涉及妻子对丈夫行为的担忧或不满，但具体问题不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a008",
+      "target": "s-a4309fdbc3d3-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论对配偶行为的看法时",
+      "reason": "两者均涉及妻子对丈夫行为的担忧或不满，但具体问题不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n001",
+      "target": "s-a4309fdbc3d3-c001:v2-n001",
+      "kind": "association",
+      "condition": "当讨论对配偶的轻视与婚姻问题时",
+      "reason": "source中妻子认为丈夫饮食受其家庭影响改变不了，隐含对丈夫原生家庭的负面看法，与c001:v2-n001中看不起前夫有相似情绪；但未明确，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n001",
+      "target": "s-a4309fdbc3d3-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论对配偶的轻视与婚姻问题时",
+      "reason": "source中妻子认为丈夫饮食受其家庭影响改变不了，隐含对丈夫原生家庭的负面看法，与c001:v2-n001中看不起前夫有相似情绪；但未明确，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n001",
+      "target": "s-a4309fdbc3d3-c001:a003",
+      "kind": "example_of",
+      "condition": "当婚姻存在矛盾并影响育儿时",
+      "reason": "source中夫妻因原生家庭背景差异争吵，影响育儿（孩子健康问题），具体体现了c001:a003所述婚姻质量影响育儿效果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a003",
+      "target": "s-a4309fdbc3d3-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "当婚姻存在矛盾并影响育儿时",
+      "reason": "source中夫妻因原生家庭背景差异争吵，影响育儿（孩子健康问题），具体体现了c001:a003所述婚姻质量影响育儿效果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n001",
+      "target": "s-a4309fdbc3d3-c001:a018",
+      "kind": "association",
+      "condition": "当讨论离婚相关困境时",
+      "reason": "source中夫妻多次提出离婚，c001:a018是离婚过程中关系处理；两者涉及离婚议题，但阶段不同，无直接例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a018",
+      "target": "s-a4309fdbc3d3-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论离婚相关困境时",
+      "reason": "source中夫妻多次提出离婚，c001:a018是离婚过程中关系处理；两者涉及离婚议题，但阶段不同，无直接例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n003",
+      "target": "s-a4309fdbc3d3-c003:a003",
+      "kind": "association",
+      "condition": "当记录同一案例时",
+      "reason": "两者描述同一学员案例（初二孩子沉迷网络不去上学），source包含夫妻背景，c003:a003聚焦孩子问题，内容基本一致，为同一事件的不同表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:a003",
+      "target": "s-a4309fdbc3d3-c002:v2-n003",
+      "kind": "association",
+      "condition": "当记录同一案例时",
+      "reason": "两者描述同一学员案例（初二孩子沉迷网络不去上学），source包含夫妻背景，c003:a003聚焦孩子问题，内容基本一致，为同一事件的不同表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n003",
+      "target": "s-a4309fdbc3d3-c003:a002",
+      "kind": "example_of",
+      "condition": "当夫妻相处模式为外忍内伤时",
+      "reason": "source中夫妻在外人面前忍让、在家彼此暴露伤害，正是c003:a002所描述的具体案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:a002",
+      "target": "s-a4309fdbc3d3-c002:v2-n003",
+      "kind": "has_example",
+      "condition": "当夫妻相处模式为外忍内伤时",
+      "reason": "source中夫妻在外人面前忍让、在家彼此暴露伤害，正是c003:a002所描述的具体案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n003",
+      "target": "s-a4309fdbc3d3-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论夫妻因背景差异在育儿上分歧时",
+      "reason": "两者均涉及夫妻在育儿问题上的分歧，但source聚焦网瘾，c002:v2-n001聚焦饮食；具体问题不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n001",
+      "target": "s-a4309fdbc3d3-c002:v2-n003",
+      "kind": "association",
+      "condition": "当讨论夫妻因背景差异在育儿上分歧时",
+      "reason": "两者均涉及夫妻在育儿问题上的分歧，但source聚焦网瘾，c002:v2-n001聚焦饮食；具体问题不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n003",
+      "target": "s-a4309fdbc3d3-c002:a011",
+      "kind": "association",
+      "condition": "当讨论婚姻关系中的伤害与冷漠时",
+      "reason": "source中夫妻在家彼此暴露伤害，c002:a011中婚姻如合伙人关系淡；两者都涉及婚姻关系不健康，但具体表现不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a011",
+      "target": "s-a4309fdbc3d3-c002:v2-n003",
+      "kind": "association",
+      "condition": "当讨论婚姻关系中的伤害与冷漠时",
+      "reason": "source中夫妻在家彼此暴露伤害，c002:a011中婚姻如合伙人关系淡；两者都涉及婚姻关系不健康，但具体表现不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n003",
+      "target": "s-a4309fdbc3d3-c001:v2-n001",
+      "kind": "association",
+      "condition": "当讨论在外维持形象与内在婚姻问题时",
+      "reason": "source中夫妻在外人面前忍让，c001:v2-n001中在孩子面前粉饰太平；两者都涉及掩盖婚姻问题，但对象不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:v2-n001",
+      "target": "s-a4309fdbc3d3-c002:v2-n003",
+      "kind": "association",
+      "condition": "当讨论在外维持形象与内在婚姻问题时",
+      "reason": "source中夫妻在外人面前忍让，c001:v2-n001中在孩子面前粉饰太平；两者都涉及掩盖婚姻问题，但对象不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n003",
+      "target": "s-a4309fdbc3d3-c002:a017",
+      "kind": "association",
+      "condition": "当讨论婚姻中的根本分歧时",
+      "reason": "source中夫妻在孩子教育上分歧，c002:a017中信仰差异；两者都是夫妻间深层分歧，但具体领域不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a017",
+      "target": "s-a4309fdbc3d3-c002:v2-n003",
+      "kind": "association",
+      "condition": "当讨论婚姻中的根本分歧时",
+      "reason": "source中夫妻在孩子教育上分歧，c002:a017中信仰差异；两者都是夫妻间深层分歧，但具体领域不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n003",
+      "target": "s-a4309fdbc3d3-c002:a003",
+      "kind": "association",
+      "condition": "当讨论夫妻冲突与沟通时",
+      "reason": "source中夫妻在家暴露伤害，c002:a003是丈夫吼妻子的冲突；两者都涉及夫妻间负面互动，但具体情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a003",
+      "target": "s-a4309fdbc3d3-c002:v2-n003",
+      "kind": "association",
+      "condition": "当讨论夫妻冲突与沟通时",
+      "reason": "source中夫妻在家暴露伤害，c002:a003是丈夫吼妻子的冲突；两者都涉及夫妻间负面互动，但具体情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:v2-n003",
+      "target": "s-a4309fdbc3d3-c003:v2-n001",
+      "kind": "association",
+      "condition": "当讨论父母对孩子问题的态度时",
+      "reason": "source中母亲着急，父亲不急，与c003:v2-n001所述父母应爱和接纳孩子、母亲着急可理解的态度取向相关；但source未直接引用该观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:v2-n001",
+      "target": "s-a4309fdbc3d3-c002:v2-n003",
+      "kind": "association",
+      "condition": "当讨论父母对孩子问题的态度时",
+      "reason": "source中母亲着急，父亲不急，与c003:v2-n001所述父母应爱和接纳孩子、母亲着急可理解的态度取向相关；但source未直接引用该观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:v2-n001",
+      "target": "s-a4309fdbc3d3-c003:a003",
+      "kind": "association",
+      "condition": "当父母面对孩子问题（如网瘾）时",
+      "reason": "source中父母应爱孩子、接纳孩子，母亲着急可理解；c003:a003案例中母亲因孩子网瘾着急，父亲不急，可视为该态度在具体情境中的体现；但source未明确指向该案例，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:a003",
+      "target": "s-a4309fdbc3d3-c003:v2-n001",
+      "kind": "association",
+      "condition": "当父母面对孩子问题（如网瘾）时",
+      "reason": "source中父母应爱孩子、接纳孩子，母亲着急可理解；c003:a003案例中母亲因孩子网瘾着急，父亲不急，可视为该态度在具体情境中的体现；但source未明确指向该案例，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:v2-n002",
+      "target": "s-a4309fdbc3d3-c003:a012",
+      "kind": "complements",
+      "condition": "当讨论孩子对父母关系的安全感来源时",
+      "reason": "source中学员提问孩子是否通过父母同房状态获得安全感，讲师回应想象不重要；c003:a012进一步阐述讲师观点：让孩子看到父母感情好比想象更重要，补充了回应的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:a012",
+      "target": "s-a4309fdbc3d3-c003:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论孩子对父母关系的安全感来源时",
+      "reason": "source中学员提问孩子是否通过父母同房状态获得安全感，讲师回应想象不重要；c003:a012进一步阐述讲师观点：让孩子看到父母感情好比想象更重要，补充了回应的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:v2-n002",
+      "target": "s-a4309fdbc3d3-c003:a011",
+      "kind": "association",
+      "condition": "当讨论提问方式时",
+      "reason": "source中学员提出了一个具体问题（想象是否重要），c003:a011是讲师要求提问明确具体；两者涉及提问行为，但source未体现要求。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:a011",
+      "target": "s-a4309fdbc3d3-c003:v2-n002",
+      "kind": "association",
+      "condition": "当讨论提问方式时",
+      "reason": "source中学员提出了一个具体问题（想象是否重要），c003:a011是讲师要求提问明确具体；两者涉及提问行为，但source未体现要求。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:v2-n002",
+      "target": "s-a4309fdbc3d3-c002:a015",
+      "kind": "association",
+      "condition": "当讨论孩子睡眠与父母同房时",
+      "reason": "两者都涉及孩子睡眠安排与父母同房状态，但source是安全感假设，c002:a015是实际分床问题，无直接因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c002:a015",
+      "target": "s-a4309fdbc3d3-c003:v2-n002",
+      "kind": "association",
+      "condition": "当讨论孩子睡眠与父母同房时",
+      "reason": "两者都涉及孩子睡眠安排与父母同房状态，但source是安全感假设，c002:a015是实际分床问题，无直接因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:v2-n002",
+      "target": "s-a4309fdbc3d3-c001:a006",
+      "kind": "association",
+      "condition": "当讨论分床睡与孩子感受时",
+      "reason": "两者涉及分床睡，但source关注安全感，c001:a006关注孩子睡眠习惯，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a006",
+      "target": "s-a4309fdbc3d3-c003:v2-n002",
+      "kind": "association",
+      "condition": "当讨论分床睡与孩子感受时",
+      "reason": "两者涉及分床睡，但source关注安全感，c001:a006关注孩子睡眠习惯，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:v2-n002",
+      "target": "s-a4309fdbc3d3-c001:a009",
+      "kind": "association",
+      "condition": "当讨论孩子与父母床的关系时",
+      "reason": "source讨论孩子看到父母睡在一起的安全感，c001:a009讨论允许孩子半夜上父母床强化行为；两者涉及父母床与孩子，但角度不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a009",
+      "target": "s-a4309fdbc3d3-c003:v2-n002",
+      "kind": "association",
+      "condition": "当讨论孩子与父母床的关系时",
+      "reason": "source讨论孩子看到父母睡在一起的安全感，c001:a009讨论允许孩子半夜上父母床强化行为；两者涉及父母床与孩子，但角度不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c003:v2-n002",
+      "target": "s-a4309fdbc3d3-c001:a010",
+      "kind": "association",
+      "condition": "当讨论孩子睡眠与界限时",
+      "reason": "source是关于孩子对父母同房的安全感，c001:a010是训练孩子独立睡觉；两者都涉及父母与孩子睡眠安排，但目标不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a4309fdbc3d3-c001:a010",
+      "target": "s-a4309fdbc3d3-c003:v2-n002",
+      "kind": "association",
+      "condition": "当讨论孩子睡眠与界限时",
+      "reason": "source是关于孩子对父母同房的安全感，c001:a010是训练孩子独立睡觉；两者都涉及父母与孩子睡眠安排，但目标不同。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a001",
+        "s-a4309fdbc3d3-c001:r001"
+      ],
+      "reason": "两条记录内容完全一致，均描述孩子配合父母演戏导致情绪压抑。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a002"
+      ],
+      "reason": "两条记录内容完全一致，均描述孩子对父母婚姻问题的复杂情感反应。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a003"
+      ],
+      "reason": "两条记录内容完全一致，均描述婚姻质量影响育儿效果。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a004"
+      ],
+      "reason": "两条记录内容完全一致，均描述6-10岁儿童易将父母问题归咎于自己。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a005"
+      ],
+      "reason": "两条记录内容完全一致，均描述向孩子道歉并澄清责任。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a006"
+      ],
+      "reason": "两条记录内容完全一致，均描述学员案例：分床睡与孩子独立睡眠问题。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a007"
+      ],
+      "reason": "两条记录内容完全一致，均描述夫妻分床睡是逃避婚姻问题。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a008"
+      ],
+      "reason": "两条记录内容完全一致，均描述适应配偶睡眠习惯需要时间。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a009"
+      ],
+      "reason": "两条记录内容完全一致，均描述允许孩子半夜上父母床会强化行为。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a010"
+      ],
+      "reason": "两条记录内容完全一致，均描述讲师个人案例：训练孩子独立睡觉。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a011"
+      ],
+      "reason": "两条记录内容完全一致，均描述孩子睡眠质量影响长期健康。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a012"
+      ],
+      "reason": "两条记录内容完全一致，均描述婚姻困难应共同面对而非绕过。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a013"
+      ],
+      "reason": "两条记录内容完全一致，均描述学员案例：丈夫重新吸烟。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a014"
+      ],
+      "reason": "两条记录内容完全一致，均描述人只为自己的不便负责。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a015"
+      ],
+      "reason": "两条记录内容完全一致，均描述通过界限和后果促使戒烟。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a016"
+      ],
+      "reason": "两条记录内容完全一致，均描述学员案例：想与公婆分开住。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a017"
+      ],
+      "reason": "两条记录内容完全一致，均描述用界限与后果解决家庭居住问题。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a018"
+      ],
+      "reason": "两条记录内容完全一致，均描述学员案例：离婚过程中的关系处理。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a019"
+      ],
+      "reason": "两条记录内容完全一致，均描述两种尊重。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a020"
+      ],
+      "reason": "两条记录内容完全一致，均描述尊重男人是男人的责任。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a021"
+      ],
+      "reason": "两条记录内容完全一致，均描述原生家庭导致的偏见需要个人辅导解决。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a022"
+      ],
+      "reason": "两条记录内容完全一致，均描述责任划分：自己的问题自己解决。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a023"
+      ],
+      "reason": "两条记录内容完全一致，均描述学员案例：公婆移民同住问题。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a024"
+      ],
+      "reason": "两条记录内容完全一致，均描述推迟公婆同住不能解决问题。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a025"
+      ],
+      "reason": "两条记录内容完全一致，均描述夫妻共同设立界限应对公婆同住。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a001",
+        "s-a4309fdbc3d3-c003:r001"
+      ],
+      "reason": "两条记录内容完全一致，均描述以自身状态吸引孩子而非强迫。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a004"
+      ],
+      "reason": "两条记录内容完全一致，均描述反思自身问题与寻求帮助不冲突。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a006"
+      ],
+      "reason": "两条记录内容完全一致，均描述父母可单独行动不必说服配偶。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a007"
+      ],
+      "reason": "两条记录内容完全一致，均描述让配偶承担其决定的责任。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a008"
+      ],
+      "reason": "两条记录内容完全一致，均描述通过暂时离开让配偶体验后果。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a011"
+      ],
+      "reason": "两条记录内容完全一致，均描述提问要明确具体问题。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a012"
+      ],
+      "reason": "两条记录内容完全一致，均描述让孩子看到父母感情好比想象更重要。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a013"
+      ],
+      "reason": "两条记录内容完全一致，均描述建立习惯最重要的是去做而非学。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a014"
+      ],
+      "reason": "两条记录内容完全一致，均描述通过群内分享梳理自己。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a016",
+        "s-a4309fdbc3d3-c002:a015"
+      ],
+      "description": "讲师建议孩子生病时不要过分紧张，不要让孩子知道父母紧张，但未提供具体医疗依据，可能与其他医疗建议冲突。",
+      "needed_evidence": "需要专业儿科医生关于孩子生病时父母应如何反应的指导，以确定是否应叫醒喂药等。"
+    },
+    {
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a006",
+        "s-a4309fdbc3d3-c003:a007"
+      ],
+      "description": "父母可单独行动不必说服配偶，但强制赶孩子出门可能涉及儿童权益问题，且与让配偶承担责任的建议可能存在冲突。",
+      "needed_evidence": "需要法律和儿童保护方面的指导，以确定强制赶孩子出门的合法性和适当性。"
+    }
+  ],
+  "path": [
+    {
+      "name": "处理婚姻问题对儿童影响的方法",
+      "steps": [
+        {
+          "action": "识别婚姻问题对儿童的影响",
+          "atom_ids": [
+            "s-a4309fdbc3d3-c001:a001",
+            "s-a4309fdbc3d3-c001:a002",
+            "s-a4309fdbc3d3-c001:a003",
+            "s-a4309fdbc3d3-c001:a004"
+          ],
+          "condition": "当父母婚姻存在问题且孩子可能受影响时"
+        },
+        {
+          "action": "向孩子道歉并澄清责任",
+          "atom_ids": [
+            "s-a4309fdbc3d3-c001:a005"
+          ],
+          "condition": "当孩子因父母婚姻问题产生自我归因时"
+        },
+        {
+          "action": "夫妻共同面对婚姻困难",
+          "atom_ids": [
+            "s-a4309fdbc3d3-c001:a007",
+            "s-a4309fdbc3d3-c001:a008",
+            "s-a4309fdbc3d3-c001:a012"
+          ],
+          "condition": "当婚姻中存在需要解决的问题时"
+        },
+        {
+          "action": "设立界限和后果",
+          "atom_ids": [
+            "s-a4309fdbc3d3-c001:a014",
+            "s-a4309fdbc3d3-c001:a015",
+            "s-a4309fdbc3d3-c001:a017",
+            "s-a4309fdbc3d3-c001:a025",
+            "s-a4309fdbc3d3-c002:a001",
+            "s-a4309fdbc3d3-c002:a004",
+            "s-a4309fdbc3d3-c002:a006",
+            "s-a4309fdbc3d3-c002:a007"
+          ],
+          "condition": "当需要改变对方行为或解决家庭冲突时"
+        },
+        {
+          "action": "通过实践建立习惯",
+          "atom_ids": [
+            "s-a4309fdbc3d3-c003:a013",
+            "s-a4309fdbc3d3-c003:a014"
+          ],
+          "condition": "当需要将所学应用到生活中时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-a4309fdbc3d3-c001:u001",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a001"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u002",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a002"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u003",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a003"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u004",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a004"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a005"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a006"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u007",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a007"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u008",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a008"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u009",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a009"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a010"
+      ],
+      "blocks": [
+        "b00020",
+        "b00022",
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u011",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a011"
+      ],
+      "blocks": [
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u012",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a012"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a013"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u014",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a014"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a015"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a016"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a017"
+      ],
+      "blocks": [
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u018",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a018"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u019",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a019"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u020",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a020"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u021",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a021"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u022",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a022"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u023",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a023"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u024",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a024"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u025",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:a025"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u026",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u027",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c001:u028",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00017",
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a001"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a001"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a002"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a003"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a004"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a005"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052",
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u009",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a006"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056",
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a007"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a008"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u012",
+      "kind": "definition",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a009"
+      ],
+      "blocks": [
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u013",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a010"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a011"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064",
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u015",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a012"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a013"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a014"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a015"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070",
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074",
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u020",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a016"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074",
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u021",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a017"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077",
+        "b00078",
+        "b00079",
+        "b00080",
+        "b00081",
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u022",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:a018"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079",
+        "b00080",
+        "b00081",
+        "b00082",
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u023",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:r001"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c002:u024",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a001",
+        "s-a4309fdbc3d3-c003:r001"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a002"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a003"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a004"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u006",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a005"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a006"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a007"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a008"
+      ],
+      "blocks": [
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a009"
+      ],
+      "blocks": [
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a010"
+      ],
+      "blocks": [
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a011"
+      ],
+      "blocks": [
+        "b00093",
+        "b00096"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a012"
+      ],
+      "blocks": [
+        "b00094",
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a013"
+      ],
+      "blocks": [
+        "b00097",
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-a4309fdbc3d3-c003:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:a014"
+      ],
+      "blocks": [
+        "b00098",
+        "b00099"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "学员案例：前夫婚姻粉饰太平与孩子反应",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a4309fdbc3d3",
+          "blocks": [
+            "b00002",
+            "b00003"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "学员案例：婚姻外貌和睦但麻木后修复",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a4309fdbc3d3",
+          "blocks": [
+            "b00007",
+            "b00008",
+            "b00009",
+            "b00010"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "讲师个人案例：夫妻坚持同床适应睡眠问题",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a4309fdbc3d3",
+          "blocks": [
+            "b00014",
+            "b00015",
+            "b00016",
+            "b00017",
+            "b00018",
+            "b00019"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "原生家庭背景差异与育儿矛盾案例",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a4309fdbc3d3",
+          "blocks": [
+            "b00050"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "初二孩子网瘾与父母分歧案例",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a4309fdbc3d3",
+          "blocks": [
+            "b00084",
+            "b00085"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "爱孩子与接纳孩子是父母应持的态度",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a4309fdbc3d3",
+          "blocks": [
+            "b00086"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "attitude"
+    },
+    {
+      "title": "学员提问：孩子是否通过父母同房状态获得安全感",
+      "atom_ids": [
+        "s-a4309fdbc3d3-c003:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a4309fdbc3d3",
+          "blocks": [
+            "b00094"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "student_question"
+    }
+  ]
+}

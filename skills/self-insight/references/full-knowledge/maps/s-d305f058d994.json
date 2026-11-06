@@ -1,0 +1,2972 @@
+{
+  "concepts": [
+    {
+      "name": "自恋",
+      "definition": "自恋的人无法看到自己的问题，发自内心地觉得自己是完美的，认为自己的一切都是好的，没有任何缺点，所有别人都配不上他。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a001",
+        "s-d305f058d994-c001:a002",
+        "s-d305f058d994-c001:a003",
+        "s-d305f058d994-c001:a004",
+        "s-d305f058d994-c001:a005"
+      ]
+    },
+    {
+      "name": "自信",
+      "definition": "自信的人知道自己有缺点和软弱，但仍然爱自己，觉得自己配被爱和被好的对待。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a002"
+      ]
+    },
+    {
+      "name": "病态自恋",
+      "definition": "从病理角度，自恋是一种人格障碍（personality disorder），属于心理问题，很难治疗，除非奇迹，否则不太能够治好。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a003",
+        "s-d305f058d994-c001:a005"
+      ]
+    },
+    {
+      "name": "应对自恋者",
+      "definition": "遇到自恋的人，唯一能做的是赶快离开，不要期望可以感化他或让他看到自己的不好。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a004"
+      ]
+    },
+    {
+      "name": "提问技巧",
+      "definition": "提问越清晰越具体，回答就会越清晰越具体。一个问题中不要包含多个问题，应一次问一个问题。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a006"
+      ]
+    },
+    {
+      "name": "养育两个男孩避免打闹",
+      "definition": "养育两个常打闹抢东西的男孩，需要做到：1. 让孩子知道他们之间不需要争夺父母的爱；2. 父母的话对孩子有权威；3. 定期与每个孩子单独相处，父母轮流陪伴。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a007",
+        "s-d305f058d994-c001:a008",
+        "s-d305f058d994-c001:a009"
+      ]
+    },
+    {
+      "name": "孩子争夺爱的心理机制",
+      "definition": "孩子如果认为兄弟姐妹的存在对自己造成威胁、困难或夺走东西，就会视对方为仇敌，导致打闹抢夺；如果孩子知道对方的存在不会威胁到自己，就不会争夺。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a009",
+        "s-d305f058d994-c002:a014"
+      ]
+    },
+    {
+      "name": "引导孩子与有行为问题的朋友交往",
+      "definition": "如果孩子的朋友有打人等行为问题，不应禁止孩子与其玩，而应给孩子介绍其他优质朋友，拓宽朋友圈，让孩子有更多选择。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a010",
+        "s-d305f058d994-c001:a011",
+        "s-d305f058d994-c001:r002"
+      ]
+    },
+    {
+      "name": "分离焦虑的临床标准",
+      "definition": "临床上的分离焦虑表现为无法与依恋对象分开，分开后会出现惊恐发作、晕倒、持续哭泣、狂躁、无法吃饭睡觉等严重症状。仅因不想上学而哭不属于分离焦虑。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a012"
+      ]
+    },
+    {
+      "name": "应对孩子不想上学",
+      "definition": "不要给孩子贴分离焦虑的标签；不要试图让六岁孩子理解“分别是为了更好的见面”；应提供足够的高质量陪伴，孩子会更愿意去学校。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a013",
+        "s-d305f058d994-c001:a014",
+        "s-d305f058d994-c001:r003"
+      ]
+    },
+    {
+      "name": "培养孩子独立玩耍",
+      "definition": "要培养孩子独立，让孩子自己玩，即使家长在场也让孩子自己玩，避免孩子养成必须家长陪伴的习惯。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a015"
+      ]
+    },
+    {
+      "name": "尊重孩子的兴趣",
+      "definition": "孩子喜欢某项活动（如游泳）时，不必急于让他参加训练或学习，因为训练可能破坏天然的兴趣和乐趣。孩子如果喜欢，自己会主动寻求。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a016",
+        "s-d305f058d994-c001:a017",
+        "s-d305f058d994-c001:r004"
+      ]
+    },
+    {
+      "name": "儿童自我中心的发展阶段",
+      "definition": "孩子三到七岁甚至八岁都是以自我为中心的，这是正常情况。七岁半左右会逐渐改善，生理上不可能要求七岁以下孩子非常为别人着想。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a018"
+      ]
+    },
+    {
+      "name": "滑板车冲突案例",
+      "definition": "学员带六岁半老大和一岁十个月老二出门，下雨天需要用滑板车推弟弟，老大不同意并抢滑板车，学员妥协后抱弟弟，回家时老大又不高兴，学员强行把弟弟放上滑板车，老大哭并想打学员。讲师指出学员给了老大过多权力，应坚持自己的决定。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a019",
+        "s-d305f058d994-c001:a020",
+        "s-d305f058d994-c001:a021",
+        "s-d305f058d994-c002:a002",
+        "s-d305f058d994-c002:a003"
+      ]
+    },
+    {
+      "name": "父母应坚持自己的决定",
+      "definition": "当孩子不同意父母的决定（如使用滑板车推弟弟）时，父母应坚持自己的决定，告诉孩子这不关他的事，他没有资格干涉。可以理解孩子的情绪，但不必妥协。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a020",
+        "s-d305f058d994-c001:r005",
+        "s-d305f058d994-c002:a001"
+      ]
+    },
+    {
+      "name": "给孩子过多权力的后果",
+      "definition": "给孩子过多权力会让他成为嚣张张狂、不受约束、没有界限、不被管理、不服管教的孩子。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a021",
+        "s-d305f058d994-c002:a002"
+      ]
+    },
+    {
+      "name": "高质量陪伴",
+      "definition": "高质量陪伴不要求昂贵或大餐，简单的活动如开车到公园附近、买麦当劳在车里吃、聊天，孩子就会很喜欢。",
+      "atom_ids": [
+        "s-d305f058d994-c001:r001",
+        "s-d305f058d994-c001:a008",
+        "s-d305f058d994-c001:a014"
+      ]
+    },
+    {
+      "name": "拓宽优质朋友圈",
+      "definition": "鼓励朋友一起学习育儿，介绍他们来直播间，形成一群同样教育理念的家长，让孩子与这些家庭的孩子一起玩，这样孩子就有更多优质朋友选择。",
+      "atom_ids": [
+        "s-d305f058d994-c001:r002"
+      ]
+    },
+    {
+      "name": "调整幼儿园晚饭安排",
+      "definition": "如果幼儿园管晚饭导致没有与孩子共进晚餐的时间，可以告诉老师不要让孩子在幼儿园吃晚饭，下午早点接孩子，确保家庭共进晚餐的时间。",
+      "atom_ids": [
+        "s-d305f058d994-c001:r003"
+      ]
+    },
+    {
+      "name": "父母应看见孩子已经足够好",
+      "definition": "父母应看见孩子已经足够好，不要总是希望孩子更好。孩子喜欢某项活动时，不必急于让他参加训练，因为训练可能破坏天然的兴趣和乐趣。",
+      "atom_ids": [
+        "s-d305f058d994-c001:r004"
+      ]
+    },
+    {
+      "name": "理解但不妥协",
+      "definition": "父母可以理解孩子因年龄特点而撒泼打滚，但不代表要妥协。理解孩子的情绪和坚持界限是两回事。",
+      "atom_ids": [
+        "s-d305f058d994-c001:r005",
+        "s-d305f058d994-c002:a001"
+      ]
+    },
+    {
+      "name": "收回孩子过多权力",
+      "definition": "家长需要收回给予孩子的过多权力，拿回自己的力量；具体应根据孩子年龄调整赋予的权力大小。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a003"
+      ]
+    },
+    {
+      "name": "四岁孩子抗挫能力",
+      "definition": "四岁四个月的孩子抗挫能力有限，不应期望过高；他们在遇到困难时容易放弃是正常的。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a004"
+      ]
+    },
+    {
+      "name": "通过示范和奖励培养抗挫能力",
+      "definition": "对于四岁孩子，家长可以通过示范和设置小奖励来鼓励孩子再尝试一次，而不是直接给予奖励或强迫。具体做法：在闯关处放置一个小奖励（如糖果），问孩子是否继续尝试；如果孩子不尝试，家长自己尝试并获得奖励，让孩子看到家长尝试后得到的好处；孩子可能会哭闹，但家长不妥协，孩子逐渐学会再试一次。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a005"
+      ]
+    },
+    {
+      "name": "评估孩子是否需要帮助",
+      "definition": "家长应评估孩子是否真的需要帮助；如果任务超出孩子能力（如力气不够），可以提供帮助；如果孩子有能力，则鼓励其自己完成。评估依据包括孩子的身体能力和脑力能力，以及过往表现。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a006"
+      ]
+    },
+    {
+      "name": "六岁半男孩害怕上幼儿园",
+      "definition": "六岁半男孩平时情商高、人缘好，但某天早上哭着不愿上幼儿园，说害怕自己是笨蛋。家长询问后，孩子说有人打他并骂他笨蛋，老师不让告诉家长，且孩子认为老师管不了组长。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a007"
+      ]
+    },
+    {
+      "name": "处理校园霸凌",
+      "definition": "家长必须找老师沟通，让老师当着孩子的面说明能否管理组长；同时家长要明确告诉老师，如果老师不允许孩子告诉家长，家长会将事情闹大。此外，家长应告诉老师，如果允许孩子告诉家长，老师不能再阻止孩子告诉家长。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a008"
+      ]
+    },
+    {
+      "name": "12岁孩子放弃比赛",
+      "definition": "对于12岁孩子因失误放弃比赛，家长不需要引导，让孩子自己承受失败并反思；如果孩子主动找家长聊，再与其沟通。家长应允许孩子体验失败后的后悔、难过、气愤自己等情绪。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a009"
+      ]
+    },
+    {
+      "name": "12岁孩子闺蜜圈",
+      "definition": "12岁孩子的闺蜜圈分享吃喝玩乐、明星娱乐等内容是正常的，家长不应认为不健康；孩子不一起打游戏已经很好。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a010"
+      ]
+    },
+    {
+      "name": "提升孩子朋友圈",
+      "definition": "家长应提升自己的朋友圈，从而影响孩子的朋友圈；当孩子看到更高级的朋友圈时，可能会自然看不上低级的圈子。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a011"
+      ]
+    },
+    {
+      "name": "体育失败导致厌学",
+      "definition": "孩子因一次跑步失败而不再上体育课，可能涉及更深层的原因，如体育是其自我认知的来源，失败造成重创。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a012"
+      ]
+    },
+    {
+      "name": "处理孩子厌学需了解背后原因",
+      "definition": "家长需要询问和观察，了解体育跑步对孩子意味着什么，再想解决办法。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a013"
+      ]
+    },
+    {
+      "name": "二胎家庭中哥哥不喜欢弟弟",
+      "definition": "哥哥不喜欢弟弟可能是因为弟弟的出现让他感到失去了父母的爱；孩子通过父母的行为判断爱，而不是言语。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a014"
+      ]
+    },
+    {
+      "name": "二胎家庭中修复关系",
+      "definition": "在哥哥信任父母之前，不建议立界限；应先建立信任，让哥哥知道父母爱他如爱弟弟，并愿意分时间给他。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a015"
+      ]
+    },
+    {
+      "name": "处理大宝不让弟弟玩玩具",
+      "definition": "对于四岁半的大宝不让弟弟玩玩具，家长应分清楚玩具归属：有些玩具是姐姐的，有些是弟弟的，有些是共有的；共有的玩具谁都可以玩，但各自的玩具可以不让对方玩。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a016"
+      ]
+    },
+    {
+      "name": "尊重孩子个人空间",
+      "definition": "孩子有自己的房间时，有权不让弟弟进入；家长应制止他人（如外婆）强迫孩子分享空间。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a017"
+      ]
+    },
+    {
+      "name": "处理姐姐对弟弟尖叫",
+      "definition": "如果姐姐对弟弟尖叫，家长应告诉姐姐尖叫可能伤到弟弟耳膜，并设定后果：如果尖叫，玩具将被收走；如果不尖叫并找妈妈帮忙，妈妈会帮助她。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a018",
+        "s-d305f058d994-c002:a019"
+      ]
+    },
+    {
+      "name": "11岁女孩厌学",
+      "definition": "11岁女孩多次转学，曾因肚子痛休学，现在私立小学四年级。本学期从三月开始不愿上学，爸爸曾用打的方式强迫，后老师贴标签和侮辱，孩子害怕班主任。家长与老师沟通后老师道歉，但孩子仍不愿上学，期中考试自学得第二名，更不想去学校。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a020"
+      ]
+    },
+    {
+      "name": "上学不是选择",
+      "definition": "家长应从小告诉孩子上学不是选择，必须上学；无论遇到什么困难都要上学，家长不会身体强迫，但语言要有力量。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a021",
+        "s-d305f058d994-c003:a001",
+        "s-d305f058d994-c003:a003"
+      ]
+    },
+    {
+      "name": "家长语言的力量",
+      "definition": "家长的语言带有权柄和力量，当家长坚定地告诉孩子必须做某事时，孩子应该听从。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a022",
+        "s-d305f058d994-c003:a002"
+      ]
+    },
+    {
+      "name": "处理孩子不愿上学时家长的具体做法",
+      "definition": "家长应告诉孩子上学不是选择，必须上学；如果孩子追车，家长停下车也要送孩子进学校。",
+      "atom_ids": [
+        "s-d305f058d994-c002:r001",
+        "s-d305f058d994-c003:a003"
+      ]
+    },
+    {
+      "name": "处理孩子不愿上学时家长与孩子的沟通方式",
+      "definition": "家长应告诉孩子，如果学校出现问题，孩子可以与家长沟通，家长会帮助解决，但上学本身不是选择。",
+      "atom_ids": [
+        "s-d305f058d994-c002:r002",
+        "s-d305f058d994-c003:a003"
+      ]
+    },
+    {
+      "name": "某地区校园霸凌案例的地域背景",
+      "definition": "案例中的孩子位于某地区（中国），而非美国；这影响处理方式，因为美国老师不敢如此行事，而中国老师可能存在此类问题。",
+      "atom_ids": [
+        "s-d305f058d994-c002:xe001"
+      ]
+    },
+    {
+      "name": "亲子关系的重要性",
+      "definition": "如果亲子关系不好，家长很难有效处理孩子的问题。关系不好时，家长难以引导孩子。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a004"
+      ]
+    },
+    {
+      "name": "孩子计划执行不到位",
+      "definition": "一位家长的孩子自己制定了目标和计划，但执行不到位，家长担心孩子期末达不到目标而失望。家长询问是否介入。讲师建议：既然之前没有介入，现在就不要介入。孩子一定会失望，家长无法避免。应让孩子自己思考为什么没做好，接下来怎么做。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a005"
+      ]
+    },
+    {
+      "name": "面对孩子失望的处理方法",
+      "definition": "孩子一定会失望，家长无法避免。当孩子因未达到目标而失望时，应让孩子失望，并主动让他思考：我怎么了？为什么没做好？接下来要怎么做？怎么做可以做得更好？",
+      "atom_ids": [
+        "s-d305f058d994-c003:a006"
+      ]
+    },
+    {
+      "name": "不要补充奖励和后果",
+      "definition": "如果孩子制定目标时没有写奖励和后果，家长不要中途补充。应等待结果，期末后再讨论。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a007"
+      ]
+    },
+    {
+      "name": "五岁儿子打妈妈",
+      "definition": "一位家长的五岁儿子在听绘本时突然说“我要打你”并打了妈妈一下。家长说“妈妈爱你，为什么要打妈妈？”儿子说因为前两天想要的玩具没买。讲师建议：抓住孩子的手，告诉他“你不可以打我，如果你再打我，我就不给你读绘本了，我要离开。”让孩子知道打妈妈有后果，妈妈不是随便可以打的。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a008"
+      ]
+    },
+    {
+      "name": "父母权柄的重要性",
+      "definition": "父母应树立权柄，让孩子有畏惧之心。如果孩子对父母放肆，是因为父母没有树立权柄。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a009"
+      ]
+    },
+    {
+      "name": "三年级孩子课外班过多",
+      "definition": "一位家长的孩子三年级，周末有美术、英语、主日学和羽毛球，家长认为课外班不多。讲师指出：这些课外班已经填满周末，孩子没有时间玩。孩子还有作业，压力很大。讲师建议取消一些课程，让孩子开心地上其他课，而不是悲悲戚戚地上课。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a010"
+      ]
+    },
+    {
+      "name": "玩耍的重要性",
+      "definition": "孩子玩耍比学习任何东西都关键。如果孩子压力太大，家长不逼他，他就不会自己卷。卷对了，孩子会自己卷；卷错了，孩子需要家长逼着卷。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a011"
+      ]
+    },
+    {
+      "name": "孩子在意别人看法的年龄特点",
+      "definition": "九岁的孩子在意别人的看法是正常的，到了十四五岁会更加在意。这是生理上的现状，家长不能改变。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a012",
+        "s-d305f058d994-c003:r002"
+      ]
+    },
+    {
+      "name": "面对困难的压力管理",
+      "definition": "孩子怕面对困难是正常的。家长不应给孩子巨大压力，而应逐步增加压力，像健身一样，只比当前能力多一点，避免压垮孩子。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a013",
+        "s-d305f058d994-c003:a014",
+        "s-d305f058d994-c003:r003"
+      ]
+    },
+    {
+      "name": "逐步增加压力的方法",
+      "definition": "如果希望孩子越来越强，应像健身一样，只给孩子比当前能力多一点的压力，逐步锻炼。例如，孩子能顶80，就给85，最多一点一点增加。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a014"
+      ]
+    },
+    {
+      "name": "不要盲目比较",
+      "definition": "别的孩子都有，不代表是对的，也不代表你的孩子就要有。应根据孩子的年龄和能力来安排。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a015"
+      ]
+    },
+    {
+      "name": "孩子看动画片冲突",
+      "definition": "一位家长的孩子看动画片，家长提醒时间，孩子不耐烦说“我已经知道了”，关门让家长出去。家长生气，删了爱奇艺，孩子说“谁怕谁”，家长生气管教，打孩子，孩子不顺服，最后孩子认错。讲师指出：这不叫管教，叫泄愤。家长应避免冲突，允许孩子不耐烦。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a016"
+      ]
+    },
+    {
+      "name": "管教与泄愤的区别",
+      "definition": "管教不是泄愤。在怒气中打孩子是泄愤，不是管教。管教是完全不同的东西。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a017"
+      ]
+    },
+    {
+      "name": "避免冲突的方法",
+      "definition": "当孩子不耐烦时，家长应允许孩子不耐烦，因为孩子是人，可以有不耐烦的情绪。家长不应因此生气，从而避免冲突。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a018"
+      ]
+    },
+    {
+      "name": "家长被激怒的原因",
+      "definition": "孩子的急躁不耐烦会勾起家长内心深处的伤和恐惧，导致家长愤怒。家长需要解决自己的问题。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a019"
+      ]
+    },
+    {
+      "name": "孩子因过失埋怨",
+      "definition": "一位家长不小心把饮料弄到孩子身上，道歉后孩子仍埋怨责备超过十分钟。讲师建议：不用理他，继续做自己的事。过后帮助孩子了解有更好的表达方法。讲师猜测孩子黑脸可能是因为平时家长给了太多权利。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a020"
+      ]
+    },
+    {
+      "name": "处理孩子过度埋怨的方法",
+      "definition": "当孩子因小事过度埋怨时，家长不必理他，继续做自己的事。过后在平静时告诉孩子有更好的表达方法，如压制情绪或接受道歉。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a021"
+      ]
+    },
+    {
+      "name": "意外发生的正常性",
+      "definition": "意外会发生，如不小心弄到孩子。孩子需要知道意外是正常的，反应过度是有问题的。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a022"
+      ]
+    },
+    {
+      "name": "女儿裤子不舒服发脾气",
+      "definition": "一位家长的九岁女儿因裤子太紧不舒服，发脾气让家长帮忙拉。家长帮了两次，女儿仍有情绪，说这不对那不对。家长不高兴，不再帮忙，女儿情绪更激动，家长更生气，恶性循环。讲师建议：帮忙前设定前提条件，要求孩子态度好；如果孩子态度不好，停止帮忙，并告知后果。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a023"
+      ]
+    },
+    {
+      "name": "帮助孩子时设定前提条件",
+      "definition": "当孩子需要帮助但态度不好时，家长应设定前提条件：要求孩子态度好，否则不帮忙。如果孩子态度不好，停止帮忙，并告知后果。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a024"
+      ]
+    },
+    {
+      "name": "处理孩子不舒服的方法",
+      "definition": "当孩子因衣物不舒服而发脾气时，家长应：1. 确定是否真的不舒服；2. 如果能换就换；3. 如果不能换，告诉孩子只能忍耐。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a025"
+      ]
+    },
+    {
+      "name": "后果的必要性",
+      "definition": "孩子需要知道任何行为都有后果，而且后果一定会发生。如果家长说“不帮忙”却不执行，孩子不会改变。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a026"
+      ]
+    },
+    {
+      "name": "明确可接受的态度",
+      "definition": "家长应明确告诉孩子哪些态度可以接受，哪些不能接受。例如：说话声音降调、不要翻白眼、眼睛看着对方。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a027"
+      ]
+    },
+    {
+      "name": "因果关系的学习",
+      "definition": "孩子需要学习因果关系：因为态度不好，导致失去帮助；如果改变态度，就会重新得到帮助。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a028"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-d305f058d994-c001:a001",
+      "target": "s-d305f058d994-c001:a002",
+      "kind": "contrasts",
+      "condition": "自恋与自信的区别",
+      "reason": "k00002明确对比了自信和自恋，指出自信的人知道自己有缺点，而自恋的人认为自己没有不好。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a001",
+      "target": "s-d305f058d994-c001:a003",
+      "kind": "supports",
+      "condition": "自恋的人格障碍属性",
+      "reason": "k00003从病理角度定义自恋是人格障碍，支持k00001中自恋的特征描述。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a003",
+      "target": "s-d305f058d994-c001:a004",
+      "kind": "causes",
+      "condition": "自恋难以治疗导致应对建议",
+      "reason": "k00003指出自恋很难治疗，因此k00004建议遇到自恋者应赶快离开，不要期望感化他。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a003",
+      "target": "s-d305f058d994-c001:a005",
+      "kind": "example_of",
+      "condition": "王姓明星案例",
+      "reason": "k00005提到王姓明星是典型的自恋人格，且人格问题很难治，与k00003的病态自恋描述一致。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a007",
+      "target": "s-d305f058d994-c001:a009",
+      "kind": "association",
+      "condition": "",
+      "reason": "孩子争夺爱的心理机制解释了为什么需要让孩子知道他们之间不需要争夺父母的爱，即机制支持养育方法，原支持方向颠倒。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "支持方向颠倒，改为关联并说明实际支持方向。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a007",
+      "target": "s-d305f058d994-c001:a008",
+      "kind": "association",
+      "condition": "",
+      "reason": "养育两个男孩避免打闹的方法是概念，讲师与孩子单独约会的案例是具体示例；应有案例作为方法的示例，原方向不成立。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向颠倒，改为关联并保留未删除原子。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a010",
+      "target": "s-d305f058d994-c001:a011",
+      "kind": "association",
+      "condition": "",
+      "reason": "引导孩子与有行为问题的朋友交往是概念，孩子与打人朋友L的案例是具体示例；应有案例作为方法的示例，原方向不成立。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向颠倒，改为关联并保留未删除原子。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a010",
+      "target": "s-d305f058d994-c001:r002",
+      "kind": "association",
+      "condition": "",
+      "reason": "拓宽优质朋友圈的方法是引导孩子与有行为问题的朋友交往中介绍优质朋友建议的具体实现，但原支持方向不明确，两者为方法关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "支持关系依据不足，改为关联。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a012",
+      "target": "s-d305f058d994-c001:a013",
+      "kind": "contrasts",
+      "condition": "分离焦虑的临床标准与应对",
+      "reason": "k00012定义了临床分离焦虑的严重症状，k00013则指出仅因不想上学而哭不属于分离焦虑，并给出应对方法，两者形成对比。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a013",
+      "target": "s-d305f058d994-c001:a014",
+      "kind": "example_of",
+      "condition": "讲师孩子不想上学的案例",
+      "reason": "k00014是k00013中提供高质量陪伴方法的具体案例。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a013",
+      "target": "s-d305f058d994-c001:r003",
+      "kind": "supports",
+      "condition": "调整幼儿园晚饭安排以增加陪伴",
+      "reason": "k00024提供了调整幼儿园晚饭安排的具体方法，支持k00013中提供高质量陪伴的建议。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a016",
+      "target": "s-d305f058d994-c001:a017",
+      "kind": "example_of",
+      "condition": "孩子喜欢游泳但不愿训练的案例",
+      "reason": "k00017是k00016中尊重孩子兴趣、不急于训练方法的具体案例。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a016",
+      "target": "s-d305f058d994-c001:r004",
+      "kind": "supports",
+      "condition": "父母应看见孩子已经足够好",
+      "reason": "k00025强调父母应看见孩子已经足够好，支持k00016中不急于训练、尊重兴趣的观点。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a019",
+      "target": "s-d305f058d994-c001:a020",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "滑板车冲突案例是父母应坚持自己的决定这一原则的具体体现，而非导致该原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原因果关系改为示例关系，避免重复。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a019",
+      "target": "s-d305f058d994-c001:a021",
+      "kind": "example_of",
+      "condition": "给孩子过多权力的后果",
+      "reason": "滑板车冲突案例中讲师指出学员给了老大过多权力，并描述了由此产生的孩子嚣张张狂等后果，该案例是“给孩子过多权力的后果”这一概念的具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c001:a020",
+      "target": "s-d305f058d994-c001:r005",
+      "kind": "supports",
+      "condition": "理解但不妥协的原则",
+      "reason": "k00026强调理解孩子的情绪和坚持界限是两回事，支持k00020中理解但不妥协的做法。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a020",
+      "target": "s-d305f058d994-c002:a001",
+      "kind": "supports",
+      "condition": "理解孩子行为不等于妥协",
+      "reason": "k00027进一步强调理解与行为界限是两回事，支持k00020中的原则。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a021",
+      "target": "s-d305f058d994-c002:a002",
+      "kind": "supports",
+      "condition": "赋予孩子过多权力导致行为问题",
+      "reason": "k00028与k00021内容一致，都指出给孩子过多权力会导致行为问题。"
+    },
+    {
+      "source": "s-d305f058d994-c001:a021",
+      "target": "s-d305f058d994-c002:a003",
+      "kind": "causes",
+      "condition": "收回孩子过多权力的方法",
+      "reason": "k00029提出家长需要收回给予孩子的过多权力，是针对k00021中后果的解决方法。"
+    },
+    {
+      "source": "s-d305f058d994-c002:a004",
+      "target": "s-d305f058d994-c002:a005",
+      "kind": "supports",
+      "condition": "针对四岁孩子抗挫能力有限的情况",
+      "reason": "四岁孩子抗挫能力有限这一特点支持了通过示范和奖励培养抗挫能力这一方法的适用性，说明需要特殊方法帮助孩子尝试。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c002:a007",
+      "target": "s-d305f058d994-c002:a008",
+      "kind": "supports",
+      "condition": "六岁半男孩害怕上幼儿园案例的处理",
+      "reason": "六岁半男孩害怕上幼儿园案例展示了校园霸凌的具体情境，支持了处理校园霸凌的步骤的必要性，为这些步骤提供了一个实例依据。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c002:a012",
+      "target": "s-d305f058d994-c002:a013",
+      "kind": "supports",
+      "condition": "体育失败导致厌学需了解背后原因",
+      "reason": "体育失败导致厌学可能涉及深层原因这一观点支持了处理孩子厌学需了解背后原因的建议，说明为什么要探究心理含义。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c002:a014",
+      "target": "s-d305f058d994-c002:a015",
+      "kind": "supports",
+      "condition": "二胎家庭中哥哥不喜欢弟弟的原因及修复",
+      "reason": "二胎家庭中哥哥不喜欢弟弟的原因解释（弟弟出现使他感到失去爱）支持了修复关系的方法（先建立信任再立界限），因为方法针对这些原因。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c002:a016",
+      "target": "s-d305f058d994-c002:a017",
+      "kind": "supports",
+      "condition": "尊重孩子个人空间",
+      "reason": "k00043强调孩子有权不让弟弟进入自己的房间，支持k00042中分清楚玩具归属、尊重各自物品的原则。"
+    },
+    {
+      "source": "s-d305f058d994-c002:a018",
+      "target": "s-d305f058d994-c002:a019",
+      "kind": "supports",
+      "condition": "姐姐尖叫导致弟弟耳膜受伤案例",
+      "reason": "处理姐姐对弟弟尖叫的方法中关于尖叫可能伤到耳膜的观点，为姐姐尖叫导致弟弟耳膜受伤的案例提供了可能的解释，因此支持该案例的合理性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c002:a020",
+      "target": "s-d305f058d994-c002:a021",
+      "kind": "supports",
+      "condition": "11岁女孩厌学案例的处理原则",
+      "reason": "11岁女孩厌学案例展示了孩子不愿上学的复杂情况，支持了“上学不是选择”这一原则的必要性，说明需要从小灌输该观念。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c002:a021",
+      "target": "s-d305f058d994-c002:a022",
+      "kind": "supports",
+      "condition": "家长语言的力量",
+      "reason": "上学不是选择这一概念中强调家长语言要有力量，与家长语言的力量这一概念内容一致，前者支持了后者的重要性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c002:a021",
+      "target": "s-d305f058d994-c002:r001",
+      "kind": "supports",
+      "condition": "处理孩子不愿上学时家长的具体做法",
+      "reason": "上学不是选择的原则支持了处理孩子不愿上学时家长的具体做法：告诉孩子上学不是选择，必须上学，即使追车也要送进学校。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c002:a021",
+      "target": "s-d305f058d994-c002:r002",
+      "kind": "supports",
+      "condition": "处理孩子不愿上学时家长与孩子的沟通方式",
+      "reason": "上学不是选择的原则支持了处理孩子不愿上学时家长与孩子的沟通方式：家长会帮助解决学校问题，但上学本身不是选择。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c002:a021",
+      "target": "s-d305f058d994-c003:a001",
+      "kind": "supports",
+      "condition": "上学不是选择的重复强调",
+      "reason": "两个概念均强调上学不是选择，内容一致，相互支持，重复强调同一原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c002:a021",
+      "target": "s-d305f058d994-c003:a003",
+      "kind": "supports",
+      "condition": "处理孩子不上学的方法",
+      "reason": "上学不是选择的原则支持了处理孩子不上学的方法：坚持送孩子到学校，同时沟通解决学校问题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c002:a022",
+      "target": "s-d305f058d994-c003:a002",
+      "kind": "supports",
+      "condition": "语言的力量",
+      "reason": "家长语言的力量与语言的力量两个概念内容一致，都强调家长语言带有权柄和力量，相互支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c002:xe001",
+      "target": "s-d305f058d994-c002:a008",
+      "kind": "association",
+      "condition": "某地区校园霸凌案例的地域背景",
+      "reason": "某地区校园霸凌案例的地域背景与处理校园霸凌的步骤相关联，地域背景影响处理方式，但具体影响关系不明确，暂列为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c003:a004",
+      "target": "s-d305f058d994-c002:a015",
+      "kind": "prerequisite",
+      "condition": "亲子关系的重要性",
+      "reason": "亲子关系不好时家长难以引导孩子，因此良好的亲子关系是二胎家庭中修复关系、立界限的前提。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c003:a005",
+      "target": "s-d305f058d994-c003:a006",
+      "kind": "causes",
+      "condition": "孩子计划执行不到位案例的处理",
+      "reason": "k00056案例中讲师建议让孩子自己思考，k00057则提供了面对孩子失望的具体处理方法。"
+    },
+    {
+      "source": "s-d305f058d994-c003:a005",
+      "target": "s-d305f058d994-c003:a007",
+      "kind": "supports",
+      "condition": "不要补充奖励和后果",
+      "reason": "k00058强调不要中途补充奖励和后果，支持k00056中不介入的建议。"
+    },
+    {
+      "source": "s-d305f058d994-c003:a008",
+      "target": "s-d305f058d994-c003:a009",
+      "kind": "causes",
+      "condition": "五岁儿子打妈妈案例与父母权柄",
+      "reason": "k00059案例中讲师建议让孩子知道打妈妈有后果，k00060则强调父母应树立权柄，是处理该案例的原则。"
+    },
+    {
+      "source": "s-d305f058d994-c003:a010",
+      "target": "s-d305f058d994-c003:a011",
+      "kind": "supports",
+      "condition": "三年级孩子课外班过多案例与玩耍的重要性",
+      "reason": "三年级孩子课外班过多案例中显示了孩子因课程过多而缺乏玩耍时间，支持了玩耍的重要性这一概念，说明玩耍对孩子的关键作用。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c003:a012",
+      "target": "s-d305f058d994-c003:r002",
+      "kind": "supports",
+      "condition": "孩子在意别人看法的正常性",
+      "reason": "k00081与k00063内容一致，都强调孩子在意别人看法是正常的。"
+    },
+    {
+      "source": "s-d305f058d994-c003:a013",
+      "target": "s-d305f058d994-c003:a014",
+      "kind": "supports",
+      "condition": "逐步增加压力的方法",
+      "reason": "k00065提供了逐步增加压力的具体方法，支持k00064中逐步增加压力的原则。"
+    },
+    {
+      "source": "s-d305f058d994-c003:a013",
+      "target": "s-d305f058d994-c003:r003",
+      "kind": "supports",
+      "condition": "压力与孩子承受力的关系",
+      "reason": "k00082与k00064内容一致，都强调逐步增加压力。"
+    },
+    {
+      "source": "s-d305f058d994-c003:a016",
+      "target": "s-d305f058d994-c003:a017",
+      "kind": "example_of",
+      "condition": "孩子看动画片冲突案例与管教泄愤的区别",
+      "reason": "孩子看动画片冲突案例中家长的行为被讲师定性为泄愤而非管教，该案例是“管教与泄愤的区别”这一概念的一个具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c003:a016",
+      "target": "s-d305f058d994-c003:a018",
+      "kind": "supports",
+      "condition": "避免冲突的方法",
+      "reason": "孩子看动画片冲突案例中家长因孩子不耐烦而生气导致冲突升级，支持了避免冲突的方法（允许孩子不耐烦、不因此生气）的必要性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c003:a018",
+      "target": "s-d305f058d994-c003:a018",
+      "kind": "supports",
+      "condition": "处理孩子不耐烦的方法",
+      "reason": "k00083与k00069内容一致，都强调允许孩子不耐烦。"
+    },
+    {
+      "source": "s-d305f058d994-c003:a019",
+      "target": "s-d305f058d994-c003:a019",
+      "kind": "supports",
+      "condition": "家长被孩子情绪激怒的深层原因",
+      "reason": "k00084与k00070内容一致，都指出孩子的急躁会勾起家长的伤和恐惧。"
+    },
+    {
+      "source": "s-d305f058d994-c003:a020",
+      "target": "s-d305f058d994-c003:a021",
+      "kind": "causes",
+      "condition": "孩子因过失埋怨案例的处理",
+      "reason": "k00071案例中讲师建议不用理他，k00072则提供了处理孩子过度埋怨的具体方法。"
+    },
+    {
+      "source": "s-d305f058d994-c003:a021",
+      "target": "s-d305f058d994-c003:a021",
+      "kind": "supports",
+      "condition": "处理孩子过度埋怨的方法",
+      "reason": "k00085与k00072内容一致，都提供相同的方法。"
+    },
+    {
+      "source": "s-d305f058d994-c003:a022",
+      "target": "s-d305f058d994-c003:a022",
+      "kind": "supports",
+      "condition": "意外发生的正常性",
+      "reason": "k00086与k00073内容一致，都强调意外是正常的。"
+    },
+    {
+      "source": "s-d305f058d994-c003:a023",
+      "target": "s-d305f058d994-c003:a024",
+      "kind": "example_of",
+      "condition": "女儿裤子不舒服发脾气案例的处理",
+      "reason": "女儿裤子不舒服发脾气案例中讲师建议帮忙前设定前提条件，该案例是“帮助孩子时设定前提条件”这一概念的具体应用实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d305f058d994-c003:a024",
+      "target": "s-d305f058d994-c003:a024",
+      "kind": "supports",
+      "condition": "帮助孩子时设定前提条件",
+      "reason": "k00087与k00075内容一致，都提供相同的方法。"
+    },
+    {
+      "source": "s-d305f058d994-c003:a025",
+      "target": "s-d305f058d994-c003:a025",
+      "kind": "supports",
+      "condition": "处理孩子衣物不舒服的方法",
+      "reason": "k00088与k00076内容一致，都提供相同的方法。"
+    },
+    {
+      "source": "s-d305f058d994-c003:a026",
+      "target": "s-d305f058d994-c003:a026",
+      "kind": "supports",
+      "condition": "后果的必要性",
+      "reason": "k00089与k00077内容一致，都强调后果必须执行。"
+    },
+    {
+      "source": "s-d305f058d994-c003:a027",
+      "target": "s-d305f058d994-c003:a027",
+      "kind": "supports",
+      "condition": "明确可接受的态度",
+      "reason": "k00090与k00078内容一致，都提供明确态度的方法。"
+    },
+    {
+      "source": "s-d305f058d994-c003:a028",
+      "target": "s-d305f058d994-c003:a028",
+      "kind": "supports",
+      "condition": "因果关系的学习",
+      "reason": "k00091与k00079内容一致，都强调因果关系的学习。"
+    },
+    {
+      "source": "s-d305f058d994-c001:v2-n001",
+      "target": "s-d305f058d994-c001:a003",
+      "kind": "complements",
+      "condition": "当讨论病理性自恋的特征和预后时",
+      "reason": "source 指出病理性自恋是人格障碍，候选补充了难治疗、需奇迹等特征，深化了对病态自恋的理解。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:a003",
+      "target": "s-d305f058d994-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论病理性自恋的特征和预后时",
+      "reason": "source 指出病理性自恋是人格障碍，候选补充了难治疗、需奇迹等特征，深化了对病态自恋的理解。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:v2-n001",
+      "target": "s-d305f058d994-c001:a001",
+      "kind": "complements",
+      "condition": "当描述自恋者的心理特征时",
+      "reason": "source 区分两种自恋，候选补充自恋者自认完美、别人配不上的本质特征，刻画了病态自恋的核心表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:a001",
+      "target": "s-d305f058d994-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当描述自恋者的心理特征时",
+      "reason": "source 区分两种自恋，候选补充自恋者自认完美、别人配不上的本质特征，刻画了病态自恋的核心表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:v2-n001",
+      "target": "s-d305f058d994-c001:a005",
+      "kind": "association",
+      "condition": "当需要实例理解病态自恋时",
+      "reason": "候选为具体明星案例，演示了病态自恋的人格问题，与 source 相关但为案例，可作为例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:a005",
+      "target": "s-d305f058d994-c001:v2-n001",
+      "kind": "association",
+      "condition": "当需要实例理解病态自恋时",
+      "reason": "候选为具体明星案例，演示了病态自恋的人格问题，与 source 相关但为案例，可作为例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:v2-n001",
+      "target": "s-d305f058d994-c001:a004",
+      "kind": "complements",
+      "condition": "当识别自恋者后需要应对时",
+      "reason": "source 提到自恋类型，候选补充面对自恋者应离开而非感化，提供了实践建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:a004",
+      "target": "s-d305f058d994-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当识别自恋者后需要应对时",
+      "reason": "source 提到自恋类型，候选补充面对自恋者应离开而非感化，提供了实践建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:v2-n001",
+      "target": "s-d305f058d994-c001:a002",
+      "kind": "complements",
+      "condition": "当区分自恋与自信时",
+      "reason": "source 聚焦自恋分类，候选补充自恋与自信的关键区别（有无自我觉察），帮助更清晰界定自恋。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:a002",
+      "target": "s-d305f058d994-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当区分自恋与自信时",
+      "reason": "source 聚焦自恋分类，候选补充自恋与自信的关键区别（有无自我觉察），帮助更清晰界定自恋。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:v2-n002",
+      "target": "s-d305f058d994-c001:r004",
+      "kind": "association",
+      "condition": "两者均涉及父母对孩子期望过高、不轻易肯定的问题，但 source 为描述性案例，candidate 为规范性建议。",
+      "reason": "source 中母亲对孩子的优秀表示“这只是生存技能之一”，体现了“总希望孩子更好”而不轻易肯定；candidate 主张“父母应看见孩子已经足够好，不要总是希望孩子更好”。两者主题相关，但 source 未提供因果或前提支持，仅可作为反面案例对照，故定为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:r004",
+      "target": "s-d305f058d994-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者均涉及父母对孩子期望过高、不轻易肯定的问题，但 source 为描述性案例，candidate 为规范性建议。",
+      "reason": "source 中母亲对孩子的优秀表示“这只是生存技能之一”，体现了“总希望孩子更好”而不轻易肯定；candidate 主张“父母应看见孩子已经足够好，不要总是希望孩子更好”。两者主题相关，但 source 未提供因果或前提支持，仅可作为反面案例对照，故定为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:v2-n002",
+      "target": "s-d305f058d994-c001:a017",
+      "kind": "association",
+      "condition": "两者均涉及家长对孩子期望管理，但具体情境不同。",
+      "reason": "source 中母亲不肯定孩子，candidate 中孩子喜欢游泳但不愿训练，讲师建议不要急于训练，同样反映“不要总是希望孩子更好”的观点。但二者为独立案例，无直接逻辑推导，仅主题相似，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:a017",
+      "target": "s-d305f058d994-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者均涉及家长对孩子期望管理，但具体情境不同。",
+      "reason": "source 中母亲不肯定孩子，candidate 中孩子喜欢游泳但不愿训练，讲师建议不要急于训练，同样反映“不要总是希望孩子更好”的观点。但二者为独立案例，无直接逻辑推导，仅主题相似，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:v2-n003",
+      "target": "s-d305f058d994-c003:a004",
+      "kind": "association",
+      "condition": "source 展示同胞相爱，candidate 强调亲子关系重要性，二者相关但无直接逻辑。",
+      "reason": "source 描述讲师两个孩子闹矛盾但会互相安慰，显示相爱；candidate 提出“如果亲子关系不好，家长很难有效处理孩子的问题”。source 未提及亲子关系状态，但良好同胞关系可能暗示良好亲子关系，但不能确定，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c003:a004",
+      "target": "s-d305f058d994-c001:v2-n003",
+      "kind": "association",
+      "condition": "source 展示同胞相爱，candidate 强调亲子关系重要性，二者相关但无直接逻辑。",
+      "reason": "source 描述讲师两个孩子闹矛盾但会互相安慰，显示相爱；candidate 提出“如果亲子关系不好，家长很难有效处理孩子的问题”。source 未提及亲子关系状态，但良好同胞关系可能暗示良好亲子关系，但不能确定，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:v2-n003",
+      "target": "s-d305f058d994-c001:a007",
+      "kind": "association",
+      "condition": "source 为良好同胞关系的案例，candidate 为养育两个男孩避免打闹的方法，二者互补但未建立直接联系。",
+      "reason": "source 显示同胞相爱不暴力，candidate 提出避免打闹需做到三点（不争夺爱、父母权威、单独相处）。source 是结果表现，candidate 是方法，但 source 未说明如何实现，因此仅 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:a007",
+      "target": "s-d305f058d994-c001:v2-n003",
+      "kind": "association",
+      "condition": "source 为良好同胞关系的案例，candidate 为养育两个男孩避免打闹的方法，二者互补但未建立直接联系。",
+      "reason": "source 显示同胞相爱不暴力，candidate 提出避免打闹需做到三点（不争夺爱、父母权威、单独相处）。source 是结果表现，candidate 是方法，但 source 未说明如何实现，因此仅 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:v2-n003",
+      "target": "s-d305f058d994-c001:a009",
+      "kind": "association",
+      "condition": "source 中孩子不争夺，candidate 解释争夺心理机制，二者可对照但条件不同。",
+      "reason": "candidate 指出孩子如果认为兄弟姐妹威胁自己就会争夺；source 中孩子没有争夺且相爱，说明他们可能不感觉威胁，是 candidate 机制的反面体现。但 source 未直接说明心理状态，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:a009",
+      "target": "s-d305f058d994-c001:v2-n003",
+      "kind": "association",
+      "condition": "source 中孩子不争夺，candidate 解释争夺心理机制，二者可对照但条件不同。",
+      "reason": "candidate 指出孩子如果认为兄弟姐妹威胁自己就会争夺；source 中孩子没有争夺且相爱，说明他们可能不感觉威胁，是 candidate 机制的反面体现。但 source 未直接说明心理状态，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n001",
+      "target": "s-d305f058d994-c001:a020",
+      "kind": "complements",
+      "condition": "父母决定做某事孩子不同意时，坚持决定。",
+      "reason": "source 指出“不需要年长孩子同意，孩子无权干涉”，candidate 补充“明确告诉孩子这不关他的事，坚持自己的决定，理解但不妥协”的具体步骤。两者互补：source 提供原则，candidate 提供行动细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:a020",
+      "target": "s-d305f058d994-c002:v2-n001",
+      "kind": "complements",
+      "condition": "父母决定做某事孩子不同意时，坚持决定。",
+      "reason": "source 指出“不需要年长孩子同意，孩子无权干涉”，candidate 补充“明确告诉孩子这不关他的事，坚持自己的决定，理解但不妥协”的具体步骤。两者互补：source 提供原则，candidate 提供行动细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n001",
+      "target": "s-d305f058d994-c001:r005",
+      "kind": "complements",
+      "condition": "孩子因年龄特点撒泼打滚时，理解但不妥协。",
+      "reason": "source 强调“理解孩子因年龄限制无法替父母考虑，但不因此凡事依着他”，candidate 同样强调“理解但不妥协”的界限原则。两者互补：source 侧重决策权，candidate 侧重情绪理解与行为界限分离。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:r005",
+      "target": "s-d305f058d994-c002:v2-n001",
+      "kind": "complements",
+      "condition": "孩子因年龄特点撒泼打滚时，理解但不妥协。",
+      "reason": "source 强调“理解孩子因年龄限制无法替父母考虑，但不因此凡事依着他”，candidate 同样强调“理解但不妥协”的界限原则。两者互补：source 侧重决策权，candidate 侧重情绪理解与行为界限分离。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n001",
+      "target": "s-d305f058d994-c002:a001",
+      "kind": "complements",
+      "condition": "家长理解孩子行为不等于妥协。",
+      "reason": "candidate 表述几乎与 source 中“理解但不妥协”一致，补充了“理解与行为界限是两回事”的明确说法。两者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a001",
+      "target": "s-d305f058d994-c002:v2-n001",
+      "kind": "complements",
+      "condition": "家长理解孩子行为不等于妥协。",
+      "reason": "candidate 表述几乎与 source 中“理解但不妥协”一致，补充了“理解与行为界限是两回事”的明确说法。两者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n001",
+      "target": "s-d305f058d994-c001:a019",
+      "kind": "complements",
+      "condition": "滑板车冲突的具体情境。",
+      "reason": "source 中的例子“用滑板车推弟弟”直接来自该案例；candidate 提供了具体案例背景，source 提供了应坚持决定的原则。案例与概念互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:a019",
+      "target": "s-d305f058d994-c002:v2-n001",
+      "kind": "complements",
+      "condition": "滑板车冲突的具体情境。",
+      "reason": "source 中的例子“用滑板车推弟弟”直接来自该案例；candidate 提供了具体案例背景，source 提供了应坚持决定的原则。案例与概念互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n001",
+      "target": "s-d305f058d994-c002:a015",
+      "kind": "conditional_difference",
+      "condition": "当孩子尚未信任父母、二胎关系紧张时，不宜直接立界限；source 未涉及此前提。",
+      "reason": "source 主张“不需要年长孩子同意，孩子无权干涉”，而 candidate 指出“在哥哥信任父母之前，不建议立界限；应先建立信任”。两者条件不同：source 适用于父母有权威且孩子信任的情境，candidate 适用于信任缺失的修复阶段。因此为 conditional_difference。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a015",
+      "target": "s-d305f058d994-c002:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "当孩子尚未信任父母、二胎关系紧张时，不宜直接立界限；source 未涉及此前提。",
+      "reason": "source 主张“不需要年长孩子同意，孩子无权干涉”，而 candidate 指出“在哥哥信任父母之前，不建议立界限；应先建立信任”。两者条件不同：source 适用于父母有权威且孩子信任的情境，candidate 适用于信任缺失的修复阶段。因此为 conditional_difference。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n001",
+      "target": "s-d305f058d994-c003:a009",
+      "kind": "association",
+      "condition": "父母权柄与孩子无权干涉相关，但 source 未强调“畏惧之心”。",
+      "reason": "candidate 强调父母应有权柄让孩子畏惧，source 强调孩子无权干涉父母决定，两者都关乎父母权威，但 source 未提及畏惧，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c003:a009",
+      "target": "s-d305f058d994-c002:v2-n001",
+      "kind": "association",
+      "condition": "父母权柄与孩子无权干涉相关，但 source 未强调“畏惧之心”。",
+      "reason": "candidate 强调父母应有权柄让孩子畏惧，source 强调孩子无权干涉父母决定，两者都关乎父母权威，但 source 未提及畏惧，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n001",
+      "target": "s-d305f058d994-c002:a003",
+      "kind": "complements",
+      "condition": "家长已给孩子过多权力时，需要收回。",
+      "reason": "source 指出孩子无权干涉，意味着不应给予过多权力；candidate 提出“收回孩子过多权力，拿回自己的力量”，补充了纠正方法。两者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a003",
+      "target": "s-d305f058d994-c002:v2-n001",
+      "kind": "complements",
+      "condition": "家长已给孩子过多权力时，需要收回。",
+      "reason": "source 指出孩子无权干涉，意味着不应给予过多权力；candidate 提出“收回孩子过多权力，拿回自己的力量”，补充了纠正方法。两者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n002",
+      "target": "s-d305f058d994-c002:a004",
+      "kind": "example_of",
+      "condition": "四岁孩子在遇到困难时容易放弃属正常现象。",
+      "reason": "source 中四岁四个月男孩玩桌游闯关最后试错时放弃，正是 candidate“四岁孩子抗挫能力有限，容易放弃是正常”的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a004",
+      "target": "s-d305f058d994-c002:v2-n002",
+      "kind": "has_example",
+      "condition": "四岁孩子在遇到困难时容易放弃属正常现象。",
+      "reason": "source 中四岁四个月男孩玩桌游闯关最后试错时放弃，正是 candidate“四岁孩子抗挫能力有限，容易放弃是正常”的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n002",
+      "target": "s-d305f058d994-c002:a005",
+      "kind": "complements",
+      "condition": "对于四岁孩子，通过示范和奖励鼓励再尝试。",
+      "reason": "source 提供了问题案例（孩子放弃，家长引导无效），candidate 提供了具体解决方法（设置小奖励、示范尝试）。互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a005",
+      "target": "s-d305f058d994-c002:v2-n002",
+      "kind": "complements",
+      "condition": "对于四岁孩子，通过示范和奖励鼓励再尝试。",
+      "reason": "source 提供了问题案例（孩子放弃，家长引导无效），candidate 提供了具体解决方法（设置小奖励、示范尝试）。互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n002",
+      "target": "s-d305f058d994-c002:v2-n004",
+      "kind": "association",
+      "condition": "年龄不同（4岁 vs 12岁），不可直接比较或套用。",
+      "reason": "candidate 是 12 岁女孩放弃比赛案例，与 source 中 4 岁男孩桌游放弃情境不同，年龄差距大，处理方法可能不同，故只能 association 并注明不可混用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n004",
+      "target": "s-d305f058d994-c002:v2-n002",
+      "kind": "association",
+      "condition": "年龄不同（4岁 vs 12岁），不可直接比较或套用。",
+      "reason": "candidate 是 12 岁女孩放弃比赛案例，与 source 中 4 岁男孩桌游放弃情境不同，年龄差距大，处理方法可能不同，故只能 association 并注明不可混用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n002",
+      "target": "s-d305f058d994-c002:v2-n003",
+      "kind": "association",
+      "condition": "均为低龄儿童受挫发脾气，但具体任务不同。",
+      "reason": "candidate 是孩子玩乐高发脾气，与 source 中桌游放弃类似，都是困难面前的情绪反应，但情境不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n003",
+      "target": "s-d305f058d994-c002:v2-n002",
+      "kind": "association",
+      "condition": "均为低龄儿童受挫发脾气，但具体任务不同。",
+      "reason": "candidate 是孩子玩乐高发脾气，与 source 中桌游放弃类似，都是困难面前的情绪反应，但情境不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n002",
+      "target": "s-d305f058d994-c002:a009",
+      "kind": "association",
+      "condition": "年龄不同（4岁 vs 12岁），不可套用。",
+      "reason": "candidate 是关于 12 岁孩子放弃比赛不引导的原则，与 source 中 4 岁孩子需要培养抗挫能力形成对比，但年龄差异大，不能混用，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a009",
+      "target": "s-d305f058d994-c002:v2-n002",
+      "kind": "association",
+      "condition": "年龄不同（4岁 vs 12岁），不可套用。",
+      "reason": "candidate 是关于 12 岁孩子放弃比赛不引导的原则，与 source 中 4 岁孩子需要培养抗挫能力形成对比，但年龄差异大，不能混用，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n002",
+      "target": "s-d305f058d994-c002:a006",
+      "kind": "association",
+      "condition": "源中未涉及是否提供帮助，但候选与评估帮助有关。",
+      "reason": "source 中家长询问如何培养抗挫，candidate 讨论评估孩子是否需要帮助，两者都涉及家长在困难情境中的判断，但关联不直接，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a006",
+      "target": "s-d305f058d994-c002:v2-n002",
+      "kind": "association",
+      "condition": "源中未涉及是否提供帮助，但候选与评估帮助有关。",
+      "reason": "source 中家长询问如何培养抗挫，candidate 讨论评估孩子是否需要帮助，两者都涉及家长在困难情境中的判断，但关联不直接，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n003",
+      "target": "s-d305f058d994-c002:a006",
+      "kind": "example_of",
+      "condition": "家长在孩子遇到困难时评估是否需要帮助。",
+      "reason": "source 中家长在孩子玩乐高困难时有时帮助（紧颗粒）有时提醒错误，讲者肯定其能评估孩子是否需要帮助，正是 candidate“评估孩子是否需要帮助”的具体应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a006",
+      "target": "s-d305f058d994-c002:v2-n003",
+      "kind": "has_example",
+      "condition": "家长在孩子遇到困难时评估是否需要帮助。",
+      "reason": "source 中家长在孩子玩乐高困难时有时帮助（紧颗粒）有时提醒错误，讲者肯定其能评估孩子是否需要帮助，正是 candidate“评估孩子是否需要帮助”的具体应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n003",
+      "target": "s-d305f058d994-c003:a024",
+      "kind": "association",
+      "condition": "涉及帮助时的态度前提，source 未提及态度。",
+      "reason": "source 中家长帮助孩子，但未说明孩子态度；candidate 强调帮助前设定态度好前提。两者都涉及帮助行为但侧重点不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c003:a024",
+      "target": "s-d305f058d994-c002:v2-n003",
+      "kind": "association",
+      "condition": "涉及帮助时的态度前提，source 未提及态度。",
+      "reason": "source 中家长帮助孩子，但未说明孩子态度；candidate 强调帮助前设定态度好前提。两者都涉及帮助行为但侧重点不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n003",
+      "target": "s-d305f058d994-c002:a005",
+      "kind": "association",
+      "condition": "均为孩子受挫情境，但 source 聚焦帮助评估，candidate 聚焦抗挫培养。",
+      "reason": "source 是乐高发脾气，candidate 是桌游放弃后培养抗挫，都涉及孩子困难时的情绪，但处理方法不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a005",
+      "target": "s-d305f058d994-c002:v2-n003",
+      "kind": "association",
+      "condition": "均为孩子受挫情境，但 source 聚焦帮助评估，candidate 聚焦抗挫培养。",
+      "reason": "source 是乐高发脾气，candidate 是桌游放弃后培养抗挫，都涉及孩子困难时的情绪，但处理方法不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n003",
+      "target": "s-d305f058d994-c002:v2-n005",
+      "kind": "association",
+      "condition": "都是低龄儿童问题行为，但主题不同（玩具分享 vs 乐高受挫）。",
+      "reason": "source 是乐高发脾气，candidate 是大宝不让弟弟玩玩具，无关但同属幼儿行为问题，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n005",
+      "target": "s-d305f058d994-c002:v2-n003",
+      "kind": "association",
+      "condition": "都是低龄儿童问题行为，但主题不同（玩具分享 vs 乐高受挫）。",
+      "reason": "source 是乐高发脾气，candidate 是大宝不让弟弟玩玩具，无关但同属幼儿行为问题，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n004",
+      "target": "s-d305f058d994-c002:a009",
+      "kind": "example_of",
+      "condition": "12岁孩子因失误放弃比赛，家长不需要引导。",
+      "reason": "source 中 12 岁女孩运动会没听到哨声起步慢，生气放弃比赛，讲者认为不需要引导，与 candidate“对于 12 岁孩子因失误放弃比赛，家长不需要引导”完全一致，故为具体案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a009",
+      "target": "s-d305f058d994-c002:v2-n004",
+      "kind": "has_example",
+      "condition": "12岁孩子因失误放弃比赛，家长不需要引导。",
+      "reason": "source 中 12 岁女孩运动会没听到哨声起步慢，生气放弃比赛，讲者认为不需要引导，与 candidate“对于 12 岁孩子因失误放弃比赛，家长不需要引导”完全一致，故为具体案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n004",
+      "target": "s-d305f058d994-c002:v2-n002",
+      "kind": "association",
+      "condition": "年龄不同（4岁 vs 12岁），不能混用。",
+      "reason": "candidate 是 4 岁男孩桌游放弃案例，需要培养抗挫；source 是 12 岁女孩放弃比赛，不需要引导。年龄差异大，不可直接比较，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n002",
+      "target": "s-d305f058d994-c002:v2-n004",
+      "kind": "association",
+      "condition": "年龄不同（4岁 vs 12岁），不能混用。",
+      "reason": "candidate 是 4 岁男孩桌游放弃案例，需要培养抗挫；source 是 12 岁女孩放弃比赛，不需要引导。年龄差异大，不可直接比较，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n004",
+      "target": "s-d305f058d994-c002:a012",
+      "kind": "association",
+      "condition": "涉及体育失败导致的更严重后果（厌学），source 仅一次放弃比赛。",
+      "reason": "candidate 指出体育失败可能涉及深层自我认知，source 中女孩仅放弃一次比赛，程度较轻。两者都涉及体育失败，但严重性不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a012",
+      "target": "s-d305f058d994-c002:v2-n004",
+      "kind": "association",
+      "condition": "涉及体育失败导致的更严重后果（厌学），source 仅一次放弃比赛。",
+      "reason": "candidate 指出体育失败可能涉及深层自我认知，source 中女孩仅放弃一次比赛，程度较轻。两者都涉及体育失败，但严重性不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n004",
+      "target": "s-d305f058d994-c002:v2-n003",
+      "kind": "association",
+      "condition": "不同具体情境（乐高受挫 vs 体育失败），年龄可能不同。",
+      "reason": "candidate 是孩子玩乐高发脾气，source 是运动会放弃比赛，都涉及受挫情绪，但情境不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n003",
+      "target": "s-d305f058d994-c002:v2-n004",
+      "kind": "association",
+      "condition": "不同具体情境（乐高受挫 vs 体育失败），年龄可能不同。",
+      "reason": "candidate 是孩子玩乐高发脾气，source 是运动会放弃比赛，都涉及受挫情绪，但情境不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n004",
+      "target": "s-d305f058d994-c002:v2-n005",
+      "kind": "association",
+      "condition": "年龄不同（4岁半 vs 12岁），主题不同。",
+      "reason": "candidate 是四岁半大宝不让弟弟玩玩具，与 source 无关，但同属儿童问题行为，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n005",
+      "target": "s-d305f058d994-c002:v2-n004",
+      "kind": "association",
+      "condition": "年龄不同（4岁半 vs 12岁），主题不同。",
+      "reason": "candidate 是四岁半大宝不让弟弟玩玩具，与 source 无关，但同属儿童问题行为，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n005",
+      "target": "s-d305f058d994-c002:a016",
+      "kind": "complements",
+      "condition": "适用于四岁半大宝不让弟弟玩玩具的场景，家长需执行分类并坚持规则。",
+      "reason": "source 中四岁半大宝不让弟弟碰玩具，且讲者指出赋能方案未知需演练；a016 给出具体方法：将玩具分为姐姐的、弟弟的、共有的，共有的谁都可玩，各自的可以不让对方玩，补充了 source 缺失的玩具归属处理方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a016",
+      "target": "s-d305f058d994-c002:v2-n005",
+      "kind": "complements",
+      "condition": "适用于四岁半大宝不让弟弟玩玩具的场景，家长需执行分类并坚持规则。",
+      "reason": "source 中四岁半大宝不让弟弟碰玩具，且讲者指出赋能方案未知需演练；a016 给出具体方法：将玩具分为姐姐的、弟弟的、共有的，共有的谁都可玩，各自的可以不让对方玩，补充了 source 缺失的玩具归属处理方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n005",
+      "target": "s-d305f058d994-c002:a018",
+      "kind": "complements",
+      "condition": "适用于姐姐对弟弟尖叫且需要立界限的情况，年龄约四岁半。",
+      "reason": "source 中姐姐故意尖叫让弟弟走开；a018 提供处理方法：先分玩具明确归属，告知尖叫可能伤耳膜，设定尖叫则玩具收走的后果，并提供替代方案。补充了处理尖叫行为的具体步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a018",
+      "target": "s-d305f058d994-c002:v2-n005",
+      "kind": "complements",
+      "condition": "适用于姐姐对弟弟尖叫且需要立界限的情况，年龄约四岁半。",
+      "reason": "source 中姐姐故意尖叫让弟弟走开；a018 提供处理方法：先分玩具明确归属，告知尖叫可能伤耳膜，设定尖叫则玩具收走的后果，并提供替代方案。补充了处理尖叫行为的具体步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n005",
+      "target": "s-d305f058d994-c002:a019",
+      "kind": "association",
+      "condition": "两者均为姐姐对弟弟尖叫，但 a019 是临床后果案例，source 是问题描述，无直接处理关系。",
+      "reason": "source 中姐姐尖叫；a019 描述四五岁姐姐凑到弟弟耳边尖叫导致弟弟耳膜受伤，提示该行为的潜在严重后果，但 source 未提及伤害结果，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a019",
+      "target": "s-d305f058d994-c002:v2-n005",
+      "kind": "association",
+      "condition": "两者均为姐姐对弟弟尖叫，但 a019 是临床后果案例，source 是问题描述，无直接处理关系。",
+      "reason": "source 中姐姐尖叫；a019 描述四五岁姐姐凑到弟弟耳边尖叫导致弟弟耳膜受伤，提示该行为的潜在严重后果，但 source 未提及伤害结果，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n005",
+      "target": "s-d305f058d994-c002:v2-n006",
+      "kind": "association",
+      "condition": "比较条件：同为二胎家庭老大与弟弟冲突，但年龄不同（四岁半 vs 9岁），情境不同（不让玩玩具 vs 不喜欢弟弟）。",
+      "reason": "source 是大宝不让弟弟玩玩具；v2-n006 是哥哥不喜欢弟弟且认为失去父母的爱。两者均为二胎关系问题，但年龄角色不同，不能直接混用，仅作背景关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n006",
+      "target": "s-d305f058d994-c002:v2-n005",
+      "kind": "association",
+      "condition": "比较条件：同为二胎家庭老大与弟弟冲突，但年龄不同（四岁半 vs 9岁），情境不同（不让玩玩具 vs 不喜欢弟弟）。",
+      "reason": "source 是大宝不让弟弟玩玩具；v2-n006 是哥哥不喜欢弟弟且认为失去父母的爱。两者均为二胎关系问题，但年龄角色不同，不能直接混用，仅作背景关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n006",
+      "target": "s-d305f058d994-c002:a014",
+      "kind": "complements",
+      "condition": "适用于9岁哥哥不喜欢4岁弟弟且父母精力有限的情况。",
+      "reason": "source 中哥哥认为弟弟的出现让他失去父母的爱，父母体力有限没耐心陪伴；a014 明确说明这是因为孩子通过父母的行为判断爱，行为上分走了时间和精力，补充了背后的心理原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a014",
+      "target": "s-d305f058d994-c002:v2-n006",
+      "kind": "complements",
+      "condition": "适用于9岁哥哥不喜欢4岁弟弟且父母精力有限的情况。",
+      "reason": "source 中哥哥认为弟弟的出现让他失去父母的爱，父母体力有限没耐心陪伴；a014 明确说明这是因为孩子通过父母的行为判断爱，行为上分走了时间和精力，补充了背后的心理原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n006",
+      "target": "s-d305f058d994-c002:a015",
+      "kind": "complements",
+      "condition": "适用于哥哥对父母信任不足、关系紧张的二胎家庭，需先建立信任再立界限。",
+      "reason": "source 中家长努力情绪连接但关系紧，哥哥认为失去爱；a015 提出在哥哥信任父母之前不建议立界限，应先建立信任，让哥哥知道父母爱他，补充了修复关系的具体方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:a015",
+      "target": "s-d305f058d994-c002:v2-n006",
+      "kind": "complements",
+      "condition": "适用于哥哥对父母信任不足、关系紧张的二胎家庭，需先建立信任再立界限。",
+      "reason": "source 中家长努力情绪连接但关系紧，哥哥认为失去爱；a015 提出在哥哥信任父母之前不建议立界限，应先建立信任，让哥哥知道父母爱他，补充了修复关系的具体方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n006",
+      "target": "s-d305f058d994-c002:v2-n005",
+      "kind": "association",
+      "condition": "比较条件：同为二胎冲突，但年龄不同（9岁 vs 4岁半），具体行为不同（不喜欢弟弟 vs 不让玩玩具）。",
+      "reason": "source 是哥哥不喜欢弟弟；v2-n005 是四岁半大宝不让弟弟玩玩具，两者均为二胎关系中的界限或情绪问题，但年龄和具体情境不同，仅作背景关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n005",
+      "target": "s-d305f058d994-c002:v2-n006",
+      "kind": "association",
+      "condition": "比较条件：同为二胎冲突，但年龄不同（9岁 vs 4岁半），具体行为不同（不喜欢弟弟 vs 不让玩玩具）。",
+      "reason": "source 是哥哥不喜欢弟弟；v2-n005 是四岁半大宝不让弟弟玩玩具，两者均为二胎关系中的界限或情绪问题，但年龄和具体情境不同，仅作背景关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c002:v2-n006",
+      "target": "s-d305f058d994-c001:a007",
+      "kind": "association",
+      "condition": "适用于两个男孩打闹抢东西的场景，source 是哥哥不喜欢弟弟，未突出打闹，但核心冲突涉及争夺父母爱。",
+      "reason": "source 中哥哥认为失去父母的爱，c001:a007 提出让孩子知道不需要争夺父母的爱，父母权威和单独相处，这些原则与 source 问题相关，但 c001:a007 针对打闹抢东西，情境略有不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d305f058d994-c001:a007",
+      "target": "s-d305f058d994-c002:v2-n006",
+      "kind": "association",
+      "condition": "适用于两个男孩打闹抢东西的场景，source 是哥哥不喜欢弟弟，未突出打闹，但核心冲突涉及争夺父母爱。",
+      "reason": "source 中哥哥认为失去父母的爱，c001:a007 提出让孩子知道不需要争夺父母的爱，父母权威和单独相处，这些原则与 source 问题相关，但 c001:a007 针对打闹抢东西，情境略有不同。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "处理孩子情绪问题时，需要理解情绪但坚持界限",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a020",
+        "s-d305f058d994-c001:r005",
+        "s-d305f058d994-c002:a001",
+        "s-d305f058d994-c003:a018"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "设定界限后需要具体行动规则来执行",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a007",
+        "s-d305f058d994-c001:a020",
+        "s-d305f058d994-c002:a016",
+        "s-d305f058d994-c002:a018",
+        "s-d305f058d994-c003:a008",
+        "s-d305f058d994-c003:a024",
+        "s-d305f058d994-c003:a025",
+        "s-d305f058d994-c003:a027"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "规则与行动",
+      "when": "理解孩子情绪后需要采取具体行动来解决问题",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a013",
+        "s-d305f058d994-c001:a014",
+        "s-d305f058d994-c001:r003",
+        "s-d305f058d994-c002:a005",
+        "s-d305f058d994-c003:a006",
+        "s-d305f058d994-c003:a021"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "家长需要解决自己的问题才能更好地坚持界限",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a019"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "根据孩子年龄阶段调整界限的设定",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a018",
+        "s-d305f058d994-c002:a003",
+        "s-d305f058d994-c002:a004",
+        "s-d305f058d994-c003:a012",
+        "s-d305f058d994-c003:r002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "规则与行动",
+      "when": "根据孩子年龄阶段调整具体行动方法",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d305f058d994-c002:a009",
+        "s-d305f058d994-c002:a010",
+        "s-d305f058d994-c002:a011",
+        "s-d305f058d994-c003:a010",
+        "s-d305f058d994-c003:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "内在能力",
+      "to": "理解情绪",
+      "when": "培养孩子内在能力需要理解其情绪和压力承受力",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d305f058d994-c003:a013",
+        "s-d305f058d994-c003:a014",
+        "s-d305f058d994-c003:r003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "专注力",
+      "to": "规则与行动",
+      "when": "培养专注力需要具体行动方法，如独立玩耍和抗挫训练",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d305f058d994-c001:a015",
+        "s-d305f058d994-c002:a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-d305f058d994-c001:a021",
+        "s-d305f058d994-c002:a002"
+      ],
+      "reason": "内容完全一致，都指出给孩子过多权力会导致行为问题。"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c001:r005",
+        "s-d305f058d994-c002:a001"
+      ],
+      "reason": "内容完全一致，都强调理解孩子情绪不等于妥协。"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c002:a021",
+        "s-d305f058d994-c003:a001"
+      ],
+      "reason": "内容完全一致，都强调上学不是选择。"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c002:a022",
+        "s-d305f058d994-c003:a002"
+      ],
+      "reason": "内容完全一致，都强调家长语言的力量。"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c003:a018"
+      ],
+      "reason": "内容完全一致，都提供处理孩子不耐烦的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c003:a019"
+      ],
+      "reason": "内容完全一致，都指出家长被激怒的深层原因。"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c003:a021"
+      ],
+      "reason": "内容完全一致，都提供处理孩子过度埋怨的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c003:a022"
+      ],
+      "reason": "内容完全一致，都强调意外发生的正常性。"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c003:a024"
+      ],
+      "reason": "内容完全一致，都提供帮助孩子时设定前提条件的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c003:a025"
+      ],
+      "reason": "内容完全一致，都提供处理孩子衣物不舒服的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c003:a026"
+      ],
+      "reason": "内容完全一致，都强调后果的必要性。"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c003:a027"
+      ],
+      "reason": "内容完全一致，都提供明确可接受的态度的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c003:a028"
+      ],
+      "reason": "内容完全一致，都强调因果关系的学习。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-d305f058d994-c001:a004",
+        "s-d305f058d994-c001:a003"
+      ],
+      "description": "k00004建议遇到自恋者应赶快离开，但k00003指出自恋是人格障碍很难治疗，两者并不矛盾，但可能引发关于是否应尝试帮助自恋者的讨论。",
+      "needed_evidence": "是否需要区分自恋程度，轻度自恋是否可能通过干预改善？"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c001:a012",
+        "s-d305f058d994-c001:a013"
+      ],
+      "description": "k00012定义了临床分离焦虑的严重症状，k00013则指出仅因不想上学而哭不属于分离焦虑，但未明确两者之间的界限，可能导致家长误判。",
+      "needed_evidence": "如何准确区分正常的不想上学情绪和临床分离焦虑？"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c002:a021",
+        "s-d305f058d994-c002:a020"
+      ],
+      "description": "k00047强调上学不是选择，必须上学，但k00046案例中孩子因霸凌和老师问题不愿上学，若强行要求上学可能忽视孩子的心理创伤。",
+      "needed_evidence": "当学校环境存在严重问题时，是否仍应坚持上学不是选择？如何平衡规则与孩子的心理健康？"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c003:a008",
+        "s-d305f058d994-c003:a017"
+      ],
+      "description": "k00059建议抓住孩子的手并告知后果，但k00068强调管教不是泄愤，在怒气中打孩子是泄愤，两者可能被混淆，导致家长在情绪中不当使用身体约束。",
+      "needed_evidence": "如何确保家长在冷静状态下执行界限，避免将管教变成泄愤？"
+    },
+    {
+      "atom_ids": [
+        "s-d305f058d994-c003:a010",
+        "s-d305f058d994-c003:a011"
+      ],
+      "description": "k00061案例中讲师建议取消一些课程，但k00062强调玩耍的重要性，两者一致，但未明确如何平衡学业和玩耍，可能引发家长对取消课程的顾虑。",
+      "needed_evidence": "如何具体评估孩子的压力水平，决定取消哪些课程？"
+    }
+  ],
+  "path": [
+    {
+      "name": "处理孩子问题的一般流程",
+      "steps": [
+        {
+          "action": "评估孩子的情况和年龄特点",
+          "atom_ids": [
+            "s-d305f058d994-c001:a018",
+            "s-d305f058d994-c002:a004",
+            "s-d305f058d994-c002:a006",
+            "s-d305f058d994-c003:a012",
+            "s-d305f058d994-c003:r002"
+          ],
+          "condition": "处理任何孩子问题前，先了解其发展阶段和能力"
+        },
+        {
+          "action": "建立或修复亲子关系",
+          "atom_ids": [
+            "s-d305f058d994-c002:a015",
+            "s-d305f058d994-c003:a004"
+          ],
+          "condition": "如果亲子关系不好，先建立信任"
+        },
+        {
+          "action": "设定明确的界限和规则",
+          "atom_ids": [
+            "s-d305f058d994-c001:a020",
+            "s-d305f058d994-c001:r005",
+            "s-d305f058d994-c002:a001",
+            "s-d305f058d994-c002:a016",
+            "s-d305f058d994-c002:a018",
+            "s-d305f058d994-c002:a021",
+            "s-d305f058d994-c003:a001",
+            "s-d305f058d994-c003:a003",
+            "s-d305f058d994-c003:a008",
+            "s-d305f058d994-c003:a024",
+            "s-d305f058d994-c003:a025",
+            "s-d305f058d994-c003:a027"
+          ],
+          "condition": "在理解孩子情绪的基础上，坚持界限"
+        },
+        {
+          "action": "提供高质量陪伴和具体支持",
+          "atom_ids": [
+            "s-d305f058d994-c001:a007",
+            "s-d305f058d994-c001:a008",
+            "s-d305f058d994-c001:a013",
+            "s-d305f058d994-c001:a014",
+            "s-d305f058d994-c001:r001",
+            "s-d305f058d994-c001:r003"
+          ],
+          "condition": "当孩子需要情感支持时"
+        },
+        {
+          "action": "通过示范和奖励培养能力",
+          "atom_ids": [
+            "s-d305f058d994-c002:a005",
+            "s-d305f058d994-c003:a014"
+          ],
+          "condition": "当孩子需要培养抗挫能力或承受压力时"
+        },
+        {
+          "action": "允许孩子体验自然结果并反思",
+          "atom_ids": [
+            "s-d305f058d994-c002:a009",
+            "s-d305f058d994-c003:a005",
+            "s-d305f058d994-c003:a006",
+            "s-d305f058d994-c003:a007"
+          ],
+          "condition": "当孩子因自身行为导致失望或失败时"
+        },
+        {
+          "action": "处理特殊情况如霸凌或厌学",
+          "atom_ids": [
+            "s-d305f058d994-c002:a007",
+            "s-d305f058d994-c002:a008",
+            "s-d305f058d994-c002:a012",
+            "s-d305f058d994-c002:a013",
+            "s-d305f058d994-c002:a020",
+            "s-d305f058d994-c002:xe001"
+          ],
+          "condition": "当孩子面临严重问题如霸凌或厌学时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "711ed66c1a2e75e6def18372daa444ac1d23abcc791048913048ce26b06457bd",
+  "point_units": [
+    {
+      "id": "s-d305f058d994-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d305f058d994-c001:a001"
+      ],
+      "blocks": [
+        "b00004",
+        "b00006",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d305f058d994-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d305f058d994-c001:a002"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d305f058d994-c001:a003"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c001:a004"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c001:a005"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c001:a006"
+      ],
+      "blocks": [
+        "b00003",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c001:a007"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c001:a008"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u010",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d305f058d994-c001:a009"
+      ],
+      "blocks": [
+        "b00013",
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c001:a010"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c001:a011"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d305f058d994-c001:a012"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c001:a013"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c001:a014"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c001:a015"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c001:a016"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c001:a017"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u020",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d305f058d994-c001:a018"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u021",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c001:a019"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00041",
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u022",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c001:a020"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u023",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c001:r001"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u024",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c001:r002"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u025",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c001:r003"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u026",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c001:r004"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034",
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c001:u027",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c001:r004",
+        "s-d305f058d994-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c001:r005",
+        "s-d305f058d994-c002:a001"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d305f058d994-c001:a021",
+        "s-d305f058d994-c002:a002"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c002:a003"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u005",
+      "kind": "condition",
+      "atom_ids": [
+        "s-d305f058d994-c002:a004"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c002:a005"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c002:a006"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c002:a007"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c002:a008"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u012",
+      "kind": "condition",
+      "atom_ids": [
+        "s-d305f058d994-c002:xe001"
+      ],
+      "blocks": [
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c002:a009",
+        "s-d305f058d994-c002:v2-n004"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c002:a009"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u015",
+      "kind": "condition",
+      "atom_ids": [
+        "s-d305f058d994-c002:a010"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c002:a011"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u017",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d305f058d994-c002:a012"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c002:a013"
+      ],
+      "blocks": [
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c002:a014",
+        "s-d305f058d994-c002:a015",
+        "s-d305f058d994-c002:v2-n006"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069",
+        "b00070",
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c002:a015"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u021",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c002:v2-n005"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u022",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c002:a016"
+      ],
+      "blocks": [
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u023",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c002:a017"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u024",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c002:a018"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u025",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c002:a019"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u026",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c002:a020"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080",
+        "b00081",
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u027",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c002:a021",
+        "s-d305f058d994-c002:r001",
+        "s-d305f058d994-c002:r002"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u028",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c002:a022"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c002:u029",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c002:r001",
+        "s-d305f058d994-c002:r002"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d305f058d994-c003:a001",
+        "s-d305f058d994-c003:a003"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d305f058d994-c003:a002",
+        "s-d305f058d994-c003:a009"
+      ],
+      "blocks": [
+        "b00085",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u003",
+      "kind": "condition",
+      "atom_ids": [
+        "s-d305f058d994-c003:a004"
+      ],
+      "blocks": [
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c003:a005",
+        "s-d305f058d994-c003:a006"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c003:a007"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c003:a008"
+      ],
+      "blocks": [
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c003:a010",
+        "s-d305f058d994-c003:r001"
+      ],
+      "blocks": [
+        "b00094",
+        "b00095",
+        "b00096",
+        "b00097",
+        "b00098",
+        "b00099",
+        "b00100"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d305f058d994-c003:a011"
+      ],
+      "blocks": [
+        "b00098",
+        "b00100"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d305f058d994-c003:a012",
+        "s-d305f058d994-c003:r002"
+      ],
+      "blocks": [
+        "b00101",
+        "b00102"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d305f058d994-c003:a013",
+        "s-d305f058d994-c003:a014",
+        "s-d305f058d994-c003:r003"
+      ],
+      "blocks": [
+        "b00102",
+        "b00103"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d305f058d994-c003:a015"
+      ],
+      "blocks": [
+        "b00104"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c003:a016",
+        "s-d305f058d994-c003:a017"
+      ],
+      "blocks": [
+        "b00105",
+        "b00106",
+        "b00107"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-d305f058d994-c003:a018"
+      ],
+      "blocks": [
+        "b00108",
+        "b00109"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d305f058d994-c003:a019"
+      ],
+      "blocks": [
+        "b00109",
+        "b00110"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c003:a020",
+        "s-d305f058d994-c003:a021",
+        "s-d305f058d994-c003:a022"
+      ],
+      "blocks": [
+        "b00111",
+        "b00112",
+        "b00113",
+        "b00114",
+        "b00115"
+      ]
+    },
+    {
+      "id": "s-d305f058d994-c003:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-d305f058d994-c003:a023",
+        "s-d305f058d994-c003:a024",
+        "s-d305f058d994-c003:a025",
+        "s-d305f058d994-c003:a026",
+        "s-d305f058d994-c003:a027",
+        "s-d305f058d994-c003:a028"
+      ],
+      "blocks": [
+        "b00116",
+        "b00117",
+        "b00118",
+        "b00119",
+        "b00120",
+        "b00121",
+        "b00122",
+        "b00123",
+        "b00124",
+        "b00125",
+        "b00126"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "自恋的两种类型",
+      "atom_ids": [
+        "s-d305f058d994-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-d305f058d994",
+          "blocks": [
+            "b00004"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "中国父母不轻易肯定孩子的案例",
+      "atom_ids": [
+        "s-d305f058d994-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-d305f058d994",
+          "blocks": [
+            "b00033",
+            "b00034"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "讲师孩子同胞关系案例",
+      "atom_ids": [
+        "s-d305f058d994-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-d305f058d994",
+          "blocks": [
+            "b00015",
+            "b00016"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "父母做决定不需年长孩子同意",
+      "atom_ids": [
+        "s-d305f058d994-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-d305f058d994",
+          "blocks": [
+            "b00041",
+            "b00042"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "四岁男孩桌游闯关失败放弃案例",
+      "atom_ids": [
+        "s-d305f058d994-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-d305f058d994",
+          "blocks": [
+            "b00046"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "孩子玩乐高发脾气案例",
+      "atom_ids": [
+        "s-d305f058d994-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-d305f058d994",
+          "blocks": [
+            "b00050"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "12岁女孩运动会放弃比赛案例",
+      "atom_ids": [
+        "s-d305f058d994-c002:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-d305f058d994",
+          "blocks": [
+            "b00058",
+            "b00059",
+            "b00060",
+            "b00061"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "四岁半大宝不让弟弟玩玩具案例",
+      "atom_ids": [
+        "s-d305f058d994-c002:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-d305f058d994",
+          "blocks": [
+            "b00072",
+            "b00073"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "二胎家庭哥哥不喜欢弟弟案例",
+      "atom_ids": [
+        "s-d305f058d994-c002:v2-n006"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-d305f058d994",
+          "blocks": [
+            "b00068",
+            "b00069",
+            "b00070",
+            "b00071"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    }
+  ]
+}

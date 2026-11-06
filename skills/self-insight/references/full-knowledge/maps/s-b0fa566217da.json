@@ -1,0 +1,239 @@
+{
+  "concepts": [
+    {
+      "name": "情绪联结",
+      "definition": "父母与孩子之间建立的情感连接，使孩子愿意向父母吐露心声，并使父母的话语对孩子产生重要影响。",
+      "atom_ids": [
+        "s-b0fa566217da-c001:a002",
+        "s-b0fa566217da-c001:a004",
+        "s-b0fa566217da-c001:a007",
+        "s-b0fa566217da-c001:a008"
+      ]
+    },
+    {
+      "name": "右脑情感需求与左脑逻辑回应的错位",
+      "definition": "孩子用右脑表达情感需求，而父母用左脑的逻辑和事实回应，导致情绪联结失败。",
+      "atom_ids": [
+        "s-b0fa566217da-c001:a006",
+        "s-b0fa566217da-c001:a007"
+      ]
+    },
+    {
+      "name": "情绪联结的建立方法",
+      "definition": "通过接纳和兴奋的态度回应孩子的情感表达，从而建立情绪联结。",
+      "atom_ids": [
+        "s-b0fa566217da-c001:a001",
+        "s-b0fa566217da-c001:a002"
+      ]
+    },
+    {
+      "name": "情绪联结缺失的后果",
+      "definition": "如果孩子小时候没有建立情绪联结，长大后在行为、情绪和心理上容易出现各种问题。",
+      "atom_ids": [
+        "s-b0fa566217da-c001:a004"
+      ]
+    },
+    {
+      "name": "情绪联结失败导致孩子封闭心扉",
+      "definition": "当父母总是用左脑逻辑回应孩子的右脑情感需求时，情绪联结失败，孩子宁愿对手机说话，也不再对母亲吐露心声，甚至产生抑郁。",
+      "atom_ids": [
+        "s-b0fa566217da-c001:a007"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-b0fa566217da-c001:a001",
+      "target": "s-b0fa566217da-c001:a002",
+      "kind": "example_of",
+      "condition": "母亲在女儿讲述暗恋时，通过兴奋和接纳的态度与女儿建立了强烈的情绪联结",
+      "reason": "“母亲对女儿暗恋老师的回应案例”是“情绪联结的建立与影响”的具体案例，展示通过接纳建立情绪联结。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b0fa566217da-c001:a002",
+      "target": "s-b0fa566217da-c001:a003",
+      "kind": "association",
+      "condition": "情绪联结产生影响的案例",
+      "reason": "“情绪联结的建立与影响”说明情绪联结使母亲的话有影响力，“母亲带女儿见语文老师并评价其外貌”是体现该影响力的具体事件；方向应为案例支持概念，原原因是因果但概念不能导致具体案例发生，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 不在允许类型且方向需反转，改为 association。"
+    },
+    {
+      "source": "s-b0fa566217da-c001:a006",
+      "target": "s-b0fa566217da-c001:a007",
+      "kind": "supports",
+      "condition": "母亲总是用左脑逻辑回应孩子的右脑情感需求",
+      "reason": "“右脑情感需求与左脑逻辑回应的错位”描述了错误回应方式，“情绪联结失败导致孩子封闭心扉”是该错位的结果；因果关系成立，但原 causes 不在允许类型，改为 supports。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 改为 supports。"
+    },
+    {
+      "source": "s-b0fa566217da-c001:a004",
+      "target": "s-b0fa566217da-c001:a007",
+      "kind": "supports",
+      "condition": "情绪联结缺失或失败会导致孩子出现问题。",
+      "reason": "a004 是概括性后果，a007 提供了具体案例（英子抑郁）支持这一后果。"
+    },
+    {
+      "source": "s-b0fa566217da-c001:a005",
+      "target": "s-b0fa566217da-c001:a006",
+      "kind": "example_of",
+      "condition": "英子的母亲努力尝试了解女儿，但用左脑逻辑回应右脑情感需求",
+      "reason": "“电视剧《小欢喜》中英子与母亲的互动”是“右脑情感需求与左脑逻辑回应的错位”的具体案例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b0fa566217da-c001:a001",
+      "target": "s-b0fa566217da-c001:a003",
+      "kind": "step_of",
+      "condition": "母亲先建立情绪联结，然后通过评价外貌影响女儿情感",
+      "reason": "“母亲对女儿暗恋老师的回应案例”是先建立情绪联结的步骤，“母亲带女儿见语文老师并评价其外貌”是后续干预步骤，两者构成连续过程。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b0fa566217da-c001:a003",
+      "target": "s-b0fa566217da-c001:r001",
+      "kind": "association",
+      "condition": "重复记录同一案例信息",
+      "reason": "“母亲带女儿见语文老师并评价其外貌”与“母亲通过评价外貌影响女儿情感”内容一致，是同一案例的重复记录，原支持关系不成立。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "改为 association 以表示重复/等价内容。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "理解情绪",
+      "when": "父母与孩子互动时，通过接纳和兴奋的态度回应孩子的情感表达，建立情绪联结。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b0fa566217da-c001:a001",
+        "s-b0fa566217da-c001:a002",
+        "s-b0fa566217da-c001:a006",
+        "s-b0fa566217da-c001:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "scope": "within_module",
+      "source_limits": []
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-b0fa566217da-c001:a003",
+        "s-b0fa566217da-c001:r001"
+      ],
+      "reason": "两条记录内容完全相同，都是描述母亲带女儿见语文老师并评价其外貌，导致女儿不再喜欢老师。"
+    }
+  ],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-b0fa566217da-c001:u0001",
+      "kind": "case",
+      "atom_ids": [
+        "s-b0fa566217da-c001:a001"
+      ],
+      "blocks": [
+        "b00006",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-b0fa566217da-c001:u0002",
+      "kind": "case",
+      "atom_ids": [
+        "s-b0fa566217da-c001:a003"
+      ],
+      "blocks": [
+        "b00010",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-b0fa566217da-c001:u0003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b0fa566217da-c001:a002"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-b0fa566217da-c001:u0004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b0fa566217da-c001:a004"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-b0fa566217da-c001:u0005",
+      "kind": "case",
+      "atom_ids": [
+        "s-b0fa566217da-c001:a005"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-b0fa566217da-c001:u0006",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-b0fa566217da-c001:a006"
+      ],
+      "blocks": [
+        "b00016",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-b0fa566217da-c001:u0007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b0fa566217da-c001:a007"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-b0fa566217da-c001:u0008",
+      "kind": "question",
+      "atom_ids": [
+        "s-b0fa566217da-c001:a008"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-b0fa566217da-c001:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-b0fa566217da-c001:a009"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

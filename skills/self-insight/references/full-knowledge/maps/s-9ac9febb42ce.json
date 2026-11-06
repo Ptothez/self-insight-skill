@@ -1,0 +1,308 @@
+{
+  "concepts": [
+    {
+      "name": "情绪联结",
+      "definition": "父母与孩子之间建立的情感连接。当情绪联结没有建立好时，孩子在行为和心理上出现问题被认为是必然和迟早的事情。",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a001",
+        "s-9ac9febb42ce-c001:a002",
+        "s-9ac9febb42ce-c001:a003",
+        "s-9ac9febb42ce-c001:a007",
+        "s-9ac9febb42ce-c001:a009"
+      ]
+    },
+    {
+      "name": "情绪联结缺失的后果",
+      "definition": "网络游戏和电子产品上瘾、极端行为改变、拒绝与父母沟通等现象，都被归因于父母与孩子情绪失联。",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a002",
+        "s-9ac9febb42ce-c001:a006"
+      ]
+    },
+    {
+      "name": "情绪联结对劝导接受度的影响",
+      "definition": "当情绪联结没有建立时，他人的劝导和教育会被视为阻碍，引发抵挡之心；当情绪联结建立后，即使是无心的话也能深刻影响孩子的思想和行为，批评也更容易被接受。",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a003",
+        "s-9ac9febb42ce-c001:a010"
+      ]
+    },
+    {
+      "name": "青少年问题趋势",
+      "definition": "很多孩子有不同程度的焦虑和抑郁，且近几年有幼龄化趋势；十二三岁后网络游戏和电子产品上瘾导致与父母沟通减少；初中后校园霸凌成为严重问题；12至15岁孩子可能出现极端行为变化，如吸毒、怀孕、自杀、酗酒、离家出走。",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a006"
+      ]
+    },
+    {
+      "name": "中国文化中情绪联结的缺失",
+      "definition": "情绪联结概念在提倡含蓄的中国文化中很缺失，很多家长因自身成长背景中没有经历过而不知道如何去做。",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a007"
+      ]
+    },
+    {
+      "name": "课程内容概述",
+      "definition": "课程将分享美国心理辅导案例，讲解孩子左右脑及情绪板块，如何通过连接右脑引导左脑工作达到左右脑平衡，建立心理抗压能力，利用两脑互补帮助学习，以及通过日常生活习惯建立情绪联结，并指出父母容易犯的错误和迷思。",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a008"
+      ]
+    },
+    {
+      "name": "讲师专业背景",
+      "definition": "讲师是某心理咨询机构的首席心理辅导兼CEO，本科毕业于某美国大学家庭科学专业，硕士就读于某美国大学临床心理辅导专业，现读临床心理辅导研究博士。过去多年为美国家庭和各领域社会精英提供数千小时心理咨询服务，客户包括医生、金融师、大学教授、律师、社会知名人士、美国联邦政府高级官员，也有学生、夫妻和父母。擅长领域包括焦虑症、抑郁症、儿童心理及亲子教育辅导、婚姻辅导和青年自我认知辅导。",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:xe001"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-9ac9febb42ce-c001:a001",
+      "target": "s-9ac9febb42ce-c001:a002",
+      "kind": "supports",
+      "condition": "当情绪联结没有建立好时",
+      "reason": "前者定义情绪廉洁并指出联结缺失会导致行为问题，后者具体列举网络游戏上瘾、极端行为改变等情绪失联后果，前者为后者提供了原因解释，支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型不适用，调整为 supports。"
+    },
+    {
+      "source": "s-9ac9febb42ce-c001:a001",
+      "target": "s-9ac9febb42ce-c001:a003",
+      "kind": "supports",
+      "condition": "情绪联结状态影响劝导接受度",
+      "reason": "前者定义情绪廉洁，后者说明情绪廉洁建立与否会影响劝导接受度，前者提供了情绪廉洁的基础概念，支持后者关于联结影响接受度的论断。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型不适用，调整为 supports。"
+    },
+    {
+      "source": "s-9ac9febb42ce-c001:a001",
+      "target": "s-9ac9febb42ce-c001:a009",
+      "kind": "supports",
+      "condition": "情绪联结没有建立起来",
+      "reason": "前者定义情绪廉洁并指出联结缺失会导致问题，后者将孩子不听话、不接受批评归因于情绪联结未建立，前者支持后者对这一现象的原因解释。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型不适用，调整为 supports。"
+    },
+    {
+      "source": "s-9ac9febb42ce-c001:a003",
+      "target": "s-9ac9febb42ce-c001:a010",
+      "kind": "association",
+      "condition": "关系亲近程度与情绪联结的类比",
+      "reason": "前者指出情绪廉洁影响劝导接受度，后者以关系亲近程度影响劝导接受度作类比，两者主题相似但不构成直接支持或因果，只能是类比关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 不准确，调整为 association。"
+    },
+    {
+      "source": "s-9ac9febb42ce-c001:a002",
+      "target": "s-9ac9febb42ce-c001:a006",
+      "kind": "supports",
+      "condition": "具体化",
+      "reason": "前者指出情绪廉洁缺失导致网络游戏上瘾、极端行为等问题，后者详细列举了青少年焦虑抑郁、网络成瘾、校园霸凌和极端行为等趋势，前者为这些趋势提供了归因解释，支持了后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9ac9febb42ce-c001:a006",
+      "target": "s-9ac9febb42ce-c001:a006",
+      "kind": "supports",
+      "condition": "重复内容",
+      "reason": "k00011 与 k00006 内容几乎相同，重复强调青少年问题趋势。"
+    },
+    {
+      "source": "s-9ac9febb42ce-c001:a004",
+      "target": "s-9ac9febb42ce-c001:a002",
+      "kind": "example_of",
+      "condition": "案例展示",
+      "reason": "后者陈述情绪廉洁缺失导致行为问题，前者14岁女孩堕胎案例被用来展示青少年行为问题与情绪联结缺失的关联，是后者的具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9ac9febb42ce-c001:a005",
+      "target": "s-9ac9febb42ce-c001:a006",
+      "kind": "example_of",
+      "condition": "案例展示",
+      "reason": "后者列举青少年问题趋势包括校园霸凌严重问题，前者校园霸凌导致自杀未遂案例具体展示了该问题的严重性，是后者所述趋势的例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "理解情绪",
+      "when": "本课内容全部围绕情绪联结展开，属于理解情绪模块内部的概念阐述和案例展示。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a001",
+        "s-9ac9febb42ce-c001:a002",
+        "s-9ac9febb42ce-c001:a003",
+        "s-9ac9febb42ce-c001:a004",
+        "s-9ac9febb42ce-c001:a005",
+        "s-9ac9febb42ce-c001:a006",
+        "s-9ac9febb42ce-c001:a007",
+        "s-9ac9febb42ce-c001:a008",
+        "s-9ac9febb42ce-c001:a009",
+        "s-9ac9febb42ce-c001:a010",
+        "s-9ac9febb42ce-c001:xe001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "scope": "within_module",
+      "source_limits": []
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a006"
+      ],
+      "reason": "两条记录内容几乎完全一致，都是关于青少年问题趋势与年龄特征的描述，无实质差异。"
+    }
+  ],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "4ce816755ece20a6591ada8f3a65d7aefcbcd75aff469a06903b9e24d0210f89",
+  "point_units": [
+    {
+      "id": "s-9ac9febb42ce-c001:u0001",
+      "kind": "observation",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a006"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-9ac9febb42ce-c001:u0002",
+      "kind": "observation",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a006"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-9ac9febb42ce-c001:u0003",
+      "kind": "observation",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a006"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-9ac9febb42ce-c001:u0004",
+      "kind": "case",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a005"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-9ac9febb42ce-c001:u0005",
+      "kind": "observation",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a006"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-9ac9febb42ce-c001:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a004"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-9ac9febb42ce-c001:u0007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a002"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-9ac9febb42ce-c001:u0008",
+      "kind": "definition",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a001"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-9ac9febb42ce-c001:u0009",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a007"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-9ac9febb42ce-c001:u0010",
+      "kind": "observation",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a009"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-9ac9febb42ce-c001:u0011",
+      "kind": "analogy",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a010"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-9ac9febb42ce-c001:u0012",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a003"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-9ac9febb42ce-c001:u0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-9ac9febb42ce-c001:a008"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

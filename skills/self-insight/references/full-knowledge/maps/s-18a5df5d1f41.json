@@ -1,0 +1,503 @@
+{
+  "concepts": [
+    {
+      "name": "问错问题的后果",
+      "definition": "问错问题会带来一系列负面后果，包括失去孩子信任、传递错误信息、和孩子失联、让孩子对人不感兴趣、导致孩子上瘾。",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a001",
+        "s-18a5df5d1f41-c001:a006",
+        "s-18a5df5d1f41-c001:a009",
+        "s-18a5df5d1f41-c001:a015",
+        "s-18a5df5d1f41-c001:a018"
+      ]
+    },
+    {
+      "name": "失去孩子信任",
+      "definition": "孩子认为父母只关心成绩，不关心自己，觉得父母的爱是有条件的，从而不信任父母。",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a001",
+        "s-18a5df5d1f41-c001:a002",
+        "s-18a5df5d1f41-c001:a003",
+        "s-18a5df5d1f41-c001:a004",
+        "s-18a5df5d1f41-c001:a005"
+      ]
+    },
+    {
+      "name": "传递错误信息",
+      "definition": "孩子通过父母的问题判断父母的价值观和重视的事物，问错问题会传递错误信息。",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a006",
+        "s-18a5df5d1f41-c001:a007",
+        "s-18a5df5d1f41-c001:a008"
+      ]
+    },
+    {
+      "name": "和孩子失联",
+      "definition": "问错问题会导致和孩子失联，特别是情绪失联，孩子对父母的问题不感兴趣，对父母本人也不感兴趣。",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a009",
+        "s-18a5df5d1f41-c001:a010",
+        "s-18a5df5d1f41-c001:a011",
+        "s-18a5df5d1f41-c001:a014"
+      ]
+    },
+    {
+      "name": "让孩子对人不感兴趣",
+      "definition": "问错问题会让孩子对人不感兴趣，即non-relational，对人际关系和与人打交道不感兴趣甚至恐惧。",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a015",
+        "s-18a5df5d1f41-c001:a017"
+      ]
+    },
+    {
+      "name": "孩子上瘾",
+      "definition": "问错问题可能导致孩子上瘾，因为失联让孩子对人不感兴趣甚至厌恶，孩子会寻找其他东西进行联系，如游戏、网络。",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a018",
+        "s-18a5df5d1f41-c001:a019",
+        "s-18a5df5d1f41-c001:a021",
+        "s-18a5df5d1f41-c001:a022"
+      ]
+    },
+    {
+      "name": "无聊问题与有趣问题",
+      "definition": "无聊问题是寻求信息的问题，如“今天学校怎么样？”；有趣的问题能产生连接，应占大部分。",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:r001",
+        "s-18a5df5d1f41-c001:a019",
+        "s-18a5df5d1f41-c001:a020"
+      ]
+    },
+    {
+      "name": "好的提问",
+      "definition": "好的问题让人感到被了解，回答问题让人感到在介绍自己，能产生连接。",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a012",
+        "s-18a5df5d1f41-c001:a013"
+      ]
+    },
+    {
+      "name": "relational特质",
+      "definition": "relational的人对人好奇、感兴趣，喜欢与人打交道，更容易成功，更有同理心，能迅速与人成为朋友。",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a015",
+        "s-18a5df5d1f41-c001:a016"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-18a5df5d1f41-c001:a001",
+      "target": "s-18a5df5d1f41-c001:a002",
+      "kind": "association",
+      "condition": "",
+      "reason": "“问错问题的第一个后果：失去孩子信任”与“孩子认为父母只关心成绩的案例”相关，但案例应是概念的例证，原方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向错误，改为关联。"
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a001",
+      "target": "s-18a5df5d1f41-c001:a003",
+      "kind": "supports",
+      "condition": "孩子指出父母只问成绩和考试",
+      "reason": "a003中孩子指出父母只问成绩，从不问其他方面，支持a001中孩子认为父母只关心成绩的观点。"
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a001",
+      "target": "s-18a5df5d1f41-c001:a004",
+      "kind": "causes",
+      "condition": "当父母问的问题与孩子期望的问题存在差距时",
+      "reason": "a004指出差距导致孩子不相信父母真的爱自己，不信任父母，是a001失去信任的具体机制。"
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a001",
+      "target": "s-18a5df5d1f41-c001:a005",
+      "kind": "supports",
+      "condition": "孩子认为父母的爱是有条件的",
+      "reason": "a005进一步解释孩子认为父母只爱成绩好的自己，支持a001中失去信任的原因。"
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a006",
+      "target": "s-18a5df5d1f41-c001:a007",
+      "kind": "example_of",
+      "condition": "当父母整天问冷不冷、吃得好不好时",
+      "reason": "a007举例说明问题反映价值观，支持a006中传递错误信息的观点。"
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a006",
+      "target": "s-18a5df5d1f41-c001:a008",
+      "kind": "example_of",
+      "condition": "当十个问题中有七个关于成绩时",
+      "reason": "a008举例说明成绩相关问题传递错误信息，支持a006。"
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a009",
+      "target": "s-18a5df5d1f41-c001:a010",
+      "kind": "example_of",
+      "condition": "当父母问“你今天还好吗？”等无效问题时",
+      "reason": "a010举例说明无效问题导致失联，支持a009。"
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a009",
+      "target": "s-18a5df5d1f41-c001:a011",
+      "kind": "causes",
+      "condition": "当父母和孩子失联时",
+      "reason": "a011指出失联导致孩子对父母的问题不感兴趣，是a009失联的后果。"
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a009",
+      "target": "s-18a5df5d1f41-c001:a014",
+      "kind": "association",
+      "condition": "",
+      "reason": "“问错问题的第三个后果：和孩子失联”与“糟糕的问题导致失联”都涉及失联，但后者具体解释前者，原方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向错误，改为关联。"
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a015",
+      "target": "s-18a5df5d1f41-c001:a017",
+      "kind": "example_of",
+      "condition": "当父母利用机会教育孩子时",
+      "reason": "a017举例说明问题没问好导致孩子讨厌交谈，支持a015中让孩子对人不感兴趣的观点。"
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a018",
+      "target": "s-18a5df5d1f41-c001:a019",
+      "kind": "association",
+      "condition": "",
+      "reason": "“问错问题的第五个后果：孩子上瘾”与“游戏中的提问与父母提问的对比”相关，后者解释前者上瘾的原因，原方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向错误，改为关联。"
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a018",
+      "target": "s-18a5df5d1f41-c001:a021",
+      "kind": "association",
+      "condition": "",
+      "reason": "“问错问题的第五个后果：孩子上瘾”与“网络世界吸引孩子”均涉及孩子被网络吸引，但因果方向应为网络吸引导致上瘾，原边因果类型无效且方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原causes类型无效，改为关联。"
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a018",
+      "target": "s-18a5df5d1f41-c001:a022",
+      "kind": "association",
+      "condition": "",
+      "reason": "“问错问题的第五个后果：孩子上瘾”与“预防孩子上瘾的建议”属于同一议题，后者为预防措施而非对前者的支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "改为关联。"
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a012",
+      "target": "s-18a5df5d1f41-c001:a013",
+      "kind": "example_of",
+      "condition": "当问“你从哪儿来？”等问题时",
+      "reason": "a013举例说明好的提问让人感到被了解，支持a012。"
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a015",
+      "target": "s-18a5df5d1f41-c001:a016",
+      "kind": "example_of",
+      "condition": "当讲师自称relational时",
+      "reason": "a016提供讲师个人relational特质案例，支持a015中relational孩子的优势。"
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a019",
+      "target": "s-18a5df5d1f41-c001:a020",
+      "kind": "supports",
+      "condition": "当提问应包含有趣问题时",
+      "reason": "“游戏中的提问与父母提问的对比”指出提问不能只有无聊问题，大部分应是有趣问题，支持“提问应包含有趣的问题”的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-18a5df5d1f41-c001:a019",
+      "target": "s-18a5df5d1f41-c001:r001",
+      "kind": "association",
+      "condition": "",
+      "reason": "“游戏中的提问与父母提问的对比”与“无聊问题与有趣问题的区分”相关，后者提供定义支持前者，原方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向错误，改为关联。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "依赖与失控",
+      "when": "当问错问题导致孩子失联，进而对人不感兴趣时，孩子可能转向游戏、网络上瘾。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a009",
+        "s-18a5df5d1f41-c001:a015",
+        "s-18a5df5d1f41-c001:a018"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "父母需要学习如何提出有趣的问题以建立连接，避免问错问题的后果。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a012",
+        "s-18a5df5d1f41-c001:a020"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-18a5df5d1f41-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0002",
+      "kind": "case",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0003",
+      "kind": "case",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a003"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a004"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a005"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a006"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0007",
+      "kind": "example",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a007"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0008",
+      "kind": "example",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a008"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a009"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0010",
+      "kind": "example",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a010"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a011"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a012"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0013",
+      "kind": "example",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a013"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a014"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a015"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0016",
+      "kind": "case",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a016"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a017"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a018"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a019"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a020",
+        "s-18a5df5d1f41-c001:r001"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a021"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-18a5df5d1f41-c001:u0022",
+      "kind": "recommendation",
+      "atom_ids": [
+        "s-18a5df5d1f41-c001:a022"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

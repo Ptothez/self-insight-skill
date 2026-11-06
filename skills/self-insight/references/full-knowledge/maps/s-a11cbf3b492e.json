@@ -1,0 +1,626 @@
+{
+  "concepts": [
+    {
+      "name": "右脑功能",
+      "definition": "负责感觉、视觉、想象力、音乐、情感、整体思维和情绪，如孩子的大哭、大笑、尖叫等。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a002"
+      ]
+    },
+    {
+      "name": "左脑功能",
+      "definition": "负责语言、逻辑、讲道理、时间观念、抽象思考和准确性判断，如用词是否准确。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a003"
+      ]
+    },
+    {
+      "name": "大脑发育顺序",
+      "definition": "右脑先发育，左脑七岁后快速发育；右脑从出生到七岁飞速发展，左脑七岁以后快速发育，负责抽象逻辑等能力。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a004"
+      ]
+    },
+    {
+      "name": "幼儿时间概念缺失",
+      "definition": "三至五岁孩子的大脑不具备理解“20分钟”等时间概念的能力，对他们来说，五秒钟、一分钟、十分钟、50分钟、100分钟没有区别。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a005"
+      ]
+    },
+    {
+      "name": "幼儿注意力特点",
+      "definition": "幼儿右脑发育好，对颜色和声音敏感，因此玩具通常五颜六色并带有声音，以吸引孩子注意力。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a006"
+      ]
+    },
+    {
+      "name": "讲道理对幼儿无效",
+      "definition": "父母给孩子讲道理时，孩子听不进去，因为右脑无法处理左脑负责的逻辑和抽象思考。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a008"
+      ]
+    },
+    {
+      "name": "大脑成熟年龄",
+      "definition": "人的大脑在25岁之前都未发育成熟，18岁成年但大脑仍处于逐步发育定型阶段。25岁后大脑定型成熟。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a009"
+      ]
+    },
+    {
+      "name": "七岁后左脑发育未成熟",
+      "definition": "七岁后左脑开始发育，但孩子能力是逐步跟上的，不能因为孩子超过七岁就要求其完全具备专注力或理解抽象概念。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a010"
+      ]
+    },
+    {
+      "name": "右脑比喻",
+      "definition": "右脑被比喻为带孩子去公园玩，铺桌巾在草地上，看蓝天白云、听音乐、放风筝、躺在草地上，代表放松、情感和感觉体验。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a012"
+      ]
+    },
+    {
+      "name": "左脑比喻",
+      "definition": "左脑被比喻为在公司上班的格子间，井然有序，有固定时间开会、见客户、做方案、汇报、上下班和坐地铁，代表逻辑、秩序和时间管理。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a013"
+      ]
+    },
+    {
+      "name": "婴儿哭表达需求",
+      "definition": "婴儿出生后右脑已高速发展，因此通过哭来表达饥饿、寒冷、不舒服、找不到父母或不高兴等需求。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:r001"
+      ]
+    },
+    {
+      "name": "幼儿想象力充足",
+      "definition": "幼儿时期想象力特别充足，这是右脑发育良好的表现。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:r002"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-a11cbf3b492e-c001:a004",
+      "target": "s-a11cbf3b492e-c001:a005",
+      "kind": "supports",
+      "condition": "左脑七岁后快速发育，时间概念需左脑抽象逻辑",
+      "reason": "a004指出左脑七岁后才快速发育，a005指出三至五岁无法理解时间概念，左脑发育滞后支持该结论",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原causes改为supports"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a004",
+      "target": "s-a11cbf3b492e-c001:a008",
+      "kind": "supports",
+      "condition": "左脑七岁后快速发育，讲道理需左脑逻辑",
+      "reason": "a004指出左脑七岁后才快速发育，a008指出讲道理对幼儿无效，左脑发育滞后支持该结论",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原causes改为supports"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a004",
+      "target": "s-a11cbf3b492e-c001:a006",
+      "kind": "causes",
+      "condition": "幼儿右脑发育好，对颜色和声音敏感",
+      "reason": "右脑负责感觉和视觉，发育好导致幼儿被颜色和声音吸引。"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a006",
+      "target": "s-a11cbf3b492e-c001:a007",
+      "kind": "supports",
+      "condition": "玩具五颜六色带铃铛吸引孩子",
+      "reason": "孩子被颜色和声音吸引，所以能追着球跑很久，说明有专注力。"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a004",
+      "target": "s-a11cbf3b492e-c001:a010",
+      "kind": "supports",
+      "condition": "七岁后左脑开始发育但未成熟",
+      "reason": "左脑七岁后快速发育，但能力逐步跟上，所以不能要求七岁后孩子完全具备抽象能力。"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a004",
+      "target": "s-a11cbf3b492e-c001:r001",
+      "kind": "causes",
+      "condition": "婴儿出生后右脑已高速发展",
+      "reason": "右脑负责情绪和感觉，所以婴儿用哭表达需求。"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a004",
+      "target": "s-a11cbf3b492e-c001:r002",
+      "kind": "causes",
+      "condition": "幼儿时期右脑发育良好",
+      "reason": "右脑负责想象力，所以幼儿想象力充足。"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a002",
+      "target": "s-a11cbf3b492e-c001:a012",
+      "kind": "example_of",
+      "condition": "右脑功能比喻",
+      "reason": "公园玩耍比喻代表右脑的放松、情感和感觉体验。"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a003",
+      "target": "s-a11cbf3b492e-c001:a013",
+      "kind": "example_of",
+      "condition": "左脑功能比喻",
+      "reason": "办公室格子间比喻代表左脑的逻辑、秩序和时间管理。"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a001",
+      "target": "s-a11cbf3b492e-c001:a005",
+      "kind": "example_of",
+      "condition": "三岁半孩子被要求时间观念体现幼儿无法理解时间概念",
+      "reason": "a001案例中三岁半孩子被要求理解时间概念，失败并引发冲突，体现a005所述幼儿无法理解时间概念",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a001",
+      "target": "s-a11cbf3b492e-c001:a008",
+      "kind": "example_of",
+      "condition": "三岁半孩子被要求时间观念体现讲道理对幼儿无效",
+      "reason": "a001案例中妈妈反复提醒时间，孩子无法理解，导致冲突，体现a008讲道理对幼儿无效",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a011",
+      "target": "s-a11cbf3b492e-c001:a004",
+      "kind": "applies_to",
+      "condition": "了解大脑发育后引导专注力",
+      "reason": "通过大脑属性训练引导孩子，需要先了解左右脑发育规律。"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:v2-n001",
+      "target": "s-a11cbf3b492e-c001:a002",
+      "kind": "complements",
+      "condition": "当需要理解右脑的具体职责时。",
+      "reason": "source 指出左右脑分别负责不同类型功能但未具体说明；候选 a002 补充了右脑负责感觉、视觉、想象力、音乐、情感、整体思维和情绪等具体功能。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a002",
+      "target": "s-a11cbf3b492e-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解右脑的具体职责时。",
+      "reason": "source 指出左右脑分别负责不同类型功能但未具体说明；候选 a002 补充了右脑负责感觉、视觉、想象力、音乐、情感、整体思维和情绪等具体功能。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:v2-n001",
+      "target": "s-a11cbf3b492e-c001:a003",
+      "kind": "complements",
+      "condition": "当需要理解左脑的具体职责时。",
+      "reason": "source 指出左右脑分别负责不同类型功能但未具体说明；候选 a003 补充了左脑负责语言、逻辑、讲道理、时间观念、抽象思考和准确性判断等具体功能。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a003",
+      "target": "s-a11cbf3b492e-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解左脑的具体职责时。",
+      "reason": "source 指出左右脑分别负责不同类型功能但未具体说明；候选 a003 补充了左脑负责语言、逻辑、讲道理、时间观念、抽象思考和准确性判断等具体功能。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:v2-n001",
+      "target": "s-a11cbf3b492e-c001:a004",
+      "kind": "complements",
+      "condition": "当需要理解左右脑发育的时间顺序时。",
+      "reason": "source 提出左右脑区分是理解后续左右脑发育的前提；候选 a004 补充了右脑先发育、左脑七岁后快速发育的时间顺序。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a004",
+      "target": "s-a11cbf3b492e-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解左右脑发育的时间顺序时。",
+      "reason": "source 提出左右脑区分是理解后续左右脑发育的前提；候选 a004 补充了右脑先发育、左脑七岁后快速发育的时间顺序。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:v2-n001",
+      "target": "s-a11cbf3b492e-c001:a010",
+      "kind": "complements",
+      "condition": "当需要理解左脑发育的阶段性特点时。",
+      "reason": "source 提出左右脑区分是理解左右脑发育的前提；候选 a010 补充了七岁后左脑开始发育但未成熟的具体特点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a010",
+      "target": "s-a11cbf3b492e-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解左脑发育的阶段性特点时。",
+      "reason": "source 提出左右脑区分是理解左右脑发育的前提；候选 a010 补充了七岁后左脑开始发育但未成熟的具体特点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:v2-n001",
+      "target": "s-a11cbf3b492e-c001:a011",
+      "kind": "prerequisite",
+      "condition": "当应用左右脑知识引导孩子专注力时。",
+      "reason": "source 指出了解左右脑区分是理解后续左右脑发育和功能的前提；候选 a011 提出通过大脑属性（左右脑职责）引导孩子专注力，需要先了解左右脑区分，故 source 是 a011 的前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a011",
+      "target": "s-a11cbf3b492e-c001:v2-n001",
+      "kind": "requires",
+      "condition": "当应用左右脑知识引导孩子专注力时。",
+      "reason": "source 指出了解左右脑区分是理解后续左右脑发育和功能的前提；候选 a011 提出通过大脑属性（左右脑职责）引导孩子专注力，需要先了解左右脑区分，故 source 是 a011 的前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:v2-n001",
+      "target": "s-a11cbf3b492e-c001:a008",
+      "kind": "complements",
+      "condition": "当说明左右脑功能差异导致的行为现象时。",
+      "reason": "source 提出左右脑负责不同功能；候选 a008 指出讲道理对幼儿无效，因为幼儿右脑发达而左脑逻辑未发育，补充了左右脑功能差异在育儿中的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a008",
+      "target": "s-a11cbf3b492e-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当说明左右脑功能差异导致的行为现象时。",
+      "reason": "source 提出左右脑负责不同功能；候选 a008 指出讲道理对幼儿无效，因为幼儿右脑发达而左脑逻辑未发育，补充了左右脑功能差异在育儿中的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:v2-n001",
+      "target": "s-a11cbf3b492e-c001:a006",
+      "kind": "complements",
+      "condition": "当说明右脑功能在幼儿行为上的体现时。",
+      "reason": "source 提出左右脑功能不同；候选 a006 指出幼儿右脑发育好，对颜色和声音敏感，补充了右脑功能的具体行为表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a006",
+      "target": "s-a11cbf3b492e-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当说明右脑功能在幼儿行为上的体现时。",
+      "reason": "source 提出左右脑功能不同；候选 a006 指出幼儿右脑发育好，对颜色和声音敏感，补充了右脑功能的具体行为表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:v2-n001",
+      "target": "s-a11cbf3b492e-c001:r001",
+      "kind": "complements",
+      "condition": "当说明右脑发育与婴儿行为关联时。",
+      "reason": "source 提出左右脑区分；候选 r001 解释婴儿用哭表达需求是因为右脑已高速发展，补充了右脑发育在婴儿期的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:r001",
+      "target": "s-a11cbf3b492e-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当说明右脑发育与婴儿行为关联时。",
+      "reason": "source 提出左右脑区分；候选 r001 解释婴儿用哭表达需求是因为右脑已高速发展，补充了右脑发育在婴儿期的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:v2-n001",
+      "target": "s-a11cbf3b492e-c001:r002",
+      "kind": "complements",
+      "condition": "当说明右脑发育对幼儿能力的影响时。",
+      "reason": "source 提出左右脑功能区分；候选 r002 指出幼儿想象力充足是右脑发育良好的表现，补充了右脑功能的具体体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:r002",
+      "target": "s-a11cbf3b492e-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当说明右脑发育对幼儿能力的影响时。",
+      "reason": "source 提出左右脑功能区分；候选 r002 指出幼儿想象力充足是右脑发育良好的表现，补充了右脑功能的具体体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:v2-n001",
+      "target": "s-a11cbf3b492e-c001:a012",
+      "kind": "association",
+      "condition": "当使用比喻辅助理解右脑特点时。",
+      "reason": "source 提出左右脑功能不同；候选 a012 用公园玩耍比喻右脑的放松、情感和感觉体验，与右脑功能相关，但属于形象化辅助，无直接逻辑补充，故为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a012",
+      "target": "s-a11cbf3b492e-c001:v2-n001",
+      "kind": "association",
+      "condition": "当使用比喻辅助理解右脑特点时。",
+      "reason": "source 提出左右脑功能不同；候选 a012 用公园玩耍比喻右脑的放松、情感和感觉体验，与右脑功能相关，但属于形象化辅助，无直接逻辑补充，故为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:v2-n001",
+      "target": "s-a11cbf3b492e-c001:a013",
+      "kind": "association",
+      "condition": "当使用比喻辅助理解左脑特点时。",
+      "reason": "source 提出左右脑功能不同；候选 a013 用办公室格子间比喻左脑的逻辑、秩序和时间管理，与左脑功能相关，但属于形象化辅助，无直接逻辑补充，故为 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a11cbf3b492e-c001:a013",
+      "target": "s-a11cbf3b492e-c001:v2-n001",
+      "kind": "association",
+      "condition": "当使用比喻辅助理解左脑特点时。",
+      "reason": "source 提出左右脑功能不同；候选 a013 用办公室格子间比喻左脑的逻辑、秩序和时间管理，与左脑功能相关，但属于形象化辅助，无直接逻辑补充，故为 association。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "婴儿和幼儿时期，右脑先发育，情绪表达和感觉体验占主导",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a004",
+        "s-a11cbf3b492e-c001:r001",
+        "s-a11cbf3b492e-c001:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "内在能力",
+      "when": "七岁后左脑快速发育，逻辑、语言、时间观念等能力逐步发展",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a004",
+        "s-a11cbf3b492e-c001:a005",
+        "s-a11cbf3b492e-c001:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "专注力",
+      "when": "幼儿右脑发育好，对颜色和声音敏感，可借此吸引专注力",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a004",
+        "s-a11cbf3b492e-c001:a006",
+        "s-a11cbf3b492e-c001:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "幼儿期讲道理无效，因为左脑未发育，需要其他方式设界限",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a004",
+        "s-a11cbf3b492e-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-a11cbf3b492e-c001:u001",
+      "kind": "case",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-a11cbf3b492e-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a002"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-a11cbf3b492e-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a003"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-a11cbf3b492e-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a004"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-a11cbf3b492e-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a005"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-a11cbf3b492e-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a006"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-a11cbf3b492e-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a007"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-a11cbf3b492e-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a008"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-a11cbf3b492e-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a009"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-a11cbf3b492e-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a010"
+      ],
+      "blocks": [
+        "b00019",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-a11cbf3b492e-c001:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a011"
+      ],
+      "blocks": [
+        "b00008",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-a11cbf3b492e-c001:u012",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a012"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-a11cbf3b492e-c001:u013",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:a013"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-a11cbf3b492e-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:r001"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-a11cbf3b492e-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:r002"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-a11cbf3b492e-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "大脑分为左脑和右脑",
+      "atom_ids": [
+        "s-a11cbf3b492e-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a11cbf3b492e",
+          "blocks": [
+            "b00006"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "definition"
+    }
+  ]
+}

@@ -1,0 +1,1979 @@
+{
+  "concepts": [
+    {
+      "name": "界限",
+      "definition": "个人选择接受或拒绝爱的权利，需要力量和认知；设立界限不需要对方同意或理解，但必须合理；界限要具体，并告知对方你要什么及后果。",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a001",
+        "s-786f7d089bf6-c001:a006",
+        "s-786f7d089bf6-c001:a008",
+        "s-786f7d089bf6-c001:a013"
+      ]
+    },
+    {
+      "name": "力量问题",
+      "definition": "不敢立界限的根本原因不是不知道方法，而是缺乏力量，源于过去伤害、恐惧、人设问题，需要医治伤害、拿回力量。",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a016",
+        "s-786f7d089bf6-c002:a001",
+        "s-786f7d089bf6-c002:a020"
+      ]
+    },
+    {
+      "name": "道德绑架与情绪勒索",
+      "definition": "父母或公婆通过引发子女的恐惧、内疚或责任感来推倒界限，常见手段包括疾病要挟、PUA、道德绑架。",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a019",
+        "s-786f7d089bf6-c002:a003",
+        "s-786f7d089bf6-c002:a009",
+        "s-786f7d089bf6-c002:r001"
+      ]
+    },
+    {
+      "name": "内在声音",
+      "definition": "妈妈的声音内化，表现为需要用让父母满意的行为来避免被指责没有良心，做到够好才能避免PUA和责骂。",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a025"
+      ]
+    },
+    {
+      "name": "父母本相",
+      "definition": "父母真实的样子，可能包括不负责任、自私、懦弱等丑陋面；接受父母本相是立界限的前提，但面对真相很痛苦。",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a030",
+        "s-786f7d089bf6-c002:a031"
+      ]
+    },
+    {
+      "name": "错误内疚",
+      "definition": "基于错误前提的内疚，如认为成年子女应为父母生活负责；正确内疚应基于逃避自己真实责任（如对未成年孩子）。",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a015"
+      ]
+    },
+    {
+      "name": "安静战争",
+      "definition": "因屈服、懦弱、该争吵而不争吵造成的伤害，像癌症一样悄悄伤害。",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a023"
+      ]
+    },
+    {
+      "name": "记忆诠释",
+      "definition": "记忆无法抹去，但可以通过提高认知和力量重新诠释，减轻伤害。",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a028",
+        "s-786f7d089bf6-c002:a029"
+      ]
+    },
+    {
+      "name": "财务界限",
+      "definition": "夫妻间关于金钱使用的界限，包括家庭财务、对等给钱、拒绝婚前承诺等。",
+      "atom_ids": [
+        "s-786f7d089bf6-c003:r004",
+        "s-786f7d089bf6-c003:r005",
+        "s-786f7d089bf6-c003:r006"
+      ]
+    },
+    {
+      "name": "角色修复归位",
+      "definition": "家庭角色可以修复归位，但过程极度痛苦，需要勇气和恒心。",
+      "atom_ids": [
+        "s-786f7d089bf6-c003:r003"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-786f7d089bf6-c001:a001",
+      "target": "s-786f7d089bf6-c001:a006",
+      "kind": "supports",
+      "condition": "界限是权利，不需要对方同意或理解",
+      "reason": "a001指出界限是权利，a006进一步说明不需要对方同意或理解，两者一致。"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a006",
+      "target": "s-786f7d089bf6-c001:a008",
+      "kind": "supports",
+      "condition": "界限必须合理",
+      "reason": "与父母立界限不需要对方同意或理解这一主张，与界限的合理性前提（界限不需要对方理解或同意但须合理）共同构成完整条件：后者补充了合理性的前提，支持前者成立。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a006",
+      "target": "s-786f7d089bf6-c001:a007",
+      "kind": "association",
+      "condition": "父母认知达不到时",
+      "reason": "与父母立界限不需要对方同意或理解中提到当对方认知达不到界限要具体，对父母具体界限的示例给出了具体操作（如要求先关心后建议），二者是原则与具体做法的关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原 applies_to 不在允许类型，改为 association。"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a013",
+      "target": "s-786f7d089bf6-c001:a014",
+      "kind": "association",
+      "condition": "用具体后果改变母亲行为",
+      "reason": "立界限要告诉对方你要什么并设定后果这一观点与广州客人用界限改变母亲行为案例之间是实例与概念关系，案例展示了明确告诉母亲后果（少给500元）有效，但原 example_of 方向反了，以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向应反转，案例是概念的实例。"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a016",
+      "target": "s-786f7d089bf6-c002:a001",
+      "kind": "supports",
+      "condition": "学员问题本质是力量问题",
+      "reason": "两者都指出学员问题不是界限问题而是力量问题。"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a017",
+      "target": "s-786f7d089bf6-c002:a002",
+      "kind": "supports",
+      "condition": "与父母立界限最难的原因",
+      "reason": "两者都指出与父母立界限最难是因为伤害和恐惧。"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a018",
+      "target": "s-786f7d089bf6-c002:a003",
+      "kind": "supports",
+      "condition": "银行担保是婚姻破口",
+      "reason": "两者都强调银行担保是婚姻中的大破口，c002:a003进一步说明原因。"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a019",
+      "target": "s-786f7d089bf6-c002:a003",
+      "kind": "supports",
+      "condition": "妈妈通过PUA和道德绑架让女儿担保",
+      "reason": "a019描述被PUA和道德绑架，c002:a003具体到银行担保情境。"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a020",
+      "target": "s-786f7d089bf6-c001:a020",
+      "kind": "duplicate",
+      "condition": "学员后果没给好的原因",
+      "reason": "两条记录内容完全相同，只是id不同。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a004",
+      "target": "s-786f7d089bf6-c002:a005",
+      "kind": "step_of",
+      "condition": "拒绝担保并指出妈妈行为",
+      "reason": "a004给出拒绝担保的回应，a005进一步建议指出妈妈糟糕行为并解除担保。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a006",
+      "target": "s-786f7d089bf6-c002:a020",
+      "kind": "prerequisite",
+      "condition": "提前准备界限需要处理过去伤害",
+      "reason": "a006建议提前准备界限，a020指出不敢立界限是因为过去伤害未处理，因此处理伤害是前提。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a008",
+      "target": "s-786f7d089bf6-c002:a009",
+      "kind": "prerequisite",
+      "condition": "生病时界限感不清晰",
+      "reason": "生病时最容易被越界（生病时界限感不清晰、容易混乱）为父母用疾病要挟子女（如说‘我要高血压了’）提供了心理土壤，前者是后者的先决条件之一。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原 causes 不在允许类型，改为 prerequisite。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a009",
+      "target": "s-786f7d089bf6-c002:a010",
+      "kind": "example_of",
+      "condition": "婆婆用疾病打苦情牌",
+      "reason": "a009描述父母用疾病要挟，a010是婆婆的具体案例。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a011",
+      "target": "s-786f7d089bf6-c002:a012",
+      "kind": "step_of",
+      "condition": "照顾父母时夫妻共同商量底线",
+      "reason": "a011提出三个底线，a012建议夫妻共同商量并一起执行。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a013",
+      "target": "s-786f7d089bf6-c002:a014",
+      "kind": "supports",
+      "condition": "说到做到让婆婆更谨慎",
+      "reason": "a013说子女可以告知底线，a014说婆婆知道子女说到做到会更谨慎。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a015",
+      "target": "s-786f7d089bf6-c002:a016",
+      "kind": "supports",
+      "condition": "中国家庭界限混乱导致错误内疚",
+      "reason": "a015指出错误内疚源于为父母负责，a016描述中国家庭父母孩子界限混乱，互相负责。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a016",
+      "target": "s-786f7d089bf6-c002:a017",
+      "kind": "supports",
+      "condition": "不能把父母当孩子养",
+      "reason": "a016说界限混乱，a017进一步说明不能把父母当孩子养。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a018",
+      "target": "s-786f7d089bf6-c002:a030",
+      "kind": "supports",
+      "condition": "急于改变妈妈源于不接受父母本相",
+      "reason": "a018说需要梳理为什么急于改变妈妈，a030指出狠不下心立界限是因为不接受父母本相。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a019",
+      "target": "s-786f7d089bf6-c002:a021",
+      "kind": "supports",
+      "condition": "翻篇儿无法解决矛盾",
+      "reason": "两者都指出翻篇儿不能真正解决伤害。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a020",
+      "target": "s-786f7d089bf6-c002:a028",
+      "kind": "supports",
+      "condition": "处理过去伤害需要专业帮助",
+      "reason": "a020说需要医治伤害拿回力量，a028说记忆无法抹去需要专业帮助。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a022",
+      "target": "s-786f7d089bf6-c002:a023",
+      "kind": "contrasts",
+      "condition": "忽略越界与安静战争",
+      "reason": "a022说父母相对好时越界被忽略，a023说伤害来自屈服而非争吵，两者形成对比。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a023",
+      "target": "s-786f7d089bf6-c002:a024",
+      "kind": "supports",
+      "condition": "不立界限的代价",
+      "reason": "a023说安静战争造成伤害，a024说不立界限要付代价。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a025",
+      "target": "s-786f7d089bf6-c002:a026",
+      "kind": "supports",
+      "condition": "幸亏有你强化内在声音",
+      "reason": "a025定义内在声音，a026说明幸亏有你不会覆盖反而强化。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a027",
+      "target": "s-786f7d089bf6-c002:a030",
+      "kind": "supports",
+      "condition": "爱不由自己决定，但接受本相是立界限前提",
+      "reason": "a027说爱不由自己决定，a030说狠不下心立界限是因为不接受父母本相。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a028",
+      "target": "s-786f7d089bf6-c002:a029",
+      "kind": "supports",
+      "condition": "记忆如20斤米的比喻",
+      "reason": "a028说记忆可重新诠释，a029用比喻说明力量增强后诠释不同。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a030",
+      "target": "s-786f7d089bf6-c002:a031",
+      "kind": "association",
+      "condition": "面对真相痛苦导致不敢看清",
+      "reason": "狠不下心立界限是因为不接受父母本相与面对真相的痛苦导致不敢看清都描述不愿面对父母真实面目的心理机制，后者解释了前者的原因（因痛苦而不敢看清），但原 causes 方向从前者到后者不成立，以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "两者相互关联，方向不唯一。"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a031",
+      "target": "s-786f7d089bf6-c003:r001",
+      "kind": "supports",
+      "condition": "心理回避机制",
+      "reason": "面对真相的痛苦导致不敢看清（面对父母本相痛苦而回避）为不敢面对真相与心理回避的普遍陈述提供了具体情境支持，后者概括了前者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-786f7d089bf6-c003:r001",
+      "target": "s-786f7d089bf6-c003:r002",
+      "kind": "association",
+      "condition": "汶川地震幸存者回避",
+      "reason": "不敢面对真相与心理回避这一概念与汶川地震幸存者不敢问儿子情况案例之间是实例与概念关系，案例展示了因害怕面对痛苦事实而回避询问，但原 example_of 方向从概念到案例不成立，以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向应反转，案例是概念的实例。"
+    },
+    {
+      "source": "s-786f7d089bf6-c003:r004",
+      "target": "s-786f7d089bf6-c003:r005",
+      "kind": "association",
+      "condition": "对等给父母钱的界限方法",
+      "reason": "与先生立界限：家庭财务界限提出妻子可限制先生拿钱给父母，对等给父母钱的界限方法给出具体对等策略（如妻子也拿同数额钱），后者是前者的实施方法，但原 step_of 方向反了，以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "具体方法应作为原则的步骤，方向相反。"
+    },
+    {
+      "source": "s-786f7d089bf6-c003:r006",
+      "target": "s-786f7d089bf6-c003:r007",
+      "kind": "supports",
+      "condition": "婚后角色改变应调整承诺",
+      "reason": "r006说婚前承诺可拒绝，r007说婚后角色改变应调整承诺。"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n001",
+      "target": "s-786f7d089bf6-c001:a015",
+      "kind": "association",
+      "condition": "source呈现传话情境，候选提供应对方法",
+      "reason": "source描述母亲传坏话导致兄弟姐妹不满；候选提供对传话设立界限的方法，可能适用但无直接逻辑派生，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a015",
+      "target": "s-786f7d089bf6-c001:v2-n001",
+      "kind": "association",
+      "condition": "source呈现传话情境，候选提供应对方法",
+      "reason": "source描述母亲传坏话导致兄弟姐妹不满；候选提供对传话设立界限的方法，可能适用但无直接逻辑派生，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n001",
+      "target": "s-786f7d089bf6-c001:a014",
+      "kind": "association",
+      "condition": "均涉及母亲与子女界限案例，但具体不同",
+      "reason": "source是母亲传坏话案例；候选是广州客人用界限改变母亲行为案例，两者无逻辑从属关系，仅同类型案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a014",
+      "target": "s-786f7d089bf6-c001:v2-n001",
+      "kind": "association",
+      "condition": "均涉及母亲与子女界限案例，但具体不同",
+      "reason": "source是母亲传坏话案例；候选是广州客人用界限改变母亲行为案例，两者无逻辑从属关系，仅同类型案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n001",
+      "target": "s-786f7d089bf6-c001:v2-n003",
+      "kind": "association",
+      "condition": "均涉及母亲与子女问题，但具体内容不同",
+      "reason": "source讲母亲传坏话；候选讲银行担保与PUA，主题部分相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n003",
+      "target": "s-786f7d089bf6-c001:v2-n001",
+      "kind": "association",
+      "condition": "均涉及母亲与子女问题，但具体内容不同",
+      "reason": "source讲母亲传坏话；候选讲银行担保与PUA，主题部分相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n001",
+      "target": "s-786f7d089bf6-c002:a016",
+      "kind": "association",
+      "condition": "均涉及家庭界限，但候选更宏观",
+      "reason": "source是具体案例；候选讨论中国家庭界限混乱现象，可能相关但不确定，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a016",
+      "target": "s-786f7d089bf6-c001:v2-n001",
+      "kind": "association",
+      "condition": "均涉及家庭界限，但候选更宏观",
+      "reason": "source是具体案例；候选讨论中国家庭界限混乱现象，可能相关但不确定，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n001",
+      "target": "s-786f7d089bf6-c003:r005",
+      "kind": "association",
+      "condition": "均涉及家庭金钱界限，但source未提及金钱",
+      "reason": "source讲传话；候选讲给父母对等给钱的界限方法，主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c003:r005",
+      "target": "s-786f7d089bf6-c001:v2-n001",
+      "kind": "association",
+      "condition": "均涉及家庭金钱界限，但source未提及金钱",
+      "reason": "source讲传话；候选讲给父母对等给钱的界限方法，主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n001",
+      "target": "s-786f7d089bf6-c002:r001",
+      "kind": "association",
+      "condition": "均涉及父母与子女界限，但source未提及疾病要挟",
+      "reason": "source讲传坏话；候选讲父母用疾病要挟子女，主题相近但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:r001",
+      "target": "s-786f7d089bf6-c001:v2-n001",
+      "kind": "association",
+      "condition": "均涉及父母与子女界限，但source未提及疾病要挟",
+      "reason": "source讲传坏话；候选讲父母用疾病要挟子女，主题相近但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n001",
+      "target": "s-786f7d089bf6-c003:r008",
+      "kind": "association",
+      "condition": "候选为原生家庭定义，source为具体案例",
+      "reason": "source涉及兄弟姐妹和母亲，候选定义原生家庭，无直接逻辑关系，仅同属家庭话题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c003:r008",
+      "target": "s-786f7d089bf6-c001:v2-n001",
+      "kind": "association",
+      "condition": "候选为原生家庭定义，source为具体案例",
+      "reason": "source涉及兄弟姐妹和母亲，候选定义原生家庭，无直接逻辑关系，仅同属家庭话题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n001",
+      "target": "s-786f7d089bf6-c001:a013",
+      "kind": "association",
+      "condition": "候选提供一般原则，source是需要处理的情境",
+      "reason": "source描述传话情境；候选讲立界限要告诉对方你要什么，可能适用但不明确，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a013",
+      "target": "s-786f7d089bf6-c001:v2-n001",
+      "kind": "association",
+      "condition": "候选提供一般原则，source是需要处理的情境",
+      "reason": "source描述传话情境；候选讲立界限要告诉对方你要什么，可能适用但不明确，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n001",
+      "target": "s-786f7d089bf6-c002:a011",
+      "kind": "association",
+      "condition": "均涉及照顾父母，但source未提及生病",
+      "reason": "source讲母亲传坏话；候选讲生病时照顾父母的底线，主题部分相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a011",
+      "target": "s-786f7d089bf6-c001:v2-n001",
+      "kind": "association",
+      "condition": "均涉及照顾父母，但source未提及生病",
+      "reason": "source讲母亲传坏话；候选讲生病时照顾父母的底线，主题部分相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n001",
+      "target": "s-786f7d089bf6-c001:a012",
+      "kind": "association",
+      "condition": "均涉及立界限代价，但source未提及",
+      "reason": "source讲传话问题；候选讲立界限不会保证心里舒服，主题相近但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a012",
+      "target": "s-786f7d089bf6-c001:v2-n001",
+      "kind": "association",
+      "condition": "均涉及立界限代价，但source未提及",
+      "reason": "source讲传话问题；候选讲立界限不会保证心里舒服，主题相近但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n001",
+      "target": "s-786f7d089bf6-c002:a009",
+      "kind": "association",
+      "condition": "同候选r001",
+      "reason": "候选内容与r001类似，均为父母用疾病要挟，与source无直接逻辑关系，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a009",
+      "target": "s-786f7d089bf6-c001:v2-n001",
+      "kind": "association",
+      "condition": "同候选r001",
+      "reason": "候选内容与r001类似，均为父母用疾病要挟，与source无直接逻辑关系，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n001",
+      "target": "s-786f7d089bf6-c001:a016",
+      "kind": "association",
+      "condition": "均涉及与母亲的问题，但source未提及力量问题",
+      "reason": "source讲母亲传坏话；候选讲学员问题是力量问题，主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a016",
+      "target": "s-786f7d089bf6-c001:v2-n001",
+      "kind": "association",
+      "condition": "均涉及与母亲的问题，但source未提及力量问题",
+      "reason": "source讲母亲传坏话；候选讲学员问题是力量问题，主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n002",
+      "target": "s-786f7d089bf6-c002:a002",
+      "kind": "association",
+      "condition": "内容几乎相同",
+      "reason": "source与候选均讲与父母立界限最难的原因，内容重复，无实质补充，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a002",
+      "target": "s-786f7d089bf6-c001:v2-n002",
+      "kind": "association",
+      "condition": "内容几乎相同",
+      "reason": "source与候选均讲与父母立界限最难的原因，内容重复，无实质补充，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n002",
+      "target": "s-786f7d089bf6-c001:a017",
+      "kind": "association",
+      "condition": "内容几乎相同",
+      "reason": "候选与source内容高度一致，仅措辞略有不同，无实质补充，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a017",
+      "target": "s-786f7d089bf6-c001:v2-n002",
+      "kind": "association",
+      "condition": "内容几乎相同",
+      "reason": "候选与source内容高度一致，仅措辞略有不同，无实质补充，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n002",
+      "target": "s-786f7d089bf6-c002:a020",
+      "kind": "complements",
+      "condition": "source提到伤害和害怕，候选深入解释力量被拿走和潜意识影响",
+      "reason": "source指出伤害和害怕导致不敢发声；候选补充了'力量被拿走'和潜意识牵制的机制，进一步解释不敢立界限的原因，故为互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a020",
+      "target": "s-786f7d089bf6-c001:v2-n002",
+      "kind": "complements",
+      "condition": "source提到伤害和害怕，候选深入解释力量被拿走和潜意识影响",
+      "reason": "source指出伤害和害怕导致不敢发声；候选补充了'力量被拿走'和潜意识牵制的机制，进一步解释不敢立界限的原因，故为互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n002",
+      "target": "s-786f7d089bf6-c001:a010",
+      "kind": "association",
+      "condition": "均涉及伤害后果，但角度不同",
+      "reason": "source讲伤害导致不敢发声；候选讲爱不起来父母是伤害后果，主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a010",
+      "target": "s-786f7d089bf6-c001:v2-n002",
+      "kind": "association",
+      "condition": "均涉及伤害后果，但角度不同",
+      "reason": "source讲伤害导致不敢发声；候选讲爱不起来父母是伤害后果，主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n002",
+      "target": "s-786f7d089bf6-c001:a006",
+      "kind": "association",
+      "condition": "均涉及与父母立界限，但候选讲不需要同意",
+      "reason": "source讲不敢立界限原因；候选讲立界限不需要对方同意，主题相近但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a006",
+      "target": "s-786f7d089bf6-c001:v2-n002",
+      "kind": "association",
+      "condition": "均涉及与父母立界限，但候选讲不需要同意",
+      "reason": "source讲不敢立界限原因；候选讲立界限不需要对方同意，主题相近但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n002",
+      "target": "s-786f7d089bf6-c001:a009",
+      "kind": "association",
+      "condition": "均涉及面对伤害的态度",
+      "reason": "source讲伤害导致害怕；候选讲面对伤害需承认伤害和祝福，主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a009",
+      "target": "s-786f7d089bf6-c001:v2-n002",
+      "kind": "association",
+      "condition": "均涉及面对伤害的态度",
+      "reason": "source讲伤害导致害怕；候选讲面对伤害需承认伤害和祝福，主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n002",
+      "target": "s-786f7d089bf6-c002:a001",
+      "kind": "complements",
+      "condition": "source描述不敢发声，候选明确区分界限问题与力量问题",
+      "reason": "source说不敢理直气壮发声；候选将不敢发声归为力量问题（人设问题），补充了界限问题与力量问题的区分，故为互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a001",
+      "target": "s-786f7d089bf6-c001:v2-n002",
+      "kind": "complements",
+      "condition": "source描述不敢发声，候选明确区分界限问题与力量问题",
+      "reason": "source说不敢理直气壮发声；候选将不敢发声归为力量问题（人设问题），补充了界限问题与力量问题的区分，故为互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n002",
+      "target": "s-786f7d089bf6-c002:a030",
+      "kind": "association",
+      "condition": "均涉及不敢立界限的心理原因，但角度不同",
+      "reason": "source讲伤害和害怕；候选讲不接受父母本相导致狠不下心，主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a030",
+      "target": "s-786f7d089bf6-c001:v2-n002",
+      "kind": "association",
+      "condition": "均涉及不敢立界限的心理原因，但角度不同",
+      "reason": "source讲伤害和害怕；候选讲不接受父母本相导致狠不下心，主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n002",
+      "target": "s-786f7d089bf6-c002:a006",
+      "kind": "association",
+      "condition": "均涉及与父母立界限，但候选讲行动时机",
+      "reason": "source讲原因；候选讲在父母再次越界时立刻立界限，主题相近但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a006",
+      "target": "s-786f7d089bf6-c001:v2-n002",
+      "kind": "association",
+      "condition": "均涉及与父母立界限，但候选讲行动时机",
+      "reason": "source讲原因；候选讲在父母再次越界时立刻立界限，主题相近但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n002",
+      "target": "s-786f7d089bf6-c002:r001",
+      "kind": "association",
+      "condition": "均涉及与父母立界限，但候选讲疾病要挟",
+      "reason": "source未提及疾病要挟；候选讲父母用疾病要挟子女，主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:r001",
+      "target": "s-786f7d089bf6-c001:v2-n002",
+      "kind": "association",
+      "condition": "均涉及与父母立界限，但候选讲疾病要挟",
+      "reason": "source未提及疾病要挟；候选讲父母用疾病要挟子女，主题相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n002",
+      "target": "s-786f7d089bf6-c001:a016",
+      "kind": "complements",
+      "condition": "同候选a001",
+      "reason": "候选内容与a001类似，均为学员问题是力量问题，补充了界限问题与力量问题的区分，故为互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a016",
+      "target": "s-786f7d089bf6-c001:v2-n002",
+      "kind": "complements",
+      "condition": "同候选a001",
+      "reason": "候选内容与a001类似，均为学员问题是力量问题，补充了界限问题与力量问题的区分，故为互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n002",
+      "target": "s-786f7d089bf6-c003:v2-n002",
+      "kind": "association",
+      "condition": "均涉及与父母责任，但候选讲不需要为父母负责",
+      "reason": "source讲不敢立界限；候选讲成年子女不需要为父母负责，主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c003:v2-n002",
+      "target": "s-786f7d089bf6-c001:v2-n002",
+      "kind": "association",
+      "condition": "均涉及与父母责任，但候选讲不需要为父母负责",
+      "reason": "source讲不敢立界限；候选讲成年子女不需要为父母负责，主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n003",
+      "target": "s-786f7d089bf6-c002:a003",
+      "kind": "complements",
+      "condition": "涉及银行担保且母亲施压的情境",
+      "reason": "候选补充了银行担保是破口的原因：妈妈通过PUA、道德绑架、情绪勒索让女儿担保，可能把婚姻搭进去；source仅提醒破口但未解释成因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a003",
+      "target": "s-786f7d089bf6-c001:v2-n003",
+      "kind": "complements",
+      "condition": "涉及银行担保且母亲施压的情境",
+      "reason": "候选补充了银行担保是破口的原因：妈妈通过PUA、道德绑架、情绪勒索让女儿担保，可能把婚姻搭进去；source仅提醒破口但未解释成因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n003",
+      "target": "s-786f7d089bf6-c002:a005",
+      "kind": "complements",
+      "condition": "需要回应母亲并建议解除担保",
+      "reason": "候选提供具体回应方法（指出妈妈糟糕行为）并建议尽快返出担保，补了source未提供的应对步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a005",
+      "target": "s-786f7d089bf6-c001:v2-n003",
+      "kind": "complements",
+      "condition": "需要回应母亲并建议解除担保",
+      "reason": "候选提供具体回应方法（指出妈妈糟糕行为）并建议尽快返出担保，补了source未提供的应对步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n003",
+      "target": "s-786f7d089bf6-c002:a004",
+      "kind": "complements",
+      "condition": "妈妈以哥哥情况要求担保",
+      "reason": "候选提供拒绝担保的具体话术，并指出妈妈转移责任的行为，补了source未给出的操作步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a004",
+      "target": "s-786f7d089bf6-c001:v2-n003",
+      "kind": "complements",
+      "condition": "妈妈以哥哥情况要求担保",
+      "reason": "候选提供拒绝担保的具体话术，并指出妈妈转移责任的行为，补了source未给出的操作步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n003",
+      "target": "s-786f7d089bf6-c001:a019",
+      "kind": "association",
+      "condition": "涉及具体家庭情境",
+      "reason": "候选补充了具体地点“学员”，但source已提及被PUA等，候选未增加实质步骤，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a019",
+      "target": "s-786f7d089bf6-c001:v2-n003",
+      "kind": "association",
+      "condition": "涉及具体家庭情境",
+      "reason": "候选补充了具体地点“学员”，但source已提及被PUA等，候选未增加实质步骤，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:v2-n003",
+      "target": "s-786f7d089bf6-c001:a013",
+      "kind": "association",
+      "condition": "立界限的一般原则",
+      "reason": "候选提出立界限要告诉对方你要什么，是一般原则，source具体涉及担保但未涉及此原则，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a013",
+      "target": "s-786f7d089bf6-c001:v2-n003",
+      "kind": "association",
+      "condition": "立界限的一般原则",
+      "reason": "候选提出立界限要告诉对方你要什么，是一般原则，source具体涉及担保但未涉及此原则，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c003:v2-n001",
+      "target": "s-786f7d089bf6-c001:a011",
+      "kind": "prerequisite",
+      "condition": "丈夫面对父母并考虑立界限时",
+      "reason": "候选指出立界限的前提是自己先做选择，而source明确丈夫可以自己选择以什么方式面对父母，因此source的选择权是候选所述立界限的前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a011",
+      "target": "s-786f7d089bf6-c003:v2-n001",
+      "kind": "requires",
+      "condition": "丈夫面对父母并考虑立界限时",
+      "reason": "候选指出立界限的前提是自己先做选择，而source明确丈夫可以自己选择以什么方式面对父母，因此source的选择权是候选所述立界限的前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c003:v2-n001",
+      "target": "s-786f7d089bf6-c001:a001",
+      "kind": "complements",
+      "condition": "涉及选择权作为界限",
+      "reason": "候选指出“我们有选择接受或拒绝爱的权利，这本身就是一种界限”，source中丈夫选择面对父母是该权利的具体应用，候选补充了权利的一般表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c001:a001",
+      "target": "s-786f7d089bf6-c003:v2-n001",
+      "kind": "complements",
+      "condition": "涉及选择权作为界限",
+      "reason": "候选指出“我们有选择接受或拒绝爱的权利，这本身就是一种界限”，source中丈夫选择面对父母是该权利的具体应用，候选补充了权利的一般表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c003:v2-n001",
+      "target": "s-786f7d089bf6-c002:a012",
+      "kind": "association",
+      "condition": "照顾父母情境",
+      "reason": "候选涉及夫妻一起商量照顾父母的界限，与source丈夫选择面对方式相关但具体到照顾，主题相近但非直接逻辑，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a012",
+      "target": "s-786f7d089bf6-c003:v2-n001",
+      "kind": "association",
+      "condition": "照顾父母情境",
+      "reason": "候选涉及夫妻一起商量照顾父母的界限，与source丈夫选择面对方式相关但具体到照顾，主题相近但非直接逻辑，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c003:v2-n001",
+      "target": "s-786f7d089bf6-c002:a027",
+      "kind": "association",
+      "condition": "涉及对父母情感",
+      "reason": "候选说爱和喜欢不由自己决定，source说可选择面对方式，两者关注不同方面，但都涉及对父母的情感与行为，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a027",
+      "target": "s-786f7d089bf6-c003:v2-n001",
+      "kind": "association",
+      "condition": "涉及对父母情感",
+      "reason": "候选说爱和喜欢不由自己决定，source说可选择面对方式，两者关注不同方面，但都涉及对父母的情感与行为，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c003:v2-n001",
+      "target": "s-786f7d089bf6-c003:v2-n002",
+      "kind": "association",
+      "condition": "成年子女面对父母责任",
+      "reason": "候选说不需为父母负责，source说可以选择面对方式，两者都涉及成年子女与父母界限，但无直接逻辑顺序，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c003:v2-n002",
+      "target": "s-786f7d089bf6-c003:v2-n001",
+      "kind": "association",
+      "condition": "成年子女面对父母责任",
+      "reason": "候选说不需为父母负责，source说可以选择面对方式，两者都涉及成年子女与父母界限，但无直接逻辑顺序，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c003:v2-n002",
+      "target": "s-786f7d089bf6-c002:a015",
+      "kind": "complements",
+      "condition": "子女产生内疚感时",
+      "reason": "候选解释错误内疚来自错误前提“应该为父母负责”，并指出作为成年父母的女儿不应为父母生活负责，与source“无需为父母负责”一致，补充了内疚区分的具体分析。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a015",
+      "target": "s-786f7d089bf6-c003:v2-n002",
+      "kind": "complements",
+      "condition": "子女产生内疚感时",
+      "reason": "候选解释错误内疚来自错误前提“应该为父母负责”，并指出作为成年父母的女儿不应为父母生活负责，与source“无需为父母负责”一致，补充了内疚区分的具体分析。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c003:v2-n002",
+      "target": "s-786f7d089bf6-c002:a016",
+      "kind": "association",
+      "condition": "中国家庭普遍情境",
+      "reason": "候选指出常见问题包括“孩子为父母负责”，与source观点一致但更广泛，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a016",
+      "target": "s-786f7d089bf6-c003:v2-n002",
+      "kind": "association",
+      "condition": "中国家庭普遍情境",
+      "reason": "候选指出常见问题包括“孩子为父母负责”，与source观点一致但更广泛，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c003:v2-n002",
+      "target": "s-786f7d089bf6-c002:a011",
+      "kind": "conditional_difference",
+      "condition": "父母生病需要照顾时 vs 一般情况",
+      "reason": "source说无需为父母负责，候选在父母生病条件下提出仍需承担有限照顾责任，两者不矛盾但适用条件不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a011",
+      "target": "s-786f7d089bf6-c003:v2-n002",
+      "kind": "conditional_difference",
+      "condition": "父母生病需要照顾时 vs 一般情况",
+      "reason": "source说无需为父母负责，候选在父母生病条件下提出仍需承担有限照顾责任，两者不矛盾但适用条件不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c003:v2-n002",
+      "target": "s-786f7d089bf6-c002:a008",
+      "kind": "complements",
+      "condition": "父母生病时子女产生负罪感",
+      "reason": "候选指出生病时错误负罪感源于误以为父母生病是自己的责任，实际不是，这补充了source“无需为父母负责”在生病情境下的应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-786f7d089bf6-c002:a008",
+      "target": "s-786f7d089bf6-c003:v2-n002",
+      "kind": "complements",
+      "condition": "父母生病时子女产生负罪感",
+      "reason": "候选指出生病时错误负罪感源于误以为父母生病是自己的责任，实际不是，这补充了source“无需为父母负责”在生病情境下的应用。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "内在能力",
+      "when": "当个体因过去伤害和恐惧而不敢立界限时，需要先处理内在力量问题。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a016",
+        "s-786f7d089bf6-c002:a001",
+        "s-786f7d089bf6-c002:a020"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "面对父母伤害时，需要承认伤害和祝福，理解爱不起来是伤害后果。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a009",
+        "s-786f7d089bf6-c001:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我认知",
+      "when": "当个体因不接受父母本相或内在声音而无法立界限时，需要自我认知调整。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a018",
+        "s-786f7d089bf6-c002:a025",
+        "s-786f7d089bf6-c002:a030",
+        "s-786f7d089bf6-c002:a031"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "当个体需要重新诠释记忆、增强力量时，需要自我修养。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a028",
+        "s-786f7d089bf6-c002:a029"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "阶段与角色",
+      "when": "当个体需要调整家庭角色或处理婚前承诺时，需要阶段与角色认知。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-786f7d089bf6-c003:r003",
+        "s-786f7d089bf6-c003:r007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a020"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a002"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a003"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a005"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a007"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a013"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a015"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a009",
+        "s-786f7d089bf6-c002:r001"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a010",
+        "s-786f7d089bf6-c002:r002"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a022"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a023"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a024"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a025"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a026"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a027"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a028"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a029"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a030"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a031"
+      ],
+      "reason": "内容完全相同，仅id不同。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a012",
+        "s-786f7d089bf6-c002:a024"
+      ],
+      "description": "a012说立界限不会保证心里舒服，立界限要付代价；a024说不立界限要付代价，立界限可能让关系生疏但不立界限会持续受伤害。两者都提到代价，但角度不同，需要明确代价的具体内容和权衡。",
+      "needed_evidence": "需要更多关于立界限与不立界限的代价对比，以及如何评估哪种代价更可接受。"
+    },
+    {
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a027",
+        "s-786f7d089bf6-c002:a030"
+      ],
+      "description": "a027说爱不由自己决定，即使被伤害仍然爱；a030说狠不下心立界限是因为不接受父母本相。如果爱不由自己决定，那么接受本相是否可能？两者可能存在矛盾。",
+      "needed_evidence": "需要澄清爱与接受本相的关系，以及如何在爱父母的同时接受其丑陋本相。"
+    }
+  ],
+  "path": [
+    {
+      "name": "立界限的主要方法",
+      "steps": [
+        {
+          "action": "认识到界限是自己的权利",
+          "atom_ids": [
+            "s-786f7d089bf6-c001:a001"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "明确自己的选择，围绕选择立界限",
+          "atom_ids": [
+            "s-786f7d089bf6-c001:a011"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "确保界限合理",
+          "atom_ids": [
+            "s-786f7d089bf6-c001:a008"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "告诉对方你要什么，并设定后果",
+          "atom_ids": [
+            "s-786f7d089bf6-c001:a013"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "如果对方认知达不到，界限要具体",
+          "atom_ids": [
+            "s-786f7d089bf6-c001:a006",
+            "s-786f7d089bf6-c001:a007"
+          ],
+          "condition": "父母认知达不到"
+        },
+        {
+          "action": "当越界发生时立刻执行界限和后果",
+          "atom_ids": [
+            "s-786f7d089bf6-c002:a006"
+          ],
+          "condition": "父母再次越界"
+        },
+        {
+          "action": "处理过去伤害，拿回力量",
+          "atom_ids": [
+            "s-786f7d089bf6-c002:a020",
+            "s-786f7d089bf6-c002:a028"
+          ],
+          "condition": "因伤害而不敢立界限"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-786f7d089bf6-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a001"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a002"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a003"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a004"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a005"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a006"
+      ],
+      "blocks": [
+        "b00018",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a008"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a007"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a009"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a010"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a011"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a012"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a020"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a013"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0015",
+      "kind": "case",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a014"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a015"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a016"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0018",
+      "kind": "case",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c001:u0020",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a016",
+        "s-786f7d089bf6-c002:a001"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a017",
+        "s-786f7d089bf6-c002:a002"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a018",
+        "s-786f7d089bf6-c002:a003"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:a019"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a004"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a005"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a006"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a007"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u009",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a008"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u010",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a009",
+        "s-786f7d089bf6-c002:r001"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a010",
+        "s-786f7d089bf6-c002:r002"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a011"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a012"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a013"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u015",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a014"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u016",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a015"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u017",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a016"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u018",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a017"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a018"
+      ],
+      "blocks": [
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u020",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a019"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u021",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a020"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u022",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a021"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u023",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a022"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u024",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a023"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u025",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a024"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u026",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a025"
+      ],
+      "blocks": [
+        "b00075",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u027",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a026"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076",
+        "b00077",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u028",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a027"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u029",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a028"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u030",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a029"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u031",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a030"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c002:u032",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-786f7d089bf6-c002:a031"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c003:u1",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c003:r001"
+      ],
+      "blocks": [
+        "b00084",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c003:u2",
+      "kind": "case",
+      "atom_ids": [
+        "s-786f7d089bf6-c003:r002"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c003:u3",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c003:r003"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c003:u4",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c003:u5",
+      "kind": "method",
+      "atom_ids": [
+        "s-786f7d089bf6-c003:r004"
+      ],
+      "blocks": [
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c003:u6",
+      "kind": "method",
+      "atom_ids": [
+        "s-786f7d089bf6-c003:r005"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c003:u7",
+      "kind": "method",
+      "atom_ids": [
+        "s-786f7d089bf6-c003:r006"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c003:u8",
+      "kind": "method",
+      "atom_ids": [
+        "s-786f7d089bf6-c003:r007"
+      ],
+      "blocks": [
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c003:u9",
+      "kind": "concept",
+      "atom_ids": [
+        "s-786f7d089bf6-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-786f7d089bf6-c003:u10",
+      "kind": "definition",
+      "atom_ids": [
+        "s-786f7d089bf6-c003:r008"
+      ],
+      "blocks": [
+        "b00091"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "台湾客人母亲在兄弟姐妹间传坏话的案例",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-786f7d089bf6",
+          "blocks": [
+            "b00038",
+            "b00039"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "与父母立界限最困难的原因",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-786f7d089bf6",
+          "blocks": [
+            "b00043",
+            "b00044"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "银行担保与母亲PUA的婚姻破口",
+      "atom_ids": [
+        "s-786f7d089bf6-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-786f7d089bf6",
+          "blocks": [
+            "b00044"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "warning"
+    },
+    {
+      "title": "丈夫可以选择如何面对自己的父母",
+      "atom_ids": [
+        "s-786f7d089bf6-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-786f7d089bf6",
+          "blocks": [
+            "b00087"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "你不需要为父母负责",
+      "atom_ids": [
+        "s-786f7d089bf6-c003:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-786f7d089bf6",
+          "blocks": [
+            "b00091"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    }
+  ]
+}

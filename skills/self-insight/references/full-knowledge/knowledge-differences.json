@@ -1,0 +1,378 @@
+[
+  {
+    "source": "legacy:jx-c-04",
+    "target": "s-cff4bee1edb9-c001:a030",
+    "kind": "conditional_difference",
+    "condition": "区别条件：健康、可经营的关系与硬界限/冷漠疏离关系；共同点：均涉及界限与亲密表现。",
+    "reason": "候选描述硬界限个体在亲密关系中疏离，与旧原子限制条件“以界限之名行冷漠疏离之实则不成立”一致，说明“更亲密”并非全称命题。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:jx-r-07",
+    "target": "s-860fef907c60-c001:a013",
+    "kind": "conditional_difference",
+    "condition": "共同适用：普通成人情绪界限场景；旧原子要求对方情绪源于其自身原因、持续无法满足时不负责，且例外是“我方越界或伤害直接导致时先纠正自己”；候选未提持续条件，并将例外限定为“故意伤害”。",
+    "reason": "候选覆盖“每个人对自己情绪负责，不对别人情绪负责”，但例外条件从旧原子“直接导致”变为“故意伤害”，需确认故意与直接导致的关系。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:jx-ca-08",
+    "target": "s-102a37ef1d4f-c001:v2-n001",
+    "kind": "conflict",
+    "condition": "共同适用条件：孩子以自杀威胁；差异待确认：该候选主张回应“你就让他跳”并断言没人敢，而旧原子明确有自杀计划立刻送医、再威胁直接报警，并将真实自杀风险纳入专业干预；一个忽略真实危机，一个要求严肃专业应对。",
+    "reason": "在同样威胁情境下，该候选与旧原子要求的专业干预和安全优先相矛盾。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:jx-ca-09",
+    "target": "s-42df788f956b-c002:a008",
+    "kind": "conditional_difference",
+    "condition": "共同适用条件：孩子完成作业后给予手机使用时间；区别：旧原子在没收失效背景下将“赚回使用时间”作为创造后果，该候选则强调不能将手机时间作为奖励，说明适用性质标签不同（自然后果/创造后果 vs 奖励）。",
+    "reason": "两者表面都涉及给手机时间，但旧原子作为创造后果，该候选特别否定奖励用法，需区分语境。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:jx-c-25",
+    "target": "s-8093f8069121-c002:a001",
+    "kind": "conditional_difference",
+    "condition": "旧原子适用条件：孩子被未经允许触碰或侵害；候选适用条件：老师只是不耐烦、并未伤害孩子。两者不是同一情形：前者必须介入，后者不必对老师小题大做。",
+    "reason": "表面可能冲突：旧原子强调不宜反应过度，候选认为若只是不耐烦不需找老师；但条件不同，候选区分了真正伤害与普通不耐烦，不能用于推翻身体侵犯必须介入。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:jx-c-27",
+    "target": "s-296bebb32928-c002:a029",
+    "kind": "conditional_difference",
+    "condition": "共同适用：家长与老师就孩子在校行为沟通；区别：旧原子适用于孩子被老师越界/侵害或老师失职，家长必须介入；候选适用于老师正常立规矩管理班级，家长不应干涉",
+    "reason": "表面立场不同，但适用条件不同：正常管理不应干涉，侵害失职则必须介入，不构成直接冲突。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:jx-c-27",
+    "target": "s-58f4352dacc2-c002:a003",
+    "kind": "conditional_difference",
+    "condition": "共同适用：成人伤害孩子需要介入；区别：旧原子限定侵害发生在家庭之外，必须介入；候选针对配偶或家人在家庭内伤害，需区分吼叫类型决定是否介入",
+    "reason": "适用场域和介入标准不同，不能直接混用；家庭外更强调立即对质，家庭内需先区分伤害性质。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:jx-c-27",
+    "target": "s-077152d4d314-c002:a022",
+    "kind": "conflict",
+    "condition": "同样条件：孩子被老师打耳光；冲突点：旧原子要求家长对质、必要时报警，候选主张教孩子当场扇回去并警告老师",
+    "reason": "在应对身体侵害的具体动作上有明显分歧：是否教孩子反击，需要进一步确认，不擅自选择哪条。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:gj-c-02",
+    "target": "s-bdb1dac37213-c001:r001",
+    "kind": "conditional_difference",
+    "condition": "区别条件：legacy 指一般管教方向/目的；候选指立界限与即时行为控制场景（如孩子打人时）。",
+    "reason": "表面相反：候选说“管教时才需要控制行为”，与 legacy“管教的目的不是控制”冲突；但 legacy limits 明确不否定即时安全制止，候选的“孩子打人时立刻控制行为”属于即时危险场景，两者条件不同，不构成根本矛盾。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:gj-c-17",
+    "target": "s-82328dbe4849-c001:a001",
+    "kind": "conflict",
+    "condition": "共同适用条件：概述123管教法结构时；但旧原子称“三个结果”，候选称“三个步骤”，概念不一致。",
+    "reason": "冲突：候选将第三个组成部分称为“三个步骤”，且未展开；旧原子明确为“三个结果”。需确认是术语笔误还是内容差异。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:gj-c-17",
+    "target": "s-82328dbe4849-c002:a014",
+    "kind": "conflict",
+    "condition": "共同适用条件：陈述一个目标时；但旧原子目标为“管教前想清楚要他学会什么”，候选目标为“不抓狂”，矛盾。",
+    "reason": "冲突：候选将一个目标定义为“不抓狂”，与旧原子“想清楚要他学会什么”不一致；且候选两个原则只提持续性和恩典，未提给孩子原则。需确认不同来源的版本。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:gj-c-22",
+    "target": "s-e6be4398432a-c001:a011",
+    "kind": "conflict",
+    "condition": "共同适用：管教孩子时，选择直接纠正行为还是建立品性；旧原子明确“纠正行为”，候选明确“建立品性而非纠正行为”，二者路径冲突，需确认所依据的管教框架是否一致。",
+    "reason": "旧原子强调针对具体行为并纠正行为，候选则主张不纠正行为而建立品性，二者在是否直接纠正行为上矛盾。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:gj-a-02",
+    "target": "s-96b55486b26d-c001:a006",
+    "kind": "conditional_difference",
+    "condition": "legacy 适用于没收与行为无因果关系的自然结果伪装；candidate 可能适用于没收与行为有直接关系时强化失去感，但未明确因果关系，需确认行为是否直接关联玩具。",
+    "reason": "候选提供让被没收玩具可见以强化后果的方法，表面与 legacy 相反；需先确认行为与玩具之间的因果联系。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:gj-c-25",
+    "target": "s-d6db075af35f-c001:a001",
+    "kind": "conflict",
+    "condition": "同样针对孩子发脾气需要冷静的场景：旧原子主张父母陪伴或守在不远处；候选描述让孩子独自回房间面壁思过且父母不与其交流。",
+    "reason": "两种做法在同样条件下相反，需明确所采纳的立场。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:sy-ca-04",
+    "target": "s-6b4f071bc2e1-c001:a013",
+    "kind": "conditional_difference",
+    "condition": "区别条件：候选指在年龄可承受范围内让孩子承担自然后果；旧原子案例是超出年龄可承受范围的角色错位责任，两者不矛盾但条件不同。",
+    "reason": "候选强调适龄承担后果促进负责任，而案例恰好是超龄责任导致压力过载，需要区分条件。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:sy-ca-05",
+    "target": "s-42ca5837b22a-c002:a021",
+    "kind": "conditional_difference",
+    "condition": "区别条件：旧原子案例原因是被同学欺负后的怒气；候选是家暴带来的恐惧和怒气，共同点为用暴力游戏发泄，但来源不同。",
+    "reason": "候选同样描述了通过暴力游戏发泄怒气，但情绪来源为家暴而非同学欺负，条件不同。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:qx-c-03",
+    "target": "s-8d52aece2643-c001:v2-n002",
+    "kind": "conflict",
+    "condition": "共同适用：讨论无条件爱与坚持后果/管教的关系；旧原子认为管教是无条件爱的体现，候选认为立界限时行为不表现为无条件的爱，两者在管教是否属于无条件爱表现上存在待确认差异。",
+    "reason": "候选表述可能暗示无条件爱与坚持后果不能同时表现，与旧原子“因无条件的爱才可能按规则管教”存在表面冲突，需要进一步澄清语境。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:qx-c-09",
+    "target": "s-c75b78f0751b-c001:r002",
+    "kind": "conditional_difference",
+    "condition": "两者均适用于日常情绪（非感官超载）情境；旧原子明确排除感官超载导致的崩溃，候选未排除该情境且声称‘每一个情绪’适用。",
+    "reason": "核心定义一致，但候选未包含旧原子关于感官超载不是需要未满足单纯情形的限制，适用条件略有不同。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:qx-c-12",
+    "target": "s-1546a436fe3c-c001:a001",
+    "kind": "conflict",
+    "condition": "两者均在定义抓狂与发脾气的关系；旧原子将发脾气归为抓狂的一种且孩子可控制行为，候选声称抓狂不是指发脾气本身而是无法控制脾气过后的行为。",
+    "reason": "同样在定义抓狂概念时，两种表述互相矛盾，需确认课程体系中的具体分类标准。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:qx-c-12",
+    "target": "s-1546a436fe3c-c001:a002",
+    "kind": "conflict",
+    "condition": "两者均在判断抓狂类型与不说话行为归属；旧原子将不说话归为发脾气表现，候选将不说话归为非发脾气的封闭自己表现。",
+    "reason": "同样涉及不说话行为的分类，旧原子与候选矛盾，待确认分类依据。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:qx-c-14",
+    "target": "s-97714b046b31-c001:a017",
+    "kind": "conflict",
+    "condition": "孩子崩溃后，伤害自己作为第三种结束方式；两者描述其频率",
+    "reason": "旧原子limits称伤害自己为少见但极端的方式，候选称比较极端但不罕见，频率描述存在冲突，需确认。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:qx-c-20",
+    "target": "s-826f6583dcfe-c006:a006",
+    "kind": "conditional_difference",
+    "condition": "共同条件：均涉及杏仁核触发危险信号、身体进入战斗或逃跑状态的正常生理反应；区别条件：旧原子适用于理解孩子焦虑过度的生理机制（对象是孩子），该候选适用于面对攻击性强的他人时自身的正常反应（对象是成人或他人）。",
+    "reason": "核心机制相似，但适用对象和情境不同，且该候选强调正常化（不要责备自己），与旧原子 limits 呼应但角度不同。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:qx-r-02",
+    "target": "s-1814224755a4-c003:a074",
+    "kind": "conflict",
+    "condition": "共同适用条件：长期积累被瞬间刺激引爆导致情绪失控；待确认差异：候选称积累的是情绪，旧原子称积累的是感受并区分由感受引爆情绪，二者在积累对象和机制上不一致。",
+    "reason": "相关但积累对象不同，旧原子明确区分感受与情绪，候选使用情绪积累，故标注冲突。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:qx-ca-08",
+    "target": "s-f8591e3708ce-c001:a022",
+    "kind": "conditional_difference",
+    "condition": "旧原子适用于需要向他人讲清深层情绪时；候选适用于独自觉察内心感受时，二者场景不同，故表面冲突。",
+    "reason": "候选主张在觉察内心感受时不用情绪轮，而旧原子在情绪爆发时使用情绪轮进行分层表达，二者适用时机不同。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:qx-ca-12",
+    "target": "s-1ebe2a2394bb-c003:a005",
+    "kind": "conditional_difference",
+    "condition": "均涉及孩子打自己头行为；旧原子适用于两岁半需求受挫场景，候选未限定年龄、强调观察力度：打得很狠才抓手，不狠则不过度干预。",
+    "reason": "候选增加力度评估和避免强化关注的条件，与旧原子总是先抓手控制身体的做法存在条件差异，需按具体情况区分。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:qx-ca-12",
+    "target": "s-7ba00cf807f6-c002:a023",
+    "kind": "conditional_difference",
+    "condition": "旧原子适用于两岁半需求受挫、需立即阻止自伤的场景；候选适用于两岁多偶发打自己、且行为未造成严重伤害的场景，强调避免过度反应和强化。",
+    "reason": "候选提示一些两岁多打自己行为可能正常，建议冷静表达不喜欢并淡化，而旧原子要求先抓手控制身体，二者适用强度和情境不同，需区分。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:nl-c-08",
+    "target": "s-5c190f739775-c001:v2-n004",
+    "kind": "conditional_difference",
+    "condition": "旧库适用1.5-3岁听不懂道理；新库适用已有一定理解力且道理已反复讲过的孩子，且明确不适用于幼儿未理解因果时。",
+    "reason": "同样主张给后果不讲道理，但适用认知阶段相反：旧库因听不懂所以不讲，新库因已懂讲无益所以不讲。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:nl-c-13",
+    "target": "s-04492c118b9b-c001:a001",
+    "kind": "conflict",
+    "condition": "同样适用于0-1.5岁；旧库将信任列为阶段任务、核心需求为安全；新库将信任列为核心情感需求。",
+    "reason": "二者对0-1.5岁核心情感需求的定义矛盾：旧库为安全，新库为信任；需确认这是术语混用还是不同理论框架。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:nl-r-02",
+    "target": "s-5c190f739775-c001:v2-n004",
+    "kind": "conditional_difference",
+    "condition": "旧原子：婴幼儿听不懂道理，故讲结果不讲道理；候选：孩子已有一定理解力、道理已反复讲过，仍不自律时给后果不讲道理；候选明确不适用于幼儿尚未理解因果时",
+    "reason": "两者都建议'给后果不讲道理'，但旧原子针对听不懂道理的婴幼儿，候选针对听懂了但不自律者，适用条件不同需区分，不能混为同一阶段。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:nl-a-01",
+    "target": "s-5c190f739775-c001:v2-n004",
+    "kind": "conditional_difference",
+    "condition": "旧知识适用于1.5–3岁幼儿，候选适用于已有一定理解力、道理已反复讲过的孩子；候选明确排除'幼儿尚未理解因果'的情形。",
+    "reason": "两者都主张以后果代替讲道理，但适用人群和前提不同：旧知识因幼儿大脑未发育无法理解道德推理，候选因孩子已经听过道理或能理解因果，故为条件差异。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:nl-a-01",
+    "target": "s-a0879c56d0fd-c001:a023",
+    "kind": "conflict",
+    "condition": "旧知识限制中提到约八岁可听懂指示、7–12岁抽象思维；候选声称对八岁孩子讲道理通常无效，孩子会捂耳朵或跑开。",
+    "reason": "候选关于8岁讲道理无效的表述与旧知识'到了约八岁可谈理解'的界限存在待确认差异，需区分'讲道理'与'听懂明确指示'的不同。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:n12-c-21",
+    "target": "s-1929afc637c0-c002:v2-n001",
+    "kind": "conditional_difference",
+    "condition": "旧原子条件为孩子犯错或失败后父母想帮助其成长，未限定错误类型；候选条件为仅适用于非原则性错误，且原则性错误/需立即制止危险行为不适用。共同点均排除会造成伤害的危险错误。",
+    "reason": "候选提供具体操作步骤：鼓励做对、允许非原则性错误、轻松接纳、引导注意力于错误原因，内容与旧原子高度重叠，但候选明确原则性错误不能被鼓励，旧原子未区分原则性错误，适用条件更窄。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:n12-c-21",
+    "target": "s-4ab821b9ec7c-c001:r008",
+    "kind": "conditional_difference",
+    "condition": "旧原子未限定年龄，候选限定为6-12岁阶段；两者均在孩子犯错父母引导成长情境下。年龄条件不同。",
+    "reason": "候选将鼓励犯错限定于6-12岁并给出学校影响原因，旧原子无年龄限制，适用条件不同。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:n12-c-23",
+    "target": "s-b56e515d2595-c001:a006",
+    "kind": "conditional_difference",
+    "condition": "旧原子将‘一次只给一个指令’限定为三岁半以下幼儿；候选讨论八岁左右孩子能听懂简单行为指示并建议一次一个行为指令。两者针对不同年龄段，对同一做法的适用范围边界存在不同描述。",
+    "reason": "候选将一次一个指令的方法扩展到八岁左右孩子，与旧原子明确该做法不跨年龄通用的限制存在张力，需确认年龄边界。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:n12-c-25",
+    "target": "s-b154ed5acc68-c002:a028",
+    "kind": "conditional_difference",
+    "condition": "旧原子区分孩子自己的中心错与父母拿孩子比较两回事；候选是父母拿孩子比较错误做法，主体和条件不同。",
+    "reason": "候选与旧原子刻意区分的情境不同，不能混用：旧原子解释孩子以物质为中心导致自卑，候选是父母比较导致伤害，条件主体不同。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:n12-r-02",
+    "target": "s-5e5c8b761323-c001:a013",
+    "kind": "conditional_difference",
+    "condition": "旧原子条件为判断后续能力为何长不出先看独立是否到位；候选条件为独立是被逼形成保护外壳（被夺走力量）。两者条件不同：前者健康逐步独立，后者不健康强迫独立。",
+    "reason": "表面看似对独立看法相反，实际是对不同独立路径的区分，补充了旧原子限制中“不能强求独立”的机制。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:n12-r-07",
+    "target": "s-9f55090f1cb8-c001:a001",
+    "kind": "conditional_difference",
+    "condition": "旧原子泛指家庭氛围的影响；候选限定在4-8岁孩子沟通的必要条件是安全家庭氛围。条件范围不同：前者全年龄，后者特定年龄段。",
+    "reason": "补充了家庭氛围在特定年龄段的作用，但年龄限定使其不能与旧原子完全等价。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:n12-ca-13",
+    "target": "s-0b4107022c7d-c003:v2-n001",
+    "kind": "conditional_difference",
+    "condition": "区别条件：候选适用于幼儿出现推人等错误且有大人在场，旧原子案例针对大孩子因嫉妒推妹妹；共同点是推人错误需要温和提醒重来一次。",
+    "reason": "候选提供“犯错信号提醒重来一次”的具体操作，但适用年龄不同，需注意区分，不能照搬到所有年龄。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:n12-a-03",
+    "target": "s-4ab821b9ec7c-c001:a025",
+    "kind": "conditional_difference",
+    "condition": "区别条件：候选明确适用于3-5岁，旧原子未限定年龄，但限制提到“小龄孩子”；共同点在于除非孩子寻求帮助，否则不要代劳。",
+    "reason": "候选在特定年龄阶段提供具体指导，与旧原子的一般原则有条件差异。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:zz-c-06",
+    "target": "s-58f4352dacc2-c001:a005",
+    "kind": "conditional_difference",
+    "condition": "区别条件：旧知识明确限定五岁以上适用，候选未明确年龄限制，可能被误用于五岁以下。",
+    "reason": "候选提供相同公式，但缺失年龄限定条件，存在适用差异。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:zz-c-10",
+    "target": "s-6588a200ca2f-c001:a004",
+    "kind": "conditional_difference",
+    "condition": "区别条件：旧知识未限定年龄，候选限定13-18岁，且针对沟通场景。",
+    "reason": "候选提供承认不足在特定年龄沟通中的必要性，与旧知识“愿意先改自己”相关但适用条件不同。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:zz-r-07",
+    "target": "s-9b112f4770a5-c001:a005",
+    "kind": "conditional_difference",
+    "condition": "旧原子适用于长期不安全环境；候选强调偶尔冲突不会破坏安全感，只有长期才会不断刺激杏仁核。区别条件：长期 vs 偶尔。",
+    "reason": "候选补充了旧原子条件中'长期'的边界，强调偶尔冲突无害，避免过度概括。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:zz-ca-02",
+    "target": "s-d6db075af35f-c001:a016",
+    "kind": "conditional_difference",
+    "condition": "legacy针对高压控制型家庭；a016针对放任溺爱型家庭",
+    "reason": "两者都导致孩子自杀未遂，但教养方式相反：一个过度排课，一个完全放纵；说明极端养育条件均可能造成伤害，适用条件不同",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:zz-ca-03",
+    "target": "s-4b61282f0132-c002:a028",
+    "kind": "conditional_difference",
+    "condition": "legacy针对三岁半不理解抽象时间，说到点就关合理但引发哭闹；a028针对已能理解约定的大孩子，剧情快结束时灵活允许看完",
+    "reason": "两者表面相反：legacy要求到点关，a028允许延长；但适用阶段不同，a028不适用于三岁半，否则仍会因不理解原因而冲突",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:zz-ca-03",
+    "target": "s-4b61282f0132-c002:v2-n005",
+    "kind": "conditional_difference",
+    "condition": "a028/v2-n005需要孩子能理解时间约定，三岁半孩子不理解抽象时间",
+    "reason": "提供灵活处理方式但建立在理解基础上，与legacy的低龄前提有区别",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:zw-a-05",
+    "target": "s-826f6583dcfe-c001:a029",
+    "kind": "conditional_difference",
+    "condition": "共同适用条件：遇到言语冒犯；区别条件：legacy 对陌生垃圾人不要怼，candidate 对邻居等熟人不合适的话要纠正并怼回，适用对象不同。",
+    "reason": "候选显示对熟人越界话语可以怼回，与 legacy 对陌生危险对象绝不怼形成条件差异，需区分对象。",
+    "evidence": "cross_library_review"
+  },
+  {
+    "source": "legacy:zw-a-05",
+    "target": "s-826f6583dcfe-c006:a016",
+    "kind": "conditional_difference",
+    "condition": "共同适用条件：关于是否怼回去；区别条件：legacy 限定陌生危险对象不可怼，candidate 未限定对象，建议打破人设即可怼回，存在适用条件差异。",
+    "reason": "candidate 的打破人设建议若不加限制可能与 legacy 对垃圾人的警告冲突，实际应按 legacy 边界仅用于代价可控场合。",
+    "evidence": "cross_library_review"
+  }
+]

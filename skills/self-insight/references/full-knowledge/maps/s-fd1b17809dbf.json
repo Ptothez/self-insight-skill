@@ -1,0 +1,1883 @@
+{
+  "concepts": [
+    {
+      "name": "网络上瘾的核心判断标准",
+      "definition": "判断孩子是否网络上瘾，核心标准不是上网时间长短，而是孩子对网络的依赖程度以及能否停止上网。即使每天只上十分钟网，但如果必须上这十分钟才能开始做作业或学习，就已经出现网络上瘾的症状。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a001"
+      ]
+    },
+    {
+      "name": "上网时间与网络上瘾的区别",
+      "definition": "父母常错误地以孩子上网时间长短来判断是否网络上瘾，这会导致错过上瘾前兆。孩子平时不上网不代表没有网络上瘾，一旦有时间（如放假）可能立刻失控，就像堤坝决堤。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a002"
+      ]
+    },
+    {
+      "name": "情绪调节依赖作为网络上瘾症状",
+      "definition": "如果孩子只有在上网（如看视频、刷抖音）时才能平息激动、生气等情绪，这也属于网络上瘾的表现。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a003",
+        "s-fd1b17809dbf-c001:a029"
+      ]
+    },
+    {
+      "name": "网络普及与网络上瘾无关",
+      "definition": "网络普及和网络上瘾没有共性。即使生活中离不开网络，也不代表网络上瘾不存在。高知家庭（如比尔盖茨、乔布斯家）严格限制孩子使用电子产品，因为他们意识到网络容易上瘾。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a004"
+      ]
+    },
+    {
+      "name": "控制网络上瘾而非控制网络使用",
+      "definition": "网络上瘾是可以控制的，但不需要控制使用网络本身。要控制的是孩子停不下来的情况，通过满足孩子的情绪需求来改变行为模式。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a005",
+        "s-fd1b17809dbf-c001:r001"
+      ]
+    },
+    {
+      "name": "网络信息导致大脑麻木",
+      "definition": "网络提供大量快速的视觉效果和快餐式信息，不需要大脑思考，导致大脑处于麻木状态。当大脑接收太多信息时，它不反应，因为不知道如何处理。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a006"
+      ]
+    },
+    {
+      "name": "网络上瘾导致大脑灰质和白质萎缩",
+      "definition": "心理学家的大脑图表明，网络上瘾会导致大脑的灰质和白质同时萎缩。虽然网络不像毒品进入身体，但会影响大脑结构和质层。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a007"
+      ]
+    },
+    {
+      "name": "大脑萎缩改变情绪处理路径",
+      "definition": "灰质和白质萎缩后，大脑处理情绪的路径会改变，思考功能被削弱。这使人更加依赖网络，因为只剩下通过网络来处理情绪的单一路径。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a008"
+      ]
+    },
+    {
+      "name": "网络上瘾导致易怒、冷漠、烦躁",
+      "definition": "网络上瘾影响大脑思考功能，导致人易怒、冷漠、烦躁、暴躁、没有耐心。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a009"
+      ]
+    },
+    {
+      "name": "网络上瘾导致情绪问题",
+      "definition": "网络上瘾的人容易感到孤单、焦虑、抑郁或其他精神疾病。上瘾将人与真实外界隔离，但人又生活在现实中，看到现实时特别难过，形成恶性循环。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a010"
+      ]
+    },
+    {
+      "name": "网络上瘾与自杀风险",
+      "definition": "很多上瘾的人容易自杀，因为情绪长期处于焦虑抑郁，但没有寻求专业健康的方式（如运动、心理辅导、谈心），而是通过网络，导致越来越孤单抑郁。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a011"
+      ]
+    },
+    {
+      "name": "网络上瘾导致面对面社交尴尬",
+      "definition": "网络上瘾的人在面对面人际社交中会特别尴尬，不知道如何交往，但在网络上可能表现活跃。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a012"
+      ]
+    },
+    {
+      "name": "相亲对象网络上瘾案例",
+      "definition": "一位女性朋友相亲，与男方先在微信上聊得很好，但见面后男方不会交往，冷漠漠然，与微信上判若两人。约会时男方不停翻手机，看电影时也时不时看手机，后来发现男方有严重的网络上瘾。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a013"
+      ]
+    },
+    {
+      "name": "社会性支持的定义",
+      "definition": "社会性支持是指在需要时有三五个知心朋友在身边鼓励、安慰、支持、帮助，是真人之间（包括长辈）的支持。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a014"
+      ]
+    },
+    {
+      "name": "网络上瘾导致缺乏社会性支持",
+      "definition": "网络上瘾的人基本上没有社会性支持，因为他们在现实生活中不太感兴趣结交朋友，只想要在网上寻求连接的温暖。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a015"
+      ]
+    },
+    {
+      "name": "网络上瘾易导致其他物质上瘾",
+      "definition": "网络上瘾的人容易对其他物质上瘾。例如一位客户同时有工作狂、音乐上瘾、酒精上瘾和色情上瘾四种上瘾。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a016"
+      ]
+    },
+    {
+      "name": "网络上瘾影响外在性功能",
+      "definition": "网络上瘾影响身体的外在性功能，如找工作、怀孕、跑步等，这些不属于情绪功能，但也是身体对外的功能。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a017"
+      ]
+    },
+    {
+      "name": "网络上瘾导致长期高压紧张情绪",
+      "definition": "尽管上网感觉放松，但大脑图显示，网络上瘾者即使在看网络时，大脑仍处于非常紧张的情绪状态。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a018"
+      ]
+    },
+    {
+      "name": "网络上瘾导致睡眠不足",
+      "definition": "花太多时间上网会导致睡眠不足，因为孩子会偷偷看网络内容。睡眠不足影响大脑做出正确判断，使孩子更容易上瘾，形成滚雪球式恶性循环。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a019"
+      ]
+    },
+    {
+      "name": "网络上瘾导致语言障碍",
+      "definition": "网络上瘾导致语言障碍，因为网络交流不需要正常语言沟通，缺少耳朵听、语气等功能，孩子的语言能力会退步，越早患上网络上瘾语言能力越差，学习外语能力也越差。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a020"
+      ]
+    },
+    {
+      "name": "网络上瘾导致社交障碍",
+      "definition": "花太多时间在虚拟空间的孩子，在现实生活中不适应真实状况，因为网络空间有太多虚拟情况，与机器打交道和与人打交道不同，导致社交障碍。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a021"
+      ]
+    },
+    {
+      "name": "网络上瘾的症状：无法控制上网",
+      "definition": "孩子无法控制自己上网，即使想控制、知道网络带来伤害，也无法停止。当家长试图控制上网时间时，孩子会非常生气和愤怒。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a022"
+      ]
+    },
+    {
+      "name": "网络上瘾的症状：失去其他活动兴趣",
+      "definition": "孩子失去做其他活动的兴趣，如以前喜欢打篮球、弹吉他，现在不想做了。如果父母强制要求并拔掉网线，孩子会有过激行为，让父母害怕。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a023"
+      ]
+    },
+    {
+      "name": "网络上瘾的症状：不停谈论网络内容",
+      "definition": "即使不上网，孩子也一直不停谈论网络上的东西，所有信息都来自网络，吃饭时也谈，只要开口就讲网络内容。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a024"
+      ]
+    },
+    {
+      "name": "网络上瘾的症状：离不开手机",
+      "definition": "去厕所要带手机，离开手机后觉得不能活。有玩笑说上厕所可以没有手纸但不能没有手机，反映对网络的依赖。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a025"
+      ]
+    },
+    {
+      "name": "网络上瘾的症状：依赖上升",
+      "definition": "对网络的依赖呈现上升状态，如以前每天上20分钟网，现在回家路上也看手机，去厕所也看，等待时也看，有空档就看手机，越来越停不下来。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a026"
+      ]
+    },
+    {
+      "name": "网络上瘾的症状：因网络产生行为问题",
+      "definition": "曾经为上网问题产生强烈争执，或孩子因看网络内容出现行为问题，如模仿网络上的偷窃行为。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a027"
+      ]
+    },
+    {
+      "name": "网络上瘾的症状：偷偷摸摸上网",
+      "definition": "孩子偷偷摸摸上网，如说好时间后把手机收起来，但孩子又偷偷拿手机躲在床上看。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a028"
+      ]
+    },
+    {
+      "name": "网络上瘾的行为征兆",
+      "definition": "网络上瘾的征兆包括：上网依赖呈现上升状态（如利用碎片时间看手机）；因网络内容出现行为问题（如模仿网络上的偷窃行为）；偷偷摸摸上网（如约定时间后藏手机在床上看）；生气时只能通过上网平静情绪。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a001"
+      ]
+    },
+    {
+      "name": "思维习惯对上网行为的影响",
+      "definition": "人的行为很大程度上取决于思维习惯。如果孩子先入为主地认为网络是工作或学习工具，那么在痛苦时就不会通过网络寻求舒适感，从而预防网络上瘾。类比：买衣服不会想到美团，因为美团已被归类为点外卖的工具。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a002"
+      ]
+    },
+    {
+      "name": "建立孩子上网思维习惯的方法",
+      "definition": "父母应主动带孩子上网，一起查资料、做作业、上网课，让孩子先入为主地认为网络是工作或学习工具。具体做法：孩子提问时不要直接给答案，而是带孩子一起上网寻找答案；在孩子接触网络的第一年培养此习惯。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a003"
+      ]
+    },
+    {
+      "name": "不反对孩子上网，而是共同参与有意义活动",
+      "definition": "父母不应反对孩子上网，因为越反对孩子越上网。应和孩子一起上网，寻找有意义的事情，让网络成为亲子情绪联结的工具，使关系更亲密。例如一起看动物大迁徙、做旅游攻略、了解火箭原理等。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a004"
+      ]
+    },
+    {
+      "name": "上网作为奖励的条件",
+      "definition": "在孩子没有上瘾的情况下，可以用上网作为奖励；一旦发现孩子有上瘾苗头，就绝对不可以把上网作为奖励，因为这会印证上网的稀缺性，加深吸引力。上瘾的孩子会主动要求上网作为奖励，此时应用界限拒绝。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a005"
+      ]
+    },
+    {
+      "name": "孩子爱好被妈妈强加运动的案例",
+      "definition": "一位妈妈带孩子做骑马、高尔夫、棒球、滑冰等多种运动，但孩子都不能坚持。后来发现孩子真正感兴趣的是机械组合和手工，而妈妈自己喜欢运动，所以强迫孩子运动。这个案例说明父母应帮助孩子发现自己喜欢并擅长的东西，而不是强加自己的爱好。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a006"
+      ]
+    },
+    {
+      "name": "教孩子健康表达情绪",
+      "definition": "父母应教孩子健康表达情绪，首先鼓励孩子指认自己的情绪需要。例如孩子大哭大闹时可能只需要一个拥抱；孩子考100分后找茬可能是因为需要父母为他骄傲。如果孩子无法指认，父母可用指认提问帮助。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a007"
+      ]
+    },
+    {
+      "name": "指认提问法",
+      "definition": "指认提问是针对情绪的一种提问方式，帮助孩子指认情绪。关键点：不能只问一个封闭问题（如“你是感到害怕吗？”），而要提供选择（如“你是感到害怕吗？还是觉得厌烦？还是别的什么？”），让孩子有更多可能性表达。指认提问只针对情绪，不用于其他选择（如吃什么）。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a008"
+      ]
+    },
+    {
+      "name": "让孩子学习适应生活",
+      "definition": "父母应尽早让孩子学习适应生活，而不是生活围绕孩子转。家庭需要孩子妥协时，孩子应学会妥协和忍耐。例如搬家时睡床垫、吃饭晚需要等待。这样能培养孩子对不尽人意现实的容忍和适应力，形成韧性，避免通过逃避解决问题。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a009"
+      ]
+    },
+    {
+      "name": "预防和破解网络上瘾的综合方法",
+      "definition": "预防和破解网络上瘾的方法包括：建立上网思维习惯、不反对上网而共同参与有意义活动、不上网做奖励（上瘾时）、建立其他爱好、教孩子健康表达情绪、让孩子学习适应生活。这些方法需要父母付出努力，每天做一点点，长期坚持才能见效。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a010"
+      ]
+    },
+    {
+      "name": "反对上网的负面效果",
+      "definition": "父母越反对孩子上网，孩子越可能上网，甚至不在家里上而跑出去偷偷上。因此不应反对上网，而应共同参与有意义活动。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:r001"
+      ]
+    },
+    {
+      "name": "指认提问的练习要求",
+      "definition": "指认提问需要反复练习，刚开始可能做不好，但不要放弃。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:r002"
+      ]
+    },
+    {
+      "name": "家庭生活不围绕孩子转",
+      "definition": "家庭生活不应围绕孩子的需求开展，而应让孩子围绕家庭的需要妥协。例如搬家时全家睡床垫、吃饭晚需要等待。这能培养孩子的适应力和韧性。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:r003"
+      ]
+    },
+    {
+      "name": "改变需要持续行动而非仅获取知识",
+      "definition": "改变孩子网络成瘾或预防成瘾需要持续行动，仅听课或获取知识不会立即产生效果。类比看医生拿药后必须服药才能康复，中药需每天熬制和服用。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c003:a001"
+      ]
+    },
+    {
+      "name": "改变需要时间积累",
+      "definition": "改变孩子网络成瘾需要时间积累，短期内可能看不到效果，家长不应失望或认为方法无效。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c003:a002"
+      ]
+    },
+    {
+      "name": "私人辅导提供具体指导",
+      "definition": "私人辅导可根据孩子具体情况提供手把手的指导，使用大原则，结果令人兴奋和鼓励。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c003:a003"
+      ]
+    },
+    {
+      "name": "做对的事情",
+      "definition": "鼓励家长做对的事情来帮助孩子，具体内容未详细说明。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c003:a004"
+      ]
+    },
+    {
+      "name": "下一课主题：毒品色情上瘾",
+      "definition": "下一堂课将讨论解决孩子毒品和色情上瘾的问题，指出这些问题在孩子中发生率很高。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c003:a005"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-fd1b17809dbf-c001:a001",
+      "target": "s-fd1b17809dbf-c001:a002",
+      "kind": "contrasts",
+      "condition": "判断网络上瘾的标准",
+      "reason": "a001指出核心标准是依赖程度而非时间，a002指出父母常错误地以时间判断，两者形成对比。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a001",
+      "target": "s-fd1b17809dbf-c001:a003",
+      "kind": "example_of",
+      "condition": "情绪调节依赖",
+      "reason": "a003是a001中依赖程度的一个具体例子，即必须上网才能平息情绪。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a002",
+      "target": "s-fd1b17809dbf-c001:a004",
+      "kind": "contrasts",
+      "condition": "对网络上瘾的认知",
+      "reason": "a002指出父母错误认知，a004指出网络普及与上瘾无关，两者都是纠正错误认知。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a005",
+      "target": "s-fd1b17809dbf-c001:a001",
+      "kind": "supports",
+      "condition": "控制网络上瘾",
+      "reason": "a005提出控制网络上瘾而非控制网络使用，与a001的判断标准一致，强调依赖而非使用。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a006",
+      "target": "s-fd1b17809dbf-c001:a007",
+      "kind": "causes",
+      "condition": "大脑变化",
+      "reason": "a006指出网络信息导致大脑麻木，a007指出网络上瘾导致灰质白质萎缩，麻木可能是萎缩的前因。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a007",
+      "target": "s-fd1b17809dbf-c001:a008",
+      "kind": "supports",
+      "condition": "大脑结构变化",
+      "reason": "“网络上瘾导致大脑灰质和白质萎缩”是“大脑萎缩改变情绪处理路径”的前提，萎缩导致后续路径改变，两者具有因果关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型 causes 不属允许类型，改为 supports。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a008",
+      "target": "s-fd1b17809dbf-c001:a009",
+      "kind": "supports",
+      "condition": "情绪处理路径改变",
+      "reason": "“大脑萎缩改变情绪处理路径”指出思考功能被削弱，可导致“网络上瘾导致易怒、冷漠、烦躁”中的情绪问题，两者存在因果关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型 causes 不属允许类型，改为 supports。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a008",
+      "target": "s-fd1b17809dbf-c001:a010",
+      "kind": "supports",
+      "condition": "情绪处理路径改变",
+      "reason": "“大脑萎缩改变情绪处理路径”导致更加依赖网络，进而可能引发“网络上瘾导致情绪问题”中的孤单焦虑抑郁，存在因果链。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型 causes 不属允许类型，改为 supports。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a010",
+      "target": "s-fd1b17809dbf-c001:a011",
+      "kind": "causes",
+      "condition": "情绪问题",
+      "reason": "a010指出焦虑抑郁，a011指出长期焦虑抑郁导致自杀风险，存在因果关系。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a012",
+      "target": "s-fd1b17809dbf-c001:a013",
+      "kind": "example_of",
+      "condition": "面对面社交尴尬",
+      "reason": "a013是a012的一个具体案例，相亲对象在微信上活跃但见面尴尬。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a014",
+      "target": "s-fd1b17809dbf-c001:a015",
+      "kind": "contrasts",
+      "condition": "社会性支持",
+      "reason": "a014定义社会性支持，a015指出网络上瘾者缺乏社会性支持，形成对比。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a016",
+      "target": "s-fd1b17809dbf-c001:a017",
+      "kind": "supports",
+      "condition": "上瘾影响",
+      "reason": "a016指出易导致其他物质上瘾，a017指出影响外在性功能，两者都是上瘾的负面影响。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a018",
+      "target": "s-fd1b17809dbf-c001:a019",
+      "kind": "causes",
+      "condition": "紧张情绪",
+      "reason": "a018指出上网时大脑紧张，a019指出睡眠不足影响判断，紧张可能导致睡眠问题。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a019",
+      "target": "s-fd1b17809dbf-c001:a020",
+      "kind": "association",
+      "condition": "",
+      "reason": "“网络上瘾导致睡眠不足”与“网络上瘾导致语言障碍”都是网络上瘾的后果，但睡眠不足并不直接导致语言障碍，两者无明确因果，仅属于同一议题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原因果关系不成立，改为关联。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a020",
+      "target": "s-fd1b17809dbf-c001:a021",
+      "kind": "association",
+      "condition": "",
+      "reason": "“网络上瘾导致语言障碍”与“网络上瘾导致社交障碍”都是网络上瘾的后果，但语言障碍不必然是社交障碍的原因，两者相关但因果不明确。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原因果关系不成立，改为关联。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a022",
+      "target": "s-fd1b17809dbf-c001:a023",
+      "kind": "supports",
+      "condition": "网络上瘾症状",
+      "reason": "a022和a023都是网络上瘾的症状，相互支持。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a023",
+      "target": "s-fd1b17809dbf-c001:a024",
+      "kind": "supports",
+      "condition": "网络上瘾症状",
+      "reason": "a023和a024都是网络上瘾的症状，相互支持。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a024",
+      "target": "s-fd1b17809dbf-c001:a025",
+      "kind": "supports",
+      "condition": "网络上瘾症状",
+      "reason": "a024和a025都是网络上瘾的症状，相互支持。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a025",
+      "target": "s-fd1b17809dbf-c001:a026",
+      "kind": "supports",
+      "condition": "网络上瘾症状",
+      "reason": "a025和a026都是网络上瘾的症状，相互支持。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a026",
+      "target": "s-fd1b17809dbf-c001:a027",
+      "kind": "association",
+      "condition": "网络上瘾症状",
+      "reason": "两者都是网络上瘾的症状表现（依赖上升、因网络产生行为问题），但彼此并列，不能相互支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向 supports 改为 association"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a027",
+      "target": "s-fd1b17809dbf-c001:a028",
+      "kind": "association",
+      "condition": "网络上瘾症状",
+      "reason": "两者都是网络上瘾的症状表现（因网络产生行为问题、偷偷摸摸上网），但彼此并列，不能相互支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向 supports 改为 association"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a028",
+      "target": "s-fd1b17809dbf-c001:a029",
+      "kind": "supports",
+      "condition": "网络上瘾症状",
+      "reason": "a028和a029都是网络上瘾的症状，相互支持。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a029",
+      "target": "s-fd1b17809dbf-c001:a003",
+      "kind": "supports",
+      "condition": "情绪调节依赖",
+      "reason": "a029和a003都指出情绪调节依赖是网络上瘾症状，相互支持。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a001",
+      "target": "s-fd1b17809dbf-c001:a026",
+      "kind": "association",
+      "condition": "依赖上升",
+      "reason": "行为征兆的总结中已包含依赖上升，而依赖上升症状是对该征兆的具体展开；两者描述同一现象，并非一方支持另一方。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "降级为关联"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a001",
+      "target": "s-fd1b17809dbf-c001:a027",
+      "kind": "association",
+      "condition": "因网络产生行为问题",
+      "reason": "行为征兆的总结中已包含因网络产生行为问题，而该症状是对这一征兆的具体展开；两者描述同一现象，并非一方支持另一方。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "降级为关联"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a001",
+      "target": "s-fd1b17809dbf-c001:a028",
+      "kind": "association",
+      "condition": "偷偷摸摸上网",
+      "reason": "行为征兆的总结中已包含偷偷摸摸上网，而该症状是对这一征兆的具体展开；两者描述同一现象，并非一方支持另一方。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "降级为关联"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a001",
+      "target": "s-fd1b17809dbf-c001:a029",
+      "kind": "association",
+      "condition": "情绪调节依赖",
+      "reason": "行为征兆的总结中已包含生气时只能通过上网平静情绪，而该症状是对这一征兆的具体展开；两者描述同一现象，并非一方支持另一方。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "降级为关联"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a002",
+      "target": "s-fd1b17809dbf-c002:a003",
+      "kind": "supports",
+      "condition": "思维习惯",
+      "reason": "a002提出思维习惯影响行为，a003给出建立思维习惯的方法，相互支持。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a003",
+      "target": "s-fd1b17809dbf-c002:a004",
+      "kind": "association",
+      "condition": "上网引导",
+      "reason": "两者都强调父母应主动带孩子上网、用网络做有意义的事；但它们是相互独立的建议，彼此不构成支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "同向推荐但无支持关系"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a004",
+      "target": "s-fd1b17809dbf-c002:r001",
+      "kind": "association",
+      "condition": "反对上网",
+      "reason": "两者都主张不应反对上网，且反对上网的负面效果可作为共同参与建议的依据，但原方向从共同参与指向负面效果不构成支持，仅是同一结论的关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向不当，降级为关联"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a005",
+      "target": "s-fd1b17809dbf-c002:a010",
+      "kind": "step_of",
+      "condition": "上瘾时不用上网做奖励",
+      "reason": "上网作为奖励的条件（上瘾苗头出现后不能用上网奖励）是预防与破解网络上瘾综合方法中的一个具体步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "方向正确"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a006",
+      "target": "s-fd1b17809dbf-c002:a010",
+      "kind": "example_of",
+      "condition": "建立其他爱好",
+      "reason": "孩子爱好被妈妈强加运动的案例说明了综合方法中“建立其他爱好”这一步，属于例证而非步骤本身，且实际例证方向应为案例指向综合方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 改为 example_of，注意方向"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a007",
+      "target": "s-fd1b17809dbf-c002:a008",
+      "kind": "supports",
+      "condition": "情绪表达",
+      "reason": "a007提出教孩子健康表达情绪，a008给出指认提问法，相互支持。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a008",
+      "target": "s-fd1b17809dbf-c002:r002",
+      "kind": "supports",
+      "condition": "指认提问",
+      "reason": "a008介绍指认提问法，r002指出需要练习，相互支持。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a009",
+      "target": "s-fd1b17809dbf-c002:r003",
+      "kind": "association",
+      "condition": "适应生活",
+      "reason": "两者都表达让孩子学习适应家庭生活、家庭不围绕孩子转的同一主张，但仅为同义表述，不构成相互支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "降级为关联"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a010",
+      "target": "s-fd1b17809dbf-c002:a003",
+      "kind": "step_of",
+      "condition": "建立上网思维习惯是综合方法之一",
+      "reason": "建立孩子上网思维习惯的方法是预防与破解网络上瘾综合方法中的一个步骤；实际步骤方向应从该方法指向综合方法，原边方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向修正"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a010",
+      "target": "s-fd1b17809dbf-c002:a004",
+      "kind": "step_of",
+      "condition": "不反对上网是综合方法之一",
+      "reason": "不反对上网而共同参与有意义活动是预防与破解网络上瘾综合方法中的一个步骤；实际步骤方向应从该方法指向综合方法，原边方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向修正"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a010",
+      "target": "s-fd1b17809dbf-c002:a005",
+      "kind": "step_of",
+      "condition": "不上网做奖励是综合方法之一",
+      "reason": "上瘾时不用上网做奖励是预防与破解网络上瘾综合方法中的一个步骤；实际步骤方向应从该方法指向综合方法，原边方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向修正"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a010",
+      "target": "s-fd1b17809dbf-c002:a006",
+      "kind": "example_of",
+      "condition": "建立其他爱好",
+      "reason": "孩子爱好被妈妈强加运动的案例是综合方法中“建立其他爱好”这一步的例证；实际例证方向应从案例指向综合方法，原边方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 改为 example_of"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a010",
+      "target": "s-fd1b17809dbf-c002:a007",
+      "kind": "step_of",
+      "condition": "教孩子健康表达情绪是综合方法之一",
+      "reason": "教孩子健康表达情绪是预防与破解网络上瘾综合方法中的一个步骤；实际步骤方向应从该方法指向综合方法，原边方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向修正"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a010",
+      "target": "s-fd1b17809dbf-c002:a009",
+      "kind": "step_of",
+      "condition": "让孩子学习适应生活是综合方法之一",
+      "reason": "让孩子学习适应生活是预防与破解网络上瘾综合方法中的一个步骤；实际步骤方向应从该方法指向综合方法，原边方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向修正"
+    },
+    {
+      "source": "s-fd1b17809dbf-c003:a001",
+      "target": "s-fd1b17809dbf-c003:a002",
+      "kind": "association",
+      "condition": "改变需要行动和时间",
+      "reason": "改变孩子网络成瘾需要持续行动，也需要时间积累，两个命题分别强调行动和时间，属于同一议题的必要方面，但不能相互支持，故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 过强，改为 association。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c003:a003",
+      "target": "s-fd1b17809dbf-c003:a004",
+      "kind": "association",
+      "condition": "私人辅导",
+      "reason": "私人辅导可根据孩子具体情况提供更具体的指导，而做对的事情是泛泛鼓励，二者在辅导语境下有关联，但后者过于笼统，不能明确由前者支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 证据不足，改为 association。"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n001",
+      "target": "s-fd1b17809dbf-c001:a004",
+      "kind": "association",
+      "condition": "网络上瘾的普遍性与网络普及的关系",
+      "reason": "source称网络上瘾最普遍，候选指出网络普及与上瘾无共性，强调不能因离不开网络就否认上瘾；两者都涉及网络上瘾的性质，但候选未直接证明或反驳普遍性，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a004",
+      "target": "s-fd1b17809dbf-c001:v2-n001",
+      "kind": "association",
+      "condition": "网络上瘾的普遍性与网络普及的关系",
+      "reason": "source称网络上瘾最普遍，候选指出网络普及与上瘾无共性，强调不能因离不开网络就否认上瘾；两者都涉及网络上瘾的性质，但候选未直接证明或反驳普遍性，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n001",
+      "target": "s-fd1b17809dbf-c001:a016",
+      "kind": "association",
+      "condition": "网络上瘾的特征",
+      "reason": "source称网络上瘾最普遍，候选指出网络上瘾易导致其他物质上瘾，两者都是网络上瘾的特征，但无直接因果，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a016",
+      "target": "s-fd1b17809dbf-c001:v2-n001",
+      "kind": "association",
+      "condition": "网络上瘾的特征",
+      "reason": "source称网络上瘾最普遍，候选指出网络上瘾易导致其他物质上瘾，两者都是网络上瘾的特征，但无直接因果，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n002",
+      "target": "s-fd1b17809dbf-c001:a005",
+      "kind": "conflict",
+      "condition": "针对网络上瘾是否可控",
+      "reason": "source称父母认为无法控制孩子上网（因为无法时刻盯着），候选明确网络上瘾可控，只是不需控制网络使用本身，两者在同条件下观点相反。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a005",
+      "target": "s-fd1b17809dbf-c001:v2-n002",
+      "kind": "conflict",
+      "condition": "针对网络上瘾是否可控",
+      "reason": "source称父母认为无法控制孩子上网（因为无法时刻盯着），候选明确网络上瘾可控，只是不需控制网络使用本身，两者在同条件下观点相反。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n002",
+      "target": "s-fd1b17809dbf-c001:r001",
+      "kind": "conflict",
+      "condition": "针对网络上瘾是否可控",
+      "reason": "source作为错误认知认为无法控制，候选作为正确观点声称可以控制但需区分控制对象，同条件矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:r001",
+      "target": "s-fd1b17809dbf-c001:v2-n002",
+      "kind": "conflict",
+      "condition": "针对网络上瘾是否可控",
+      "reason": "source作为错误认知认为无法控制，候选作为正确观点声称可以控制但需区分控制对象，同条件矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n002",
+      "target": "s-fd1b17809dbf-c002:a003",
+      "kind": "association",
+      "condition": "改变父母控制方式的具体建议",
+      "reason": "source中父母因无法时刻盯着而认为无法控制，候选提供主动带孩子上网建立习惯的方法，可视为对错误认知的实践回应，但未直接反驳，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a003",
+      "target": "s-fd1b17809dbf-c001:v2-n002",
+      "kind": "association",
+      "condition": "改变父母控制方式的具体建议",
+      "reason": "source中父母因无法时刻盯着而认为无法控制，候选提供主动带孩子上网建立习惯的方法，可视为对错误认知的实践回应，但未直接反驳，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n002",
+      "target": "s-fd1b17809dbf-c002:a004",
+      "kind": "association",
+      "condition": "改变父母控制方式的具体建议",
+      "reason": "source中父母认为无法控制，候选建议不反对上网而共同参与有意义活动，提供不同思路，但未直接论述可控性，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a004",
+      "target": "s-fd1b17809dbf-c001:v2-n002",
+      "kind": "association",
+      "condition": "改变父母控制方式的具体建议",
+      "reason": "source中父母认为无法控制，候选建议不反对上网而共同参与有意义活动，提供不同思路，但未直接论述可控性，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n002",
+      "target": "s-fd1b17809dbf-c002:a007",
+      "kind": "association",
+      "condition": "解决情绪根源的方法",
+      "reason": "source中父母认为无法控制，候选提供教孩子健康表达情绪的方法，属于解决上瘾根源的一部分，但未直接针对可控性问题，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a007",
+      "target": "s-fd1b17809dbf-c001:v2-n002",
+      "kind": "association",
+      "condition": "解决情绪根源的方法",
+      "reason": "source中父母认为无法控制，候选提供教孩子健康表达情绪的方法，属于解决上瘾根源的一部分，但未直接针对可控性问题，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n002",
+      "target": "s-fd1b17809dbf-c002:r001",
+      "kind": "association",
+      "condition": "父母反对上网的后果",
+      "reason": "source中父母认为无法控制而可能加强控制，候选指出反对上网导致孩子更想上网，两者都涉及父母行为与孩子上网的关系，但未直接讨论可控性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:r001",
+      "target": "s-fd1b17809dbf-c001:v2-n002",
+      "kind": "association",
+      "condition": "父母反对上网的后果",
+      "reason": "source中父母认为无法控制而可能加强控制，候选指出反对上网导致孩子更想上网，两者都涉及父母行为与孩子上网的关系，但未直接讨论可控性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n002",
+      "target": "s-fd1b17809dbf-c001:a028",
+      "kind": "association",
+      "condition": "孩子无法控制的表现",
+      "reason": "source中父母认为无法控制孩子上网，候选描述孩子偷偷摸摸上网的症状，表明孩子自身难以控制，与父母外部控制困难相关，但未直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a028",
+      "target": "s-fd1b17809dbf-c001:v2-n002",
+      "kind": "association",
+      "condition": "孩子无法控制的表现",
+      "reason": "source中父母认为无法控制孩子上网，候选描述孩子偷偷摸摸上网的症状，表明孩子自身难以控制，与父母外部控制困难相关，但未直接联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n002",
+      "target": "s-fd1b17809dbf-c002:a010",
+      "kind": "association",
+      "condition": "综合方法提供替代认知",
+      "reason": "source为错误认知，候选提供综合方法，包含多种策略，可视为对错误认知的纠正，但未直接反驳可控性，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a010",
+      "target": "s-fd1b17809dbf-c001:v2-n002",
+      "kind": "association",
+      "condition": "综合方法提供替代认知",
+      "reason": "source为错误认知，候选提供综合方法，包含多种策略，可视为对错误认知的纠正，但未直接反驳可控性，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n002",
+      "target": "s-fd1b17809dbf-c001:a004",
+      "kind": "association",
+      "condition": "针对父母认为离不开网络所以无法控制",
+      "reason": "source中父母以孩子需要上网为理由认为无法控制，候选指出网络普及与上瘾无关，削弱该理由，但未直接讨论可控性，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a004",
+      "target": "s-fd1b17809dbf-c001:v2-n002",
+      "kind": "association",
+      "condition": "针对父母认为离不开网络所以无法控制",
+      "reason": "source中父母以孩子需要上网为理由认为无法控制，候选指出网络普及与上瘾无关，削弱该理由，但未直接讨论可控性，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n003",
+      "target": "s-fd1b17809dbf-c001:a028",
+      "kind": "association",
+      "condition": "内容几乎相同",
+      "reason": "source与候选描述同一症状，措辞高度一致，可视为重复知识，无新增实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a028",
+      "target": "s-fd1b17809dbf-c001:v2-n003",
+      "kind": "association",
+      "condition": "内容几乎相同",
+      "reason": "source与候选描述同一症状，措辞高度一致，可视为重复知识，无新增实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n003",
+      "target": "s-fd1b17809dbf-c002:a001",
+      "kind": "example_of",
+      "condition": "当行为表现为偷偷摸摸上网时",
+      "reason": "候选列出网络上瘾的多种行为征兆，其中明确包含“偷偷摸摸上网”，source是该征兆的具体描述，因此source是候选列表中的一个例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a001",
+      "target": "s-fd1b17809dbf-c001:v2-n003",
+      "kind": "has_example",
+      "condition": "当行为表现为偷偷摸摸上网时",
+      "reason": "候选列出网络上瘾的多种行为征兆，其中明确包含“偷偷摸摸上网”，source是该征兆的具体描述，因此source是候选列表中的一个例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n003",
+      "target": "s-fd1b17809dbf-c001:a024",
+      "kind": "association",
+      "condition": "同为网络上瘾的行为症状",
+      "reason": "两者都是网络上瘾的症状，但表现不同，无因果或前提，仅并列关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a024",
+      "target": "s-fd1b17809dbf-c001:v2-n003",
+      "kind": "association",
+      "condition": "同为网络上瘾的行为症状",
+      "reason": "两者都是网络上瘾的症状，但表现不同，无因果或前提，仅并列关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n003",
+      "target": "s-fd1b17809dbf-c001:a003",
+      "kind": "association",
+      "condition": "同为网络上瘾的行为/情绪症状",
+      "reason": "source是行为症状，候选是情绪调节依赖症状，同属成瘾表现但不同维度，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a003",
+      "target": "s-fd1b17809dbf-c001:v2-n003",
+      "kind": "association",
+      "condition": "同为网络上瘾的行为/情绪症状",
+      "reason": "source是行为症状，候选是情绪调节依赖症状，同属成瘾表现但不同维度，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:v2-n003",
+      "target": "s-fd1b17809dbf-c001:a029",
+      "kind": "association",
+      "condition": "同为网络上瘾的症状",
+      "reason": "两者都是网络上瘾的征兆，但一为行为，一为情绪调节，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c001:a029",
+      "target": "s-fd1b17809dbf-c001:v2-n003",
+      "kind": "association",
+      "condition": "同为网络上瘾的症状",
+      "reason": "两者都是网络上瘾的征兆，但一为行为，一为情绪调节，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c003:v2-n001",
+      "target": "s-fd1b17809dbf-c003:a002",
+      "kind": "complements",
+      "condition": "针对快速课程无效的论断",
+      "reason": "source警告不要相信短时间保证脱离网瘾的课程，候选补充改变需要时间和辛苦积累，为source提供理由。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c003:a002",
+      "target": "s-fd1b17809dbf-c003:v2-n001",
+      "kind": "complements",
+      "condition": "针对快速课程无效的论断",
+      "reason": "source警告不要相信短时间保证脱离网瘾的课程，候选补充改变需要时间和辛苦积累，为source提供理由。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c003:v2-n001",
+      "target": "s-fd1b17809dbf-c002:a010",
+      "kind": "complements",
+      "condition": "综合方法中明确重申不可快速见效",
+      "reason": "候选内容包含“没有课程能快速让孩子脱离网瘾，不要相信快速保证的课程”，与source观点一致，并补充了综合方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c002:a010",
+      "target": "s-fd1b17809dbf-c003:v2-n001",
+      "kind": "complements",
+      "condition": "综合方法中明确重申不可快速见效",
+      "reason": "候选内容包含“没有课程能快速让孩子脱离网瘾，不要相信快速保证的课程”，与source观点一致，并补充了综合方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c003:v2-n001",
+      "target": "s-fd1b17809dbf-c003:a001",
+      "kind": "complements",
+      "condition": "反对仅靠课程速效",
+      "reason": "source说没有课程能立刻改变孩子，候选强调改变需要持续行动，仅听课不会产生效果，两者互补阐述同一观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c003:a001",
+      "target": "s-fd1b17809dbf-c003:v2-n001",
+      "kind": "complements",
+      "condition": "反对仅靠课程速效",
+      "reason": "source说没有课程能立刻改变孩子，候选强调改变需要持续行动，仅听课不会产生效果，两者互补阐述同一观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c003:v2-n001",
+      "target": "s-fd1b17809dbf-c003:a003",
+      "kind": "association",
+      "condition": "关于课程有效性的不同层面",
+      "reason": "source警告快速课程无效，候选称私人辅导可根据具体情况提供更具体指导，未声称快速，但都涉及课程效果，无直接矛盾，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-fd1b17809dbf-c003:a003",
+      "target": "s-fd1b17809dbf-c003:v2-n001",
+      "kind": "association",
+      "condition": "关于课程有效性的不同层面",
+      "reason": "source警告快速课程无效，候选称私人辅导可根据具体情况提供更具体指导，未声称快速，但都涉及课程效果，无直接矛盾，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "依赖与失控",
+      "to": "界限",
+      "when": "当孩子有上瘾苗头时，父母需要设立界限，拒绝用上网作为奖励。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "依赖与失控",
+      "to": "理解情绪",
+      "when": "破解网络上瘾需要教孩子健康表达情绪，使用指认提问法。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a007",
+        "s-fd1b17809dbf-c002:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-fd1b17809dbf-c002:a008",
+          "limits": [
+            "只针对情绪，不用于其他选择"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a005",
+        "s-fd1b17809dbf-c001:r001"
+      ],
+      "reason": "内容完全一致，都是关于控制网络上瘾而非控制网络使用。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a007"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾导致大脑灰质和白质萎缩。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a010"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾导致情绪问题。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a012"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾导致面对面社交尴尬。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a014"
+      ],
+      "reason": "内容完全一致，都是关于社会性支持的定义。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a015"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾导致缺乏社会性支持。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a016"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾易导致其他物质上瘾。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a017"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾影响外在性功能。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a018"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾导致长期高压紧张情绪。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a019"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾导致睡眠不足。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a020"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾导致语言障碍。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a021"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾导致社交障碍。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a022"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾的症状：无法控制上网。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a023"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾的症状：失去其他活动兴趣。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a024"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾的症状：不停谈论网络内容。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a025"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾的症状：离不开手机。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a026"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾的症状：依赖上升。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a027"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾的症状：因网络产生行为问题。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a028"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾的症状：偷偷摸摸上网。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a029"
+      ],
+      "reason": "内容完全一致，都是关于网络上瘾的症状：只能通过上网平静情绪。"
+    },
+    {
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a009",
+        "s-fd1b17809dbf-c002:r003"
+      ],
+      "reason": "内容完全一致，都是关于家庭生活不围绕孩子转。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "预防和破解网络上瘾的综合方法",
+      "steps": [
+        {
+          "action": "建立上网思维习惯",
+          "atom_ids": [
+            "s-fd1b17809dbf-c002:a003"
+          ],
+          "condition": "孩子接触网络的初期"
+        },
+        {
+          "action": "不反对上网，共同参与有意义活动",
+          "atom_ids": [
+            "s-fd1b17809dbf-c002:a004"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "上瘾时不用上网做奖励",
+          "atom_ids": [
+            "s-fd1b17809dbf-c002:a005"
+          ],
+          "condition": "孩子有上瘾苗头时"
+        },
+        {
+          "action": "建立其他爱好",
+          "atom_ids": [
+            "s-fd1b17809dbf-c002:a006"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "教孩子健康表达情绪",
+          "atom_ids": [
+            "s-fd1b17809dbf-c002:a007",
+            "s-fd1b17809dbf-c002:a008"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "让孩子学习适应生活",
+          "atom_ids": [
+            "s-fd1b17809dbf-c002:a009"
+          ],
+          "condition": "不包括基本生理需求"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-fd1b17809dbf-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a001",
+        "s-fd1b17809dbf-c001:a002"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a003"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a004"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u005",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a005",
+        "s-fd1b17809dbf-c001:r001"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a006"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a007"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a008"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a009"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a010"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a011"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a012"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a013"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a014"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a015"
+      ],
+      "blocks": [
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a016"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a017"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a018"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a019"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a020"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035",
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a021"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a022"
+      ],
+      "blocks": [
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a023"
+      ],
+      "blocks": [
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a024"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a025"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a026"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a027"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c001:u029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c002:u001",
+      "kind": "knowledge",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a001"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c002:u002",
+      "kind": "knowledge",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a001"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c002:u003",
+      "kind": "knowledge",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a028",
+        "s-fd1b17809dbf-c002:a001"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c002:u004",
+      "kind": "knowledge",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:a029",
+        "s-fd1b17809dbf-c002:a001"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c002:u005",
+      "kind": "knowledge",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a002"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c002:u006",
+      "kind": "knowledge",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a003"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049",
+        "b00050",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c002:u007",
+      "kind": "knowledge",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a004",
+        "s-fd1b17809dbf-c002:r001"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c002:u008",
+      "kind": "knowledge",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a004"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c002:u009",
+      "kind": "knowledge",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a005"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c002:u010",
+      "kind": "knowledge",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a006"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c002:u011",
+      "kind": "knowledge",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a007"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c002:u012",
+      "kind": "knowledge",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a008"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067",
+        "b00068",
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c002:u013",
+      "kind": "knowledge",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:r002"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c002:u014",
+      "kind": "knowledge",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a009",
+        "s-fd1b17809dbf-c002:r003"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073",
+        "b00074",
+        "b00075",
+        "b00076",
+        "b00077",
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c002:u015",
+      "kind": "knowledge",
+      "atom_ids": [
+        "s-fd1b17809dbf-c002:a010"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c003:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c003:a001"
+      ],
+      "blocks": [
+        "b00084",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c003:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c003:a002"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c003:u0003",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-fd1b17809dbf-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c003:u0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-fd1b17809dbf-c003:a003"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c003:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c003:a004"
+      ],
+      "blocks": [
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-fd1b17809dbf-c003:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fd1b17809dbf-c003:a005"
+      ],
+      "blocks": [
+        "b00087"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "网络上瘾是最普遍的上瘾类型",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-fd1b17809dbf",
+          "blocks": [
+            "b00003"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "prevalence"
+    },
+    {
+      "title": "父母认为无法控制孩子上网",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-fd1b17809dbf",
+          "blocks": [
+            "b00011"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "misconception"
+    },
+    {
+      "title": "网络上瘾症状：偷偷摸摸使用网络",
+      "atom_ids": [
+        "s-fd1b17809dbf-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-fd1b17809dbf",
+          "blocks": [
+            "b00044",
+            "b00045"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "symptom"
+    },
+    {
+      "title": "警惕快速见效的网瘾课程",
+      "atom_ids": [
+        "s-fd1b17809dbf-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-fd1b17809dbf",
+          "blocks": [
+            "b00082"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "quick_fix_promise"
+    }
+  ]
+}

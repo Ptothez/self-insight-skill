@@ -1,0 +1,1211 @@
+{
+  "concepts": [
+    {
+      "name": "非我即敌型育儿",
+      "definition": "父母认为孩子永远低自己一等，父母永远处于主宰地位，不允许孩子有任何异议，否则视为敌人并加以惩罚。",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a004",
+        "s-d1d931a55a0f-c001:a005",
+        "s-d1d931a55a0f-c001:a006",
+        "s-d1d931a55a0f-c001:a007"
+      ]
+    },
+    {
+      "name": "不可分割型育儿",
+      "definition": "父母允许孩子独立，但当孩子的行为威胁到家庭整体感时，会坚决制止并扼杀在摇篮里。",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a015",
+        "s-d1d931a55a0f-c001:r001"
+      ]
+    },
+    {
+      "name": "冠军型育儿",
+      "definition": "父母自己不一定优秀，但要求孩子在所有事情上都是全能、全才、做到最好。",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a004",
+        "s-d1d931a55a0f-c002:a005"
+      ]
+    },
+    {
+      "name": "幻影型育儿",
+      "definition": "父母情绪极度失联，在生活中存在但好像不在，与孩子没有情绪连接，彼此不了解。",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a015",
+        "s-d1d931a55a0f-c002:a016",
+        "s-d1d931a55a0f-c002:a017"
+      ]
+    },
+    {
+      "name": "无条件接纳",
+      "definition": "人类最深的需求，被无条件接纳和爱，不因表现好坏而改变。",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a007",
+        "s-d1d931a55a0f-c002:a008"
+      ]
+    },
+    {
+      "name": "完美主义",
+      "definition": "孩子因害怕不完美被抛弃或不被接纳，而要求自己各方面完美。",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a009",
+        "s-d1d931a55a0f-c002:a010"
+      ]
+    },
+    {
+      "name": "情绪失联",
+      "definition": "个体与自身情绪断开，不了解自己的情绪，描述情绪时词汇有限。",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a024",
+        "s-d1d931a55a0f-c002:a015"
+      ]
+    },
+    {
+      "name": "界限",
+      "definition": "父母有意识地给自己和孩子立界限，不越孩子的界，随着孩子长大逐步放手。",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a019",
+        "s-d1d931a55a0f-c002:a001",
+        "s-d1d931a55a0f-c002:a002"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-d1d931a55a0f-c001:a004",
+      "target": "s-d1d931a55a0f-c001:a005",
+      "kind": "example_of",
+      "condition": "非我即敌型父母常说的话",
+      "reason": "“非我即敌型父母的典型话语”是“非我即敌型育儿类型”的具体例证，展示了该类型父母如何通过话语要求孩子无条件服从；原方向应为具体话语指向一般类型，需反转。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向需反转；保持 example_of，但修正方向。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a004",
+      "target": "s-d1d931a55a0f-c001:a006",
+      "kind": "supports",
+      "condition": "非我即敌型父母的奖惩机制",
+      "reason": "a006 描述了非我即敌型父母如何通过奖惩维持控制，支持 a004 中父母主宰地位的定义。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a007",
+      "target": "s-d1d931a55a0f-c001:a004",
+      "kind": "supports",
+      "condition": "父母自身未解决的问题导致缺乏安全感",
+      "reason": "非我即敌型父母通常因自身未解决的问题而缺乏安全感，通过绝对控制、打压孩子、不允许挑战自己的认知来保证地位和尊严受控，内心充满伤害和恐惧，这解释了他们作为非我即敌型父母的行为原因。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "成因对育儿类型有解释性支持，方向正确。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a004",
+      "target": "s-d1d931a55a0f-c001:a008",
+      "kind": "supports",
+      "condition": "非我即敌型育儿可能导致孩子低人一等",
+      "reason": "“非我即敌型育儿类型”（父母永远主宰、不允许异议）可能导致“孩子低人一等”的伤害，前者是后者的原因，二者存在解释关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "由 causes 改为 supports。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a004",
+      "target": "s-d1d931a55a0f-c001:a009",
+      "kind": "supports",
+      "condition": "非我即敌型育儿可能导致孩子高人一等",
+      "reason": "“非我即敌型育儿类型”也可能导致孩子适应后变成“高人一等”的非我即敌型人格，前者是后者的原因之一。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "由 causes 改为 supports。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a004",
+      "target": "s-d1d931a55a0f-c001:a011",
+      "kind": "supports",
+      "condition": "非我即敌型育儿可能导致孩子反抗权柄",
+      "reason": "“非我即敌型育儿类型”对部分孩子造成对权柄的积怨与反抗，前者是后者的原因之一。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "由 causes 改为 supports。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a012",
+      "target": "s-d1d931a55a0f-c001:a004",
+      "kind": "applies_to",
+      "condition": "改善非我即敌型育儿的方法",
+      "reason": "a012 提供了改善非我即敌型育儿的方法，适用于 a004 描述的问题。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a013",
+      "target": "s-d1d931a55a0f-c001:a004",
+      "kind": "applies_to",
+      "condition": "改善非我即敌型育儿的方法",
+      "reason": "a013 提供了另一种改善非我即敌型育儿的方法，适用于 a004 描述的问题。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a015",
+      "target": "s-d1d931a55a0f-c001:a016",
+      "kind": "association",
+      "condition": "",
+      "reason": "不可分割型育儿类型是概念，不可分割型妈妈与女儿的冲突案例是具体实例；应有案例作为类型的示例，原方向不成立。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向颠倒，改为关联并保留未删除原子。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a015",
+      "target": "s-d1d931a55a0f-c001:a017",
+      "kind": "causes",
+      "condition": "不可分割型育儿可能导致孩子不负责任",
+      "reason": "a017 描述了不可分割型育儿对孩子造成的伤害之一，是 a015 行为的后果。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a015",
+      "target": "s-d1d931a55a0f-c001:a018",
+      "kind": "causes",
+      "condition": "不可分割型育儿可能导致孩子容易抛弃亲密关系",
+      "reason": "a018 描述了不可分割型育儿对孩子造成的另一种伤害，是 a015 行为的后果。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a019",
+      "target": "s-d1d931a55a0f-c001:a015",
+      "kind": "applies_to",
+      "condition": "改善不可分割型育儿的方法",
+      "reason": "a019 提供了改善不可分割型育儿的方法，适用于 a015 描述的问题。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c002:a004",
+      "target": "s-d1d931a55a0f-c002:a006",
+      "kind": "association",
+      "condition": "",
+      "reason": "冠军型父母是概念，成绩优异孩子的经历是具体案例；应有案例作为概念的示例，原方向不成立。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向颠倒，改为关联并保留未删除原子。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c002:a004",
+      "target": "s-d1d931a55a0f-c002:a007",
+      "kind": "supports",
+      "condition": "冠军型父母伤害孩子被无条件接纳的需求",
+      "reason": "冠军型父母要求孩子全能全才，其行为传递出有条件的信息，导致孩子被无条件接纳的需求受到伤害。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "因果方向正确，用支持关系表达。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c002:a004",
+      "target": "s-d1d931a55a0f-c002:a009",
+      "kind": "causes",
+      "condition": "冠军型父母导致孩子完美主义",
+      "reason": "a009 指出冠军型父母容易让孩子形成完美主义，是 a004 行为的后果。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c002:a011",
+      "target": "s-d1d931a55a0f-c002:a004",
+      "kind": "applies_to",
+      "condition": "解决冠军型父母问题的方法",
+      "reason": "a011 提供了解决冠军型父母问题的方法，适用于 a004 描述的问题。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c002:a012",
+      "target": "s-d1d931a55a0f-c002:a004",
+      "kind": "association",
+      "condition": "解决冠军型父母问题的方法",
+      "reason": "处理父母自身过去伤害以建立无条件接纳模式是解决冠军型父母问题的方法，与冠军型父母类型相关，但不构成直接支持或因果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原应用关系不在允许类型内，改为关联。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c002:a013",
+      "target": "s-d1d931a55a0f-c002:a004",
+      "kind": "association",
+      "condition": "解决冠军型父母问题的方法",
+      "reason": "享受孩子的缺点是解决冠军型父母问题的方法，与冠军型父母类型相关，但不构成直接支持或因果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原应用关系不在允许类型内，改为关联。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c002:a015",
+      "target": "s-d1d931a55a0f-c002:a016",
+      "kind": "causes",
+      "condition": "幻影型父母导致孩子与父母不亲近",
+      "reason": "a016 描述了幻影型家庭中孩子与父母的关系，是 a015 定义的后果。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c002:a015",
+      "target": "s-d1d931a55a0f-c002:a022",
+      "kind": "causes",
+      "condition": "幻影型父母导致孩子进入表象关系",
+      "reason": "a022 描述了幻影型父母对孩子亲密关系的影响，是 a015 行为的后果。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c002:a015",
+      "target": "s-d1d931a55a0f-c002:a025",
+      "kind": "supports",
+      "condition": "幻影型父母导致孩子不信任人",
+      "reason": "幻影型父母情绪极度失联，与孩子没有情绪连接，导致孩子难以对人产生信任并与人保持距离。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "因果方向正确，用支持关系表达。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c002:a015",
+      "target": "s-d1d931a55a0f-c002:a026",
+      "kind": "causes",
+      "condition": "幻影型孩子测试关系真实性",
+      "reason": "a026 描述了幻影型家庭的孩子在亲密关系中的测试行为，是 a015 行为的后果。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c002:a018",
+      "target": "s-d1d931a55a0f-c002:a015",
+      "kind": "supports",
+      "condition": "幻影型父母形成的原因",
+      "reason": "幻影型父母可能因工作忙、自身连接断开或认知不足等原因，缺乏与孩子的情绪连接，这解释了他们成为幻影型父母的原因。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "成因支持类型，方向正确。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c002:a024",
+      "target": "s-d1d931a55a0f-c002:a015",
+      "kind": "applies_to",
+      "condition": "自我检测情绪失联",
+      "reason": "a024 提供了判断自己是否情绪失联的方法，适用于识别幻影型育儿。"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:v2-n001",
+      "target": "s-d1d931a55a0f-c001:a019",
+      "kind": "association",
+      "condition": "无特殊条件",
+      "reason": "a019 是 source 的简化复述，内容实质一致，仅关联无新增。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a019",
+      "target": "s-d1d931a55a0f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特殊条件",
+      "reason": "a019 是 source 的简化复述，内容实质一致，仅关联无新增。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:v2-n001",
+      "target": "s-d1d931a55a0f-c002:a002",
+      "kind": "association",
+      "condition": "无特殊条件",
+      "reason": "a002 提取了 source 中'根据孩子年龄逐步放手'这一要点，是 source 的一个组成部分，但无进一步类型关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c002:a002",
+      "target": "s-d1d931a55a0f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特殊条件",
+      "reason": "a002 提取了 source 中'根据孩子年龄逐步放手'这一要点，是 source 的一个组成部分，但无进一步类型关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:v2-n001",
+      "target": "s-d1d931a55a0f-c002:a001",
+      "kind": "conditional_difference",
+      "condition": "source 适用于不可分割型育儿；candidate 适用于逃避亲密关系模式",
+      "reason": "两者都使用界限，但对象和问题不同：source 针对育儿类型，candidate 针对成人逃避亲密关系，条件差异明显。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c002:a001",
+      "target": "s-d1d931a55a0f-c001:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "source 适用于不可分割型育儿；candidate 适用于逃避亲密关系模式",
+      "reason": "两者都使用界限，但对象和问题不同：source 针对育儿类型，candidate 针对成人逃避亲密关系，条件差异明显。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:v2-n001",
+      "target": "s-d1d931a55a0f-c001:a012",
+      "kind": "conditional_difference",
+      "condition": "source 针对不可分割型；a012 针对非我即敌型",
+      "reason": "两者是不同育儿类型的改善方法，source 用界限，a012 用逐步放权，针对不同类型，方法不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a012",
+      "target": "s-d1d931a55a0f-c001:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "source 针对不可分割型；a012 针对非我即敌型",
+      "reason": "两者是不同育儿类型的改善方法，source 用界限，a012 用逐步放权，针对不同类型，方法不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:v2-n001",
+      "target": "s-d1d931a55a0f-c001:a013",
+      "kind": "conditional_difference",
+      "condition": "source 针对不可分割型；a013 针对非我即敌型",
+      "reason": "两者是不同育儿类型的改善方法，source 用界限，a013 鼓励孩子挑战父母，条件不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a013",
+      "target": "s-d1d931a55a0f-c001:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "source 针对不可分割型；a013 针对非我即敌型",
+      "reason": "两者是不同育儿类型的改善方法，source 用界限，a013 鼓励孩子挑战父母，条件不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:v2-n001",
+      "target": "s-d1d931a55a0f-c001:r001",
+      "kind": "complements",
+      "condition": "在同一育儿类型（不可分割型）下",
+      "reason": "r001 描述不可分割型育儿核心特征；source 提供针对该类型的改善方法（用界限），两者互补：一个定义问题，一个给出方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:r001",
+      "target": "s-d1d931a55a0f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在同一育儿类型（不可分割型）下",
+      "reason": "r001 描述不可分割型育儿核心特征；source 提供针对该类型的改善方法（用界限），两者互补：一个定义问题，一个给出方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:v2-n001",
+      "target": "s-d1d931a55a0f-c001:a015",
+      "kind": "complements",
+      "condition": "在同一育儿类型（不可分割型）下",
+      "reason": "a015 提供了不可分割型育儿类型的定义和案例；source 补充了针对该类型的改善方法，互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a015",
+      "target": "s-d1d931a55a0f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在同一育儿类型（不可分割型）下",
+      "reason": "a015 提供了不可分割型育儿类型的定义和案例；source 补充了针对该类型的改善方法，互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:v2-n001",
+      "target": "s-d1d931a55a0f-c001:a017",
+      "kind": "association",
+      "condition": "无特殊条件",
+      "reason": "两者都与不可分割型育儿相关，但 a017 讲该类型的负面伤害，source 讲改善方法，关联但不构成互补或因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a017",
+      "target": "s-d1d931a55a0f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特殊条件",
+      "reason": "两者都与不可分割型育儿相关，但 a017 讲该类型的负面伤害，source 讲改善方法，关联但不构成互补或因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:v2-n001",
+      "target": "s-d1d931a55a0f-c001:a018",
+      "kind": "association",
+      "condition": "无特殊条件",
+      "reason": "同上，a018 是另一伤害，与 source 关联但无明确关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a018",
+      "target": "s-d1d931a55a0f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特殊条件",
+      "reason": "同上，a018 是另一伤害，与 source 关联但无明确关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:v2-n001",
+      "target": "s-d1d931a55a0f-c001:a004",
+      "kind": "conditional_difference",
+      "condition": "source 针对不可分割型；a004 定义非我即敌型",
+      "reason": "source 是改善不可分割型育儿的方法，a004 是另一种育儿类型定义，条件不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a004",
+      "target": "s-d1d931a55a0f-c001:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "source 针对不可分割型；a004 定义非我即敌型",
+      "reason": "source 是改善不可分割型育儿的方法，a004 是另一种育儿类型定义，条件不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:v2-n001",
+      "target": "s-d1d931a55a0f-c002:r001",
+      "kind": "association",
+      "condition": "无特殊条件",
+      "reason": "c002:r001 是冠军型父母的解决步骤，与 source 不同育儿类型，方法不同，仅因同属育儿主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c002:r001",
+      "target": "s-d1d931a55a0f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特殊条件",
+      "reason": "c002:r001 是冠军型父母的解决步骤，与 source 不同育儿类型，方法不同，仅因同属育儿主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:v2-n001",
+      "target": "s-d1d931a55a0f-c001:a014",
+      "kind": "association",
+      "condition": "无特殊条件",
+      "reason": "a014 是通用育儿目标，source 的逐步放手可能有助于实现该目标，但未明确因果，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d1d931a55a0f-c001:a014",
+      "target": "s-d1d931a55a0f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特殊条件",
+      "reason": "a014 是通用育儿目标，source 的逐步放手可能有助于实现该目标，但未明确因果，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "自我认知",
+      "to": "界限",
+      "when": "父母认识到自己的育儿类型后，需要学习如何立界限来改善",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a001",
+        "s-d1d931a55a0f-c001:a012",
+        "s-d1d931a55a0f-c001:a013",
+        "s-d1d931a55a0f-c001:a019"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "依赖与失控",
+      "when": "父母通过立界限和逐步放手，可以预防孩子出现依赖或失控行为",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a019",
+        "s-d1d931a55a0f-c001:a008",
+        "s-d1d931a55a0f-c001:a009",
+        "s-d1d931a55a0f-c001:a011",
+        "s-d1d931a55a0f-c001:a017",
+        "s-d1d931a55a0f-c001:a018"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "依赖与失控",
+      "when": "父母缺乏情绪连接（幻影型）时，孩子可能发展出依赖或失控的亲密关系模式",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a015",
+        "s-d1d931a55a0f-c002:a022",
+        "s-d1d931a55a0f-c002:a025",
+        "s-d1d931a55a0f-c002:a026"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "理解情绪",
+      "when": "冠军型父母通过行为传递有条件接纳，伤害孩子被无条件接纳的需求",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a004",
+        "s-d1d931a55a0f-c002:a007",
+        "s-d1d931a55a0f-c002:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a015",
+        "s-d1d931a55a0f-c001:r001"
+      ],
+      "reason": "两者内容完全一致，均描述不可分割型父母允许孩子独立但威胁家庭整体感时坚决制止。"
+    },
+    {
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a025",
+        "s-d1d931a55a0f-c002:r002"
+      ],
+      "reason": "r002 是 a025 和 a026 的合并，但 a025 单独存在，r002 包含 a025 的全部内容，因此 a025 与 r002 中对应部分重复。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a008",
+        "s-d1d931a55a0f-c001:a009"
+      ],
+      "description": "非我即敌型育儿可能导致孩子低人一等或高人一等，两种表现看似矛盾，但记录 a010 指出可能在不同场合并存，因此并非真正矛盾，而是不同情境下的表现。",
+      "needed_evidence": "无需额外证据，a010 已解释并存现象。"
+    },
+    {
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a010"
+      ],
+      "description": "完美主义孩子可能走向两个极端：成为行业佼佼者或因害怕犯错而不愿尝试。记录未说明何种条件下走向哪个极端，缺乏适用范围。",
+      "needed_evidence": "需要研究或案例说明影响完美主义孩子走向不同极端的因素。"
+    }
+  ],
+  "path": [
+    {
+      "name": "改善育儿类型的通用路径",
+      "steps": [
+        {
+          "action": "认知自身育儿方式",
+          "atom_ids": [
+            "s-d1d931a55a0f-c001:a001"
+          ],
+          "condition": "父母首先需要清楚知道自己的育儿类型"
+        },
+        {
+          "action": "针对不同类型采取改善措施",
+          "atom_ids": [
+            "s-d1d931a55a0f-c001:a012",
+            "s-d1d931a55a0f-c001:a013",
+            "s-d1d931a55a0f-c001:a019",
+            "s-d1d931a55a0f-c002:a011",
+            "s-d1d931a55a0f-c002:a012",
+            "s-d1d931a55a0f-c002:a013"
+          ],
+          "condition": "根据具体育儿类型选择相应方法"
+        },
+        {
+          "action": "培养孩子独立做决定的能力",
+          "atom_ids": [
+            "s-d1d931a55a0f-c001:a014"
+          ],
+          "condition": "育儿目标是帮助孩子离开父母后仍能独立做决定"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-d1d931a55a0f-c001:u001",
+      "kind": "concept_definition",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u002",
+      "kind": "concept_definition",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a002"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u003",
+      "kind": "concept_definition",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a003"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u004",
+      "kind": "concept_definition",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a004"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009",
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u005",
+      "kind": "concept_definition",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a005"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u006",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a006"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u007",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a007"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u008",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a008"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u009",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a009"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023",
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029",
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u010",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a010"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u011",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a011"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035",
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a012"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a013"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a014"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u015",
+      "kind": "concept_definition",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a015",
+        "s-d1d931a55a0f-c001:r001"
+      ],
+      "blocks": [
+        "b00045",
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a016"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00049",
+        "b00050",
+        "b00051",
+        "b00052",
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u017",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a017"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u018",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a018"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c001:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a001"
+      ],
+      "blocks": [
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:a019",
+        "s-d1d931a55a0f-c002:a002"
+      ],
+      "blocks": [
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u003",
+      "kind": "method",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a003"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a004"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a005"
+      ],
+      "blocks": [
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a006"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067",
+        "b00068",
+        "b00069",
+        "b00070",
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a007"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a008"
+      ],
+      "blocks": [
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a009"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a010"
+      ],
+      "blocks": [
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a010"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u012a",
+      "kind": "method",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a011"
+      ],
+      "blocks": [
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u012b",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a011"
+      ],
+      "blocks": [
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u012c",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a012"
+      ],
+      "blocks": [
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a012"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a013"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a014"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085",
+        "b00086",
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a013"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a015"
+      ],
+      "blocks": [
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a016"
+      ],
+      "blocks": [
+        "b00093",
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a017"
+      ],
+      "blocks": [
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u021",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a018"
+      ],
+      "blocks": [
+        "b00095",
+        "b00096",
+        "b00097"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a019"
+      ],
+      "blocks": [
+        "b00097",
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a020"
+      ],
+      "blocks": [
+        "b00099",
+        "b00100"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a021"
+      ],
+      "blocks": [
+        "b00101"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a022"
+      ],
+      "blocks": [
+        "b00102",
+        "b00103"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u026",
+      "kind": "case",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a023"
+      ],
+      "blocks": [
+        "b00103",
+        "b00104",
+        "b00105",
+        "b00106",
+        "b00107"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u027",
+      "kind": "method",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a024"
+      ],
+      "blocks": [
+        "b00108",
+        "b00109"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a025"
+      ],
+      "blocks": [
+        "b00109",
+        "b00110",
+        "b00111"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a026"
+      ],
+      "blocks": [
+        "b00112",
+        "b00113"
+      ]
+    },
+    {
+      "id": "s-d1d931a55a0f-c002:u030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d1d931a55a0f-c002:a027"
+      ],
+      "blocks": [
+        "b00113"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "不可分割型育儿的改善方法：用界限解决",
+      "atom_ids": [
+        "s-d1d931a55a0f-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-d1d931a55a0f",
+          "blocks": [
+            "b00061",
+            "b00062"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

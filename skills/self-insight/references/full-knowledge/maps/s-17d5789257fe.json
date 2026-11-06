@@ -1,0 +1,1365 @@
+{
+  "concepts": [
+    {
+      "name": "喜欢自己的误区",
+      "definition": "认为外在条件优越、获得成就或过度夸奖就能让孩子喜欢自己，但实际并非如此。",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a002",
+        "s-17d5789257fe-c001:a004",
+        "s-17d5789257fe-c001:a007"
+      ]
+    },
+    {
+      "name": "自我厌恶的案例",
+      "definition": "外在条件优越或获得很多的人仍可能极度厌恶自己，甚至出现自伤或自杀行为。",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a001",
+        "s-17d5789257fe-c001:a003",
+        "s-17d5789257fe-c001:a006"
+      ]
+    },
+    {
+      "name": "真正的喜欢自己",
+      "definition": "无论犯错还是做对、成功还是失败，都对自己有发自内心深处的接纳和喜欢。",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a011"
+      ]
+    },
+    {
+      "name": "尊重孩子",
+      "definition": "建立孩子自我认知的方法之一，包括不打断孩子说话、眼睛注视孩子、允许并鼓励不同想法。",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a013",
+        "s-17d5789257fe-c001:a014",
+        "s-17d5789257fe-c001:a016",
+        "s-17d5789257fe-c001:a017"
+      ]
+    },
+    {
+      "name": "倾听孩子",
+      "definition": "真正听孩子表达的内容，不急于反应或纠正，了解话语背后的含义。",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a019",
+        "s-17d5789257fe-c001:r001",
+        "s-17d5789257fe-c001:r002",
+        "s-17d5789257fe-c001:r003"
+      ]
+    },
+    {
+      "name": "无条件接纳",
+      "definition": "即使孩子做得不够好或做错事，仍然爱他，肯定他的宝贵价值，同时可以要求改进。",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a022",
+        "s-17d5789257fe-c001:a026",
+        "s-17d5789257fe-c001:a027",
+        "s-17d5789257fe-c002:a001",
+        "s-17d5789257fe-c002:a002",
+        "s-17d5789257fe-c002:a003"
+      ]
+    },
+    {
+      "name": "敢犯错与喜欢自己",
+      "definition": "敢犯错的孩子喜欢自己，不敢犯错的孩子无法喜欢自己，因为不知道自己的能耐。",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a010"
+      ]
+    },
+    {
+      "name": "情绪识别与自我厌恶",
+      "definition": "无法识别自己的情绪会导致错误归因和自我厌恶，帮助孩子喜欢自己必须建立情绪识别能力。",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a016"
+      ]
+    },
+    {
+      "name": "让孩子感到重要",
+      "definition": "让孩子知道自己很重要，他才有可能喜欢自己，方法包括花时间陪伴、给予控制和选择、认输认错等。",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a012",
+        "s-17d5789257fe-c002:a013",
+        "s-17d5789257fe-c002:a014"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-17d5789257fe-c001:a002",
+      "target": "s-17d5789257fe-c001:a001",
+      "kind": "association",
+      "condition": "",
+      "reason": "富商女儿案例是优秀就会喜欢自己这一误区的例证，原方向反，以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向有误。"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a004",
+      "target": "s-17d5789257fe-c001:a006",
+      "kind": "example_of",
+      "condition": "哈佛博士后自杀案例说明获得很多仍厌恶自己",
+      "reason": "记录a004指出误区，a006提供具体案例支持"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a007",
+      "target": "s-17d5789257fe-c001:a008",
+      "kind": "causes",
+      "condition": "过度夸奖导致自我厌恶",
+      "reason": "记录a007指出误区，a008解释过度夸奖导致自我厌恶的机制"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a008",
+      "target": "s-17d5789257fe-c001:a009",
+      "kind": "example_of",
+      "condition": "名校学生落差导致自卑是过度夸奖后果的体现",
+      "reason": "记录a008描述过度夸奖导致自我厌恶，a009提供名校落差案例"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a013",
+      "target": "s-17d5789257fe-c001:a014",
+      "kind": "step_of",
+      "condition": "尊重孩子包括不打断孩子说话",
+      "reason": "记录a013列出尊重孩子的具体方法，a014详细说明不打断孩子说话"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a013",
+      "target": "s-17d5789257fe-c001:a016",
+      "kind": "association",
+      "condition": "",
+      "reason": "眼睛注视孩子是尊重孩子的一个具体步骤，原方向反，以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 方向有误。"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a013",
+      "target": "s-17d5789257fe-c001:a017",
+      "kind": "association",
+      "condition": "",
+      "reason": "允许不同想法是尊重孩子的一个具体步骤，原方向反，以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 方向有误。"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a019",
+      "target": "s-17d5789257fe-c001:r001",
+      "kind": "supports",
+      "condition": "倾听与听见的区别",
+      "reason": "记录a019强调真正听孩子表达，r001解释听见与倾听的区别"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a019",
+      "target": "s-17d5789257fe-c001:r002",
+      "kind": "step_of",
+      "condition": "倾听孩子意外想法时的自我提醒",
+      "reason": "记录a019提出倾听方法，r002提供具体自我提醒步骤"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a019",
+      "target": "s-17d5789257fe-c001:r003",
+      "kind": "step_of",
+      "condition": "倾听孩子时的具体行为示范",
+      "reason": "记录a019提出倾听方法，r003提供具体行为示范"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a022",
+      "target": "s-17d5789257fe-c001:a026",
+      "kind": "supports",
+      "condition": "",
+      "reason": "无条件接纳的定义中明确区分接纳与要求改变，支持无条件接纳与要求改变的区别这一命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-17d5789257fe-c001:a022",
+      "target": "s-17d5789257fe-c001:a027",
+      "kind": "association",
+      "condition": "",
+      "reason": "粪坑比喻是无条件接纳与要求改进关系的说明，原方向反，以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向有误。"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a022",
+      "target": "s-17d5789257fe-c002:a001",
+      "kind": "supports",
+      "condition": "无条件接纳不等于不提要求",
+      "reason": "无条件接纳孩子的定义中明确接纳不等于不要求改变，可以要求改进，与“无条件的接纳不等于不提要求”的命题一致，进一步强调接纳与要求并存。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-17d5789257fe-c001:a022",
+      "target": "s-17d5789257fe-c002:a003",
+      "kind": "supports",
+      "condition": "无条件接纳的完整定义",
+      "reason": "无条件接纳孩子的定义说明了爱不因表现改变且要求改进，与“无条件接纳的完整定义”中接纳孩子本来的样子并帮助他变得更好的表述一致，后者补充了具体情形。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-17d5789257fe-c002:a004",
+      "target": "s-17d5789257fe-c002:a005",
+      "kind": "causes",
+      "condition": "父母反应过激导致孩子避免失败",
+      "reason": "记录a004描述反应过激导致自我否定，a005说明愤怒信息传递导致避免失败"
+    },
+    {
+      "source": "s-17d5789257fe-c002:a004",
+      "target": "s-17d5789257fe-c002:a006",
+      "kind": "example_of",
+      "condition": "滑冰孩子抗拒新动作是反应过激的案例",
+      "reason": "记录a004描述反应过激导致自我否定，a006提供具体案例"
+    },
+    {
+      "source": "s-17d5789257fe-c002:a007",
+      "target": "s-17d5789257fe-c002:a008",
+      "kind": "step_of",
+      "condition": "欢迎犯错后要用正确语言引导",
+      "reason": "记录a007提出欢迎犯错的态度，a008提供具体语言引导方法"
+    },
+    {
+      "source": "s-17d5789257fe-c002:a008",
+      "target": "s-17d5789257fe-c002:a009",
+      "kind": "causes",
+      "condition": "引导描述错误体验有双重作用",
+      "reason": "记录a008提出引导方法，a009解释其双重作用"
+    },
+    {
+      "source": "s-17d5789257fe-c002:a010",
+      "target": "s-17d5789257fe-c002:a007",
+      "kind": "supports",
+      "condition": "敢犯错需要父母欢迎犯错的态度",
+      "reason": "记录a010说明敢犯错与喜欢自己的关系，a007提供欢迎犯错的态度"
+    },
+    {
+      "source": "s-17d5789257fe-c002:a012",
+      "target": "s-17d5789257fe-c002:a014",
+      "kind": "causes",
+      "condition": "让孩子感到重要才能喜欢自己",
+      "reason": "记录a012提出让孩子感到重要的方法，a014说明不觉得自己重要无法喜欢自己"
+    },
+    {
+      "source": "s-17d5789257fe-c002:a013",
+      "target": "s-17d5789257fe-c002:a014",
+      "kind": "supports",
+      "condition": "认输认错让孩子感到有力量",
+      "reason": "记录a013提出认输认错让孩子感到有力量，a014说明重要性对喜欢自己的影响"
+    },
+    {
+      "source": "s-17d5789257fe-c002:a016",
+      "target": "s-17d5789257fe-c002:a015",
+      "kind": "example_of",
+      "condition": "妻子无法识别情绪导致自我厌恶",
+      "reason": "记录a016提出无法识别情绪导致自我厌恶，a015提供具体案例"
+    },
+    {
+      "source": "s-17d5789257fe-c002:a016",
+      "target": "s-17d5789257fe-c002:a017",
+      "kind": "step_of",
+      "condition": "建立情绪识别能力的第一步是建立情绪词汇",
+      "reason": "记录a016提出需要建立情绪识别能力，a017提供建立情绪词汇的方法"
+    },
+    {
+      "source": "s-17d5789257fe-c002:a018",
+      "target": "s-17d5789257fe-c002:a020",
+      "kind": "supports",
+      "condition": "鼓励正常情绪有助于避免情绪不对等",
+      "reason": "鼓励孩子有正常情绪的具体做法支持了情绪不对等导致难以喜欢自己的论断，因为允许正常情绪可以防止情绪与状态不对等，从而帮助孩子喜欢自己。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型为causes，不属于允许的关系类型，修订为supports。"
+    },
+    {
+      "source": "s-17d5789257fe-c002:a021",
+      "target": "s-17d5789257fe-c002:a018",
+      "kind": "step_of",
+      "condition": "拿走障碍包括允许负面情绪发生",
+      "reason": "记录a021提出拿走障碍让孩子自然喜欢自己，a018提供允许正常情绪的具体做法"
+    },
+    {
+      "source": "s-17d5789257fe-c001:v2-n001",
+      "target": "s-17d5789257fe-c001:a004",
+      "kind": "complements",
+      "condition": "在澄清喜欢自己的误区时",
+      "reason": "候选具体指出“获得越多就越喜欢自己”是误区，并说明拥有很多也可能厌恶自己，补充了source观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a004",
+      "target": "s-17d5789257fe-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在澄清喜欢自己的误区时",
+      "reason": "候选具体指出“获得越多就越喜欢自己”是误区，并说明拥有很多也可能厌恶自己，补充了source观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:v2-n001",
+      "target": "s-17d5789257fe-c001:a005",
+      "kind": "complements",
+      "condition": "在分析获得与自我喜欢关系时",
+      "reason": "候选描述了获得后仍不喜欢自己的可悲处境，补充了source所陈述现象的具体后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a005",
+      "target": "s-17d5789257fe-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在分析获得与自我喜欢关系时",
+      "reason": "候选描述了获得后仍不喜欢自己的可悲处境，补充了source所陈述现象的具体后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:v2-n001",
+      "target": "s-17d5789257fe-c001:a002",
+      "kind": "complements",
+      "condition": "在澄清喜欢自己的误区时",
+      "reason": "候选指出“优秀、美丽、条件好就会喜欢自己”是误区，补充了source“获得多少不决定”的另一个表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a002",
+      "target": "s-17d5789257fe-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在澄清喜欢自己的误区时",
+      "reason": "候选指出“优秀、美丽、条件好就会喜欢自己”是误区，补充了source“获得多少不决定”的另一个表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:v2-n001",
+      "target": "s-17d5789257fe-c001:a011",
+      "kind": "complements",
+      "condition": "在界定喜欢自己概念时",
+      "reason": "候选给出了喜欢自己的完整定义，帮助理解source为何说获得多少不决定自我喜欢。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a011",
+      "target": "s-17d5789257fe-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在界定喜欢自己概念时",
+      "reason": "候选给出了喜欢自己的完整定义，帮助理解source为何说获得多少不决定自我喜欢。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:v2-n001",
+      "target": "s-17d5789257fe-c001:a001",
+      "kind": "complements",
+      "condition": "举例说明外在优越却自我厌恶时",
+      "reason": "候选富商女儿案例具体展示了外在条件优越仍自我厌恶，补充了source观点的实例验证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a001",
+      "target": "s-17d5789257fe-c001:v2-n001",
+      "kind": "complements",
+      "condition": "举例说明外在优越却自我厌恶时",
+      "reason": "候选富商女儿案例具体展示了外在条件优越仍自我厌恶，补充了source观点的实例验证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:v2-n002",
+      "target": "s-17d5789257fe-c002:a002",
+      "kind": "complements",
+      "condition": "在使用粪坑比喻解释接纳与清洁时",
+      "reason": "候选详细描述了父母不会让孩子直接去睡觉而要求清洗，补充了source比喻的具体反应。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c002:a002",
+      "target": "s-17d5789257fe-c001:v2-n002",
+      "kind": "complements",
+      "condition": "在使用粪坑比喻解释接纳与清洁时",
+      "reason": "候选详细描述了父母不会让孩子直接去睡觉而要求清洗，补充了source比喻的具体反应。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:v2-n002",
+      "target": "s-17d5789257fe-c001:a027",
+      "kind": "complements",
+      "condition": "在使用粪坑比喻说明接纳与清洁时",
+      "reason": "候选以父母具体话语示例，补充了source中要求清洗的表达方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a027",
+      "target": "s-17d5789257fe-c001:v2-n002",
+      "kind": "complements",
+      "condition": "在使用粪坑比喻说明接纳与清洁时",
+      "reason": "候选以父母具体话语示例，补充了source中要求清洗的表达方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:v2-n002",
+      "target": "s-17d5789257fe-c001:a026",
+      "kind": "complements",
+      "condition": "在理解无条件接纳与要求改变的原则时",
+      "reason": "候选从原则上说明接纳与要求改变不相矛盾，并补充了要求改变的动机是希望孩子更好。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a026",
+      "target": "s-17d5789257fe-c001:v2-n002",
+      "kind": "complements",
+      "condition": "在理解无条件接纳与要求改变的原则时",
+      "reason": "候选从原则上说明接纳与要求改变不相矛盾，并补充了要求改变的动机是希望孩子更好。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:v2-n002",
+      "target": "s-17d5789257fe-c002:a001",
+      "kind": "complements",
+      "condition": "在实践无条件接纳与要求改变时",
+      "reason": "候选明确要求改变的目的是让孩子在具体事情上做得更好，补充了source具体目的。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c002:a001",
+      "target": "s-17d5789257fe-c001:v2-n002",
+      "kind": "complements",
+      "condition": "在实践无条件接纳与要求改变时",
+      "reason": "候选明确要求改变的目的是让孩子在具体事情上做得更好，补充了source具体目的。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:v2-n002",
+      "target": "s-17d5789257fe-c001:a022",
+      "kind": "complements",
+      "condition": "在建立自我认知方法的框架下",
+      "reason": "候选将source比喻纳入无条件接纳方法，补充了爱不因表现改变和改进必要性等内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a022",
+      "target": "s-17d5789257fe-c001:v2-n002",
+      "kind": "complements",
+      "condition": "在建立自我认知方法的框架下",
+      "reason": "候选将source比喻纳入无条件接纳方法，补充了爱不因表现改变和改进必要性等内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:v2-n002",
+      "target": "s-17d5789257fe-c002:a003",
+      "kind": "complements",
+      "condition": "在定义无条件接纳时",
+      "reason": "候选提供了无条件接纳的完整定义，补充了source比喻所表达的核心含义。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c002:a003",
+      "target": "s-17d5789257fe-c001:v2-n002",
+      "kind": "complements",
+      "condition": "在定义无条件接纳时",
+      "reason": "候选提供了无条件接纳的完整定义，补充了source比喻所表达的核心含义。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:v2-n002",
+      "target": "s-17d5789257fe-c001:a024",
+      "kind": "complements",
+      "condition": "在通过亲子游戏传递无条件接纳时",
+      "reason": "候选展示了游戏中如何同时表达爱和管教措施，补充了source“接纳与要求改变并存”的具体操作方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-17d5789257fe-c001:a024",
+      "target": "s-17d5789257fe-c001:v2-n002",
+      "kind": "complements",
+      "condition": "在通过亲子游戏传递无条件接纳时",
+      "reason": "候选展示了游戏中如何同时表达爱和管教措施，补充了source“接纳与要求改变并存”的具体操作方法。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "自我认知",
+      "when": "父母通过尊重、倾听、无条件接纳等界限行为建立孩子自我认知",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a013",
+        "s-17d5789257fe-c001:a019",
+        "s-17d5789257fe-c001:a022",
+        "s-17d5789257fe-c002:a004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我认知",
+      "when": "帮助孩子识别情绪、允许正常情绪，促进喜欢自己",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a016",
+        "s-17d5789257fe-c002:a018",
+        "s-17d5789257fe-c002:a020"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "自我认知",
+      "when": "根据孩子年龄给予适当控制和选择，高质量陪伴提升自我认知",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a011",
+        "s-17d5789257fe-c002:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "自我认知",
+      "when": "父母在孩子面前认输认错，让孩子感到有力量",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a013"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "依赖与失控",
+      "to": "界限",
+      "when": "有条件接纳导致上瘾问题，需要无条件接纳来预防",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a025",
+        "s-17d5789257fe-c001:r004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c001:a026",
+        "s-17d5789257fe-c002:a001"
+      ],
+      "reason": "内容完全等价，均表述无条件接纳不等于不提要求"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c001:a027",
+        "s-17d5789257fe-c002:a002"
+      ],
+      "reason": "内容完全等价，均用粪坑比喻说明接纳与清洁要求"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a003"
+      ],
+      "reason": "内容完全等价，均为无条件接纳的完整定义"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a004"
+      ],
+      "reason": "内容完全等价，均描述父母反应过激导致孩子自我否定"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a005"
+      ],
+      "reason": "内容完全等价，均描述愤怒信息传递导致避免失败"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a006"
+      ],
+      "reason": "内容完全等价，均为滑冰孩子抗拒新动作的案例"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a007"
+      ],
+      "reason": "内容完全等价，均为欢迎孩子犯错的态度"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a008"
+      ],
+      "reason": "内容完全等价，均为用正确语言对待孩子犯错"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a009"
+      ],
+      "reason": "内容完全等价，均为引导孩子描述错误体验的双重作用"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a010"
+      ],
+      "reason": "内容完全等价，均为敢犯错与喜欢自己的关系"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a011"
+      ],
+      "reason": "内容完全等价，均为高质量陪伴时间提升孩子自我认知"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a012"
+      ],
+      "reason": "内容完全等价，均为让孩子感到重要：给予控制和选择"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a013"
+      ],
+      "reason": "内容完全等价，均为在孩子面前认输认错让孩子感到有力量"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a014"
+      ],
+      "reason": "内容完全等价，均为不觉得自己重要的孩子无法喜欢自己"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a015"
+      ],
+      "reason": "内容完全等价，均为妻子无法识别情绪导致自我厌恶的案例"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a016"
+      ],
+      "reason": "内容完全等价，均为无法识别情绪导致错误归因和自我厌恶"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a017"
+      ],
+      "reason": "内容完全等价，均为建立情绪词汇的方法"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a018"
+      ],
+      "reason": "内容完全等价，均为鼓励孩子有正常情绪"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a019"
+      ],
+      "reason": "内容完全等价，均为孩子在学校哭被嘲笑后不敢哭的案例"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a020"
+      ],
+      "reason": "内容完全等价，均为情绪不对等导致难以喜欢自己"
+    },
+    {
+      "atom_ids": [
+        "s-17d5789257fe-c002:a021"
+      ],
+      "reason": "内容完全等价，均为拿走障碍让孩子自然喜欢自己"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "帮助孩子喜欢自己的方法",
+      "steps": [
+        {
+          "action": "尊重孩子",
+          "atom_ids": [
+            "s-17d5789257fe-c001:a013",
+            "s-17d5789257fe-c001:a014",
+            "s-17d5789257fe-c001:a016",
+            "s-17d5789257fe-c001:a017"
+          ],
+          "condition": "建立自我认知的基础"
+        },
+        {
+          "action": "倾听孩子",
+          "atom_ids": [
+            "s-17d5789257fe-c001:a019",
+            "s-17d5789257fe-c001:r001",
+            "s-17d5789257fe-c001:r002",
+            "s-17d5789257fe-c001:r003"
+          ],
+          "condition": "真正理解孩子想法"
+        },
+        {
+          "action": "无条件接纳",
+          "atom_ids": [
+            "s-17d5789257fe-c001:a022",
+            "s-17d5789257fe-c001:a026",
+            "s-17d5789257fe-c001:a027",
+            "s-17d5789257fe-c002:a001",
+            "s-17d5789257fe-c002:a002",
+            "s-17d5789257fe-c002:a003"
+          ],
+          "condition": "让孩子感到被爱，同时有要求"
+        },
+        {
+          "action": "欢迎犯错并正确引导",
+          "atom_ids": [
+            "s-17d5789257fe-c002:a007",
+            "s-17d5789257fe-c002:a008",
+            "s-17d5789257fe-c002:a009"
+          ],
+          "condition": "让孩子敢犯错，从错误中学习"
+        },
+        {
+          "action": "让孩子感到重要",
+          "atom_ids": [
+            "s-17d5789257fe-c002:a012",
+            "s-17d5789257fe-c002:a013",
+            "s-17d5789257fe-c002:a014"
+          ],
+          "condition": "通过陪伴、给予控制选择、认输认错"
+        },
+        {
+          "action": "帮助孩子识别情绪",
+          "atom_ids": [
+            "s-17d5789257fe-c002:a016",
+            "s-17d5789257fe-c002:a017",
+            "s-17d5789257fe-c002:a018",
+            "s-17d5789257fe-c002:a020"
+          ],
+          "condition": "建立情绪词汇，允许正常情绪"
+        },
+        {
+          "action": "拿走障碍，赋能孩子",
+          "atom_ids": [
+            "s-17d5789257fe-c002:a021"
+          ],
+          "condition": "让孩子自然喜欢自己"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-17d5789257fe-c001:u001",
+      "kind": "case",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a002"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a003"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a004"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a005"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a006"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a007"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a008"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a009"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a010"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a011"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a012"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a013"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00021",
+        "b00024",
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a014"
+      ],
+      "blocks": [
+        "b00018",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a015"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a016"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a017"
+      ],
+      "blocks": [
+        "b00024",
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a018"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a019"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028",
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c001:r001"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u022",
+      "kind": "example",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a020",
+        "s-17d5789257fe-c001:r002"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u023",
+      "kind": "case",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a021"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u024",
+      "kind": "method",
+      "atom_ids": [
+        "s-17d5789257fe-c001:r003"
+      ],
+      "blocks": [
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u025",
+      "kind": "method",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a022"
+      ],
+      "blocks": [
+        "b00036",
+        "b00038",
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u026",
+      "kind": "case",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a023"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u027",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a024"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a025",
+        "s-17d5789257fe-c001:r004"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c001:u029",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-17d5789257fe-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a022",
+        "s-17d5789257fe-c001:a026",
+        "s-17d5789257fe-c002:a001"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c001:a027",
+        "s-17d5789257fe-c002:a002"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a003"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a004"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a005"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a006"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a007"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048",
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a008"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u009",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a009"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a010"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a011"
+      ],
+      "blocks": [
+        "b00054",
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a012"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a013"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a014"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u015",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a016"
+      ],
+      "blocks": [
+        "b00060",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a015"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a017"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a018"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a019"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a020"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-17d5789257fe-c002:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-17d5789257fe-c002:a021"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "获得多少不决定快乐与自我喜欢",
+      "atom_ids": [
+        "s-17d5789257fe-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-17d5789257fe",
+          "blocks": [
+            "b00010"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "claim"
+    },
+    {
+      "title": "粪坑比喻：无条件接纳与要求改变不矛盾",
+      "atom_ids": [
+        "s-17d5789257fe-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-17d5789257fe",
+          "blocks": [
+            "b00042",
+            "b00043"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "metaphor"
+    }
+  ]
+}

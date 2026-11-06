@@ -1,0 +1,1525 @@
+{
+  "concepts": [
+    {
+      "name": "抓狂",
+      "definition": "孩子无法控制脾气过后的行为，如尖叫、哭闹、扔东西、打人等；也可能表现为封闭自己，不哭不闹、不说话。",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a001",
+        "s-1546a436fe3c-c001:a002"
+      ]
+    },
+    {
+      "name": "发脾气",
+      "definition": "孩子不能用语言表达情感或自我控制行为时，通过大喊大叫、跺脚、哭、尖叫等行为表达沮丧或需求；是孩子可以控制的行为。",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a005",
+        "s-1546a436fe3c-c001:a007"
+      ]
+    },
+    {
+      "name": "崩溃",
+      "definition": "另一种更严重的抓狂形式，本课未详细展开。",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a005",
+        "s-1546a436fe3c-c001:r001"
+      ]
+    },
+    {
+      "name": "心理需要",
+      "definition": "孩子发脾气背后的三种需要：需要确认、需要被理解、需要引导。",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a009"
+      ]
+    },
+    {
+      "name": "界限",
+      "definition": "认知孩子的心理需要，但在行为上不妥协；必须带有自然后果。",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a014",
+        "s-1546a436fe3c-c001:a015"
+      ]
+    },
+    {
+      "name": "情绪连接",
+      "definition": "在界限之后进行的三个步骤：回顾孩子的情绪、回顾事件并确认情绪与行为对应、赋能孩子。",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a016"
+      ]
+    },
+    {
+      "name": "赋能孩子",
+      "definition": "通过询问孩子如何控制自己的行为，让孩子回顾自己做得好的地方，从而增强力量感和巩固能力。",
+      "atom_ids": [
+        "s-1546a436fe3c-c002:a002",
+        "s-1546a436fe3c-c002:a005"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-1546a436fe3c-c001:a005",
+      "target": "s-1546a436fe3c-c001:a007",
+      "kind": "supports",
+      "condition": "发脾气类型",
+      "reason": "a005将抓狂分为发脾气和崩溃，a007进一步说明发脾气是孩子可以控制的行为。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a008",
+      "target": "s-1546a436fe3c-c001:a009",
+      "kind": "step_of",
+      "condition": "应对发脾气",
+      "reason": "a008给出应对发脾气的三个步骤，第一步是找出孩子的心理需要，a009详细说明三种心理需要。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a008",
+      "target": "s-1546a436fe3c-c001:a014",
+      "kind": "association",
+      "condition": "应对发脾气",
+      "reason": "应对发脾气的三个步骤包含设立界限；界限的含义解释了该步骤的内容。两者属于同一主题，后者是前者的细化，但不构成直接步骤顺序。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 改为 association。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a008",
+      "target": "s-1546a436fe3c-c001:a016",
+      "kind": "association",
+      "condition": "应对发脾气",
+      "reason": "应对发脾气的三个步骤的第三步是情绪连接；情绪连接的三个步骤详细说明了该步骤。两者为步骤与展开的关系，非直接步骤关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 改为 association。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a009",
+      "target": "s-1546a436fe3c-c001:a010",
+      "kind": "example_of",
+      "condition": "需要确认",
+      "reason": "a010案例中孩子通过攻击行为确认是否被爱，是a009中需要确认心理需要的实例。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a009",
+      "target": "s-1546a436fe3c-c001:a012",
+      "kind": "supports",
+      "condition": "需要被理解",
+      "reason": "a009提到需要被理解，a012说明情绪词汇帮助孩子表达感受，从而被理解。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a009",
+      "target": "s-1546a436fe3c-c001:a013",
+      "kind": "supports",
+      "condition": "需要引导",
+      "reason": "a009提到需要引导，a013说明持续管教提供安全感，满足引导需要。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a014",
+      "target": "s-1546a436fe3c-c001:a015",
+      "kind": "supports",
+      "condition": "界限",
+      "reason": "界限的含义定义界限为认知需要但不妥协，并举例打人会被阻止；界限需带有自然后果补充界限须有自然后果。两者一致，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a016",
+      "target": "s-1546a436fe3c-c001:r005",
+      "kind": "association",
+      "condition": "情绪连接第二步",
+      "reason": "情绪连接的三个步骤中第二步是回顾事件并确认情绪与行为对应；情绪连接中回顾事件的具体做法给出了该步骤的具体做法。两者为步骤与展开的关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 改为 association。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a016",
+      "target": "s-1546a436fe3c-c001:r006",
+      "kind": "association",
+      "condition": "情绪连接第三步",
+      "reason": "情绪连接的三个步骤中第三步是赋能孩子；赋能孩子的具体做法给出了该步骤的具体做法。两者为步骤与展开的关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 改为 association。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a017",
+      "target": "s-1546a436fe3c-c002:a001",
+      "kind": "contrasts",
+      "condition": "回顾事件方式",
+      "reason": "a017描述错误的回顾事件方式，c002:a001给出正确做法，形成对比。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:r004",
+      "target": "s-1546a436fe3c-c001:a016",
+      "kind": "supports",
+      "condition": "情绪连接必要性",
+      "reason": "情绪连接的必要性强调情绪连接是和好的关键；情绪连接的三个步骤提供了具体步骤。前者支持后者的重要性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1546a436fe3c-c002:a002",
+      "target": "s-1546a436fe3c-c002:a003",
+      "kind": "supports",
+      "condition": "赋能与大脑发育",
+      "reason": "a002赋能孩子通过询问控制行为，a003解释控制行为与前脑发育有关。"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:a002",
+      "target": "s-1546a436fe3c-c002:a004",
+      "kind": "supports",
+      "condition": "赋能话术",
+      "reason": "赋能孩子的方法给出了赋能方法步骤；通过询问赋能孩子的具体话术提供了具体话术。前者支持后者作为其方法的操作化。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1546a436fe3c-c002:a002",
+      "target": "s-1546a436fe3c-c002:a005",
+      "kind": "supports",
+      "condition": "赋能目的",
+      "reason": "a002描述赋能做法，a005说明赋能目的。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a007",
+      "target": "s-1546a436fe3c-c001:r003",
+      "kind": "supports",
+      "condition": "发脾气行为持续条件",
+      "reason": "a007提到发脾气能带来好处，r003进一步说明行为持续是因为带来好处，父母应提供后果。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a006",
+      "target": "s-1546a436fe3c-c001:a005",
+      "kind": "supports",
+      "condition": "发脾气行为表征",
+      "reason": "a005定义发脾气，a006列举更多行为表征。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a003",
+      "target": "s-1546a436fe3c-c001:a002",
+      "kind": "association",
+      "condition": "乖孩子抓狂表现",
+      "reason": "乖孩子也会抓狂的命题，与抓狂的另一种表现是封闭自己的命题同属抓狂表现主题，但前者不直接支持后者，故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 证据不足，修订为 association。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a004",
+      "target": "s-1546a436fe3c-c001:a001",
+      "kind": "association",
+      "condition": "同属抓狂主题",
+      "reason": "抓狂是求助信号说明抓狂背后的心理需求，但这一命题不直接支持抓狂的定义（无法控制脾气后的行为），故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 方向不成立，修订为 association。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a011",
+      "target": "s-1546a436fe3c-c001:a009",
+      "kind": "supports",
+      "condition": "批评引发发脾气",
+      "reason": "批评孩子容易引发发脾气指出批评让孩子感到不被接纳；发脾气背后的三种心理需要包括需要确认。前者提供具体情境，支持后者中需要确认的存在。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 改为 supports。"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a013",
+      "target": "s-1546a436fe3c-c001:a014",
+      "kind": "supports",
+      "condition": "管教与界限",
+      "reason": "持续管教提供安全感强调持续管教带来安全；界限的含义定义界限包括清楚告知行为边界。前者支持后者中持续管教是界限一部分的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1546a436fe3c-c001:v2-n001",
+      "target": "s-1546a436fe3c-c001:a009",
+      "kind": "complements",
+      "condition": "当需要具体化心理需要类型时",
+      "reason": "Source 提出想法根植于未被满足的需要，candidate 列出三种具体心理需要（确认、理解、引导），直接展开需要的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a009",
+      "target": "s-1546a436fe3c-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要具体化心理需要类型时",
+      "reason": "Source 提出想法根植于未被满足的需要，candidate 列出三种具体心理需要（确认、理解、引导），直接展开需要的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:v2-n001",
+      "target": "s-1546a436fe3c-c001:a006",
+      "kind": "complements",
+      "condition": "当需要列举发脾气行为的具体表现时",
+      "reason": "Source 提到行为由情绪驱动，但未描述具体行为，candidate 列举了打人、摔门、踢东西等行为表征。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a006",
+      "target": "s-1546a436fe3c-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要列举发脾气行为的具体表现时",
+      "reason": "Source 提到行为由情绪驱动，但未描述具体行为，candidate 列举了打人、摔门、踢东西等行为表征。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:v2-n001",
+      "target": "s-1546a436fe3c-c001:a004",
+      "kind": "complements",
+      "condition": "当需要理解抓狂的求助性质时",
+      "reason": "Source 强调追溯需要，candidate 进一步说明抓狂是求助信号，有心理需求未满足，强化了行为背后的需要视角。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a004",
+      "target": "s-1546a436fe3c-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解抓狂的求助性质时",
+      "reason": "Source 强调追溯需要，candidate 进一步说明抓狂是求助信号，有心理需求未满足，强化了行为背后的需要视角。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:v2-n001",
+      "target": "s-1546a436fe3c-c001:a008",
+      "kind": "complements",
+      "condition": "当需要应用心理三角处理发脾气时",
+      "reason": "Source 提供理论框架，candidate 给出具体三步（找需要、立界限、情绪连接），是将理论转化为操作步骤的补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a008",
+      "target": "s-1546a436fe3c-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要应用心理三角处理发脾气时",
+      "reason": "Source 提供理论框架，candidate 给出具体三步（找需要、立界限、情绪连接），是将理论转化为操作步骤的补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:v2-n001",
+      "target": "s-1546a436fe3c-c001:r003",
+      "kind": "association",
+      "condition": "当比较行为的内在动机与外在强化时",
+      "reason": "Source 解释行为由情绪想法需要驱动，candidate 解释行为因带来好处持续，两者机制不同但都解释行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:r003",
+      "target": "s-1546a436fe3c-c001:v2-n001",
+      "kind": "association",
+      "condition": "当比较行为的内在动机与外在强化时",
+      "reason": "Source 解释行为由情绪想法需要驱动，candidate 解释行为因带来好处持续，两者机制不同但都解释行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:v2-n001",
+      "target": "s-1546a436fe3c-c001:a001",
+      "kind": "association",
+      "condition": "当需要明确抓狂定义时",
+      "reason": "Candidate 定义抓狂为无法控制脾气后的行为，与 source 的发脾气行为概念相关但非直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a001",
+      "target": "s-1546a436fe3c-c001:v2-n001",
+      "kind": "association",
+      "condition": "当需要明确抓狂定义时",
+      "reason": "Candidate 定义抓狂为无法控制脾气后的行为，与 source 的发脾气行为概念相关但非直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:v2-n001",
+      "target": "s-1546a436fe3c-c001:a007",
+      "kind": "association",
+      "condition": "当讨论发脾气的可控制性时",
+      "reason": "Candidate 强调发脾气可控制，与 source 的心理三角角度不同，但同属发脾气主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a007",
+      "target": "s-1546a436fe3c-c001:v2-n001",
+      "kind": "association",
+      "condition": "当讨论发脾气的可控制性时",
+      "reason": "Candidate 强调发脾气可控制，与 source 的心理三角角度不同，但同属发脾气主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:v2-n001",
+      "target": "s-1546a436fe3c-c001:a005",
+      "kind": "association",
+      "condition": "当需要区分抓狂类型时",
+      "reason": "Candidate 将抓狂分为发脾气与崩溃，source 未区分，可作为背景关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a005",
+      "target": "s-1546a436fe3c-c001:v2-n001",
+      "kind": "association",
+      "condition": "当需要区分抓狂类型时",
+      "reason": "Candidate 将抓狂分为发脾气与崩溃，source 未区分，可作为背景关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:v2-n001",
+      "target": "s-1546a436fe3c-c001:r001",
+      "kind": "association",
+      "condition": "当需要区分抓狂类型时",
+      "reason": "类似前面，区分类型但与 source 无直接逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:r001",
+      "target": "s-1546a436fe3c-c001:v2-n001",
+      "kind": "association",
+      "condition": "当需要区分抓狂类型时",
+      "reason": "类似前面，区分类型但与 source 无直接逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:v2-n001",
+      "target": "s-1546a436fe3c-c001:a014",
+      "kind": "association",
+      "condition": "当讨论处理发脾气中的界限环节时",
+      "reason": "Candidate 定义界限，而 source 的应对步骤（如 a008）包含界限，但 source 本身未提及，故弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a014",
+      "target": "s-1546a436fe3c-c001:v2-n001",
+      "kind": "association",
+      "condition": "当讨论处理发脾气中的界限环节时",
+      "reason": "Candidate 定义界限，而 source 的应对步骤（如 a008）包含界限，但 source 本身未提及，故弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:v2-n001",
+      "target": "s-1546a436fe3c-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论处理发脾气的常见错误时",
+      "reason": "Candidate 指出缺少情绪连接的错误，与 source 的理论无直接关系，但同属发脾气处理。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n001",
+      "target": "s-1546a436fe3c-c001:v2-n001",
+      "kind": "association",
+      "condition": "当讨论处理发脾气的常见错误时",
+      "reason": "Candidate 指出缺少情绪连接的错误，与 source 的理论无直接关系，但同属发脾气处理。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:v2-n001",
+      "target": "s-1546a436fe3c-c001:r002",
+      "kind": "association",
+      "condition": "当考虑发脾气随年龄变化时",
+      "reason": "Candidate 讲随年龄改变，与 source 的心理三角无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:r002",
+      "target": "s-1546a436fe3c-c001:v2-n001",
+      "kind": "association",
+      "condition": "当考虑发脾气随年龄变化时",
+      "reason": "Candidate 讲随年龄改变，与 source 的心理三角无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n001",
+      "target": "s-1546a436fe3c-c001:a016",
+      "kind": "complements",
+      "condition": "当需要具体操作情绪连接时",
+      "reason": "Source 指出缺少情绪连接是错误的，candidate 展开情绪连接的三个步骤（回顾情绪、回顾事件、赋能），补充了具体做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a016",
+      "target": "s-1546a436fe3c-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要具体操作情绪连接时",
+      "reason": "Source 指出缺少情绪连接是错误的，candidate 展开情绪连接的三个步骤（回顾情绪、回顾事件、赋能），补充了具体做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n001",
+      "target": "s-1546a436fe3c-c002:v2-n003",
+      "kind": "complements",
+      "condition": "当需要识别另一种障碍时",
+      "reason": "Source 描述跳过情绪连接，candidate 补充有些父母因不愿回谈而跳过，是具体障碍形式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n003",
+      "target": "s-1546a436fe3c-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要识别另一种障碍时",
+      "reason": "Source 描述跳过情绪连接，candidate 补充有些父母因不愿回谈而跳过，是具体障碍形式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n001",
+      "target": "s-1546a436fe3c-c002:a001",
+      "kind": "complements",
+      "condition": "当需要正确回顾事件的注意事项时",
+      "reason": "Source 未提及回顾细节，candidate 说明回顾时要先回顾情绪再回顾行为，避免带入情绪或居高临下。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:a001",
+      "target": "s-1546a436fe3c-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要正确回顾事件的注意事项时",
+      "reason": "Source 未提及回顾细节，candidate 说明回顾时要先回顾情绪再回顾行为，避免带入情绪或居高临下。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n001",
+      "target": "s-1546a436fe3c-c001:a008",
+      "kind": "complements",
+      "condition": "当需要整体应对框架时",
+      "reason": "Source 强调情绪连接不可缺，candidate 给出三步应对，使情绪连接作为第三步，补充了前后关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a008",
+      "target": "s-1546a436fe3c-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要整体应对框架时",
+      "reason": "Source 强调情绪连接不可缺，candidate 给出三步应对，使情绪连接作为第三步，补充了前后关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n001",
+      "target": "s-1546a436fe3c-c001:a017",
+      "kind": "complements",
+      "condition": "当需要避免错误回顾方式时",
+      "reason": "Source 只说缺少情绪连接，candidate 具体指出错误回顾如只陈述行为不连接情绪，补充了常见错误。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a017",
+      "target": "s-1546a436fe3c-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要避免错误回顾方式时",
+      "reason": "Source 只说缺少情绪连接，candidate 具体指出错误回顾如只陈述行为不连接情绪，补充了常见错误。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n001",
+      "target": "s-1546a436fe3c-c001:r006",
+      "kind": "complements",
+      "condition": "当需要赋能孩子的具体做法时",
+      "reason": "Source 未涉及赋能，candidate 补充赋能是情绪连接最后一步，询问孩子在哪一步控制住自己。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:r006",
+      "target": "s-1546a436fe3c-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要赋能孩子的具体做法时",
+      "reason": "Source 未涉及赋能，candidate 补充赋能是情绪连接最后一步，询问孩子在哪一步控制住自己。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n001",
+      "target": "s-1546a436fe3c-c001:r005",
+      "kind": "complements",
+      "condition": "当需要回顾事件的详细做法时",
+      "reason": "Source 未给出回顾事件的具体提问方式，candidate 描述描述事件、询问情绪、每句问“对吗”，是操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:r005",
+      "target": "s-1546a436fe3c-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要回顾事件的详细做法时",
+      "reason": "Source 未给出回顾事件的具体提问方式，candidate 描述描述事件、询问情绪、每句问“对吗”，是操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n001",
+      "target": "s-1546a436fe3c-c001:r004",
+      "kind": "association",
+      "condition": "当强调情绪连接必要性时",
+      "reason": "Candidate 重复 source 中情绪连接是和好的关键，无新增信息，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:r004",
+      "target": "s-1546a436fe3c-c002:v2-n001",
+      "kind": "association",
+      "condition": "当强调情绪连接必要性时",
+      "reason": "Candidate 重复 source 中情绪连接是和好的关键，无新增信息，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n001",
+      "target": "s-1546a436fe3c-c001:v2-n001",
+      "kind": "association",
+      "condition": "当追溯行为背后的心理机制时",
+      "reason": "Candidate 提供心理三角，可作为情绪连接为何必要的理论基础，但 source 未深入。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:v2-n001",
+      "target": "s-1546a436fe3c-c002:v2-n001",
+      "kind": "association",
+      "condition": "当追溯行为背后的心理机制时",
+      "reason": "Candidate 提供心理三角，可作为情绪连接为何必要的理论基础，但 source 未深入。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n001",
+      "target": "s-1546a436fe3c-c001:a007",
+      "kind": "association",
+      "condition": "当讨论发脾气行为的控制时",
+      "reason": "Candidate 讲行为可控制，与情绪连接关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a007",
+      "target": "s-1546a436fe3c-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论发脾气行为的控制时",
+      "reason": "Candidate 讲行为可控制，与情绪连接关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n001",
+      "target": "s-1546a436fe3c-c001:a012",
+      "kind": "association",
+      "condition": "当讨论情绪词汇的作用时",
+      "reason": "Candidate 强调情绪词汇重要性，情绪连接中可能需要，但非直接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a012",
+      "target": "s-1546a436fe3c-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论情绪词汇的作用时",
+      "reason": "Candidate 强调情绪词汇重要性，情绪连接中可能需要，但非直接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n001",
+      "target": "s-1546a436fe3c-c001:r003",
+      "kind": "association",
+      "condition": "当考虑行为持续条件时",
+      "reason": "Candidate 讲行为因好处持续，与情绪连接步骤不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:r003",
+      "target": "s-1546a436fe3c-c002:v2-n001",
+      "kind": "association",
+      "condition": "当考虑行为持续条件时",
+      "reason": "Candidate 讲行为因好处持续，与情绪连接步骤不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n002",
+      "target": "s-1546a436fe3c-c001:r005",
+      "kind": "example_of",
+      "condition": "当演示回顾事件的具体做法时",
+      "reason": "Source 拆解手机事件步骤并逐句问“对吗”，正是 candidate 所描述的回顾事件做法（描述事件、询问情绪、确认）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:r005",
+      "target": "s-1546a436fe3c-c002:v2-n002",
+      "kind": "has_example",
+      "condition": "当演示回顾事件的具体做法时",
+      "reason": "Source 拆解手机事件步骤并逐句问“对吗”，正是 candidate 所描述的回顾事件做法（描述事件、询问情绪、确认）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n002",
+      "target": "s-1546a436fe3c-c002:a001",
+      "kind": "complements",
+      "condition": "当需要避免回顾时带入情绪时",
+      "reason": "Source 示范了不带情绪的回顾，candidate 明确说明应避免带入情绪，补充了注意事项。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:a001",
+      "target": "s-1546a436fe3c-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当需要避免回顾时带入情绪时",
+      "reason": "Source 示范了不带情绪的回顾，candidate 明确说明应避免带入情绪，补充了注意事项。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n002",
+      "target": "s-1546a436fe3c-c002:r001",
+      "kind": "association",
+      "condition": "当识别错误回顾方式时",
+      "reason": "Candidate 描述居高临下的错误回顾，与 source 正确示范相对，可作为反面参照。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:r001",
+      "target": "s-1546a436fe3c-c002:v2-n002",
+      "kind": "association",
+      "condition": "当识别错误回顾方式时",
+      "reason": "Candidate 描述居高临下的错误回顾，与 source 正确示范相对，可作为反面参照。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n002",
+      "target": "s-1546a436fe3c-c001:a017",
+      "kind": "association",
+      "condition": "当识别错误回顾方式时",
+      "reason": "Candidate 指出错误回顾方式，source 展示正确方式，属反面对比，无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a017",
+      "target": "s-1546a436fe3c-c002:v2-n002",
+      "kind": "association",
+      "condition": "当识别错误回顾方式时",
+      "reason": "Candidate 指出错误回顾方式，source 展示正确方式，属反面对比，无直接逻辑联系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n002",
+      "target": "s-1546a436fe3c-c001:a016",
+      "kind": "association",
+      "condition": "当联系情绪连接完整步骤时",
+      "reason": "Source 只展示了回顾事件这一步，candidate 包含三个步骤，不构成完整例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a016",
+      "target": "s-1546a436fe3c-c002:v2-n002",
+      "kind": "association",
+      "condition": "当联系情绪连接完整步骤时",
+      "reason": "Source 只展示了回顾事件这一步，candidate 包含三个步骤，不构成完整例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n002",
+      "target": "s-1546a436fe3c-c001:a004",
+      "kind": "association",
+      "condition": "当考虑抓狂背后的求助信号时",
+      "reason": "Candidate 讲抓狂是求助，与 source 的回顾事件无直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a004",
+      "target": "s-1546a436fe3c-c002:v2-n002",
+      "kind": "association",
+      "condition": "当考虑抓狂背后的求助信号时",
+      "reason": "Candidate 讲抓狂是求助，与 source 的回顾事件无直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n002",
+      "target": "s-1546a436fe3c-c001:a015",
+      "kind": "association",
+      "condition": "当讨论界限的自然后果时",
+      "reason": "Candidate 讲界限带自然后果，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a015",
+      "target": "s-1546a436fe3c-c002:v2-n002",
+      "kind": "association",
+      "condition": "当讨论界限的自然后果时",
+      "reason": "Candidate 讲界限带自然后果，与 source 无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n002",
+      "target": "s-1546a436fe3c-c002:v2-n003",
+      "kind": "association",
+      "condition": "当考虑不愿回谈的障碍时",
+      "reason": "Candidate 讲有些父母不愿回谈，与 source 的做法相反，但可视为障碍。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n003",
+      "target": "s-1546a436fe3c-c002:v2-n002",
+      "kind": "association",
+      "condition": "当考虑不愿回谈的障碍时",
+      "reason": "Candidate 讲有些父母不愿回谈，与 source 的做法相反，但可视为障碍。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n002",
+      "target": "s-1546a436fe3c-c001:r006",
+      "kind": "association",
+      "condition": "当考虑赋能孩子时",
+      "reason": "Candidate 是情绪连接最后一步，source 未涉及。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:r006",
+      "target": "s-1546a436fe3c-c002:v2-n002",
+      "kind": "association",
+      "condition": "当考虑赋能孩子时",
+      "reason": "Candidate 是情绪连接最后一步，source 未涉及。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n002",
+      "target": "s-1546a436fe3c-c001:a008",
+      "kind": "association",
+      "condition": "当联系整体应对步骤时",
+      "reason": "Source 属于其中情绪连接环节的具体做法，但非步骤本身。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a008",
+      "target": "s-1546a436fe3c-c002:v2-n002",
+      "kind": "association",
+      "condition": "当联系整体应对步骤时",
+      "reason": "Source 属于其中情绪连接环节的具体做法，但非步骤本身。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n002",
+      "target": "s-1546a436fe3c-c002:v2-n001",
+      "kind": "association",
+      "condition": "当对比常见错误时",
+      "reason": "Candidate 说明缺少情绪连接错误，source 是正确的情绪连接示范。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n001",
+      "target": "s-1546a436fe3c-c002:v2-n002",
+      "kind": "association",
+      "condition": "当对比常见错误时",
+      "reason": "Candidate 说明缺少情绪连接错误，source 是正确的情绪连接示范。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n002",
+      "target": "s-1546a436fe3c-c001:r004",
+      "kind": "association",
+      "condition": "当强调情绪连接必要性时",
+      "reason": "Candidate 强调必要性，但 source 已在实际演示，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:r004",
+      "target": "s-1546a436fe3c-c002:v2-n002",
+      "kind": "association",
+      "condition": "当强调情绪连接必要性时",
+      "reason": "Candidate 强调必要性，但 source 已在实际演示，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n003",
+      "target": "s-1546a436fe3c-c001:r004",
+      "kind": "complements",
+      "condition": "在解释为何父母会跳过情绪连接及其后果时",
+      "reason": "source 指出父母因事情已过不愿回谈而跳过/阻断情绪连接；target 说明缺少情绪连接会使情绪断开难以和好。两者互补：source 补充了导致缺少情绪连接的一个具体原因，target 补充了该缺失的后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:r004",
+      "target": "s-1546a436fe3c-c002:v2-n003",
+      "kind": "complements",
+      "condition": "在解释为何父母会跳过情绪连接及其后果时",
+      "reason": "source 指出父母因事情已过不愿回谈而跳过/阻断情绪连接；target 说明缺少情绪连接会使情绪断开难以和好。两者互补：source 补充了导致缺少情绪连接的一个具体原因，target 补充了该缺失的后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n003",
+      "target": "s-1546a436fe3c-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在列举跳过情绪连接的不同错误表现时",
+      "reason": "target 描述许多父母只批评并禁止而完全跳过情绪连接；source 指出另一种情况：父母因不愿回谈而跳过。两者是跳过情绪连接的不同原因/形式，共同补充了错误类型。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n001",
+      "target": "s-1546a436fe3c-c002:v2-n003",
+      "kind": "complements",
+      "condition": "在列举跳过情绪连接的不同错误表现时",
+      "reason": "target 描述许多父母只批评并禁止而完全跳过情绪连接；source 指出另一种情况：父母因不愿回谈而跳过。两者是跳过情绪连接的不同原因/形式，共同补充了错误类型。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n003",
+      "target": "s-1546a436fe3c-c002:a001",
+      "kind": "association",
+      "condition": "在讨论回顾事件时破坏情绪连接的因素时",
+      "reason": "source 指出不愿回谈会阻断情绪连接；target 指出回顾时带入情绪或居高临下也会破坏情绪连接。两者属于不同的破坏因素，但未明确直接关联，故标为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:a001",
+      "target": "s-1546a436fe3c-c002:v2-n003",
+      "kind": "association",
+      "condition": "在讨论回顾事件时破坏情绪连接的因素时",
+      "reason": "source 指出不愿回谈会阻断情绪连接；target 指出回顾时带入情绪或居高临下也会破坏情绪连接。两者属于不同的破坏因素，但未明确直接关联，故标为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n003",
+      "target": "s-1546a436fe3c-c001:a016",
+      "kind": "association",
+      "condition": "在讨论情绪连接完整步骤及其障碍时",
+      "reason": "target 提供了情绪连接的三个步骤，其中第二步是回顾事件；source 的不愿回谈正好阻碍该步骤的执行。但 source 未直接涉及步骤内容，故而非步骤关系，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a016",
+      "target": "s-1546a436fe3c-c002:v2-n003",
+      "kind": "association",
+      "condition": "在讨论情绪连接完整步骤及其障碍时",
+      "reason": "target 提供了情绪连接的三个步骤，其中第二步是回顾事件；source 的不愿回谈正好阻碍该步骤的执行。但 source 未直接涉及步骤内容，故而非步骤关系，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n003",
+      "target": "s-1546a436fe3c-c001:r005",
+      "kind": "association",
+      "condition": "在讨论回顾事件的具体做法及其执行条件时",
+      "reason": "target 给出回顾事件的正确做法（描述事件、问情绪、确认等），source 指出父母可能因不愿回谈而根本不执行这些做法，但 target 未直接解决该障碍，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:r005",
+      "target": "s-1546a436fe3c-c002:v2-n003",
+      "kind": "association",
+      "condition": "在讨论回顾事件的具体做法及其执行条件时",
+      "reason": "target 给出回顾事件的正确做法（描述事件、问情绪、确认等），source 指出父母可能因不愿回谈而根本不执行这些做法，但 target 未直接解决该障碍，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n003",
+      "target": "s-1546a436fe3c-c001:a017",
+      "kind": "complements",
+      "condition": "在对比回顾事件的不同错误方式时",
+      "reason": "target 指出居高临下、只陈述行为是错误回顾方式；source 指出不愿回谈是另一种回避式错误。两者从不同角度补充了错误回顾的表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a017",
+      "target": "s-1546a436fe3c-c002:v2-n003",
+      "kind": "complements",
+      "condition": "在对比回顾事件的不同错误方式时",
+      "reason": "target 指出居高临下、只陈述行为是错误回顾方式；source 指出不愿回谈是另一种回避式错误。两者从不同角度补充了错误回顾的表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n003",
+      "target": "s-1546a436fe3c-c002:r001",
+      "kind": "association",
+      "condition": "在讨论回顾事件时应避免的态度时",
+      "reason": "target 强调不应居高临下，并举例错误回顾；source 强调不应因不愿回谈而跳过。两者都是回顾事件时的注意点，但无直接互补或因果，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:r001",
+      "target": "s-1546a436fe3c-c002:v2-n003",
+      "kind": "association",
+      "condition": "在讨论回顾事件时应避免的态度时",
+      "reason": "target 强调不应居高临下，并举例错误回顾；source 强调不应因不愿回谈而跳过。两者都是回顾事件时的注意点，但无直接互补或因果，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n003",
+      "target": "s-1546a436fe3c-c001:r006",
+      "kind": "association",
+      "condition": "在讨论情绪连接内不同步骤的关联时",
+      "reason": "target 是情绪连接的最后一步赋能孩子；source 阻碍的是中间步骤回顾事件。两者同属情绪连接但步骤不同，无直接关系，仅因主题相关而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:r006",
+      "target": "s-1546a436fe3c-c002:v2-n003",
+      "kind": "association",
+      "condition": "在讨论情绪连接内不同步骤的关联时",
+      "reason": "target 是情绪连接的最后一步赋能孩子；source 阻碍的是中间步骤回顾事件。两者同属情绪连接但步骤不同，无直接关系，仅因主题相关而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n003",
+      "target": "s-1546a436fe3c-c001:a008",
+      "kind": "association",
+      "condition": "在讨论应对发脾气的整体框架与情绪连接步骤时",
+      "reason": "target 给出应对发脾气三步骤，其中第三步为情绪连接；source 指出了执行情绪连接时可能遇到的障碍（不愿回谈）。障碍不属于框架步骤，仅相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c001:a008",
+      "target": "s-1546a436fe3c-c002:v2-n003",
+      "kind": "association",
+      "condition": "在讨论应对发脾气的整体框架与情绪连接步骤时",
+      "reason": "target 给出应对发脾气三步骤，其中第三步为情绪连接；source 指出了执行情绪连接时可能遇到的障碍（不愿回谈）。障碍不属于框架步骤，仅相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n003",
+      "target": "s-1546a436fe3c-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在提供克服不愿回谈的具体示范时",
+      "reason": "source 指出父母不愿回谈会阻断情绪连接；target 提供了回谈事件与情绪的示范对话（将事件拆成步骤并逐句确认），可作为克服该障碍的实践补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1546a436fe3c-c002:v2-n002",
+      "target": "s-1546a436fe3c-c002:v2-n003",
+      "kind": "complements",
+      "condition": "在提供克服不愿回谈的具体示范时",
+      "reason": "source 指出父母不愿回谈会阻断情绪连接；target 提供了回谈事件与情绪的示范对话（将事件拆成步骤并逐句确认），可作为克服该障碍的实践补充。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "应对孩子发脾气时，先找出心理需要（理解情绪），再设立界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a008",
+        "s-1546a436fe3c-c001:a009",
+        "s-1546a436fe3c-c001:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "设立界限后，进行情绪连接以修复关系。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a008",
+        "s-1546a436fe3c-c001:a016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "内在能力",
+      "when": "情绪连接中赋能孩子，增强其自我控制能力。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a016",
+        "s-1546a436fe3c-c002:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a005",
+        "s-1546a436fe3c-c001:r001"
+      ],
+      "reason": "两者都说明抓狂分为发脾气和崩溃，且发脾气是孩子可以控制的行为，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a016",
+        "s-1546a436fe3c-c001:r005",
+        "s-1546a436fe3c-c001:r006"
+      ],
+      "reason": "a016概述情绪连接三步骤，r005和r006分别详细说明第二步和第三步，但核心内容一致，可视为同一流程的重复描述。"
+    },
+    {
+      "atom_ids": [
+        "s-1546a436fe3c-c002:a002",
+        "s-1546a436fe3c-c002:a004"
+      ],
+      "reason": "两者都描述赋能孩子的具体做法和话术，内容实质等价。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a007",
+        "s-1546a436fe3c-c001:a005"
+      ],
+      "description": "a007声称发脾气是孩子可以控制的行为，但a005定义发脾气时提到“不能用语言表达情感或自我控制行为”，暗示孩子可能无法控制。需要明确“可以控制”的具体含义和适用范围。",
+      "needed_evidence": "需要进一步证据说明在什么条件下孩子能控制发脾气行为，以及“可以控制”是否指有意识的选择还是能力限制。"
+    }
+  ],
+  "path": [
+    {
+      "name": "应对孩子发脾气的步骤",
+      "steps": [
+        {
+          "action": "找出孩子的心理需要",
+          "atom_ids": [
+            "s-1546a436fe3c-c001:a008",
+            "s-1546a436fe3c-c001:a009"
+          ],
+          "condition": "孩子发脾气时"
+        },
+        {
+          "action": "设立界限",
+          "atom_ids": [
+            "s-1546a436fe3c-c001:a008",
+            "s-1546a436fe3c-c001:a014",
+            "s-1546a436fe3c-c001:a015"
+          ],
+          "condition": "明确心理需要后，在行为上不妥协"
+        },
+        {
+          "action": "情绪连接",
+          "atom_ids": [
+            "s-1546a436fe3c-c001:a008",
+            "s-1546a436fe3c-c001:a016"
+          ],
+          "condition": "界限设立后，进行情绪连接"
+        },
+        {
+          "action": "回顾孩子的情绪",
+          "atom_ids": [
+            "s-1546a436fe3c-c001:a016",
+            "s-1546a436fe3c-c002:a001"
+          ],
+          "condition": "情绪连接第一步"
+        },
+        {
+          "action": "回顾事件并确认情绪与行为对应",
+          "atom_ids": [
+            "s-1546a436fe3c-c001:a016",
+            "s-1546a436fe3c-c001:r005"
+          ],
+          "condition": "情绪连接第二步"
+        },
+        {
+          "action": "赋能孩子",
+          "atom_ids": [
+            "s-1546a436fe3c-c001:a016",
+            "s-1546a436fe3c-c001:r006",
+            "s-1546a436fe3c-c002:a002"
+          ],
+          "condition": "情绪连接第三步"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-1546a436fe3c-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a002"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a003"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007",
+        "b00008",
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a004"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a005",
+        "s-1546a436fe3c-c001:r001"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a006"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:r002"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a007",
+        "s-1546a436fe3c-c001:r003"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a008"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a009"
+      ],
+      "blocks": [
+        "b00023",
+        "b00029",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0012",
+      "kind": "case",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a010"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a011"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a012"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a013"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a014"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a015"
+      ],
+      "blocks": [
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:r004"
+      ],
+      "blocks": [
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0019",
+      "kind": "method",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a016"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0020",
+      "kind": "method",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:r005"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c001:u0021",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a017"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c002:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a016"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c002:u002",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-1546a436fe3c-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c002:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a016",
+        "s-1546a436fe3c-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c002:u004",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a017",
+        "s-1546a436fe3c-c002:a001",
+        "s-1546a436fe3c-c002:r001",
+        "s-1546a436fe3c-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c002:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:a016",
+        "s-1546a436fe3c-c002:a001"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c002:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:r006",
+        "s-1546a436fe3c-c002:a002"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c002:u007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1546a436fe3c-c002:a003"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c002:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-1546a436fe3c-c002:a004"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-1546a436fe3c-c002:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-1546a436fe3c-c002:a002",
+        "s-1546a436fe3c-c002:a005"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "发脾气行为背后的心理三角",
+      "atom_ids": [
+        "s-1546a436fe3c-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1546a436fe3c",
+          "blocks": [
+            "b00023"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "缺少情绪连接步骤的常见错误",
+      "atom_ids": [
+        "s-1546a436fe3c-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1546a436fe3c",
+          "blocks": [
+            "b00038"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "counterexample"
+    },
+    {
+      "title": "回顾事件与情绪的示范对话",
+      "atom_ids": [
+        "s-1546a436fe3c-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1546a436fe3c",
+          "blocks": [
+            "b00040"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "hypothetical"
+    },
+    {
+      "title": "不愿回谈的情绪连接障碍",
+      "atom_ids": [
+        "s-1546a436fe3c-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1546a436fe3c",
+          "blocks": [
+            "b00041"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "barrier"
+    }
+  ]
+}

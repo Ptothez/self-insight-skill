@@ -1,0 +1,417 @@
+{
+  "concepts": [
+    {
+      "name": "界限数量控制",
+      "definition": "给孩子立界限时一次只立一个界限，最多两个，避免一次立太多导致孩子难以遵守。",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a001"
+      ]
+    },
+    {
+      "name": "界限与家规的区别",
+      "definition": "立界限不同于立家规，不应像制定家规一样一次性列出大量规则。",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a002"
+      ]
+    },
+    {
+      "name": "界限遵守效果",
+      "definition": "宁愿让孩子100%遵守一条界限，也好过给孩子五条界限但每条只能遵守20%。",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a003"
+      ]
+    },
+    {
+      "name": "界限具体化",
+      "definition": "界限必须非常详细、有可视性、可量化，将抽象概念转化为具体可观察的行为描述。",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a004",
+        "s-23407689b3ba-c001:a005"
+      ]
+    },
+    {
+      "name": "后果可执行性",
+      "definition": "界限的后果必须是父母做得到且能持续做到的，否则不应使用。",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a006",
+        "s-23407689b3ba-c001:a007"
+      ]
+    },
+    {
+      "name": "后果目的",
+      "definition": "立界限给后果的目的不是恐吓或威胁孩子，而是帮助孩子理解、赋能给孩子。",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a008"
+      ]
+    },
+    {
+      "name": "及时认可",
+      "definition": "当孩子遵守界限时，父母要第一时间予以认可，表达感激、欣赏、骄傲和自豪。",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a009",
+        "s-23407689b3ba-c001:a010"
+      ]
+    },
+    {
+      "name": "界限合同",
+      "definition": "与孩子一起讨论界限内容并写成书面合同，让孩子签字，合同内容具体明确，可包含弥补机制。",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a011",
+        "s-23407689b3ba-c001:a012",
+        "s-23407689b3ba-c001:a013",
+        "s-23407689b3ba-c001:a014",
+        "s-23407689b3ba-c001:a015"
+      ]
+    },
+    {
+      "name": "坚持立界限",
+      "definition": "立界限是困难的事情，但越不容易越要去做，因为值得。",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a016"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-23407689b3ba-c001:a001",
+      "target": "s-23407689b3ba-c001:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "一次只立一个界限有助于孩子100%遵守，而一次立多个界限会导致每条遵守率低。"
+    },
+    {
+      "source": "s-23407689b3ba-c001:a002",
+      "target": "s-23407689b3ba-c001:a001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "立界限不同于立家规，因此不应一次立大量规则，而应一次只立一个界限。"
+    },
+    {
+      "source": "s-23407689b3ba-c001:a004",
+      "target": "s-23407689b3ba-c001:a005",
+      "kind": "supports",
+      "condition": "",
+      "reason": "界限要详细、可视、可量化，这支持抽象概念需转化为孩子脑中能形成具体画面的行为描述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-23407689b3ba-c001:a006",
+      "target": "s-23407689b3ba-c001:a007",
+      "kind": "contrasts",
+      "condition": "后果不可执行",
+      "reason": "“界限后果必须可执行且可持续”要求后果必须可执行，而“不可执行的后果示例”列出父母做不到的后果，与原则相反，构成反例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind example_of 改为 contrasts"
+    },
+    {
+      "source": "s-23407689b3ba-c001:a009",
+      "target": "s-23407689b3ba-c001:a010",
+      "kind": "contrasts",
+      "condition": "",
+      "reason": "“及时认可孩子遵守界限”强调第一时间表达认可，与“父母不表达赞赏的问题”形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-23407689b3ba-c001:a011",
+      "target": "s-23407689b3ba-c001:a012",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“将界限写成合同”中明确包含“合同能避免日后忘记或争执”的效果，支持“书面合同可以避免日后因记忆模糊而争执”这一命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-23407689b3ba-c001:a011",
+      "target": "s-23407689b3ba-c001:a013",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“将界限写成合同”中提出“孩子参与制定更愿意遵守”，直接支持“孩子自己参与制定并签字的界限，他更有主人感，更愿意遵守”这一命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-23407689b3ba-c001:a011",
+      "target": "s-23407689b3ba-c001:a014",
+      "kind": "association",
+      "condition": "",
+      "reason": "“合同内容要具体明确”不是“将界限写成合同”流程中的明确步骤，而是合同内容的要求；两者都涉及书面合同，但不宜作为 step_of，故改为 association。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不成立，改为 association。"
+    },
+    {
+      "source": "s-23407689b3ba-c001:a011",
+      "target": "s-23407689b3ba-c001:a015",
+      "kind": "association",
+      "condition": "",
+      "reason": "“合同中包含弥补机制”是可约定的合同条款，不是“将界限写成合同”的固定步骤；两者同属合同制定范畴，改为 association。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不成立。"
+    },
+    {
+      "source": "s-23407689b3ba-c001:a004",
+      "target": "s-23407689b3ba-c001:a014",
+      "kind": "supports",
+      "condition": "合同内容要具体明确",
+      "reason": "“界限要详细、可视、可量化”的要求支持“合同内容要具体明确”，即合同需写明具体尊重和不尊重行为。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind applies_to 改为 supports"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [
+    {
+      "name": "立界限流程",
+      "steps": [
+        {
+          "action": "一次只立一个界限，最多两个",
+          "atom_ids": [
+            "s-23407689b3ba-c001:a001"
+          ],
+          "condition": null
+        },
+        {
+          "action": "将界限具体化、可视化、可量化",
+          "atom_ids": [
+            "s-23407689b3ba-c001:a004",
+            "s-23407689b3ba-c001:a005"
+          ],
+          "condition": null
+        },
+        {
+          "action": "确保后果可执行且可持续",
+          "atom_ids": [
+            "s-23407689b3ba-c001:a006",
+            "s-23407689b3ba-c001:a007"
+          ],
+          "condition": null
+        },
+        {
+          "action": "与孩子讨论并写成书面合同，让孩子签字",
+          "atom_ids": [
+            "s-23407689b3ba-c001:a011",
+            "s-23407689b3ba-c001:a012",
+            "s-23407689b3ba-c001:a013",
+            "s-23407689b3ba-c001:a014",
+            "s-23407689b3ba-c001:a015"
+          ],
+          "condition": null
+        },
+        {
+          "action": "孩子遵守界限时及时认可",
+          "atom_ids": [
+            "s-23407689b3ba-c001:a009",
+            "s-23407689b3ba-c001:a010"
+          ],
+          "condition": null
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-23407689b3ba-c001:u0001",
+      "kind": "method",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-23407689b3ba-c001:u0002",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a002"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-23407689b3ba-c001:u0003",
+      "kind": "principle",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a003"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-23407689b3ba-c001:u0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a004"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00008",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-23407689b3ba-c001:u0005",
+      "kind": "method",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a005"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-23407689b3ba-c001:u0006",
+      "kind": "method",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a006"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-23407689b3ba-c001:u0007",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a007"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-23407689b3ba-c001:u0008",
+      "kind": "purpose",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a008"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-23407689b3ba-c001:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a009"
+      ],
+      "blocks": [
+        "b00016",
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-23407689b3ba-c001:u0010",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a010"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-23407689b3ba-c001:u0011",
+      "kind": "method",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a011"
+      ],
+      "blocks": [
+        "b00021",
+        "b00023",
+        "b00024",
+        "b00025",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-23407689b3ba-c001:u0012",
+      "kind": "benefit",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a012"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-23407689b3ba-c001:u0013",
+      "kind": "benefit",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a013"
+      ],
+      "blocks": [
+        "b00023",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-23407689b3ba-c001:u0014",
+      "kind": "method",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a014"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-23407689b3ba-c001:u0015",
+      "kind": "method",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a015"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-23407689b3ba-c001:u0016",
+      "kind": "encouragement",
+      "atom_ids": [
+        "s-23407689b3ba-c001:a016"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

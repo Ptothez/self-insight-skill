@@ -1,0 +1,576 @@
+{
+  "concepts": [
+    {
+      "name": "安全感",
+      "definition": "安全感分为三个层次：语言上的安全感、身体上的安全感和情绪上的安全感。",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a002"
+      ]
+    },
+    {
+      "name": "语言上的安全感",
+      "definition": "孩子说什么话都不会被批评（如被说“没有脑子”“真可笑”“太幼稚了”）。",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a002"
+      ]
+    },
+    {
+      "name": "身体上的安全感",
+      "definition": "孩子不会随意被父母体罚和责打。",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a002"
+      ]
+    },
+    {
+      "name": "情绪上的安全感",
+      "definition": "孩子不管正面或负面的情绪，都能够被父母完美接纳。",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a002"
+      ]
+    },
+    {
+      "name": "看着我的眼睛",
+      "definition": "一种建立亲子情绪联结的方法：邀请孩子看着自己的眼睛，然后充满爱意地看着孩子，什么话都不说。",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a001"
+      ]
+    },
+    {
+      "name": "用yes代替no",
+      "definition": "在日常对话中用yes代替no，可以建立孩子的语言安全感。",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a003"
+      ]
+    },
+    {
+      "name": "每天15分钟高效陪伴",
+      "definition": "每天15分钟高效陪伴孩子，是建立孩子情绪安全感的做法。",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a004"
+      ]
+    },
+    {
+      "name": "命令停止哭泣",
+      "definition": "像“我数到123，你马上给我停止哭泣”这样的做法，严重破坏孩子的情绪安全感。",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a005"
+      ]
+    },
+    {
+      "name": "父母对儿童心理的误解",
+      "definition": "很多父母不敢为孩子立界限，不敢管教，因为他们觉得这样会破坏孩子的安全感。讲师认为这是因为父母对儿童心理不了解而造成的。",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a006"
+      ]
+    },
+    {
+      "name": "眼神交流传递情绪",
+      "definition": "当父母专注地看着孩子的眼睛说话时，孩子能从父母的眼睛里感受到情绪，如严肃、愤怒、爱、珍惜等。",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a008"
+      ]
+    },
+    {
+      "name": "日常点滴积累",
+      "definition": "孩子的安全感通过细微的日常点滴积累起来的行为被建立起来，包括每天15分钟高效陪伴、对孩子说yes、看着我的眼睛等。",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a010"
+      ]
+    },
+    {
+      "name": "打败焦虑并不难",
+      "definition": "讲师预告将推出另一堂精品课“打败焦虑并不难”，专门针对焦虑情绪。",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a011"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-9c863be0aa0a-c001:a001",
+      "target": "s-9c863be0aa0a-c001:a002",
+      "kind": "supports",
+      "condition": "通过看着我的眼睛练习建立身体安全感，支持安全感的三个层次中身体安全感的实现",
+      "reason": "看着我的眼睛是建立身体安全感的日常练习，该方法支持安全感三层次中身体安全感的部分。原kind applies_to不在允许列表，改为supports。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "kind由applies_to改为supports"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a003",
+      "target": "s-9c863be0aa0a-c001:a002",
+      "kind": "supports",
+      "condition": "用yes代替no可以建立孩子的语言安全感",
+      "reason": "用yes代替no建立语言安全感，支持安全感三层次中语言安全感的实现。原kind applies_to不在允许列表，改为supports。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "kind由applies_to改为supports"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a004",
+      "target": "s-9c863be0aa0a-c001:a002",
+      "kind": "supports",
+      "condition": "每天15分钟高效陪伴是建立孩子情绪安全感的做法",
+      "reason": "每天15分钟高效陪伴孩子建立情绪安全感，支持安全感三层次中情绪安全感的实现。原kind applies_to不在允许列表，改为supports。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "kind由applies_to改为supports"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a005",
+      "target": "s-9c863be0aa0a-c001:a002",
+      "kind": "contrasts",
+      "condition": "命令停止哭泣破坏情绪安全感，而情绪安全感需要完美接纳情绪",
+      "reason": "命令停止哭泣的做法严重破坏情绪安全感，与安全感三层次中情绪安全感要求完美接纳正负情绪形成鲜明对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a006",
+      "target": "s-9c863be0aa0a-c001:a002",
+      "kind": "association",
+      "condition": "父母对立界限与安全感的误解，与安全感三层次的框架相关但未形成直接对比",
+      "reason": "父母对儿童心理的误解导致不敢立界限，与安全感三层次的定义同属安全感和界限议题，但安全感三层次未直接回应立界限是否破坏安全感，缺少直接对立依据，因此原contrasts改为association。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原contrasts过度推断，改为association"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a007",
+      "target": "s-9c863be0aa0a-c001:a008",
+      "kind": "supports",
+      "condition": "反思最近一次专注看孩子眼睛时的情绪，说明眼神交流能传递情绪。",
+      "reason": "a007提问孩子从父母眼中看到什么情绪，a008说明眼神交流传递情绪，两者相互印证。"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a008",
+      "target": "s-9c863be0aa0a-c001:a001",
+      "kind": "supports",
+      "condition": "充满爱意的眼神交流能让孩子感受到安全，支持“看着我的眼睛”练习。",
+      "reason": "a008说明通过充满爱意的眼神交流，孩子能感受到安全，而a001的练习正是通过充满爱意的眼神建立安全感。"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a009",
+      "target": "s-9c863be0aa0a-c001:a001",
+      "kind": "supports",
+      "condition": "专注回应与“看着我的眼睛”都强调专注和真诚。",
+      "reason": "a009强调专注回应孩子，a001的练习也要求专注地看着孩子，两者都强调专注的重要性。"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a010",
+      "target": "s-9c863be0aa0a-c001:a001",
+      "kind": "example_of",
+      "condition": "“看着我的眼睛”是日常点滴积累建立安全感的行为之一。",
+      "reason": "a010列举了包括“看着我的眼睛”在内的日常行为，说明它是建立安全感的一部分。"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a010",
+      "target": "s-9c863be0aa0a-c001:a003",
+      "kind": "example_of",
+      "condition": "对孩子说yes是日常点滴积累建立安全感的行为之一。",
+      "reason": "a010列举了“对孩子说yes”作为日常行为，a003说明用yes代替no建立语言安全感。"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a010",
+      "target": "s-9c863be0aa0a-c001:a004",
+      "kind": "example_of",
+      "condition": "每天15分钟高效陪伴是日常点滴积累建立安全感的行为之一。",
+      "reason": "a010列举了“每天15分钟高效陪伴”，a004说明它建立情绪安全感。"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a011",
+      "target": "s-9c863be0aa0a-c001:a002",
+      "kind": "association",
+      "condition": "均涉及情绪安全感相关的焦虑情绪主题",
+      "reason": "课程预告“打败焦虑并不难”针对焦虑情绪，安全感的三个层次中包含情绪安全感，焦虑属于情绪范畴，但预告未实际产生对安全感的支持，仅议题相关。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不在允许类型，改为 association。"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:r001",
+      "target": "s-9c863be0aa0a-c001:a001",
+      "kind": "contrasts",
+      "condition": "常见使用场景是生气指责时要求孩子看眼睛，与建立安全感的练习形成对比。",
+      "reason": "r001指出父母通常在生气指责时要求孩子看眼睛，而a001的练习是在充满爱意的情况下进行，两者形成对比。"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:v2-n001",
+      "target": "s-9c863be0aa0a-c001:a010",
+      "kind": "complements",
+      "condition": "当需要总结建立安全感的日常行为时",
+      "reason": "source 提出安全感可通过细微日常行为建立，target 复述并具体化这些行为，补充了细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a010",
+      "target": "s-9c863be0aa0a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要总结建立安全感的日常行为时",
+      "reason": "source 提出安全感可通过细微日常行为建立，target 复述并具体化这些行为，补充了细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:v2-n001",
+      "target": "s-9c863be0aa0a-c001:a004",
+      "kind": "complements",
+      "condition": "当讨论情绪安全感时",
+      "reason": "source 列举每天15分钟高效陪伴作为建立安全感的行为，target 说明该行为建立情绪安全感，补充了安全感层次。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a004",
+      "target": "s-9c863be0aa0a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论情绪安全感时",
+      "reason": "source 列举每天15分钟高效陪伴作为建立安全感的行为，target 说明该行为建立情绪安全感，补充了安全感层次。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:v2-n001",
+      "target": "s-9c863be0aa0a-c001:a003",
+      "kind": "complements",
+      "condition": "当讨论语言安全感时",
+      "reason": "source 列举对孩子说 yes 作为建立安全感的行为，target 说明用 yes 代替 no 建立语言安全感，补充了安全感层次。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a003",
+      "target": "s-9c863be0aa0a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论语言安全感时",
+      "reason": "source 列举对孩子说 yes 作为建立安全感的行为，target 说明用 yes 代替 no 建立语言安全感，补充了安全感层次。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:v2-n001",
+      "target": "s-9c863be0aa0a-c001:a001",
+      "kind": "complements",
+      "condition": "当讨论身体安全感时",
+      "reason": "source 列举看着我的眼睛作为建立安全感的行为，target 详细描述该练习及其建立身体安全感的目标，补充了具体做法和层次。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a001",
+      "target": "s-9c863be0aa0a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论身体安全感时",
+      "reason": "source 列举看着我的眼睛作为建立安全感的行为，target 详细描述该练习及其建立身体安全感的目标，补充了具体做法和层次。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:v2-n001",
+      "target": "s-9c863be0aa0a-c001:r001",
+      "kind": "conditional_difference",
+      "condition": "当要求孩子看眼睛的时机和目的不同时（充满爱意 vs 生气指责）",
+      "reason": "source 提出用充满爱意的眼神建立安全感，target 指出父母通常在生气指责时才让孩子看眼睛，两者条件相反，形成差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:r001",
+      "target": "s-9c863be0aa0a-c001:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "当要求孩子看眼睛的时机和目的不同时（充满爱意 vs 生气指责）",
+      "reason": "source 提出用充满爱意的眼神建立安全感，target 指出父母通常在生气指责时才让孩子看眼睛，两者条件相反，形成差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:v2-n001",
+      "target": "s-9c863be0aa0a-c001:a008",
+      "kind": "complements",
+      "condition": "当需要理解眼神交流的作用时",
+      "reason": "source 列举看着我的眼睛作为建立安全感的行为，target 解释眼神交流传递情绪与安全感的机制，补充了原理。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a008",
+      "target": "s-9c863be0aa0a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解眼神交流的作用时",
+      "reason": "source 列举看着我的眼睛作为建立安全感的行为，target 解释眼神交流传递情绪与安全感的机制，补充了原理。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:v2-n001",
+      "target": "s-9c863be0aa0a-c001:a002",
+      "kind": "complements",
+      "condition": "当需要理解安全感的分类时",
+      "reason": "source 提到建立安全感，target 将安全感分为语言、身体、情绪三个层次，补充了理论框架。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a002",
+      "target": "s-9c863be0aa0a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解安全感的分类时",
+      "reason": "source 提到建立安全感，target 将安全感分为语言、身体、情绪三个层次，补充了理论框架。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:v2-n001",
+      "target": "s-9c863be0aa0a-c001:a006",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲建立安全感的方法，target 讲父母误解导致不敢立界限，主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a006",
+      "target": "s-9c863be0aa0a-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲建立安全感的方法，target 讲父母误解导致不敢立界限，主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:v2-n001",
+      "target": "s-9c863be0aa0a-c001:a005",
+      "kind": "conditional_difference",
+      "condition": "当做法与建立安全感相反时（命令停止哭泣破坏情绪安全感）",
+      "reason": "source 提出通过细微行为建立安全感，target 描述破坏情绪安全感的做法，两者条件不同，形成对比。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a005",
+      "target": "s-9c863be0aa0a-c001:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "当做法与建立安全感相反时（命令停止哭泣破坏情绪安全感）",
+      "reason": "source 提出通过细微行为建立安全感，target 描述破坏情绪安全感的做法，两者条件不同，形成对比。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:v2-n001",
+      "target": "s-9c863be0aa0a-c001:a007",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲建立安全感的行为，target 提问反思眼神交流时的情绪，与 a001 相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a007",
+      "target": "s-9c863be0aa0a-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲建立安全感的行为，target 提问反思眼神交流时的情绪，与 a001 相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:v2-n001",
+      "target": "s-9c863be0aa0a-c001:a009",
+      "kind": "complements",
+      "condition": "当需要列举日常细微行为时",
+      "reason": "source 提到细微日常亲子行为可建立安全感，target 补充避免心不在焉的回应，属于同类的日常行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a009",
+      "target": "s-9c863be0aa0a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要列举日常细微行为时",
+      "reason": "source 提到细微日常亲子行为可建立安全感，target 补充避免心不在焉的回应，属于同类的日常行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:v2-n001",
+      "target": "s-9c863be0aa0a-c001:a011",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲建立安全感，target 为课程预告，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9c863be0aa0a-c001:a011",
+      "target": "s-9c863be0aa0a-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲建立安全感，target 为课程预告，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "建立安全感时，界限模块中的方法（如看着我的眼睛、用yes代替no）与理解情绪模块中的安全感层次和情绪接纳相关联。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a001",
+        "s-9c863be0aa0a-c001:a003",
+        "s-9c863be0aa0a-c001:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-9c863be0aa0a-c001:a001",
+          "limits": [
+            "孩子初期可能不习惯，会东张西望",
+            "需要多次练习才能形成习惯"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-9c863be0aa0a-c001:u0001",
+      "kind": "method",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a003"
+      ],
+      "blocks": [
+        "b00006",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-9c863be0aa0a-c001:u0002",
+      "kind": "method",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a001"
+      ],
+      "blocks": [
+        "b00008",
+        "b00012",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-9c863be0aa0a-c001:u0003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:r001"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-9c863be0aa0a-c001:u0004",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a009"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-9c863be0aa0a-c001:u0005",
+      "kind": "question",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a007"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-9c863be0aa0a-c001:u0006",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a008"
+      ],
+      "blocks": [
+        "b00008",
+        "b00010",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-9c863be0aa0a-c001:u0007",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-9c863be0aa0a-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a006"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-9c863be0aa0a-c001:u0009",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a002"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-9c863be0aa0a-c001:u0010",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a005"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-9c863be0aa0a-c001:u0011",
+      "kind": "method",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a004"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-9c863be0aa0a-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a010"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-9c863be0aa0a-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:a011"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "建立安全感不是声势浩大的工程",
+      "atom_ids": [
+        "s-9c863be0aa0a-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-9c863be0aa0a",
+          "blocks": [
+            "b00014"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "misconception"
+    }
+  ]
+}

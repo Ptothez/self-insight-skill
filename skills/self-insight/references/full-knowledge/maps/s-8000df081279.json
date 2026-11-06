@@ -1,0 +1,1677 @@
+{
+  "concepts": [
+    {
+      "name": "情绪关怀与陪伴质量",
+      "definition": "情绪关怀够不够与有没有做到应做之事不同；陪伴可能只是陪玩而未满足真正需要。",
+      "atom_ids": [
+        "s-8000df081279-c001:a001"
+      ]
+    },
+    {
+      "name": "替代活动",
+      "definition": "家长需提供替代故事、游戏等活动，否则孩子会被故事或游戏替代；需分析孩子喜欢的原因并提供更好替代。",
+      "atom_ids": [
+        "s-8000df081279-c001:a002",
+        "s-8000df081279-c001:a003",
+        "s-8000df081279-c001:a007",
+        "s-8000df081279-c002:a004"
+      ]
+    },
+    {
+      "name": "听力型学习与声音互动",
+      "definition": "听力型学习的孩子需要声音互动，家长可用好玩声音讲故事满足需求，电子故事无法满足人际互动。",
+      "atom_ids": [
+        "s-8000df081279-c001:a004"
+      ]
+    },
+    {
+      "name": "人际互动与电子设备吸引力",
+      "definition": "人天生喜欢与人玩而非机器，但当人变得不好玩、机器越来越好玩时，孩子转向机器；家长需让自己比电子设备更有趣。",
+      "atom_ids": [
+        "s-8000df081279-c001:a005",
+        "s-8000df081279-c002:a017"
+      ]
+    },
+    {
+      "name": "游戏上瘾原因",
+      "definition": "游戏上瘾不是因为时间安排不合理，而是从一开始就错了；上瘾与年龄无关，可能因归属感、社交需求、成就感等。",
+      "atom_ids": [
+        "s-8000df081279-c001:a008",
+        "s-8000df081279-c001:a010",
+        "s-8000df081279-c001:a016",
+        "s-8000df081279-c002:a008"
+      ]
+    },
+    {
+      "name": "上瘾判断标准",
+      "definition": "判断是否上瘾看能否不玩：若某天不让玩会发疯或强烈抗拒则可能上瘾；欺骗家长也是上瘾标志。",
+      "atom_ids": [
+        "s-8000df081279-c001:a013",
+        "s-8000df081279-c002:a014"
+      ]
+    },
+    {
+      "name": "自制力与意愿",
+      "definition": "自制力是意愿之间的竞争，人不存在没有自制力，只是用在了别处；孩子半夜玩游戏说明有很强自制力，只是用于游戏。",
+      "atom_ids": [
+        "s-8000df081279-c001:a015"
+      ]
+    },
+    {
+      "name": "界限与没收",
+      "definition": "无界限收手机是拿走孩子力量，界限内收手机是给孩子力量；界限明确时孩子会主动遵守规则。",
+      "atom_ids": [
+        "s-8000df081279-c001:a025",
+        "s-8000df081279-c002:a001",
+        "s-8000df081279-c002:a002"
+      ]
+    },
+    {
+      "name": "家长榜样与电子设备使用",
+      "definition": "家长不应在孩子面前使用娱乐性电子设备，应将手机定位为工作工具；家长改变行为可减少孩子对电子设备的兴趣。",
+      "atom_ids": [
+        "s-8000df081279-c002:a005",
+        "s-8000df081279-c002:a006",
+        "s-8000df081279-c002:a007"
+      ]
+    },
+    {
+      "name": "延迟满足",
+      "definition": "延迟满足是预防上瘾的关键能力；培养方法包括让孩子看到失去的东西，通过失去造成痛苦来增强延迟能力。",
+      "atom_ids": [
+        "s-8000df081279-c002:a018",
+        "s-8000df081279-c002:a019",
+        "s-8000df081279-c002:a021",
+        "s-8000df081279-c002:a022",
+        "s-8000df081279-c003:a001",
+        "s-8000df081279-c003:a002",
+        "s-8000df081279-c003:a005"
+      ]
+    },
+    {
+      "name": "逐步减少游戏时间",
+      "definition": "减少游戏时间应逐步进行，如每周提前半小时，同时用其他活动填补空出的时间。",
+      "atom_ids": [
+        "s-8000df081279-c002:a016",
+        "s-8000df081279-c002:r001"
+      ]
+    },
+    {
+      "name": "隐性控制与选择权",
+      "definition": "控制孩子应隐性进行，给孩子选择权，如选择电视节目，避免直接指定导致上瘾。",
+      "atom_ids": [
+        "s-8000df081279-c002:a012"
+      ]
+    },
+    {
+      "name": "情感需求与音乐沉迷",
+      "definition": "孩子沉迷音乐反映情感需求未满足，歌词能说出孩子心声；父母需替代音乐回应孩子情绪。",
+      "atom_ids": [
+        "s-8000df081279-c002:a010"
+      ]
+    },
+    {
+      "name": "年龄与自控能力",
+      "definition": "三岁半孩子不具备自控能力，不应让其玩手机；上瘾与年龄无关，两三岁到六七岁都可能上瘾。",
+      "atom_ids": [
+        "s-8000df081279-c002:a011",
+        "s-8000df081279-c002:a008"
+      ]
+    },
+    {
+      "name": "事实检验学习影响",
+      "definition": "当孩子声称听音乐不影响学习时，用事实检验：看作业能否按时完成且正确率90%以上。",
+      "atom_ids": [
+        "s-8000df081279-c002:a009"
+      ]
+    },
+    {
+      "name": "亲子互动与游戏",
+      "definition": "亲子打游戏是好的互动，但不能是唯一互动；需同时立界限。",
+      "atom_ids": [
+        "s-8000df081279-c002:a015"
+      ]
+    },
+    {
+      "name": "抓娃娃和盲盒上瘾",
+      "definition": "抓娃娃和开盲盒类似，容易上瘾，建议少玩；但手机、电脑、网络不能躲避，只能引导和覆盖。",
+      "atom_ids": [
+        "s-8000df081279-c002:a013"
+      ]
+    },
+    {
+      "name": "同龄人互动需求",
+      "definition": "孩子需要跟同龄人玩，若家长忙碌无法陪伴，孩子会转向电子设备；需提供同龄人互动机会。",
+      "atom_ids": [
+        "s-8000df081279-c001:a018"
+      ]
+    },
+    {
+      "name": "家长陪伴与上瘾预防",
+      "definition": "家长无法提供高质量陪伴时，不能要求孩子不上瘾；必须提供替代活动。",
+      "atom_ids": [
+        "s-8000df081279-c001:a019"
+      ]
+    },
+    {
+      "name": "运动与游戏价值",
+      "definition": "运动不一定比游戏好，游戏不是洪水猛兽，关键是与孩子一起参与。",
+      "atom_ids": [
+        "s-8000df081279-c001:a011"
+      ]
+    },
+    {
+      "name": "多游戏分散与上瘾",
+      "definition": "让孩子玩多个游戏分散注意力不能避免上瘾，上瘾是对游戏本身的上瘾。",
+      "atom_ids": [
+        "s-8000df081279-c001:a012"
+      ]
+    },
+    {
+      "name": "固定时间游戏与上瘾",
+      "definition": "每天固定时间玩游戏会导致上瘾，建议找一天玩半小时，其他时间不玩。",
+      "atom_ids": [
+        "s-8000df081279-c001:a014"
+      ]
+    },
+    {
+      "name": "社交替代与游戏规则",
+      "definition": "若孩子因社交需求半夜玩游戏，可邀请朋友到家光明正大玩，并明确规则。",
+      "atom_ids": [
+        "s-8000df081279-c001:a017"
+      ]
+    },
+    {
+      "name": "案例：名字的孩子喜欢听故事",
+      "definition": "家长担心情绪关怀不够导致孩子喜欢听故事，讲师建议用声情并茂方式讲故事替代。",
+      "atom_ids": [
+        "s-8000df081279-c001:a020"
+      ]
+    },
+    {
+      "name": "案例：学员询问游戏时间安排",
+      "definition": "学员询问半小时游戏中间是否应运动喝水，讲师建议与孩子一起玩游戏并穿插其他活动；多游戏分散不能避免上瘾。",
+      "atom_ids": [
+        "s-8000df081279-c001:a021"
+      ]
+    },
+    {
+      "name": "案例：学员的孩子每天玩五分钟蛋仔游戏",
+      "definition": "一辩允许孩子每天玩五分钟蛋仔游戏，讲师认为每天固定玩五分钟会导致上瘾，建议找一天玩半小时。",
+      "atom_ids": [
+        "s-8000df081279-c001:a022"
+      ]
+    },
+    {
+      "name": "案例：学员的孩子半夜玩游戏",
+      "definition": "学员的孩子半夜玩游戏，讲师指出孩子有很强自制力，只是用于游戏，建议邀请朋友到家光明正大玩。",
+      "atom_ids": [
+        "s-8000df081279-c001:a023"
+      ]
+    },
+    {
+      "name": "案例：学员忙碌导致孩子看电视",
+      "definition": "学员忙碌时让孩子看电视，讲师建议请人做饭腾出时间陪孩子或带孩子到小区玩。",
+      "atom_ids": [
+        "s-8000df081279-c001:a024"
+      ]
+    },
+    {
+      "name": "延迟满足练习：吃糖",
+      "definition": "孩子想吃糖时提供选择：马上吃一颗或等待后吃更多；若选择马上吃，家长应继续引导延迟满足。",
+      "atom_ids": [
+        "s-8000df081279-c002:a019"
+      ]
+    },
+    {
+      "name": "孩子拒绝延迟满足时的引导",
+      "definition": "若孩子坚持马上吃糖，家长可展示失去的糖并自己吃掉，让孩子看到失去什么。",
+      "atom_ids": [
+        "s-8000df081279-c002:a020",
+        "s-8000df081279-c002:a022",
+        "s-8000df081279-c002:r002"
+      ]
+    },
+    {
+      "name": "看电视与吃饭冲突的延迟满足方法",
+      "definition": "方法一：暂停电视吃完饭再看；方法二：允许继续看电视但延迟吃饭，让吃不上饭成为痛苦。",
+      "atom_ids": [
+        "s-8000df081279-c003:a004"
+      ]
+    },
+    {
+      "name": "讲师自家孩子延迟满足案例",
+      "definition": "讲师称自己孩子延迟满足能力强，归因于使用让孩子看到失去的方法。",
+      "atom_ids": [
+        "s-8000df081279-c003:a003"
+      ]
+    },
+    {
+      "name": "课后作业",
+      "definition": "讲师布置课后作业，要求实践培养延迟满足的方法。",
+      "atom_ids": [
+        "s-8000df081279-c003:a006"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-8000df081279-c001:a002",
+      "target": "s-8000df081279-c001:a003",
+      "kind": "causes",
+      "condition": "当家长未提供替代活动时",
+      "reason": "记录a002指出没有替代故事孩子就会被故事替代，a003解释孩子喜欢故事是因为需要其中的元素，因此家长需分析原因并提供替代。"
+    },
+    {
+      "source": "s-8000df081279-c001:a003",
+      "target": "s-8000df081279-c001:a004",
+      "kind": "applies_to",
+      "condition": "当孩子是听力型学习时",
+      "reason": "a003指出孩子喜欢故事是因为需要其中的元素，a004具体说明听力型孩子需要声音互动，家长可用好玩声音讲故事满足。"
+    },
+    {
+      "source": "s-8000df081279-c001:a005",
+      "target": "s-8000df081279-c001:a006",
+      "kind": "supports",
+      "condition": "当家长让自己变得有趣时",
+      "reason": "a005指出人变得不好玩时孩子转向机器，a006提供具体方法：用声情并茂方式讲故事替代电子故事。"
+    },
+    {
+      "source": "s-8000df081279-c001:a007",
+      "target": "s-8000df081279-c001:a006",
+      "kind": "step_of",
+      "condition": "在训练主动思维过程中",
+      "reason": "a007提出训练主动思维从限制转向替代，a006是替代的具体实施步骤。"
+    },
+    {
+      "source": "s-8000df081279-c001:a008",
+      "target": "s-8000df081279-c001:a009",
+      "kind": "contrasts",
+      "condition": "关于游戏时间安排",
+      "reason": "游戏上瘾不是因为时间安排不合理主张不应纠结时间安排，而与孩子一起玩游戏并穿插其他活动仍提出具体的游戏时间安排（如半小时或45分钟后做其他事），两者在时间安排问题上的观点存在差异。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8000df081279-c001:a010",
+      "target": "s-8000df081279-c001:a016",
+      "kind": "supports",
+      "condition": "当孩子因社交需求玩游戏时",
+      "reason": "a010指出游戏中的归属感导致固定群体，a016进一步说明孩子半夜玩游戏是因为社交需求和成就感。"
+    },
+    {
+      "source": "s-8000df081279-c001:a013",
+      "target": "s-8000df081279-c001:a014",
+      "kind": "association",
+      "condition": "关于游戏上瘾的判断",
+      "reason": "判断孩子是否上瘾的关键在于能否不玩，与每天固定时间玩游戏会导致上瘾分别从诊断标准和形成原因讨论游戏问题，后者并不直接支持前者的判断标准，仅存在主题关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 过强，改为 association。"
+    },
+    {
+      "source": "s-8000df081279-c001:a015",
+      "target": "s-8000df081279-c001:a016",
+      "kind": "supports",
+      "condition": "当孩子半夜玩游戏时",
+      "reason": "a015指出自制力是意愿竞争，a016说明孩子半夜玩游戏是因为社交需求超过睡觉意愿，体现自制力用于游戏。"
+    },
+    {
+      "source": "s-8000df081279-c001:a016",
+      "target": "s-8000df081279-c001:a017",
+      "kind": "supports",
+      "condition": "当孩子因社交需求半夜玩游戏时",
+      "reason": "孩子半夜玩游戏是因为社交需求和成就感，为邀请孩子的朋友到家光明正大玩游戏提供了依据：通过满足社交需求替代半夜偷偷玩。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不准确，改为 supports，表示来源分析支持目标策略。"
+    },
+    {
+      "source": "s-8000df081279-c001:a018",
+      "target": "s-8000df081279-c001:a019",
+      "kind": "supports",
+      "condition": "当家长无法提供高质量陪伴时",
+      "reason": "孩子需要同龄人互动，否则转向电子设备，为家长无法高质量陪伴时不能要求孩子不上瘾提供了原因，支持必须提供替代活动的主张。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 不在允许 kind 中，改为 supports。"
+    },
+    {
+      "source": "s-8000df081279-c001:a025",
+      "target": "s-8000df081279-c002:a001",
+      "kind": "supports",
+      "condition": "关于界限与没收",
+      "reason": "a025和a001都阐述界限内收手机是给孩子力量，无界限收手机是拿走力量，内容一致。"
+    },
+    {
+      "source": "s-8000df081279-c002:a001",
+      "target": "s-8000df081279-c002:a002",
+      "kind": "supports",
+      "condition": "当界限明确时",
+      "reason": "界限内收手机给孩子力量，支持界限让孩子主动遵守规则，因为明确界限使孩子知道规则并预期后果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立"
+    },
+    {
+      "source": "s-8000df081279-c002:a003",
+      "target": "s-8000df081279-c002:a004",
+      "kind": "supports",
+      "condition": "在预防上瘾时",
+      "reason": "多种好玩活动防止电子设备上瘾，支持用其他好玩活动替代电子设备，提供具体活动示例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立"
+    },
+    {
+      "source": "s-8000df081279-c002:a005",
+      "target": "s-8000df081279-c002:a006",
+      "kind": "example_of",
+      "condition": "当家长改变行为时",
+      "reason": "家长不在孩子面前使用娱乐性电子设备的原则，是爷爷改变行为减少孩子对手机兴趣的案例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立"
+    },
+    {
+      "source": "s-8000df081279-c002:a007",
+      "target": "s-8000df081279-c002:a005",
+      "kind": "supports",
+      "condition": "当家长使用手机时",
+      "reason": "手机作为工作工具而非娱乐工具，支持家长不在孩子面前使用娱乐性电子设备。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立"
+    },
+    {
+      "source": "s-8000df081279-c002:a009",
+      "target": "s-8000df081279-c002:a010",
+      "kind": "contrasts",
+      "condition": "当孩子声称听音乐不影响学习时",
+      "reason": "a009建议用事实检验，a010指出孩子沉迷音乐反映情感需求未满足，两者角度不同。"
+    },
+    {
+      "source": "s-8000df081279-c002:a011",
+      "target": "s-8000df081279-c002:a008",
+      "kind": "contrasts",
+      "condition": "关于年龄与上瘾",
+      "reason": "a011指出三岁半孩子不具备自控能力，a008指出上瘾与年龄无关，两者看似矛盾但针对不同方面。"
+    },
+    {
+      "source": "s-8000df081279-c002:a012",
+      "target": "s-8000df081279-c002:a002",
+      "kind": "association",
+      "condition": "在界限内",
+      "reason": "隐性控制给孩子选择权和界限让孩子主动遵守规则都强调孩子自主性，但二者方法不同，无直接支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原supports偏强，改为association，因为两者方法不同，只共享自主性主题。"
+    },
+    {
+      "source": "s-8000df081279-c002:a014",
+      "target": "s-8000df081279-c001:a013",
+      "kind": "association",
+      "condition": "在判断上瘾时",
+      "reason": "孩子欺骗家长是上瘾的标志，与判断孩子是否上瘾看能否不玩是两个独立指标，均用于识别上瘾。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原supports偏强，改为association，两个指标并列。"
+    },
+    {
+      "source": "s-8000df081279-c002:a015",
+      "target": "s-8000df081279-c001:a009",
+      "kind": "supports",
+      "condition": "当亲子打游戏时",
+      "reason": "亲子打游戏不能是唯一互动，支持与孩子一起玩游戏并穿插其他活动的建议。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立"
+    },
+    {
+      "source": "s-8000df081279-c002:a016",
+      "target": "s-8000df081279-c002:r001",
+      "kind": "supports",
+      "condition": "在逐步减少游戏时间时",
+      "reason": "逐步减少游戏时间，支持逐步减少游戏时间的具体步骤，两者内容一致。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立"
+    },
+    {
+      "source": "s-8000df081279-c002:a018",
+      "target": "s-8000df081279-c002:a019",
+      "kind": "step_of",
+      "condition": "在培养延迟满足时",
+      "reason": "a018指出延迟满足是预防上瘾的关键能力，a019提供具体练习方法。"
+    },
+    {
+      "source": "s-8000df081279-c002:a019",
+      "target": "s-8000df081279-c002:a020",
+      "kind": "association",
+      "condition": "当孩子拒绝延迟满足时",
+      "reason": "培养延迟性满足的吃糖练习提出后，孩子拒绝延迟满足时如何引导成为需要解决的问题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原causes不在允许范围，且无因果，改为association。"
+    },
+    {
+      "source": "s-8000df081279-c002:a020",
+      "target": "s-8000df081279-c002:a021",
+      "kind": "step_of",
+      "condition": "在引导延迟满足时",
+      "reason": "孩子拒绝延迟满足时的引导方法问题，引出用等待换取更多奖励的解决方案。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立"
+    },
+    {
+      "source": "s-8000df081279-c002:a021",
+      "target": "s-8000df081279-c002:a022",
+      "kind": "supports",
+      "condition": "当孩子选择即时满足时",
+      "reason": "a021建议用等待换取更多奖励，a022提供让孩子看到失去的机会的方法。"
+    },
+    {
+      "source": "s-8000df081279-c002:a022",
+      "target": "s-8000df081279-c002:r002",
+      "kind": "supports",
+      "condition": "在延迟满足练习中",
+      "reason": "a022和r002都描述让孩子看到失去的糖的方法，内容一致。"
+    },
+    {
+      "source": "s-8000df081279-c003:a001",
+      "target": "s-8000df081279-c003:a002",
+      "kind": "supports",
+      "condition": "在培养延迟满足时",
+      "reason": "让孩子看到失去的东西以培养延迟满足，支持看到失去导致对即时满足不再满足的心理机制。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立"
+    },
+    {
+      "source": "s-8000df081279-c003:a002",
+      "target": "s-8000df081279-c003:a005",
+      "kind": "supports",
+      "condition": "在培养延迟满足时",
+      "reason": "a002解释心理机制，a005提出核心原则：一定要让孩子看到失去的东西。"
+    },
+    {
+      "source": "s-8000df081279-c003:a004",
+      "target": "s-8000df081279-c003:a005",
+      "kind": "applies_to",
+      "condition": "当看电视与吃饭冲突时",
+      "reason": "a004提供具体情境下的延迟满足方法，a005是核心原则。"
+    },
+    {
+      "source": "s-8000df081279-c003:a003",
+      "target": "s-8000df081279-c003:a001",
+      "kind": "example_of",
+      "condition": "当使用让孩子看到失去的方法时",
+      "reason": "讲师自家孩子延迟满足能力强是让孩子看到失去的东西以培养延迟满足方法的应用案例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n001",
+      "target": "s-8000df081279-c002:a001",
+      "kind": "association",
+      "condition": "两者内容高度一致",
+      "reason": "候选与源均说明界限内收手机给力量，无界限收手机拿走力量，属于同义表述，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c002:a001",
+      "target": "s-8000df081279-c001:v2-n001",
+      "kind": "association",
+      "condition": "两者内容高度一致",
+      "reason": "候选与源均说明界限内收手机给力量，无界限收手机拿走力量，属于同义表述，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n001",
+      "target": "s-8000df081279-c001:a025",
+      "kind": "association",
+      "condition": "两者内容高度一致",
+      "reason": "候选强调界限与没收的区别，与源核心一致，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:a025",
+      "target": "s-8000df081279-c001:v2-n001",
+      "kind": "association",
+      "condition": "两者内容高度一致",
+      "reason": "候选强调界限与没收的区别，与源核心一致，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n001",
+      "target": "s-8000df081279-c001:v2-n002",
+      "kind": "association",
+      "condition": "候选为源原则的应用案例",
+      "reason": "候选案例中学员孩子的问题体现了无界限导致偷玩，讲师回应要先立界限，与源观点一致，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n002",
+      "target": "s-8000df081279-c001:v2-n001",
+      "kind": "association",
+      "condition": "候选为源原则的应用案例",
+      "reason": "候选案例中学员孩子的问题体现了无界限导致偷玩，讲师回应要先立界限，与源观点一致，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n001",
+      "target": "s-8000df081279-c002:a002",
+      "kind": "association",
+      "condition": "候选描述界限让孩子主动遵守规则，与源观点相符",
+      "reason": "候选给出界限明确时孩子会自己关电视的例子，支持源中界限内收手机给力量的观点，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c002:a002",
+      "target": "s-8000df081279-c001:v2-n001",
+      "kind": "association",
+      "condition": "候选描述界限让孩子主动遵守规则，与源观点相符",
+      "reason": "候选给出界限明确时孩子会自己关电视的例子，支持源中界限内收手机给力量的观点，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n001",
+      "target": "s-8000df081279-c002:a012",
+      "kind": "association",
+      "condition": "候选涉及隐性控制，与源界限方法相关但不同",
+      "reason": "候选提出给孩子选择权，与源中明确界限不同，但都属于管教方式，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c002:a012",
+      "target": "s-8000df081279-c001:v2-n001",
+      "kind": "association",
+      "condition": "候选涉及隐性控制，与源界限方法相关但不同",
+      "reason": "候选提出给孩子选择权，与源中明确界限不同，但都属于管教方式，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n002",
+      "target": "s-8000df081279-c001:v2-n001",
+      "kind": "example_of",
+      "condition": "当家长已与孩子明确立过界限，且孩子违反规定偷玩时",
+      "reason": "source 案例中学员的孩子规定时间做不到且偷玩，讲师回应要先立界限，界限内收手机给孩子力量，正是该概念所述“界限内收手机是给孩子力量，无界限阻止是拿走力量”的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n001",
+      "target": "s-8000df081279-c001:v2-n002",
+      "kind": "has_example",
+      "condition": "当家长已与孩子明确立过界限，且孩子违反规定偷玩时",
+      "reason": "source 案例中学员的孩子规定时间做不到且偷玩，讲师回应要先立界限，界限内收手机给孩子力量，正是该概念所述“界限内收手机是给孩子力量，无界限阻止是拿走力量”的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n002",
+      "target": "s-8000df081279-c001:a025",
+      "kind": "example_of",
+      "condition": "当区分界限内与无界限收手机时",
+      "reason": "source 案例展示了无界限时孩子偷玩，讲师强调先立界限，界限内收手机给孩子力量，例证了 a025 所述界限与没收的区别。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:a025",
+      "target": "s-8000df081279-c001:v2-n002",
+      "kind": "has_example",
+      "condition": "当区分界限内与无界限收手机时",
+      "reason": "source 案例展示了无界限时孩子偷玩，讲师强调先立界限，界限内收手机给孩子力量，例证了 a025 所述界限与没收的区别。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n002",
+      "target": "s-8000df081279-c002:a001",
+      "kind": "example_of",
+      "condition": "当家长先立界限并执行后果时",
+      "reason": "source 中讲师要求先立界限，界限内收手机是给孩子力量，而无界限收手机则拿走力量，与 c002:a001 所述界限内与无界限收手机区别一致，source 是其案例应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c002:a001",
+      "target": "s-8000df081279-c001:v2-n002",
+      "kind": "has_example",
+      "condition": "当家长先立界限并执行后果时",
+      "reason": "source 中讲师要求先立界限，界限内收手机是给孩子力量，而无界限收手机则拿走力量，与 c002:a001 所述界限内与无界限收手机区别一致，source 是其案例应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n002",
+      "target": "s-8000df081279-c002:a002",
+      "kind": "complements",
+      "condition": "当家长需要理解为何界限能让孩子遵守时",
+      "reason": "source 只说明要先立界限并收手机，c002:a002 补充了明确界限能使孩子主动遵守规则（即使不高兴也会遵守），补充了机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c002:a002",
+      "target": "s-8000df081279-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当家长需要理解为何界限能让孩子遵守时",
+      "reason": "source 只说明要先立界限并收手机，c002:a002 补充了明确界限能使孩子主动遵守规则（即使不高兴也会遵守），补充了机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n002",
+      "target": "s-8000df081279-c002:a012",
+      "kind": "conditional_difference",
+      "condition": "当比较直接明确界限与隐性控制两种策略时",
+      "reason": "source 强调先立界限并执行界限内收手机，属于明确规则；c002:a012 主张隐性控制给孩子选择权，避免直接指定。两者是不同控制方式，适用于不同情境，不能视为同一条件矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c002:a012",
+      "target": "s-8000df081279-c001:v2-n002",
+      "kind": "conditional_difference",
+      "condition": "当比较直接明确界限与隐性控制两种策略时",
+      "reason": "source 强调先立界限并执行界限内收手机，属于明确规则；c002:a012 主张隐性控制给孩子选择权，避免直接指定。两者是不同控制方式，适用于不同情境，不能视为同一条件矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n002",
+      "target": "s-8000df081279-c001:a022",
+      "kind": "association",
+      "condition": "当讨论屏幕时间安排与上瘾风险时",
+      "reason": "source 涉及孩子不遵守屏幕时间规定并偷玩，a022 讨论每天固定五分钟可能导致上瘾，两者同属屏幕时间管理，但未直接补充或冲突，仅为主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:a022",
+      "target": "s-8000df081279-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论屏幕时间安排与上瘾风险时",
+      "reason": "source 涉及孩子不遵守屏幕时间规定并偷玩，a022 讨论每天固定五分钟可能导致上瘾，两者同属屏幕时间管理，但未直接补充或冲突，仅为主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n002",
+      "target": "s-8000df081279-c002:a008",
+      "kind": "association",
+      "condition": "当考虑屏幕时间上瘾与年龄关系时",
+      "reason": "source 中学员担心孩子上瘾，c002:a008 指出上瘾与年龄无关，可提供背景，但 source 未涉及年龄因素，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c002:a008",
+      "target": "s-8000df081279-c001:v2-n002",
+      "kind": "association",
+      "condition": "当考虑屏幕时间上瘾与年龄关系时",
+      "reason": "source 中学员担心孩子上瘾，c002:a008 指出上瘾与年龄无关，可提供背景，但 source 未涉及年龄因素，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n002",
+      "target": "s-8000df081279-c001:a024",
+      "kind": "association",
+      "condition": "当讨论家长忙碌导致孩子屏幕时间问题时",
+      "reason": "source 是孩子不遵守规定偷玩，a024 是家长忙碌导致孩子看电视，两者都涉及屏幕时间管理，但原因和情境不同，仅作为类似案例关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:a024",
+      "target": "s-8000df081279-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论家长忙碌导致孩子屏幕时间问题时",
+      "reason": "source 是孩子不遵守规定偷玩，a024 是家长忙碌导致孩子看电视，两者都涉及屏幕时间管理，但原因和情境不同，仅作为类似案例关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n002",
+      "target": "s-8000df081279-c001:a021",
+      "kind": "association",
+      "condition": "当讨论游戏时间安排与上瘾控制时",
+      "reason": "source 涉及屏幕时间规定，a021 涉及游戏时间安排及多游戏分散问题，同属屏幕时间管理，但未直接相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:a021",
+      "target": "s-8000df081279-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论游戏时间安排与上瘾控制时",
+      "reason": "source 涉及屏幕时间规定，a021 涉及游戏时间安排及多游戏分散问题，同属屏幕时间管理，但未直接相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n002",
+      "target": "s-8000df081279-c001:a012",
+      "kind": "association",
+      "condition": "当讨论多个游戏与上瘾关系时",
+      "reason": "source 未涉及多游戏问题，但 a012 指出多游戏分散不能避免上瘾，与 source 中上瘾担忧主题关联，但未直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:a012",
+      "target": "s-8000df081279-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论多个游戏与上瘾关系时",
+      "reason": "source 未涉及多游戏问题，但 a012 指出多游戏分散不能避免上瘾，与 source 中上瘾担忧主题关联，但未直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:v2-n002",
+      "target": "s-8000df081279-c001:a023",
+      "kind": "association",
+      "condition": "当讨论孩子半夜玩游戏等屏幕时间行为时",
+      "reason": "source 是孩子偷玩，a023 是孩子半夜玩游戏，都涉及屏幕时间管理，但情境和原因不同，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8000df081279-c001:a023",
+      "target": "s-8000df081279-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论孩子半夜玩游戏等屏幕时间行为时",
+      "reason": "source 是孩子偷玩，a023 是孩子半夜玩游戏，都涉及屏幕时间管理，但情境和原因不同，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "依赖与失控",
+      "when": "当孩子喜欢故事或游戏时，需分析其背后的情绪需求，否则可能转向电子设备并上瘾。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8000df081279-c001:a003",
+        "s-8000df081279-c001:a016",
+        "s-8000df081279-c002:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "依赖与失控",
+      "when": "通过设立界限和提供替代活动，可以预防孩子对电子设备上瘾。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8000df081279-c001:a025",
+        "s-8000df081279-c002:a001",
+        "s-8000df081279-c002:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "依赖与失控",
+      "when": "家长改变自身行为（如不在孩子面前使用娱乐设备）可以减少孩子对电子设备的兴趣。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8000df081279-c002:a005",
+        "s-8000df081279-c002:a006",
+        "s-8000df081279-c002:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "内在能力",
+      "to": "依赖与失控",
+      "when": "培养延迟满足能力可以预防孩子上瘾。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8000df081279-c002:a018",
+        "s-8000df081279-c002:a019",
+        "s-8000df081279-c003:a001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-8000df081279-c003:a001",
+          "limits": [
+            "原文未说明适用年龄范围。",
+            "可能引起孩子强烈情绪，需家长自行判断。"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "依赖与失控",
+      "when": "不同年龄段孩子的自控能力不同，需根据年龄调整电子设备使用策略。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8000df081279-c002:a011",
+        "s-8000df081279-c002:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "依赖与失控",
+      "when": "通过逐步减少游戏时间和事实检验学习影响，可以管理孩子的电子设备使用。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8000df081279-c002:a016",
+        "s-8000df081279-c002:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-8000df081279-c001:a006"
+      ],
+      "reason": "内容完全一致，都是关于用声情并茂方式讲故事替代电子故事。"
+    },
+    {
+      "atom_ids": [
+        "s-8000df081279-c001:a007"
+      ],
+      "reason": "内容完全一致，都是关于训练主动思维从限制转向替代。"
+    },
+    {
+      "atom_ids": [
+        "s-8000df081279-c001:a025"
+      ],
+      "reason": "内容完全一致，都是关于界限与没收的区别。"
+    },
+    {
+      "atom_ids": [
+        "s-8000df081279-c002:a016",
+        "s-8000df081279-c002:r001"
+      ],
+      "reason": "内容完全一致，都是关于逐步减少游戏时间的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-8000df081279-c002:a022",
+        "s-8000df081279-c002:r002"
+      ],
+      "reason": "内容完全一致，都是关于延迟满足练习中让孩子看到失去的糖。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-8000df081279-c001:a011",
+        "s-8000df081279-c001:a009"
+      ],
+      "description": "a011认为运动不一定比游戏好，游戏不是洪水猛兽；a009建议游戏后一起进行其他活动如爬山、打球，似乎暗示运动是好的替代。两者对运动价值的看法存在潜在矛盾。",
+      "needed_evidence": "需要明确运动在替代游戏中的具体作用和适用条件。"
+    },
+    {
+      "atom_ids": [
+        "s-8000df081279-c002:a008",
+        "s-8000df081279-c002:a011"
+      ],
+      "description": "a008指出上瘾与年龄无关，两三岁到六七岁都可能上瘾；a011指出三岁半孩子不具备自控能力，不应让其玩手机。两者看似矛盾，但可能针对不同方面：a008强调上瘾可能性，a011强调自控能力。",
+      "needed_evidence": "需要澄清年龄与上瘾的关系，以及不同年龄段孩子的自控能力差异。"
+    },
+    {
+      "atom_ids": [
+        "s-8000df081279-c003:a001",
+        "s-8000df081279-c003:a004"
+      ],
+      "description": "a001描述让孩子看到失去的糖的方法，涉及故意让孩子感到痛苦；a004提供看电视与吃饭冲突时的延迟满足方法，其中方法二允许孩子继续看电视但延迟吃饭，可能影响孩子健康。这些方法可能引发伦理争议。",
+      "needed_evidence": "需要评估这些方法对儿童心理和生理健康的潜在影响，以及是否有更温和的替代方法。"
+    }
+  ],
+  "path": [
+    {
+      "name": "预防和应对孩子电子设备上瘾的方法",
+      "steps": [
+        {
+          "action": "分析孩子喜欢电子设备的原因",
+          "atom_ids": [
+            "s-8000df081279-c001:a003",
+            "s-8000df081279-c001:a016",
+            "s-8000df081279-c002:a010"
+          ],
+          "condition": "当孩子表现出对故事、游戏或音乐的喜爱时"
+        },
+        {
+          "action": "提供替代活动",
+          "atom_ids": [
+            "s-8000df081279-c001:a002",
+            "s-8000df081279-c001:a006",
+            "s-8000df081279-c002:a004"
+          ],
+          "condition": "根据分析的原因，设计并实施替代活动"
+        },
+        {
+          "action": "设立界限",
+          "atom_ids": [
+            "s-8000df081279-c001:a025",
+            "s-8000df081279-c002:a001",
+            "s-8000df081279-c002:a002"
+          ],
+          "condition": "在提供替代活动的同时，明确规则和界限"
+        },
+        {
+          "action": "家长改变自身行为",
+          "atom_ids": [
+            "s-8000df081279-c002:a005",
+            "s-8000df081279-c002:a006",
+            "s-8000df081279-c002:a007"
+          ],
+          "condition": "家长不在孩子面前使用娱乐性电子设备，将手机定位为工作工具"
+        },
+        {
+          "action": "培养延迟满足能力",
+          "atom_ids": [
+            "s-8000df081279-c002:a018",
+            "s-8000df081279-c002:a019",
+            "s-8000df081279-c002:a021",
+            "s-8000df081279-c002:a022",
+            "s-8000df081279-c003:a001",
+            "s-8000df081279-c003:a005"
+          ],
+          "condition": "通过让孩子看到失去的东西来培养延迟满足"
+        },
+        {
+          "action": "逐步减少游戏时间",
+          "atom_ids": [
+            "s-8000df081279-c002:a016",
+            "s-8000df081279-c002:r001"
+          ],
+          "condition": "当孩子已经上瘾时，逐步减少游戏时间并用其他活动填补"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-8000df081279-c001:u1",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c001:a001"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u2",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c001:a002"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u3",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c001:a003"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u4",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c001:a004"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u5",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c001:a005"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u6",
+      "kind": "method",
+      "atom_ids": [
+        "s-8000df081279-c001:a006"
+      ],
+      "blocks": [
+        "b00009",
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u7",
+      "kind": "method",
+      "atom_ids": [
+        "s-8000df081279-c001:a007"
+      ],
+      "blocks": [
+        "b00010",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u8",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c001:a008"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u9",
+      "kind": "method",
+      "atom_ids": [
+        "s-8000df081279-c001:a009"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u10",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8000df081279-c001:a010"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u11",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c001:a011"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u12",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8000df081279-c001:a012"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u13",
+      "kind": "condition",
+      "atom_ids": [
+        "s-8000df081279-c001:a013"
+      ],
+      "blocks": [
+        "b00023",
+        "b00026",
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u14",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8000df081279-c001:a014"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u15",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8000df081279-c001:a015"
+      ],
+      "blocks": [
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u16",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8000df081279-c001:a016"
+      ],
+      "blocks": [
+        "b00029",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u17",
+      "kind": "method",
+      "atom_ids": [
+        "s-8000df081279-c001:a017"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u18",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8000df081279-c001:a018"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u19",
+      "kind": "condition",
+      "atom_ids": [
+        "s-8000df081279-c001:a019"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u20",
+      "kind": "case",
+      "atom_ids": [
+        "s-8000df081279-c001:a020"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006",
+        "b00007",
+        "b00008",
+        "b00009",
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u21",
+      "kind": "case",
+      "atom_ids": [
+        "s-8000df081279-c001:a021"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00020",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u22",
+      "kind": "case",
+      "atom_ids": [
+        "s-8000df081279-c001:a022"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u23",
+      "kind": "case",
+      "atom_ids": [
+        "s-8000df081279-c001:a023"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u24",
+      "kind": "case",
+      "atom_ids": [
+        "s-8000df081279-c001:a024"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036",
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u25",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c001:u26",
+      "kind": "case",
+      "atom_ids": [
+        "s-8000df081279-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c001:a025",
+        "s-8000df081279-c002:a001"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c002:a002"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c002:a003"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-8000df081279-c002:a004"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042",
+        "b00047",
+        "b00048",
+        "b00050",
+        "b00051",
+        "b00064",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0005",
+      "kind": "method",
+      "atom_ids": [
+        "s-8000df081279-c002:a005"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-8000df081279-c002:a006"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c002:a007"
+      ],
+      "blocks": [
+        "b00054",
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c002:a008"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-8000df081279-c002:a009"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c002:a010"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0011",
+      "kind": "condition",
+      "atom_ids": [
+        "s-8000df081279-c002:a011"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0012",
+      "kind": "method",
+      "atom_ids": [
+        "s-8000df081279-c002:a012"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0013",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8000df081279-c002:a013"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0014",
+      "kind": "condition",
+      "atom_ids": [
+        "s-8000df081279-c002:a014"
+      ],
+      "blocks": [
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0015",
+      "kind": "condition",
+      "atom_ids": [
+        "s-8000df081279-c002:a015"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0016",
+      "kind": "method",
+      "atom_ids": [
+        "s-8000df081279-c002:a016",
+        "s-8000df081279-c002:r001"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c002:a017"
+      ],
+      "blocks": [
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c002:a018"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0019",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-8000df081279-c002:a019"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0020",
+      "kind": "question",
+      "atom_ids": [
+        "s-8000df081279-c002:a020"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082",
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0021",
+      "kind": "method",
+      "atom_ids": [
+        "s-8000df081279-c002:a021"
+      ],
+      "blocks": [
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c002:u0022",
+      "kind": "method",
+      "atom_ids": [
+        "s-8000df081279-c002:a022"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c003:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c002:a022",
+        "s-8000df081279-c002:r002",
+        "s-8000df081279-c003:a001"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085",
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c003:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c003:a002"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c003:u0003",
+      "kind": "case",
+      "atom_ids": [
+        "s-8000df081279-c003:a003"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c003:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c003:a004"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c003:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c003:a005"
+      ],
+      "blocks": [
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-8000df081279-c003:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8000df081279-c003:a006"
+      ],
+      "blocks": [
+        "b00094",
+        "b00095"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "界限之内收手机是给孩子力量，无界限阻止是拿走力量",
+      "atom_ids": [
+        "s-8000df081279-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8000df081279",
+          "blocks": [
+            "b00043",
+            "b00044"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "案例：学员的孩子规定时间做不到且偷玩",
+      "atom_ids": [
+        "s-8000df081279-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8000df081279",
+          "blocks": [
+            "b00042",
+            "b00043",
+            "b00044"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    }
+  ]
+}

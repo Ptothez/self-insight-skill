@@ -1,0 +1,899 @@
+{
+  "concepts": [
+    {
+      "name": "管教与惩罚的区别",
+      "definition": "管教是赋能，目的是让孩子知道错在哪里并帮助他下次不再犯；惩罚的目的是让孩子痛苦和受伤。两者目的根本不同。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a002",
+        "s-162fb5937284-c001:a003",
+        "s-162fb5937284-c001:r001"
+      ]
+    },
+    {
+      "name": "Time Out（面壁思过）",
+      "definition": "一种惩罚方式，让孩子独自到房间面壁思过，思考自己做错了什么。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a004"
+      ]
+    },
+    {
+      "name": "Time Out的危险",
+      "definition": "传递给孩子“做错事、父母生气时只能自己面对”的信息，可能导致青少年时期遇到问题不告诉父母，感到孤独。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a005"
+      ]
+    },
+    {
+      "name": "Time In（陪伴冷静）",
+      "definition": "替代Time Out的方法：当孩子失控、大吼大闹时，父母陪孩子一起到房间冷静，允许孩子哭闹、打滚、发脾气、捶床，传递“我不离开你，一起经历”的信息。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a006"
+      ]
+    },
+    {
+      "name": "父母行为传递信息",
+      "definition": "父母每时每刻做什么或不做什么都在给孩子传递信息。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a007"
+      ]
+    },
+    {
+      "name": "孩子哭闹是求救信号",
+      "definition": "孩子在哭闹、犯错时，其实是在向父母求救，尤其需要父母的支持、鼓励和保护。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a008"
+      ]
+    },
+    {
+      "name": "打孩子的无效性",
+      "definition": "讲师不支持打孩子，即使是轻轻打也不可以，因为轻轻打不能让孩子知道错、受管教或顺服。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a009"
+      ]
+    },
+    {
+      "name": "语言暴力的伤害",
+      "definition": "语言暴力（责骂、大吼）会刺痛孩子，大脑中疼痛区域被激活，与被打时激活的疼痛区域相同。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a010"
+      ]
+    },
+    {
+      "name": "没收物品的弊端",
+      "definition": "没收手机、电子产品、玩具等不是自然结果，孩子不知道为什么失去东西，只知道做错事会失去东西。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a011"
+      ]
+    },
+    {
+      "name": "没收物品后的困境",
+      "definition": "当所有东西都收完了，父母该怎么办？当孩子长大不怕没收或自己购买物品时，没收会失效，甚至可能引发冲突。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a012"
+      ]
+    },
+    {
+      "name": "不理睬作为惩罚",
+      "definition": "一种惩罚方式：父母不和孩子说话，让孩子知道父母不高兴。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a013"
+      ]
+    },
+    {
+      "name": "不理睬导致讨好型人格",
+      "definition": "不理睬惩罚的第一个后果：孩子可能成为讨好型人格，为了重新获得父母关注，会努力做好家务、考好成绩等来讨好父母。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a014"
+      ]
+    },
+    {
+      "name": "不理睬导致孩子不会沟通",
+      "definition": "不理睬惩罚的第三个后果：孩子以后也会成为同样的人，不知道如何沟通矛盾，生气时不讲话，把自己关闭起来。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a016"
+      ]
+    },
+    {
+      "name": "高知家庭孩子的狂躁愤怒案例",
+      "definition": "一个高知家庭，父母非常自控、内敛，不讲情绪，生气时不讲话。结果青少年孩子非常愤怒，会打父母、砸东西。原因是家庭太控制、太冷，孩子用狂暴方式试图引起父母情绪反应。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a015"
+      ]
+    },
+    {
+      "name": "反思自己的惩罚方式",
+      "definition": "讲师请听众思考：自己习惯用什么样的惩罚方式？使用这些惩罚方式后，在孩子身上已经造成了什么样的影响？",
+      "atom_ids": [
+        "s-162fb5937284-c001:a017"
+      ]
+    },
+    {
+      "name": "先讲错误再讲正确",
+      "definition": "讲师提出教学顺序：在讲正确的管教方法之前，必须先讲错误的方法。因为很多人普遍认为某些育儿方式是正确且高级的，但实际上它们是错误的。",
+      "atom_ids": [
+        "s-162fb5937284-c001:xe001"
+      ]
+    },
+    {
+      "name": "迫于社交压力使用管教尺",
+      "definition": "很多父母使用管教尺（打孩子工具）并非出于教育目的，而是因为身边朋友都有管教尺，迫于社交压力而跟风。",
+      "atom_ids": [
+        "s-162fb5937284-c001:xe002"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-162fb5937284-c001:a002",
+      "target": "s-162fb5937284-c001:a003",
+      "kind": "supports",
+      "condition": "",
+      "reason": "「管教与惩罚的区别」命题区分管教赋能与惩罚痛苦，并主张管教；「惩罚的定义与管教目的区分」进一步说明惩罚不以教育目的为核心，反而可能痛苦受伤，后者细化并支持前者的区分。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-162fb5937284-c001:a002",
+      "target": "s-162fb5937284-c001:r001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00018强调管教和惩罚在目的上根本不同，与k00002的区分一致。"
+    },
+    {
+      "source": "s-162fb5937284-c001:a004",
+      "target": "s-162fb5937284-c001:a005",
+      "kind": "causes",
+      "condition": "当使用Time Out时",
+      "reason": "k00004描述Time Out的做法，k00005说明这种做法的危险后果。"
+    },
+    {
+      "source": "s-162fb5937284-c001:a004",
+      "target": "s-162fb5937284-c001:a006",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "k00006提出Time In作为替代Time Out的方法，两者形成对比。"
+    },
+    {
+      "source": "s-162fb5937284-c001:a005",
+      "target": "s-162fb5937284-c001:a006",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "k00005指出Time Out的危险，k00006提供Time In作为更好的替代方案。"
+    },
+    {
+      "source": "s-162fb5937284-c001:a006",
+      "target": "s-162fb5937284-c001:a007",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "「Time In（陪伴冷静）」描述父母陪孩子冷静并传递不离开的信息，是「行为传递信息机制」中“陪孩子一起进房间传递不弃”的具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-162fb5937284-c001:a007",
+      "target": "s-162fb5937284-c001:a008",
+      "kind": "association",
+      "condition": "",
+      "reason": "「行为传递信息机制」说明父母行为传递信息，「孩子哭闹是求救信号」说明孩子哭闹需要父母支持保护，两者都涉及亲子互动但无直接支持关系，仅为相关议题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 不成立，改为 association。"
+    },
+    {
+      "source": "s-162fb5937284-c001:a009",
+      "target": "s-162fb5937284-c001:a010",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00009指出打孩子无效，k00010说明语言暴力同样有害，两者都反对体罚和语言暴力。"
+    },
+    {
+      "source": "s-162fb5937284-c001:a011",
+      "target": "s-162fb5937284-c001:a012",
+      "kind": "supports",
+      "condition": "当使用没收作为惩罚时",
+      "reason": "「没收物品的弊端」指出没收非自然结果、孩子不理解且长大后失效引发冲突，支持「没收物品后的困境」中父母被逼到绝路和难堪的论断。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 改为 supports，关系仍成立。"
+    },
+    {
+      "source": "s-162fb5937284-c001:a013",
+      "target": "s-162fb5937284-c001:a014",
+      "kind": "supports",
+      "condition": "当使用不理睬作为惩罚时",
+      "reason": "「不理睬作为惩罚」介绍不理睬惩罚及其后果，「不理睬导致讨好型人格」作为第一个后果，支持前者关于不理睬导致讨好型人格的论断。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 改为 supports。"
+    },
+    {
+      "source": "s-162fb5937284-c001:a013",
+      "target": "s-162fb5937284-c001:a016",
+      "kind": "supports",
+      "condition": "当使用不理睬作为惩罚时",
+      "reason": "「不理睬作为惩罚」指出不理睬导致沟通障碍，「不理睬导致孩子不会沟通」展开第三个后果，支持前者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 改为 supports。"
+    },
+    {
+      "source": "s-162fb5937284-c001:a015",
+      "target": "s-162fb5937284-c001:a013",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "「高知家庭孩子的狂躁愤怒案例」是不理睬惩罚导致狂躁愤怒后果的极端例子，支持「不理睬作为惩罚」中相应后果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-162fb5937284-c001:a017",
+      "target": "s-162fb5937284-c001:a002",
+      "kind": "applies_to",
+      "condition": null,
+      "reason": "k00017要求反思自己的惩罚方式，而k00002提供了管教与惩罚的区别作为反思依据。"
+    },
+    {
+      "source": "s-162fb5937284-c001:xe001",
+      "target": "s-162fb5937284-c001:a002",
+      "kind": "prerequisite",
+      "condition": null,
+      "reason": "k00019强调先讲错误方法再讲正确方法，因此k00002中管教与惩罚的区别是后续正确方法的前提。"
+    },
+    {
+      "source": "s-162fb5937284-c001:xe002",
+      "target": "s-162fb5937284-c001:a009",
+      "kind": "association",
+      "condition": "",
+      "reason": "「迫于社交压力使用管教尺」指出使用动机是社交压力而非教育目的，不能直接支持「打孩子的无效性」中打孩子无效的主张，两者仅相关。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 不成立，改为 association。"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n001",
+      "target": "s-162fb5937284-c001:a007",
+      "kind": "example_of",
+      "condition": "当涉及夫妻关系中行为传递信息时",
+      "reason": "source正是a007中提到的直播连麦案例，妻子对出轨丈夫更好，讲师以此说明行为传递信息的机制，故source是a007的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:a007",
+      "target": "s-162fb5937284-c001:v2-n001",
+      "kind": "has_example",
+      "condition": "当涉及夫妻关系中行为传递信息时",
+      "reason": "source正是a007中提到的直播连麦案例，妻子对出轨丈夫更好，讲师以此说明行为传递信息的机制，故source是a007的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n001",
+      "target": "s-162fb5937284-c001:a005",
+      "kind": "association",
+      "condition": "当在亲子管教情境中应用传递信息原则时",
+      "reason": "候选讨论Time Out如何向孩子传递孤独信息，与source中夫妻关系传递信息机制类似，但角色关系与场景不同，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:a005",
+      "target": "s-162fb5937284-c001:v2-n001",
+      "kind": "association",
+      "condition": "当在亲子管教情境中应用传递信息原则时",
+      "reason": "候选讨论Time Out如何向孩子传递孤独信息，与source中夫妻关系传递信息机制类似，但角色关系与场景不同，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n001",
+      "target": "s-162fb5937284-c001:a013",
+      "kind": "association",
+      "condition": "当父母使用不理睬作为惩罚时",
+      "reason": "候选指出不理睬传递父母不高兴的信息，与source的行为传递信息主题一致，但涉及亲子而非夫妻，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:a013",
+      "target": "s-162fb5937284-c001:v2-n001",
+      "kind": "association",
+      "condition": "当父母使用不理睬作为惩罚时",
+      "reason": "候选指出不理睬传递父母不高兴的信息，与source的行为传递信息主题一致，但涉及亲子而非夫妻，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n001",
+      "target": "s-162fb5937284-c001:a006",
+      "kind": "association",
+      "condition": "当孩子失控时父母陪伴冷静",
+      "reason": "候选强调Time In传递不离开孩子的信息，与source的传递信息机制呼应，但场景不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:a006",
+      "target": "s-162fb5937284-c001:v2-n001",
+      "kind": "association",
+      "condition": "当孩子失控时父母陪伴冷静",
+      "reason": "候选强调Time In传递不离开孩子的信息，与source的传递信息机制呼应，但场景不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n001",
+      "target": "s-162fb5937284-c001:a009",
+      "kind": "association",
+      "condition": "当涉及打孩子是否有效时",
+      "reason": "候选认为打孩子不能传递有效信息，与source的传递信息框架相关，但主题是管教有效性而非夫妻关系，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:a009",
+      "target": "s-162fb5937284-c001:v2-n001",
+      "kind": "association",
+      "condition": "当涉及打孩子是否有效时",
+      "reason": "候选认为打孩子不能传递有效信息，与source的传递信息框架相关，但主题是管教有效性而非夫妻关系，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n002",
+      "target": "s-162fb5937284-c001:a017",
+      "kind": "association",
+      "condition": "当引导听众反思自身惩罚方式时",
+      "reason": "source 客观列举错误惩罚方式，而候选要求听众反思自己习惯使用的惩罚方式，两者均涉及惩罚方式但角度不同，source 未包含反思引导，故仅主题相关，不确定具体逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:a017",
+      "target": "s-162fb5937284-c001:v2-n002",
+      "kind": "association",
+      "condition": "当引导听众反思自身惩罚方式时",
+      "reason": "source 客观列举错误惩罚方式，而候选要求听众反思自己习惯使用的惩罚方式，两者均涉及惩罚方式但角度不同，source 未包含反思引导，故仅主题相关，不确定具体逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n002",
+      "target": "s-162fb5937284-c001:a004",
+      "kind": "complements",
+      "condition": "当需要理解 Time Out 这一错误惩罚方式的具体定义时",
+      "reason": "source 将 Time Out 列为常见错误惩罚方式之一，但未展开；候选具体解释了 Time Out 的定义（让孩子独自面壁思过），并补充了高知家庭常用这一事实，补足了概念细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:a004",
+      "target": "s-162fb5937284-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要理解 Time Out 这一错误惩罚方式的具体定义时",
+      "reason": "source 将 Time Out 列为常见错误惩罚方式之一，但未展开；候选具体解释了 Time Out 的定义（让孩子独自面壁思过），并补充了高知家庭常用这一事实，补足了概念细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n002",
+      "target": "s-162fb5937284-c001:a013",
+      "kind": "complements",
+      "condition": "当需要理解不理睬作为惩罚的具体行为时",
+      "reason": "source 提到不理睬是错误惩罚方式，候选进一步说明不理睬的表现（不和孩子说话）并指出会导致三个问题，补充了该惩罚方式的具体内容和负面影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:a013",
+      "target": "s-162fb5937284-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要理解不理睬作为惩罚的具体行为时",
+      "reason": "source 提到不理睬是错误惩罚方式，候选进一步说明不理睬的表现（不和孩子说话）并指出会导致三个问题，补充了该惩罚方式的具体内容和负面影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n002",
+      "target": "s-162fb5937284-c001:a014",
+      "kind": "complements",
+      "condition": "当分析不理睬惩罚的后果时",
+      "reason": "source 仅列举不理睬为错误惩罚，候选专门论述不理睬导致讨好型人格这一后果，补充了 source 未展开的负面结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:a014",
+      "target": "s-162fb5937284-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当分析不理睬惩罚的后果时",
+      "reason": "source 仅列举不理睬为错误惩罚，候选专门论述不理睬导致讨好型人格这一后果，补充了 source 未展开的负面结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n002",
+      "target": "s-162fb5937284-c001:a010",
+      "kind": "complements",
+      "condition": "当需要理解语言暴力的伤害机制时",
+      "reason": "source 将语言暴力列为错误惩罚方式，候选详细说明语言暴力激活大脑疼痛区域、孩子发抖等生理与心理伤害，补充了语言暴力危害的具体证据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:a010",
+      "target": "s-162fb5937284-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要理解语言暴力的伤害机制时",
+      "reason": "source 将语言暴力列为错误惩罚方式，候选详细说明语言暴力激活大脑疼痛区域、孩子发抖等生理与心理伤害，补充了语言暴力危害的具体证据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n002",
+      "target": "s-162fb5937284-c001:xe001",
+      "kind": "example_of",
+      "condition": "当采用先讲错误再讲正确的教学顺序时",
+      "reason": "source 列举了常见错误惩罚方式，正是“先讲错误”这一教学步骤的具体内容；候选提出先讲错误再讲正确的原则，因此 source 是候选所描述原则的一个实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:xe001",
+      "target": "s-162fb5937284-c001:v2-n002",
+      "kind": "has_example",
+      "condition": "当采用先讲错误再讲正确的教学顺序时",
+      "reason": "source 列举了常见错误惩罚方式，正是“先讲错误”这一教学步骤的具体内容；候选提出先讲错误再讲正确的原则，因此 source 是候选所描述原则的一个实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n002",
+      "target": "s-162fb5937284-c001:a011",
+      "kind": "complements",
+      "condition": "当需要理解没收物品的弊端时",
+      "reason": "source 将没收物品列为错误惩罚方式之一，候选具体说明没收不是自然结果、导致孩子不理解真正错误等弊端，补充了该方式的负面分析。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:a011",
+      "target": "s-162fb5937284-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要理解没收物品的弊端时",
+      "reason": "source 将没收物品列为错误惩罚方式之一，候选具体说明没收不是自然结果、导致孩子不理解真正错误等弊端，补充了该方式的负面分析。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n002",
+      "target": "s-162fb5937284-c001:a012",
+      "kind": "complements",
+      "condition": "当探讨没收物品的后续困境时",
+      "reason": "source 提到没收物品，候选进一步反问当所有东西收完后父母怎么办，并预示没收失效可能引发冲突，补充了 source 未提及的长期困境。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:a012",
+      "target": "s-162fb5937284-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当探讨没收物品的后续困境时",
+      "reason": "source 提到没收物品，候选进一步反问当所有东西收完后父母怎么办，并预示没收失效可能引发冲突，补充了 source 未提及的长期困境。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n002",
+      "target": "s-162fb5937284-c001:a016",
+      "kind": "complements",
+      "condition": "当分析不理睬惩罚的后果时",
+      "reason": "source 仅列举不理睬，候选专门讲解不理睬导致孩子不会沟通矛盾这一后果，补充了 source 未展开的另一个负面结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:a016",
+      "target": "s-162fb5937284-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当分析不理睬惩罚的后果时",
+      "reason": "source 仅列举不理睬，候选专门讲解不理睬导致孩子不会沟通矛盾这一后果，补充了 source 未展开的另一个负面结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n002",
+      "target": "s-162fb5937284-c001:xe002",
+      "kind": "complements",
+      "condition": "当分析打孩子行为背后的社交压力因素时",
+      "reason": "source 将打孩子列为错误惩罚方式，候选指出许多父母使用管教尺是迫于社交压力，补充了打孩子这一项背后的社会心理原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:xe002",
+      "target": "s-162fb5937284-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当分析打孩子行为背后的社交压力因素时",
+      "reason": "source 将打孩子列为错误惩罚方式，候选指出许多父母使用管教尺是迫于社交压力，补充了打孩子这一项背后的社会心理原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n002",
+      "target": "s-162fb5937284-c001:a006",
+      "kind": "complements",
+      "condition": "当需要提供替代惩罚方式时",
+      "reason": "source 提到后续会给出替代做法，候选具体介绍了 Time In（陪伴冷静）作为 Time Out 的替代方法，补充了 source 承诺的替代方案内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:a006",
+      "target": "s-162fb5937284-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要提供替代惩罚方式时",
+      "reason": "source 提到后续会给出替代做法，候选具体介绍了 Time In（陪伴冷静）作为 Time Out 的替代方法，补充了 source 承诺的替代方案内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:v2-n002",
+      "target": "s-162fb5937284-c001:a005",
+      "kind": "complements",
+      "condition": "当需要理解 Time Out 的危险时",
+      "reason": "source 将 Time Out 列为错误惩罚方式，候选详细说明 Time Out 传递孤独信息、可能导致青少年不告诉父母等危险，补充了该方式的危害分析。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-162fb5937284-c001:a005",
+      "target": "s-162fb5937284-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要理解 Time Out 的危险时",
+      "reason": "source 将 Time Out 列为错误惩罚方式，候选详细说明 Time Out 传递孤独信息、可能导致青少年不告诉父母等危险，补充了该方式的危害分析。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "规则与行动",
+      "to": "理解情绪",
+      "when": "当孩子哭闹、犯错时，父母应理解这是求救信号，并采用陪伴式管教（如Time In）",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a006",
+        "s-162fb5937284-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "自我认知",
+      "when": "当父母使用不理睬等惩罚方式时，可能影响孩子的自我认知（如形成讨好型人格）",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a013",
+        "s-162fb5937284-c001:a014",
+        "s-162fb5937284-c001:a016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "自我修养",
+      "when": "父母需要反思自己的惩罚方式，并考虑其对孩子的影响",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-162fb5937284-c001:a017"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-162fb5937284-c001:a002",
+        "s-162fb5937284-c001:r001"
+      ],
+      "reason": "两者都强调管教是赋能，惩罚是让孩子痛苦，目的根本不同，内容实质等价。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "打破错误管教迷思的方法",
+      "steps": [
+        {
+          "action": "先讲错误的方法",
+          "atom_ids": [
+            "s-162fb5937284-c001:xe001"
+          ],
+          "condition": "在讲正确的管教方法之前"
+        },
+        {
+          "action": "区分管教与惩罚",
+          "atom_ids": [
+            "s-162fb5937284-c001:a002",
+            "s-162fb5937284-c001:a003",
+            "s-162fb5937284-c001:r001"
+          ],
+          "condition": null
+        },
+        {
+          "action": "指出各种惩罚方式的弊端",
+          "atom_ids": [
+            "s-162fb5937284-c001:a004",
+            "s-162fb5937284-c001:a005",
+            "s-162fb5937284-c001:a009",
+            "s-162fb5937284-c001:a010",
+            "s-162fb5937284-c001:a011",
+            "s-162fb5937284-c001:a012",
+            "s-162fb5937284-c001:a013",
+            "s-162fb5937284-c001:a014",
+            "s-162fb5937284-c001:a016"
+          ],
+          "condition": null
+        },
+        {
+          "action": "提供替代方法（如Time In）",
+          "atom_ids": [
+            "s-162fb5937284-c001:a006"
+          ],
+          "condition": "当孩子失控、大吼大闹时"
+        },
+        {
+          "action": "反思自己的惩罚方式",
+          "atom_ids": [
+            "s-162fb5937284-c001:a017"
+          ],
+          "condition": null
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "ce0c6c3364d80dbf22fa884c20122144d29ddc8783c59642599df85edaef5c34",
+  "point_units": [
+    {
+      "id": "s-162fb5937284-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-162fb5937284-c001:a001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-162fb5937284-c001:xe001"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-162fb5937284-c001:a002",
+        "s-162fb5937284-c001:a003"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-162fb5937284-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007",
+        "b00018",
+        "b00022",
+        "b00024",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-162fb5937284-c001:a004"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-162fb5937284-c001:a005"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-162fb5937284-c001:a006"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-162fb5937284-c001:a007",
+        "s-162fb5937284-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-162fb5937284-c001:a008"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-162fb5937284-c001:a009"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u010",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-162fb5937284-c001:xe002"
+      ],
+      "blocks": [
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-162fb5937284-c001:a010"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-162fb5937284-c001:a011"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u013",
+      "kind": "question",
+      "atom_ids": [
+        "s-162fb5937284-c001:a012"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-162fb5937284-c001:a013"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-162fb5937284-c001:a014"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-162fb5937284-c001:a015"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-162fb5937284-c001:a016"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-162fb5937284-c001:u018",
+      "kind": "question",
+      "atom_ids": [
+        "s-162fb5937284-c001:a017"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "直播连麦案例：丈夫出轨后妻子对他更好",
+      "atom_ids": [
+        "s-162fb5937284-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-162fb5937284",
+          "blocks": [
+            "b00014"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "常见错误惩罚方式列举",
+      "atom_ids": [
+        "s-162fb5937284-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-162fb5937284",
+          "blocks": [
+            "b00006",
+            "b00007",
+            "b00018",
+            "b00022",
+            "b00024",
+            "b00029"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "classification"
+    }
+  ]
+}

@@ -1,0 +1,2024 @@
+{
+  "concepts": [
+    {
+      "name": "界限与后果的关系",
+      "definition": "界限必须伴随后果，没有后果的界限不叫界限。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a001",
+        "s-102a37ef1d4f-c001:a005",
+        "s-102a37ef1d4f-c001:a006"
+      ]
+    },
+    {
+      "name": "后果的定义",
+      "definition": "后果是正面或负面行为的结果，帮助人学习因果关系。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a019",
+        "s-102a37ef1d4f-c001:a002"
+      ]
+    },
+    {
+      "name": "惩罚的定义",
+      "definition": "惩罚是在孩子身上发泄自己愤怒的失控行为，包括吼叫、打骂。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a016",
+        "s-102a37ef1d4f-c001:a002"
+      ]
+    },
+    {
+      "name": "后果与惩罚的区别",
+      "definition": "后果是行为的结果，帮助学习因果关系；惩罚是发泄愤怒的失控行为。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a002",
+        "s-102a37ef1d4f-c001:a016",
+        "s-102a37ef1d4f-c001:a019"
+      ]
+    },
+    {
+      "name": "后果是主动选择的结果",
+      "definition": "当一个人被告知后果后仍选择某种行为，就是主动选择了该后果。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a003",
+        "s-102a37ef1d4f-c001:a004"
+      ]
+    },
+    {
+      "name": "事先沟通后果的重要性",
+      "definition": "立界限时必须事先沟通后果，告知对方不遵守的后果。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a004",
+        "s-102a37ef1d4f-c001:a033",
+        "s-102a37ef1d4f-c002:a001"
+      ]
+    },
+    {
+      "name": "后果的前提条件",
+      "definition": "后果必须是自己能做到的、孩子能承受的、说了必须做到。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a025",
+        "s-102a37ef1d4f-c001:a028",
+        "s-102a37ef1d4f-c001:a030"
+      ]
+    },
+    {
+      "name": "后果与行为关联性",
+      "definition": "给出的后果必须与行为有关联，否则无效。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a015",
+        "s-102a37ef1d4f-c002:a003"
+      ]
+    },
+    {
+      "name": "自然后果",
+      "definition": "自然后果是一件事情发生后，按照自然规律应该得到的结果。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a004"
+      ]
+    },
+    {
+      "name": "创造后果",
+      "definition": "当自然发生的后果不足或无法执行时，可以人为创造后果。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a005",
+        "s-102a37ef1d4f-c002:a006"
+      ]
+    },
+    {
+      "name": "弥补机会",
+      "definition": "在关系中，当对方越界或犯错后，应给予弥补的机会，而不是一味惩罚。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a007",
+        "s-102a37ef1d4f-c003:a001"
+      ]
+    },
+    {
+      "name": "角色扮演作为弥补方法",
+      "definition": "角色扮演是给孩子弥补机会的一种方法，通过练习正确的行为，加深大脑对正确行为的记忆。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a008",
+        "s-102a37ef1d4f-c003:a002"
+      ]
+    },
+    {
+      "name": "给予积极后果",
+      "definition": "在弥补机会中，应给予孩子积极的后果，且积极后果应多于负面后果。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a009",
+        "s-102a37ef1d4f-c003:a003"
+      ]
+    },
+    {
+      "name": "父母不敢给后果的原因",
+      "definition": "父母不敢给孩子后果，因为觉得孩子可怜，担心破坏亲子关系、损害孩子的安全感，或害怕孩子不喜欢自己。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:r001"
+      ]
+    },
+    {
+      "name": "惩罚与后果混淆的根源",
+      "definition": "很多人对后果有错误理解，因为从小经历的后果就是被惩罚，因此认为后果是被迫的、带有恶意的。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:r002"
+      ]
+    },
+    {
+      "name": "父母拿孩子没有办法的原因",
+      "definition": "父母拿孩子没有办法的原因之一是：从小用粗暴方式对待孩子，孩子小时候无力反抗只能配合，但长大后父母失去控制力。另一个原因是父母在孩子小时候没有训练自己。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a011"
+      ]
+    },
+    {
+      "name": "父母需要自我提升",
+      "definition": "父母在孩子小时候应努力学习和自我提升，否则孩子长大后叛逆时，父母会感到无计可施。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a012"
+      ]
+    },
+    {
+      "name": "界限知识需要练习",
+      "definition": "无论有多少界限知识，最终都要将其运用在行为上，因此需要找到机会不断练习。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c003:a006"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-102a37ef1d4f-c001:a001",
+      "target": "s-102a37ef1d4f-c001:a005",
+      "kind": "supports",
+      "condition": "界限没有后果就像门没有锁",
+      "reason": "比喻说明界限必须有后果"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a001",
+      "target": "s-102a37ef1d4f-c001:a006",
+      "kind": "supports",
+      "condition": "只提要求无后果",
+      "reason": "界限必须有后果的原则支持了只提要求无后果导致界限失效的具体结论。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "将 causes 改为 supports。"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a002",
+      "target": "s-102a37ef1d4f-c001:a016",
+      "kind": "supports",
+      "condition": "惩罚定义",
+      "reason": "惩罚是发泄愤怒的失控行为"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a002",
+      "target": "s-102a37ef1d4f-c001:a019",
+      "kind": "supports",
+      "condition": "后果定义",
+      "reason": "后果是行为结果"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a003",
+      "target": "s-102a37ef1d4f-c001:a004",
+      "kind": "prerequisite",
+      "condition": "事先沟通后果",
+      "reason": "事先沟通后果是使后果成为主动选择的前提，原方向反了，应为事先沟通作为前提，后果是主动选择作为结果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了。"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a004",
+      "target": "s-102a37ef1d4f-c001:a033",
+      "kind": "supports",
+      "condition": "先说明后果再给予后果",
+      "reason": "事先沟通后果的重要性支持了先说明后果再给予后果的具体原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a007",
+      "target": "s-102a37ef1d4f-c001:a009",
+      "kind": "supports",
+      "condition": "不知道自己要什么",
+      "reason": "不知道自己要什么导致无法给后果，从反面支持了明确自己想要什么才能给出后果的原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "将 causes 改为 supports。"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a008",
+      "target": "s-102a37ef1d4f-c001:a009",
+      "kind": "example_of",
+      "condition": "妻子对丈夫暧昧行为",
+      "reason": "妻子对丈夫暧昧行为无后果的案例是明确自己想要什么才能给出后果的例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a010",
+      "target": "s-102a37ef1d4f-c001:a011",
+      "kind": "association",
+      "condition": "孩子以自杀威胁不上学",
+      "reason": "家长对孩子不上学无计可施与14岁女孩以自杀威胁不上学是两个相关案例，但不存在 example_of 关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "将 example_of 改为 association。"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a011",
+      "target": "s-102a37ef1d4f-c001:a012",
+      "kind": "supports",
+      "condition": "孩子没有界限非常可怕",
+      "reason": "14岁女孩以自杀威胁不上学的案例说明了孩子没有界限的可怕，支持该观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a013",
+      "target": "s-102a37ef1d4f-c001:a014",
+      "kind": "association",
+      "condition": "妈妈催女儿做作业",
+      "reason": "妈妈催女儿做作业无效与妈妈将女儿关房间作为后果无效是两个相关但独立的案例，不存在 example_of 关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "将 example_of 改为 association。"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a014",
+      "target": "s-102a37ef1d4f-c001:a015",
+      "kind": "supports",
+      "condition": "后果与行为无关联",
+      "reason": "妈妈将女儿关房间作为后果无效的案例，支持了后果必须与行为相关的原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a016",
+      "target": "s-102a37ef1d4f-c001:a017",
+      "kind": "causes",
+      "condition": "打孩子",
+      "reason": "导致控制博弈"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a017",
+      "target": "s-102a37ef1d4f-c001:a018",
+      "kind": "supports",
+      "condition": "惩罚带来痛苦",
+      "reason": "不建议打孩子"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a019",
+      "target": "s-102a37ef1d4f-c001:a020",
+      "kind": "causes",
+      "condition": "缺乏后果",
+      "reason": "孩子没有因果关系概念"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a020",
+      "target": "s-102a37ef1d4f-c001:a021",
+      "kind": "applies_to",
+      "condition": "所有人",
+      "reason": "通过后果学习因果关系"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a022",
+      "target": "s-102a37ef1d4f-c001:a023",
+      "kind": "causes",
+      "condition": "惩罚是越界行为",
+      "reason": "破坏关系"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a023",
+      "target": "s-102a37ef1d4f-c001:a024",
+      "kind": "contrasts",
+      "condition": "用后果替代惩罚",
+      "reason": "改善关系"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a025",
+      "target": "s-102a37ef1d4f-c001:a026",
+      "kind": "example_of",
+      "condition": "爸爸威胁扔下楼",
+      "reason": "做不到的后果"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a025",
+      "target": "s-102a37ef1d4f-c001:a027",
+      "kind": "causes",
+      "condition": "不兑现后果",
+      "reason": "孩子认为因果关系是假的"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a028",
+      "target": "s-102a37ef1d4f-c001:a029",
+      "kind": "example_of",
+      "condition": "爸爸威胁砍手指",
+      "reason": "无法承受的后果"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a030",
+      "target": "s-102a37ef1d4f-c001:a031",
+      "kind": "association",
+      "condition": "给予补偿机会",
+      "reason": "说了必须做到与给予补偿机会是后果执行流程中的两个相关步骤，但不存在 step_of 包含关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "将 step_of 改为 association。"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a031",
+      "target": "s-102a37ef1d4f-c001:a032",
+      "kind": "supports",
+      "condition": "补偿不能推翻先前后果",
+      "reason": "补偿是另外的行为"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a033",
+      "target": "s-102a37ef1d4f-c001:a034",
+      "kind": "supports",
+      "condition": "先说明后果再给予后果的原则",
+      "reason": "先说明后果再给予后果要求事先告知后果，习惯性给后果是在平时聊天时说明后果，两者不是步骤关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原步骤关系不成立，改为支持关系。"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:r001",
+      "target": "s-102a37ef1d4f-c001:a012",
+      "kind": "causes",
+      "condition": "父母不敢给后果",
+      "reason": "孩子没有界限"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:r002",
+      "target": "s-102a37ef1d4f-c001:a002",
+      "kind": "causes",
+      "condition": "从小经历惩罚",
+      "reason": "误解后果"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:r003",
+      "target": "s-102a37ef1d4f-c001:a017",
+      "kind": "supports",
+      "condition": "惩罚导致控制博弈",
+      "reason": "重复说明"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:r004",
+      "target": "s-102a37ef1d4f-c001:a023",
+      "kind": "supports",
+      "condition": "惩罚破坏关系",
+      "reason": "重复说明"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a024",
+      "target": "s-102a37ef1d4f-c001:a024",
+      "kind": "supports",
+      "condition": "用后果替代惩罚",
+      "reason": "重复说明"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a025",
+      "target": "s-102a37ef1d4f-c001:a025",
+      "kind": "supports",
+      "condition": "后果前提一",
+      "reason": "重复说明"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a026",
+      "target": "s-102a37ef1d4f-c001:a026",
+      "kind": "supports",
+      "condition": "爸爸威胁扔下楼",
+      "reason": "重复案例"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a027",
+      "target": "s-102a37ef1d4f-c001:a027",
+      "kind": "supports",
+      "condition": "不兑现后果",
+      "reason": "重复说明"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a028",
+      "target": "s-102a37ef1d4f-c001:a028",
+      "kind": "supports",
+      "condition": "后果前提二",
+      "reason": "重复说明"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a029",
+      "target": "s-102a37ef1d4f-c001:a029",
+      "kind": "supports",
+      "condition": "爸爸威胁砍手指",
+      "reason": "重复案例"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a030",
+      "target": "s-102a37ef1d4f-c001:a030",
+      "kind": "supports",
+      "condition": "后果前提三",
+      "reason": "重复说明"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a031",
+      "target": "s-102a37ef1d4f-c001:a031",
+      "kind": "supports",
+      "condition": "给予补偿机会",
+      "reason": "重复说明"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a032",
+      "target": "s-102a37ef1d4f-c001:a032",
+      "kind": "supports",
+      "condition": "补偿不能推翻先前后果",
+      "reason": "重复说明"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a033",
+      "target": "s-102a37ef1d4f-c001:a033",
+      "kind": "supports",
+      "condition": "先说明后果再给予后果",
+      "reason": "重复说明"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a034",
+      "target": "s-102a37ef1d4f-c001:a034",
+      "kind": "supports",
+      "condition": "习惯性给后果",
+      "reason": "重复说明"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a001",
+      "target": "s-102a37ef1d4f-c002:a002",
+      "kind": "prerequisite",
+      "condition": "给予后果前",
+      "reason": "先说明后果再给予后果是给予后果步骤的前提条件，而非步骤之一。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原步骤关系不成立，改为前提关系。"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a002",
+      "target": "s-102a37ef1d4f-c002:a003",
+      "kind": "supports",
+      "condition": "步骤三要求",
+      "reason": "给予后果的步骤中第三步明确要求后果必须与行为本身相关联，支持该原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a004",
+      "target": "s-102a37ef1d4f-c002:a005",
+      "kind": "contrasts",
+      "condition": "自然后果不足时",
+      "reason": "创造后果"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a005",
+      "target": "s-102a37ef1d4f-c002:a006",
+      "kind": "example_of",
+      "condition": "夫妻吵架分房睡",
+      "reason": "创造后果案例"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a007",
+      "target": "s-102a37ef1d4f-c002:a008",
+      "kind": "supports",
+      "condition": "弥补机会的方法",
+      "reason": "弥补的机会中提到角色扮演可帮助练习正确行为，支持角色扮演作为弥补方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原步骤关系不成立，改为支持。"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a007",
+      "target": "s-102a37ef1d4f-c002:a009",
+      "kind": "supports",
+      "condition": "弥补机会的方法",
+      "reason": "弥补的机会强调应给予积极后果多于负面后果，支持给予积极后果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原步骤关系不成立，改为支持。"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a008",
+      "target": "s-102a37ef1d4f-c002:a016",
+      "kind": "supports",
+      "condition": "角色扮演加深记忆",
+      "reason": "角色扮演作为弥补方法通过练习正确行为加深大脑记忆，支持角色扮演加深正确行为记忆。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a010",
+      "target": "s-102a37ef1d4f-c002:a015",
+      "kind": "example_of",
+      "condition": "弥补不能打破界限",
+      "reason": "冰淇淋化掉的弥补案例体现了弥补机会不能打破界限的原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a011",
+      "target": "s-102a37ef1d4f-c002:a012",
+      "kind": "supports",
+      "condition": "父母需要自我提升",
+      "reason": "父母拿孩子没有办法的原因之一是父母没有自我提升，支持父母需要自我提升的必要性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原因果类型不允许，改为支持。"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a012",
+      "target": "s-102a37ef1d4f-c002:a013",
+      "kind": "example_of",
+      "condition": "家长感叹",
+      "reason": "长期后果"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a014",
+      "target": "s-102a37ef1d4f-c002:a004",
+      "kind": "supports",
+      "condition": "自然后果与创造后果区别",
+      "reason": "定义区分"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a014",
+      "target": "s-102a37ef1d4f-c002:a005",
+      "kind": "supports",
+      "condition": "自然后果与创造后果区别",
+      "reason": "定义区分"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a015",
+      "target": "s-102a37ef1d4f-c003:a001",
+      "kind": "supports",
+      "condition": "同义原则",
+      "reason": "弥补机会不能打破界限支持补偿机会不等于打破界限的原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a016",
+      "target": "s-102a37ef1d4f-c003:a002",
+      "kind": "supports",
+      "condition": "角色扮演加深记忆",
+      "reason": "重复说明"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:r001",
+      "target": "s-102a37ef1d4f-c002:a006",
+      "kind": "supports",
+      "condition": "夫妻关系创造后果",
+      "reason": "重复说明"
+    },
+    {
+      "source": "s-102a37ef1d4f-c003:a001",
+      "target": "s-102a37ef1d4f-c002:a010",
+      "kind": "supports",
+      "condition": "冰淇淋化掉案例",
+      "reason": "重复说明"
+    },
+    {
+      "source": "s-102a37ef1d4f-c003:a002",
+      "target": "s-102a37ef1d4f-c002:a008",
+      "kind": "supports",
+      "condition": "同义方法",
+      "reason": "角色扮演作为补偿机会的方法支持角色扮演作为弥补方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-102a37ef1d4f-c003:a003",
+      "target": "s-102a37ef1d4f-c002:a009",
+      "kind": "supports",
+      "condition": "给予积极后果",
+      "reason": "重复说明"
+    },
+    {
+      "source": "s-102a37ef1d4f-c003:a004",
+      "target": "s-102a37ef1d4f-c002:a003",
+      "kind": "supports",
+      "condition": "总是拿走东西不好",
+      "reason": "后果与行为关联性"
+    },
+    {
+      "source": "s-102a37ef1d4f-c003:a005",
+      "target": "s-102a37ef1d4f-c002:a003",
+      "kind": "supports",
+      "condition": "反例支持原则",
+      "reason": "以拒绝性生活作为后果是愚蠢且伤害性的，支持后果必须与行为相关联的原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-102a37ef1d4f-c003:a006",
+      "target": "s-102a37ef1d4f-c002:a012",
+      "kind": "supports",
+      "condition": "界限知识需要练习",
+      "reason": "自我提升需要练习"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:v2-n001",
+      "target": "s-102a37ef1d4f-c001:a011",
+      "kind": "conflict",
+      "condition": "当孩子以自杀威胁不上学时",
+      "reason": "源主张家长回应“你就让他跳”并断言没人敢，候选案例中咨询师认真询问自杀计划并立界限报警，两者在相同条件下的应对方式直接矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a011",
+      "target": "s-102a37ef1d4f-c001:v2-n001",
+      "kind": "conflict",
+      "condition": "当孩子以自杀威胁不上学时",
+      "reason": "源主张家长回应“你就让他跳”并断言没人敢，候选案例中咨询师认真询问自杀计划并立界限报警，两者在相同条件下的应对方式直接矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:v2-n001",
+      "target": "s-102a37ef1d4f-c001:a010",
+      "kind": "association",
+      "condition": "当涉及家长面对孩子自杀威胁时",
+      "reason": "候选案例描述家长因孩子以自杀威胁而害怕不敢立界限，与源中讲师鼓励不被威胁吓住相关，但源主张极端，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a010",
+      "target": "s-102a37ef1d4f-c001:v2-n001",
+      "kind": "association",
+      "condition": "当涉及家长面对孩子自杀威胁时",
+      "reason": "候选案例描述家长因孩子以自杀威胁而害怕不敢立界限，与源中讲师鼓励不被威胁吓住相关，但源主张极端，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:v2-n001",
+      "target": "s-102a37ef1d4f-c001:a012",
+      "kind": "association",
+      "condition": "当讨论是否应因害怕而不敢给后果时",
+      "reason": "候选强调孩子没有界限非常可怕，不应因害怕不敢给后果，源中主张不被自杀威胁吓住，但方式极端，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a012",
+      "target": "s-102a37ef1d4f-c001:v2-n001",
+      "kind": "association",
+      "condition": "当讨论是否应因害怕而不敢给后果时",
+      "reason": "候选强调孩子没有界限非常可怕，不应因害怕不敢给后果，源中主张不被自杀威胁吓住，但方式极端，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:v2-n001",
+      "target": "s-102a37ef1d4f-c001:a006",
+      "kind": "association",
+      "condition": "当讨论界限须有后果时",
+      "reason": "候选指出只提要求无后果导致界限失效，源中主张“让他跳”可视为一种极端后果，但两者目的不同，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a006",
+      "target": "s-102a37ef1d4f-c001:v2-n001",
+      "kind": "association",
+      "condition": "当讨论界限须有后果时",
+      "reason": "候选指出只提要求无后果导致界限失效，源中主张“让他跳”可视为一种极端后果，但两者目的不同，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:v2-n001",
+      "target": "s-102a37ef1d4f-c002:a003",
+      "kind": "association",
+      "condition": "当评估源中极端回应的后果是否合理时",
+      "reason": "候选强调后果必须与行为相关联，源中“让他跳”的后果与自杀威胁行为不关联且危险，违背该原则，但源非正规后果，故为关联而非冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a003",
+      "target": "s-102a37ef1d4f-c001:v2-n001",
+      "kind": "association",
+      "condition": "当评估源中极端回应的后果是否合理时",
+      "reason": "候选强调后果必须与行为相关联，源中“让他跳”的后果与自杀威胁行为不关联且危险，违背该原则，但源非正规后果，故为关联而非冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:v2-n002",
+      "target": "s-102a37ef1d4f-c002:a002",
+      "kind": "complements",
+      "condition": "当需要完整执行给后果步骤时",
+      "reason": "候选提供了完整三步：观察描述、提出要求、给予后果，并给出具体做法，补充了源中缺失的后续步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a002",
+      "target": "s-102a37ef1d4f-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要完整执行给后果步骤时",
+      "reason": "候选提供了完整三步：观察描述、提出要求、给予后果，并给出具体做法，补充了源中缺失的后续步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:v2-n002",
+      "target": "s-102a37ef1d4f-c001:a006",
+      "kind": "association",
+      "condition": "当给后果步骤中强调后果必要性时",
+      "reason": "候选指出只提要求无后果导致界限失效，与给后果步骤有关，但源只提到第一步，未涉及后果缺失问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a006",
+      "target": "s-102a37ef1d4f-c001:v2-n002",
+      "kind": "association",
+      "condition": "当给后果步骤中强调后果必要性时",
+      "reason": "候选指出只提要求无后果导致界限失效，与给后果步骤有关，但源只提到第一步，未涉及后果缺失问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:v2-n002",
+      "target": "s-102a37ef1d4f-c001:a019",
+      "kind": "association",
+      "condition": "当理解后果定义作为步骤基础时",
+      "reason": "候选定义后果，是给后果步骤的基础概念，但源未直接引用，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a019",
+      "target": "s-102a37ef1d4f-c001:v2-n002",
+      "kind": "association",
+      "condition": "当理解后果定义作为步骤基础时",
+      "reason": "候选定义后果，是给后果步骤的基础概念，但源未直接引用，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:v2-n002",
+      "target": "s-102a37ef1d4f-c001:a025",
+      "kind": "association",
+      "condition": "当给后果前需确保自己能做到时",
+      "reason": "候选是给后果的前提之一，源中步骤执行前需满足该前提，但源未提及，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a025",
+      "target": "s-102a37ef1d4f-c001:v2-n002",
+      "kind": "association",
+      "condition": "当给后果前需确保自己能做到时",
+      "reason": "候选是给后果的前提之一，源中步骤执行前需满足该前提，但源未提及，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:v2-n002",
+      "target": "s-102a37ef1d4f-c001:a007",
+      "kind": "association",
+      "condition": "当给后果前需明确自己要什么时",
+      "reason": "候选说明不知道自己要什么导致无法给后果，是给后果步骤的隐含前提，但源未提及，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a007",
+      "target": "s-102a37ef1d4f-c001:v2-n002",
+      "kind": "association",
+      "condition": "当给后果前需明确自己要什么时",
+      "reason": "候选说明不知道自己要什么导致无法给后果，是给后果步骤的隐含前提，但源未提及，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:v2-n002",
+      "target": "s-102a37ef1d4f-c001:a015",
+      "kind": "association",
+      "condition": "当给后果步骤中第三步要求后果与行为相关时",
+      "reason": "候选强调后果必须与行为相关，源中步骤的后续部分应遵循该原则，但源未展开，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a015",
+      "target": "s-102a37ef1d4f-c001:v2-n002",
+      "kind": "association",
+      "condition": "当给后果步骤中第三步要求后果与行为相关时",
+      "reason": "候选强调后果必须与行为相关，源中步骤的后续部分应遵循该原则，但源未展开，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:v2-n002",
+      "target": "s-102a37ef1d4f-c001:a001",
+      "kind": "association",
+      "condition": "当给后果作为界限的组成部分时",
+      "reason": "候选指出界限必须有后果，源中给后果是界限执行的一部分，关联直接但方向不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a001",
+      "target": "s-102a37ef1d4f-c001:v2-n002",
+      "kind": "association",
+      "condition": "当给后果作为界限的组成部分时",
+      "reason": "候选指出界限必须有后果，源中给后果是界限执行的一部分，关联直接但方向不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:v2-n002",
+      "target": "s-102a37ef1d4f-c001:a008",
+      "kind": "association",
+      "condition": "当缺乏给后果步骤导致界限失效时",
+      "reason": "候选案例展示妻子只提要求无后果导致界限无效，与源中给后果步骤的必要性相关，但源未直接涉及该案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a008",
+      "target": "s-102a37ef1d4f-c001:v2-n002",
+      "kind": "association",
+      "condition": "当缺乏给后果步骤导致界限失效时",
+      "reason": "候选案例展示妻子只提要求无后果导致界限无效，与源中给后果步骤的必要性相关，但源未直接涉及该案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:v2-n002",
+      "target": "s-102a37ef1d4f-c002:v2-n001",
+      "kind": "association",
+      "condition": "当给后果的目的与保存关系相关时",
+      "reason": "候选说明建立界限和给后果的目的是保存关系，源中给后果步骤最终也是为了关系维护，但源未提及，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:v2-n001",
+      "target": "s-102a37ef1d4f-c001:v2-n002",
+      "kind": "association",
+      "condition": "当给后果的目的与保存关系相关时",
+      "reason": "候选说明建立界限和给后果的目的是保存关系，源中给后果步骤最终也是为了关系维护，但源未提及，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:v2-n002",
+      "target": "s-102a37ef1d4f-c002:v2-n002",
+      "kind": "association",
+      "condition": "当给后果时需保留对方主动感时",
+      "reason": "候选强调给予后果时保留对方主动感，与给后果步骤可能相关，但源未提及，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:v2-n002",
+      "target": "s-102a37ef1d4f-c001:v2-n002",
+      "kind": "association",
+      "condition": "当给后果时需保留对方主动感时",
+      "reason": "候选强调给予后果时保留对方主动感，与给后果步骤可能相关，但源未提及，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:v2-n001",
+      "target": "s-102a37ef1d4f-c002:a007",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源指出给予后果的目的是保存关系；目标知识提出通过弥补机会来保护关系，补充了实现该目的的具体措施。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a007",
+      "target": "s-102a37ef1d4f-c002:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源指出给予后果的目的是保存关系；目标知识提出通过弥补机会来保护关系，补充了实现该目的的具体措施。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:v2-n001",
+      "target": "s-102a37ef1d4f-c001:a024",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源强调后果应有助于关系维护；目标知识直接说明用后果替代惩罚可以改善关系，补充了后果对关系改善的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a024",
+      "target": "s-102a37ef1d4f-c002:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源强调后果应有助于关系维护；目标知识直接说明用后果替代惩罚可以改善关系，补充了后果对关系改善的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:v2-n002",
+      "target": "s-102a37ef1d4f-c002:a005",
+      "kind": "complements",
+      "condition": "自然后果不足时",
+      "reason": "来源提出通过行为赚回失去的权利以保留主动感；目标知识具体展示了创造后果让孩子从被动失去手机变为主动赚取手机时间，补充了实施方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a005",
+      "target": "s-102a37ef1d4f-c002:v2-n002",
+      "kind": "complements",
+      "condition": "自然后果不足时",
+      "reason": "来源提出通过行为赚回失去的权利以保留主动感；目标知识具体展示了创造后果让孩子从被动失去手机变为主动赚取手机时间，补充了实施方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:v2-n002",
+      "target": "s-102a37ef1d4f-c001:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "两者都涉及后果与主动选择的概念，但目标知识侧重后果是对方主动选择的结果及立界者无罪恶感，未直接呼应保留主动感，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a003",
+      "target": "s-102a37ef1d4f-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "两者都涉及后果与主动选择的概念，但目标知识侧重后果是对方主动选择的结果及立界者无罪恶感，未直接呼应保留主动感，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:v2-n002",
+      "target": "s-102a37ef1d4f-c001:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "目标知识强调事先沟通后果的重要性，这与保留主动感的前提可能有关，但目标未说明与主动感的直接联系，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c001:a004",
+      "target": "s-102a37ef1d4f-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "目标知识强调事先沟通后果的重要性，这与保留主动感的前提可能有关，但目标未说明与主动感的直接联系，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c003:v2-n001",
+      "target": "s-102a37ef1d4f-c003:a003",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源提出补偿机会的重要性；目标知识补充了以积极后果作为补偿机会的方法，并强调积极后果多于负面后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c003:a003",
+      "target": "s-102a37ef1d4f-c003:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源提出补偿机会的重要性；目标知识补充了以积极后果作为补偿机会的方法，并强调积极后果多于负面后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c003:v2-n001",
+      "target": "s-102a37ef1d4f-c003:a001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源强调补偿机会；目标知识补充了补偿机会不得打破界限的边界，补足了执行时的限制条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c003:a001",
+      "target": "s-102a37ef1d4f-c003:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源强调补偿机会；目标知识补充了补偿机会不得打破界限的边界，补足了执行时的限制条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c003:v2-n001",
+      "target": "s-102a37ef1d4f-c003:a002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源未提及具体方法，目标知识补充了角色扮演作为补偿机会的具体方法，帮助孩子学习正确行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c003:a002",
+      "target": "s-102a37ef1d4f-c003:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源未提及具体方法，目标知识补充了角色扮演作为补偿机会的具体方法，帮助孩子学习正确行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c003:v2-n001",
+      "target": "s-102a37ef1d4f-c002:a007",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源提及替代物安抚（如毛毛狗替代毛毛熊），目标知识详细描述了弥补机会的步骤（执行后果、提供弥补、给予积极后果），补充了完整流程。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a007",
+      "target": "s-102a37ef1d4f-c003:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源提及替代物安抚（如毛毛狗替代毛毛熊），目标知识详细描述了弥补机会的步骤（执行后果、提供弥补、给予积极后果），补充了完整流程。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c003:v2-n001",
+      "target": "s-102a37ef1d4f-c002:a009",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "目标知识强调在弥补机会中给予积极后果，与来源的补偿机会概念互补，说明了积极后果是补偿的一种形式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a009",
+      "target": "s-102a37ef1d4f-c003:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "目标知识强调在弥补机会中给予积极后果，与来源的补偿机会概念互补，说明了积极后果是补偿的一种形式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c003:v2-n001",
+      "target": "s-102a37ef1d4f-c002:a010",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "目标知识是冰淇淋化掉后以冰葡萄作为替代品的具体案例，属于来源原则的实例，但因方向限制未用example_of，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-102a37ef1d4f-c002:a010",
+      "target": "s-102a37ef1d4f-c003:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "目标知识是冰淇淋化掉后以冰葡萄作为替代品的具体案例，属于来源原则的实例，但因方向限制未用example_of，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "父母需要自我提升以有效立界限",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a011",
+        "s-102a37ef1d4f-c002:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a017",
+        "s-102a37ef1d4f-c001:r003"
+      ],
+      "reason": "内容完全等价，均描述惩罚导致孩子不哭的控制博弈"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a023",
+        "s-102a37ef1d4f-c001:r004"
+      ],
+      "reason": "内容完全等价，均描述惩罚破坏关系"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a024"
+      ],
+      "reason": "内容完全等价，均描述用后果替代惩罚改善关系"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a025"
+      ],
+      "reason": "内容完全等价，均描述后果前提一：自己能做到"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a026"
+      ],
+      "reason": "内容完全等价，均描述爸爸威胁扔下楼案例"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a027"
+      ],
+      "reason": "内容完全等价，均描述不兑现后果教孩子因果关系是假的"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a028"
+      ],
+      "reason": "内容完全等价，均描述后果前提二：孩子能承受"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a029"
+      ],
+      "reason": "内容完全等价，均描述爸爸威胁砍手指案例"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a030"
+      ],
+      "reason": "内容完全等价，均描述后果前提三：说了必须做到"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a031"
+      ],
+      "reason": "内容完全等价，均描述给予补偿机会"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a032"
+      ],
+      "reason": "内容完全等价，均描述补偿不能推翻先前后果"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a033"
+      ],
+      "reason": "内容完全等价，均描述先说明后果再给予后果"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a034"
+      ],
+      "reason": "内容完全等价，均描述习惯性给后果"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a006",
+        "s-102a37ef1d4f-c002:r001"
+      ],
+      "reason": "内容完全等价，均描述夫妻吵架分房睡的创造后果"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a008",
+        "s-102a37ef1d4f-c003:a002"
+      ],
+      "reason": "内容完全等价，均描述角色扮演作为弥补方法"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a009",
+        "s-102a37ef1d4f-c003:a003"
+      ],
+      "reason": "内容完全等价，均描述给予积极后果作为补偿机会"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a010",
+        "s-102a37ef1d4f-c003:a001"
+      ],
+      "reason": "内容完全等价，均描述冰淇淋化掉的弥补案例"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a011",
+        "s-102a37ef1d4f-c001:a010"
+      ],
+      "description": "a011 中咨询师直接询问自杀计划并立界限，而 a010 中家长因害怕自杀威胁不敢立界限。两者处理方式不同，但未说明适用条件。",
+      "needed_evidence": "需要明确在何种情况下可以采取咨询师的方式，以及家长应如何安全地处理自杀威胁。"
+    },
+    {
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a018",
+        "s-102a37ef1d4f-c001:a016"
+      ],
+      "description": "a018 说不建议打孩子，但 a016 将打骂定义为惩罚，未明确禁止。可能暗示所有惩罚都不建议，但未明确说明。",
+      "needed_evidence": "需要明确是否所有惩罚都应避免，还是仅打骂等特定惩罚。"
+    }
+  ],
+  "path": [
+    {
+      "name": "给予后果的步骤",
+      "steps": [
+        {
+          "action": "观察和描述",
+          "atom_ids": [
+            "s-102a37ef1d4f-c002:a002"
+          ],
+          "condition": "平静详细地描述对方的具体行为"
+        },
+        {
+          "action": "提出要求",
+          "atom_ids": [
+            "s-102a37ef1d4f-c002:a002"
+          ],
+          "condition": "明确告知对方应该怎么做"
+        },
+        {
+          "action": "给予后果",
+          "atom_ids": [
+            "s-102a37ef1d4f-c002:a002"
+          ],
+          "condition": "后果必须与行为相关联"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-102a37ef1d4f-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a001"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:r002"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:r001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a003"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a004"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0006",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a005"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a006"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a007"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a009"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0010",
+      "kind": "case",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a008"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0011",
+      "kind": "case",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a010"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0012",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0013",
+      "kind": "case",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a011"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a012"
+      ],
+      "blocks": [
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0015",
+      "kind": "case",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a013"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0016",
+      "kind": "case",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a014"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a015"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a016"
+      ],
+      "blocks": [
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a017",
+        "s-102a37ef1d4f-c001:r003"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a018"
+      ],
+      "blocks": [
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a019"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a020"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a021"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a022"
+      ],
+      "blocks": [
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a023",
+        "s-102a37ef1d4f-c001:r004"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a024"
+      ],
+      "blocks": [
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a025",
+        "s-102a37ef1d4f-c001:a027"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035",
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0028",
+      "kind": "case",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a026"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a028"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0030",
+      "kind": "case",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a029"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0031",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a030"
+      ],
+      "blocks": [
+        "b00037",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0032",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a031"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0033",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a032"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0034",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a033"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0035",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a034"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0036",
+      "kind": "method",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c001:u0037",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:a002"
+      ],
+      "blocks": [
+        "b00026",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a001"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0002",
+      "kind": "method",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a002"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00049",
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a003"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0004",
+      "kind": "definition",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a004"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052",
+        "b00053",
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0005",
+      "kind": "method",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a005"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056",
+        "b00070",
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a006"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0007",
+      "kind": "method",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a007"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079",
+        "b00080",
+        "b00081",
+        "b00082",
+        "b00083",
+        "b00084",
+        "b00085",
+        "b00086",
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0008",
+      "kind": "method",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a008"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0009",
+      "kind": "case",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a010"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0010",
+      "kind": "condition",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a015"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a011"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a012"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059",
+        "b00060",
+        "b00061",
+        "b00062",
+        "b00063",
+        "b00064",
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0013",
+      "kind": "case",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a013"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0014",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a014"
+      ],
+      "blocks": [
+        "b00051",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c002:u0016",
+      "kind": "method",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c003:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a008"
+      ],
+      "blocks": [
+        "b00083",
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c003:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c003:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a015"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c003:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a010"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c003:u005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a016"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c003:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:a009"
+      ],
+      "blocks": [
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c003:u007",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-102a37ef1d4f-c003:a004"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c003:u008",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-102a37ef1d4f-c003:a005"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-102a37ef1d4f-c003:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-102a37ef1d4f-c003:a006"
+      ],
+      "blocks": [
+        "b00090"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "讲师关于自杀威胁的极端回应主张",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-102a37ef1d4f",
+          "blocks": [
+            "b00015"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "unsafe_claim"
+    },
+    {
+      "title": "给后果的步骤：第一步观察和描述",
+      "atom_ids": [
+        "s-102a37ef1d4f-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-102a37ef1d4f",
+          "blocks": [
+            "b00045"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "steps"
+    },
+    {
+      "title": "建立界限与给予后果的目的是保存关系",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-102a37ef1d4f",
+          "blocks": [
+            "b00078",
+            "b00079"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "给予后果时保留对方的主动感",
+      "atom_ids": [
+        "s-102a37ef1d4f-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-102a37ef1d4f",
+          "blocks": [
+            "b00078"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "补偿机会的重要性和替代方式",
+      "atom_ids": [
+        "s-102a37ef1d4f-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-102a37ef1d4f",
+          "blocks": [
+            "b00084"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    }
+  ]
+}

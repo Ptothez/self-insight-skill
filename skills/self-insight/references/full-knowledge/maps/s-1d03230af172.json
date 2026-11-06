@@ -1,0 +1,3612 @@
+{
+  "concepts": [
+    {
+      "name": "教育分歧的解决流程",
+      "definition": "夫妻在教育孩子问题上产生分歧时，通过商量、参考书籍、请教导师、实验建议、观察是否适合家庭、不断摸索调整来解决。",
+      "atom_ids": [
+        "s-1d03230af172-c001:a001",
+        "s-1d03230af172-c001:a002"
+      ]
+    },
+    {
+      "name": "规则与恩典的平衡",
+      "definition": "规则是有规则要遵守，恩典是孩子需要感受爱时绕过规则。绝对规则会压制孩子或关闭其心门，恩典提供安全空间。夫妻互补（严格与宽松）是健康平衡，但需把握度。",
+      "atom_ids": [
+        "s-1d03230af172-c001:a009",
+        "s-1d03230af172-c001:a010",
+        "s-1d03230af172-c001:a011",
+        "s-1d03230af172-c001:a012",
+        "s-1d03230af172-c001:a014",
+        "s-1d03230af172-c001:a015"
+      ]
+    },
+    {
+      "name": "父亲参与孩子教育",
+      "definition": "父亲应刻意决定参与孩子教育，付出代价（如放弃应酬、升职慢），通过碎片化时间、电话陪伴等方式投入。父亲参与需要克服社会压力和母亲完美主义阻碍。",
+      "atom_ids": [
+        "s-1d03230af172-c001:a021",
+        "s-1d03230af172-c001:a023",
+        "s-1d03230af172-c001:a024",
+        "s-1d03230af172-c001:a025",
+        "s-1d03230af172-c001:a026",
+        "s-1d03230af172-c001:a028",
+        "s-1d03230af172-c001:a029"
+      ]
+    },
+    {
+      "name": "时间管理策略",
+      "definition": "时间可以管理，通过以终为始、积极主动、重要的事情第一等习惯，采用时间转移（结合工作与家庭）、重新排序时间、碎片化利用等方法平衡工作与家庭。",
+      "atom_ids": [
+        "s-1d03230af172-c001:a022",
+        "s-1d03230af172-c001:a027",
+        "s-1d03230af172-c001:a030",
+        "s-1d03230af172-c001:a031"
+      ]
+    },
+    {
+      "name": "婚姻健康对孩子的根本影响",
+      "definition": "婚姻健康是共同养育孩子的基础，孩子通过父母婚姻获得安全感，父母婚姻问题导致孩子自责、自信自尊问题、学习动力问题等。婚姻搞定孩子就搞定。",
+      "atom_ids": [
+        "s-1d03230af172-c002:a015",
+        "s-1d03230af172-c002:a018",
+        "s-1d03230af172-c002:a019",
+        "s-1d03230af172-c002:a020",
+        "s-1d03230af172-c002:a021",
+        "s-1d03230af172-c002:a022",
+        "s-1d03230af172-c002:a023",
+        "s-1d03230af172-c002:r006"
+      ]
+    },
+    {
+      "name": "负面情绪与情感卫生",
+      "definition": "负面情绪如病毒般传染，家庭情感卫生很重要。父母负面情绪导致孩子逃避，孩子会隐藏反应。情绪管理不足会造成伤害。",
+      "atom_ids": [
+        "s-1d03230af172-c002:a017",
+        "s-1d03230af172-c002:r004",
+        "s-1d03230af172-c002:r005",
+        "s-1d03230af172-c003:a002"
+      ]
+    },
+    {
+      "name": "父亲权威与后果管理",
+      "definition": "父亲要让孩子听从，需要给出明确后果并亲自执行处罚，保持言行一致。父亲的奖励稀缺，客观评估更有价值。",
+      "atom_ids": [
+        "s-1d03230af172-c003:a025",
+        "s-1d03230af172-c003:r002",
+        "s-1d03230af172-c004:a001",
+        "s-1d03230af172-c004:a002",
+        "s-1d03230af172-c004:a003"
+      ]
+    },
+    {
+      "name": "亲子关系建立方法",
+      "definition": "通过一起读书、陪孩子玩、选择孩子喜欢的书、用时间累积感情连接来建立亲子关系。住校需考虑亲子关系建立程度。",
+      "atom_ids": [
+        "s-1d03230af172-c004:a004",
+        "s-1d03230af172-c004:a005",
+        "s-1d03230af172-c004:a006",
+        "s-1d03230af172-c004:a007"
+      ]
+    },
+    {
+      "name": "游戏成瘾的干预",
+      "definition": "游戏成瘾是长期累积的结果，需要诊断根本原因并慢慢修复。通过替代活动、进入孩子游戏世界、线下游戏时间多于线上、必要时休学陪伴等方式帮助孩子。",
+      "atom_ids": [
+        "s-1d03230af172-c003:a019",
+        "s-1d03230af172-c003:a020",
+        "s-1d03230af172-c003:r001",
+        "s-1d03230af172-c004:a012",
+        "s-1d03230af172-c004:a013",
+        "s-1d03230af172-c004:r001",
+        "s-1d03230af172-c004:xe003"
+      ]
+    },
+    {
+      "name": "情绪管理与快乐",
+      "definition": "情绪爆发时立即停止、离开现场冷静，每天操练感恩。妈妈快乐不是自私，而是保护家庭快乐的最大捷径。真快乐来自内心满足感。",
+      "atom_ids": [
+        "s-1d03230af172-c003:a021",
+        "s-1d03230af172-c004:a015",
+        "s-1d03230af172-c004:a016",
+        "s-1d03230af172-c004:a017",
+        "s-1d03230af172-c004:a018",
+        "s-1d03230af172-c004:xe004"
+      ]
+    },
+    {
+      "name": "帮助青少年重建自信",
+      "definition": "通过容易获得明显成果的小事（如做饭、运动）帮助青少年获得成功体验，逐步恢复自信。",
+      "atom_ids": [
+        "s-1d03230af172-c004:a020",
+        "s-1d03230af172-c004:r002",
+        "s-1d03230af172-c004:xe007"
+      ]
+    },
+    {
+      "name": "学习责任归属",
+      "definition": "学习是孩子自己的事情，父母不应替孩子着急或互相指责。通过家庭会议让孩子提出解决方案，孩子对可行方案产生所有权，从而承担学习责任。",
+      "atom_ids": [
+        "s-1d03230af172-c004:a021",
+        "s-1d03230af172-c005:a001",
+        "s-1d03230af172-c005:r001"
+      ]
+    },
+    {
+      "name": "直升机家长与后果承担",
+      "definition": "父母过度控制和包办会让孩子觉得无需承担后果，应让孩子从小承担自己行为的后果。",
+      "atom_ids": [
+        "s-1d03230af172-c004:r003",
+        "s-1d03230af172-c005:a002"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-1d03230af172-c001:a002",
+      "target": "s-1d03230af172-c001:a003",
+      "kind": "supports",
+      "condition": "专家建议未必适合每个家庭",
+      "reason": "k00002 提到请教导师，k00003 说明专家建议需结合家庭实际情况，因此实验和调整是必要的。"
+    },
+    {
+      "source": "s-1d03230af172-c001:a004",
+      "target": "s-1d03230af172-c001:a005",
+      "kind": "supports",
+      "condition": "婚姻冲突中先谦卑认错",
+      "reason": "k00004 提出退一步海阔天空，k00005 用比赛比喻强调先谦卑认错是赢家。"
+    },
+    {
+      "source": "s-1d03230af172-c001:a006",
+      "target": "s-1d03230af172-c001:a004",
+      "kind": "contrasts",
+      "condition": "怒气冲突时",
+      "reason": "k00006 指出怒气冲突时忘记谦卑原则，与 k00004 的谦卑原则形成对比。"
+    },
+    {
+      "source": "s-1d03230af172-c001:a008",
+      "target": "s-1d03230af172-c001:a009",
+      "kind": "association",
+      "condition": "夫妻吵架话题随孩子阶段变化",
+      "reason": "不同阶段夫妻吵架话题不同但主要归纳为规则与恩典的冲突，而规则与恩典的定义为理解该冲突提供概念基础，两者相关但不直接支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原kind causes不合理，改为association；正确应为target是source的前提，但方向受限。"
+    },
+    {
+      "source": "s-1d03230af172-c001:a010",
+      "target": "s-1d03230af172-c001:a011",
+      "kind": "example_of",
+      "condition": "父亲代罚体现恩典",
+      "reason": "k00010 是规则与恩典结合的案例，k00011 说明绝对规则的负面后果，案例展示了恩典的运用。"
+    },
+    {
+      "source": "s-1d03230af172-c001:a013",
+      "target": "s-1d03230af172-c001:a014",
+      "kind": "supports",
+      "condition": "父母一方对感受敏感时",
+      "reason": "孩子用情绪操纵父母的风险说明需要夫妻一方注重规则来平衡，从而支持夫妻互补是健康平衡的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c001:a016",
+      "target": "s-1d03230af172-c001:a017",
+      "kind": "example_of",
+      "condition": "丈夫恐惧冲突而退缩",
+      "reason": "k00016 建议丈夫说出心里话，k00017 是丈夫被动攻击的案例，说明不沟通的后果。"
+    },
+    {
+      "source": "s-1d03230af172-c001:a019",
+      "target": "s-1d03230af172-c001:a020",
+      "kind": "association",
+      "condition": "爸爸缺失导致家庭危机",
+      "reason": "爸爸缺失是家庭危机与工作与家庭平衡困难相关，工作与家庭平衡困难可能是爸爸缺失的原因，但原causes方向不成立，实际为target导致source。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原kind causes且方向有误，改为association。"
+    },
+    {
+      "source": "s-1d03230af172-c001:a021",
+      "target": "s-1d03230af172-c001:a022",
+      "kind": "prerequisite",
+      "condition": "刻意决定做父亲",
+      "reason": "k00021 强调结婚前刻意决定做父亲，k00022 提供时间管理习惯，是执行决定的方法。"
+    },
+    {
+      "source": "s-1d03230af172-c001:a023",
+      "target": "s-1d03230af172-c001:a030",
+      "kind": "supports",
+      "condition": "碎片化时间陪伴",
+      "reason": "碎片化时间陪伴孩子是时间转移策略的具体体现，支持时间转移的概念。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c001:a024",
+      "target": "s-1d03230af172-c001:a025",
+      "kind": "causes",
+      "condition": "父亲参与付出代价",
+      "reason": "k00024 说明父亲参与付出代价，k00025 指出社会压力和母亲反对是代价的一部分。"
+    },
+    {
+      "source": "s-1d03230af172-c001:a026",
+      "target": "s-1d03230af172-c001:a023",
+      "kind": "example_of",
+      "condition": "出差时电话陪伴",
+      "reason": "出差时电话陪伴孩子是碎片化时间陪伴孩子的一个具体案例，展示了在忙碌中抽时间陪伴。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c001:a028",
+      "target": "s-1d03230af172-c001:a029",
+      "kind": "causes",
+      "condition": "妈妈完美主义阻碍爸爸参与",
+      "reason": "k00028 指出妈妈完美主义拦阻爸爸参与，k00029 提出妈妈退后制造空间是解决方案。"
+    },
+    {
+      "source": "s-1d03230af172-c001:a030",
+      "target": "s-1d03230af172-c001:a031",
+      "kind": "association",
+      "condition": "时间转移的具体做法",
+      "reason": "时间转移概念与重新排序时间的做法相关，重新排序时间是时间转移的一个例子，但原example_of方向相反，无法在给定方向表达。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反了，应target example_of source，改为association。"
+    },
+    {
+      "source": "s-1d03230af172-c001:a032",
+      "target": "s-1d03230af172-c001:a024",
+      "kind": "prerequisite",
+      "condition": "健康是持续参与的前提",
+      "reason": "k00032 强调健康是前提，否则无法继续参与家庭，与 k00024 的付出代价相关。"
+    },
+    {
+      "source": "s-1d03230af172-c001:a033",
+      "target": "s-1d03230af172-c001:a022",
+      "kind": "example_of",
+      "condition": "全家一起阅读七个习惯",
+      "reason": "k00033 是运用七个习惯的家庭阅读案例。"
+    },
+    {
+      "source": "s-1d03230af172-c001:a034",
+      "target": "s-1d03230af172-c001:a035",
+      "kind": "supports",
+      "condition": "应酬压力与工作选择",
+      "reason": "应酬压力与季节性调配说明选择技术工作以平衡家庭的必要性，支持选择工作以平衡家庭的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c002:a002",
+      "target": "s-1d03230af172-c002:a003",
+      "kind": "supports",
+      "condition": "孩子越小越需要父母投入",
+      "reason": "k00043 说明孩子越小越需要投入，k00044 解释前期陪伴的价值。"
+    },
+    {
+      "source": "s-1d03230af172-c002:a004",
+      "target": "s-1d03230af172-c002:a002",
+      "kind": "supports",
+      "condition": "人生季节的排序管理",
+      "reason": "k00045 提出从长线视角安排时间，先陪伴孩子，与 k00043 的孩子越小越需要投入一致。"
+    },
+    {
+      "source": "s-1d03230af172-c002:a005",
+      "target": "s-1d03230af172-c002:a006",
+      "kind": "example_of",
+      "condition": "年轻CEO的成功代价",
+      "reason": "年轻CEO的成功代价案例是人生长跑与代价选择概念的具体例证，说明短期成功可能付出家庭代价。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c002:a007",
+      "target": "s-1d03230af172-c002:a009",
+      "kind": "example_of",
+      "condition": "家庭消费选择体现价值观",
+      "reason": "k00048 是消费选择的案例，k00050 说明为家庭放弃事业不是牺牲而是选择。"
+    },
+    {
+      "source": "s-1d03230af172-c002:a008",
+      "target": "s-1d03230af172-c002:a015",
+      "kind": "supports",
+      "condition": "孩子是父母关系的见证",
+      "reason": "孩子是父母关系的见证说明关系好时孩子愿意宣传，支持婚姻健康是共同养育孩子的基础。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c002:a010",
+      "target": "s-1d03230af172-c002:a017",
+      "kind": "association",
+      "condition": "",
+      "reason": "两端均涉及情绪管理与情感卫生，但目标是婚姻辅导局限后认识情感卫生的案例，并非家长后悔情绪管理的具体实例，仅主题相关。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 不成立，改为 association。"
+    },
+    {
+      "source": "s-1d03230af172-c002:a011",
+      "target": "s-1d03230af172-c002:a012",
+      "kind": "association",
+      "condition": "",
+      "reason": "事业高峰期忽略孩子是危机案例，而陪伴孩子接受心理辅导是修复关系的具体方法；两者相关但不存在因果关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 不成立，改为 association。"
+    },
+    {
+      "source": "s-1d03230af172-c002:a013",
+      "target": "s-1d03230af172-c002:a014",
+      "kind": "example_of",
+      "condition": "男性需要尊重",
+      "reason": "k00054 说明母亲强势压制先生导致疏离，k00055 是男性在外寻求尊重的案例。"
+    },
+    {
+      "source": "s-1d03230af172-c002:a016",
+      "target": "s-1d03230af172-c003:a023",
+      "kind": "example_of",
+      "condition": "从“你应该”到“我需要”",
+      "reason": "k00057 提出思维转变，k00098 是妻子向丈夫表达需要的具体话语。"
+    },
+    {
+      "source": "s-1d03230af172-c002:a018",
+      "target": "s-1d03230af172-c002:a019",
+      "kind": "supports",
+      "condition": "父母婚姻冲突导致孩子自责",
+      "reason": "父母吵架让孩子觉得是自己的错，可以解释孩子自信与自尊问题多源于父母婚姻的机制，支持该一般性判断。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 改为 supports，因后者是更广泛命题而非直接因果结果。"
+    },
+    {
+      "source": "s-1d03230af172-c002:a020",
+      "target": "s-1d03230af172-c002:a022",
+      "kind": "supports",
+      "condition": "婚姻安全感与学习驱动力",
+      "reason": "孩子从父母婚姻中获得安全感则学习不受困扰，支持婚姻健康能解决学习底层驱动力问题的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 改为 supports，两者为支持关系而非直接因果。"
+    },
+    {
+      "source": "s-1d03230af172-c002:a021",
+      "target": "s-1d03230af172-c002:a015",
+      "kind": "supports",
+      "condition": "婚姻搞定孩子就搞定",
+      "reason": "k00062 强调婚姻是育儿根本，与 k00056 的婚姻健康基础一致。"
+    },
+    {
+      "source": "s-1d03230af172-c002:a023",
+      "target": "s-1d03230af172-c002:a023",
+      "kind": "duplicate",
+      "condition": "父母不相爱导致孩子身份危机",
+      "reason": "k00064 和 k00071 内容几乎相同，都是父母不相爱导致孩子世界崩溃。"
+    },
+    {
+      "source": "s-1d03230af172-c002:r001",
+      "target": "s-1d03230af172-c002:a004",
+      "kind": "supports",
+      "condition": "事业机会的延迟而非拒绝",
+      "reason": "k00065 说明事业机会在孩子长大后还会再来，与 k00045 的长线排序一致。"
+    },
+    {
+      "source": "s-1d03230af172-c002:r002",
+      "target": "s-1d03230af172-c002:a012",
+      "kind": "supports",
+      "condition": "父亲陪伴心理辅导的边界",
+      "reason": "k00066 进一步解释父亲不进入辅导室的原因，与 k00053 的陪伴方式一致。"
+    },
+    {
+      "source": "s-1d03230af172-c002:r003",
+      "target": "s-1d03230af172-c002:a015",
+      "kind": "supports",
+      "condition": "男性需要尊重与家庭参与",
+      "reason": "k00067 说明男性被尊重时婚姻健康，与 k00056 的婚姻健康基础一致。"
+    },
+    {
+      "source": "s-1d03230af172-c002:r004",
+      "target": "s-1d03230af172-c002:a017",
+      "kind": "supports",
+      "condition": "负面情绪如病毒般传染",
+      "reason": "负面情绪具有感染力的观点，与案例中认识到负面情绪如病毒、家庭情感卫生重要的内容一致，支持该案例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c002:xe002",
+      "target": "s-1d03230af172-c002:xe003",
+      "kind": "causes",
+      "condition": "父亲拒绝心理辅导",
+      "reason": "k00073 指出父亲拒绝心理辅导，k00074 解释男性被社会期待掩盖情绪。"
+    },
+    {
+      "source": "s-1d03230af172-c002:xe004",
+      "target": "s-1d03230af172-c002:a013",
+      "kind": "example_of",
+      "condition": "父亲在家庭中的沟通困境",
+      "reason": "k00075 是父亲无法沟通的案例，与 k00054 的母亲强势压制先生一致。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a001",
+      "target": "s-1d03230af172-c003:a002",
+      "kind": "supports",
+      "condition": "父母离婚或分居带来的负面情绪",
+      "reason": "父母离婚或分居使孩子无法处理负面情绪而逃避，支持孩子会逃避父母负面情绪的行为描述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 改为 supports。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a003",
+      "target": "s-1d03230af172-c003:a017",
+      "kind": "supports",
+      "condition": "幸福比成功更高层次",
+      "reason": "k00078 定义幸福，k00092 是不压孩子让孩子自我发挥的案例，体现幸福观。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a004",
+      "target": "s-1d03230af172-c003:a005",
+      "kind": "supports",
+      "condition": "家庭中的自我反思习惯",
+      "reason": "k00079 培养自我反思，k00080 不批评孩子给予成长空间，两者共同促进成长。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a006",
+      "target": "s-1d03230af172-c003:a004",
+      "kind": "supports",
+      "condition": "企业管理理论应用于家庭",
+      "reason": "k00081 说明管理孩子和员工都是关于人，k00079 的自我反思是管理方法之一。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a007",
+      "target": "s-1d03230af172-c003:a008",
+      "kind": "example_of",
+      "condition": "受教品格与终身学习",
+      "reason": "k00082 定义受教，k00083 是父亲培养阅读兴趣的案例，体现终身学习。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a009",
+      "target": "s-1d03230af172-c003:a007",
+      "kind": "supports",
+      "condition": "父母向孩子请教培养成长型思维",
+      "reason": "k00084 通过请教培养成长型思维，与 k00082 的受教品格相关。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a010",
+      "target": "s-1d03230af172-c003:a013",
+      "kind": "causes",
+      "condition": "父母以身作则的重要性",
+      "reason": "k00085 强调父母典范作用，k00088 说明父母自身能力不足会导致孩子怒气。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a011",
+      "target": "s-1d03230af172-c003:a012",
+      "kind": "example_of",
+      "condition": "孩子不敢快乐的心理机制",
+      "reason": "k00086 解释不敢快乐的原因，k00087 是大学教授的案例。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a013",
+      "target": "s-1d03230af172-c003:a014",
+      "kind": "example_of",
+      "condition": "父母言行不一的反例",
+      "reason": "k00088 指出父母自己做不到却要求孩子，k00089 是加州州长言行不一的例子。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a015",
+      "target": "s-1d03230af172-c003:a016",
+      "kind": "example_of",
+      "condition": "庆祝进步而非结果",
+      "reason": "k00090 提出庆祝进步，k00091 是孩子中文成绩进步的案例。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a017",
+      "target": "s-1d03230af172-c003:a018",
+      "kind": "example_of",
+      "condition": "不压孩子让孩子自我发挥",
+      "reason": "k00092 是不压孩子的理念，k00093 是孩子成为游戏工程师的案例。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a019",
+      "target": "s-1d03230af172-c003:r001",
+      "kind": "duplicate",
+      "condition": "通过游戏进入孩子世界",
+      "reason": "k00094 和 k00101 内容相同，都是父母了解孩子游戏并进入其世界。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a020",
+      "target": "s-1d03230af172-c003:a020",
+      "kind": "duplicate",
+      "condition": "线下游戏时间多于线上",
+      "reason": "k00095 和 k00105 内容相同，都是建议线下游戏时间多于线上。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a021",
+      "target": "s-1d03230af172-c004:a016",
+      "kind": "supports",
+      "condition": "妈妈快乐对家庭的影响",
+      "reason": "妈妈不快乐则全家不快乐，强调自我照顾的重要性，支持真假快乐区别中妈妈快乐不是自私、保护家庭快乐的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c003:a022",
+      "target": "s-1d03230af172-c001:a029",
+      "kind": "supports",
+      "condition": "邀请爸爸参与家庭教育",
+      "reason": "k00097 建议妈妈温柔邀请爸爸，与 k00029 的妈妈退后制造空间一致。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a024",
+      "target": "s-1d03230af172-c003:a025",
+      "kind": "example_of",
+      "condition": "五岁孩子不听爸爸话",
+      "reason": "五岁孩子不听爸爸话的案例，具体说明爸爸未给予后果可能导致孩子不服从，是爸爸需要给孩子结果这一原则的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 改为 example_of。"
+    },
+    {
+      "source": "s-1d03230af172-c003:a025",
+      "target": "s-1d03230af172-c003:r002",
+      "kind": "supports",
+      "condition": "爸爸亲自执行处罚",
+      "reason": "爸爸需要给孩子结果中包含爸爸应亲自执行处罚，支持爸爸亲自执行处罚这一具体要求。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c003:xe001",
+      "target": "s-1d03230af172-c004:a012",
+      "kind": "causes",
+      "condition": "父母投入补习但孩子仍网络成瘾",
+      "reason": "k00103 指出补习无效，k00119 提出替代活动原则。"
+    },
+    {
+      "source": "s-1d03230af172-c003:xe002",
+      "target": "s-1d03230af172-c003:a017",
+      "kind": "example_of",
+      "condition": "三个儿子阳光健康的案例",
+      "reason": "k00104 是成功案例，体现 k00092 的不压孩子理念。"
+    },
+    {
+      "source": "s-1d03230af172-c004:a001",
+      "target": "s-1d03230af172-c004:a002",
+      "kind": "supports",
+      "condition": "父亲权威与后果管理",
+      "reason": "k00108 提出父亲给出明确后果，k00109 强调言行一致。"
+    },
+    {
+      "source": "s-1d03230af172-c004:a003",
+      "target": "s-1d03230af172-c004:a001",
+      "kind": "supports",
+      "condition": "父亲奖励的稀缺性",
+      "reason": "k00110 说明父亲客观评估更有价值，与 k00108 的后果管理相关。"
+    },
+    {
+      "source": "s-1d03230af172-c004:a004",
+      "target": "s-1d03230af172-c004:a008",
+      "kind": "supports",
+      "condition": "建立亲子关系的方法",
+      "reason": "建立亲子关系建议一起读书，家庭阅读的实施提供具体做法，支持该方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c004:a005",
+      "target": "s-1d03230af172-c004:a006",
+      "kind": "causes",
+      "condition": "住校的考虑因素",
+      "reason": "k00112 提出住校需考虑亲子关系，k00113 说明青春期住校的风险。"
+    },
+    {
+      "source": "s-1d03230af172-c004:a007",
+      "target": "s-1d03230af172-c004:a005",
+      "kind": "supports",
+      "condition": "住校的时机",
+      "reason": "如果亲子关系良好且能保持开放沟通，小学后可考虑住校，支持住校需考虑性别、年龄、成熟度与亲子关系的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c004:a009",
+      "target": "s-1d03230af172-c004:xe001",
+      "kind": "duplicate",
+      "condition": "家庭财务规划循环",
+      "reason": "k00116 和 k00132 内容相同，都是追踪开销、制定预算、执行、再追踪。"
+    },
+    {
+      "source": "s-1d03230af172-c004:a010",
+      "target": "s-1d03230af172-c004:a009",
+      "kind": "supports",
+      "condition": "财务不忠对婚姻的影响",
+      "reason": "k00117 强调财务公开有助于信任，与 k00116 的财务规划相关。"
+    },
+    {
+      "source": "s-1d03230af172-c004:a011",
+      "target": "s-1d03230af172-c004:a018",
+      "kind": "supports",
+      "condition": "全职妈妈兼职补贴",
+      "reason": "k00118 提出全职妈妈可兼职，k00125 是充电时间的案例。"
+    },
+    {
+      "source": "s-1d03230af172-c004:a012",
+      "target": "s-1d03230af172-c004:a013",
+      "kind": "example_of",
+      "condition": "游戏成瘾的替代原则",
+      "reason": "k00119 提出替代活动，k00120 是律师父亲辞职陪伴的案例。"
+    },
+    {
+      "source": "s-1d03230af172-c004:a014",
+      "target": "s-1d03230af172-c003:a022",
+      "kind": "association",
+      "condition": "",
+      "reason": "单亲爸爸的支持系统与邀请爸爸参与家庭教育都涉及父亲角色，但前者针对单亲爸爸的外部支持，后者是母亲邀请父亲参与，情境不同，无直接支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 不成立，改为 association。"
+    },
+    {
+      "source": "s-1d03230af172-c004:a015",
+      "target": "s-1d03230af172-c002:a010",
+      "kind": "supports",
+      "condition": "情绪爆发的即时处理",
+      "reason": "k00122 提供情绪管理方法，k00051 是情绪管理不足的后悔案例。"
+    },
+    {
+      "source": "s-1d03230af172-c004:a017",
+      "target": "s-1d03230af172-c002:a016",
+      "kind": "supports",
+      "condition": "表达需求的方式",
+      "reason": "k00124 是表达需求的具体方式，与 k00057 的思维转变一致。"
+    },
+    {
+      "source": "s-1d03230af172-c004:a019",
+      "target": "s-1d03230af172-c004:xe005",
+      "kind": "supports",
+      "condition": "长期累积问题的修复",
+      "reason": "高三问题需长远修复强调长期累积不能短期扭转，支持孩子问题修复需长远眼光的一般命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c004:a020",
+      "target": "s-1d03230af172-c004:r002",
+      "kind": "duplicate",
+      "condition": "帮助青少年建立自信",
+      "reason": "k00127 和 k00130 内容相同，都是通过小事情帮助孩子获得成功体验。"
+    },
+    {
+      "source": "s-1d03230af172-c004:a021",
+      "target": "s-1d03230af172-c005:a001",
+      "kind": "supports",
+      "condition": "将学习责任还给孩子",
+      "reason": "通过家庭会议让孩子提出方案并承担后果，支持学习责任归属孩子的原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c004:r001",
+      "target": "s-1d03230af172-c004:a019",
+      "kind": "supports",
+      "condition": "游戏成瘾问题的长期累积性",
+      "reason": "游戏成瘾是长期累积需慢慢修复，支持高三问题需长远修复、不能短期扭转的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c004:r003",
+      "target": "s-1d03230af172-c005:a002",
+      "kind": "supports",
+      "condition": "父母过度控制导致孩子不承担后果",
+      "reason": "两端表达几乎相同的内容，即父母过度控制使孩子不承担后果，互相支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 duplicate 改为 supports，因 kind 不允许 duplicate。"
+    },
+    {
+      "source": "s-1d03230af172-c004:xe002",
+      "target": "s-1d03230af172-c004:xe003",
+      "kind": "example_of",
+      "condition": "住校高中生沉迷手机",
+      "reason": "k00133 是案例，k00134 是家庭为帮助孩子休学一年的案例。"
+    },
+    {
+      "source": "s-1d03230af172-c004:xe004",
+      "target": "s-1d03230af172-c004:a016",
+      "kind": "supports",
+      "condition": "回应“妈妈快乐是否自私”",
+      "reason": "该沟通策略以妈妈快乐不是自私为核心论点，支持真假快乐区别中的这一主张。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c004:xe006",
+      "target": "s-1d03230af172-c004:a019",
+      "kind": "supports",
+      "condition": "越急越需要放慢",
+      "reason": "越急越需要放慢脚步、高考不是人生唯一机会，支持高三问题需长远修复的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c005:a003",
+      "target": "s-1d03230af172-c005:a004",
+      "kind": "example_of",
+      "condition": "学习不好需分析多种原因",
+      "reason": "老二英语分数协商案例具体展示了孩子学习不好需要分析多种原因并讨论方案，是这一概念的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1d03230af172-c005:a005",
+      "target": "s-1d03230af172-c005:a006",
+      "kind": "example_of",
+      "condition": "将敌人变为朋友的技能",
+      "reason": "老大与英语老师从对立到通过自身行为赢得尊重的案例，具体展示了如何将敌人变为朋友，因此是该技能的一个实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系准确，方向正确。"
+    },
+    {
+      "source": "s-1d03230af172-c005:r001",
+      "target": "s-1d03230af172-c004:a021",
+      "kind": "supports",
+      "condition": "家庭会议让孩子承担学习责任",
+      "reason": "家庭会议让孩子承担学习责任的具体步骤与将学习责任还给孩子的建议一致，支持了后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n001",
+      "target": "s-1d03230af172-c002:a022",
+      "kind": "association",
+      "condition": "通用原理在婚姻场景的具体化",
+      "reason": "目标将源的负面情绪垃圾具体化为婚姻健康问题，并同样指向好奇心驱动，源未提供额外实质点，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a022",
+      "target": "s-1d03230af172-c003:v2-n001",
+      "kind": "association",
+      "condition": "通用原理在婚姻场景的具体化",
+      "reason": "目标将源的负面情绪垃圾具体化为婚姻健康问题，并同样指向好奇心驱动，源未提供额外实质点，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n001",
+      "target": "s-1d03230af172-c002:r004",
+      "kind": "association",
+      "condition": "负面情绪的性质",
+      "reason": "目标说明负面情绪如病毒传染，源强调移除这些情绪，两者关联但源未提及传染性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:r004",
+      "target": "s-1d03230af172-c003:v2-n001",
+      "kind": "association",
+      "condition": "负面情绪的性质",
+      "reason": "目标说明负面情绪如病毒传染，源强调移除这些情绪，两者关联但源未提及传染性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n001",
+      "target": "s-1d03230af172-c003:a002",
+      "kind": "association",
+      "condition": "孩子面对负面情绪的行为",
+      "reason": "目标描述孩子逃避父母负面情绪，源描述移除后学习状态改变，两者都涉及负面情绪，但角度不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:a002",
+      "target": "s-1d03230af172-c003:v2-n001",
+      "kind": "association",
+      "condition": "孩子面对负面情绪的行为",
+      "reason": "目标描述孩子逃避父母负面情绪，源描述移除后学习状态改变，两者都涉及负面情绪，但角度不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n001",
+      "target": "s-1d03230af172-c003:a001",
+      "kind": "association",
+      "condition": "负面情绪的来源",
+      "reason": "目标涉及父母离婚或分居导致孩子负面情绪，源提出移除垃圾后效果，来源可能包含离婚，但未明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:a001",
+      "target": "s-1d03230af172-c003:v2-n001",
+      "kind": "association",
+      "condition": "负面情绪的来源",
+      "reason": "目标涉及父母离婚或分居导致孩子负面情绪，源提出移除垃圾后效果，来源可能包含离婚，但未明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n001",
+      "target": "s-1d03230af172-c002:a019",
+      "kind": "association",
+      "condition": "婚姻问题与孩子心理",
+      "reason": "目标认为孩子自信自尊问题多源于父母婚姻，源强调移除情绪垃圾后学习动力改变，两者都关联婚姻影响孩子，但未直接引用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a019",
+      "target": "s-1d03230af172-c003:v2-n001",
+      "kind": "association",
+      "condition": "婚姻问题与孩子心理",
+      "reason": "目标认为孩子自信自尊问题多源于父母婚姻，源强调移除情绪垃圾后学习动力改变，两者都关联婚姻影响孩子，但未直接引用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n001",
+      "target": "s-1d03230af172-c002:a017",
+      "kind": "association",
+      "condition": "情感卫生与情绪垃圾",
+      "reason": "目标讨论家庭情感卫生和负面情绪处理，源假设垃圾被移除，主题相关但源未提及具体清理方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a017",
+      "target": "s-1d03230af172-c003:v2-n001",
+      "kind": "association",
+      "condition": "情感卫生与情绪垃圾",
+      "reason": "目标讨论家庭情感卫生和负面情绪处理，源假设垃圾被移除，主题相关但源未提及具体清理方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n001",
+      "target": "s-1d03230af172-c002:a010",
+      "kind": "association",
+      "condition": "情绪管理的后果",
+      "reason": "目标案例后悔未管理好情绪造成伤害，源说明清除情绪垃圾后学习动力转变，间接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a010",
+      "target": "s-1d03230af172-c003:v2-n001",
+      "kind": "association",
+      "condition": "情绪管理的后果",
+      "reason": "目标案例后悔未管理好情绪造成伤害，源说明清除情绪垃圾后学习动力转变，间接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n001",
+      "target": "s-1d03230af172-c002:r006",
+      "kind": "association",
+      "condition": "安全感与学习基础",
+      "reason": "目标认为婚姻安全感是学习基础，源认为移除负面情绪后学习由好奇心驱动，安全感可能是前提之一，但未明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:r006",
+      "target": "s-1d03230af172-c003:v2-n001",
+      "kind": "association",
+      "condition": "安全感与学习基础",
+      "reason": "目标认为婚姻安全感是学习基础，源认为移除负面情绪后学习由好奇心驱动，安全感可能是前提之一，但未明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n001",
+      "target": "s-1d03230af172-c002:a020",
+      "kind": "association",
+      "condition": "安全感与学习基础",
+      "reason": "与 r006 类似，目标强调婚姻安全感使孩子安心学习，源关注情绪移除后的好奇心驱动，关联但非因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a020",
+      "target": "s-1d03230af172-c003:v2-n001",
+      "kind": "association",
+      "condition": "安全感与学习基础",
+      "reason": "与 r006 类似，目标强调婚姻安全感使孩子安心学习，源关注情绪移除后的好奇心驱动，关联但非因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n002",
+      "target": "s-1d03230af172-c002:a023",
+      "kind": "complements",
+      "condition": "当父母不相爱或关系断裂时",
+      "reason": "source指出孩子可能不知道自己是安全的被父母爱着，与父母关系断裂的隐患相关；a023具体说明父母不相爱导致孩子世界崩溃，这可能是孩子缺乏安全感、不知道自己被爱的原因之一。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a023",
+      "target": "s-1d03230af172-c003:v2-n002",
+      "kind": "complements",
+      "condition": "当父母不相爱或关系断裂时",
+      "reason": "source指出孩子可能不知道自己是安全的被父母爱着，与父母关系断裂的隐患相关；a023具体说明父母不相爱导致孩子世界崩溃，这可能是孩子缺乏安全感、不知道自己被爱的原因之一。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n002",
+      "target": "s-1d03230af172-c002:r005",
+      "kind": "complements",
+      "condition": "当孩子目睹父母冲突时",
+      "reason": "source指出孩子可能不知道被爱；r005补充说孩子对父母冲突有隐藏反应，会认为是自己的错并伤害自己，这种自责可能导致孩子不觉得自己被爱且不会表达，从而父母不知道。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:r005",
+      "target": "s-1d03230af172-c003:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子目睹父母冲突时",
+      "reason": "source指出孩子可能不知道被爱；r005补充说孩子对父母冲突有隐藏反应，会认为是自己的错并伤害自己，这种自责可能导致孩子不觉得自己被爱且不会表达，从而父母不知道。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n002",
+      "target": "s-1d03230af172-c002:a018",
+      "kind": "complements",
+      "condition": "当孩子目睹父母吵架时",
+      "reason": "类似r005，a018补充了孩子因父母吵架感到自责并伤害自己，这可能是孩子不知道被爱的一个内在原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a018",
+      "target": "s-1d03230af172-c003:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子目睹父母吵架时",
+      "reason": "类似r005，a018补充了孩子因父母吵架感到自责并伤害自己，这可能是孩子不知道被爱的一个内在原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n002",
+      "target": "s-1d03230af172-c002:r006",
+      "kind": "complements",
+      "condition": "当父母婚姻健康时正常的来源",
+      "reason": "source指出孩子可能缺乏安全感；r006说明孩子通过父母婚姻获得安全感，强调有安全感对学习和处理事情的重要性，补充了安全感正常来源及价值。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:r006",
+      "target": "s-1d03230af172-c003:v2-n002",
+      "kind": "complements",
+      "condition": "当父母婚姻健康时正常的来源",
+      "reason": "source指出孩子可能缺乏安全感；r006说明孩子通过父母婚姻获得安全感，强调有安全感对学习和处理事情的重要性，补充了安全感正常来源及价值。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n002",
+      "target": "s-1d03230af172-c002:a002",
+      "kind": "complements",
+      "condition": "当孩子处于早期阶段时",
+      "reason": "source指出孩子可能不知道被爱；a002强调孩子越小越需要父母投入，前期投入能保持良好关系，说明早期投入不足可能导致孩子后来缺乏安全感。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a002",
+      "target": "s-1d03230af172-c003:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子处于早期阶段时",
+      "reason": "source指出孩子可能不知道被爱；a002强调孩子越小越需要父母投入，前期投入能保持良好关系，说明早期投入不足可能导致孩子后来缺乏安全感。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n002",
+      "target": "s-1d03230af172-c002:a020",
+      "kind": "complements",
+      "condition": "同r006",
+      "reason": "同r006。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a020",
+      "target": "s-1d03230af172-c003:v2-n002",
+      "kind": "complements",
+      "condition": "同r006",
+      "reason": "同r006。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n002",
+      "target": "s-1d03230af172-c001:a012",
+      "kind": "complements",
+      "condition": "当家庭需要营造安全空间时",
+      "reason": "source指出孩子可能不知道被爱和安全；a012提出恩典是建造安全空间和气氛，让孩子健康成长，补充了如何提供安全感的具体做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c001:a012",
+      "target": "s-1d03230af172-c003:v2-n002",
+      "kind": "complements",
+      "condition": "当家庭需要营造安全空间时",
+      "reason": "source指出孩子可能不知道被爱和安全；a012提出恩典是建造安全空间和气氛，让孩子健康成长，补充了如何提供安全感的具体做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n002",
+      "target": "s-1d03230af172-c003:a001",
+      "kind": "complements",
+      "condition": "当父母离婚或分居或说不相爱时",
+      "reason": "source指出与父母关系断裂隐患相关；a001具体说明父母离婚或分居导致孩子自我认同冲击，世界崩溃，进一步解释孩子为什么可能不知道被爱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:a001",
+      "target": "s-1d03230af172-c003:v2-n002",
+      "kind": "complements",
+      "condition": "当父母离婚或分居或说不相爱时",
+      "reason": "source指出与父母关系断裂隐患相关；a001具体说明父母离婚或分居导致孩子自我认同冲击，世界崩溃，进一步解释孩子为什么可能不知道被爱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n002",
+      "target": "s-1d03230af172-c003:a002",
+      "kind": "association",
+      "condition": "当父母有超级负面情绪时",
+      "reason": "source指出孩子可能不知道被爱；a002说孩子会逃避父母负面情绪，这种逃避可能导致亲子隔离，使孩子更无法感受到爱，但关联并非直接因果，故为association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:a002",
+      "target": "s-1d03230af172-c003:v2-n002",
+      "kind": "association",
+      "condition": "当父母有超级负面情绪时",
+      "reason": "source指出孩子可能不知道被爱；a002说孩子会逃避父母负面情绪，这种逃避可能导致亲子隔离，使孩子更无法感受到爱，但关联并非直接因果，故为association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n002",
+      "target": "s-1d03230af172-c002:xe004",
+      "kind": "complements",
+      "condition": "当父亲与家庭沟通断裂时",
+      "reason": "source指出与父母关系断裂隐患相关；xe004描述父亲沟通困境导致爸爸变成敌对，这是家庭关系断裂的具体表现，可能影响孩子安全感。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:xe004",
+      "target": "s-1d03230af172-c003:v2-n002",
+      "kind": "complements",
+      "condition": "当父亲与家庭沟通断裂时",
+      "reason": "source指出与父母关系断裂隐患相关；xe004描述父亲沟通困境导致爸爸变成敌对，这是家庭关系断裂的具体表现，可能影响孩子安全感。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n003",
+      "target": "s-1d03230af172-c002:a002",
+      "kind": "complements",
+      "condition": "当孩子处于早期阶段时",
+      "reason": "source强调每个孩子需要爸爸和妈妈；a002补充了孩子越小越需要父母投入，说明孩子在特定阶段对父母双方的需求更强烈。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a002",
+      "target": "s-1d03230af172-c003:v2-n003",
+      "kind": "complements",
+      "condition": "当孩子处于早期阶段时",
+      "reason": "source强调每个孩子需要爸爸和妈妈；a002补充了孩子越小越需要父母投入，说明孩子在特定阶段对父母双方的需求更强烈。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n003",
+      "target": "s-1d03230af172-c002:a023",
+      "kind": "complements",
+      "condition": "当父母不相爱时",
+      "reason": "source指出幸福的婚姻是孩子幸福的基础；a023具体说明父母不相爱导致孩子世界崩溃，反证了婚姻不幸福对孩子幸福的危害。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a023",
+      "target": "s-1d03230af172-c003:v2-n003",
+      "kind": "complements",
+      "condition": "当父母不相爱时",
+      "reason": "source指出幸福的婚姻是孩子幸福的基础；a023具体说明父母不相爱导致孩子世界崩溃，反证了婚姻不幸福对孩子幸福的危害。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n003",
+      "target": "s-1d03230af172-c002:r006",
+      "kind": "complements",
+      "condition": "当父母婚姻健康时",
+      "reason": "source强调幸福婚姻基础；r006补充婚姻安全感是孩子学习的基础，说明婚姻幸福对孩子具体能力的影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:r006",
+      "target": "s-1d03230af172-c003:v2-n003",
+      "kind": "complements",
+      "condition": "当父母婚姻健康时",
+      "reason": "source强调幸福婚姻基础；r006补充婚姻安全感是孩子学习的基础，说明婚姻幸福对孩子具体能力的影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n003",
+      "target": "s-1d03230af172-c002:a019",
+      "kind": "complements",
+      "condition": "当孩子有自信自尊问题时",
+      "reason": "source说幸福婚姻是孩子幸福基础；a019说孩子自信自尊问题99%来自父母婚姻问题，补充了婚姻问题对孩子心理的具体影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a019",
+      "target": "s-1d03230af172-c003:v2-n003",
+      "kind": "complements",
+      "condition": "当孩子有自信自尊问题时",
+      "reason": "source说幸福婚姻是孩子幸福基础；a019说孩子自信自尊问题99%来自父母婚姻问题，补充了婚姻问题对孩子心理的具体影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n003",
+      "target": "s-1d03230af172-c002:a015",
+      "kind": "complements",
+      "condition": "当夫妻共同养育孩子时",
+      "reason": "source说孩子需要父母双方；a015说明婚姻健康、关系好是共同养育孩子的基础，补充了双方合作的重要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a015",
+      "target": "s-1d03230af172-c003:v2-n003",
+      "kind": "complements",
+      "condition": "当夫妻共同养育孩子时",
+      "reason": "source说孩子需要父母双方；a015说明婚姻健康、关系好是共同养育孩子的基础，补充了双方合作的重要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n003",
+      "target": "s-1d03230af172-c002:a020",
+      "kind": "complements",
+      "condition": "同r006",
+      "reason": "同r006。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a020",
+      "target": "s-1d03230af172-c003:v2-n003",
+      "kind": "complements",
+      "condition": "同r006",
+      "reason": "同r006。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n003",
+      "target": "s-1d03230af172-c002:a021",
+      "kind": "complements",
+      "condition": "当婚姻关系良好时",
+      "reason": "source强调幸福婚姻基础；a021说婚姻搞定孩子就搞定，概括了婚姻对孩子的根本影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a021",
+      "target": "s-1d03230af172-c003:v2-n003",
+      "kind": "complements",
+      "condition": "当婚姻关系良好时",
+      "reason": "source强调幸福婚姻基础；a021说婚姻搞定孩子就搞定，概括了婚姻对孩子的根本影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:v2-n003",
+      "target": "s-1d03230af172-c003:a022",
+      "kind": "complements",
+      "condition": "当需要邀请爸爸参与时",
+      "reason": "source强调孩子需要爸爸；a022提供具体建议如何邀请爸爸参与家庭教育，补充了实际操作方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:a022",
+      "target": "s-1d03230af172-c003:v2-n003",
+      "kind": "complements",
+      "condition": "当需要邀请爸爸参与时",
+      "reason": "source强调孩子需要爸爸；a022提供具体建议如何邀请爸爸参与家庭教育，补充了实际操作方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:v2-n001",
+      "target": "s-1d03230af172-c005:a003",
+      "kind": "example_of",
+      "condition": "当孩子学习不好需要分析原因时",
+      "reason": "source是老二分英语成绩差的案例；a003是原则“孩子学习不好可能有多种原因”，source是a003的一个具体例子，说明具体分析的重要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:a003",
+      "target": "s-1d03230af172-c004:v2-n001",
+      "kind": "has_example",
+      "condition": "当孩子学习不好需要分析原因时",
+      "reason": "source是老二分英语成绩差的案例；a003是原则“孩子学习不好可能有多种原因”，source是a003的一个具体例子，说明具体分析的重要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:v2-n001",
+      "target": "s-1d03230af172-c005:a004",
+      "kind": "prerequisite",
+      "condition": "当解决老二英语分数问题时",
+      "reason": "source强调需要先分析原因；a004记录了分析原因后采取的具体协商方案，因此source是a004的前提步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:a004",
+      "target": "s-1d03230af172-c004:v2-n001",
+      "kind": "requires",
+      "condition": "当解决老二英语分数问题时",
+      "reason": "source强调需要先分析原因；a004记录了分析原因后采取的具体协商方案，因此source是a004的前提步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:v2-n001",
+      "target": "s-1d03230af172-c004:a021",
+      "kind": "complements",
+      "condition": "当父母与孩子讨论学习问题时",
+      "reason": "source说需要具体分析原因；a021补充了如何通过家庭会议让孩子承担学习责任，这是一种帮助孩子的方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:a021",
+      "target": "s-1d03230af172-c004:v2-n001",
+      "kind": "complements",
+      "condition": "当父母与孩子讨论学习问题时",
+      "reason": "source说需要具体分析原因；a021补充了如何通过家庭会议让孩子承担学习责任，这是一种帮助孩子的方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:v2-n001",
+      "target": "s-1d03230af172-c005:r001",
+      "kind": "complements",
+      "condition": "当需要让孩子承担学习责任时",
+      "reason": "source强调分析原因；r001提供了家庭会议的具体步骤，补充了分析后的行动方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:r001",
+      "target": "s-1d03230af172-c004:v2-n001",
+      "kind": "complements",
+      "condition": "当需要让孩子承担学习责任时",
+      "reason": "source强调分析原因；r001提供了家庭会议的具体步骤，补充了分析后的行动方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:v2-n001",
+      "target": "s-1d03230af172-c005:v2-n001",
+      "kind": "association",
+      "condition": "当父母与孩子一起讨论分析时",
+      "reason": "source是具体案例强调分析原因；v2-n001强调讨论分析过程能提升父母分析策略能力，两者都涉及分析过程，但source未明确提到提升父母能力，故为association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:v2-n001",
+      "target": "s-1d03230af172-c004:v2-n001",
+      "kind": "association",
+      "condition": "当父母与孩子一起讨论分析时",
+      "reason": "source是具体案例强调分析原因；v2-n001强调讨论分析过程能提升父母分析策略能力，两者都涉及分析过程，但source未明确提到提升父母能力，故为association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:v2-n001",
+      "target": "s-1d03230af172-c003:xe005",
+      "kind": "association",
+      "condition": "当成绩退步需要分析时",
+      "reason": "source说学习不好需分析多种原因，xe005说成绩退步需具体分析，两者主题相近但条件不同，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:xe005",
+      "target": "s-1d03230af172-c004:v2-n001",
+      "kind": "association",
+      "condition": "当成绩退步需要分析时",
+      "reason": "source说学习不好需分析多种原因，xe005说成绩退步需具体分析，两者主题相近但条件不同，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:v2-n002",
+      "target": "s-1d03230af172-c003:a025",
+      "kind": "example_of",
+      "condition": "当孩子不听从父亲时",
+      "reason": "source是五岁孩子不听爸爸话的案例；a025是原则“爸爸需要给孩子结果（后果）”，source案例中爸爸未给予明确后果，是a025原则的一个体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:a025",
+      "target": "s-1d03230af172-c004:v2-n002",
+      "kind": "has_example",
+      "condition": "当孩子不听从父亲时",
+      "reason": "source是五岁孩子不听爸爸话的案例；a025是原则“爸爸需要给孩子结果（后果）”，source案例中爸爸未给予明确后果，是a025原则的一个体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:v2-n002",
+      "target": "s-1d03230af172-c004:a001",
+      "kind": "example_of",
+      "condition": "当父亲需要建立权威时",
+      "reason": "source案例显示孩子不听爸爸话；a001阐述父亲权威与后果管理，source是a001原则的一个应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:a001",
+      "target": "s-1d03230af172-c004:v2-n002",
+      "kind": "has_example",
+      "condition": "当父亲需要建立权威时",
+      "reason": "source案例显示孩子不听爸爸话；a001阐述父亲权威与后果管理，source是a001原则的一个应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:v2-n002",
+      "target": "s-1d03230af172-c003:r002",
+      "kind": "complements",
+      "condition": "当爸爸需要执行处罚时",
+      "reason": "source提到爸爸未给予明确后果；r002补充了爸爸应亲自执行处罚，具体说明了后果管理的方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:r002",
+      "target": "s-1d03230af172-c004:v2-n002",
+      "kind": "complements",
+      "condition": "当爸爸需要执行处罚时",
+      "reason": "source提到爸爸未给予明确后果；r002补充了爸爸应亲自执行处罚，具体说明了后果管理的方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:v2-n002",
+      "target": "s-1d03230af172-c004:a004",
+      "kind": "complements",
+      "condition": "当需要建立亲子关系时",
+      "reason": "source说需要先了解父子关系；a004提供了建立亲子关系的具体方法（一起读书、玩等），帮助改善关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:a004",
+      "target": "s-1d03230af172-c004:v2-n002",
+      "kind": "complements",
+      "condition": "当需要建立亲子关系时",
+      "reason": "source说需要先了解父子关系；a004提供了建立亲子关系的具体方法（一起读书、玩等），帮助改善关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:v2-n002",
+      "target": "s-1d03230af172-c003:a022",
+      "kind": "complements",
+      "condition": "当邀请爸爸参与家庭教育时",
+      "reason": "source中爸爸忙可能参与少；a022提供邀请爸爸参与的建议，如温柔地请爸爸出席，补充了如何促进爸爸参与。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:a022",
+      "target": "s-1d03230af172-c004:v2-n002",
+      "kind": "complements",
+      "condition": "当邀请爸爸参与家庭教育时",
+      "reason": "source中爸爸忙可能参与少；a022提供邀请爸爸参与的建议，如温柔地请爸爸出席，补充了如何促进爸爸参与。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:v2-n002",
+      "target": "s-1d03230af172-c002:a002",
+      "kind": "complements",
+      "condition": "当孩子处于幼年时",
+      "reason": "source是五岁孩子问题；a002强调孩子越小越需要父母投入，补充了早期投入的重要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a002",
+      "target": "s-1d03230af172-c004:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子处于幼年时",
+      "reason": "source是五岁孩子问题；a002强调孩子越小越需要父母投入，补充了早期投入的重要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:v2-n002",
+      "target": "s-1d03230af172-c001:a019",
+      "kind": "complements",
+      "condition": "当爸爸缺失参与时",
+      "reason": "source中爸爸工作忙可能参与少；a019说明爸爸缺失是家庭危机，补充了这种状况的危害。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c001:a019",
+      "target": "s-1d03230af172-c004:v2-n002",
+      "kind": "complements",
+      "condition": "当爸爸缺失参与时",
+      "reason": "source中爸爸工作忙可能参与少；a019说明爸爸缺失是家庭危机，补充了这种状况的危害。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:v2-n002",
+      "target": "s-1d03230af172-c002:xe004",
+      "kind": "complements",
+      "condition": "当父亲与家庭沟通障碍时",
+      "reason": "source中爸爸可能缺乏沟通；xe004描述父亲沟通困境，补充了父亲难以参与家庭的常见问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:xe004",
+      "target": "s-1d03230af172-c004:v2-n002",
+      "kind": "complements",
+      "condition": "当父亲与家庭沟通障碍时",
+      "reason": "source中爸爸可能缺乏沟通；xe004描述父亲沟通困境，补充了父亲难以参与家庭的常见问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:v2-n001",
+      "target": "s-1d03230af172-c005:a003",
+      "kind": "complements",
+      "condition": "当孩子学习不好需要分析原因时",
+      "reason": "source强调讨论分析过程提升父母能力；a003提供具体场景（学习不好需分析原因），补充了source在哪个方面应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:a003",
+      "target": "s-1d03230af172-c005:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子学习不好需要分析原因时",
+      "reason": "source强调讨论分析过程提升父母能力；a003提供具体场景（学习不好需分析原因），补充了source在哪个方面应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:v2-n001",
+      "target": "s-1d03230af172-c005:r001",
+      "kind": "complements",
+      "condition": "当通过家庭会议讨论学习问题时",
+      "reason": "source说讨论分析过程提升父母策略；r001提供家庭会议具体步骤，这种讨论分析正是提升父母能力的一种形式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:r001",
+      "target": "s-1d03230af172-c005:v2-n001",
+      "kind": "complements",
+      "condition": "当通过家庭会议讨论学习问题时",
+      "reason": "source说讨论分析过程提升父母策略；r001提供家庭会议具体步骤，这种讨论分析正是提升父母能力的一种形式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:v2-n001",
+      "target": "s-1d03230af172-c003:xe005",
+      "kind": "complements",
+      "condition": "当成绩退步需要具体分析时",
+      "reason": "source强调分析过程提升能力；xe005强调成绩退步需具体分析，补充了另一个分析场景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:xe005",
+      "target": "s-1d03230af172-c005:v2-n001",
+      "kind": "complements",
+      "condition": "当成绩退步需要具体分析时",
+      "reason": "source强调分析过程提升能力；xe005强调成绩退步需具体分析，补充了另一个分析场景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:v2-n001",
+      "target": "s-1d03230af172-c005:a001",
+      "kind": "complements",
+      "condition": "当让孩子承担学习责任时",
+      "reason": "source说讨论分析过程提升父母策略；a001说明通过家庭会议让孩子承担学习责任，这种过程正需要父母采用分析策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:a001",
+      "target": "s-1d03230af172-c005:v2-n001",
+      "kind": "complements",
+      "condition": "当让孩子承担学习责任时",
+      "reason": "source说讨论分析过程提升父母策略；a001说明通过家庭会议让孩子承担学习责任，这种过程正需要父母采用分析策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:v2-n001",
+      "target": "s-1d03230af172-c004:v2-n001",
+      "kind": "association",
+      "condition": "当父母与孩子讨论具体学习案例时",
+      "reason": "source强调讨论分析过程提升父母能力；v2-n001是具体案例（老二英语分数分析），展示了分析过程，但source未直接引用该案例，关联为association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:v2-n001",
+      "target": "s-1d03230af172-c005:v2-n001",
+      "kind": "association",
+      "condition": "当父母与孩子讨论具体学习案例时",
+      "reason": "source强调讨论分析过程提升父母能力；v2-n001是具体案例（老二英语分数分析），展示了分析过程，但source未直接引用该案例，关联为association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:v2-n001",
+      "target": "s-1d03230af172-c001:a033",
+      "kind": "association",
+      "condition": "当全家一起阅读并讨论时",
+      "reason": "source说讨论分析问题提升能力；a033说全家一起阅读一本书，这可能是讨论分析的场景之一，但未明确涉及分析策略，故为association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c001:a033",
+      "target": "s-1d03230af172-c005:v2-n001",
+      "kind": "association",
+      "condition": "当全家一起阅读并讨论时",
+      "reason": "source说讨论分析问题提升能力；a033说全家一起阅读一本书，这可能是讨论分析的场景之一，但未明确涉及分析策略，故为association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:v2-n002",
+      "target": "s-1d03230af172-c002:a013",
+      "kind": "complements",
+      "condition": "当母亲过于强势时",
+      "reason": "source提倡温柔邀请丈夫避免强迫指责；a013描述母亲强势压制父亲导致疏离，反证了温柔邀请的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a013",
+      "target": "s-1d03230af172-c005:v2-n002",
+      "kind": "complements",
+      "condition": "当母亲过于强势时",
+      "reason": "source提倡温柔邀请丈夫避免强迫指责；a013描述母亲强势压制父亲导致疏离，反证了温柔邀请的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:v2-n002",
+      "target": "s-1d03230af172-c003:a022",
+      "kind": "complements",
+      "condition": "当邀请爸爸参与家庭教育时",
+      "reason": "source说温柔邀请丈夫看回放；a022提供具体邀请爸爸参与的建议，如说“你很重要”，补充了具体话语。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:a022",
+      "target": "s-1d03230af172-c005:v2-n002",
+      "kind": "complements",
+      "condition": "当邀请爸爸参与家庭教育时",
+      "reason": "source说温柔邀请丈夫看回放；a022提供具体邀请爸爸参与的建议，如说“你很重要”，补充了具体话语。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:v2-n002",
+      "target": "s-1d03230af172-c003:a023",
+      "kind": "complements",
+      "condition": "当妻子需要向丈夫表达需要时",
+      "reason": "source是邀请丈夫看回放；a023提供妻子向丈夫表达需要的话语示例，可用于温柔邀请。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c003:a023",
+      "target": "s-1d03230af172-c005:v2-n002",
+      "kind": "complements",
+      "condition": "当妻子需要向丈夫表达需要时",
+      "reason": "source是邀请丈夫看回放；a023提供妻子向丈夫表达需要的话语示例，可用于温柔邀请。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:v2-n002",
+      "target": "s-1d03230af172-c004:a017",
+      "kind": "complements",
+      "condition": "当向家人表达需求时",
+      "reason": "source说邀请丈夫看回放要温柔；a017强调表达需求避免命令式，补充了沟通方式的原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:a017",
+      "target": "s-1d03230af172-c005:v2-n002",
+      "kind": "complements",
+      "condition": "当向家人表达需求时",
+      "reason": "source说邀请丈夫看回放要温柔；a017强调表达需求避免命令式，补充了沟通方式的原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:v2-n002",
+      "target": "s-1d03230af172-c002:a016",
+      "kind": "complements",
+      "condition": "当夫妻沟通时",
+      "reason": "source说温柔邀请而非强迫；a016强调从“你应该”到“我需要”的思维转变，与温柔邀请的理念一致，补充了沟通思维。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c002:a016",
+      "target": "s-1d03230af172-c005:v2-n002",
+      "kind": "complements",
+      "condition": "当夫妻沟通时",
+      "reason": "source说温柔邀请而非强迫；a016强调从“你应该”到“我需要”的思维转变，与温柔邀请的理念一致，补充了沟通思维。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c005:v2-n002",
+      "target": "s-1d03230af172-c004:xe004",
+      "kind": "association",
+      "condition": "当回应配偶质疑时",
+      "reason": "source是邀请丈夫看回放；xe004是回应“妈妈快乐是否自私”的沟通策略，都涉及沟通技巧，但具体情境不同，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1d03230af172-c004:xe004",
+      "target": "s-1d03230af172-c005:v2-n002",
+      "kind": "association",
+      "condition": "当回应配偶质疑时",
+      "reason": "source是邀请丈夫看回放；xe004是回应“妈妈快乐是否自私”的沟通策略，都涉及沟通技巧，但具体情境不同，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "夫妻教育分歧时，需要谦卑、认错、放下自己",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c001:a001",
+        "s-1d03230af172-c001:a002",
+        "s-1d03230af172-c001:a004",
+        "s-1d03230af172-c001:a005",
+        "s-1d03230af172-c001:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "阶段与角色",
+      "when": "夫妻吵架话题随孩子年龄阶段变化，主要归纳为规则与恩典的冲突",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c001:a008",
+        "s-1d03230af172-c001:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "孩子用情绪操纵父母时，父母需小心不让情绪管理自己",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c001:a013"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "阶段与角色",
+      "when": "父亲刻意决定做父亲，运用七个习惯管理时间",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c001:a021",
+        "s-1d03230af172-c001:a022"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我认知",
+      "when": "妈妈完美主义阻碍爸爸参与，妈妈需退后制造空间",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c001:a028",
+        "s-1d03230af172-c001:a029"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "夫妻冲突中丈夫恐惧冲突而退缩，需用好的沟通方式",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c001:a016",
+        "s-1d03230af172-c001:a017",
+        "s-1d03230af172-c001:a018"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我认知",
+      "when": "婚姻健康是共同养育孩子的基础，孩子是父母关系的见证",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c002:a008",
+        "s-1d03230af172-c002:a015"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我认知",
+      "when": "父母吵架导致孩子自责，孩子自信自尊问题多源于父母婚姻",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c002:a018",
+        "s-1d03230af172-c002:a019"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "专注力",
+      "when": "婚姻安全感影响孩子学习，婚姻搞定孩子就搞定",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c002:a020",
+        "s-1d03230af172-c002:a021",
+        "s-1d03230af172-c002:a022"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "专注力",
+      "when": "负面情绪如病毒般传染，影响家庭情感卫生",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c002:a017",
+        "s-1d03230af172-c002:r004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "内在能力",
+      "when": "父亲权威与后果管理，需要给出明确后果并亲自执行",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c003:a025",
+        "s-1d03230af172-c003:r002",
+        "s-1d03230af172-c004:a001",
+        "s-1d03230af172-c004:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "建立亲子关系的方法，住校需考虑亲子关系建立程度",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c004:a004",
+        "s-1d03230af172-c004:a005",
+        "s-1d03230af172-c004:a006",
+        "s-1d03230af172-c004:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "依赖与失控",
+      "to": "专注力",
+      "when": "游戏成瘾干预，通过替代活动、进入孩子游戏世界等方式",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c003:a019",
+        "s-1d03230af172-c003:a020",
+        "s-1d03230af172-c003:r001",
+        "s-1d03230af172-c004:a012",
+        "s-1d03230af172-c004:a013"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我修养",
+      "when": "情绪管理与快乐，妈妈快乐是保护家庭快乐的最大捷径",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c003:a021",
+        "s-1d03230af172-c004:a015",
+        "s-1d03230af172-c004:a016",
+        "s-1d03230af172-c004:a017",
+        "s-1d03230af172-c004:a018",
+        "s-1d03230af172-c004:xe004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "内在能力",
+      "to": "阶段与角色",
+      "when": "帮助青少年重建自信，通过小成功体验",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c004:a020",
+        "s-1d03230af172-c004:r002",
+        "s-1d03230af172-c004:xe007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "学习责任归属，通过家庭会议让孩子承担学习责任",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c004:a021",
+        "s-1d03230af172-c005:a001",
+        "s-1d03230af172-c005:r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "阶段与角色",
+      "when": "直升机家长导致孩子不承担后果，应让孩子从小承担后果",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1d03230af172-c004:r003",
+        "s-1d03230af172-c005:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-1d03230af172-c001:a002"
+      ],
+      "reason": "内容完全相同，都是夫妻教育分歧的解决流程。"
+    },
+    {
+      "atom_ids": [
+        "s-1d03230af172-c001:a024"
+      ],
+      "reason": "内容完全相同，都是父亲参与孩子教育付出代价。"
+    },
+    {
+      "atom_ids": [
+        "s-1d03230af172-c001:a025"
+      ],
+      "reason": "内容完全相同，都是社会压力与母亲反对。"
+    },
+    {
+      "atom_ids": [
+        "s-1d03230af172-c001:a026"
+      ],
+      "reason": "内容完全相同，都是出差时电话陪伴孩子。"
+    },
+    {
+      "atom_ids": [
+        "s-1d03230af172-c001:a034"
+      ],
+      "reason": "内容完全相同，都是应酬压力与季节性调配。"
+    },
+    {
+      "atom_ids": [
+        "s-1d03230af172-c001:a035"
+      ],
+      "reason": "内容完全相同，都是选择工作以平衡家庭。"
+    },
+    {
+      "atom_ids": [
+        "s-1d03230af172-c002:a023"
+      ],
+      "reason": "内容几乎相同，都是父母不相爱导致孩子身份危机。"
+    },
+    {
+      "atom_ids": [
+        "s-1d03230af172-c003:a019",
+        "s-1d03230af172-c003:r001"
+      ],
+      "reason": "内容相同，都是通过游戏进入孩子世界。"
+    },
+    {
+      "atom_ids": [
+        "s-1d03230af172-c003:a020"
+      ],
+      "reason": "内容相同，都是线下游戏时间多于线上。"
+    },
+    {
+      "atom_ids": [
+        "s-1d03230af172-c004:a009",
+        "s-1d03230af172-c004:xe001"
+      ],
+      "reason": "内容相同，都是家庭财务规划循环。"
+    },
+    {
+      "atom_ids": [
+        "s-1d03230af172-c004:a020",
+        "s-1d03230af172-c004:r002",
+        "s-1d03230af172-c004:xe007"
+      ],
+      "reason": "内容相同，都是帮助青少年重建自信。"
+    },
+    {
+      "atom_ids": [
+        "s-1d03230af172-c004:r003",
+        "s-1d03230af172-c005:a002"
+      ],
+      "reason": "内容相同，都是直升机家长导致孩子不承担后果。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-1d03230af172-c001:a004",
+        "s-1d03230af172-c001:a006"
+      ],
+      "description": "k00004 强调婚姻冲突中退一步海阔天空，先谦卑认错；k00006 指出怒气冲突时人们常常忘记谦卑原则，导致冲突升级。两者并不矛盾，但 k00006 揭示了谦卑原则在情绪激动时难以实践，需要额外机制。",
+      "needed_evidence": "如何在怒气中有效实践谦卑原则的具体方法或案例。"
+    },
+    {
+      "atom_ids": [
+        "s-1d03230af172-c001:a014",
+        "s-1d03230af172-c001:a015"
+      ],
+      "description": "k00014 认为夫妻互补（严格与宽松）是健康平衡；k00015 指出很多夫妻不喜欢互补，认为自己的方法对，导致冲突。两者并不矛盾，但互补的“度”如何把握是关键。",
+      "needed_evidence": "如何把握互补的度，避免冲突的具体策略。"
+    },
+    {
+      "atom_ids": [
+        "s-1d03230af172-c002:a019",
+        "s-1d03230af172-c002:a020"
+      ],
+      "description": "k00060 声称孩子自信和自尊问题99%来自父母婚姻问题，k00061 强调婚姻安全感对孩子学习的影响。两者都强调婚姻的重要性，但“99%”是夸张说法，可能忽略其他因素。",
+      "needed_evidence": "父母婚姻问题对孩子自信自尊影响的实证研究，以及其他可能因素。"
+    },
+    {
+      "atom_ids": [
+        "s-1d03230af172-c002:a013",
+        "s-1d03230af172-c002:a014"
+      ],
+      "description": "k00054 将男性外遇归因于在家得不到尊重和温柔，k00055 是男性在外寻求尊重的案例。这种归因可能简化复杂婚姻问题，忽略其他因素。",
+      "needed_evidence": "外遇的多因素分析，以及尊重缺失在其中的实际作用。"
+    },
+    {
+      "atom_ids": [
+        "s-1d03230af172-c004:a001",
+        "s-1d03230af172-c004:a002"
+      ],
+      "description": "k00108 建议父亲给出明确后果并亲自执行处罚，k00109 强调父亲必须说话算话。但处罚方式需谨慎，避免体罚或过度惩罚，原文未提供具体界限。",
+      "needed_evidence": "适当处罚的界限和替代方法。"
+    }
+  ],
+  "path": [
+    {
+      "name": "夫妻共同养育孩子的核心流程",
+      "steps": [
+        {
+          "action": "夫妻在教育孩子问题上产生分歧时，先商量",
+          "atom_ids": [
+            "s-1d03230af172-c001:a001",
+            "s-1d03230af172-c001:a002"
+          ],
+          "condition": "教育分歧不是非黑即白"
+        },
+        {
+          "action": "参考书籍，请教导师",
+          "atom_ids": [
+            "s-1d03230af172-c001:a002"
+          ],
+          "condition": "需要外部建议"
+        },
+        {
+          "action": "根据建议进行实验，观察是否适合家庭情况",
+          "atom_ids": [
+            "s-1d03230af172-c001:a002",
+            "s-1d03230af172-c001:a003"
+          ],
+          "condition": "专家建议未必适合每个家庭"
+        },
+        {
+          "action": "不断摸索调整",
+          "atom_ids": [
+            "s-1d03230af172-c001:a002"
+          ],
+          "condition": "持续改进"
+        },
+        {
+          "action": "在冲突中实践谦卑原则，先认错、放下自己",
+          "atom_ids": [
+            "s-1d03230af172-c001:a004",
+            "s-1d03230af172-c001:a005"
+          ],
+          "condition": "婚姻冲突时"
+        },
+        {
+          "action": "丈夫多包容，妻子退后制造空间",
+          "atom_ids": [
+            "s-1d03230af172-c001:a007",
+            "s-1d03230af172-c001:a029"
+          ],
+          "condition": "夫妻角色互补"
+        },
+        {
+          "action": "父亲刻意决定参与孩子教育，管理时间",
+          "atom_ids": [
+            "s-1d03230af172-c001:a021",
+            "s-1d03230af172-c001:a022",
+            "s-1d03230af172-c001:a023",
+            "s-1d03230af172-c001:a026",
+            "s-1d03230af172-c001:a030",
+            "s-1d03230af172-c001:a031"
+          ],
+          "condition": "父亲参与"
+        },
+        {
+          "action": "妈妈避免完美主义，肯定丈夫",
+          "atom_ids": [
+            "s-1d03230af172-c001:a028",
+            "s-1d03230af172-c001:a029"
+          ],
+          "condition": "妈妈支持"
+        },
+        {
+          "action": "建立婚姻健康，为孩子提供安全感",
+          "atom_ids": [
+            "s-1d03230af172-c002:a015",
+            "s-1d03230af172-c002:a020",
+            "s-1d03230af172-c002:a021"
+          ],
+          "condition": "婚姻是育儿根本"
+        },
+        {
+          "action": "通过家庭会议让孩子承担学习责任",
+          "atom_ids": [
+            "s-1d03230af172-c004:a021",
+            "s-1d03230af172-c005:a001",
+            "s-1d03230af172-c005:r001"
+          ],
+          "condition": "学习问题"
+        },
+        {
+          "action": "帮助孩子重建自信，通过小成功体验",
+          "atom_ids": [
+            "s-1d03230af172-c004:a020",
+            "s-1d03230af172-c004:r002",
+            "s-1d03230af172-c004:xe007"
+          ],
+          "condition": "孩子缺乏自信"
+        },
+        {
+          "action": "干预游戏成瘾，通过替代活动和进入孩子世界",
+          "atom_ids": [
+            "s-1d03230af172-c003:a019",
+            "s-1d03230af172-c003:a020",
+            "s-1d03230af172-c003:r001",
+            "s-1d03230af172-c004:a012",
+            "s-1d03230af172-c004:a013"
+          ],
+          "condition": "游戏成瘾"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "a3649071d9337a2eb8863ddc567524fc0028deaa5d1421eb24ba4e640ede2add",
+  "point_units": [
+    {
+      "id": "s-1d03230af172-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c001:a001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c001:a002"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u003",
+      "kind": "condition",
+      "atom_ids": [
+        "s-1d03230af172-c001:a003"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c001:a004"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u005",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-1d03230af172-c001:a005"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u006",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1d03230af172-c001:a006"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-1d03230af172-c001:a007"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c001:a008"
+      ],
+      "blocks": [
+        "b00003",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u009",
+      "kind": "definition",
+      "atom_ids": [
+        "s-1d03230af172-c001:a009"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c001:a010"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1d03230af172-c001:a011"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u012",
+      "kind": "definition",
+      "atom_ids": [
+        "s-1d03230af172-c001:a012"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u013",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1d03230af172-c001:a013"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u014",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-1d03230af172-c001:a014"
+      ],
+      "blocks": [
+        "b00016",
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u015",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-1d03230af172-c001:a015"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u016",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1d03230af172-c001:a016"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c001:a017"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u018",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-1d03230af172-c001:a018"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u019",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-1d03230af172-c001:a019"
+      ],
+      "blocks": [
+        "b00024",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c001:a020"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u021",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c001:a021"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u022",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c001:a022"
+      ],
+      "blocks": [
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u023",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c001:a023"
+      ],
+      "blocks": [
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u024",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1d03230af172-c001:a024"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u025",
+      "kind": "condition",
+      "atom_ids": [
+        "s-1d03230af172-c001:a025"
+      ],
+      "blocks": [
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u026",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c001:a026"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u027",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-1d03230af172-c001:a027"
+      ],
+      "blocks": [
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u028",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1d03230af172-c001:a028"
+      ],
+      "blocks": [
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u029",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c001:a029"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u030",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c001:a030"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u031",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c001:a031"
+      ],
+      "blocks": [
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u032",
+      "kind": "condition",
+      "atom_ids": [
+        "s-1d03230af172-c001:a032"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u033",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c001:a033"
+      ],
+      "blocks": [
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c001:u034",
+      "kind": "condition",
+      "atom_ids": [
+        "s-1d03230af172-c001:a034"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c001:a034",
+        "s-1d03230af172-c001:a035",
+        "s-1d03230af172-c002:a001"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c002:r001"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c002:a002"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c002:a003"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c002:a004"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c002:a005"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c002:a006"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c002:a007"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c002:a008"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c002:a009"
+      ],
+      "blocks": [
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c002:xe001"
+      ],
+      "blocks": [
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c002:a010"
+      ],
+      "blocks": [
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c002:a011"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c002:a012",
+        "s-1d03230af172-c002:r002"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c002:xe002"
+      ],
+      "blocks": [
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c002:xe003"
+      ],
+      "blocks": [
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c002:xe004"
+      ],
+      "blocks": [
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u018",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1d03230af172-c002:a013",
+        "s-1d03230af172-c002:a014"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u019",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1d03230af172-c002:a015",
+        "s-1d03230af172-c002:a016",
+        "s-1d03230af172-c002:r003"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u020",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c002:a017",
+        "s-1d03230af172-c002:r004"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u021",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1d03230af172-c002:a018",
+        "s-1d03230af172-c002:r005"
+      ],
+      "blocks": [
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u022",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1d03230af172-c002:a019"
+      ],
+      "blocks": [
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u023",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1d03230af172-c002:a020",
+        "s-1d03230af172-c002:r006"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c002:a021"
+      ],
+      "blocks": [
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u025",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1d03230af172-c002:a022"
+      ],
+      "blocks": [
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c002:u026",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1d03230af172-c002:a023"
+      ],
+      "blocks": [
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c003:a001"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c003:a002"
+      ],
+      "blocks": [
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0005",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c003:xe001"
+      ],
+      "blocks": [
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c003:xe002"
+      ],
+      "blocks": [
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c003:a003"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0008",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c003:a004"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c003:a005"
+      ],
+      "blocks": [
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c003:a006"
+      ],
+      "blocks": [
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c003:a007"
+      ],
+      "blocks": [
+        "b00089",
+        "b00090",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0012",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c003:a008"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c003:a009"
+      ],
+      "blocks": [
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c003:a010"
+      ],
+      "blocks": [
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c003:a011"
+      ],
+      "blocks": [
+        "b00095",
+        "b00096",
+        "b00097"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0016",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c003:a012"
+      ],
+      "blocks": [
+        "b00096",
+        "b00097"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c003:a013"
+      ],
+      "blocks": [
+        "b00098",
+        "b00099"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0018",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c003:a014"
+      ],
+      "blocks": [
+        "b00099",
+        "b00100"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0019",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c003:a015"
+      ],
+      "blocks": [
+        "b00100",
+        "b00101",
+        "b00102"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0020",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c003:a016"
+      ],
+      "blocks": [
+        "b00101",
+        "b00102",
+        "b00103"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c003:a017"
+      ],
+      "blocks": [
+        "b00103",
+        "b00104",
+        "b00105"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0022",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c003:a018"
+      ],
+      "blocks": [
+        "b00104",
+        "b00105",
+        "b00106"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0023",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c003:a019",
+        "s-1d03230af172-c003:r001"
+      ],
+      "blocks": [
+        "b00106",
+        "b00107"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0024",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c003:a020"
+      ],
+      "blocks": [
+        "b00107",
+        "b00108"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0025",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c003:xe004"
+      ],
+      "blocks": [
+        "b00109",
+        "b00110"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c003:a021"
+      ],
+      "blocks": [
+        "b00111"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0027",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c003:a022"
+      ],
+      "blocks": [
+        "b00112",
+        "b00113",
+        "b00114"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c003:v2-n003"
+      ],
+      "blocks": [
+        "b00114"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0029",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c003:a023"
+      ],
+      "blocks": [
+        "b00115"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c003:xe005"
+      ],
+      "blocks": [
+        "b00116"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0031",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c003:a024"
+      ],
+      "blocks": [
+        "b00117",
+        "b00118"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c003:u0032",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c003:a025",
+        "s-1d03230af172-c003:r002"
+      ],
+      "blocks": [
+        "b00118",
+        "b00119",
+        "b00120"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u1",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c004:a001"
+      ],
+      "blocks": [
+        "b00119",
+        "b00120"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u2",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c004:a002"
+      ],
+      "blocks": [
+        "b00121",
+        "b00122"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u3",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c004:a003"
+      ],
+      "blocks": [
+        "b00122"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u4",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c004:a004"
+      ],
+      "blocks": [
+        "b00123"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u5",
+      "kind": "condition",
+      "atom_ids": [
+        "s-1d03230af172-c004:a005"
+      ],
+      "blocks": [
+        "b00124"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u6",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c004:a006"
+      ],
+      "blocks": [
+        "b00124",
+        "b00125"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u7",
+      "kind": "condition",
+      "atom_ids": [
+        "s-1d03230af172-c004:a007"
+      ],
+      "blocks": [
+        "b00126",
+        "b00127"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u8",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c004:a008"
+      ],
+      "blocks": [
+        "b00128",
+        "b00129"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u9",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c004:a009",
+        "s-1d03230af172-c004:xe001"
+      ],
+      "blocks": [
+        "b00131",
+        "b00133"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u10",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c004:a010"
+      ],
+      "blocks": [
+        "b00133",
+        "b00134"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u11",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c004:a011"
+      ],
+      "blocks": [
+        "b00131",
+        "b00132"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u12",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c004:a014"
+      ],
+      "blocks": [
+        "b00141",
+        "b00142"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u13",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c004:a015"
+      ],
+      "blocks": [
+        "b00143",
+        "b00144"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u14",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-1d03230af172-c004:a016"
+      ],
+      "blocks": [
+        "b00146",
+        "b00147"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u15",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c004:a017"
+      ],
+      "blocks": [
+        "b00147",
+        "b00148"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u16",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c004:a018"
+      ],
+      "blocks": [
+        "b00148",
+        "b00149"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u17",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c004:xe002"
+      ],
+      "blocks": [
+        "b00135"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u18",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c004:r001"
+      ],
+      "blocks": [
+        "b00136",
+        "b00137"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u19",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c004:a012",
+        "s-1d03230af172-c004:a013"
+      ],
+      "blocks": [
+        "b00138",
+        "b00139"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u20",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c004:xe003"
+      ],
+      "blocks": [
+        "b00140"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u21",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c004:a019",
+        "s-1d03230af172-c004:xe005"
+      ],
+      "blocks": [
+        "b00150",
+        "b00151",
+        "b00152"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u22",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c004:xe006"
+      ],
+      "blocks": [
+        "b00153"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u23",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c004:a020",
+        "s-1d03230af172-c004:r002",
+        "s-1d03230af172-c004:xe007"
+      ],
+      "blocks": [
+        "b00154",
+        "b00155"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u24",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c004:a021"
+      ],
+      "blocks": [
+        "b00156",
+        "b00157"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u25",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c004:r003"
+      ],
+      "blocks": [
+        "b00157",
+        "b00158"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u26",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c004:v2-n001"
+      ],
+      "blocks": [
+        "b00159"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u27",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c004:v2-n002"
+      ],
+      "blocks": [
+        "b00117",
+        "b00118"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c004:u28",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c004:xe004"
+      ],
+      "blocks": [
+        "b00145"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c005:unit_1",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c005:a001",
+        "s-1d03230af172-c005:r001"
+      ],
+      "blocks": [
+        "b00156",
+        "b00157"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c005:unit_2",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1d03230af172-c005:a002"
+      ],
+      "blocks": [
+        "b00158",
+        "b00159"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c005:unit_3",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1d03230af172-c005:a003"
+      ],
+      "blocks": [
+        "b00159",
+        "b00160"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c005:unit_4",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c005:a004"
+      ],
+      "blocks": [
+        "b00160",
+        "b00161"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c005:unit_5",
+      "kind": "case",
+      "atom_ids": [
+        "s-1d03230af172-c005:a005"
+      ],
+      "blocks": [
+        "b00161"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c005:unit_6",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c005:a006"
+      ],
+      "blocks": [
+        "b00162"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c005:unit_7",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c005:v2-n001"
+      ],
+      "blocks": [
+        "b00162"
+      ]
+    },
+    {
+      "id": "s-1d03230af172-c005:unit_8",
+      "kind": "method",
+      "atom_ids": [
+        "s-1d03230af172-c005:v2-n002"
+      ],
+      "blocks": [
+        "b00165"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "清除负面情绪后学习动力源于好奇心",
+      "atom_ids": [
+        "s-1d03230af172-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1d03230af172",
+          "blocks": [
+            "b00077"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "孩子可能不知道自己是安全的、被父母爱着",
+      "atom_ids": [
+        "s-1d03230af172-c003:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1d03230af172",
+          "blocks": [
+            "b00077"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "claim"
+    },
+    {
+      "title": "孩子需要父母双方与幸福婚姻基础",
+      "atom_ids": [
+        "s-1d03230af172-c003:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1d03230af172",
+          "blocks": [
+            "b00114"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "老二英语分数差需分析多种原因",
+      "atom_ids": [
+        "s-1d03230af172-c004:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1d03230af172",
+          "blocks": [
+            "b00159"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "五岁孩子只听妈妈不听爸爸",
+      "atom_ids": [
+        "s-1d03230af172-c004:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1d03230af172",
+          "blocks": [
+            "b00117",
+            "b00118"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "讨论分析过程可提升父母分析策略能力",
+      "atom_ids": [
+        "s-1d03230af172-c005:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1d03230af172",
+          "blocks": [
+            "b00162"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "温柔邀请配偶观看育儿回放",
+      "atom_ids": [
+        "s-1d03230af172-c005:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1d03230af172",
+          "blocks": [
+            "b00165"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

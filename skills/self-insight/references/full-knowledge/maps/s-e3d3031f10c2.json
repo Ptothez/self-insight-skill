@@ -1,0 +1,727 @@
+{
+  "concepts": [
+    {
+      "name": "管教障碍：不知道正确做法",
+      "definition": "家长缺乏正确管教的记忆或模式，只知道错误做法，导致被动不敢管教。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a001"
+      ]
+    },
+    {
+      "name": "家长因愤怒不敢管教",
+      "definition": "家长因极度愤怒怕说出伤害孩子的话而后悔，选择不行动。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a002"
+      ]
+    },
+    {
+      "name": "学习带来满足和底气",
+      "definition": "学习虽枯燥但带来真正满足和底气，优于短暂娱乐。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a003",
+        "s-e3d3031f10c2-c001:a004"
+      ]
+    },
+    {
+      "name": "教育观不一致",
+      "definition": "配偶或长辈教育观不一致导致管教矛盾。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a005"
+      ]
+    },
+    {
+      "name": "谁学习谁说了算",
+      "definition": "管教原则：谁学习管教知识谁有决定权，不学习者不得干涉。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a006",
+        "s-e3d3031f10c2-c001:a012"
+      ]
+    },
+    {
+      "name": "值得吵的架",
+      "definition": "当配偶不学习却干涉育儿时，这种架值得吵，以维护界限。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a007"
+      ]
+    },
+    {
+      "name": "全家一起学习",
+      "definition": "邀请配偶或长辈一起听课，若不听则育儿由学习者决定。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a008"
+      ]
+    },
+    {
+      "name": "借助专业老师说服家人",
+      "definition": "利用专业老师背景说服家人接受管教方法。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a010",
+        "s-e3d3031f10c2-c001:r001"
+      ]
+    },
+    {
+      "name": "老一代育儿观念",
+      "definition": "老一代认为不学习也能养大孩子，需智慧立界限。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a011"
+      ]
+    },
+    {
+      "name": "婚姻不和谐导致反对",
+      "definition": "婚姻不和谐可能导致配偶反对管教，需解决婚姻问题。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a013",
+        "s-e3d3031f10c2-c001:a014"
+      ]
+    },
+    {
+      "name": "父母帮忙带孩子的困境",
+      "definition": "依赖祖辈带孩子导致难以立界限，需付出代价独立。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a015",
+        "s-e3d3031f10c2-c001:a016",
+        "s-e3d3031f10c2-c001:a018"
+      ]
+    },
+    {
+      "name": "父母尊重时的理想状态",
+      "definition": "父母尊重子女时，可告知学习内容并共同执行。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a017"
+      ]
+    },
+    {
+      "name": "挪走障碍需要付出代价",
+      "definition": "排除管教障碍需付出代价，如吵架、请父母走等。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a019"
+      ]
+    },
+    {
+      "name": "尽量说服家人配合",
+      "definition": "先说服家人配合，若不行则立界限排除障碍。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a020"
+      ]
+    },
+    {
+      "name": "孩子扇母亲耳光案例",
+      "definition": "孩子不尊重母亲源于外婆强势，母亲依赖外婆不敢立界限。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a021",
+        "s-e3d3031f10c2-c001:a022"
+      ]
+    },
+    {
+      "name": "建议父母搬出去住",
+      "definition": "通过物理界限让父母搬出，恢复孩子对母亲的尊重。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a023",
+        "s-e3d3031f10c2-c001:a024",
+        "s-e3d3031f10c2-c001:a025"
+      ]
+    },
+    {
+      "name": "不抓狂的管教",
+      "definition": "有底气地面对育儿，不追求绝对不抓狂。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a026"
+      ]
+    },
+    {
+      "name": "下一课程：不上瘾的孩子",
+      "definition": "预防孩子电子产品上瘾。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a027"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-e3d3031f10c2-c001:a001",
+      "target": "s-e3d3031f10c2-c001:a003",
+      "kind": "supports",
+      "condition": "学习管教知识可解决不知道正确做法的问题",
+      "reason": "a001指出家长缺乏正确管教知识，a003说明学习能带来底气，暗示学习可弥补知识缺乏。"
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a005",
+      "target": "s-e3d3031f10c2-c001:a006",
+      "kind": "causes",
+      "condition": "教育观不一致时需确立谁学习谁说了算",
+      "reason": "a005指出教育观不一致是障碍，a006提出解决原则，因此a005导致需要a006。"
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a006",
+      "target": "s-e3d3031f10c2-c001:a007",
+      "kind": "supports",
+      "condition": "当配偶不学习却干涉时，值得吵架",
+      "reason": "a006建议找配偶麻烦，a007进一步说明这种架值得吵，支持a006的行动。"
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a006",
+      "target": "s-e3d3031f10c2-c001:a008",
+      "kind": "supports",
+      "condition": "若配偶愿意学习，可一起听课",
+      "reason": "a006提到可以听课一起讨论，a008具体化邀请家人一起听课的方法。"
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a010",
+      "target": "s-e3d3031f10c2-c001:a006",
+      "kind": "supports",
+      "condition": "家人质疑专业性时，用专业老师说服",
+      "reason": "a010提供说服家人的方法，支持a006中让配偶学习的建议。"
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a011",
+      "target": "s-e3d3031f10c2-c001:a012",
+      "kind": "causes",
+      "condition": "老一代观念需要立界限",
+      "reason": "a011指出老一代观念问题，a012提出立界限原则，因此a011导致需要a012。"
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a013",
+      "target": "s-e3d3031f10c2-c001:a014",
+      "kind": "causes",
+      "condition": "婚姻不和谐导致反对，需解决婚姻问题",
+      "reason": "a013指出婚姻不和谐导致反对，a014提出解决婚姻问题，因此a013导致需要a014。"
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a015",
+      "target": "s-e3d3031f10c2-c001:a016",
+      "kind": "causes",
+      "condition": "依赖父母带孩子导致无法立界限",
+      "reason": "a015指出父母带孩子沟通困难，a016说明离不开父母就不能立界限，因此a015导致a016的结论。"
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a016",
+      "target": "s-e3d3031f10c2-c001:a018",
+      "kind": "supports",
+      "condition": "立界限前提是能离开父母",
+      "reason": "a016强调离不开父母不能立界限，a018进一步说明立界限前提是能离开他们，支持a016。"
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a017",
+      "target": "s-e3d3031f10c2-c001:a018",
+      "kind": "contrasts",
+      "condition": "父母尊重与不尊重时的不同处理",
+      "reason": "a017描述父母尊重时的理想状态，a018描述不尊重时必须立界限，形成对比。"
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a019",
+      "target": "s-e3d3031f10c2-c001:a020",
+      "kind": "supports",
+      "condition": "排除障碍需付出代价，但值得",
+      "reason": "a019说明付出代价值得，a020建议拿出界限排除障碍，支持a019的行动。"
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a021",
+      "target": "s-e3d3031f10c2-c001:a022",
+      "kind": "example_of",
+      "condition": "外婆强势导致孩子不尊重母亲",
+      "reason": "案例中孩子扇母亲耳光、外婆强势，是“孩子不尊重母亲的原因”这一解释所描述情形的具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原causes改为example_of，源案例例证目标解释"
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a022",
+      "target": "s-e3d3031f10c2-c001:a023",
+      "kind": "causes",
+      "condition": "孩子不尊重母亲源于外婆强势，建议父母搬出",
+      "reason": "a022指出孩子不尊重母亲的原因，a023建议让父母搬出去，因此a022导致a023的建议。"
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a023",
+      "target": "s-e3d3031f10c2-c001:a024",
+      "kind": "example_of",
+      "condition": "客人执行建议，让父母搬走",
+      "reason": "a023是建议，a024是客人执行建议的案例，因此a024是a023的实例。"
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a024",
+      "target": "s-e3d3031f10c2-c001:a025",
+      "kind": "causes",
+      "condition": "立界限后孩子变顺",
+      "reason": "a024描述客人立界限行动，a025说明孩子变顺，因此a024导致a025。"
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a003",
+      "target": "s-e3d3031f10c2-c001:a026",
+      "kind": "supports",
+      "condition": "学习带来底气，支持不抓狂管教",
+      "reason": "学习带来满足和底气为不抓狂的管教提供心理基础：心里有数、有谱、有底气才能不抓狂。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e3d3031f10c2-c001:a010",
+      "target": "s-e3d3031f10c2-c001:r001",
+      "kind": "duplicate",
+      "condition": "内容完全相同",
+      "reason": "a010和r001内容一致，是重复记录。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "当家长因缺乏正确管教知识而不敢管教时，通过学习获得底气，进而立界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a001",
+        "s-e3d3031f10c2-c001:a003",
+        "s-e3d3031f10c2-c001:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-e3d3031f10c2-c001:a006",
+          "limits": [
+            "需要勇气与配偶对峙"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "家长因愤怒不敢管教时，需先处理情绪，再立界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a002",
+        "s-e3d3031f10c2-c001:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-e3d3031f10c2-c001:a006",
+          "limits": [
+            "需要勇气与配偶对峙"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "学习带来底气，支持家长立界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a003",
+        "s-e3d3031f10c2-c001:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-e3d3031f10c2-c001:a006",
+          "limits": [
+            "需要勇气与配偶对峙"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a010",
+        "s-e3d3031f10c2-c001:r001"
+      ],
+      "reason": "两条记录内容完全相同，均为用专业老师背景说服家人。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a006",
+        "s-e3d3031f10c2-c001:a020"
+      ],
+      "description": "a006建议直接找配偶麻烦并吵架，a020建议尽量用道理说服，两者在应对不配合家人时策略有冲突。",
+      "needed_evidence": "需要明确在何种情况下应优先选择吵架还是说服，以及不同策略的适用条件。"
+    },
+    {
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a016",
+        "s-e3d3031f10c2-c001:a019"
+      ],
+      "description": "a016强调离不开父母就不能立界限，a019则说付出代价（如请父母走）是值得的，但未说明如何平衡依赖与代价。",
+      "needed_evidence": "需要具体指导在依赖父母带孩子的情况下如何逐步实现独立并立界限。"
+    }
+  ],
+  "path": [
+    {
+      "name": "排除管教障碍的步骤",
+      "steps": [
+        {
+          "action": "学习管教知识，获得底气",
+          "atom_ids": [
+            "s-e3d3031f10c2-c001:a003",
+            "s-e3d3031f10c2-c001:a004"
+          ],
+          "condition": "适用于所有家长"
+        },
+        {
+          "action": "识别管教障碍（如教育观不一致、婚姻问题、依赖父母等）",
+          "atom_ids": [
+            "s-e3d3031f10c2-c001:a005",
+            "s-e3d3031f10c2-c001:a013",
+            "s-e3d3031f10c2-c001:a015"
+          ],
+          "condition": "根据家庭具体情况"
+        },
+        {
+          "action": "尝试说服家人配合（包括邀请一起学习、借助专业老师）",
+          "atom_ids": [
+            "s-e3d3031f10c2-c001:a008",
+            "s-e3d3031f10c2-c001:a010",
+            "s-e3d3031f10c2-c001:a020"
+          ],
+          "condition": "家人愿意沟通时"
+        },
+        {
+          "action": "若家人不配合，立界限（谁学习谁说了算，必要时吵架或物理隔离）",
+          "atom_ids": [
+            "s-e3d3031f10c2-c001:a006",
+            "s-e3d3031f10c2-c001:a007",
+            "s-e3d3031f10c2-c001:a012",
+            "s-e3d3031f10c2-c001:a023"
+          ],
+          "condition": "家人不尊重或不学习时"
+        },
+        {
+          "action": "付出代价排除障碍（如请父母搬出、调整工作等）",
+          "atom_ids": [
+            "s-e3d3031f10c2-c001:a019",
+            "s-e3d3031f10c2-c001:a024"
+          ],
+          "condition": "需要物理或经济独立时"
+        },
+        {
+          "action": "实现不抓狂的管教，孩子变顺",
+          "atom_ids": [
+            "s-e3d3031f10c2-c001:a025",
+            "s-e3d3031f10c2-c001:a026"
+          ],
+          "condition": "成功立界限后"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-e3d3031f10c2-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a001"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a003"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u004",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a004"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a005"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a006"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a007"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a008"
+      ],
+      "blocks": [
+        "b00012",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a009"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a010"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u011",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a011"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a012"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u013",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a013"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a014"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u015",
+      "kind": "condition",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a015"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u016",
+      "kind": "condition",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a016"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u017",
+      "kind": "condition",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a017"
+      ],
+      "blocks": [
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u018",
+      "kind": "condition",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a018"
+      ],
+      "blocks": [
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u019",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a019"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a020"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u021",
+      "kind": "case",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a021"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u022",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a022"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u023",
+      "kind": "method",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a023"
+      ],
+      "blocks": [
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u024",
+      "kind": "case",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a024"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u025",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a025"
+      ],
+      "blocks": [
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u026",
+      "kind": "definition",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a026"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-e3d3031f10c2-c001:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e3d3031f10c2-c001:a027"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

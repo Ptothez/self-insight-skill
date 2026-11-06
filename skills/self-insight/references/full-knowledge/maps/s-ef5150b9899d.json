@@ -1,0 +1,2411 @@
+{
+  "concepts": [
+    {
+      "name": "上瘾的本质是情绪需要",
+      "definition": "上瘾行为是现象，本质是背后的情绪需要。孩子通过上瘾物质来满足情绪需要，当情绪需要以其他途径得到满足时，上瘾问题会逐渐消失。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a001"
+      ]
+    },
+    {
+      "name": "共情",
+      "definition": "共情是指进入他人的情绪世界，体谅和感受他人的情绪，例如能感受到他人的悲痛。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a002"
+      ]
+    },
+    {
+      "name": "上瘾者无法共情",
+      "definition": "上瘾的人普遍无法共情，表现为对他人情绪无动于衷，例如网络成瘾者殴打母亲后对母亲的哭泣毫不在意。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a003"
+      ]
+    },
+    {
+      "name": "上瘾改变大脑组织导致共情困难",
+      "definition": "上瘾（包括网络、色情、电子游戏上瘾）会改变大脑组织，与毒品、酒精对大脑的改变相似，这种改变导致上瘾者难以共情。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a005"
+      ]
+    },
+    {
+      "name": "上瘾者情绪烦躁不安",
+      "definition": "上瘾者情绪烦躁不安，喜怒无常，缺乏忍耐性，容易因小事爆发，情绪转换快速。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a006",
+        "s-ef5150b9899d-c001:r001"
+      ]
+    },
+    {
+      "name": "上瘾与抑郁焦虑的恶性循环",
+      "definition": "上瘾者普遍有抑郁症或焦虑症。抑郁焦虑与上瘾相互影响，形成恶性循环：先有抑郁焦虑，未得到专业帮助，通过上瘾发泄情绪，但上瘾导致情绪更低落，加剧抑郁焦虑。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a007"
+      ]
+    },
+    {
+      "name": "上瘾者内心悲伤",
+      "definition": "上瘾者普遍内心极度悲伤，即使外表看起来很好，如事业成功、地位高，但内心难过。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a008",
+        "s-ef5150b9899d-c001:r002"
+      ]
+    },
+    {
+      "name": "上瘾是对痛苦的逃避",
+      "definition": "任何形式的上瘾都是对痛苦的一种逃避。与其问为什么上瘾，不如问为什么痛苦，因为上瘾是行为层，痛苦是根源。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a009"
+      ]
+    },
+    {
+      "name": "大脑的理性脑与边缘脑",
+      "definition": "大脑像拳头，手指部分代表理性脑，具有意志力、智慧、语言能力，是灵长类特有。内部是边缘脑，负责战斗、逃跑或冻结反应，是大脑的恐慌按钮。当边缘脑过载时，理性脑会离线，血液流向边缘脑以应对恐慌，导致理性决策失效。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a010",
+        "s-ef5150b9899d-c001:r003",
+        "s-ef5150b9899d-c001:r004"
+      ]
+    },
+    {
+      "name": "关注痛苦根源而非行为",
+      "definition": "许多父母只关心孩子为什么上瘾和如何解决上瘾行为，而不关心孩子为什么痛苦。他们愿意花钱送孩子去戒毒所、戒网所强制处理行为，却不愿花钱让孩子接受专业心理辅导解决根源。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a011"
+      ]
+    },
+    {
+      "name": "父母不愿面对自身原因",
+      "definition": "父母不愿承认自己的原因，喜欢归咎于孩子不听话。因为探究孩子痛苦根源会追溯到父母，所以父母回避，只处理行为问题。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a012",
+        "s-ef5150b9899d-c001:r005"
+      ]
+    },
+    {
+      "name": "父母参与是破解上瘾的必要条件",
+      "definition": "破解孩子上瘾需要父母参与，如果父母不改变育儿模式，继续用同样方式对待孩子，孩子的上瘾行为只会加深。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a013",
+        "s-ef5150b9899d-c001:r006"
+      ]
+    },
+    {
+      "name": "解决上瘾需先承认痛苦",
+      "definition": "家长首先要愿意承认自己给孩子造成的痛苦，不能否认。如果不承认，就无法改变。类似生病就医，不承认病因，只治标不治本，问题会复发或转为其他上瘾。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a017",
+        "s-ef5150b9899d-c001:r007"
+      ]
+    },
+    {
+      "name": "情绪失联",
+      "definition": "情绪失联是指父母与孩子之间缺乏情绪连接，父母不关心孩子的情绪健康，只关注衣食住行和学习。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a018"
+      ]
+    },
+    {
+      "name": "父母自身缺乏情绪连接导致情绪失联",
+      "definition": "中国家长因自身从父辈那里缺乏情绪连接，不懂情绪连接，导致不知道孩子需要什么，不关心孩子情绪健康。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a019"
+      ]
+    },
+    {
+      "name": "改变情绪与连接情绪的区别",
+      "definition": "父母常问孩子“我可以怎么让你开心”，这是想改变孩子的情绪，而不是连接情绪。连接情绪是进入孩子的不开心，例如说“你现在听起来很不开心，我可以知道让你不开心的是什么吗？”",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a020"
+      ]
+    },
+    {
+      "name": "连接孩子情绪的方法",
+      "definition": "连接孩子情绪的方法是：跟孩子讲“你现在听起来很不开心，我可以知道让你不开心的是什么吗？”，进入孩子的不开心，允许孩子有负面情绪，不急于让孩子开心。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a021"
+      ]
+    },
+    {
+      "name": "父母忙碌忽略孩子情绪需求",
+      "definition": "父母因忙碌忽略孩子的情绪需求，如被保护、被需要、被无条件接纳、被爱、有勇气、有力量、被信任等。孩子提出需求时，父母常以工作忙为由拒绝。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a022"
+      ]
+    },
+    {
+      "name": "多花一分钟满足孩子情绪需求",
+      "definition": "满足孩子情绪需求有时只需多花一分钟，尤其在孩子临界点时，多给一分钟时间，孩子可能自己平衡过来。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a023"
+      ]
+    },
+    {
+      "name": "父母情绪问题导致情绪失联",
+      "definition": "父母自身有情绪问题也会导致情绪失联，父母的情绪会传递给孩子，即使婴儿也能感受到。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a024"
+      ]
+    },
+    {
+      "name": "婴儿受父母情绪影响",
+      "definition": "两个月大的婴儿就能从妈妈的情绪中感受到焦虑、压力、恐惧，父母情绪会深深影响孩子大脑。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a026",
+        "s-ef5150b9899d-c002:a001"
+      ]
+    },
+    {
+      "name": "早期情绪影响导致成年后上瘾",
+      "definition": "在战乱等压力环境下长大的孩子，即使后来环境改善，成年后仍可能酗酒、上瘾，因为早期情绪影响深远。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a027",
+        "s-ef5150b9899d-c002:a002"
+      ]
+    },
+    {
+      "name": "父母情绪对孩子影响重大",
+      "definition": "父母的情绪对孩子有非常大的影响，父母焦虑并可能将情绪发泄到孩子身上。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a003"
+      ]
+    },
+    {
+      "name": "建议父母接受专业心理辅导",
+      "definition": "如果父母发现自己每天都很焦虑，并可能将焦虑情绪发泄到孩子身上，建议接受专业心理辅导。接受心理辅导不是羞耻的事情，越来越多的人特别是受过高等教育的人意识到这是健康的行为。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a004"
+      ]
+    },
+    {
+      "name": "父母不高兴导致孩子认知为不被想要",
+      "definition": "从儿童心理学角度，如果父母在身边却每天都不高兴，孩子会认知为父母不想要自己。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a005"
+      ]
+    },
+    {
+      "name": "孩子对父母爱的认知比父母实际爱更重要",
+      "definition": "父母如何爱孩子不重要，重要的是孩子如何认知父母的爱。如果孩子认知到被爱，会健康；如果父母爱孩子但孩子不觉得被爱，孩子仍可能出现上瘾问题。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a006",
+        "s-ef5150b9899d-c002:r001"
+      ]
+    },
+    {
+      "name": "成年人理性知道父母爱但感性未感受到",
+      "definition": "在成人团体辅导中，许多成年人分享：理性上知道父母爱自己，但感性上没有感受到父母的爱。这些成年人在各个岗位上有出色表现，但仍有这种感受。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a007"
+      ]
+    },
+    {
+      "name": "三角关系链",
+      "definition": "三角关系链（triangulation）指孩子被卷入父母冲突，成为第三方，父母双方都向孩子说对方坏话或通过孩子攻击对方。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a008"
+      ]
+    },
+    {
+      "name": "三角关系链导致孩子痛苦并推向成瘾",
+      "definition": "父母让孩子在冲突中选边站，孩子承受无法承担的痛苦，这会把孩子推向上瘾。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a009"
+      ]
+    },
+    {
+      "name": "建议父母不将夫妻冲突带给孩子",
+      "definition": "即使夫妻关系不好，也不应让孩子承受夫妻双方的重担，不要在孩子面前说对方坏话或让孩子选边。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a010"
+      ]
+    },
+    {
+      "name": "缺乏肯定导致孤独感",
+      "definition": "在中国家庭中，许多父母认为不应表扬或肯定孩子，以免骄傲。但缺乏肯定会让孩子感到孤独，因为肯定能带来安全感和归属感。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a011"
+      ]
+    },
+    {
+      "name": "缺乏肯定导致孩子孤独感",
+      "definition": "如果孩子长时间得不到肯定，会感到孤独，并可能发出“我是不是你亲生的”等问题，表明情绪受到伤害。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a012"
+      ]
+    },
+    {
+      "name": "上瘾者100%有孤独感",
+      "definition": "上瘾的人100%有孤独感，即使外表繁忙或成功，孤独感无法欺骗自己。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a013"
+      ]
+    },
+    {
+      "name": "明星和成功人士吸毒源于孤独感",
+      "definition": "明星和成功企业家虽然被众人围绕，但仍可能吸毒或酗酒，因为内心有孤独感。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a014"
+      ]
+    },
+    {
+      "name": "完美主义",
+      "definition": "完美主义是为自己设定不可能完成的目标，并且设定一个绝对会失败的目标，因为没有人可以完美。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a015"
+      ]
+    },
+    {
+      "name": "完美主义导致自我否定和成瘾风险",
+      "definition": "完美主义让人永远觉得自己不够好，无法肯定自己，这样的人容易缺乏安全感、孤独，也容易上瘾。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a016"
+      ]
+    },
+    {
+      "name": "建议无法自我肯定者接受心理辅导",
+      "definition": "如果发现自己停不下来，无法肯定自己，建议接受专业心理辅导。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a017"
+      ]
+    },
+    {
+      "name": "缺乏界限导致孩子没有安全感",
+      "definition": "父母之间、家庭之间、父母与孩子之间缺乏界限会让孩子没有安全感。界限就像房子的门，没有门就没有安全感。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a018"
+      ]
+    },
+    {
+      "name": "孩子无法捍卫界限导致痛苦",
+      "definition": "孩子因生存依赖父母，无法捍卫自己的界限。当隐私、尊重等需要被侵犯时，会陷入无能为力的痛苦。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a019"
+      ]
+    },
+    {
+      "name": "父母干涉孩子想法感受导致痛苦",
+      "definition": "父母一直告诉孩子该怎么想、怎么做、怎么感受，会让孩子非常痛苦。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a020"
+      ]
+    },
+    {
+      "name": "越界表现：不允许孩子有隐私",
+      "definition": "越界表现包括不允许孩子有隐私，如看日记、偷听电话、警告孩子的异性朋友等。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a021"
+      ]
+    },
+    {
+      "name": "越界表现：让孩子承担过大责任",
+      "definition": "越界有两种形式：越别人的界和越自己的界。让孩子承担比自己压力更大的责任是越自己的界，例如让哥哥承担看弟弟的责任。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a022"
+      ]
+    },
+    {
+      "name": "越界表现：对孩子有不切实际的要求",
+      "definition": "父母对孩子有不切实际的要求，如要求孩子像其他有天赋的孩子一样，会让孩子痛苦。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a023"
+      ]
+    },
+    {
+      "name": "越界表现：要求孩子对父母情绪负责",
+      "definition": "父母要求孩子对自己的情绪负责，如说“你让我生气”“你让我伤心”等，是越界表现。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a024"
+      ]
+    },
+    {
+      "name": "越界将孩子推向上瘾",
+      "definition": "越界会让孩子非常痛苦，无法承担，从而把孩子推向上瘾。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a025"
+      ]
+    },
+    {
+      "name": "建议学习界限课程",
+      "definition": "界限非常重要，建议学习建立健康家庭界限的课程。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a026"
+      ]
+    },
+    {
+      "name": "帮助孩子预防成瘾的方法概述",
+      "definition": "父母可以通过提高情绪自省力、帮助发现身体情绪信号、指认引发点等方法来帮助孩子预防或脱离成瘾。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a027"
+      ]
+    },
+    {
+      "name": "情绪自省力",
+      "definition": "情绪自省力是指一个人能够察觉自己的情绪，对自己的情绪非常敏感。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a028"
+      ]
+    },
+    {
+      "name": "情绪自省力差的表现",
+      "definition": "情绪自省力差的人对自己的情绪不敏感，即使生气也否认，但身体反应明显。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a029"
+      ]
+    },
+    {
+      "name": "情绪敏感有助于控制行为",
+      "definition": "对自己的情绪敏感的人会更加警醒，在情绪状态下所做的判断和选择更谨慎，从而更能控制自己的行为。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a030"
+      ]
+    },
+    {
+      "name": "提高孩子情绪自省力的方法：讨论情绪",
+      "definition": "父母应经常和孩子讨论情绪，如指出孩子看起来生气、沮丧，询问发生什么事，问孩子感觉怎么样。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a031"
+      ]
+    },
+    {
+      "name": "父母忽视孩子情绪讨论",
+      "definition": "父母常讨论学习、生活、政治等，但不和孩子讨论情绪，导致缺乏情绪连接。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a032"
+      ]
+    },
+    {
+      "name": "建立情绪连接需关注孩子本体",
+      "definition": "与孩子建立情绪连接需要关注孩子这个人本身，关注他的情绪，让孩子知道他被关注。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a033"
+      ]
+    },
+    {
+      "name": "帮助孩子发现身体情绪信号",
+      "definition": "帮助孩子发现身体对情绪的提醒，如痛苦时犯困、孤单时胃痛或肚子叫等，这些是情绪的信号。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a034"
+      ]
+    },
+    {
+      "name": "身体信号是情绪预警指标",
+      "definition": "身体反应是情绪的标志或症状，如果在身体信号出现时就警觉并预防，孩子不太容易走到上瘾。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a036"
+      ]
+    },
+    {
+      "name": "引发点",
+      "definition": "引发点是指某些场景、画面、味道等会引发孩子进入痛苦情绪的刺激。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a037",
+        "s-ef5150b9899d-c003:a001"
+      ]
+    },
+    {
+      "name": "帮助孩子指认引发点",
+      "definition": "帮助孩子指认哪些场景、画面会引发痛苦情绪，并尽量避免或处理这些引发点。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a038",
+        "s-ef5150b9899d-c003:a002"
+      ]
+    },
+    {
+      "name": "建议专业辅导",
+      "definition": "如果孩子有痛苦的情绪，非常建议带孩子去接受专业的辅导，如果有条件并且有靠谱的专业辅导。",
+      "atom_ids": [
+        "s-ef5150b9899d-c003:a003"
+      ]
+    },
+    {
+      "name": "发现身体极限",
+      "definition": "鼓励孩子发现自己身体上面的极限，即身体在什么样的情况下比较容易进入负面的痛苦的情绪。例如，几天没有睡好觉时，孩子可能会容易崩溃；饿了的时候，人会特别暴躁。",
+      "atom_ids": [
+        "s-ef5150b9899d-c003:a004"
+      ]
+    },
+    {
+      "name": "智慧在于知道自己的极限",
+      "definition": "一个人有智慧、有勇气的表现并不是勇往直前、无所畏惧，而恰恰在于他知道自己的极限，知道自己的有限，并且能够去避免这些极限。",
+      "atom_ids": [
+        "s-ef5150b9899d-c003:a006"
+      ]
+    },
+    {
+      "name": "父母帮助孩子的几个方面",
+      "definition": "父母可以从以下几个方面帮助孩子：帮助孩子指认引发点、避免或处理引发点、带孩子接受专业辅导（如果有条件）、鼓励孩子发现身体极限。",
+      "atom_ids": [
+        "s-ef5150b9899d-c003:a007"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-ef5150b9899d-c001:a001",
+      "target": "s-ef5150b9899d-c001:a009",
+      "kind": "supports",
+      "condition": "上瘾行为是现象，本质是情绪需要；上瘾是对痛苦的逃避，痛苦是根源。",
+      "reason": "两者都强调上瘾背后的情绪根源，a001指出情绪需要，a009指出痛苦逃避，相互支持。"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a005",
+      "target": "s-ef5150b9899d-c001:a003",
+      "kind": "causes",
+      "condition": "上瘾改变大脑组织导致共情困难。",
+      "reason": "a005说明上瘾改变大脑组织，导致难以共情，因此a003上瘾者无法共情是结果。"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a007",
+      "target": "s-ef5150b9899d-c001:a009",
+      "kind": "supports",
+      "condition": "抑郁焦虑与上瘾形成恶性循环，上瘾是对痛苦的逃避。",
+      "reason": "a007描述抑郁焦虑与上瘾的恶性循环，a009指出上瘾是逃避痛苦，两者都涉及痛苦与上瘾的关系。"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a010",
+      "target": "s-ef5150b9899d-c001:r003",
+      "kind": "supports",
+      "condition": "大脑的理性脑与边缘脑机制，创伤导致恐慌按钮卡住。",
+      "reason": "a010解释理性脑与边缘脑的功能，r003说明创伤导致边缘脑恐慌按钮卡住，两者都涉及边缘脑的恐慌反应。"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a010",
+      "target": "s-ef5150b9899d-c001:r004",
+      "kind": "causes",
+      "condition": "边缘脑过载时理性脑离线。",
+      "reason": "a010说明边缘脑过载时理性脑离线，r004具体描述理性脑离线导致决策失效，是因果关系。"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a011",
+      "target": "s-ef5150b9899d-c001:a012",
+      "kind": "supports",
+      "condition": "父母只关注行为不关注根源，因为不愿面对自身原因。",
+      "reason": "a011指出父母只关心行为，a012解释父母不愿面对自身原因，两者相互支持。"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a012",
+      "target": "s-ef5150b9899d-c001:a013",
+      "kind": "causes",
+      "condition": "父母不愿面对自身原因，导致不改变育儿模式，孩子上瘾加深。",
+      "reason": "a012说明父母回避自身原因，a013指出父母不改变育儿模式孩子上瘾加深，存在因果。"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a017",
+      "target": "s-ef5150b9899d-c001:a013",
+      "kind": "prerequisite",
+      "condition": "解决上瘾需先承认痛苦，父母参与是必要条件。",
+      "reason": "a017强调承认痛苦是改变的前提，a013指出父母参与的必要性，承认痛苦是父母参与改变的前提。"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a018",
+      "target": "s-ef5150b9899d-c001:a019",
+      "kind": "causes",
+      "condition": "父母自身缺乏情绪连接导致情绪失联。",
+      "reason": "a018定义情绪失联，a019解释原因：父母自身缺乏情绪连接，存在因果。"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a020",
+      "target": "s-ef5150b9899d-c001:a021",
+      "kind": "supports",
+      "condition": "改变情绪与连接情绪的区别，连接情绪的方法。",
+      "reason": "a020区分改变情绪和连接情绪，a021给出连接情绪的具体方法，相互支持。"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a022",
+      "target": "s-ef5150b9899d-c001:a023",
+      "kind": "supports",
+      "condition": "父母忙碌忽略孩子情绪需求，多花一分钟满足需求。",
+      "reason": "a022指出父母忽略情绪需求，a023提出多花一分钟满足需求，是解决方案。"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a024",
+      "target": "s-ef5150b9899d-c001:a026",
+      "kind": "supports",
+      "condition": "父母情绪问题导致情绪失联，婴儿受父母情绪影响。",
+      "reason": "父母情绪问题导致情绪失联的命题指出父母情绪会传递给孩子并影响大脑；婴儿受父母情绪影响的命题提供了婴儿从母亲情绪中感受焦虑、压力、恐惧的具体表现，支持前者的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为causes，但两命题间为支持关系，改为supports。"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a026",
+      "target": "s-ef5150b9899d-c001:a027",
+      "kind": "causes",
+      "condition": "早期情绪影响导致成年后上瘾。",
+      "reason": "a026说明婴儿受父母情绪影响，a027指出早期情绪影响导致成年后上瘾，存在因果。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a003",
+      "target": "s-ef5150b9899d-c002:a004",
+      "kind": "causes",
+      "condition": "父母情绪对孩子影响重大，建议父母接受专业心理辅导。",
+      "reason": "a003指出父母情绪影响孩子，a004建议父母接受心理辅导，是应对措施。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a005",
+      "target": "s-ef5150b9899d-c002:a006",
+      "kind": "supports",
+      "condition": "父母不高兴导致孩子认知为不被想要，孩子对父母爱的认知比实际爱更重要。",
+      "reason": "a005说明孩子认知父母不想要自己，a006强调孩子认知的重要性，相互支持。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a008",
+      "target": "s-ef5150b9899d-c002:a009",
+      "kind": "causes",
+      "condition": "三角关系链导致孩子痛苦并推向成瘾。",
+      "reason": "a008定义三角关系链，a009说明其导致孩子痛苦并推向成瘾，存在因果。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a011",
+      "target": "s-ef5150b9899d-c002:a012",
+      "kind": "supports",
+      "condition": "缺乏肯定导致孤独感，孩子长时间得不到肯定感到孤独。",
+      "reason": "缺乏肯定导致孤独感的命题指出肯定带来安全感和归属感；缺乏肯定导致孩子孤独感的命题具体描述了孩子长时间得不到肯定时的孤独表现，支持前者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为causes，但两命题为具体化支持关系，改为supports。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a012",
+      "target": "s-ef5150b9899d-c002:a013",
+      "kind": "association",
+      "condition": "缺乏肯定导致孩子孤独感，上瘾者100%有孤独感。",
+      "reason": "缺乏肯定导致孩子孤独感的命题与上瘾者100%有孤独感的命题都涉及孤独感，但前者未提及上瘾，后者未提及缺乏肯定，两者仅为关联，不能相互支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为supports，但两命题仅共享孤独感要素，改为association。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a015",
+      "target": "s-ef5150b9899d-c002:a016",
+      "kind": "causes",
+      "condition": "完美主义导致自我否定和成瘾风险。",
+      "reason": "a015定义完美主义，a016说明完美主义导致自我否定和成瘾风险，存在因果。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a018",
+      "target": "s-ef5150b9899d-c002:a019",
+      "kind": "causes",
+      "condition": "缺乏界限导致孩子没有安全感，孩子无法捍卫界限导致痛苦。",
+      "reason": "a018指出缺乏界限导致没有安全感，a019说明孩子无法捍卫界限导致痛苦，存在因果。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a019",
+      "target": "s-ef5150b9899d-c002:a025",
+      "kind": "causes",
+      "condition": "孩子无法捍卫界限导致痛苦，越界将孩子推向上瘾。",
+      "reason": "a019说明孩子因界限被侵犯而痛苦，a025指出越界导致痛苦并推向上瘾，存在因果。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a021",
+      "target": "s-ef5150b9899d-c002:a025",
+      "kind": "causes",
+      "condition": "越界表现如不允许隐私，越界将孩子推向上瘾。",
+      "reason": "a021是越界的具体表现，a025说明越界导致上瘾，存在因果。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a022",
+      "target": "s-ef5150b9899d-c002:a025",
+      "kind": "causes",
+      "condition": "越界表现如让孩子承担过大责任，越界将孩子推向上瘾。",
+      "reason": "a022是越界的具体表现，a025说明越界导致上瘾，存在因果。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a023",
+      "target": "s-ef5150b9899d-c002:a025",
+      "kind": "causes",
+      "condition": "越界表现如不切实际要求，越界将孩子推向上瘾。",
+      "reason": "a023是越界的具体表现，a025说明越界导致上瘾，存在因果。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a024",
+      "target": "s-ef5150b9899d-c002:a025",
+      "kind": "supports",
+      "condition": "越界表现如要求孩子对父母情绪负责，越界将孩子推向上瘾。",
+      "reason": "要求孩子对父母情绪负责是越界的具体表现，这种越界行为会将孩子推向上瘾，具体表现支持了越界导致上瘾的论断。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为causes，但具体表现与后果之间非直接因果，改为supports。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a027",
+      "target": "s-ef5150b9899d-c002:a031",
+      "kind": "step_of",
+      "condition": "帮助孩子预防成瘾的方法包括提高情绪自省力，讨论情绪是方法之一。",
+      "reason": "a027概述预防成瘾方法，a031是具体方法之一，属于步骤关系。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a027",
+      "target": "s-ef5150b9899d-c002:a034",
+      "kind": "step_of",
+      "condition": "帮助孩子预防成瘾的方法包括帮助发现身体情绪信号。",
+      "reason": "帮助孩子预防成瘾的方法概述中列出了帮助发现身体情绪信号等方法；帮助孩子发现身体情绪信号是其中之一，构成步骤关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a027",
+      "target": "s-ef5150b9899d-c002:a038",
+      "kind": "step_of",
+      "condition": "帮助孩子预防成瘾的方法包括指认引发点。",
+      "reason": "a027概述预防成瘾方法，a038是具体方法之一，属于步骤关系。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a028",
+      "target": "s-ef5150b9899d-c002:a030",
+      "kind": "causes",
+      "condition": "情绪自省力强的人情绪敏感，有助于控制行为。",
+      "reason": "a028定义情绪自省力，a030说明情绪敏感有助于控制行为，存在因果。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a034",
+      "target": "s-ef5150b9899d-c002:a036",
+      "kind": "supports",
+      "condition": "帮助孩子发现身体情绪信号，身体信号是情绪预警指标。",
+      "reason": "帮助孩子发现身体情绪信号的方法基于身体信号是情绪预警指标的认识，身体信号作为预警指标为该方法提供了依据，两者相互支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为causes，但两命题为方法与其原理的关系，改为supports。"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a037",
+      "target": "s-ef5150b9899d-c002:a038",
+      "kind": "prerequisite",
+      "condition": "指认引发点需先明确引发点定义。",
+      "reason": "帮助孩子指认引发点需要先理解引发点的定义，引发点定义是实施指认步骤的前提。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为supports，但定义是指认方法的前提，改为prerequisite。"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:a001",
+      "target": "s-ef5150b9899d-c003:a002",
+      "kind": "supports",
+      "condition": "情绪引发点定义，处理情绪引发点的方法。",
+      "reason": "情绪引发点的定义和举例为处理情绪引发点的方法提供了基础，两者相互支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:a004",
+      "target": "s-ef5150b9899d-c003:a006",
+      "kind": "supports",
+      "condition": "发现身体极限，智慧在于知道自己的极限。",
+      "reason": "发现身体极限的命题鼓励孩子识别身体在何种情况下进入负面情绪，智慧在于知道自己的极限的命题强调知道极限是智慧，两者共同支持认识自身极限的重要性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:a007",
+      "target": "s-ef5150b9899d-c003:a002",
+      "kind": "step_of",
+      "condition": "父母帮助孩子的几个方面包括帮助孩子指认引发点。",
+      "reason": "a007概述父母帮助孩子的方面，a002是具体方法之一，属于步骤关系。"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:a007",
+      "target": "s-ef5150b9899d-c003:a003",
+      "kind": "step_of",
+      "condition": "父母帮助孩子的几个方面包括带孩子接受专业辅导。",
+      "reason": "a007概述父母帮助孩子的方面，a003是具体方法之一，属于步骤关系。"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:a007",
+      "target": "s-ef5150b9899d-c003:a004",
+      "kind": "step_of",
+      "condition": "父母帮助孩子的几个方面包括鼓励孩子发现身体极限。",
+      "reason": "父母帮助孩子的几个方面中明确包含鼓励孩子发现身体极限，因此发现身体极限是其中的一个步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n001",
+      "target": "s-ef5150b9899d-c001:r006",
+      "kind": "association",
+      "condition": "撞墙模式在育儿中的具体表现",
+      "reason": "候选具体说明父母继续同样方式对待孩子，孩子的上瘾行为只会加深，正是source撞墙模式的应用，但source是抽象概念，候选是具体实例，不构成例子或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:r006",
+      "target": "s-ef5150b9899d-c001:v2-n001",
+      "kind": "association",
+      "condition": "撞墙模式在育儿中的具体表现",
+      "reason": "候选具体说明父母继续同样方式对待孩子，孩子的上瘾行为只会加深，正是source撞墙模式的应用，但source是抽象概念，候选是具体实例，不构成例子或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n001",
+      "target": "s-ef5150b9899d-c001:a013",
+      "kind": "association",
+      "condition": "重复同样育儿方式与改变",
+      "reason": "候选指出如果父母不改变育儿模式，孩子的上瘾行为只会加深，与source后半部分一致，但候选更强调父母参与的必要性，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a013",
+      "target": "s-ef5150b9899d-c001:v2-n001",
+      "kind": "association",
+      "condition": "重复同样育儿方式与改变",
+      "reason": "候选指出如果父母不改变育儿模式，孩子的上瘾行为只会加深，与source后半部分一致，但候选更强调父母参与的必要性，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n001",
+      "target": "s-ef5150b9899d-c001:r007",
+      "kind": "association",
+      "condition": "改变的前置条件",
+      "reason": "source强调改变育儿方式，候选指出改变前需承认自身造成的痛苦，两者都涉及改变，但候选是改变的一个前提，source未提及，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:r007",
+      "target": "s-ef5150b9899d-c001:v2-n001",
+      "kind": "association",
+      "condition": "改变的前置条件",
+      "reason": "source强调改变育儿方式，候选指出改变前需承认自身造成的痛苦，两者都涉及改变，但候选是改变的一个前提，source未提及，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n001",
+      "target": "s-ef5150b9899d-c001:a017",
+      "kind": "association",
+      "condition": "改变的前置条件",
+      "reason": "同候选r007，source未涉及承认痛苦，仅同属改变主题，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a017",
+      "target": "s-ef5150b9899d-c001:v2-n001",
+      "kind": "association",
+      "condition": "改变的前置条件",
+      "reason": "同候选r007，source未涉及承认痛苦，仅同属改变主题，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n002",
+      "target": "s-ef5150b9899d-c001:a017",
+      "kind": "complements",
+      "condition": "当讨论解决上瘾的认知前提时",
+      "reason": "source 强调要看到孩子的痛苦，候选补充了痛苦来源是家长造成的，并强调承认自己造成痛苦是先决条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a017",
+      "target": "s-ef5150b9899d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论解决上瘾的认知前提时",
+      "reason": "source 强调要看到孩子的痛苦，候选补充了痛苦来源是家长造成的，并强调承认自己造成痛苦是先决条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n002",
+      "target": "s-ef5150b9899d-c001:a011",
+      "kind": "complements",
+      "condition": "当讨论家长常见错误时",
+      "reason": "source 提出看见痛苦才能触及根源，候选补充了父母常只关注行为而忽视根源的误区，强化了关注痛苦根源的重要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a011",
+      "target": "s-ef5150b9899d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论家长常见错误时",
+      "reason": "source 提出看见痛苦才能触及根源，候选补充了父母常只关注行为而忽视根源的误区，强化了关注痛苦根源的重要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n002",
+      "target": "s-ef5150b9899d-c001:a001",
+      "kind": "complements",
+      "condition": "当讨论上瘾本质时",
+      "reason": "source 指出上瘾背后是受伤情绪与情感需求，候选概括为情绪需要，并补充满足情绪需要后上瘾会消失。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a001",
+      "target": "s-ef5150b9899d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论上瘾本质时",
+      "reason": "source 指出上瘾背后是受伤情绪与情感需求，候选概括为情绪需要，并补充满足情绪需要后上瘾会消失。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n002",
+      "target": "s-ef5150b9899d-c001:a009",
+      "kind": "complements",
+      "condition": "当讨论上瘾与痛苦关系时",
+      "reason": "source 指出看见痛苦才能触及根源，候选补充上瘾是对痛苦的逃避，并引导关注痛苦本身。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a009",
+      "target": "s-ef5150b9899d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论上瘾与痛苦关系时",
+      "reason": "source 指出看见痛苦才能触及根源，候选补充上瘾是对痛苦的逃避，并引导关注痛苦本身。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n002",
+      "target": "s-ef5150b9899d-c001:r007",
+      "kind": "complements",
+      "condition": "当讨论解决上瘾的认知前提时",
+      "reason": "同 a017，候选补充了家长承认自己造成痛苦这一具体责任。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:r007",
+      "target": "s-ef5150b9899d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论解决上瘾的认知前提时",
+      "reason": "同 a017，候选补充了家长承认自己造成痛苦这一具体责任。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n002",
+      "target": "s-ef5150b9899d-c002:a009",
+      "kind": "complements",
+      "condition": "当讨论造成孩子痛苦的具体原因时",
+      "reason": "source 强调痛苦是根源，候选补充了三角关系链是孩子痛苦的来源之一。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a009",
+      "target": "s-ef5150b9899d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论造成孩子痛苦的具体原因时",
+      "reason": "source 强调痛苦是根源，候选补充了三角关系链是孩子痛苦的来源之一。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n002",
+      "target": "s-ef5150b9899d-c001:a013",
+      "kind": "complements",
+      "condition": "当讨论解决上瘾需要家长参与时",
+      "reason": "source 强调家长首先要看到痛苦，候选补充了家长需要参与并改变育儿模式，否则上瘾加深。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a013",
+      "target": "s-ef5150b9899d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论解决上瘾需要家长参与时",
+      "reason": "source 强调家长首先要看到痛苦，候选补充了家长需要参与并改变育儿模式，否则上瘾加深。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n002",
+      "target": "s-ef5150b9899d-c001:r005",
+      "kind": "complements",
+      "condition": "当讨论家长为何难以看到痛苦时",
+      "reason": "source 提出要看到孩子痛苦，候选补充了父母不愿面对自身育儿模式是常见障碍。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:r005",
+      "target": "s-ef5150b9899d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论家长为何难以看到痛苦时",
+      "reason": "source 提出要看到孩子痛苦，候选补充了父母不愿面对自身育儿模式是常见障碍。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n002",
+      "target": "s-ef5150b9899d-c001:a024",
+      "kind": "complements",
+      "condition": "当讨论孩子痛苦的来源时",
+      "reason": "source 指出上瘾背后是受伤情绪，候选补充了父母情绪问题导致情绪失联，进而可能造成孩子上瘾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a024",
+      "target": "s-ef5150b9899d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论孩子痛苦的来源时",
+      "reason": "source 指出上瘾背后是受伤情绪，候选补充了父母情绪问题导致情绪失联，进而可能造成孩子上瘾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n002",
+      "target": "s-ef5150b9899d-c002:a025",
+      "kind": "complements",
+      "condition": "当讨论造成孩子痛苦的具体原因时",
+      "reason": "source 强调痛苦是根源，候选补充了越界是造成痛苦并推向上瘾的又一来源。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a025",
+      "target": "s-ef5150b9899d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论造成孩子痛苦的具体原因时",
+      "reason": "source 强调痛苦是根源，候选补充了越界是造成痛苦并推向上瘾的又一来源。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n002",
+      "target": "s-ef5150b9899d-c001:a022",
+      "kind": "complements",
+      "condition": "当讨论情感需求未被满足的具体表现时",
+      "reason": "source 提到被满足的情感需求，候选具体化了父母忙碌忽略情绪需求的情形。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a022",
+      "target": "s-ef5150b9899d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论情感需求未被满足的具体表现时",
+      "reason": "source 提到被满足的情感需求，候选具体化了父母忙碌忽略情绪需求的情形。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:v2-n002",
+      "target": "s-ef5150b9899d-c001:r006",
+      "kind": "complements",
+      "condition": "当讨论不改变育儿方式的后果时",
+      "reason": "source 强调看到痛苦是前提，候选补充了重复同样育儿方式会加深上瘾，突显改变的必要。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:r006",
+      "target": "s-ef5150b9899d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论不改变育儿方式的后果时",
+      "reason": "source 强调看到痛苦是前提，候选补充了重复同样育儿方式会加深上瘾，突显改变的必要。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:v2-n001",
+      "target": "s-ef5150b9899d-c002:a036",
+      "kind": "complements",
+      "condition": "当讨论身体信号预警的具体内容时",
+      "reason": "source 描述身体信号是情绪预警，候选补充了忽视信号的后果（可能用压抑方式增加风险），并强调预警的重要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a036",
+      "target": "s-ef5150b9899d-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论身体信号预警的具体内容时",
+      "reason": "source 描述身体信号是情绪预警，候选补充了忽视信号的后果（可能用压抑方式增加风险），并强调预警的重要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:v2-n001",
+      "target": "s-ef5150b9899d-c002:a034",
+      "kind": "complements",
+      "condition": "当讨论帮助孩子识别身体信号时",
+      "reason": "source 提出身体信号预警，候选补充了具体身体信号例子（如痛苦时犯困、孤单时胃痛），使方法更具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a034",
+      "target": "s-ef5150b9899d-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论帮助孩子识别身体信号时",
+      "reason": "source 提出身体信号预警，候选补充了具体身体信号例子（如痛苦时犯困、孤单时胃痛），使方法更具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:v2-n001",
+      "target": "s-ef5150b9899d-c003:a004",
+      "kind": "complements",
+      "condition": "当讨论识别身体极限以预警情绪时",
+      "reason": "source 强调身体信号，候选补充了身体极限的概念（如缺觉、饥饿、疲劳时易陷入负面情绪），扩展了预警线索。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:a004",
+      "target": "s-ef5150b9899d-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论识别身体极限以预警情绪时",
+      "reason": "source 强调身体信号，候选补充了身体极限的概念（如缺觉、饥饿、疲劳时易陷入负面情绪），扩展了预警线索。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:v2-n001",
+      "target": "s-ef5150b9899d-c001:a001",
+      "kind": "association",
+      "condition": "当讨论情绪与上瘾根源时",
+      "reason": "source 关注身体信号预防上瘾，候选解释上瘾本质是情绪需要，两者均涉及情绪但角度不同，关联为情绪是上瘾根源，但未直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a001",
+      "target": "s-ef5150b9899d-c003:v2-n001",
+      "kind": "association",
+      "condition": "当讨论情绪与上瘾根源时",
+      "reason": "source 关注身体信号预防上瘾，候选解释上瘾本质是情绪需要，两者均涉及情绪但角度不同，关联为情绪是上瘾根源，但未直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:v2-n001",
+      "target": "s-ef5150b9899d-c003:a001",
+      "kind": "complements",
+      "condition": "当讨论情绪引发点时",
+      "reason": "source 从身体信号预警情绪，候选补充了外部引发点（场景、画面等）也能引发痛苦情绪，形成互补的预警线索。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:a001",
+      "target": "s-ef5150b9899d-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论情绪引发点时",
+      "reason": "source 从身体信号预警情绪，候选补充了外部引发点（场景、画面等）也能引发痛苦情绪，形成互补的预警线索。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:v2-n001",
+      "target": "s-ef5150b9899d-c002:a027",
+      "kind": "association",
+      "condition": "当讨论预防成瘾方法总体时",
+      "reason": "source 是预防方法之一（利用身体信号），候选概述了多种方法包含身体信号，但未具体补充 source 内容，关联为整体框架。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a027",
+      "target": "s-ef5150b9899d-c003:v2-n001",
+      "kind": "association",
+      "condition": "当讨论预防成瘾方法总体时",
+      "reason": "source 是预防方法之一（利用身体信号），候选概述了多种方法包含身体信号，但未具体补充 source 内容，关联为整体框架。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:v2-n001",
+      "target": "s-ef5150b9899d-c001:a006",
+      "kind": "association",
+      "condition": "当讨论上瘾者情绪表现时",
+      "reason": "source 关注预防阶段的身体信号，候选描述上瘾后的情绪烦躁，两者均涉及情绪但时点不同，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a006",
+      "target": "s-ef5150b9899d-c003:v2-n001",
+      "kind": "association",
+      "condition": "当讨论上瘾者情绪表现时",
+      "reason": "source 关注预防阶段的身体信号，候选描述上瘾后的情绪烦躁，两者均涉及情绪但时点不同，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:v2-n001",
+      "target": "s-ef5150b9899d-c002:a037",
+      "kind": "complements",
+      "condition": "当讨论引发点定义时",
+      "reason": "同 a001 类似，候选补充了引发点具体定义和例子，与 source 的身体信号预警互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a037",
+      "target": "s-ef5150b9899d-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论引发点定义时",
+      "reason": "同 a001 类似，候选补充了引发点具体定义和例子，与 source 的身体信号预警互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:v2-n001",
+      "target": "s-ef5150b9899d-c001:a020",
+      "kind": "association",
+      "condition": "当讨论父母应对孩子情绪的方式时",
+      "reason": "source 讲身体信号预警，候选讲改变情绪与连接情绪的区别，两者不同主题，关联仅为情绪处理范畴，不足支撑更强关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c001:a020",
+      "target": "s-ef5150b9899d-c003:v2-n001",
+      "kind": "association",
+      "condition": "当讨论父母应对孩子情绪的方式时",
+      "reason": "source 讲身体信号预警，候选讲改变情绪与连接情绪的区别，两者不同主题，关联仅为情绪处理范畴，不足支撑更强关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:v2-n001",
+      "target": "s-ef5150b9899d-c002:a028",
+      "kind": "association",
+      "condition": "当讨论情绪自省力时",
+      "reason": "source 利用身体信号察觉情绪，候选定义情绪自省力为察觉自己情绪的能力，二者有交集但候选更概括，关联为概念相通。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a028",
+      "target": "s-ef5150b9899d-c003:v2-n001",
+      "kind": "association",
+      "condition": "当讨论情绪自省力时",
+      "reason": "source 利用身体信号察觉情绪，候选定义情绪自省力为察觉自己情绪的能力，二者有交集但候选更概括，关联为概念相通。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:v2-n001",
+      "target": "s-ef5150b9899d-c002:a029",
+      "kind": "association",
+      "condition": "当讨论情绪自省力差时",
+      "reason": "source 关注预警，候选描述自省力差的表现，二者均涉及对情绪不敏感，但 candidate 是反面补充，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c002:a029",
+      "target": "s-ef5150b9899d-c003:v2-n001",
+      "kind": "association",
+      "condition": "当讨论情绪自省力差时",
+      "reason": "source 关注预警，候选描述自省力差的表现，二者均涉及对情绪不敏感，但 candidate 是反面补充，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:v2-n001",
+      "target": "s-ef5150b9899d-c003:a002",
+      "kind": "association",
+      "condition": "当讨论处理情绪引发点的方法时",
+      "reason": "source 讲身体信号预警，候选提供处理引发点的方法，二者均属于情绪预防，但不同阶段，关联为方法补充但不直接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ef5150b9899d-c003:a002",
+      "target": "s-ef5150b9899d-c003:v2-n001",
+      "kind": "association",
+      "condition": "当讨论处理情绪引发点的方法时",
+      "reason": "source 讲身体信号预警，候选提供处理引发点的方法，二者均属于情绪预防，但不同阶段，关联为方法补充但不直接。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "依赖与失控",
+      "when": "当孩子因情绪问题（如痛苦、孤独、缺乏安全感）无法得到满足时，可能转向成瘾行为。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a001",
+        "s-ef5150b9899d-c001:a009",
+        "s-ef5150b9899d-c002:a013",
+        "s-ef5150b9899d-c002:a025"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "依赖与失控",
+      "when": "当父母越界（如侵犯隐私、让孩子承担过大责任、不切实际要求、要求孩子对父母情绪负责）导致孩子痛苦时，可能将孩子推向上瘾。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a018",
+        "s-ef5150b9899d-c002:a019",
+        "s-ef5150b9899d-c002:a021",
+        "s-ef5150b9899d-c002:a022",
+        "s-ef5150b9899d-c002:a023",
+        "s-ef5150b9899d-c002:a024",
+        "s-ef5150b9899d-c002:a025"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "理解情绪",
+      "when": "当父母自身有情绪问题（如焦虑）或缺乏情绪连接时，会导致与孩子情绪失联，影响孩子情绪健康。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a019",
+        "s-ef5150b9899d-c001:a024",
+        "s-ef5150b9899d-c002:a003",
+        "s-ef5150b9899d-c002:a004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "依赖与失控",
+      "when": "当父母不愿承认自己造成孩子痛苦、不改变育儿模式时，孩子上瘾行为会加深。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a012",
+        "s-ef5150b9899d-c001:a013",
+        "s-ef5150b9899d-c001:a017"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我修养",
+      "when": "当父母意识到自己情绪问题影响孩子时，建议接受专业心理辅导，提升自我修养。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a004",
+        "s-ef5150b9899d-c002:a017"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a006",
+        "s-ef5150b9899d-c001:r001"
+      ],
+      "reason": "两者都描述上瘾者情绪烦躁不安、情绪转换快速，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a008",
+        "s-ef5150b9899d-c001:r002"
+      ],
+      "reason": "两者都描述上瘾者外表与内心反差，内心极度悲伤，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a017",
+        "s-ef5150b9899d-c001:r007"
+      ],
+      "reason": "两者都强调家长需承认自己造成孩子痛苦，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a024"
+      ],
+      "reason": "两者都描述父母情绪问题导致情绪失联，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a026",
+        "s-ef5150b9899d-c002:a001"
+      ],
+      "reason": "三者都描述婴儿受父母情绪影响，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a027",
+        "s-ef5150b9899d-c002:a002"
+      ],
+      "reason": "三者都描述早期情绪影响导致成年后上瘾，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a003"
+      ],
+      "reason": "两者都描述父母情绪对孩子影响重大，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a004"
+      ],
+      "reason": "两者都建议父母接受专业心理辅导，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a005"
+      ],
+      "reason": "两者都描述父母不高兴导致孩子认知为不被想要，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a006",
+        "s-ef5150b9899d-c002:r001"
+      ],
+      "reason": "两者都强调孩子对父母爱的认知比实际爱更重要，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a011"
+      ],
+      "reason": "两者都描述缺乏肯定导致孤独感，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a012"
+      ],
+      "reason": "两者都描述缺乏肯定导致孩子孤独感，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a013"
+      ],
+      "reason": "两者都描述上瘾者100%有孤独感，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a014"
+      ],
+      "reason": "两者都描述明星和成功人士吸毒源于孤独感，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a015"
+      ],
+      "reason": "两者都定义完美主义，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a016"
+      ],
+      "reason": "两者都描述完美主义导致自我否定和成瘾风险，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a017"
+      ],
+      "reason": "两者都建议无法自我肯定者接受心理辅导，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a018"
+      ],
+      "reason": "两者都描述缺乏界限导致孩子没有安全感，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a019"
+      ],
+      "reason": "两者都描述孩子无法捍卫界限导致痛苦，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a020"
+      ],
+      "reason": "两者都描述父母干涉孩子想法感受导致痛苦，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a021"
+      ],
+      "reason": "两者都描述越界表现：不允许孩子有隐私，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a022"
+      ],
+      "reason": "两者都描述越界表现：让孩子承担过大责任，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a023"
+      ],
+      "reason": "两者都描述越界表现：对孩子有不切实际的要求，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a024"
+      ],
+      "reason": "两者都描述越界表现：要求孩子对父母情绪负责，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a025"
+      ],
+      "reason": "两者都描述越界将孩子推向上瘾，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a026"
+      ],
+      "reason": "两者都建议学习界限课程，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a027"
+      ],
+      "reason": "两者都概述帮助孩子预防成瘾的方法，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a028"
+      ],
+      "reason": "两者都定义情绪自省力，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a029"
+      ],
+      "reason": "两者都描述情绪自省力差的表现，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a030"
+      ],
+      "reason": "两者都描述情绪敏感有助于控制行为，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a031"
+      ],
+      "reason": "两者都描述提高孩子情绪自省力的方法：讨论情绪，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a032"
+      ],
+      "reason": "两者都描述父母忽视孩子情绪讨论，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a033"
+      ],
+      "reason": "两者都描述建立情绪连接需关注孩子本体，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a034"
+      ],
+      "reason": "两者都描述帮助孩子发现身体情绪信号，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a036"
+      ],
+      "reason": "两者都描述身体信号是情绪预警指标，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a037"
+      ],
+      "reason": "两者都定义引发点，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a038"
+      ],
+      "reason": "两者都描述帮助孩子指认引发点，内容实质等价。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "帮助孩子预防或脱离成瘾的方法",
+      "steps": [
+        {
+          "action": "父母承认自己给孩子造成的痛苦，愿意改变自己",
+          "atom_ids": [
+            "s-ef5150b9899d-c001:a017",
+            "s-ef5150b9899d-c001:r007"
+          ],
+          "condition": "家长首先要愿意承认自己给孩子造成的痛苦，不能否认。"
+        },
+        {
+          "action": "父母参与并改变育儿模式",
+          "atom_ids": [
+            "s-ef5150b9899d-c001:a013",
+            "s-ef5150b9899d-c001:r006"
+          ],
+          "condition": "破解孩子上瘾需要父母参与，如果父母不改变育儿模式，孩子的上瘾行为只会加深。"
+        },
+        {
+          "action": "与孩子建立情绪连接",
+          "atom_ids": [
+            "s-ef5150b9899d-c001:a021",
+            "s-ef5150b9899d-c002:a033"
+          ],
+          "condition": "连接孩子情绪的方法是进入孩子的不开心，允许孩子有负面情绪，关注孩子这个人本身。"
+        },
+        {
+          "action": "提高孩子的情绪自省力",
+          "atom_ids": [
+            "s-ef5150b9899d-c002:a031"
+          ],
+          "condition": "父母应经常和孩子讨论情绪，如指出孩子看起来生气、沮丧，询问发生什么事，问孩子感觉怎么样。"
+        },
+        {
+          "action": "帮助孩子发现身体情绪信号",
+          "atom_ids": [
+            "s-ef5150b9899d-c002:a034"
+          ],
+          "condition": "帮助孩子发现身体对情绪的提醒，如痛苦时犯困、孤单时胃痛或肚子叫等。"
+        },
+        {
+          "action": "帮助孩子指认并处理引发点",
+          "atom_ids": [
+            "s-ef5150b9899d-c002:a038",
+            "s-ef5150b9899d-c003:a002"
+          ],
+          "condition": "帮助孩子指认哪些场景、画面会引发痛苦情绪，并尽量避免或处理这些引发点。"
+        },
+        {
+          "action": "鼓励孩子发现身体极限",
+          "atom_ids": [
+            "s-ef5150b9899d-c003:a004"
+          ],
+          "condition": "鼓励孩子发现自己身体上面的极限，即身体在什么样的情况下比较容易进入负面的痛苦的情绪。"
+        },
+        {
+          "action": "如有条件，带孩子接受专业辅导",
+          "atom_ids": [
+            "s-ef5150b9899d-c003:a003"
+          ],
+          "condition": "如果孩子有痛苦的情绪，非常建议带孩子去接受专业的辅导，如果有条件并且有靠谱的专业辅导。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-ef5150b9899d-c001:U01",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U02",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a002"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U03",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a003"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U04",
+      "kind": "case",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a004"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U05",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a005"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U06",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a006",
+        "s-ef5150b9899d-c001:r001"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U07",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a007"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U08",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a008",
+        "s-ef5150b9899d-c001:r002"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U09",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a009"
+      ],
+      "blocks": [
+        "b00014",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U10",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a010",
+        "s-ef5150b9899d-c001:r003",
+        "s-ef5150b9899d-c001:r004"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U11",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a011"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U12",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a012",
+        "s-ef5150b9899d-c001:r005"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U13",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a013",
+        "s-ef5150b9899d-c001:r006"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U14",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U15",
+      "kind": "case",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a014"
+      ],
+      "blocks": [
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U16",
+      "kind": "case",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a015"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U17",
+      "kind": "case",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a016"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U18",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U19",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a017",
+        "s-ef5150b9899d-c001:r007"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U20",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a018",
+        "s-ef5150b9899d-c001:a019"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U21",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a020"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U22",
+      "kind": "method",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a021"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U23",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a022"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U24",
+      "kind": "method",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a023"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U25",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a024"
+      ],
+      "blocks": [
+        "b00033",
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c001:U26",
+      "kind": "case",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a025"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034",
+        "b00035",
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a026",
+        "s-ef5150b9899d-c002:a001"
+      ],
+      "blocks": [
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:a027",
+        "s-ef5150b9899d-c002:a002"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a003"
+      ],
+      "blocks": [
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a004"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a005"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a006",
+        "s-ef5150b9899d-c002:r001"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a007"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a008"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a009"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a010"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a011"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a012"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a013"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0014",
+      "kind": "case",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a014"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a015"
+      ],
+      "blocks": [
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a016"
+      ],
+      "blocks": [
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a017"
+      ],
+      "blocks": [
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a018"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a019"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a020"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a021"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a022"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a023"
+      ],
+      "blocks": [
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a024"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a025"
+      ],
+      "blocks": [
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a026"
+      ],
+      "blocks": [
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a027"
+      ],
+      "blocks": [
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a028"
+      ],
+      "blocks": [
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a029"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a030"
+      ],
+      "blocks": [
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0031",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a031"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0032",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a032"
+      ],
+      "blocks": [
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0033",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a033"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0034",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a034"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073",
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0035",
+      "kind": "case",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a035"
+      ],
+      "blocks": [
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0036",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a036"
+      ],
+      "blocks": [
+        "b00073",
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0037",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a037"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c002:u0038",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c002:a038"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c003:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ef5150b9899d-c003:a001"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c003:u0002",
+      "kind": "method",
+      "atom_ids": [
+        "s-ef5150b9899d-c003:a002"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c003:u0003",
+      "kind": "method",
+      "atom_ids": [
+        "s-ef5150b9899d-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c003:u0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-ef5150b9899d-c003:a003"
+      ],
+      "blocks": [
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c003:u0005",
+      "kind": "method",
+      "atom_ids": [
+        "s-ef5150b9899d-c003:a004"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080",
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c003:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-ef5150b9899d-c003:a005"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c003:u0007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ef5150b9899d-c003:a006"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-ef5150b9899d-c003:u0008",
+      "kind": "summary",
+      "atom_ids": [
+        "s-ef5150b9899d-c003:a007"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "撞墙模式：重复同样行为却期待不同结果",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-ef5150b9899d",
+          "blocks": [
+            "b00020"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "pattern"
+    },
+    {
+      "title": "解决上瘾首先要看到孩子的痛苦",
+      "atom_ids": [
+        "s-ef5150b9899d-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-ef5150b9899d",
+          "blocks": [
+            "b00023"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "身体信号作为情绪预警",
+      "atom_ids": [
+        "s-ef5150b9899d-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-ef5150b9899d",
+          "blocks": [
+            "b00075",
+            "b00076"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

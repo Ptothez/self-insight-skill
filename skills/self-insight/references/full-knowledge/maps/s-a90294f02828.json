@@ -1,0 +1,654 @@
+{
+  "concepts": [
+    {
+      "name": "健康情绪的标准",
+      "definition": "评价、衡量和判断孩子情绪是否健康的前提，只有明确标准后才能判断孩子是否达到标准。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a001"
+      ]
+    },
+    {
+      "name": "孩子情绪健康的六个前提",
+      "definition": "六个要素，如果这些要素不存在或没有很好地提供给孩子，无论外部付出多大努力，孩子的情绪都不可能健康。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a002"
+      ]
+    },
+    {
+      "name": "六大要素的土壤比喻",
+      "definition": "六大要素就像土壤，只有土壤好才能栽树；如果土壤荒芜，就无法种树。因此需要先培育适合树生长的土壤。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a003"
+      ]
+    },
+    {
+      "name": "来自家庭无条件的爱",
+      "definition": "孩子情绪健康的第一个要素是来自家庭无条件的爱。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a004"
+      ]
+    },
+    {
+      "name": "无条件的爱不等于不惩罚不管教",
+      "definition": "无条件的爱不等于不惩罚孩子、不管教孩子；相反，因为无条件的爱，才有可能做到正确的管教。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a005"
+      ]
+    },
+    {
+      "name": "无条件的爱是无论孩子表现如何都按规则管教",
+      "definition": "无条件的爱是无论孩子成绩好坏，迟到就要管教，按照规则和界限管教；生病时都用同样的爱照顾和关怀。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a009"
+      ]
+    },
+    {
+      "name": "无条件的爱不等于没有矛盾",
+      "definition": "无条件的爱不等于没有矛盾；爱一个人不代表时刻喜欢他，当孩子生气打人、撒谎、骂人、踢门时，父母会不喜欢并发生矛盾，但这不影响爱。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a010"
+      ]
+    },
+    {
+      "name": "无条件的爱不等于什么都认同对方",
+      "definition": "无条件的爱不等于什么都认同对方；爱不代表认同对方的行为或想法，真正的亲密关系一定经历过矛盾冲突。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a011"
+      ]
+    },
+    {
+      "name": "真正的亲密关系需要经历矛盾",
+      "definition": "真正的亲密关系一定经历过矛盾冲突；如果朋友从未吵过架、思想完全一致，关系是塑料情，无法深入。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a012"
+      ]
+    },
+    {
+      "name": "无条件的爱不等于溺爱",
+      "definition": "无条件的爱不等于溺爱；无条件的爱是最有界限的爱，没有界限的爱才是溺爱。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a014",
+        "s-a90294f02828-c001:r001"
+      ]
+    },
+    {
+      "name": "真正的爱不喜欢不义只喜欢真理",
+      "definition": "真正的爱不喜欢不义，只喜欢真理；当孩子做不义或错误的事情时，因真理的缘故要帮助他。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a015"
+      ]
+    },
+    {
+      "name": "无条件的爱不等于无止境退让",
+      "definition": "无条件的爱不等于无止境退让，不是孩子要什么就给什么；无条件的爱非常有界限。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a016"
+      ]
+    },
+    {
+      "name": "无条件的爱是没有附加条件",
+      "definition": "无条件的爱是没有附加条件，如“听我的话就爱你”“考好了就是心肝宝贝”都是附加条件。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a017"
+      ]
+    },
+    {
+      "name": "孩子通过行为判断父母的爱",
+      "definition": "孩子不会只听父母说爱他，而是看父母的行为来判断是否爱他；就像爱人说爱你但行为暧昧，你不会相信。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a019"
+      ]
+    },
+    {
+      "name": "无条件的爱是没有期待",
+      "definition": "无条件的爱是没有期待，如“我爱你所以为你牺牲一切，期待你尽责任按我的规划做”“我养你将来你养我”“我图你做个孝子”都是有期待。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a020"
+      ]
+    },
+    {
+      "name": "无条件的爱是不分情况",
+      "definition": "无条件的爱是不分情况，无论孩子考100分还是50分，无论表现如何，都给予同样的爱。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a022"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-a90294f02828-c001:a001",
+      "target": "s-a90294f02828-c001:a002",
+      "kind": "prerequisite",
+      "condition": "判断孩子情绪是否健康需要先明确标准，而六个前提是标准的具体内容。",
+      "reason": "a001说明健康情绪的标准是判断前提，a002说明六个前提是情绪健康的要素，因此标准包含这些前提。"
+    },
+    {
+      "source": "s-a90294f02828-c001:a002",
+      "target": "s-a90294f02828-c001:a003",
+      "kind": "supports",
+      "condition": "六个前提的重要性通过土壤比喻说明。",
+      "reason": "a003用土壤比喻解释六大要素是基础，支持a002中前提的必要性。"
+    },
+    {
+      "source": "s-a90294f02828-c001:a002",
+      "target": "s-a90294f02828-c001:a004",
+      "kind": "step_of",
+      "condition": "第一个要素是来自家庭无条件的爱。",
+      "reason": "a004明确第一个要素，是六个前提之一。"
+    },
+    {
+      "source": "s-a90294f02828-c001:a004",
+      "target": "s-a90294f02828-c001:a005",
+      "kind": "supports",
+      "condition": "无条件的爱不等于不惩罚不管教，而是正确管教的基础。",
+      "reason": "a005进一步解释无条件的爱的内涵，支持a004。"
+    },
+    {
+      "source": "s-a90294f02828-c001:a004",
+      "target": "s-a90294f02828-c001:a009",
+      "kind": "association",
+      "condition": "同属无条件的爱议题",
+      "reason": "a004提出无条件的爱是情绪健康第一要素，a009具体说明无条件的爱是按规则管教；后者说明前者但方向不支持，故降级为关联",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原supports方向不成立，改为association"
+    },
+    {
+      "source": "s-a90294f02828-c001:a004",
+      "target": "s-a90294f02828-c001:a010",
+      "kind": "association",
+      "condition": "同属无条件的爱议题",
+      "reason": "a004提出无条件的爱是情绪健康第一要素，a010说明无条件的爱不等于没有矛盾；后者补充说明但方向不支持，故降级为关联",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原supports方向不成立，改为association"
+    },
+    {
+      "source": "s-a90294f02828-c001:a004",
+      "target": "s-a90294f02828-c001:a011",
+      "kind": "association",
+      "condition": "同属无条件的爱议题",
+      "reason": "a004提出无条件的爱是情绪健康第一要素，a011说明无条件的爱不等于什么都认同；后者补充说明但方向不支持，故降级为关联",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原supports方向不成立，改为association"
+    },
+    {
+      "source": "s-a90294f02828-c001:a004",
+      "target": "s-a90294f02828-c001:a014",
+      "kind": "supports",
+      "condition": "无条件的爱不等于溺爱，而是最有界限的爱。",
+      "reason": "a014澄清无条件的爱与溺爱的区别，支持a004。"
+    },
+    {
+      "source": "s-a90294f02828-c001:a004",
+      "target": "s-a90294f02828-c001:a015",
+      "kind": "supports",
+      "condition": "真正的爱不喜欢不义只喜欢真理。",
+      "reason": "a015说明爱的原则，支持a004。"
+    },
+    {
+      "source": "s-a90294f02828-c001:a004",
+      "target": "s-a90294f02828-c001:a016",
+      "kind": "supports",
+      "condition": "无条件的爱不等于无止境退让。",
+      "reason": "a016澄清无条件的爱有界限，支持a004。"
+    },
+    {
+      "source": "s-a90294f02828-c001:a004",
+      "target": "s-a90294f02828-c001:a017",
+      "kind": "association",
+      "condition": "同属无条件的爱议题",
+      "reason": "a004提出无条件的爱是情绪健康第一要素，a017说明无条件的爱没有附加条件；后者补充说明但方向不支持，故降级为关联",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原supports方向不成立，改为association"
+    },
+    {
+      "source": "s-a90294f02828-c001:a004",
+      "target": "s-a90294f02828-c001:a020",
+      "kind": "association",
+      "condition": "同属无条件的爱议题",
+      "reason": "a004提出无条件的爱是情绪健康第一要素，a020说明无条件的爱没有期待；后者补充说明但方向不支持，故降级为关联",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原supports方向不成立，改为association"
+    },
+    {
+      "source": "s-a90294f02828-c001:a004",
+      "target": "s-a90294f02828-c001:a022",
+      "kind": "supports",
+      "condition": "无条件的爱是不分情况。",
+      "reason": "a022说明无条件的爱不因表现而改变，支持a004。"
+    },
+    {
+      "source": "s-a90294f02828-c001:a005",
+      "target": "s-a90294f02828-c001:a009",
+      "kind": "supports",
+      "condition": "因为无条件的爱，才有可能做到正确的管教",
+      "reason": "a005指出无条件的爱带来正确管教，a009具体说明正确管教是按规则管教，二者相互支持",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-a90294f02828-c001:a006",
+      "target": "s-a90294f02828-c001:a009",
+      "kind": "contrasts",
+      "condition": "老师对成绩好与差学生迟到的不同反应与无条件的爱按规则管教相反",
+      "reason": "a006展示有条件爱的例子，a009说明无条件的爱应不分成绩按规则管教，形成对比",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-a90294f02828-c001:a007",
+      "target": "s-a90294f02828-c001:a009",
+      "kind": "contrasts",
+      "condition": "父母对成绩好与差孩子考50分的不同反应与无条件的爱按规则管教相反",
+      "reason": "a007展示有条件爱的例子，a009说明无条件的爱应不分成绩按规则管教，形成对比",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-a90294f02828-c001:a008",
+      "target": "s-a90294f02828-c001:a009",
+      "kind": "contrasts",
+      "condition": "父母对成绩好与差孩子生病的不同反应与无条件的爱按规则管教相反",
+      "reason": "a008展示有条件爱的例子，a009说明无条件的爱应不分成绩按规则管教，形成对比",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-a90294f02828-c001:a010",
+      "target": "s-a90294f02828-c001:a011",
+      "kind": "supports",
+      "condition": "无条件的爱不等于没有矛盾，也不等于什么都认同",
+      "reason": "a010和a011均澄清无条件的爱允许矛盾与不认同，相互支持",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-a90294f02828-c001:a011",
+      "target": "s-a90294f02828-c001:a012",
+      "kind": "supports",
+      "condition": "真正的亲密关系一定经历过矛盾冲突",
+      "reason": "a011提出真正的亲密关系经历矛盾，a012进一步说明亲密关系需要矛盾，支持a011",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-a90294f02828-c001:a013",
+      "target": "s-a90294f02828-c001:a012",
+      "kind": "example_of",
+      "condition": "讲师与另一位老师的分歧是亲密关系经历矛盾的例子",
+      "reason": "a013案例显示讲师与另一位老师有分歧但维持友谊，体现a012真正的亲密关系需要经历矛盾",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-a90294f02828-c001:a014",
+      "target": "s-a90294f02828-c001:a016",
+      "kind": "supports",
+      "condition": "无条件的爱是最有界限的爱，因此不等于无止境退让。",
+      "reason": "a014强调界限，a016说明不退让，相互支持。"
+    },
+    {
+      "source": "s-a90294f02828-c001:a017",
+      "target": "s-a90294f02828-c001:a020",
+      "kind": "supports",
+      "condition": "无条件的爱没有附加条件，也没有期待",
+      "reason": "a017和a020均说明无条件的爱不附加条件或期待，相互支持",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-a90294f02828-c001:a018",
+      "target": "s-a90294f02828-c001:a019",
+      "kind": "supports",
+      "condition": "父母通过行为传递有条件的爱，孩子通过行为判断父母的爱。",
+      "reason": "a018展示父母行为传递有条件爱，a019说明孩子通过行为判断爱，相互关联。"
+    },
+    {
+      "source": "s-a90294f02828-c001:a021",
+      "target": "s-a90294f02828-c001:a020",
+      "kind": "contrasts",
+      "condition": "父母表达期待的常见话语与无条件的爱没有期待相反",
+      "reason": "a021展示父母表达期待的常见话语，体现有条件的爱，与a020无条件的爱没有期待形成对比",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原example_of不成立，改为contrasts"
+    },
+    {
+      "source": "s-a90294f02828-c001:a023",
+      "target": "s-a90294f02828-c001:a022",
+      "kind": "contrasts",
+      "condition": "父母对孩子考100分和50分打游戏的不同反应是有条件的爱，与无条件的爱不分情况相反。",
+      "reason": "a023展示有条件爱的例子，a022说明无条件的爱应不分情况，形成对比。"
+    },
+    {
+      "source": "s-a90294f02828-c001:a024",
+      "target": "s-a90294f02828-c001:a022",
+      "kind": "contrasts",
+      "condition": "电视剧中父母对84.5分和85分的不同态度与无条件的爱不分情况相反",
+      "reason": "a024展示有条件爱的例子，a022说明无条件的爱应不分成绩，形成对比",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "在讨论孩子情绪健康的第一个要素“来自家庭无条件的爱”时，需要理解情绪健康的标准，并明确无条件的爱需要界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-a90294f02828-c001:a001",
+        "s-a90294f02828-c001:a002",
+        "s-a90294f02828-c001:a004",
+        "s-a90294f02828-c001:a005",
+        "s-a90294f02828-c001:a009",
+        "s-a90294f02828-c001:a014",
+        "s-a90294f02828-c001:a016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-a90294f02828-c001:a014",
+        "s-a90294f02828-c001:r001"
+      ],
+      "reason": "两者内容完全相同，都表述为“无条件的爱不是溺爱，而是最有界限的爱，没有界限的爱才叫溺爱”。"
+    },
+    {
+      "atom_ids": [
+        "s-a90294f02828-c001:a020"
+      ],
+      "reason": "两者内容完全相同，都表述为“无条件的爱是没有期待，如...”。"
+    },
+    {
+      "atom_ids": [
+        "s-a90294f02828-c001:a022"
+      ],
+      "reason": "两者内容完全相同，都表述为“无条件的爱是不分情况，无论孩子考100分还是50分，无论表现如何，都给予同样的爱”。"
+    }
+  ],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-a90294f02828-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a90294f02828-c001:a001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a90294f02828-c001:a002"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a90294f02828-c001:a003"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a90294f02828-c001:a004"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0005",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-a90294f02828-c001:a005"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-a90294f02828-c001:a006"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-a90294f02828-c001:a007"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0008",
+      "kind": "case",
+      "atom_ids": [
+        "s-a90294f02828-c001:a008"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a90294f02828-c001:a009"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0010",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-a90294f02828-c001:a010"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0011",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-a90294f02828-c001:a011"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a90294f02828-c001:a012"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0013",
+      "kind": "case",
+      "atom_ids": [
+        "s-a90294f02828-c001:a013"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0014",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-a90294f02828-c001:a014"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a90294f02828-c001:a015"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0016",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-a90294f02828-c001:a016"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a90294f02828-c001:a017"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0018",
+      "kind": "case",
+      "atom_ids": [
+        "s-a90294f02828-c001:a018"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0019",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-a90294f02828-c001:a019"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a90294f02828-c001:a020"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0021",
+      "kind": "case",
+      "atom_ids": [
+        "s-a90294f02828-c001:a021"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a90294f02828-c001:a022"
+      ],
+      "blocks": [
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0023",
+      "kind": "case",
+      "atom_ids": [
+        "s-a90294f02828-c001:a023"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-a90294f02828-c001:u0024",
+      "kind": "case",
+      "atom_ids": [
+        "s-a90294f02828-c001:a024"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

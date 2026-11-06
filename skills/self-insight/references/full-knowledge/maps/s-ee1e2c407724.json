@@ -1,0 +1,536 @@
+{
+  "concepts": [
+    {
+      "name": "优缺点",
+      "definition": "优点和缺点互为因果，无所谓优缺点只有特点，构成光谱，中间地带蕴藏本质，不应被定义而应超越。",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a001",
+        "s-ee1e2c407724-c001:a002",
+        "s-ee1e2c407724-c001:a003"
+      ]
+    },
+    {
+      "name": "原生家庭信息",
+      "definition": "小时候最常听见的信息，带来恐惧并影响现在生活，其中包含谎言。",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a005",
+        "s-ee1e2c407724-c001:a006"
+      ]
+    },
+    {
+      "name": "父母图片",
+      "definition": "父母带来的关于男人和女人的印象，影响两性关系认知，可能包含谎言。",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a007",
+        "s-ee1e2c407724-c001:a008"
+      ]
+    },
+    {
+      "name": "人设",
+      "definition": "因过去伤害未解决而创造出来自我保护的东西，如同面具，时间长了会反噬自己，阻挡获得真正想要的东西。",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a009",
+        "s-ee1e2c407724-c001:a010",
+        "s-ee1e2c407724-c001:a011"
+      ]
+    },
+    {
+      "name": "核心信念",
+      "definition": "由伤害导致的错误自我认知，是穿上真理外衣的羞耻，包括我不够好、我不安全等。",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a012",
+        "s-ee1e2c407724-c001:a013",
+        "s-ee1e2c407724-c001:a014"
+      ]
+    },
+    {
+      "name": "焦虑",
+      "definition": "人设受到威胁产生的情绪，人设用来保护自己远离核心信念。",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a015",
+        "s-ee1e2c407724-c001:a016"
+      ]
+    },
+    {
+      "name": "重写故事",
+      "definition": "整合七课内容的模板，通过描述美好特质、打破原生家庭谎言、分析父母图片、识别人设、处理伤害、连接焦虑与核心信念、展望新可能性来重写个人故事。",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a017"
+      ]
+    },
+    {
+      "name": "逻辑闭环",
+      "definition": "本相→受伤失去力量带来谎言和错误认知→产生核心信念→生出人设保护→人设与受伤后的自己分不清→人设反噬→人设受威胁保护无效→勾起核心信念陷入痛苦。",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a018"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-ee1e2c407724-c001:a001",
+      "target": "s-ee1e2c407724-c001:a002",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "a001说优缺点互为因果，a002说无所谓优缺点只有特点，后者是对前者的进一步抽象，支持超越优缺点对立的观点。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a002",
+      "target": "s-ee1e2c407724-c001:a003",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "a002提出只有特点，a003进一步说明优缺点构成光谱，中间地带蕴藏本质，应超越优缺点，是对a002的展开。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a005",
+      "target": "s-ee1e2c407724-c001:a006",
+      "kind": "association",
+      "condition": "无",
+      "reason": "第二课引导问题询问原生家庭信息，而“你要努力”是该问题的一个具体示例，但原关系方向有误，实际是后者为前者的示例，故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原direction反了，改为association。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a007",
+      "target": "s-ee1e2c407724-c001:a008",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "a008是a007中提到的两性关系认知的具体示例。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a009",
+      "target": "s-ee1e2c407724-c001:a010",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "a010定义了人设，a009是引导问题，a010为a009提供背景。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a010",
+      "target": "s-ee1e2c407724-c001:a011",
+      "kind": "causes",
+      "condition": "时间长了",
+      "reason": "a010说人设是自我保护创造的东西，a011说人设时间长了会反噬自己，存在因果关系。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a012",
+      "target": "s-ee1e2c407724-c001:a013",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "a013解释了核心信念的本质，a012是引导问题，a013为a012提供理论支持。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a013",
+      "target": "s-ee1e2c407724-c001:a014",
+      "kind": "association",
+      "condition": "无",
+      "reason": "“错误的核心信念是穿上真理外衣的羞耻”是抽象定义，核心信念列表是其具体实例，原关系方向有误，实际是列表为定义的示例，故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原direction反了，改为association。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a015",
+      "target": "s-ee1e2c407724-c001:a016",
+      "kind": "association",
+      "condition": "无",
+      "reason": "第六课引导问题涉及焦虑情绪，而焦虑与人设和核心信念的关系为其提供理论背景，原关系方向有误，实际是后者支持前者，故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原direction反了，改为association。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a016",
+      "target": "s-ee1e2c407724-c001:a018",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "a018的逻辑闭环中包含了人设受威胁产生焦虑的环节，a016是其中的一部分。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a017",
+      "target": "s-ee1e2c407724-c001:a018",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "a017的重写故事模板整合了七课内容，a018的逻辑闭环是七课的理论总结，两者相互印证。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a004",
+      "target": "s-ee1e2c407724-c001:a001",
+      "kind": "applies_to",
+      "condition": "无",
+      "reason": "a004是第一课引导问题，a001是关于优缺点的观点，引导问题应用该观点。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a004",
+      "target": "s-ee1e2c407724-c001:a002",
+      "kind": "applies_to",
+      "condition": "无",
+      "reason": "a004是第一课引导问题，a002是关于优缺点的观点，引导问题应用该观点。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a004",
+      "target": "s-ee1e2c407724-c001:a003",
+      "kind": "applies_to",
+      "condition": "无",
+      "reason": "a004是第一课引导问题，a003是关于优缺点的观点，引导问题应用该观点。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a005",
+      "target": "s-ee1e2c407724-c001:a017",
+      "kind": "prerequisite",
+      "condition": "完成第二课原生家庭信息引导",
+      "reason": "第七课重写故事模板第二步需要回忆原生家庭信息，而第二课引导问题正是获取该信息的前置活动，因此后者是前者的先决条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of不准确，改为prerequisite。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a007",
+      "target": "s-ee1e2c407724-c001:a017",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "a017的重写故事模板第三步涉及父母图片，a007是第三课引导问题，属于该步骤。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a009",
+      "target": "s-ee1e2c407724-c001:a017",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "a017的重写故事模板第四步涉及人设，a009是第四课引导问题，属于该步骤。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a012",
+      "target": "s-ee1e2c407724-c001:a017",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "a017的重写故事模板第五步涉及伤害，a012是第五课引导问题，属于该步骤。"
+    },
+    {
+      "source": "s-ee1e2c407724-c001:a015",
+      "target": "s-ee1e2c407724-c001:a017",
+      "kind": "association",
+      "condition": "无",
+      "reason": "第六课引导问题与第七课重写故事模板第六步均涉及焦虑与核心信念，但前者并非模板的步骤，仅内容相关，故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of不准确，改为association。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "自我认知",
+      "to": "自我认知",
+      "when": "整个课程中，自我认知模块内部各概念相互关联，形成逻辑闭环。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a018"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "scope": "within_module",
+      "source_limits": []
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a004"
+      ],
+      "reason": "内容完全相同，均为第一课引导问题。"
+    },
+    {
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a005"
+      ],
+      "reason": "内容完全相同，均为第二课引导问题。"
+    },
+    {
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a006"
+      ],
+      "reason": "内容完全相同，均为原生家庭信息示例。"
+    },
+    {
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a007"
+      ],
+      "reason": "内容完全相同，均为第三课引导问题。"
+    },
+    {
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a008"
+      ],
+      "reason": "内容完全相同，均为两性关系认知示例。"
+    },
+    {
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a009"
+      ],
+      "reason": "内容完全相同，均为第四课引导问题。"
+    },
+    {
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a012"
+      ],
+      "reason": "内容完全相同，均为第五课引导问题。"
+    },
+    {
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a015"
+      ],
+      "reason": "内容完全相同，均为第六课引导问题。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "自我认知七课整合路径",
+      "steps": [
+        {
+          "action": "识别优缺点并超越",
+          "atom_ids": [
+            "s-ee1e2c407724-c001:a001",
+            "s-ee1e2c407724-c001:a002",
+            "s-ee1e2c407724-c001:a003",
+            "s-ee1e2c407724-c001:a004"
+          ],
+          "condition": "第一课"
+        },
+        {
+          "action": "探索原生家庭信息并打破谎言",
+          "atom_ids": [
+            "s-ee1e2c407724-c001:a005",
+            "s-ee1e2c407724-c001:a006"
+          ],
+          "condition": "第二课"
+        },
+        {
+          "action": "分析父母图片对两性关系认知的影响并打破谎言",
+          "atom_ids": [
+            "s-ee1e2c407724-c001:a007",
+            "s-ee1e2c407724-c001:a008"
+          ],
+          "condition": "第三课"
+        },
+        {
+          "action": "识别人设并攻击其谎言",
+          "atom_ids": [
+            "s-ee1e2c407724-c001:a009",
+            "s-ee1e2c407724-c001:a010",
+            "s-ee1e2c407724-c001:a011"
+          ],
+          "condition": "第四课"
+        },
+        {
+          "action": "处理伤害并确认核心信念",
+          "atom_ids": [
+            "s-ee1e2c407724-c001:a012",
+            "s-ee1e2c407724-c001:a013",
+            "s-ee1e2c407724-c001:a014"
+          ],
+          "condition": "第五课"
+        },
+        {
+          "action": "连接焦虑与核心信念并寻找替代思维",
+          "atom_ids": [
+            "s-ee1e2c407724-c001:a015",
+            "s-ee1e2c407724-c001:a016"
+          ],
+          "condition": "第六课"
+        },
+        {
+          "action": "重写故事整合",
+          "atom_ids": [
+            "s-ee1e2c407724-c001:a017"
+          ],
+          "condition": "第七课"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-ee1e2c407724-c001:u0001",
+      "kind": "question",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a004"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-ee1e2c407724-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a001"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-ee1e2c407724-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a002"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-ee1e2c407724-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a003"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-ee1e2c407724-c001:u0005",
+      "kind": "question-set",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a005",
+        "s-ee1e2c407724-c001:a006"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019",
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-ee1e2c407724-c001:u0006",
+      "kind": "question-set",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a007",
+        "s-ee1e2c407724-c001:a008"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-ee1e2c407724-c001:u0007",
+      "kind": "question-set",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a009"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-ee1e2c407724-c001:u0008",
+      "kind": "definition",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a010"
+      ],
+      "blocks": [
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-ee1e2c407724-c001:u0009",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a011"
+      ],
+      "blocks": [
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-ee1e2c407724-c001:u0010",
+      "kind": "question-set",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a012"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035",
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-ee1e2c407724-c001:u0011",
+      "kind": "definition",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a013"
+      ],
+      "blocks": [
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-ee1e2c407724-c001:u0012",
+      "kind": "list",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a014"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-ee1e2c407724-c001:u0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a015"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-ee1e2c407724-c001:u0014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a016"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-ee1e2c407724-c001:u0015",
+      "kind": "method-template",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a017"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049",
+        "b00050",
+        "b00051",
+        "b00052",
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-ee1e2c407724-c001:u0016",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ee1e2c407724-c001:a018"
+      ],
+      "blocks": [
+        "b00056"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

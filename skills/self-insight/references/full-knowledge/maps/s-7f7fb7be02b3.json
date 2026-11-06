@@ -1,0 +1,522 @@
+{
+  "concepts": [
+    {
+      "name": "8-12岁阶段特征",
+      "definition": "8-12岁孩子开始与父母疏远，父母感到失去控制，孩子情绪波动大，前额叶未发育成熟导致冲动。",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a002",
+        "s-7f7fb7be02b3-c001:a005",
+        "s-7f7fb7be02b3-c001:a010",
+        "s-7f7fb7be02b3-c001:a011"
+      ]
+    },
+    {
+      "name": "父母自身问题处理",
+      "definition": "父母应趁孩子还小处理自己的原生家庭问题和心理情绪问题，以便更好地应对孩子。",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a004"
+      ]
+    },
+    {
+      "name": "不当管教方法",
+      "definition": "父母常用语言暴力、行为威胁等不当方法处理矛盾，这些方法可能导致孩子出现严重问题。",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a006",
+        "s-7f7fb7be02b3-c001:a007",
+        "s-7f7fb7be02b3-c001:a008"
+      ]
+    },
+    {
+      "name": "生理变化告知",
+      "definition": "父母应告知孩子生理变化，帮助孩子理解情绪波动，减少恐惧。",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a009"
+      ]
+    },
+    {
+      "name": "矛盾处理四步法",
+      "definition": "教孩子处理矛盾的四个步骤：数到十冷静、陈述情绪并理解问题、认真道歉、找出解决方法。",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:r001",
+        "s-7f7fb7be02b3-c001:a012",
+        "s-7f7fb7be02b3-c001:a013",
+        "s-7f7fb7be02b3-c001:a016",
+        "s-7f7fb7be02b3-c001:a019"
+      ]
+    },
+    {
+      "name": "3R道歉法",
+      "definition": "道歉包括Regret（后悔）、Remedy（补救）、Responsibility（负责任）三个要素。",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a017",
+        "s-7f7fb7be02b3-c001:a018"
+      ]
+    },
+    {
+      "name": "给予后果夹带恩典",
+      "definition": "在管教孩子时，给予后果后告知后果，允许选择，并夹带恩典，但孩子多次重复问题时不给予恩典。",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a001"
+      ]
+    },
+    {
+      "name": "帮助孩子梳理矛盾过程",
+      "definition": "当孩子大脑有矛盾时，帮助孩子一步一步梳理矛盾过程，反推问题核心。",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a015"
+      ]
+    },
+    {
+      "name": "情绪爆发案例",
+      "definition": "孩子因被问分数而爆发，真正问题是情绪需求未满足。",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a014"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-7f7fb7be02b3-c001:a002",
+      "target": "s-7f7fb7be02b3-c001:a003",
+      "kind": "association",
+      "condition": "8-12岁阶段",
+      "reason": "“8-12岁父母感到失去控制并焦虑”与“8-12岁父母不知如何处理矛盾是更大的困难”同属该阶段父母的困难，但因果证据不足，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原因果不充分，改为关联。"
+    },
+    {
+      "source": "s-7f7fb7be02b3-c001:a004",
+      "target": "s-7f7fb7be02b3-c001:a003",
+      "kind": "supports",
+      "condition": "父母提前处理自身问题",
+      "reason": "父母处理好自己的问题后，更知道如何应对孩子，从而减少处理矛盾的困难。"
+    },
+    {
+      "source": "s-7f7fb7be02b3-c001:a006",
+      "target": "s-7f7fb7be02b3-c001:a008",
+      "kind": "example_of",
+      "condition": "语言暴力",
+      "reason": "“8-12岁父母常用语言暴力”与“案例中父母曾讲‘你怎么不去死’等语言暴力，孩子后来寻死”构成实例关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例是语言暴力行为的实例。"
+    },
+    {
+      "source": "s-7f7fb7be02b3-c001:a007",
+      "target": "s-7f7fb7be02b3-c001:a008",
+      "kind": "association",
+      "condition": "行为威胁",
+      "reason": "“8-12岁父母常用行为威胁，孩子可能反做被威胁的事”与“案例中父母威胁‘你怎么不去死’，孩子后来寻死”虽相关，但目标案例为语言暴力而非行为威胁，不能直接支持源命题，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "威胁类型不同，支持力度不足。"
+    },
+    {
+      "source": "s-7f7fb7be02b3-c001:a009",
+      "target": "s-7f7fb7be02b3-c001:a010",
+      "kind": "causes",
+      "condition": "生理变化",
+      "reason": "生理变化导致情绪波动，孩子因此产生自我矛盾。"
+    },
+    {
+      "source": "s-7f7fb7be02b3-c001:a011",
+      "target": "s-7f7fb7be02b3-c001:r001",
+      "kind": "prerequisite",
+      "condition": "前额叶未发育成熟",
+      "reason": "因为前额叶未发育成熟，孩子容易冲动，所以需要教导孩子处理矛盾的方法。"
+    },
+    {
+      "source": "s-7f7fb7be02b3-c001:a012",
+      "target": "s-7f7fb7be02b3-c001:a013",
+      "kind": "step_of",
+      "condition": "矛盾处理四步法",
+      "reason": "数到十冷静是第一步，陈述情绪并理解问题是第二步。"
+    },
+    {
+      "source": "s-7f7fb7be02b3-c001:a013",
+      "target": "s-7f7fb7be02b3-c001:a016",
+      "kind": "step_of",
+      "condition": "矛盾处理四步法",
+      "reason": "陈述情绪并理解问题是第二步，认真道歉是第三步。"
+    },
+    {
+      "source": "s-7f7fb7be02b3-c001:a016",
+      "target": "s-7f7fb7be02b3-c001:a019",
+      "kind": "step_of",
+      "condition": "矛盾处理四步法",
+      "reason": "认真道歉是第三步，找出解决问题的方法是第四步。"
+    },
+    {
+      "source": "s-7f7fb7be02b3-c001:a017",
+      "target": "s-7f7fb7be02b3-c001:a018",
+      "kind": "supports",
+      "condition": "3R道歉法",
+      "reason": "a017详细说明3R道歉法，a018说明孩子道歉的要求，两者一致。"
+    },
+    {
+      "source": "s-7f7fb7be02b3-c001:a015",
+      "target": "s-7f7fb7be02b3-c001:a013",
+      "kind": "supports",
+      "condition": "理解问题",
+      "reason": "帮助孩子梳理矛盾过程有助于理解问题，是陈述情绪并理解问题步骤的深化。"
+    },
+    {
+      "source": "s-7f7fb7be02b3-c001:a014",
+      "target": "s-7f7fb7be02b3-c001:a013",
+      "kind": "example_of",
+      "condition": "情绪爆发",
+      "reason": "“孩子因被问分数爆发，无法表述情绪与理解根本问题”是“教孩子陈述情绪并理解问题”的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例体现概念所述问题。"
+    },
+    {
+      "source": "s-7f7fb7be02b3-c001:a001",
+      "target": "s-7f7fb7be02b3-c001:a019",
+      "kind": "supports",
+      "condition": "管教方法",
+      "reason": "给予后果夹带恩典的方法中，帮助孩子思考如果还有一次机会会怎么做，与找出解决问题的方法类似。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "8-12岁孩子因生理变化和前额叶发育未成熟导致情绪波动和冲动时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a009",
+        "s-7f7fb7be02b3-c001:a010",
+        "s-7f7fb7be02b3-c001:a011",
+        "s-7f7fb7be02b3-c001:a012",
+        "s-7f7fb7be02b3-c001:a013"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "父母在8-12岁阶段使用不当管教方法如语言暴力、行为威胁时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a006",
+        "s-7f7fb7be02b3-c001:a007",
+        "s-7f7fb7be02b3-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "阶段与角色",
+      "when": "父母趁孩子还小处理自身问题，以便更好地应对8-12岁孩子的矛盾",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a004",
+        "s-7f7fb7be02b3-c001:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "理解情绪",
+      "when": "教孩子处理矛盾时，需要先理解情绪再采取行动",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:r001",
+        "s-7f7fb7be02b3-c001:a012",
+        "s-7f7fb7be02b3-c001:a013"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a017",
+        "s-7f7fb7be02b3-c001:a018"
+      ],
+      "reason": "两者都描述3R道歉法，内容实质等价，只是表述角度不同。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "教孩子处理矛盾四步法",
+      "steps": [
+        {
+          "action": "情绪激动时先数到十冷静",
+          "atom_ids": [
+            "s-7f7fb7be02b3-c001:a012"
+          ],
+          "condition": "情绪激动时"
+        },
+        {
+          "action": "教孩子陈述情绪并理解问题",
+          "atom_ids": [
+            "s-7f7fb7be02b3-c001:a013",
+            "s-7f7fb7be02b3-c001:a015"
+          ],
+          "condition": "孩子无法表述情绪或理解问题"
+        },
+        {
+          "action": "教孩子认真道歉",
+          "atom_ids": [
+            "s-7f7fb7be02b3-c001:a016",
+            "s-7f7fb7be02b3-c001:a017",
+            "s-7f7fb7be02b3-c001:a018"
+          ],
+          "condition": "孩子需要道歉时"
+        },
+        {
+          "action": "找出解决问题的方法",
+          "atom_ids": [
+            "s-7f7fb7be02b3-c001:a019"
+          ],
+          "condition": "矛盾解决后"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-7f7fb7be02b3-c001:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a001"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a003"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u004",
+      "kind": "advice",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a004"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a005"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u006",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a006"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u007",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a007"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a008"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a009"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u010",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a010"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a011"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a012"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a013"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a014"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a015"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a016"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a017"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a018"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:a019"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-7f7fb7be02b3-c001:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-7f7fb7be02b3-c001:r001"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00019",
+        "b00023",
+        "b00024"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

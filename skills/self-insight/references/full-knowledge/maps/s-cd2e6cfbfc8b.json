@@ -1,0 +1,2863 @@
+{
+  "concepts": [
+    {
+      "name": "赋能",
+      "definition": "赋能是一种管教态度，不是立即见效的方法，需要时间等待孩子成长；赋能不是惩罚，不是让孩子痛苦或夺走力量，而是通过行为示范等方式帮助孩子。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a001",
+        "s-cd2e6cfbfc8b-c001:a002",
+        "s-cd2e6cfbfc8b-c001:xe002",
+        "s-cd2e6cfbfc8b-c001:xe003",
+        "s-cd2e6cfbfc8b-c002:a007",
+        "s-cd2e6cfbfc8b-c002:a016",
+        "s-cd2e6cfbfc8b-c002:a028",
+        "s-cd2e6cfbfc8b-c003:a015"
+      ]
+    },
+    {
+      "name": "管教目标",
+      "definition": "管教时要快速找出具体、可衡量的管教目标，目标不能模糊或错误，否则后续行为会偏差；在特定情境下，管教目标可能不是情绪连接，而是其他缺失的东西，如语言沟通。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a009",
+        "s-cd2e6cfbfc8b-c001:a010",
+        "s-cd2e6cfbfc8b-c001:xe011",
+        "s-cd2e6cfbfc8b-c002:a019",
+        "s-cd2e6cfbfc8b-c002:a020"
+      ]
+    },
+    {
+      "name": "语言沟通训练",
+      "definition": "孩子之间冲突往往因为缺乏语言沟通，管教目标应是建立孩子用语言沟通，而不是用行为表达需求；可以通过练习表达拒绝和需要的语言、引导孩子说出需要、教孩子求助等方法训练。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a011",
+        "s-cd2e6cfbfc8b-c001:a012",
+        "s-cd2e6cfbfc8b-c001:a013",
+        "s-cd2e6cfbfc8b-c001:r004",
+        "s-cd2e6cfbfc8b-c001:r005",
+        "s-cd2e6cfbfc8b-c001:r006",
+        "s-cd2e6cfbfc8b-c001:r007",
+        "s-cd2e6cfbfc8b-c001:xe012"
+      ]
+    },
+    {
+      "name": "玩具收纳训练",
+      "definition": "在孩子很小的时候（两三岁左右）可以训练玩具收纳，如拿一个玩具出来前先放一个回去；收纳时间可以灵活，不一定要马上收；四岁孩子玩具多时父母可以帮忙收。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a005",
+        "s-cd2e6cfbfc8b-c001:a006",
+        "s-cd2e6cfbfc8b-c001:r002",
+        "s-cd2e6cfbfc8b-c001:r003",
+        "s-cd2e6cfbfc8b-c001:xe007"
+      ]
+    },
+    {
+      "name": "作业与内驱力",
+      "definition": "盯着孩子做作业会培养外驱力，导致孩子不盯着就不专注；应告诉孩子作业多久做完然后不管他，父母给自己立界限不再干涉；孩子不做作业的后果可以从学校获得，但需要时间等待。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a015",
+        "s-cd2e6cfbfc8b-c001:a016",
+        "s-cd2e6cfbfc8b-c001:a017",
+        "s-cd2e6cfbfc8b-c001:xe016"
+      ]
+    },
+    {
+      "name": "界限",
+      "definition": "界限因人而异，父母要给自己立界限；界限的设立和后果给予因年龄而异；父母作为房子的主人有权要求孩子收拾干净；孩子不能同时要求西方父母的自由和中国父母的负担；承诺是相互的。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a017",
+        "s-cd2e6cfbfc8b-c002:a017",
+        "s-cd2e6cfbfc8b-c002:a018",
+        "s-cd2e6cfbfc8b-c002:a025",
+        "s-cd2e6cfbfc8b-c003:a008",
+        "s-cd2e6cfbfc8b-c003:a009",
+        "s-cd2e6cfbfc8b-c003:a010",
+        "s-cd2e6cfbfc8b-c003:a016"
+      ]
+    },
+    {
+      "name": "独立睡觉",
+      "definition": "九岁孩子应独立睡觉，这是孩子成熟和对自己负责的关键；家长应要求孩子独立睡觉，不再陪睡，并设定具体界限，如九点前完成作业可送上床，否则自己睡。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a019",
+        "s-cd2e6cfbfc8b-c002:a002",
+        "s-cd2e6cfbfc8b-c002:a003",
+        "s-cd2e6cfbfc8b-c002:a004"
+      ]
+    },
+    {
+      "name": "身体疲劳与情绪稳定",
+      "definition": "身体很累很虚弱时，没有办法情绪稳定，必须让自己睡觉；如果疲倦是情绪内耗导致，需要解决内耗问题；父母应优先照顾好自己，才能照顾孩子。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a018",
+        "s-cd2e6cfbfc8b-c001:xe019",
+        "s-cd2e6cfbfc8b-c002:a001",
+        "s-cd2e6cfbfc8b-c002:a005",
+        "s-cd2e6cfbfc8b-c002:a006",
+        "s-cd2e6cfbfc8b-c002:r001"
+      ]
+    },
+    {
+      "name": "孩子情绪波动",
+      "definition": "幼儿园孩子在学校受到大量刺激，回家后可能行为燥、大哭，需要安静；孩子情绪基本稳定需要青春期过后，六七岁过后十岁左右稍微好一点，十二三四岁又开始波动；约33%的孩子在10-12岁经历小青春期。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a008",
+        "s-cd2e6cfbfc8b-c001:xe009",
+        "s-cd2e6cfbfc8b-c002:a009",
+        "s-cd2e6cfbfc8b-c002:a010",
+        "s-cd2e6cfbfc8b-c002:a011",
+        "s-cd2e6cfbfc8b-c002:a012",
+        "s-cd2e6cfbfc8b-c002:a013"
+      ]
+    },
+    {
+      "name": "肯定与自我认知",
+      "definition": "父母对孩子的肯定影响孩子的自我认知；如果孩子考了96分，父母应直接肯定，而不是质疑排名；父母不肯定孩子可能导致孩子寻求虚拟世界的认同；当孩子对父母肯定他人反应激烈时，父母应反思自身行为。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a030",
+        "s-cd2e6cfbfc8b-c002:a031",
+        "s-cd2e6cfbfc8b-c003:a001",
+        "s-cd2e6cfbfc8b-c003:a002",
+        "s-cd2e6cfbfc8b-c003:a003",
+        "s-cd2e6cfbfc8b-c003:a004",
+        "s-cd2e6cfbfc8b-c003:a006",
+        "s-cd2e6cfbfc8b-c003:a007"
+      ]
+    },
+    {
+      "name": "挑食纠正",
+      "definition": "如果孩子只吃喜欢的食物，父母可以只提供孩子不喜欢的食物，孩子不吃就饿着；孩子不吃是因为不够饿，饿狠了什么都会吃。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a021",
+        "s-cd2e6cfbfc8b-c003:a022"
+      ]
+    },
+    {
+      "name": "生病护理",
+      "definition": "孩子呕吐后两小时内不喝水，两小时后喝电解质水，避免乳制品，吃白米饭等；父母应隐藏焦虑，让孩子觉得生病是正常的事；除非必须，否则不建议给孩子用药。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a023",
+        "s-cd2e6cfbfc8b-c003:a024",
+        "s-cd2e6cfbfc8b-c003:a025",
+        "s-cd2e6cfbfc8b-c003:a026",
+        "s-cd2e6cfbfc8b-c003:a027",
+        "s-cd2e6cfbfc8b-c003:a028"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a001",
+      "target": "s-cd2e6cfbfc8b-c002:a007",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都强调赋能需要时间，k00001说赋能不是立刻看到孩子大变样，k00059说赋能需要慢慢来才能看到结果。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a002",
+      "target": "s-cd2e6cfbfc8b-c001:xe003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都定义赋能与惩罚的区别，k00002说想让孩子痛苦不是赋能，k00035说想让孩子痛苦、夺走他的力量不是赋能。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a004",
+      "target": "s-cd2e6cfbfc8b-c001:xe005",
+      "kind": "association",
+      "condition": "",
+      "reason": "“儿子不做作业的后果（内在能力版）”与“儿子不做作业的后果（规则与行动版）”描述同一案例，仅为重复陈述，并非支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "重复内容不构成支持。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a005",
+      "target": "s-cd2e6cfbfc8b-c001:a005",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述在孩子很小的时候训练玩具收纳，拿一个玩具出来前先放一个回去。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a006",
+      "target": "s-cd2e6cfbfc8b-c001:xe007",
+      "kind": "association",
+      "condition": "",
+      "reason": "“玩具收纳时间灵活（规则与行动版）”与“玩具收纳时间灵活（短版）”内容相同，仅为重复陈述，不应视为支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "重复内容不构成支持。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a007",
+      "target": "s-cd2e6cfbfc8b-c001:xe008",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述应激式反应管教是情绪主导回应，表现为惩罚但不赋能。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a008",
+      "target": "s-cd2e6cfbfc8b-c001:xe009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述幼儿园孩子在学校受到大量刺激，回家后行为燥、大哭，需要安静。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a009",
+      "target": "s-cd2e6cfbfc8b-c001:a009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调管教时要快速找出管教目标，目标不对后续行为都错。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a010",
+      "target": "s-cd2e6cfbfc8b-c001:xe011",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都指出在特定情境下管教目标不是情绪连接，而是其他缺失的东西。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a011",
+      "target": "s-cd2e6cfbfc8b-c001:xe012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述孩子之间冲突往往因为缺乏语言沟通，全程用行为表达需求。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a012",
+      "target": "s-cd2e6cfbfc8b-c001:a012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都指出目标应是建立孩子用语言沟通，可以和孩子练习表达拒绝和需要的语言。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a013",
+      "target": "s-cd2e6cfbfc8b-c001:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述引导孩子说出需要，例如问“你想弟弟怎么做？”并教他用语言表达。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a014",
+      "target": "s-cd2e6cfbfc8b-c001:a014",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都指出如果孩子只挣钱不花钱，挣钱就没有意义，要教孩子花钱。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a015",
+      "target": "s-cd2e6cfbfc8b-c001:xe016",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述盯着孩子做作业会培养外驱力，导致孩子不盯着就不专注。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a016",
+      "target": "s-cd2e6cfbfc8b-c001:a016",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都建议不要盯着孩子做作业，应告诉孩子作业多久做完然后不管他。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a017",
+      "target": "s-cd2e6cfbfc8b-c001:a017",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调父母要给自己立界限，不再干涉孩子做作业。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a018",
+      "target": "s-cd2e6cfbfc8b-c001:xe019",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都指出身体很累很虚弱时没有办法情绪稳定，必须让自己睡觉。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a019",
+      "target": "s-cd2e6cfbfc8b-c001:a019",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都指出九岁孩子应独立睡觉，这是孩子成熟和对自己负责的关键。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:r001",
+      "target": "s-cd2e6cfbfc8b-c001:xe001",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "k00020说提问时背景交代得越多越好，k00033说在课程中提问应限定在课程主题范围内，两者关于提问的规范不同。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:r002",
+      "target": "s-cd2e6cfbfc8b-c001:r003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都涉及玩具收纳的协助，k00021说四岁孩子玩具多时父母可以帮忙收，k00022说可以让孩子在玩下一个玩具前先把当前玩具收好，都是玩具收纳的替代做法。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:r004",
+      "target": "s-cd2e6cfbfc8b-c001:r005",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都涉及训练孩子用语言沟通，k00023指出管教目标应是建立孩子用语言沟通，k00024说可以和孩子练习表达拒绝和需要的语言。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:r005",
+      "target": "s-cd2e6cfbfc8b-c001:r006",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都涉及引导孩子表达需要，k00024说可以和孩子练习表达拒绝和需要的语言，k00025说引导孩子说出需要并教他用语言表达。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:r006",
+      "target": "s-cd2e6cfbfc8b-c001:r007",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "k00025是引导孩子表达需要，k00026是当弟弟不听时教孩子向妈妈求助，是语言沟通训练的进一步步骤。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a014",
+      "target": "s-cd2e6cfbfc8b-c001:a014",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都指出如果孩子只挣钱不花钱，挣钱就没有意义，要教孩子花钱。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a015",
+      "target": "s-cd2e6cfbfc8b-c001:xe016",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述盯着孩子做作业会培养外驱力，导致孩子不盯着就不专注。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a016",
+      "target": "s-cd2e6cfbfc8b-c001:a016",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都建议不要盯着孩子做作业，应告诉孩子作业多久做完然后不管他。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a017",
+      "target": "s-cd2e6cfbfc8b-c001:a017",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调父母要给自己立界限，不再干涉孩子做作业。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a018",
+      "target": "s-cd2e6cfbfc8b-c001:xe019",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都指出身体很累很虚弱时没有办法情绪稳定，必须让自己睡觉。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a019",
+      "target": "s-cd2e6cfbfc8b-c001:a019",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都指出九岁孩子应独立睡觉，这是孩子成熟和对自己负责的关键。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a001",
+      "target": "s-cd2e6cfbfc8b-c002:r001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述身体疲惫时无法保持情绪稳定，必须让自己睡觉，并强调自我照顾。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a002",
+      "target": "s-cd2e6cfbfc8b-c002:a004",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "k00054是设定独立睡觉界限的具体做法，k00056是应对孩子要求陪睡的回应，是界限设定的后续步骤。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a003",
+      "target": "s-cd2e6cfbfc8b-c001:a019",
+      "kind": "supports",
+      "condition": "九岁孩子独立睡觉是孩子成熟和对自己负责的关键",
+      "reason": "“独立睡觉是孩子成熟和负责任的关键”提出独立睡觉对成熟和自信的重要性，支持“九岁孩子独立睡觉”作为成熟和对自己负责的关键。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "一般原则支持具体年龄的应用。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a005",
+      "target": "s-cd2e6cfbfc8b-c002:a006",
+      "kind": "causes",
+      "condition": "内耗重导致疲倦",
+      "reason": "k00057指出如果疲倦是情绪内耗导致，需要解决内耗问题；k00058建议去上自我认知共振营解决内耗，因此k00057是k00058的原因。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a008",
+      "target": "s-cd2e6cfbfc8b-c002:a009",
+      "kind": "association",
+      "condition": "",
+      "reason": "“家长无需为严厉管教道歉”讨论家长在管教时的情绪表达，“六岁孩子发脾气是否正常的判断标准”讨论孩子发脾气的频率，两者主体和条件不同，不构成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 contrasts 不成立，改为 association。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a009",
+      "target": "s-cd2e6cfbfc8b-c002:a010",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都涉及孩子情绪波动，k00061说六岁孩子偶尔发脾气可能是荷尔蒙波动导致，k00062说孩子有时哭或笑停不下来可能是荷尔蒙高高低低导致。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a010",
+      "target": "s-cd2e6cfbfc8b-c002:a011",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00063是讲师分享的孩子因小事哭闹的案例，是k00062所述荷尔蒙波动导致情绪失控的一个具体例子。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a012",
+      "target": "s-cd2e6cfbfc8b-c002:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都涉及孩子情绪稳定的年龄阶段，k00064说孩子情绪基本稳定需要青春期过后，k00065说约33%的孩子在10-12岁经历小青春期，补充了具体阶段。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a014",
+      "target": "s-cd2e6cfbfc8b-c002:a015",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "k00066指出孩子退让可能因为害怕或性格，家长需要教孩子保护自己的东西；k00067给出在家练习保护自己东西的方法，是后续步骤。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a015",
+      "target": "s-cd2e6cfbfc8b-c002:a016",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00068说赋能有时是通过家长的行为来帮助孩子，例如示范如何要回东西；k00067是具体示范要回东西的方法，是赋能的例子。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a017",
+      "target": "s-cd2e6cfbfc8b-c002:a018",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00069说家长立不了界限的原因是自己一直在打破自己的界限；k00070是某学员家电视保姆案例，是家长打破界限导致孩子拿电视做保姆的具体例子。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a019",
+      "target": "s-cd2e6cfbfc8b-c002:a020",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00071说设立目标时要具体，不能模糊；k00072是某学员的目标错误案例，目标太高、不具体，是k00071的反面例子。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a020",
+      "target": "s-cd2e6cfbfc8b-c002:a021",
+      "kind": "association",
+      "condition": "某学员案例中的目标调整与求人方法相关",
+      "reason": "“某学员的目标错误案例”指出目标应改为学习求人应有的样子，“教孩子求人的方法”提供具体做法，但案例本身不是方法的步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 关系不成立，改为 association。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a021",
+      "target": "s-cd2e6cfbfc8b-c002:a022",
+      "kind": "supports",
+      "condition": "孩子求人态度不当",
+      "reason": "“教孩子求人的方法”要求孩子自己写错音、家长只负责签字，支持“责任划分：写错音与签字”中写错音是孩子责任、签字是家长责任的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "方法与责任划分一致。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a023",
+      "target": "s-cd2e6cfbfc8b-c002:a021",
+      "kind": "association",
+      "condition": "当孩子做错时的纠正方式",
+      "reason": "“让孩子重新做一次的方法”是孩子做错后的纠正策略，与“教孩子求人的方法”相关，但不是后者的明确步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 关系证据不足，改为 association。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a024",
+      "target": "s-cd2e6cfbfc8b-c002:a025",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00076说后果必须由家长设立；k00077说界限因人而异，家长应立界限，两者都强调家长在界限和后果中的主导作用。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a025",
+      "target": "s-cd2e6cfbfc8b-c002:a026",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00077说如果一个人尊重你的界限，你可以放下界限帮他；k00078是某学员抄书越界案例，孩子平时自主，所以家长愿意越界帮忙，是k00077的具体例子。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a027",
+      "target": "s-cd2e6cfbfc8b-c002:a028",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "k00079说当一方找孩子麻烦时，另一方应立刻把孩子提出来，告诉孩子这不关他的事；k00080是赋能孩子应对父母矛盾的具体方法，是后续步骤。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a029",
+      "target": "s-cd2e6cfbfc8b-c002:a029",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述对于两岁孩子不当行为的引导方法。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a030",
+      "target": "s-cd2e6cfbfc8b-c002:a031",
+      "kind": "example_of",
+      "condition": "孩子对家长肯定别人反应激烈的案例",
+      "reason": "“孩子嫉妒别人家孩子的案例”具体呈现了孩子因家长肯定他人而激烈反应的情形，是“反思孩子激烈反应的原因”所描述情境的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 方向不当，改为 example_of。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a031",
+      "target": "s-cd2e6cfbfc8b-c002:a031",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调当孩子对家长肯定别人反应激烈时，家长应反思自身行为。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:r001",
+      "target": "s-cd2e6cfbfc8b-c002:a001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述身体疲惫时无法保持情绪稳定，必须让自己睡觉。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a019",
+      "target": "s-cd2e6cfbfc8b-c002:a019",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调设立目标时要具体，不能模糊。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a021",
+      "target": "s-cd2e6cfbfc8b-c002:a021",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述教孩子求人的方法。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a028",
+      "target": "s-cd2e6cfbfc8b-c002:a028",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述赋能孩子应对父母矛盾的方法。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a029",
+      "target": "s-cd2e6cfbfc8b-c002:a029",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述对于两岁孩子不当行为的引导方法。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a031",
+      "target": "s-cd2e6cfbfc8b-c002:a031",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调当孩子对家长肯定别人反应激烈时，家长应反思自身行为。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a001",
+      "target": "s-cd2e6cfbfc8b-c002:a031",
+      "kind": "association",
+      "condition": "",
+      "reason": "“孩子对父母肯定他人反应激烈时，父母应反思自身行为”与“反思孩子激烈反应的原因”表述同一观点，仅为重复陈述，不构成一方支持另一方。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "重复内容不构成支持。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a002",
+      "target": "s-cd2e6cfbfc8b-c003:a001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00091说父母应思考如何让孩子感受到父母对他的自豪和肯定，k00090说父母应反思自己做了什么导致孩子反应激烈，两者都涉及通过增加肯定来减少嫉妒反应。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a003",
+      "target": "s-cd2e6cfbfc8b-c003:a004",
+      "kind": "causes",
+      "condition": null,
+      "reason": "k00092是孩子报告成绩时母亲关注排名而非分数本身的案例，k00093说父母对成绩的反应影响孩子的自我认知，因此k00092是k00093的原因。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a004",
+      "target": "s-cd2e6cfbfc8b-c003:a006",
+      "kind": "supports",
+      "condition": "当父母对成绩的反应影响孩子自我认知时",
+      "reason": "“父母对成绩的反应影响孩子的自我认知”说明父母不肯定会导致孩子自我评价受损，支持“父母不肯定孩子会导致孩子寻求虚拟世界的认同”的因果链。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 不在允许列表，改为 supports 表达因果支持。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a005",
+      "target": "s-cd2e6cfbfc8b-c003:a006",
+      "kind": "association",
+      "condition": "",
+      "reason": "“父母配合孩子集训是父母的选择，不应算在孩子头上”与“父母不肯定孩子会导致孩子寻求虚拟世界的认同”分别讨论父母不同行为的责任和后果，不构成直接对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 contrasts 不成立，改为 association。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a007",
+      "target": "s-cd2e6cfbfc8b-c003:a003",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "k00096说父母应直接对孩子的96分表示肯定和骄傲，而不是计算是否前五名；k00092是母亲质疑排名的案例，两者观点相反。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a008",
+      "target": "s-cd2e6cfbfc8b-c003:a008",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述当孩子说“他们不嫌乱”而父母要求整洁时，父母应坚持自己的要求。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a009",
+      "target": "s-cd2e6cfbfc8b-c003:a010",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都涉及父母与孩子之间的相互责任，k00098说孩子不能同时要求西方父母的自由和中国父母的负担，k00099说如果孩子要求父母保守承诺，孩子也必须保守自己的承诺。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a011",
+      "target": "s-cd2e6cfbfc8b-c003:a012",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "k00100是要求孩子起床后立刻整理床铺再来吃早饭的具体做法，k00101给出习惯养成的时间公式，是习惯培养的后续步骤。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a012",
+      "target": "s-cd2e6cfbfc8b-c003:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都涉及整理床铺的习惯，k00101给出习惯养成的时间公式，k00102说起床后只需铺开被子透气，不必折叠，是具体做法。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a014",
+      "target": "s-cd2e6cfbfc8b-c003:a011",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "k00103说如果设立后果是“一个人没做到，全家人从第一天开始承担后果”，这个后果不切实际；k00100是要求孩子起床后立刻整理床铺再来吃早饭，没有涉及全家人承担后果，两者关于后果的设立不同。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a015",
+      "target": "s-cd2e6cfbfc8b-c001:a001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都涉及赋能，k00104说父母应问孩子下滑的原因和解决办法，让孩子自己整理问题，是赋能的具体做法；k00001说赋能需要时间，两者相互支持。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a016",
+      "target": "s-cd2e6cfbfc8b-c002:a025",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“界限设立和后果给予因年龄而异”强调界限应灵活、因人而异，支持“界限因人而异”的命题，因为年龄差异是因人而异的一个方面。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a017",
+      "target": "s-cd2e6cfbfc8b-c003:a018",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "k00106说用奖励动画片来培养孩子习惯是非常糟糕的方法，k00107建议给孩子看真实的拔牙视频教育孩子刷牙，两者关于教育方法不同。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a019",
+      "target": "s-cd2e6cfbfc8b-c002:a008",
+      "kind": "association",
+      "condition": "",
+      "reason": "“四岁半孩子打人时父母坚定制止并允许拥抱”涉及坚定设立身体界限，而“家长无需为严厉管教道歉”讨论父母有情绪、很凶或吼叫是否需道歉；两者同属界限管教议题，但前者未涉及严厉或道歉，无法直接支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "由 supports 改为 association：仅同一议题，无直接支持关系。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a020",
+      "target": "s-cd2e6cfbfc8b-c003:a021",
+      "kind": "association",
+      "condition": "",
+      "reason": "“因害怕孩子不好好吃饭而调整上餐顺序是矫枉过正”是关于上餐顺序的界限告诫，而“通过只提供不喜欢的食物来纠正挑食”是关于食物内容与饥饿的干预；两者同属挑食纠正议题，但方法不直接冲突或相互支持，不足以构成对比或支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "由 contrasts 改为 association。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a021",
+      "target": "s-cd2e6cfbfc8b-c003:a022",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“通过只提供不喜欢的食物来纠正挑食”的策略建立在“孩子不吃是因为不够饿，饿狠了什么都会吃”的机制上，前者为后者提供了应用场景和支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a023",
+      "target": "s-cd2e6cfbfc8b-c003:a023",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述孩子呕吐后的家庭护理方法。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a024",
+      "target": "s-cd2e6cfbfc8b-c003:a024",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述父母过度焦虑会让孩子觉得自己身体弱。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a025",
+      "target": "s-cd2e6cfbfc8b-c003:a025",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述父母应隐藏焦虑，让孩子觉得生病是正常的事。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a026",
+      "target": "s-cd2e6cfbfc8b-c003:a026",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述喜乐的心是良药，孩子身体越来越好。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a027",
+      "target": "s-cd2e6cfbfc8b-c003:a027",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述十五岁男孩抵触就医可能因父母让他觉得自己弱。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a028",
+      "target": "s-cd2e6cfbfc8b-c003:a028",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都描述父母应尽量少给孩子用药。"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c001:a008",
+      "kind": "complements",
+      "condition": "幼儿园孩子回家后行为燥",
+      "reason": "a008 详细解释了幼儿园孩子行为燥的原因（学校刺激过载，大脑负担重），补充了 source 中例子的具体机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a008",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n001",
+      "kind": "complements",
+      "condition": "幼儿园孩子回家后行为燥",
+      "reason": "a008 详细解释了幼儿园孩子行为燥的原因（学校刺激过载，大脑负担重），补充了 source 中例子的具体机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c001:xe009",
+      "kind": "complements",
+      "condition": "幼儿园孩子回家后行为燥",
+      "reason": "xe009 与 a008 内容相同，同样补充了刺激过载导致行为燥的机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:xe009",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n001",
+      "kind": "complements",
+      "condition": "幼儿园孩子回家后行为燥",
+      "reason": "xe009 与 a008 内容相同，同样补充了刺激过载导致行为燥的机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c003:v2-n001",
+      "kind": "association",
+      "condition": "适用孩子汇报成绩时",
+      "reason": "c003:v2-n001 提出倾听孩子话语中的重点，是从孩子角度理解的一种具体做法，与 source 原则关联，但无直接因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n001",
+      "kind": "association",
+      "condition": "适用孩子汇报成绩时",
+      "reason": "c003:v2-n001 提出倾听孩子话语中的重点，是从孩子角度理解的一种具体做法，与 source 原则关联，但无直接因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c003:a019",
+      "kind": "association",
+      "condition": "处理孩子打人场景",
+      "reason": "c003:a019 案例中父母理解孩子情绪并允许拥抱，体现从孩子角度处理问题，与 source 原则相关但非直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a019",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n001",
+      "kind": "association",
+      "condition": "处理孩子打人场景",
+      "reason": "c003:a019 案例中父母理解孩子情绪并允许拥抱，体现从孩子角度处理问题，与 source 原则相关但非直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n002",
+      "target": "s-cd2e6cfbfc8b-c002:a028",
+      "kind": "association",
+      "condition": "父母矛盾涉及孩子时",
+      "reason": "c002:a028 赋能孩子应对父母矛盾，体现智慧处理冲突，与 source 不闹崩原则相关，但未直接说明。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a028",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n002",
+      "kind": "association",
+      "condition": "父母矛盾涉及孩子时",
+      "reason": "c002:a028 赋能孩子应对父母矛盾，体现智慧处理冲突，与 source 不闹崩原则相关，但未直接说明。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n002",
+      "target": "s-cd2e6cfbfc8b-c003:a015",
+      "kind": "association",
+      "condition": "孩子成绩下滑时",
+      "reason": "c003:a015 赋能孩子自己找原因，属于智慧管教表现，与 source 关联，但未明确互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a015",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n002",
+      "kind": "association",
+      "condition": "孩子成绩下滑时",
+      "reason": "c003:a015 赋能孩子自己找原因，属于智慧管教表现，与 source 关联，但未明确互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n002",
+      "target": "s-cd2e6cfbfc8b-c003:a025",
+      "kind": "association",
+      "condition": "孩子生病时",
+      "reason": "c003:a025 父母隐藏焦虑，不给孩子压力，体现智慧，与 source 主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a025",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n002",
+      "kind": "association",
+      "condition": "孩子生病时",
+      "reason": "c003:a025 父母隐藏焦虑，不给孩子压力，体现智慧，与 source 主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n002",
+      "target": "s-cd2e6cfbfc8b-c003:a010",
+      "kind": "association",
+      "condition": "父母与孩子承诺相互",
+      "reason": "c003:a010 强调承诺相互，父母守住界限，体现智慧，与 source 相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a010",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n002",
+      "kind": "association",
+      "condition": "父母与孩子承诺相互",
+      "reason": "c003:a010 强调承诺相互，父母守住界限，体现智慧，与 source 相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n003",
+      "target": "s-cd2e6cfbfc8b-c001:r002",
+      "kind": "association",
+      "condition": "四岁孩子玩具多时",
+      "reason": "候选内容与源中举例几乎相同，均确认四岁孩子玩具多时父母协助收纳不算越界；内容重叠，无新增实质点，仅标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:r002",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n003",
+      "kind": "association",
+      "condition": "四岁孩子玩具多时",
+      "reason": "候选内容与源中举例几乎相同，均确认四岁孩子玩具多时父母协助收纳不算越界；内容重叠，无新增实质点，仅标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n003",
+      "target": "s-cd2e6cfbfc8b-c002:a025",
+      "kind": "complements",
+      "condition": "当孩子平时自主或尊重家长界限时，可给予恩典；否则须守界限",
+      "reason": "源提出界限与恩典并存但在执行中未给出适用条件，候选补充了因人而异的具体条件：孩子若平时自主或尊重界限则可越界帮忙，否则必须守住界限；补上了恩典的适用条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a025",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n003",
+      "kind": "complements",
+      "condition": "当孩子平时自主或尊重家长界限时，可给予恩典；否则须守界限",
+      "reason": "源提出界限与恩典并存但在执行中未给出适用条件，候选补充了因人而异的具体条件：孩子若平时自主或尊重界限则可越界帮忙，否则必须守住界限；补上了恩典的适用条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n003",
+      "target": "s-cd2e6cfbfc8b-c003:a016",
+      "kind": "complements",
+      "condition": "界限设立和后果给予需考虑年龄差异",
+      "reason": "源以四岁孩子为例说明恩典，未涉及年龄因素；候选补充界限设立和后果给予因年龄而异且应灵活，补充了年龄维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a016",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n003",
+      "kind": "complements",
+      "condition": "界限设立和后果给予需考虑年龄差异",
+      "reason": "源以四岁孩子为例说明恩典，未涉及年龄因素；候选补充界限设立和后果给予因年龄而异且应灵活，补充了年龄维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n003",
+      "target": "s-cd2e6cfbfc8b-c003:a019",
+      "kind": "complements",
+      "condition": "孩子打人冲突情境中",
+      "reason": "源说明界限与恩典可同时存在，候选给出另一情境实例：坚定制止打人（界限）同时允许拥抱（恩典），补充了界限与恩典并存的执行实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a019",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n003",
+      "kind": "complements",
+      "condition": "孩子打人冲突情境中",
+      "reason": "源说明界限与恩典可同时存在，候选给出另一情境实例：坚定制止打人（界限）同时允许拥抱（恩典），补充了界限与恩典并存的执行实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n004",
+      "target": "s-cd2e6cfbfc8b-c001:xe016",
+      "kind": "association",
+      "condition": "当家长盯着孩子做作业时",
+      "reason": "候选内容与源中“盯作业培养外驱力”一致，并补充了不盯着就不专注的恶性循环细节；但源进一步延伸到AI淘汰，候选未涉及，内容高度重叠，视为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:xe016",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n004",
+      "kind": "association",
+      "condition": "当家长盯着孩子做作业时",
+      "reason": "候选内容与源中“盯作业培养外驱力”一致，并补充了不盯着就不专注的恶性循环细节；但源进一步延伸到AI淘汰，候选未涉及，内容高度重叠，视为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n004",
+      "target": "s-cd2e6cfbfc8b-c001:a015",
+      "kind": "association",
+      "condition": "当家长盯着孩子做作业时",
+      "reason": "与候选xe016内容完全相同，均强调盯作业培养外驱力并形成恶性循环，与源部分重叠，仅标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a015",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n004",
+      "kind": "association",
+      "condition": "当家长盯着孩子做作业时",
+      "reason": "与候选xe016内容完全相同，均强调盯作业培养外驱力并形成恶性循环，与源部分重叠，仅标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n004",
+      "target": "s-cd2e6cfbfc8b-c001:a016",
+      "kind": "prerequisite",
+      "condition": "当孩子做作业时",
+      "reason": "源论证盯作业培养外驱力并导致未来被淘汰，是“不盯作业”这一做法的理由和前提；候选提供具体做法：告诉孩子作业时长后不管他。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a016",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n004",
+      "kind": "requires",
+      "condition": "当孩子做作业时",
+      "reason": "源论证盯作业培养外驱力并导致未来被淘汰，是“不盯作业”这一做法的理由和前提；候选提供具体做法：告诉孩子作业时长后不管他。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n004",
+      "target": "s-cd2e6cfbfc8b-c001:a004",
+      "kind": "association",
+      "condition": "孩子不做作业且未受家长干预时",
+      "reason": "候选案例展示讲师不盯孩子做作业，孩子最终因学校后果主动改变，支持源的观点；但案例属于具体情境，仅标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a004",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n004",
+      "kind": "association",
+      "condition": "孩子不做作业且未受家长干预时",
+      "reason": "候选案例展示讲师不盯孩子做作业，孩子最终因学校后果主动改变，支持源的观点；但案例属于具体情境，仅标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n004",
+      "target": "s-cd2e6cfbfc8b-c001:a017",
+      "kind": "prerequisite",
+      "condition": "父母面对孩子做作业时",
+      "reason": "源指出盯作业有害，为父母给自己立界限、不再干涉作业提供了理由；候选提出具体行动：不再干涉孩子做作业。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a017",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n004",
+      "kind": "requires",
+      "condition": "父母面对孩子做作业时",
+      "reason": "源指出盯作业有害，为父母给自己立界限、不再干涉作业提供了理由；候选提出具体行动：不再干涉孩子做作业。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "target": "s-cd2e6cfbfc8b-c001:r004",
+      "kind": "association",
+      "condition": "在兄弟冲突案例中",
+      "reason": "候选直接复述源中“管教目标应是建立语言沟通”，内容重复，无新增实质点，仅标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:r004",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "kind": "association",
+      "condition": "在兄弟冲突案例中",
+      "reason": "候选直接复述源中“管教目标应是建立语言沟通”，内容重复，无新增实质点，仅标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "target": "s-cd2e6cfbfc8b-c001:a011",
+      "kind": "complements",
+      "condition": "孩子之间发生冲突时",
+      "reason": "源描述冲突过程无语言沟通，候选明确提炼出“缺乏语言沟通导致行为冲突”的一般原因，补充了源案例背后的机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a011",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "kind": "complements",
+      "condition": "孩子之间发生冲突时",
+      "reason": "源描述冲突过程无语言沟通，候选明确提炼出“缺乏语言沟通导致行为冲突”的一般原因，补充了源案例背后的机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "target": "s-cd2e6cfbfc8b-c001:xe012",
+      "kind": "complements",
+      "condition": "孩子之间发生冲突时",
+      "reason": "与a011内容相同，补充了冲突原因在于缺乏语言沟通，且行为表达需求无语言交流。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:xe012",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "kind": "complements",
+      "condition": "孩子之间发生冲突时",
+      "reason": "与a011内容相同，补充了冲突原因在于缺乏语言沟通，且行为表达需求无语言交流。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "target": "s-cd2e6cfbfc8b-c001:a012",
+      "kind": "complements",
+      "condition": "训练孩子沟通能力时",
+      "reason": "源设定目标为建立语言沟通，候选补充了实现该目标的具体训练方法：练习表达拒绝和需要的语言，使目标可操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a012",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "kind": "complements",
+      "condition": "训练孩子沟通能力时",
+      "reason": "源设定目标为建立语言沟通，候选补充了实现该目标的具体训练方法：练习表达拒绝和需要的语言，使目标可操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "target": "s-cd2e6cfbfc8b-c001:a008",
+      "kind": "complements",
+      "condition": "幼儿园孩子从学校回家后",
+      "reason": "源中老大从学校回家后想安静，候选解释幼儿园孩子回家后行为燥的原因可能是学校刺激过载需要安静，补充了源案例中老大行为的背景原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a008",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "kind": "complements",
+      "condition": "幼儿园孩子从学校回家后",
+      "reason": "源中老大从学校回家后想安静，候选解释幼儿园孩子回家后行为燥的原因可能是学校刺激过载需要安静，补充了源案例中老大行为的背景原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "target": "s-cd2e6cfbfc8b-c001:xe009",
+      "kind": "complements",
+      "condition": "幼儿园孩子从学校回家后",
+      "reason": "与a008内容相同，补充了幼儿园孩子回家后行为燥的原因，为源中老大寻求安静提供了背景解释。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:xe009",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "kind": "complements",
+      "condition": "幼儿园孩子从学校回家后",
+      "reason": "与a008内容相同，补充了幼儿园孩子回家后行为燥的原因，为源中老大寻求安静提供了背景解释。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "target": "s-cd2e6cfbfc8b-c001:r005",
+      "kind": "complements",
+      "condition": "训练孩子表达拒绝时",
+      "reason": "源目标为建立语言沟通，候选给出具体表达例子“弟弟，我现在需要安静，请你走开”，补充了语言训练的实操内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:r005",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "kind": "complements",
+      "condition": "训练孩子表达拒绝时",
+      "reason": "源目标为建立语言沟通，候选给出具体表达例子“弟弟，我现在需要安静，请你走开”，补充了语言训练的实操内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "target": "s-cd2e6cfbfc8b-c001:a009",
+      "kind": "example_of",
+      "condition": "管教冲突事件中",
+      "reason": "候选提出一般方法：观察缺失项作为管教目标；源案例正是该方法的应用：缺失语言沟通，因此将其设为管教目标。故源是候选原则的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a009",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "kind": "has_example",
+      "condition": "管教冲突事件中",
+      "reason": "候选提出一般方法：观察缺失项作为管教目标；源案例正是该方法的应用：缺失语言沟通，因此将其设为管教目标。故源是候选原则的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "target": "s-cd2e6cfbfc8b-c001:r006",
+      "kind": "complements",
+      "condition": "引导孩子表达需要时",
+      "reason": "源目标为语言沟通，候选补充引导方法：问“你想弟弟怎么做？”并教孩子用语言表达，丰富了实现目标的步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:r006",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "kind": "complements",
+      "condition": "引导孩子表达需要时",
+      "reason": "源目标为语言沟通，候选补充引导方法：问“你想弟弟怎么做？”并教孩子用语言表达，丰富了实现目标的步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "target": "s-cd2e6cfbfc8b-c001:a013",
+      "kind": "complements",
+      "condition": "引导孩子表达需要时",
+      "reason": "与r006内容相同，补充了引导孩子说出需要的具体提问方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a013",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n005",
+      "kind": "complements",
+      "condition": "引导孩子表达需要时",
+      "reason": "与r006内容相同，补充了引导孩子说出需要的具体提问方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c002:a001",
+      "kind": "association",
+      "condition": "身体疲惫、虚弱、带孩子疲倦时",
+      "reason": "候选内容与源高度一致，均指出身体疲惫时无法情绪稳定、必须睡觉，内容重复，仅标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a001",
+      "target": "s-cd2e6cfbfc8b-c002:v2-n001",
+      "kind": "association",
+      "condition": "身体疲惫、虚弱、带孩子疲倦时",
+      "reason": "候选内容与源高度一致，均指出身体疲惫时无法情绪稳定、必须睡觉，内容重复，仅标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c002:r001",
+      "kind": "complements",
+      "condition": "在身体疲惫且孩子九岁左右时",
+      "reason": "候选在源的基础上补充了具体做法：对于九岁孩子，应要求他适应家庭情况而非家长适应孩子，补上了行动层面的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:r001",
+      "target": "s-cd2e6cfbfc8b-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在身体疲惫且孩子九岁左右时",
+      "reason": "候选在源的基础上补充了具体做法：对于九岁孩子，应要求他适应家庭情况而非家长适应孩子，补上了行动层面的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c001:a018",
+      "kind": "association",
+      "condition": "身体很累很虚弱时",
+      "reason": "候选重复源的核心观点：身体疲惫无法情绪稳定，必须睡觉，无新增信息，标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:a018",
+      "target": "s-cd2e6cfbfc8b-c002:v2-n001",
+      "kind": "association",
+      "condition": "身体很累很虚弱时",
+      "reason": "候选重复源的核心观点：身体疲惫无法情绪稳定，必须睡觉，无新增信息，标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c001:xe019",
+      "kind": "association",
+      "condition": "身体很累很虚弱时",
+      "reason": "与a018内容相同，重复源的观点，仅标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:xe019",
+      "target": "s-cd2e6cfbfc8b-c002:v2-n001",
+      "kind": "association",
+      "condition": "身体很累很虚弱时",
+      "reason": "与a018内容相同，重复源的观点，仅标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c002:a005",
+      "kind": "complements",
+      "condition": "疲倦原因可能是身体或情绪内耗时",
+      "reason": "源只提到身体疲惫，候选补充了疲倦的另一种来源——情绪内耗，并区分了应对方式：身体原因靠睡觉，内耗需解决内耗问题，补充了源未涉及的维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a005",
+      "target": "s-cd2e6cfbfc8b-c002:v2-n001",
+      "kind": "complements",
+      "condition": "疲倦原因可能是身体或情绪内耗时",
+      "reason": "源只提到身体疲惫，候选补充了疲倦的另一种来源——情绪内耗，并区分了应对方式：身体原因靠睡觉，内耗需解决内耗问题，补充了源未涉及的维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c002:a004",
+      "kind": "complements",
+      "condition": "当孩子要求陪睡且家长身体疲倦时",
+      "reason": "候选将源的原则应用于具体情境：拒绝陪睡并说明妈妈需要睡觉，体现身体疲惫时优先照顾自己的做法，补充了应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c002:a004",
+      "target": "s-cd2e6cfbfc8b-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子要求陪睡且家长身体疲倦时",
+      "reason": "候选将源的原则应用于具体情境：拒绝陪睡并说明妈妈需要睡觉，体现身体疲惫时优先照顾自己的做法，补充了应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c003:a003",
+      "kind": "association",
+      "condition": "孩子报告成绩时",
+      "reason": "候选是源中所述“追问分数、质疑排名”的具体反面案例，展示了母亲如何忽略孩子数学前五名的重点而纠结分数；内容高度相关，但未补充新原则，标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a003",
+      "target": "s-cd2e6cfbfc8b-c003:v2-n001",
+      "kind": "association",
+      "condition": "孩子报告成绩时",
+      "reason": "候选是源中所述“追问分数、质疑排名”的具体反面案例，展示了母亲如何忽略孩子数学前五名的重点而纠结分数；内容高度相关，但未补充新原则，标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c003:a004",
+      "kind": "complements",
+      "condition": "父母对成绩的第一反应影响孩子自我认知",
+      "reason": "源指出应肯定成就而非质疑排名，候选补充了质疑排名的后果：孩子无法合乎中道地看待自己，父母看法影响孩子自我评价，补上了源未展开的机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a004",
+      "target": "s-cd2e6cfbfc8b-c003:v2-n001",
+      "kind": "complements",
+      "condition": "父母对成绩的第一反应影响孩子自我认知",
+      "reason": "源指出应肯定成就而非质疑排名，候选补充了质疑排名的后果：孩子无法合乎中道地看待自己，父母看法影响孩子自我评价，补上了源未展开的机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c003:a007",
+      "kind": "association",
+      "condition": "孩子考了96分时",
+      "reason": "候选将源的观点具体化为对96分的直接肯定，而非计算排名，内容重复但更具体，标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a007",
+      "target": "s-cd2e6cfbfc8b-c003:v2-n001",
+      "kind": "association",
+      "condition": "孩子考了96分时",
+      "reason": "候选将源的观点具体化为对96分的直接肯定，而非计算排名，内容重复但更具体，标记关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c001:v2-n001",
+      "kind": "example_of",
+      "condition": "孩子汇报成绩或分享经历时",
+      "reason": "候选提出一般原则：育儿应站在孩子角度理解行为；源通过倾听孩子话语中的重点并肯定成就，体现了从孩子角度理解的原则，故源是候选原则的应用例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c001:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "孩子汇报成绩或分享经历时",
+      "reason": "候选提出一般原则：育儿应站在孩子角度理解行为；源通过倾听孩子话语中的重点并肯定成就，体现了从孩子角度理解的原则，故源是候选原则的应用例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:v2-n001",
+      "target": "s-cd2e6cfbfc8b-c003:a006",
+      "kind": "complements",
+      "condition": "父母长期不肯定孩子的成就时",
+      "reason": "源强调应肯定孩子成就，候选补充了不肯定可能导致的长期后果：孩子寻求虚拟世界认同甚至游戏上瘾，补上了源未提及的后续影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd2e6cfbfc8b-c003:a006",
+      "target": "s-cd2e6cfbfc8b-c003:v2-n001",
+      "kind": "complements",
+      "condition": "父母长期不肯定孩子的成就时",
+      "reason": "源强调应肯定孩子成就，候选补充了不肯定可能导致的长期后果：孩子寻求虚拟世界认同甚至游戏上瘾，补上了源未提及的后续影响。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "父母需要给孩子设立界限并采取具体行动时，如独立睡觉、作业界限、玩具收纳等。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a017",
+        "s-cd2e6cfbfc8b-c002:a002",
+        "s-cd2e6cfbfc8b-c002:a004",
+        "s-cd2e6cfbfc8b-c002:a017",
+        "s-cd2e6cfbfc8b-c002:a018",
+        "s-cd2e6cfbfc8b-c002:a025",
+        "s-cd2e6cfbfc8b-c003:a008",
+        "s-cd2e6cfbfc8b-c003:a016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "内在能力",
+      "when": "通过具体行动赋能孩子，如示范、引导孩子自己解决问题。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a015",
+        "s-cd2e6cfbfc8b-c002:a016",
+        "s-cd2e6cfbfc8b-c002:a028",
+        "s-cd2e6cfbfc8b-c003:a015"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "规则与行动",
+      "when": "理解孩子情绪后采取相应管教行动，如孩子因荷尔蒙波动哭闹时忍过去，或孩子因缺乏语言沟通而冲突时训练语言沟通。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a008",
+        "s-cd2e6cfbfc8b-c001:a011",
+        "s-cd2e6cfbfc8b-c001:a012",
+        "s-cd2e6cfbfc8b-c001:a013",
+        "s-cd2e6cfbfc8b-c001:r004",
+        "s-cd2e6cfbfc8b-c001:r005",
+        "s-cd2e6cfbfc8b-c001:r006",
+        "s-cd2e6cfbfc8b-c001:r007",
+        "s-cd2e6cfbfc8b-c001:xe009",
+        "s-cd2e6cfbfc8b-c001:xe012",
+        "s-cd2e6cfbfc8b-c002:a009",
+        "s-cd2e6cfbfc8b-c002:a010",
+        "s-cd2e6cfbfc8b-c002:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "界限",
+      "when": "父母需要照顾好自己才能给孩子立界限，如身体疲惫时先睡觉再要求孩子独立睡觉。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a018",
+        "s-cd2e6cfbfc8b-c001:xe019",
+        "s-cd2e6cfbfc8b-c002:a001",
+        "s-cd2e6cfbfc8b-c002:a002",
+        "s-cd2e6cfbfc8b-c002:a004",
+        "s-cd2e6cfbfc8b-c002:r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "理解情绪",
+      "when": "父母反思自身行为对孩子情绪的影响，如孩子嫉妒时检查自己是否肯定孩子。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a030",
+        "s-cd2e6cfbfc8b-c002:a031",
+        "s-cd2e6cfbfc8b-c003:a001",
+        "s-cd2e6cfbfc8b-c003:a002",
+        "s-cd2e6cfbfc8b-c003:a003",
+        "s-cd2e6cfbfc8b-c003:a004",
+        "s-cd2e6cfbfc8b-c003:a006",
+        "s-cd2e6cfbfc8b-c003:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "根据孩子年龄阶段设立相应界限，如九岁孩子独立睡觉。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a019",
+        "s-cd2e6cfbfc8b-c002:a002",
+        "s-cd2e6cfbfc8b-c002:a003",
+        "s-cd2e6cfbfc8b-c002:a004",
+        "s-cd2e6cfbfc8b-c002:a012",
+        "s-cd2e6cfbfc8b-c002:a013"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "专注力",
+      "to": "界限",
+      "when": "父母不盯着孩子做作业，给自己立界限，培养孩子内驱力。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a015",
+        "s-cd2e6cfbfc8b-c001:a016",
+        "s-cd2e6cfbfc8b-c001:a017",
+        "s-cd2e6cfbfc8b-c001:xe016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a001",
+        "s-cd2e6cfbfc8b-c001:xe002"
+      ],
+      "reason": "两者内容完全相同，都描述赋能需要时间，不是立刻看到孩子大变样。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a002",
+        "s-cd2e6cfbfc8b-c001:xe003"
+      ],
+      "reason": "两者内容完全相同，都描述赋能与惩罚的区别，想让孩子痛苦不是赋能。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a004",
+        "s-cd2e6cfbfc8b-c001:xe005"
+      ],
+      "reason": "两者内容完全相同，都描述讲师儿子不做作业的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a005"
+      ],
+      "reason": "两者内容完全相同，都描述玩具收纳训练。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a006",
+        "s-cd2e6cfbfc8b-c001:xe007"
+      ],
+      "reason": "两者内容完全相同，都描述玩具收纳时间灵活。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a007",
+        "s-cd2e6cfbfc8b-c001:xe008"
+      ],
+      "reason": "两者内容完全相同，都描述应激式反应管教。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a008",
+        "s-cd2e6cfbfc8b-c001:xe009"
+      ],
+      "reason": "两者内容完全相同，都描述幼儿园孩子回家后行为燥的原因。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a009"
+      ],
+      "reason": "两者内容完全相同，都强调管教目标的重要性。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a010",
+        "s-cd2e6cfbfc8b-c001:xe011"
+      ],
+      "reason": "两者内容完全相同，都指出管教目标不是情绪连接。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a011",
+        "s-cd2e6cfbfc8b-c001:xe012"
+      ],
+      "reason": "两者内容完全相同，都描述缺乏语言沟通导致行为冲突。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a012"
+      ],
+      "reason": "两者内容完全相同，都描述训练孩子用语言沟通。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a013"
+      ],
+      "reason": "两者内容完全相同，都描述引导孩子表达需要。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a014"
+      ],
+      "reason": "两者内容完全相同，都描述赚钱要教孩子花钱。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a015",
+        "s-cd2e6cfbfc8b-c001:xe016"
+      ],
+      "reason": "两者内容完全相同，都描述盯着孩子做作业培养外驱力。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a016"
+      ],
+      "reason": "两者内容完全相同，都建议不盯着孩子做作业。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a017"
+      ],
+      "reason": "两者内容完全相同，都强调给自己立界限。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a018",
+        "s-cd2e6cfbfc8b-c001:xe019"
+      ],
+      "reason": "两者内容完全相同，都描述身体疲劳影响情绪稳定。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a019"
+      ],
+      "reason": "两者内容完全相同，都描述九岁孩子独立睡觉。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a001",
+        "s-cd2e6cfbfc8b-c002:r001"
+      ],
+      "reason": "两者内容完全相同，都描述身体疲惫时无法保持情绪稳定，必须让自己睡觉。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a019"
+      ],
+      "reason": "两者内容完全相同，都描述设立具体目标的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a021"
+      ],
+      "reason": "两者内容完全相同，都描述教孩子求人的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a028"
+      ],
+      "reason": "两者内容完全相同，都描述赋能孩子应对父母矛盾。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a029"
+      ],
+      "reason": "两者内容完全相同，都描述两岁孩子不当行为的引导。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a031"
+      ],
+      "reason": "两者内容完全相同，都描述反思孩子激烈反应的原因。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a008"
+      ],
+      "reason": "两者内容完全相同，都描述孩子说“他们不嫌乱”时父母应坚持自己的要求。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a021"
+      ],
+      "reason": "两者内容完全相同，都描述通过只提供不喜欢的食物来纠正挑食。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a022"
+      ],
+      "reason": "两者内容完全相同，都描述孩子不吃是因为不够饿。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a023"
+      ],
+      "reason": "两者内容完全相同，都描述孩子呕吐后的家庭护理方法。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a024"
+      ],
+      "reason": "两者内容完全相同，都描述父母过度焦虑会让孩子觉得自己身体弱。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a025"
+      ],
+      "reason": "两者内容完全相同，都描述父母应隐藏焦虑，让孩子觉得生病是正常的事。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a026"
+      ],
+      "reason": "两者内容完全相同，都描述喜乐的心是良药，孩子身体越来越好。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a027"
+      ],
+      "reason": "两者内容完全相同，都描述十五岁男孩抵触就医可能因父母让他觉得自己弱。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a028"
+      ],
+      "reason": "两者内容完全相同，都描述父母应尽量少给孩子用药。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:r001",
+        "s-cd2e6cfbfc8b-c001:xe001"
+      ],
+      "description": "k00020说提问时背景交代得越多越好，k00033说在课程中提问应限定在课程主题范围内，两者关于提问的规范存在矛盾。",
+      "needed_evidence": "需要明确课程提问的具体规范，是否允许详细背景或必须限定主题。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a008",
+        "s-cd2e6cfbfc8b-c002:a009"
+      ],
+      "description": "k00060说家长有情绪、很凶、吼他都是正常的，完全不用道歉；k00061说六岁孩子发脾气是否正常要看情况，如果每一件事情都爆炸说明情绪管控有问题。两者关于情绪表达的正常性判断存在矛盾。",
+      "needed_evidence": "需要明确家长严厉管教与孩子情绪管控问题之间的界限。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a005",
+        "s-cd2e6cfbfc8b-c003:a006"
+      ],
+      "description": "k00094说父母配合孩子集训是父母自己的选择，不应算在孩子头上；k00095说父母不肯定孩子会导致孩子寻求虚拟世界的认同，两者关于父母责任和后果的观点存在矛盾。",
+      "needed_evidence": "需要明确父母在支持孩子兴趣与肯定孩子成绩之间的平衡。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a007",
+        "s-cd2e6cfbfc8b-c003:a003"
+      ],
+      "description": "k00096说父母应直接对孩子的96分表示肯定和骄傲，而不是计算是否前五名；k00092是母亲质疑排名的案例，两者观点相反。",
+      "needed_evidence": "需要明确父母对成绩的正确反应方式。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a014",
+        "s-cd2e6cfbfc8b-c003:a011"
+      ],
+      "description": "k00103说如果设立后果是“一个人没做到，全家人从第一天开始承担后果”，这个后果不切实际；k00100是要求孩子起床后立刻整理床铺再来吃早饭，没有涉及全家人承担后果，两者关于后果的设立存在矛盾。",
+      "needed_evidence": "需要明确后果设立的具体原则。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a017",
+        "s-cd2e6cfbfc8b-c003:a018"
+      ],
+      "description": "k00106说用奖励动画片来培养孩子习惯是非常糟糕的方法，k00107建议给孩子看真实的拔牙视频教育孩子刷牙，两者关于教育方法存在矛盾。",
+      "needed_evidence": "需要明确有效的习惯培养方法。"
+    },
+    {
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a020",
+        "s-cd2e6cfbfc8b-c003:a021"
+      ],
+      "description": "k00109说因害怕孩子不好好吃饭而调整上餐顺序是矫枉过正，k00110说通过只提供不喜欢的食物来纠正挑食，两者关于纠正挑食的方法存在矛盾。",
+      "needed_evidence": "需要明确纠正挑食的合理方法。"
+    }
+  ],
+  "path": [
+    {
+      "name": "赋能管教实操流程",
+      "steps": [
+        {
+          "action": "找出具体管教目标",
+          "atom_ids": [
+            "s-cd2e6cfbfc8b-c001:a009",
+            "s-cd2e6cfbfc8b-c002:a019",
+            "s-cd2e6cfbfc8b-c002:a020"
+          ],
+          "condition": "管教情境中，目标需具体可衡量"
+        },
+        {
+          "action": "根据目标采取赋能行动",
+          "atom_ids": [
+            "s-cd2e6cfbfc8b-c001:a012",
+            "s-cd2e6cfbfc8b-c001:a013",
+            "s-cd2e6cfbfc8b-c001:r005",
+            "s-cd2e6cfbfc8b-c001:r006",
+            "s-cd2e6cfbfc8b-c001:r007",
+            "s-cd2e6cfbfc8b-c002:a015",
+            "s-cd2e6cfbfc8b-c002:a016",
+            "s-cd2e6cfbfc8b-c002:a028",
+            "s-cd2e6cfbfc8b-c003:a015"
+          ],
+          "condition": "行动需赋能，不惩罚"
+        },
+        {
+          "action": "设立界限并坚持",
+          "atom_ids": [
+            "s-cd2e6cfbfc8b-c001:a017",
+            "s-cd2e6cfbfc8b-c002:a002",
+            "s-cd2e6cfbfc8b-c002:a004",
+            "s-cd2e6cfbfc8b-c002:a017",
+            "s-cd2e6cfbfc8b-c002:a018",
+            "s-cd2e6cfbfc8b-c002:a025",
+            "s-cd2e6cfbfc8b-c003:a008",
+            "s-cd2e6cfbfc8b-c003:a016"
+          ],
+          "condition": "界限因人而异，父母需先给自己立界限"
+        },
+        {
+          "action": "等待后果自然发生",
+          "atom_ids": [
+            "s-cd2e6cfbfc8b-c001:a001",
+            "s-cd2e6cfbfc8b-c001:xe002",
+            "s-cd2e6cfbfc8b-c002:a007",
+            "s-cd2e6cfbfc8b-c001:a004",
+            "s-cd2e6cfbfc8b-c001:xe005"
+          ],
+          "condition": "赋能需要时间，不急于求成"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "d9b83594db4350c990a90ecce0c68ebb3ed5f5220cc9eb6e947d58fa47bbe08a",
+  "point_units": [
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:xe001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:r001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a001",
+        "s-cd2e6cfbfc8b-c001:xe002"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a002",
+        "s-cd2e6cfbfc8b-c001:xe003"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a003"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a004"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:r002"
+      ],
+      "blocks": [
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a005",
+        "s-cd2e6cfbfc8b-c001:r003"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a006"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a007",
+        "s-cd2e6cfbfc8b-c001:xe008"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a008",
+        "s-cd2e6cfbfc8b-c001:xe009"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a009"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a010",
+        "s-cd2e6cfbfc8b-c001:xe011"
+      ],
+      "blocks": [
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a011",
+        "s-cd2e6cfbfc8b-c001:xe012"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a012",
+        "s-cd2e6cfbfc8b-c001:r004"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045",
+        "b00046",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u018",
+      "kind": "case",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:v2-n005"
+      ],
+      "blocks": [
+        "b00035",
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a012",
+        "s-cd2e6cfbfc8b-c001:r005"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a013",
+        "s-cd2e6cfbfc8b-c001:r006",
+        "s-cd2e6cfbfc8b-c001:r007"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u022",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a014"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a015",
+        "s-cd2e6cfbfc8b-c001:xe016"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052",
+        "b00053",
+        "b00054",
+        "b00055",
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u024",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a016"
+      ],
+      "blocks": [
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u025",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a017"
+      ],
+      "blocks": [
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:v2-n004"
+      ],
+      "blocks": [
+        "b00023",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u027",
+      "kind": "condition",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a018",
+        "s-cd2e6cfbfc8b-c001:xe019",
+        "s-cd2e6cfbfc8b-c002:a001",
+        "s-cd2e6cfbfc8b-c002:r001"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u028",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a019"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c001:u029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u1",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u2",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:a019",
+        "s-cd2e6cfbfc8b-c002:a003"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u3",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a002",
+        "s-cd2e6cfbfc8b-c002:a004"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064",
+        "b00065",
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u4",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a005",
+        "s-cd2e6cfbfc8b-c002:a006"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u5",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a007"
+      ],
+      "blocks": [
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u6",
+      "kind": "condition",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a008"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u7",
+      "kind": "condition",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a009"
+      ],
+      "blocks": [
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u8",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a010",
+        "s-cd2e6cfbfc8b-c002:a011"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077",
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u9",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a012",
+        "s-cd2e6cfbfc8b-c002:a013"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u10",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a014",
+        "s-cd2e6cfbfc8b-c002:a015",
+        "s-cd2e6cfbfc8b-c002:a016"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u11",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a017",
+        "s-cd2e6cfbfc8b-c002:a018"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088",
+        "b00089",
+        "b00090",
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u12",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a019",
+        "s-cd2e6cfbfc8b-c002:a020"
+      ],
+      "blocks": [
+        "b00093",
+        "b00094",
+        "b00095",
+        "b00096",
+        "b00097",
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u13",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a021",
+        "s-cd2e6cfbfc8b-c002:a022"
+      ],
+      "blocks": [
+        "b00099",
+        "b00100",
+        "b00101",
+        "b00102",
+        "b00103",
+        "b00104"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u14",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a023",
+        "s-cd2e6cfbfc8b-c002:a024"
+      ],
+      "blocks": [
+        "b00105",
+        "b00106"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u15",
+      "kind": "condition",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a025",
+        "s-cd2e6cfbfc8b-c002:a026"
+      ],
+      "blocks": [
+        "b00108",
+        "b00109",
+        "b00110",
+        "b00111"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u16",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a027",
+        "s-cd2e6cfbfc8b-c002:a028"
+      ],
+      "blocks": [
+        "b00112",
+        "b00113",
+        "b00114",
+        "b00115",
+        "b00116",
+        "b00117",
+        "b00118",
+        "b00119"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u17",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a029"
+      ],
+      "blocks": [
+        "b00120",
+        "b00121",
+        "b00122"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c002:u18",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a030",
+        "s-cd2e6cfbfc8b-c002:a031"
+      ],
+      "blocks": [
+        "b00123",
+        "b00124",
+        "b00125",
+        "b00126",
+        "b00127"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a031"
+      ],
+      "blocks": [
+        "b00124",
+        "b00125"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:a031"
+      ],
+      "blocks": [
+        "b00126"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a002"
+      ],
+      "blocks": [
+        "b00127"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a003"
+      ],
+      "blocks": [
+        "b00128",
+        "b00129",
+        "b00130",
+        "b00131",
+        "b00132",
+        "b00133"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00129",
+        "b00130",
+        "b00131"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a004"
+      ],
+      "blocks": [
+        "b00134",
+        "b00135"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a005"
+      ],
+      "blocks": [
+        "b00136"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a006"
+      ],
+      "blocks": [
+        "b00137",
+        "b00139"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:r001"
+      ],
+      "blocks": [
+        "b00138"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a007"
+      ],
+      "blocks": [
+        "b00131",
+        "b00133",
+        "b00140"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a008"
+      ],
+      "blocks": [
+        "b00141",
+        "b00142",
+        "b00143"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a009"
+      ],
+      "blocks": [
+        "b00144"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a010"
+      ],
+      "blocks": [
+        "b00145",
+        "b00146",
+        "b00147"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a011"
+      ],
+      "blocks": [
+        "b00147"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a012"
+      ],
+      "blocks": [
+        "b00148",
+        "b00149"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a013"
+      ],
+      "blocks": [
+        "b00150"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u017",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a014"
+      ],
+      "blocks": [
+        "b00151"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a016"
+      ],
+      "blocks": [
+        "b00152",
+        "b00155"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a015"
+      ],
+      "blocks": [
+        "b00153",
+        "b00154",
+        "b00155"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u020",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a017"
+      ],
+      "blocks": [
+        "b00155"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a018"
+      ],
+      "blocks": [
+        "b00156",
+        "b00157"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u022",
+      "kind": "case",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a019"
+      ],
+      "blocks": [
+        "b00158",
+        "b00159"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u023",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a020"
+      ],
+      "blocks": [
+        "b00160",
+        "b00161"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a021"
+      ],
+      "blocks": [
+        "b00162",
+        "b00163",
+        "b00164",
+        "b00165",
+        "b00166"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a022"
+      ],
+      "blocks": [
+        "b00166"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a023"
+      ],
+      "blocks": [
+        "b00167",
+        "b00168"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a024"
+      ],
+      "blocks": [
+        "b00168"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a025"
+      ],
+      "blocks": [
+        "b00168"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a026"
+      ],
+      "blocks": [
+        "b00169"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a027"
+      ],
+      "blocks": [
+        "b00167",
+        "b00169"
+      ]
+    },
+    {
+      "id": "s-cd2e6cfbfc8b-c003:u031",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:a028"
+      ],
+      "blocks": [
+        "b00168"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "从孩子的角度理解行为",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cd2e6cfbfc8b",
+          "blocks": [
+            "b00033"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "父母要有智慧，有些事不值得闹崩",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cd2e6cfbfc8b",
+          "blocks": [
+            "b00022"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "界限中包含界限与恩典",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cd2e6cfbfc8b",
+          "blocks": [
+            "b00024"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "过度盯着作业可能被AI淘汰",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cd2e6cfbfc8b",
+          "blocks": [
+            "b00023",
+            "b00051"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "anti-pattern"
+    },
+    {
+      "title": "某孩子兄弟冲突案例",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c001:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cd2e6cfbfc8b",
+          "blocks": [
+            "b00035",
+            "b00039",
+            "b00040",
+            "b00041",
+            "b00042",
+            "b00043",
+            "b00044"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "身体疲惫导致情绪无法稳定",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cd2e6cfbfc8b",
+          "blocks": [
+            "b00061",
+            "b00062"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "倾听孩子话语中的重点",
+      "atom_ids": [
+        "s-cd2e6cfbfc8b-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cd2e6cfbfc8b",
+          "blocks": [
+            "b00129",
+            "b00130",
+            "b00131"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

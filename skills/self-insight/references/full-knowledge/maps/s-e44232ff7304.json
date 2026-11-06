@@ -1,0 +1,3129 @@
+{
+  "concepts": [
+    {
+      "name": "羞耻",
+      "definition": "一种深切的痛苦体验，源于相信自己有缺陷，因此不值得被接纳、爱和归属。",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a001"
+      ]
+    },
+    {
+      "name": "内疚",
+      "definition": "聚焦于行为（“我做了坏事”）的情绪，让人悔改。",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a002",
+        "s-e44232ff7304-c002:a006"
+      ]
+    },
+    {
+      "name": "羞耻与内疚的区别",
+      "definition": "羞耻聚焦于自我（“我很坏”），内疚聚焦于行为（“我做了坏事”）。",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a002",
+        "s-e44232ff7304-c002:a006",
+        "s-e44232ff7304-c002:a011"
+      ]
+    },
+    {
+      "name": "自我纠正能力",
+      "definition": "有勇气承认错误并有能力扭转错误的能力。",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a008"
+      ]
+    },
+    {
+      "name": "自我检查",
+      "definition": "自我纠正的第一步，包括测量和评估两个部分。",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a014"
+      ]
+    },
+    {
+      "name": "测量",
+      "definition": "判断行为是否恰当、健康、被允许、合适。",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a014",
+        "s-e44232ff7304-c001:a015"
+      ]
+    },
+    {
+      "name": "评估",
+      "definition": "将回顾的行为与预先定义的行为进行比较。",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a014",
+        "s-e44232ff7304-c001:a019"
+      ]
+    },
+    {
+      "name": "羞耻复原力",
+      "definition": "在承认并穿越羞耻感而不损害真实自我的过程中所具备的能力。",
+      "atom_ids": [
+        "s-e44232ff7304-c003:a001"
+      ]
+    },
+    {
+      "name": "共情",
+      "definition": "羞耻的解药，羞耻感在被说出口并得到共情回应时无法存活。",
+      "atom_ids": [
+        "s-e44232ff7304-c003:a005"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-e44232ff7304-c001:a002",
+      "target": "s-e44232ff7304-c001:a003",
+      "kind": "example_of",
+      "condition": "考试低分时",
+      "reason": "a003 提供了羞耻与内疚自我对话的具体例子，说明区别。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a004",
+      "target": "s-e44232ff7304-c001:a005",
+      "kind": "contrasts",
+      "condition": "批评孩子时",
+      "reason": "a004 是羞耻性批评（贴标签），a005 是分离自我与行为的批评方法，两者形成对比。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a005",
+      "target": "s-e44232ff7304-c001:a006",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a005 提出分离自我与行为的方法，a006 说明该方法有助于改变行为。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a009",
+      "target": "s-e44232ff7304-c001:a010",
+      "kind": "supports",
+      "condition": "孩子不认错时",
+      "reason": "a009 指出孩子可能真的不知道自己错了，a010 解释原因是大脑发育未成熟导致认知差异。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a011",
+      "target": "s-e44232ff7304-c001:a012",
+      "kind": "contrasts",
+      "condition": "孩子犯错后",
+      "reason": "a011 认为必须由父母指出错误，a012 提出自然后果可以帮助孩子自我认知错误。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a014",
+      "target": "s-e44232ff7304-c001:a015",
+      "kind": "step_of",
+      "condition": "测量行为时",
+      "reason": "a014 定义自我检查包括测量，a015 是测量行为的第一步。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a014",
+      "target": "s-e44232ff7304-c001:a017",
+      "kind": "step_of",
+      "condition": "测量行为时",
+      "reason": "a014 定义自我检查包括测量，a017 是测量行为的第二步。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a015",
+      "target": "s-e44232ff7304-c001:a016",
+      "kind": "supports",
+      "condition": "定义行为时",
+      "reason": "a015 提出通过界限定义行为，a016 强调必须用自然后果加强定义。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a017",
+      "target": "s-e44232ff7304-c001:a018",
+      "kind": "example_of",
+      "condition": "回顾行为时",
+      "reason": "a017 提出回顾行为，a018 给出每日回顾问题的具体方法。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a019",
+      "target": "s-e44232ff7304-c001:a020",
+      "kind": "applies_to",
+      "condition": "自我检查后",
+      "reason": "a019 定义评估，a020 说明自我检查的目标可以是增加或减少行为。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a021",
+      "target": "s-e44232ff7304-c001:a023",
+      "kind": "step_of",
+      "condition": "正确批评时",
+      "reason": "a021 提出要培养承认错误需正确批评，a023 是完整批评的第一步。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a023",
+      "target": "s-e44232ff7304-c001:a024",
+      "kind": "step_of",
+      "condition": "完整批评时",
+      "reason": "a023 是第一步陈述事实，a024 是第二步陈述感受。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a024",
+      "target": "s-e44232ff7304-c001:a026",
+      "kind": "step_of",
+      "condition": "完整批评时",
+      "reason": "a024 是第二步陈述感受，a026 是第三步提出界限和后果。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a022",
+      "target": "s-e44232ff7304-c001:a023",
+      "kind": "contrasts",
+      "condition": "批评孩子时",
+      "reason": "a022 是错误批评的例子，a023 是完整批评的第一步，形成对比。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a025",
+      "target": "s-e44232ff7304-c001:a023",
+      "kind": "contrasts",
+      "condition": "批评孩子时",
+      "reason": "源命题指出批评中避免讽刺嘲笑羞辱，目标命题描述完整批评中陈述事实的正确方法，形成反模式与正方法的对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c001:a027",
+      "target": "s-e44232ff7304-c001:a028",
+      "kind": "supports",
+      "condition": "让孩子不害怕面对无知和犯错时",
+      "reason": "a027 提出让孩子不害怕面对无知和犯错，a028 通过实验说明孩子害怕尴尬的现象。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a028",
+      "target": "s-e44232ff7304-c001:a029",
+      "kind": "supports",
+      "condition": "孩子学习过程中",
+      "reason": "a028 显示二年级后孩子害怕尴尬，a029 解释孩子通过提问和犯错获得知识，但学业压力导致隐藏无知。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a029",
+      "target": "s-e44232ff7304-c001:a030",
+      "kind": "causes",
+      "condition": "学业机制下",
+      "reason": "a029 提到学业加重导致孩子隐藏无知，a030 解释学业机制让孩子为了保护自己而隐藏无知。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:r001",
+      "target": "s-e44232ff7304-c001:a014",
+      "kind": "step_of",
+      "condition": "培养自我纠正能力时",
+      "reason": "r001 提出培养框架包括自我检查，a014 定义自我检查。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:r001",
+      "target": "s-e44232ff7304-c001:a021",
+      "kind": "step_of",
+      "condition": "培养自我纠正能力时",
+      "reason": "r001 提出培养框架包括勇于承认错误，a021 说明勇于承认错误的前提是正确批评。"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a001",
+      "target": "s-e44232ff7304-c002:a002",
+      "kind": "causes",
+      "condition": "学业机制下",
+      "reason": "a001 说明孩子通过提问和犯错获得知识，a002 解释学业机制导致隐藏无知。"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a002",
+      "target": "s-e44232ff7304-c002:a003",
+      "kind": "causes",
+      "condition": null,
+      "reason": "a002 说明学业机制导致隐藏无知，a003 指出掩藏无知变得比探索世界更重要。"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a004",
+      "target": "s-e44232ff7304-c002:a005",
+      "kind": "association",
+      "condition": "鼓励孩子承认无知和犯错时",
+      "reason": "源命题是公司允许员工犯错的案例，目标命题是鼓励孩子承认无知和犯错；两者都涉及允许犯错但领域不同，不能直接支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c002:a006",
+      "target": "s-e44232ff7304-c002:a007",
+      "kind": "supports",
+      "condition": "父母让孩子感到羞愧时",
+      "reason": "源命题区分内疚与羞愧，指出羞愧让人隐藏，目标命题说明让孩子感到羞愧会导致隐藏行为，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c002:a008",
+      "target": "s-e44232ff7304-c002:a009",
+      "kind": "example_of",
+      "condition": "引发内疚时",
+      "reason": "a008 是老大推倒妹妹的案例，a009 给出引发内疚的语言方式。"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a008",
+      "target": "s-e44232ff7304-c002:a010",
+      "kind": "example_of",
+      "condition": "引发羞愧时",
+      "reason": "a008 是老大推倒妹妹的案例，a010 给出引发羞愧的语言方式。"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a009",
+      "target": "s-e44232ff7304-c002:a011",
+      "kind": "supports",
+      "condition": "区分内疚和羞愧的语言时",
+      "reason": "源命题给出引发内疚的语言方式，目标命题对比内疚与羞愧的语言，前者为后者中内疚部分提供支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c002:a012",
+      "target": "s-e44232ff7304-c002:a013",
+      "kind": "example_of",
+      "condition": "给予重来机会时",
+      "reason": "源命题提出给予重来机会，目标命题是用特定信号提示重来的具体做法，后者是前者的例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c002:a014",
+      "target": "s-e44232ff7304-c002:a015",
+      "kind": "contrasts",
+      "condition": "孩子犯错后",
+      "reason": "源命题说明惩罚导致记忆聚焦于逃避惩罚，目标命题提出通过重来塑造正确记忆，二者形成惩罚与重来的对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c002:a015",
+      "target": "s-e44232ff7304-c002:a016",
+      "kind": "association",
+      "condition": "无法重来时",
+      "reason": "源命题提出通过重来塑造正确记忆，目标命题说明无法重来时通过提问塑造记忆；二者是不同条件下的替代方法，非直接支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c002:a016",
+      "target": "s-e44232ff7304-c002:a017",
+      "kind": "causes",
+      "condition": "孩子脑中有了正确模板后",
+      "reason": "a016 提出通过提问塑造记忆，a017 说明正确模板提供额外选择。"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a018",
+      "target": "s-e44232ff7304-c002:a019",
+      "kind": "causes",
+      "condition": "从小被羞耻感影响时",
+      "reason": "a018 说明犯错导致焦虑和害怕丢脸，a019 指出羞耻感导致极力避免丢脸。"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a020",
+      "target": "s-e44232ff7304-c002:a021",
+      "kind": "example_of",
+      "condition": "帮助孩子正确看待犯错时",
+      "reason": "源命题提出帮助孩子正确看待犯错的方法之一让孩子知道犯错正常，目标命题是在孩子面前承认错误，后者是实现该方法的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c002:a021",
+      "target": "s-e44232ff7304-c002:a022",
+      "kind": "example_of",
+      "condition": "父母承认错误时",
+      "reason": "源命题提出父母应在孩子面前承认错误并轻松对待，目标命题是开车走错路的处理案例，是前者的具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c002:a021",
+      "target": "s-e44232ff7304-c002:a023",
+      "kind": "example_of",
+      "condition": "父母承认错误时",
+      "reason": "源命题提出父母应在孩子面前承认错误并轻松对待，目标命题是朋友被骗钱的案例，是前者的具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c002:a024",
+      "target": "s-e44232ff7304-c002:a020",
+      "kind": "example_of",
+      "condition": "帮助孩子正确看待犯错时",
+      "reason": "源命题是高中生打球被嘘的案例，展示不怕犯错的心态，目标命题是帮助孩子正确看待犯错的方法，前者是后者效果的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c002:a025",
+      "target": "s-e44232ff7304-c002:r003",
+      "kind": "example_of",
+      "condition": "把错误变成积极方面时",
+      "reason": "源命题提出把错误变成积极方面，目标命题是用游戏方式纠正书写错误的具体做法，是前者的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c002:a026",
+      "target": "s-e44232ff7304-c002:a027",
+      "kind": "supports",
+      "condition": "对待孩子提问时",
+      "reason": "a026 提出不要贬低孩子的问题，a027 说明好好对待孩子的提问。"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a028",
+      "target": "s-e44232ff7304-c002:a029",
+      "kind": "example_of",
+      "condition": "孩子寻求帮助时",
+      "reason": "a028 提出不羞耻于无知的孩子敢于寻求帮助，a029 是孩子搬箱子的故事。"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a030",
+      "target": "s-e44232ff7304-c002:a028",
+      "kind": "supports",
+      "condition": "鼓励孩子提问和寻求帮助时",
+      "reason": "a030 提出鼓励孩子提问和寻求帮助，a028 说明不羞耻于无知的孩子敢于寻求帮助。"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a031",
+      "target": "s-e44232ff7304-c002:a012",
+      "kind": "supports",
+      "condition": "孩子犯错时",
+      "reason": "源命题提出孩子犯错时给予另一次机会，目标命题提出训练自我修正的第一个方法是给予重来机会，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c002:r001",
+      "target": "s-e44232ff7304-c001:a028",
+      "kind": "supports",
+      "condition": "实验显示",
+      "reason": "源命题总结实验显示二年级后孩子害怕尴尬，目标命题是大提琴实验的具体描述，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c002:r002",
+      "target": "s-e44232ff7304-c002:a002",
+      "kind": "causes",
+      "condition": "孩子害怕提问时",
+      "reason": "r002 说明提问暴露无知导致害怕提问，a002 解释学业机制导致隐藏无知。"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a001",
+      "target": "s-e44232ff7304-c003:a002",
+      "kind": "supports",
+      "condition": "应对羞耻感时",
+      "reason": "源命题列出高羞耻复原力者的四个特征，目标命题给出应对羞耻感的三个反直觉方法，方法对应特征并支持后者有效性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c003:a003",
+      "target": "s-e44232ff7304-c003:a004",
+      "kind": "contrasts",
+      "condition": "处理羞耻感时",
+      "reason": "a003 说明秘密加剧羞耻感，a004 说明说出羞耻感可以减轻羞耻。"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a004",
+      "target": "s-e44232ff7304-c003:a005",
+      "kind": "supports",
+      "condition": "分享羞耻故事时",
+      "reason": "a004 说明说出羞耻感可以减轻羞耻，a005 指出共情是羞耻的解药。"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a006",
+      "target": "s-e44232ff7304-c003:a001",
+      "kind": "example_of",
+      "condition": "羞耻触发因素",
+      "reason": "a006 是讲师个人羞耻触发因素示例，a001 提到高羞耻复原力者知道自己羞耻的触发因素。"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a007",
+      "target": "s-e44232ff7304-c003:a002",
+      "kind": "contrasts",
+      "condition": "像对待所爱之人一样对自己说话",
+      "reason": "源命题是讲师自我对话的反例，目标命题提出像对待所爱之人一样对自己说话，形成反例与建议的对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e44232ff7304-c003:a008",
+      "target": "s-e44232ff7304-c003:a004",
+      "kind": "example_of",
+      "condition": "分享羞耻故事",
+      "reason": "a008 是脱口秀节目分享羞耻故事的案例，a004 说明分享羞耻故事可以减轻羞耻。"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n001",
+      "target": "s-e44232ff7304-c001:a029",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 与 a029 表述几乎相同，均为孩子通过提问和犯错获得知识，二年级后隐藏无知，但 a029 未包含 source 的 limits（可能不适用于所有文化背景），二者一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a029",
+      "target": "s-e44232ff7304-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 与 a029 表述几乎相同，均为孩子通过提问和犯错获得知识，二年级后隐藏无知，但 a029 未包含 source 的 limits（可能不适用于所有文化背景），二者一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n001",
+      "target": "s-e44232ff7304-c002:a001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "a001 仅给出核心观点『孩子通过提问和犯错获得知识』，source 补充了二年级后学业加重导致孩子掩藏无知的具体阶段描述，补全了信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a001",
+      "target": "s-e44232ff7304-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "a001 仅给出核心观点『孩子通过提问和犯错获得知识』，source 补充了二年级后学业加重导致孩子掩藏无知的具体阶段描述，补全了信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n001",
+      "target": "s-e44232ff7304-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子进入二年级后学业加重时",
+      "reason": "source 提到二年级后孩子掩藏无知，v2-n002 具体解释了学业机制如何通过要求回答问题导致孩子不敢提问，从而掩藏无知，补充了 source 的因果链条。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n002",
+      "target": "s-e44232ff7304-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子进入二年级后学业加重时",
+      "reason": "source 提到二年级后孩子掩藏无知，v2-n002 具体解释了学业机制如何通过要求回答问题导致孩子不敢提问，从而掩藏无知，补充了 source 的因果链条。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n001",
+      "target": "s-e44232ff7304-c001:a030",
+      "kind": "complements",
+      "condition": "当孩子进入二年级后学业加重时",
+      "reason": "a030 与 v2-n002 内容几乎相同，同样补充了学业机制导致隐藏无知的具体原因，与 source 形成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a030",
+      "target": "s-e44232ff7304-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子进入二年级后学业加重时",
+      "reason": "a030 与 v2-n002 内容几乎相同，同样补充了学业机制导致隐藏无知的具体原因，与 source 形成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n001",
+      "target": "s-e44232ff7304-c002:a002",
+      "kind": "complements",
+      "condition": "当孩子进入二年级后学业加重时",
+      "reason": "a002 是学业机制导致隐藏无知的简洁版，补充了 source 所提现象背后的机制解释。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a002",
+      "target": "s-e44232ff7304-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子进入二年级后学业加重时",
+      "reason": "a002 是学业机制导致隐藏无知的简洁版，补充了 source 所提现象背后的机制解释。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n001",
+      "target": "s-e44232ff7304-c002:r001",
+      "kind": "complements",
+      "condition": "在美国实验背景下",
+      "reason": "source 提到二年级后孩子行为变化，r001 通过大提琴实验提供了实证支持，展示了未上学与已上学孩子行为差异，补充了 source 的实验证据维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:r001",
+      "target": "s-e44232ff7304-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在美国实验背景下",
+      "reason": "source 提到二年级后孩子行为变化，r001 通过大提琴实验提供了实证支持，展示了未上学与已上学孩子行为差异，补充了 source 的实验证据维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n001",
+      "target": "s-e44232ff7304-c001:a028",
+      "kind": "complements",
+      "condition": "在美国实验背景下",
+      "reason": "a028 与 r001 类似，为大提琴实验的案例描述，补充了 source 所提现象的实验案例证据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a028",
+      "target": "s-e44232ff7304-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在美国实验背景下",
+      "reason": "a028 与 r001 类似，为大提琴实验的案例描述，补充了 source 所提现象的实验案例证据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n001",
+      "target": "s-e44232ff7304-c002:a016",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "两者都涉及提问，但 a016 是关于无法重来时通过提问塑造记忆，与 source 的提问获得知识场景不同，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a016",
+      "target": "s-e44232ff7304-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "两者都涉及提问，但 a016 是关于无法重来时通过提问塑造记忆，与 source 的提问获得知识场景不同，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n001",
+      "target": "s-e44232ff7304-c001:a027",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 提到孩子隐藏无知，a027 是让孩子不害怕面对无知和犯错，属于应对方法，与 source 的现象描述相关但无直接因果，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a027",
+      "target": "s-e44232ff7304-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 提到孩子隐藏无知，a027 是让孩子不害怕面对无知和犯错，属于应对方法，与 source 的现象描述相关但无直接因果，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n001",
+      "target": "s-e44232ff7304-c002:a030",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a030 鼓励孩子提问和寻求帮助，是 source 所提提问行为的正面引导，相关但非对同一概念的补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a030",
+      "target": "s-e44232ff7304-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a030 鼓励孩子提问和寻求帮助，是 source 所提提问行为的正面引导，相关但非对同一概念的补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n001",
+      "target": "s-e44232ff7304-c002:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a005 鼓励孩子承认无知和犯错，与 source 涉及的隐藏无知问题相关，属于不同侧面的应对方式，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a005",
+      "target": "s-e44232ff7304-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a005 鼓励孩子承认无知和犯错，与 source 涉及的隐藏无知问题相关，属于不同侧面的应对方式，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n001",
+      "target": "s-e44232ff7304-c002:a027",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a027 关于好好对待孩子的提问，与 source 的提问获得知识主题相关，但更具体于家长如何回应提问，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a027",
+      "target": "s-e44232ff7304-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a027 关于好好对待孩子的提问，与 source 的提问获得知识主题相关，但更具体于家长如何回应提问，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n002",
+      "target": "s-e44232ff7304-c001:a030",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 与 a030 内容几乎相同，均为学业机制导致孩子隐藏无知，但 a030 模块为阶段与角色，source 为自我认知，二者一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a030",
+      "target": "s-e44232ff7304-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 与 a030 内容几乎相同，均为学业机制导致孩子隐藏无知，但 a030 模块为阶段与角色，source 为自我认知，二者一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n002",
+      "target": "s-e44232ff7304-c002:a002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a002 是同一机制的简洁表达，source 增加了『只能回答问题』等细节，内容基本一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a002",
+      "target": "s-e44232ff7304-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a002 是同一机制的简洁表达，source 增加了『只能回答问题』等细节，内容基本一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n002",
+      "target": "s-e44232ff7304-c001:a029",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "a029 是更宏观的结论（孩子通过提问和犯错获得知识，二年级后隐藏无知），source 专门解释了其中隐藏无知的具体学业机制，补充了 a029 的因果细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a029",
+      "target": "s-e44232ff7304-c001:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "a029 是更宏观的结论（孩子通过提问和犯错获得知识，二年级后隐藏无知），source 专门解释了其中隐藏无知的具体学业机制，补充了 a029 的因果细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n002",
+      "target": "s-e44232ff7304-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "v2-n001 同样提出提问和犯错获得知识及二年级后隐藏无知，source 解释了造成隐藏无知的学业机制，是 v2-n001 中该现象的原因阐述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n001",
+      "target": "s-e44232ff7304-c001:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "v2-n001 同样提出提问和犯错获得知识及二年级后隐藏无知，source 解释了造成隐藏无知的学业机制，是 v2-n001 中该现象的原因阐述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n002",
+      "target": "s-e44232ff7304-c002:r002",
+      "kind": "complements",
+      "condition": "当孩子处于学业环境中时",
+      "reason": "source 提到孩子不敢再提问，r002 解释害怕提问的原因是提问会暴露无知，补充了不敢提问的心理机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:r002",
+      "target": "s-e44232ff7304-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子处于学业环境中时",
+      "reason": "source 提到孩子不敢再提问，r002 解释害怕提问的原因是提问会暴露无知，补充了不敢提问的心理机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n002",
+      "target": "s-e44232ff7304-c002:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a003 指出掩藏无知逐渐比探索世界更重要，是 source 所描述隐藏无知行为的结果，相关但非直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a003",
+      "target": "s-e44232ff7304-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a003 指出掩藏无知逐渐比探索世界更重要，是 source 所描述隐藏无知行为的结果，相关但非直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n002",
+      "target": "s-e44232ff7304-c002:a028",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a028 讲不羞耻于无知的孩子敢于寻求帮助，与 source 的隐藏无知问题相关，属于不同侧面，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a028",
+      "target": "s-e44232ff7304-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a028 讲不羞耻于无知的孩子敢于寻求帮助，与 source 的隐藏无知问题相关，属于不同侧面，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n002",
+      "target": "s-e44232ff7304-c001:a027",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a027 让孩子不害怕面对无知和犯错，是针对 source 所提隐藏无知现象的应对方法，相关但弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a027",
+      "target": "s-e44232ff7304-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a027 让孩子不害怕面对无知和犯错，是针对 source 所提隐藏无知现象的应对方法，相关但弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n002",
+      "target": "s-e44232ff7304-c002:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a005 鼓励孩子承认无知和犯错，与 source 的隐藏无知问题相关，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a005",
+      "target": "s-e44232ff7304-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a005 鼓励孩子承认无知和犯错，与 source 的隐藏无知问题相关，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n002",
+      "target": "s-e44232ff7304-c002:a001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "a001 是孩子通过提问和犯错获得知识的核心句，source 解释了学业机制导致隐藏无知的原因，是对该核心句的补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a001",
+      "target": "s-e44232ff7304-c001:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "a001 是孩子通过提问和犯错获得知识的核心句，source 解释了学业机制导致隐藏无知的原因，是对该核心句的补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n001",
+      "target": "s-e44232ff7304-c002:a007",
+      "kind": "complements",
+      "condition": "当孩子感到羞耻时",
+      "reason": "source 提到孩子会怨恨父母、不改正错误，a007 详细说明了让孩子感到羞愧的两个具体后果（不知道错了、关系隔断并隐藏行为），补充了实质内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a007",
+      "target": "s-e44232ff7304-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子感到羞耻时",
+      "reason": "source 提到孩子会怨恨父母、不改正错误，a007 详细说明了让孩子感到羞愧的两个具体后果（不知道错了、关系隔断并隐藏行为），补充了实质内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n001",
+      "target": "s-e44232ff7304-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当父母处理孩子犯错时",
+      "reason": "source 强调应帮助孩子感到内疚而非羞耻，v2-n002 指出父母容易陷入不让孩子内疚或让孩子羞愧的极端，补充了反面背景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n002",
+      "target": "s-e44232ff7304-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当父母处理孩子犯错时",
+      "reason": "source 强调应帮助孩子感到内疚而非羞耻，v2-n002 指出父母容易陷入不让孩子内疚或让孩子羞愧的极端，补充了反面背景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n001",
+      "target": "s-e44232ff7304-c002:a008",
+      "kind": "complements",
+      "condition": "当孩子犯错导致伤害时",
+      "reason": "a008 通过老大推倒妹妹的案例展示了不同父母反应导致内疚或羞愧，为 source 所述原则提供了具体情境实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a008",
+      "target": "s-e44232ff7304-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子犯错导致伤害时",
+      "reason": "a008 通过老大推倒妹妹的案例展示了不同父母反应导致内疚或羞愧，为 source 所述原则提供了具体情境实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n001",
+      "target": "s-e44232ff7304-c001:a004",
+      "kind": "complements",
+      "condition": "当父母批评孩子时",
+      "reason": "source 指出让孩子感到羞耻有负面后果，a004 给出了羞耻性批评的具体例子（贴标签），补充了如何导致羞耻的表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a004",
+      "target": "s-e44232ff7304-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当父母批评孩子时",
+      "reason": "source 指出让孩子感到羞耻有负面后果，a004 给出了羞耻性批评的具体例子（贴标签），补充了如何导致羞耻的表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n001",
+      "target": "s-e44232ff7304-c002:v2-n006",
+      "kind": "complements",
+      "condition": "当孩子感到羞耻并保守秘密时",
+      "reason": "source 提到羞耻的后果，v2-n006 补充了保密会强化羞耻并使其指数级增长的条件，扩展了羞耻影响机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n006",
+      "target": "s-e44232ff7304-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子感到羞耻并保守秘密时",
+      "reason": "source 提到羞耻的后果，v2-n006 补充了保密会强化羞耻并使其指数级增长的条件，扩展了羞耻影响机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n001",
+      "target": "s-e44232ff7304-c002:a020",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a020 是关于帮助孩子正确看待犯错的整体方法，其中涉及不要有错误羞耻感，与 source 主题相关但更广泛，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a020",
+      "target": "s-e44232ff7304-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a020 是关于帮助孩子正确看待犯错的整体方法，其中涉及不要有错误羞耻感，与 source 主题相关但更广泛，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n002",
+      "target": "s-e44232ff7304-c002:a007",
+      "kind": "complements",
+      "condition": "当父母让孩子感到羞愧时",
+      "reason": "source 提到让孩子感到羞愧的极端，a007 详细说明了该极端的两个具体后果，补充了实质内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a007",
+      "target": "s-e44232ff7304-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当父母让孩子感到羞愧时",
+      "reason": "source 提到让孩子感到羞愧的极端，a007 详细说明了该极端的两个具体后果，补充了实质内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n002",
+      "target": "s-e44232ff7304-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当父母处理孩子犯错时",
+      "reason": "source 指出两个极端，v2-n001 提出正确做法是帮助孩子感到内疚而非羞耻，补充了目标方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n001",
+      "target": "s-e44232ff7304-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当父母处理孩子犯错时",
+      "reason": "source 指出两个极端，v2-n001 提出正确做法是帮助孩子感到内疚而非羞耻，补充了目标方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n002",
+      "target": "s-e44232ff7304-c002:a008",
+      "kind": "complements",
+      "condition": "当孩子犯错导致伤害时",
+      "reason": "a008 通过具体案例展示了两个极端（不让孩子内疚或让孩子羞愧）可能导致的后果，是 source 的实例化补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a008",
+      "target": "s-e44232ff7304-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子犯错导致伤害时",
+      "reason": "a008 通过具体案例展示了两个极端（不让孩子内疚或让孩子羞愧）可能导致的后果，是 source 的实例化补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n002",
+      "target": "s-e44232ff7304-c002:a006",
+      "kind": "complements",
+      "condition": "当区分内疚与羞愧时",
+      "reason": "a006 明确内疚针对行为，羞愧针对人格，补充了 source 未定义的两个极端背后的情绪区别。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a006",
+      "target": "s-e44232ff7304-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当区分内疚与羞愧时",
+      "reason": "a006 明确内疚针对行为，羞愧针对人格，补充了 source 未定义的两个极端背后的情绪区别。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n002",
+      "target": "s-e44232ff7304-c002:a011",
+      "kind": "complements",
+      "condition": "当使用语言回应孩子错误时",
+      "reason": "a011 通过语言对比展示了内疚（陈述事实）和羞愧（定义人格）的具体表达，补充了 source 两个极端在沟通中的体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a011",
+      "target": "s-e44232ff7304-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当使用语言回应孩子错误时",
+      "reason": "a011 通过语言对比展示了内疚（陈述事实）和羞愧（定义人格）的具体表达，补充了 source 两个极端在沟通中的体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n002",
+      "target": "s-e44232ff7304-c002:a020",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a020 是帮助孩子正确看待犯错的整体方法，与 source 的两个极端问题相关，但更全面，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a020",
+      "target": "s-e44232ff7304-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a020 是帮助孩子正确看待犯错的整体方法，与 source 的两个极端问题相关，但更全面，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n002",
+      "target": "s-e44232ff7304-c001:a011",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a011 误区二（必须由父母指出错误）与 source 的两个极端不同，但都属于父母处理孩子犯错的不当方式，相关但侧重点不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a011",
+      "target": "s-e44232ff7304-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a011 误区二（必须由父母指出错误）与 source 的两个极端不同，但都属于父母处理孩子犯错的不当方式，相关但侧重点不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n002",
+      "target": "s-e44232ff7304-c001:a013",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a013 误区三（必须批评惩罚）与 source 的两个极端相关，但属于另一类误区，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a013",
+      "target": "s-e44232ff7304-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a013 误区三（必须批评惩罚）与 source 的两个极端相关，但属于另一类误区，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n002",
+      "target": "s-e44232ff7304-c002:a031",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a031 建议孩子犯错时给予另一次机会，是避免两个极端的正面方法，与 source 主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a031",
+      "target": "s-e44232ff7304-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a031 建议孩子犯错时给予另一次机会，是避免两个极端的正面方法，与 source 主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n002",
+      "target": "s-e44232ff7304-c002:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a005 鼓励承认无知和犯错，与 source 的犯错处理相关，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a005",
+      "target": "s-e44232ff7304-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a005 鼓励承认无知和犯错，与 source 的犯错处理相关，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n002",
+      "target": "s-e44232ff7304-c001:a027",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a027 让孩子不害怕面对无知和犯错，属于应对犯错的方法，与 source 主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a027",
+      "target": "s-e44232ff7304-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a027 让孩子不害怕面对无知和犯错，属于应对犯错的方法，与 source 主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n002",
+      "target": "s-e44232ff7304-c001:a009",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a009 误区一（孩子故意不认错）与 source 的两个极端同属父母误区，相关但不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a009",
+      "target": "s-e44232ff7304-c002:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "a009 误区一（孩子故意不认错）与 source 的两个极端同属父母误区，相关但不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n003",
+      "target": "s-e44232ff7304-c002:a020",
+      "kind": "step_of",
+      "condition": "在帮助孩子正确看待犯错的方法中",
+      "reason": "source 提出教孩子认识到犯错是生活的重要部分，这是 a020 中'让孩子知道犯错是正常的事情'这一步骤的具体实现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a020",
+      "target": "s-e44232ff7304-c002:v2-n003",
+      "kind": "has_step",
+      "condition": "在帮助孩子正确看待犯错的方法中",
+      "reason": "source 提出教孩子认识到犯错是生活的重要部分，这是 a020 中'让孩子知道犯错是正常的事情'这一步骤的具体实现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n003",
+      "target": "s-e44232ff7304-c002:a018",
+      "kind": "complements",
+      "condition": "在说明犯错为何带来焦虑时",
+      "reason": "a018 补充了 source 中'犯错会带来焦虑'的具体原因：孩子担心丢脸，且害怕丢脸心理可能持续到成年。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a018",
+      "target": "s-e44232ff7304-c002:v2-n003",
+      "kind": "complements",
+      "condition": "在说明犯错为何带来焦虑时",
+      "reason": "a018 补充了 source 中'犯错会带来焦虑'的具体原因：孩子担心丢脸，且害怕丢脸心理可能持续到成年。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n003",
+      "target": "s-e44232ff7304-c001:a027",
+      "kind": "association",
+      "condition": "在讨论孩子对犯错的情感态度时",
+      "reason": "两者都涉及让孩子正确对待犯错，但 source 侧重认知重要性，a027 侧重不害怕面对无知和犯错，无明确因果，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a027",
+      "target": "s-e44232ff7304-c002:v2-n003",
+      "kind": "association",
+      "condition": "在讨论孩子对犯错的情感态度时",
+      "reason": "两者都涉及让孩子正确对待犯错，但 source 侧重认知重要性，a027 侧重不害怕面对无知和犯错，无明确因果，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n003",
+      "target": "s-e44232ff7304-c002:a001",
+      "kind": "complements",
+      "condition": "在解释犯错为何重要时",
+      "reason": "a001 补充了犯错重要的具体理由：孩子通过提问和犯错获得知识，而非通过回答和成功。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a001",
+      "target": "s-e44232ff7304-c002:v2-n003",
+      "kind": "complements",
+      "condition": "在解释犯错为何重要时",
+      "reason": "a001 补充了犯错重要的具体理由：孩子通过提问和犯错获得知识，而非通过回答和成功。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n003",
+      "target": "s-e44232ff7304-c002:a021",
+      "kind": "complements",
+      "condition": "在提供教孩子认识犯错的具体做法时",
+      "reason": "a021 补充了父母以身作则承认错误、轻松对待的做法，示范犯错不可怕，从而教孩子认识犯错。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a021",
+      "target": "s-e44232ff7304-c002:v2-n003",
+      "kind": "complements",
+      "condition": "在提供教孩子认识犯错的具体做法时",
+      "reason": "a021 补充了父母以身作则承认错误、轻松对待的做法，示范犯错不可怕，从而教孩子认识犯错。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n003",
+      "target": "s-e44232ff7304-c002:v2-n002",
+      "kind": "association",
+      "condition": "在讨论父母处理孩子犯错的方式时",
+      "reason": "v2-n002 涉及父母处理犯错的极端（内疚或羞愧），与 source 教孩子认识犯错相关，但侧重父母情绪反应，未直接补充 source 内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n002",
+      "target": "s-e44232ff7304-c002:v2-n003",
+      "kind": "association",
+      "condition": "在讨论父母处理孩子犯错的方式时",
+      "reason": "v2-n002 涉及父母处理犯错的极端（内疚或羞愧），与 source 教孩子认识犯错相关，但侧重父母情绪反应，未直接补充 source 内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n003",
+      "target": "s-e44232ff7304-c001:a029",
+      "kind": "association",
+      "condition": "在对比不同年龄段孩子犯错获取知识的表现时",
+      "reason": "a029 与 a001 内容相似，但补充了二年级后孩子隐藏无知的阶段现象，与 source 的普遍认知无直接冲突，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a029",
+      "target": "s-e44232ff7304-c002:v2-n003",
+      "kind": "association",
+      "condition": "在对比不同年龄段孩子犯错获取知识的表现时",
+      "reason": "a029 与 a001 内容相似，但补充了二年级后孩子隐藏无知的阶段现象，与 source 的普遍认知无直接冲突，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n003",
+      "target": "s-e44232ff7304-c001:v2-n001",
+      "kind": "association",
+      "condition": "在考虑文化背景对结论的影响时",
+      "reason": "v2-n001 与 a029 相似，但注明可能不适用于所有文化背景，与 source 无冲突，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:v2-n001",
+      "target": "s-e44232ff7304-c002:v2-n003",
+      "kind": "association",
+      "condition": "在考虑文化背景对结论的影响时",
+      "reason": "v2-n001 与 a029 相似，但注明可能不适用于所有文化背景，与 source 无冲突，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n003",
+      "target": "s-e44232ff7304-c002:a022",
+      "kind": "complements",
+      "condition": "在通过案例示范犯错不可怕时",
+      "reason": "a022 提供了开车走错路的案例，展示父母轻松对待使错误不可怕，具体补充了 source 中教孩子认识犯错的方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a022",
+      "target": "s-e44232ff7304-c002:v2-n003",
+      "kind": "complements",
+      "condition": "在通过案例示范犯错不可怕时",
+      "reason": "a022 提供了开车走错路的案例，展示父母轻松对待使错误不可怕，具体补充了 source 中教孩子认识犯错的方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n003",
+      "target": "s-e44232ff7304-c001:a009",
+      "kind": "association",
+      "condition": "在讨论孩子不认错的原因时",
+      "reason": "a009 解释孩子不认错的误区，与 source 教孩子认识犯错相关，但侧重父母对孩子的误解，未直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a009",
+      "target": "s-e44232ff7304-c002:v2-n003",
+      "kind": "association",
+      "condition": "在讨论孩子不认错的原因时",
+      "reason": "a009 解释孩子不认错的误区，与 source 教孩子认识犯错相关，但侧重父母对孩子的误解，未直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n003",
+      "target": "s-e44232ff7304-c002:a005",
+      "kind": "complements",
+      "condition": "在提供鼓励孩子承认犯错的具体话术时",
+      "reason": "a005 补充了具体鼓励语言（如'你还在学，当然不会了'），实现 source 中教孩子认识犯错为正常的目标。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a005",
+      "target": "s-e44232ff7304-c002:v2-n003",
+      "kind": "complements",
+      "condition": "在提供鼓励孩子承认犯错的具体话术时",
+      "reason": "a005 补充了具体鼓励语言（如'你还在学，当然不会了'），实现 source 中教孩子认识犯错为正常的目标。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n004",
+      "target": "s-e44232ff7304-c003:a001",
+      "kind": "association",
+      "condition": "当两个表述内容基本一致时",
+      "reason": "a001 与 source 均列出高羞耻复原力者的四个共同特征，表述略有不同，内容重复，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a001",
+      "target": "s-e44232ff7304-c002:v2-n004",
+      "kind": "association",
+      "condition": "当两个表述内容基本一致时",
+      "reason": "a001 与 source 均列出高羞耻复原力者的四个共同特征，表述略有不同，内容重复，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n004",
+      "target": "s-e44232ff7304-c002:v2-n005",
+      "kind": "complements",
+      "condition": "在提供具体应对羞耻的做法时",
+      "reason": "v2-n005 补充了三个反直觉做法，其中后两个（求助讲述、说出羞耻）与 source 的第三、四点呼应，并增加了'像对爱的人一样对自己说话'。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n005",
+      "target": "s-e44232ff7304-c002:v2-n004",
+      "kind": "complements",
+      "condition": "在提供具体应对羞耻的做法时",
+      "reason": "v2-n005 补充了三个反直觉做法，其中后两个（求助讲述、说出羞耻）与 source 的第三、四点呼应，并增加了'像对爱的人一样对自己说话'。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n004",
+      "target": "s-e44232ff7304-c003:a002",
+      "kind": "association",
+      "condition": "当遇到同一内容的另一表述时",
+      "reason": "a002 与 v2-n005 几乎相同，重复了三个反直觉方法，与 source 的关系同 v2-n005，但来自不同部分，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a002",
+      "target": "s-e44232ff7304-c002:v2-n004",
+      "kind": "association",
+      "condition": "当遇到同一内容的另一表述时",
+      "reason": "a002 与 v2-n005 几乎相同，重复了三个反直觉方法，与 source 的关系同 v2-n005，但来自不同部分，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n004",
+      "target": "s-e44232ff7304-c003:a004",
+      "kind": "complements",
+      "condition": "在说明说出羞耻的效果时",
+      "reason": "a004 详细说明说出羞耻并在共情回应下无法存活，补充了 source 第四点'说出羞耻'的机制和结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a004",
+      "target": "s-e44232ff7304-c002:v2-n004",
+      "kind": "complements",
+      "condition": "在说明说出羞耻的效果时",
+      "reason": "a004 详细说明说出羞耻并在共情回应下无法存活，补充了 source 第四点'说出羞耻'的机制和结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n004",
+      "target": "s-e44232ff7304-c003:a006",
+      "kind": "complements",
+      "condition": "在提供羞耻触发因素的实例时",
+      "reason": "a006 提供讲师个人触发因素（母职与工作平衡、外貌），具体化了 source 第一点'知道触发自己羞耻的因素'。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a006",
+      "target": "s-e44232ff7304-c002:v2-n004",
+      "kind": "complements",
+      "condition": "在提供羞耻触发因素的实例时",
+      "reason": "a006 提供讲师个人触发因素（母职与工作平衡、外貌），具体化了 source 第一点'知道触发自己羞耻的因素'。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n004",
+      "target": "s-e44232ff7304-c003:a008",
+      "kind": "complements",
+      "condition": "在提供分享羞耻故事的案例时",
+      "reason": "a008 提供了脱口秀节目分享故事的案例，展示了分享后感到解脱，补充了 source 第三点'向他人求助并分享自己的故事'的实际效果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a008",
+      "target": "s-e44232ff7304-c002:v2-n004",
+      "kind": "complements",
+      "condition": "在提供分享羞耻故事的案例时",
+      "reason": "a008 提供了脱口秀节目分享故事的案例，展示了分享后感到解脱，补充了 source 第三点'向他人求助并分享自己的故事'的实际效果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n004",
+      "target": "s-e44232ff7304-c003:a005",
+      "kind": "complements",
+      "condition": "在解释共情对羞耻的作用时",
+      "reason": "a005 指出共情是羞耻的解药，补充了 source 第四点说出羞耻需要共情回应才能有效的条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a005",
+      "target": "s-e44232ff7304-c002:v2-n004",
+      "kind": "complements",
+      "condition": "在解释共情对羞耻的作用时",
+      "reason": "a005 指出共情是羞耻的解药，补充了 source 第四点说出羞耻需要共情回应才能有效的条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n004",
+      "target": "s-e44232ff7304-c001:a001",
+      "kind": "complements",
+      "condition": "在提供羞耻的定义背景时",
+      "reason": "a001 定义了羞耻，补充了 source 未展开的羞耻概念，帮助理解复原力。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a001",
+      "target": "s-e44232ff7304-c002:v2-n004",
+      "kind": "complements",
+      "condition": "在提供羞耻的定义背景时",
+      "reason": "a001 定义了羞耻，补充了 source 未展开的羞耻概念，帮助理解复原力。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n004",
+      "target": "s-e44232ff7304-c003:a003",
+      "kind": "association",
+      "condition": "在讨论保密与羞耻的关系时",
+      "reason": "a003 说明秘密加剧羞耻感，与 source 的羞耻复原力相关，但 source 未涉及保密机制，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a003",
+      "target": "s-e44232ff7304-c002:v2-n004",
+      "kind": "association",
+      "condition": "在讨论保密与羞耻的关系时",
+      "reason": "a003 说明秘密加剧羞耻感，与 source 的羞耻复原力相关，但 source 未涉及保密机制，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n004",
+      "target": "s-e44232ff7304-c002:v2-n006",
+      "kind": "association",
+      "condition": "在讨论保密强化羞耻时",
+      "reason": "v2-n006 与 a003 相似，均强调保密强化羞耻，与 source 无直接补充，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n006",
+      "target": "s-e44232ff7304-c002:v2-n004",
+      "kind": "association",
+      "condition": "在讨论保密强化羞耻时",
+      "reason": "v2-n006 与 a003 相似，均强调保密强化羞耻，与 source 无直接补充，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n004",
+      "target": "s-e44232ff7304-c002:a019",
+      "kind": "association",
+      "condition": "在讨论羞耻感对行为的影响时",
+      "reason": "a019 指出羞耻感导致极力避免丢脸，与 source 的羞耻复原力相关，但 focus 不同，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a019",
+      "target": "s-e44232ff7304-c002:v2-n004",
+      "kind": "association",
+      "condition": "在讨论羞耻感对行为的影响时",
+      "reason": "a019 指出羞耻感导致极力避免丢脸，与 source 的羞耻复原力相关，但 focus 不同，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n004",
+      "target": "s-e44232ff7304-c002:v2-n001",
+      "kind": "association",
+      "condition": "在区分成人与儿童羞耻处理时",
+      "reason": "v2-n001 针对父母帮助孩子感到内疚而非羞耻，与 source 的成人复原力场景不同，不能直接互补，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n001",
+      "target": "s-e44232ff7304-c002:v2-n004",
+      "kind": "association",
+      "condition": "在区分成人与儿童羞耻处理时",
+      "reason": "v2-n001 针对父母帮助孩子感到内疚而非羞耻，与 source 的成人复原力场景不同，不能直接互补，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n005",
+      "target": "s-e44232ff7304-c003:a002",
+      "kind": "association",
+      "condition": "当两个表述内容基本一致时",
+      "reason": "a002 与 source 均列出三个反直觉方法，内容几乎相同，仅措辞差异，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a002",
+      "target": "s-e44232ff7304-c002:v2-n005",
+      "kind": "association",
+      "condition": "当两个表述内容基本一致时",
+      "reason": "a002 与 source 均列出三个反直觉方法，内容几乎相同，仅措辞差异，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n005",
+      "target": "s-e44232ff7304-c002:v2-n004",
+      "kind": "association",
+      "condition": "在比较应对做法与复原力特征时",
+      "reason": "v2-n004 列出四个高羞耻复原力特征，其中后两个与 source 第二、三点重叠，但侧重点不同，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n004",
+      "target": "s-e44232ff7304-c002:v2-n005",
+      "kind": "association",
+      "condition": "在比较应对做法与复原力特征时",
+      "reason": "v2-n004 列出四个高羞耻复原力特征，其中后两个与 source 第二、三点重叠，但侧重点不同，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n005",
+      "target": "s-e44232ff7304-c003:a004",
+      "kind": "complements",
+      "condition": "在说明说出羞耻的机制时",
+      "reason": "a004 补充了说出羞耻并在共情回应下无法存活，完善了 source 第三步'说出羞耻'的理论依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a004",
+      "target": "s-e44232ff7304-c002:v2-n005",
+      "kind": "complements",
+      "condition": "在说明说出羞耻的机制时",
+      "reason": "a004 补充了说出羞耻并在共情回应下无法存活，完善了 source 第三步'说出羞耻'的理论依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n005",
+      "target": "s-e44232ff7304-c003:a005",
+      "kind": "complements",
+      "condition": "在强调共情作用时",
+      "reason": "a005 补充了共情是羞耻解药，说明 source 中说出羞耻需共情回应才有效的条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a005",
+      "target": "s-e44232ff7304-c002:v2-n005",
+      "kind": "complements",
+      "condition": "在强调共情作用时",
+      "reason": "a005 补充了共情是羞耻解药，说明 source 中说出羞耻需共情回应才有效的条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n005",
+      "target": "s-e44232ff7304-c003:a007",
+      "kind": "complements",
+      "condition": "在提供'像对爱的人一样对自己说话'的案例时",
+      "reason": "a007 提供了讲师自我对话的反例，具体化了 source 第一步'像对你爱的人一样对自己说话'的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a007",
+      "target": "s-e44232ff7304-c002:v2-n005",
+      "kind": "complements",
+      "condition": "在提供'像对爱的人一样对自己说话'的案例时",
+      "reason": "a007 提供了讲师自我对话的反例，具体化了 source 第一步'像对你爱的人一样对自己说话'的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n005",
+      "target": "s-e44232ff7304-c003:a001",
+      "kind": "association",
+      "condition": "当遇到高羞耻复原力特征的重复表述时",
+      "reason": "a001 与 v2-n004 几乎相同，列出四个共同特征，与 source 部分重叠，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a001",
+      "target": "s-e44232ff7304-c002:v2-n005",
+      "kind": "association",
+      "condition": "当遇到高羞耻复原力特征的重复表述时",
+      "reason": "a001 与 v2-n004 几乎相同，列出四个共同特征，与 source 部分重叠，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n005",
+      "target": "s-e44232ff7304-c001:a007",
+      "kind": "association",
+      "condition": "在讨论纠正孩子消极自我对话时",
+      "reason": "a007 针对孩子，与 source 的成人自我对话不同，但都涉及改变消极自我对话，仅关联，不能混用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a007",
+      "target": "s-e44232ff7304-c002:v2-n005",
+      "kind": "association",
+      "condition": "在讨论纠正孩子消极自我对话时",
+      "reason": "a007 针对孩子，与 source 的成人自我对话不同，但都涉及改变消极自我对话，仅关联，不能混用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n005",
+      "target": "s-e44232ff7304-c001:a003",
+      "kind": "association",
+      "condition": "在对比羞耻与内疚的自我对话时",
+      "reason": "a003 提供了考试低分时羞耻与内疚的对话示例，与 source 的自我对话相关，但场景不同，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a003",
+      "target": "s-e44232ff7304-c002:v2-n005",
+      "kind": "association",
+      "condition": "在对比羞耻与内疚的自我对话时",
+      "reason": "a003 提供了考试低分时羞耻与内疚的对话示例，与 source 的自我对话相关，但场景不同，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n005",
+      "target": "s-e44232ff7304-c003:a008",
+      "kind": "complements",
+      "condition": "在提供分享羞耻故事的案例时",
+      "reason": "a008 提供脱口秀分享案例，补充了 source 第二步'向信任的人求助并讲述故事'的实际效果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a008",
+      "target": "s-e44232ff7304-c002:v2-n005",
+      "kind": "complements",
+      "condition": "在提供分享羞耻故事的案例时",
+      "reason": "a008 提供脱口秀分享案例，补充了 source 第二步'向信任的人求助并讲述故事'的实际效果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n005",
+      "target": "s-e44232ff7304-c001:a001",
+      "kind": "association",
+      "condition": "在提供羞耻定义时",
+      "reason": "a001 定义羞耻，为 source 提供背景，但非直接补充应对方法，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a001",
+      "target": "s-e44232ff7304-c002:v2-n005",
+      "kind": "association",
+      "condition": "在提供羞耻定义时",
+      "reason": "a001 定义羞耻，为 source 提供背景，但非直接补充应对方法，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n005",
+      "target": "s-e44232ff7304-c001:a004",
+      "kind": "association",
+      "condition": "在讨论羞耻性批评时",
+      "reason": "a004 针对父母给孩子贴标签，与 source 的成人自我应对不同对象，但都涉及羞耻，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a004",
+      "target": "s-e44232ff7304-c002:v2-n005",
+      "kind": "association",
+      "condition": "在讨论羞耻性批评时",
+      "reason": "a004 针对父母给孩子贴标签，与 source 的成人自我应对不同对象，但都涉及羞耻，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n005",
+      "target": "s-e44232ff7304-c002:v2-n006",
+      "kind": "association",
+      "condition": "在对比保密与说出的效果时",
+      "reason": "v2-n006 强调保密强化羞耻，与 source 的说出羞耻形成对比，但非直接补充，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n006",
+      "target": "s-e44232ff7304-c002:v2-n005",
+      "kind": "association",
+      "condition": "在对比保密与说出的效果时",
+      "reason": "v2-n006 强调保密强化羞耻，与 source 的说出羞耻形成对比，但非直接补充，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n006",
+      "target": "s-e44232ff7304-c003:a003",
+      "kind": "association",
+      "condition": "当两个表述内容基本一致时",
+      "reason": "a003 与 source 均说明秘密加剧羞耻，内容重复，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a003",
+      "target": "s-e44232ff7304-c002:v2-n006",
+      "kind": "association",
+      "condition": "当两个表述内容基本一致时",
+      "reason": "a003 与 source 均说明秘密加剧羞耻，内容重复，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n006",
+      "target": "s-e44232ff7304-c003:a004",
+      "kind": "complements",
+      "condition": "在提供说出羞耻的正面效果时",
+      "reason": "a004 补充了说出羞耻可以减轻羞耻，与 source 的保密强化羞耻形成互补，共同说明保密与说出的不同结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a004",
+      "target": "s-e44232ff7304-c002:v2-n006",
+      "kind": "complements",
+      "condition": "在提供说出羞耻的正面效果时",
+      "reason": "a004 补充了说出羞耻可以减轻羞耻，与 source 的保密强化羞耻形成互补，共同说明保密与说出的不同结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n006",
+      "target": "s-e44232ff7304-c002:v2-n001",
+      "kind": "association",
+      "condition": "在讨论父母帮助孩子处理羞耻时",
+      "reason": "v2-n001 建议帮助孩子感到内疚而非羞耻，与 source 的保密机制无直接关联，但同属羞耻主题，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n001",
+      "target": "s-e44232ff7304-c002:v2-n006",
+      "kind": "association",
+      "condition": "在讨论父母帮助孩子处理羞耻时",
+      "reason": "v2-n001 建议帮助孩子感到内疚而非羞耻，与 source 的保密机制无直接关联，但同属羞耻主题，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n006",
+      "target": "s-e44232ff7304-c003:a005",
+      "kind": "association",
+      "condition": "在讨论共情的作用时",
+      "reason": "a005 提出共情是羞耻解药，与 source 保密强化羞耻不同角度，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a005",
+      "target": "s-e44232ff7304-c002:v2-n006",
+      "kind": "association",
+      "condition": "在讨论共情的作用时",
+      "reason": "a005 提出共情是羞耻解药，与 source 保密强化羞耻不同角度，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n006",
+      "target": "s-e44232ff7304-c002:a028",
+      "kind": "association",
+      "condition": "在讨论孩子不羞耻于无知的后果时",
+      "reason": "a028 说不羞耻于无知则敢于求助，与 source 的保密负效应有一定联系，但不直接，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a028",
+      "target": "s-e44232ff7304-c002:v2-n006",
+      "kind": "association",
+      "condition": "在讨论孩子不羞耻于无知的后果时",
+      "reason": "a028 说不羞耻于无知则敢于求助，与 source 的保密负效应有一定联系，但不直接，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n006",
+      "target": "s-e44232ff7304-c003:a002",
+      "kind": "association",
+      "condition": "在提供应对羞耻的方法时",
+      "reason": "a002 列出三个反直觉方法，其中说出羞耻与 source 的保密相反，但整体是应对策略，与 source 机制无直接补充，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a002",
+      "target": "s-e44232ff7304-c002:v2-n006",
+      "kind": "association",
+      "condition": "在提供应对羞耻的方法时",
+      "reason": "a002 列出三个反直觉方法，其中说出羞耻与 source 的保密相反，但整体是应对策略，与 source 机制无直接补充，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n006",
+      "target": "s-e44232ff7304-c002:v2-n004",
+      "kind": "association",
+      "condition": "在比较高羞耻复原力特征时",
+      "reason": "v2-n004 列出四个特征，其中说出羞耻与 source 的保密形成对比，但未直接说明保密，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n004",
+      "target": "s-e44232ff7304-c002:v2-n006",
+      "kind": "association",
+      "condition": "在比较高羞耻复原力特征时",
+      "reason": "v2-n004 列出四个特征，其中说出羞耻与 source 的保密形成对比，但未直接说明保密，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n006",
+      "target": "s-e44232ff7304-c002:v2-n005",
+      "kind": "association",
+      "condition": "在比较应对做法时",
+      "reason": "v2-n005 与 a002 相似，列出三个做法，与 source 无直接补充，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n005",
+      "target": "s-e44232ff7304-c002:v2-n006",
+      "kind": "association",
+      "condition": "在比较应对做法时",
+      "reason": "v2-n005 与 a002 相似，列出三个做法，与 source 无直接补充，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n006",
+      "target": "s-e44232ff7304-c003:a008",
+      "kind": "association",
+      "condition": "在提供分享故事的案例时",
+      "reason": "a008 展示分享羞耻故事减轻羞耻，与 source 的保密强化羞耻形成对比，但未直接补充，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a008",
+      "target": "s-e44232ff7304-c002:v2-n006",
+      "kind": "association",
+      "condition": "在提供分享故事的案例时",
+      "reason": "a008 展示分享羞耻故事减轻羞耻，与 source 的保密强化羞耻形成对比，但未直接补充，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n006",
+      "target": "s-e44232ff7304-c003:a001",
+      "kind": "association",
+      "condition": "当遇到高羞耻复原力特征的重复表述时",
+      "reason": "a001 与 v2-n004 相似，列出四个特征，与 source 无直接补充，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c003:a001",
+      "target": "s-e44232ff7304-c002:v2-n006",
+      "kind": "association",
+      "condition": "当遇到高羞耻复原力特征的重复表述时",
+      "reason": "a001 与 v2-n004 相似，列出四个特征，与 source 无直接补充，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n006",
+      "target": "s-e44232ff7304-c002:a019",
+      "kind": "association",
+      "condition": "在讨论羞耻感导致的行为时",
+      "reason": "a019 指出羞耻感导致避免丢脸，与 source 的保密后果有间接关联，但不直接，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a019",
+      "target": "s-e44232ff7304-c002:v2-n006",
+      "kind": "association",
+      "condition": "在讨论羞耻感导致的行为时",
+      "reason": "a019 指出羞耻感导致避免丢脸，与 source 的保密后果有间接关联，但不直接，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n006",
+      "target": "s-e44232ff7304-c001:a004",
+      "kind": "association",
+      "condition": "在讨论羞耻性批评时",
+      "reason": "a004 针对父母贴标签造成羞耻，与 source 的保密机制不同，但同属羞耻主题，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a004",
+      "target": "s-e44232ff7304-c002:v2-n006",
+      "kind": "association",
+      "condition": "在讨论羞耻性批评时",
+      "reason": "a004 针对父母贴标签造成羞耻，与 source 的保密机制不同，但同属羞耻主题，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n007",
+      "target": "s-e44232ff7304-c001:a026",
+      "kind": "step_of",
+      "condition": "在完整批评方法中",
+      "reason": "source 提出说明具体后果，正是 c001:a026 所描述的完整批评第三步'提出界限和后果'的内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a026",
+      "target": "s-e44232ff7304-c002:v2-n007",
+      "kind": "has_step",
+      "condition": "在完整批评方法中",
+      "reason": "source 提出说明具体后果，正是 c001:a026 所描述的完整批评第三步'提出界限和后果'的内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n007",
+      "target": "s-e44232ff7304-c001:a005",
+      "kind": "association",
+      "condition": "在比较不同批评方法时",
+      "reason": "a005 强调分离自我与行为，包含说明后果，与 source 的只关注后果不同，但同属批评方法，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a005",
+      "target": "s-e44232ff7304-c002:v2-n007",
+      "kind": "association",
+      "condition": "在比较不同批评方法时",
+      "reason": "a005 强调分离自我与行为，包含说明后果，与 source 的只关注后果不同，但同属批评方法，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n007",
+      "target": "s-e44232ff7304-c001:a022",
+      "kind": "association",
+      "condition": "在提供错误批评的反例时",
+      "reason": "a022 展示错误批评的例子，未按 source 建议说明具体后果，作为反例，但不构成直接矛盾，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a022",
+      "target": "s-e44232ff7304-c002:v2-n007",
+      "kind": "association",
+      "condition": "在提供错误批评的反例时",
+      "reason": "a022 展示错误批评的例子，未按 source 建议说明具体后果，作为反例，但不构成直接矛盾，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n007",
+      "target": "s-e44232ff7304-c001:a025",
+      "kind": "complements",
+      "condition": "在补充批评时的负面禁忌时",
+      "reason": "a025 补充了批评中应避免讽刺嘲笑羞辱，与 source 的正面建议共同构成有效批评的规范。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a025",
+      "target": "s-e44232ff7304-c002:v2-n007",
+      "kind": "complements",
+      "condition": "在补充批评时的负面禁忌时",
+      "reason": "a025 补充了批评中应避免讽刺嘲笑羞辱，与 source 的正面建议共同构成有效批评的规范。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n007",
+      "target": "s-e44232ff7304-c001:a023",
+      "kind": "association",
+      "condition": "在完整批评流程中",
+      "reason": "a023 是完整批评第一步陈述事实，与 source 的第三步不同步骤，同属一个流程，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a023",
+      "target": "s-e44232ff7304-c002:v2-n007",
+      "kind": "association",
+      "condition": "在完整批评流程中",
+      "reason": "a023 是完整批评第一步陈述事实，与 source 的第三步不同步骤，同属一个流程，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n007",
+      "target": "s-e44232ff7304-c001:a024",
+      "kind": "association",
+      "condition": "在完整批评流程中",
+      "reason": "a024 是完整批评第二步陈述感受，与 source 的第三步不同，同属一个流程，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a024",
+      "target": "s-e44232ff7304-c002:v2-n007",
+      "kind": "association",
+      "condition": "在完整批评流程中",
+      "reason": "a024 是完整批评第二步陈述感受，与 source 的第三步不同，同属一个流程，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n007",
+      "target": "s-e44232ff7304-c002:a007",
+      "kind": "association",
+      "condition": "在讨论让孩子感到羞愧的后果时",
+      "reason": "a007 讲让孩子羞愧的负面后果，与 source 的正确批评方法相反，但未直接冲突，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:a007",
+      "target": "s-e44232ff7304-c002:v2-n007",
+      "kind": "association",
+      "condition": "在讨论让孩子感到羞愧的后果时",
+      "reason": "a007 讲让孩子羞愧的负面后果，与 source 的正确批评方法相反，但未直接冲突，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n007",
+      "target": "s-e44232ff7304-c001:a012",
+      "kind": "association",
+      "condition": "在讨论自然后果时",
+      "reason": "a012 强调自然后果帮助孩子认知错误，与 source 的父母说明后果不同，但同属后果教育，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a012",
+      "target": "s-e44232ff7304-c002:v2-n007",
+      "kind": "association",
+      "condition": "在讨论自然后果时",
+      "reason": "a012 强调自然后果帮助孩子认知错误，与 source 的父母说明后果不同，但同属后果教育，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c002:v2-n007",
+      "target": "s-e44232ff7304-c001:a021",
+      "kind": "association",
+      "condition": "在讨论正确批评的前提时",
+      "reason": "a021 指出正确批评是孩子勇于认错的前提，source 是正确批评的一部分，但未直接说明前提关系，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-e44232ff7304-c001:a021",
+      "target": "s-e44232ff7304-c002:v2-n007",
+      "kind": "association",
+      "condition": "在讨论正确批评的前提时",
+      "reason": "a021 指出正确批评是孩子勇于认错的前提，source 是正确批评的一部分，但未直接说明前提关系，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "批评孩子时，需要区分羞耻和内疚，并采用分离自我与行为的批评方法。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a002",
+        "s-e44232ff7304-c001:a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "内在能力",
+      "when": "通过界限定义行为，帮助孩子进行自我检查，从而培养自我纠正能力。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a015",
+        "s-e44232ff7304-c001:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "内在能力",
+      "when": "父母在孩子面前承认错误，示范犯错不可怕，帮助孩子建立自我纠正能力。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a021",
+        "s-e44232ff7304-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-e44232ff7304-c001:a029",
+        "s-e44232ff7304-c002:a001"
+      ],
+      "reason": "两者内容完全相同，都是“孩子是通过提问和犯错来获得知识，而不是通过回答和成功来获得知识。”"
+    },
+    {
+      "atom_ids": [
+        "s-e44232ff7304-c001:a030",
+        "s-e44232ff7304-c002:a002"
+      ],
+      "reason": "两者内容基本相同，都是“学业机制让孩子为了保护自己而隐藏自己的无知，因为孩子为了考取好成绩、不惹父母生气，必须不停回答问题，从而不敢再提问。”"
+    },
+    {
+      "atom_ids": [
+        "s-e44232ff7304-c001:a028",
+        "s-e44232ff7304-c002:r001"
+      ],
+      "reason": "两者描述同一个实验，内容一致：未上学的孩子不害怕公共场所的尴尬，保持探索欲；上过学二年级以后的孩子害怕尴尬。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-e44232ff7304-c001:a009",
+        "s-e44232ff7304-c001:a010"
+      ],
+      "description": "a009 提到孩子可能因为与父母关系不好而故意不认错，也可能因为父母从未认过错而不知道如何认错，但研究发现大部分情况下孩子是真的不知道自己错了。a010 解释孩子大脑发育未成熟导致认知差异，可能不认为自己错了。两者在解释孩子不认错的原因上存在潜在矛盾：a009 承认有故意不认错的情况，而 a010 强调认知差异导致真的不知道。",
+      "needed_evidence": "需要进一步研究确定在什么条件下孩子是故意不认错，什么条件下是真的不知道，以及两者如何区分。"
+    },
+    {
+      "atom_ids": [
+        "s-e44232ff7304-c001:a011",
+        "s-e44232ff7304-c001:a012"
+      ],
+      "description": "a011 认为孩子犯了错必须由父母指出并帮助纠正，但这样培养的是父母纠正孩子的能力，而非孩子自我纠正的能力。a012 提出孩子在做很多事情后，特别是遇到自然后果后，可以知道自己做错了。两者在是否需要父母指出错误上存在矛盾：a011 暗示父母指出错误可能不利于自我纠正，而 a012 认为自然后果可以帮助孩子自我认知错误，但未明确父母角色。",
+      "needed_evidence": "需要明确在什么情况下父母应该指出错误，什么情况下应该让孩子通过自然后果学习，以及如何平衡两者。"
+    },
+    {
+      "atom_ids": [
+        "s-e44232ff7304-c001:a013",
+        "s-e44232ff7304-c001:a021"
+      ],
+      "description": "a013 认为孩子犯了错必须批评和惩罚才能改进，这是误区。a021 提出要培养孩子勇敢承认错误的能力，首先要用正确的方法批评孩子。两者在是否批评上存在潜在矛盾：a013 反对批评和惩罚，而 a021 强调正确批评的重要性。",
+      "needed_evidence": "需要明确正确批评与错误批评的区别，以及正确批评是否等同于惩罚，或者如何避免惩罚的负面影响。"
+    }
+  ],
+  "path": [
+    {
+      "name": "培养孩子自我纠正能力的方法",
+      "steps": [
+        {
+          "action": "自我检查：测量和评估",
+          "atom_ids": [
+            "s-e44232ff7304-c001:a014",
+            "s-e44232ff7304-c001:a015",
+            "s-e44232ff7304-c001:a016",
+            "s-e44232ff7304-c001:a017",
+            "s-e44232ff7304-c001:a018",
+            "s-e44232ff7304-c001:a019",
+            "s-e44232ff7304-c001:a020"
+          ],
+          "condition": "孩子需要具备自我检查的能力，包括测量和评估。"
+        },
+        {
+          "action": "勇于承认错误：正确批评",
+          "atom_ids": [
+            "s-e44232ff7304-c001:a021",
+            "s-e44232ff7304-c001:a023",
+            "s-e44232ff7304-c001:a024",
+            "s-e44232ff7304-c001:a026"
+          ],
+          "condition": "孩子自我检查后，面临承认或否认错误的选择，需要正确批评方法。"
+        },
+        {
+          "action": "勇于承认错误：不害怕面对无知和犯错",
+          "atom_ids": [
+            "s-e44232ff7304-c001:a027",
+            "s-e44232ff7304-c001:a028",
+            "s-e44232ff7304-c001:a029",
+            "s-e44232ff7304-c001:a030",
+            "s-e44232ff7304-c002:a005",
+            "s-e44232ff7304-c002:a020",
+            "s-e44232ff7304-c002:a021",
+            "s-e44232ff7304-c002:a022",
+            "s-e44232ff7304-c002:a023",
+            "s-e44232ff7304-c002:a024",
+            "s-e44232ff7304-c002:a025",
+            "s-e44232ff7304-c002:a026",
+            "s-e44232ff7304-c002:a027",
+            "s-e44232ff7304-c002:a028",
+            "s-e44232ff7304-c002:a029",
+            "s-e44232ff7304-c002:a030"
+          ],
+          "condition": "孩子需要不害怕面对自己的无知和犯错，才能勇于承认错误。"
+        },
+        {
+          "action": "训练自我修正：给予重来机会",
+          "atom_ids": [
+            "s-e44232ff7304-c002:a012",
+            "s-e44232ff7304-c002:a013",
+            "s-e44232ff7304-c002:a014",
+            "s-e44232ff7304-c002:a015",
+            "s-e44232ff7304-c002:a016",
+            "s-e44232ff7304-c002:a017",
+            "s-e44232ff7304-c002:a031"
+          ],
+          "condition": "孩子犯错后，给予重来机会以塑造正确记忆。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-e44232ff7304-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a003"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u004",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a004"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a005"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a006"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a007"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a008"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a009"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a010"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a011"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a012"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a013"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a014"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a015"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a016"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a017"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a018"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a019"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a020"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a021"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u022",
+      "kind": "case",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a022"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a023"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a024"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u025",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a025"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a026"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a027"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u028",
+      "kind": "case",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a028",
+        "s-e44232ff7304-c002:r001"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c001:u030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u040",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:v2-n007"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u001",
+      "kind": "case",
+      "atom_ids": [
+        "s-e44232ff7304-c002:r001"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a029"
+      ],
+      "blocks": [
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c001:a030"
+      ],
+      "blocks": [
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a003"
+      ],
+      "blocks": [
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a004"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a005"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a007"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u009",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a006"
+      ],
+      "blocks": [
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u010",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-e44232ff7304-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a008"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a010"
+      ],
+      "blocks": [
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a009"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u014",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a011"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a012"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a031"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a013"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u018",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a014"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a015"
+      ],
+      "blocks": [
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a016"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u021",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a017"
+      ],
+      "blocks": [
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u022",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u023",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a018"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a019"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u025",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a020"
+      ],
+      "blocks": [
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u026",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a021"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u027",
+      "kind": "case",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a022"
+      ],
+      "blocks": [
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u028",
+      "kind": "case",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a023"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u029",
+      "kind": "case",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a024"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u030",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a025",
+        "s-e44232ff7304-c002:r003"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u031",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c002:r002"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u032",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a026"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u033",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a027"
+      ],
+      "blocks": [
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u034",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a028"
+      ],
+      "blocks": [
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u035",
+      "kind": "case",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a029"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u036",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:a030"
+      ],
+      "blocks": [
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u037",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c002:v2-n004"
+      ],
+      "blocks": [
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u038",
+      "kind": "method",
+      "atom_ids": [
+        "s-e44232ff7304-c002:v2-n005"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c002:u039",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c002:v2-n006"
+      ],
+      "blocks": [
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c003:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c003:a001"
+      ],
+      "blocks": [
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c003:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c003:a002"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c003:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c003:a003"
+      ],
+      "blocks": [
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c003:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e44232ff7304-c003:a004",
+        "s-e44232ff7304-c003:a005"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c003:u0005",
+      "kind": "case",
+      "atom_ids": [
+        "s-e44232ff7304-c003:a006"
+      ],
+      "blocks": [
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c003:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-e44232ff7304-c003:a007"
+      ],
+      "blocks": [
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-e44232ff7304-c003:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-e44232ff7304-c003:a008"
+      ],
+      "blocks": [
+        "b00070"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "孩子通过提问和犯错获得知识",
+      "atom_ids": [
+        "s-e44232ff7304-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e44232ff7304",
+          "blocks": [
+            "b00031"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "学业机制导致孩子隐藏无知",
+      "atom_ids": [
+        "s-e44232ff7304-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e44232ff7304",
+          "blocks": [
+            "b00031",
+            "b00032"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "帮助孩子感到内疚而不是羞耻",
+      "atom_ids": [
+        "s-e44232ff7304-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e44232ff7304",
+          "blocks": [
+            "b00035"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "父母对待孩子犯错的两个极端",
+      "atom_ids": [
+        "s-e44232ff7304-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e44232ff7304",
+          "blocks": [
+            "b00037"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "anti-pattern"
+    },
+    {
+      "title": "教孩子认识到犯错是生活的重要部分",
+      "atom_ids": [
+        "s-e44232ff7304-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e44232ff7304",
+          "blocks": [
+            "b00049"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "高羞耻复原力者的四个共同点",
+      "atom_ids": [
+        "s-e44232ff7304-c002:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e44232ff7304",
+          "blocks": [
+            "b00069"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "应对羞耻的三个反直觉做法",
+      "atom_ids": [
+        "s-e44232ff7304-c002:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e44232ff7304",
+          "blocks": [
+            "b00069",
+            "b00070"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "保密强化羞耻并使其指数级增长",
+      "atom_ids": [
+        "s-e44232ff7304-c002:v2-n006"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e44232ff7304",
+          "blocks": [
+            "b00070"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "批评孩子时说明具体后果",
+      "atom_ids": [
+        "s-e44232ff7304-c002:v2-n007"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-e44232ff7304",
+          "blocks": [
+            "b00029"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

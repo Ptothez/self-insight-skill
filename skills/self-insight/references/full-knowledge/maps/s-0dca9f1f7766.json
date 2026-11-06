@@ -1,0 +1,1915 @@
+{
+  "concepts": [
+    {
+      "name": "共情",
+      "definition": "进入任何人的世界、理解其感受并与之连接的能力，不是同情心或为别人着想。",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a001",
+        "s-0dca9f1f7766-c001:a003",
+        "s-0dca9f1f7766-c001:a004",
+        "s-0dca9f1f7766-c001:a005",
+        "s-0dca9f1f7766-c001:a006",
+        "s-0dca9f1f7766-c001:a007",
+        "s-0dca9f1f7766-c001:a017",
+        "s-0dca9f1f7766-c001:a020",
+        "s-0dca9f1f7766-c001:r001",
+        "s-0dca9f1f7766-c001:r003"
+      ]
+    },
+    {
+      "name": "共赢",
+      "definition": "人类互动合作的基本品格，指双方都得到各自想要的结果，不是释放友善或快速修补问题。",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a002",
+        "s-0dca9f1f7766-c001:a008",
+        "s-0dca9f1f7766-c001:a010",
+        "s-0dca9f1f7766-c001:a012",
+        "s-0dca9f1f7766-c001:a016",
+        "s-0dca9f1f7766-c001:a018",
+        "s-0dca9f1f7766-c001:a022",
+        "s-0dca9f1f7766-c001:r001",
+        "s-0dca9f1f7766-c001:r004",
+        "s-0dca9f1f7766-c001:r005",
+        "s-0dca9f1f7766-c002:a013",
+        "s-0dca9f1f7766-c002:a022",
+        "s-0dca9f1f7766-c002:r010"
+      ]
+    },
+    {
+      "name": "讨价还价",
+      "definition": "在存在不同意见或矛盾的情况下，通过沟通和交换条件来达成双方可接受的协议的能力。",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a013",
+        "s-0dca9f1f7766-c002:a001",
+        "s-0dca9f1f7766-c002:a002",
+        "s-0dca9f1f7766-c002:a003",
+        "s-0dca9f1f7766-c002:a005",
+        "s-0dca9f1f7766-c002:a015",
+        "s-0dca9f1f7766-c002:a016",
+        "s-0dca9f1f7766-c002:a018",
+        "s-0dca9f1f7766-c002:a019",
+        "s-0dca9f1f7766-c002:a020",
+        "s-0dca9f1f7766-c002:r001",
+        "s-0dca9f1f7766-c002:r002",
+        "s-0dca9f1f7766-c002:a024"
+      ]
+    },
+    {
+      "name": "妥协",
+      "definition": "为了双方达成共识，能够调整自己的位置和观点。",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a004",
+        "s-0dca9f1f7766-c002:a007",
+        "s-0dca9f1f7766-c002:r003"
+      ]
+    },
+    {
+      "name": "辩论",
+      "definition": "一种训练反向思考、清晰表达、逻辑思考和情绪管控的方法。",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a008",
+        "s-0dca9f1f7766-c002:a009",
+        "s-0dca9f1f7766-c002:a010",
+        "s-0dca9f1f7766-c002:a011",
+        "s-0dca9f1f7766-c002:a012"
+      ]
+    },
+    {
+      "name": "求同存异",
+      "definition": "在双方观念有部分不同时，仍然一起寻找其他解决方案来避免更糟糕的矛盾的能力。",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a013",
+        "s-0dca9f1f7766-c002:a014",
+        "s-0dca9f1f7766-c002:a023",
+        "s-0dca9f1f7766-c002:r010"
+      ]
+    },
+    {
+      "name": "界限",
+      "definition": "在讨价还价之后制定，一旦制定除非特殊情况否则不改变，但价值和原则问题不可讨价还价。",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a015",
+        "s-0dca9f1f7766-c002:a024"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-0dca9f1f7766-c001:a001",
+      "target": "s-0dca9f1f7766-c001:a003",
+      "kind": "supports",
+      "condition": "",
+      "reason": "共情的定义强调共情不是同情心而是理解并连接，共情与同情的区别进一步说明共情是感受并连接、同情是外部怜悯，后者补充了前者的含义。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原对比关系不成立，改为支持。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a001",
+      "target": "s-0dca9f1f7766-c001:a004",
+      "kind": "supports",
+      "condition": "",
+      "reason": "共情的定义概括共情是进入他人世界并连接，共情的四个特质具体化了这种能力，支持该定义。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a001",
+      "target": "s-0dca9f1f7766-c001:a005",
+      "kind": "prerequisite",
+      "condition": null,
+      "reason": "共情需要先连接自己内心，才能连接他人。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a001",
+      "target": "s-0dca9f1f7766-c001:a006",
+      "kind": "contrasts",
+      "condition": "",
+      "reason": "共情的定义是与他人感受连接，而至少式回应试图让事情变好阻碍连接，构成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a001",
+      "target": "s-0dca9f1f7766-c001:a007",
+      "kind": "supports",
+      "condition": null,
+      "reason": "连接比解决问题更重要，是共情的体现。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a001",
+      "target": "s-0dca9f1f7766-c001:a017",
+      "kind": "causes",
+      "condition": "独生子女和娇生惯养的环境",
+      "reason": "缺乏进入他人世界的练习导致共情困难。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a001",
+      "target": "s-0dca9f1f7766-c001:a020",
+      "kind": "causes",
+      "condition": null,
+      "reason": "共情能进入他人世界，从而获得更多资源。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a002",
+      "target": "s-0dca9f1f7766-c001:a008",
+      "kind": "supports",
+      "condition": null,
+      "reason": "共赢能力增强竞争力。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a002",
+      "target": "s-0dca9f1f7766-c001:a010",
+      "kind": "causes",
+      "condition": "长时间无法共赢",
+      "reason": "长期无法共赢最终导致共输。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a002",
+      "target": "s-0dca9f1f7766-c001:a012",
+      "kind": "prerequisite",
+      "condition": null,
+      "reason": "共赢需要平衡自信和为他人考虑。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a002",
+      "target": "s-0dca9f1f7766-c001:a016",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "共赢与竞争思维不同，共赢是合作互惠。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a002",
+      "target": "s-0dca9f1f7766-c001:a018",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "父母认为孩子好成绩就是共赢是误区，需考虑孩子真正想要什么。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a002",
+      "target": "s-0dca9f1f7766-c001:a022",
+      "kind": "supports",
+      "condition": null,
+      "reason": "共赢需要长期视角，否则共输。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a002",
+      "target": "s-0dca9f1f7766-c002:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "求同存异是共赢的一种形式，避免伤害也是共赢。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a002",
+      "target": "s-0dca9f1f7766-c002:a022",
+      "kind": "supports",
+      "condition": null,
+      "reason": "共赢包括一起避免伤害。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a004",
+      "target": "s-0dca9f1f7766-c001:a005",
+      "kind": "association",
+      "condition": "",
+      "reason": "共情的四个特质与共情需要自我连接都涉及共情过程，但四项特质并不构成自我连接的先决条件；自我连接可能为前提，而当前方向不足以支持先决关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原先决关系方向不成立，改为关联。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a006",
+      "target": "s-0dca9f1f7766-c001:a007",
+      "kind": "contrasts",
+      "condition": "",
+      "reason": "至少式回应试图通过寻找积极面让事情变好，反而阻碍连接；连接比解决问题更重要主张真正让事情变好的是连接，二者形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a008",
+      "target": "s-0dca9f1f7766-c001:a009",
+      "kind": "association",
+      "condition": "",
+      "reason": "共赢增强竞争力是概念性主张，奖学金面试中的共赢心态是具体案例，案例可以例证概念，但当前方向不宜作为例示关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向概念到案例的例示关系不成立，保留方向则仅能作为关联。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a010",
+      "target": "s-0dca9f1f7766-c001:a011",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "商业案例说明垄断企业应让利实现共赢。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a012",
+      "target": "s-0dca9f1f7766-c001:a013",
+      "kind": "supports",
+      "condition": "",
+      "reason": "共赢需要共情和自信，鼓励讨价还价要求孩子同时表达自己并考虑对方，正是培养这种平衡的具体方法，支持该原则的实现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a012",
+      "target": "s-0dca9f1f7766-c001:a014",
+      "kind": "supports",
+      "condition": null,
+      "reason": "鼓励孩子挑战父母权威有助于培养共赢所需的自信和敏锐。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a013",
+      "target": "s-0dca9f1f7766-c001:a015",
+      "kind": "contrasts",
+      "condition": "",
+      "reason": "鼓励讨价还价会增强孩子的自信、共情和共赢能力，而禁止讨价还价会阻碍这些能力发展，二者方向相反，构成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a013",
+      "target": "s-0dca9f1f7766-c002:a001",
+      "kind": "association",
+      "condition": "",
+      "reason": "鼓励讨价还价的方法涉及讨价还价能力，而讨价还价能力的定义解释其含义，两者相关但方法不能直接支持定义。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系方向不当，改为关联。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a013",
+      "target": "s-0dca9f1f7766-c002:a005",
+      "kind": "association",
+      "condition": "",
+      "reason": "鼓励讨价还价是概括性的培养方法，帮助孩子讨价还价的三个步骤是具体操作，两者相互关联，但步骤关系的方向与类型不成立。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原步骤关系方向不当，改为关联。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a014",
+      "target": "s-0dca9f1f7766-c002:a017",
+      "kind": "supports",
+      "condition": null,
+      "reason": "鼓励挑战权威的益处与共赢能力相关。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a016",
+      "target": "s-0dca9f1f7766-c001:a019",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "中国餐馆价格竞争案例展示了竞争思维导致共输。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a017",
+      "target": "s-0dca9f1f7766-c001:r003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "独生子女和娇生惯养是共情困难的原因。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a018",
+      "target": "s-0dca9f1f7766-c001:a021",
+      "kind": "causes",
+      "condition": null,
+      "reason": "输赢思维导致冷漠，与共赢误区相关。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a020",
+      "target": "s-0dca9f1f7766-c001:a001",
+      "kind": "causes",
+      "condition": null,
+      "reason": "共情能力带来资源。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a021",
+      "target": "s-0dca9f1f7766-c001:a016",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "输赢思维与共赢思维对立。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a022",
+      "target": "s-0dca9f1f7766-c001:a010",
+      "kind": "supports",
+      "condition": null,
+      "reason": "长期视角支持共赢避免共输。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:r001",
+      "target": "s-0dca9f1f7766-c001:a001",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "家长误解共情为同情心等，与真正共情不同。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:r001",
+      "target": "s-0dca9f1f7766-c001:a002",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "家长误解共赢为友善或快速修补，与真正共赢不同。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:r002",
+      "target": "s-0dca9f1f7766-c001:a002",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "竞争激烈导致共赢不现实的观念阻碍共赢能力培养。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:r003",
+      "target": "s-0dca9f1f7766-c001:a017",
+      "kind": "supports",
+      "condition": null,
+      "reason": "共情困难的原因包括独生子女和娇生惯养。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:r004",
+      "target": "s-0dca9f1f7766-c001:a008",
+      "kind": "supports",
+      "condition": null,
+      "reason": "共赢能力增强竞争力。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:r005",
+      "target": "s-0dca9f1f7766-c001:a012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "共赢需要平衡自信与为他人考虑。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a013",
+      "target": "s-0dca9f1f7766-c001:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "培养共赢的具体步骤与鼓励讨价还价一致。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a001",
+      "target": "s-0dca9f1f7766-c002:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "讨价还价能力的三点表现具体化定义。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a001",
+      "target": "s-0dca9f1f7766-c002:a003",
+      "kind": "causes",
+      "condition": "缺乏讨价还价能力",
+      "reason": "缺乏能力导致关闭沟通渠道。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a001",
+      "target": "s-0dca9f1f7766-c002:a005",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "帮助孩子讨价还价的步骤是培养该能力的方法。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a001",
+      "target": "s-0dca9f1f7766-c002:a019",
+      "kind": "prerequisite",
+      "condition": null,
+      "reason": "讨价还价需要了解对方需求。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a002",
+      "target": "s-0dca9f1f7766-c002:a020",
+      "kind": "supports",
+      "condition": null,
+      "reason": "讨价还价体现成熟和取舍。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a003",
+      "target": "s-0dca9f1f7766-c002:r001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "缺乏讨价还价能力导致关闭沟通渠道。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a003",
+      "target": "s-0dca9f1f7766-c002:r002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "缺乏能力导致不能接受非完美局面。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a004",
+      "target": "s-0dca9f1f7766-c002:a021",
+      "kind": "supports",
+      "condition": "",
+      "reason": "妥协的定义明确指出争执和矛盾是健康的事情，并将其列为妥协的底层逻辑之一，支持该观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a004",
+      "target": "s-0dca9f1f7766-c002:r003",
+      "kind": "supports",
+      "condition": "",
+      "reason": "妥协的定义包含底层逻辑，与妥协的底层逻辑列出的两条内容一致，支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a005",
+      "target": "s-0dca9f1f7766-c002:a006",
+      "kind": "association",
+      "condition": "",
+      "reason": "帮助孩子讨价还价的三个步骤与同理心练习的两个问题都是在讨价还价中采用的方法，但同理心练习并非三步骤中的子步骤，二者相关而非步骤关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原步骤关系不成立，改为关联。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a005",
+      "target": "s-0dca9f1f7766-c002:a007",
+      "kind": "causes",
+      "condition": null,
+      "reason": "理解他人感受促进妥协。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a006",
+      "target": "s-0dca9f1f7766-c002:a007",
+      "kind": "supports",
+      "condition": "",
+      "reason": "同理心练习通过提问促使孩子理解行为对他人影响和感受，从而佐证理解他人感受能够促进妥协这一主张。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原因为关系类型改为支持。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a008",
+      "target": "s-0dca9f1f7766-c002:a009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "辩论好处包括反向思考。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a008",
+      "target": "s-0dca9f1f7766-c002:a010",
+      "kind": "supports",
+      "condition": "",
+      "reason": "辩论的四个好处中明确列出训练清晰的表达，为辩论训练清晰表达这一命题提供依据。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a008",
+      "target": "s-0dca9f1f7766-c002:a011",
+      "kind": "supports",
+      "condition": null,
+      "reason": "辩论好处包括逻辑思考。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a008",
+      "target": "s-0dca9f1f7766-c002:a012",
+      "kind": "supports",
+      "condition": "",
+      "reason": "辩论的四个好处中明确列出帮助情绪管控，为辩论训练情绪管控这一命题提供依据。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a009",
+      "target": "s-0dca9f1f7766-c002:a009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "辩论训练反向思考。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a010",
+      "target": "s-0dca9f1f7766-c002:a010",
+      "kind": "supports",
+      "condition": null,
+      "reason": "辩论训练清晰表达。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a011",
+      "target": "s-0dca9f1f7766-c002:a011",
+      "kind": "supports",
+      "condition": null,
+      "reason": "辩论训练逻辑思考。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a012",
+      "target": "s-0dca9f1f7766-c002:a012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "辩论训练情绪管控。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a013",
+      "target": "s-0dca9f1f7766-c002:a014",
+      "kind": "association",
+      "condition": "",
+      "reason": "夫妻育儿观念冲突的求同存异案例是求同存异的能力的具体例证，原方向相反，以关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向有误。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a013",
+      "target": "s-0dca9f1f7766-c002:a023",
+      "kind": "supports",
+      "condition": null,
+      "reason": "找出共同点改变敌对氛围是求同存异的方法。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a015",
+      "target": "s-0dca9f1f7766-c002:a024",
+      "kind": "supports",
+      "condition": null,
+      "reason": "界限制定的时机和例外一致。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a015",
+      "target": "s-0dca9f1f7766-c002:a016",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "禁止讨价还价与界限制定原则相反。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a016",
+      "target": "s-0dca9f1f7766-c001:a015",
+      "kind": "supports",
+      "condition": null,
+      "reason": "禁止讨价还价的负面做法一致。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a017",
+      "target": "s-0dca9f1f7766-c001:a014",
+      "kind": "supports",
+      "condition": null,
+      "reason": "鼓励挑战权威的益处一致。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a018",
+      "target": "s-0dca9f1f7766-c001:a013",
+      "kind": "step_of",
+      "condition": "",
+      "reason": "通过日常事务练习讨价还价是培养共赢的方法中的具体步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a019",
+      "target": "s-0dca9f1f7766-c002:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "了解对方需求是讨价还价能力表现之一。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a020",
+      "target": "s-0dca9f1f7766-c002:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "成熟和取舍是讨价还价能力表现之一。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a021",
+      "target": "s-0dca9f1f7766-c002:a004",
+      "kind": "supports",
+      "condition": "",
+      "reason": "争执是健康的事情是妥协定义的底层逻辑之一，支持妥协的定义。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a022",
+      "target": "s-0dca9f1f7766-c002:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "避免伤害是共赢的一种形式，求同存异至关重要。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a023",
+      "target": "s-0dca9f1f7766-c002:a014",
+      "kind": "association",
+      "condition": "",
+      "reason": "夫妻育儿冲突案例展示找出共同点改变敌对氛围，是例证关系，原方向反，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向有误。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a024",
+      "target": "s-0dca9f1f7766-c002:a015",
+      "kind": "supports",
+      "condition": null,
+      "reason": "界限制定的时机和例外一致。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:r001",
+      "target": "s-0dca9f1f7766-c002:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "缺乏讨价还价能力导致关闭沟通渠道。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:r002",
+      "target": "s-0dca9f1f7766-c002:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "缺乏能力导致不能接受非完美局面。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:r003",
+      "target": "s-0dca9f1f7766-c002:a004",
+      "kind": "supports",
+      "condition": "",
+      "reason": "妥协的底层逻辑列出的要点支撑妥协的定义。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:r004",
+      "target": "s-0dca9f1f7766-c002:a006",
+      "kind": "supports",
+      "condition": "",
+      "reason": "帮助孩子理解他人感受的方法提出两个提问，与同理心练习的两个问题一致，支持该练习。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a007",
+      "target": "s-0dca9f1f7766-c002:a007",
+      "kind": "supports",
+      "condition": null,
+      "reason": "理解他人感受促进妥协。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a009",
+      "target": "s-0dca9f1f7766-c002:a009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "辩论训练反向思考。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a010",
+      "target": "s-0dca9f1f7766-c002:a010",
+      "kind": "supports",
+      "condition": null,
+      "reason": "辩论训练清晰表达。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a011",
+      "target": "s-0dca9f1f7766-c002:a011",
+      "kind": "supports",
+      "condition": null,
+      "reason": "辩论训练逻辑思考。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a012",
+      "target": "s-0dca9f1f7766-c002:a012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "辩论训练情绪管控。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:r010",
+      "target": "s-0dca9f1f7766-c002:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "求同存异与共赢的关系一致。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a023",
+      "target": "s-0dca9f1f7766-c002:a023",
+      "kind": "supports",
+      "condition": null,
+      "reason": "找出共同点改变敌对氛围。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a024",
+      "target": "s-0dca9f1f7766-c002:a024",
+      "kind": "supports",
+      "condition": null,
+      "reason": "界限制定的时机和例外一致。"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:v2-n001",
+      "target": "s-0dca9f1f7766-c001:a014",
+      "kind": "complements",
+      "condition": "两者均讨论培养共赢的方法，目标一致；source为原则性描述，候选提供具体步骤",
+      "reason": "source指出应鼓励孩子挑战父母权威并让其感受被尊重，候选补充了从父母允许挑战到孩子学会敏锐判断他人需要并提出共赢方案的具体路径，弥补了source缺少的操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a014",
+      "target": "s-0dca9f1f7766-c001:v2-n001",
+      "kind": "complements",
+      "condition": "两者均讨论培养共赢的方法，目标一致；source为原则性描述，候选提供具体步骤",
+      "reason": "source指出应鼓励孩子挑战父母权威并让其感受被尊重，候选补充了从父母允许挑战到孩子学会敏锐判断他人需要并提出共赢方案的具体路径，弥补了source缺少的操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:v2-n001",
+      "target": "s-0dca9f1f7766-c002:a017",
+      "kind": "complements",
+      "condition": "两者均讨论鼓励孩子挑战父母权威的益处",
+      "reason": "source说明鼓励挑战能让孩子对人际关系更敏锐，候选补充了其原因：因为自己的需要被保护得好，所以能敏锐判断他人需要，并更能在共赢方向上捕捉方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a017",
+      "target": "s-0dca9f1f7766-c001:v2-n001",
+      "kind": "complements",
+      "condition": "两者均讨论鼓励孩子挑战父母权威的益处",
+      "reason": "source说明鼓励挑战能让孩子对人际关系更敏锐，候选补充了其原因：因为自己的需要被保护得好，所以能敏锐判断他人需要，并更能在共赢方向上捕捉方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:v2-n001",
+      "target": "s-0dca9f1f7766-c001:a015",
+      "kind": "complements",
+      "condition": "两者均涉及父母不应否定孩子讨价还价",
+      "reason": "source明确父母不应说‘不要跟我讨价还价’，候选补充了这一禁令的具体负面效果：会阻碍孩子共情、自信和共赢能力的发展。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a015",
+      "target": "s-0dca9f1f7766-c001:v2-n001",
+      "kind": "complements",
+      "condition": "两者均涉及父母不应否定孩子讨价还价",
+      "reason": "source明确父母不应说‘不要跟我讨价还价’，候选补充了这一禁令的具体负面效果：会阻碍孩子共情、自信和共赢能力的发展。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:v2-n001",
+      "target": "s-0dca9f1f7766-c001:a013",
+      "kind": "complements",
+      "condition": "source提倡鼓励孩子表达自己，候选提供另一种培养共赢的具体方法；适用条件为资源有限、能力有限",
+      "reason": "source提到避免否定讨价还价但未展开具体方法，候选补了在资源有限和能力有限条件下通过讨价还价学习妥协，增强自信、共情、社交能力和自我认知觉醒的具体步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a013",
+      "target": "s-0dca9f1f7766-c001:v2-n001",
+      "kind": "complements",
+      "condition": "source提倡鼓励孩子表达自己，候选提供另一种培养共赢的具体方法；适用条件为资源有限、能力有限",
+      "reason": "source提到避免否定讨价还价但未展开具体方法，候选补了在资源有限和能力有限条件下通过讨价还价学习妥协，增强自信、共情、社交能力和自我认知觉醒的具体步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:v2-n001",
+      "target": "s-0dca9f1f7766-c002:a016",
+      "kind": "complements",
+      "condition": "两者均讨论禁止讨价还价的负面做法",
+      "reason": "source列举了‘不要跟我讨价还价’的错误说法，候选补充了这种禁止背后的心理原因（父母害怕失去控制）及其错误认知。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a016",
+      "target": "s-0dca9f1f7766-c001:v2-n001",
+      "kind": "complements",
+      "condition": "两者均讨论禁止讨价还价的负面做法",
+      "reason": "source列举了‘不要跟我讨价还价’的错误说法，候选补充了这种禁止背后的心理原因（父母害怕失去控制）及其错误认知。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:v2-n001",
+      "target": "s-0dca9f1f7766-c002:v2-n001",
+      "kind": "complements",
+      "condition": "两者均倡导鼓励孩子讨价还价",
+      "reason": "source未具体说明鼓励讨价还价带来的能力提升，候选补充了增强自我觉醒和自我认知、共情力和社交能力的作用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:v2-n001",
+      "target": "s-0dca9f1f7766-c001:v2-n001",
+      "kind": "complements",
+      "condition": "两者均倡导鼓励孩子讨价还价",
+      "reason": "source未具体说明鼓励讨价还价带来的能力提升，候选补充了增强自我觉醒和自我认知、共情力和社交能力的作用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:v2-n001",
+      "target": "s-0dca9f1f7766-c002:a006",
+      "kind": "complements",
+      "condition": "两者均涉及在讨价还价中培养孩子共情",
+      "reason": "source指出孩子能更敏锐捕捉共赢方案，候选补充了实现敏锐性的具体方法：通过提问让孩子考虑对他人的影响和感受，帮助其发现他人感受。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a006",
+      "target": "s-0dca9f1f7766-c001:v2-n001",
+      "kind": "complements",
+      "condition": "两者均涉及在讨价还价中培养孩子共情",
+      "reason": "source指出孩子能更敏锐捕捉共赢方案，候选补充了实现敏锐性的具体方法：通过提问让孩子考虑对他人的影响和感受，帮助其发现他人感受。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:v2-n001",
+      "target": "s-0dca9f1f7766-c002:r004",
+      "kind": "association",
+      "condition": "内容与a006高度重复",
+      "reason": "source未涉及具体提问方法，候选提供了类似a006的两个问题，但未补充新的实质内容，仅作主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:r004",
+      "target": "s-0dca9f1f7766-c001:v2-n001",
+      "kind": "association",
+      "condition": "内容与a006高度重复",
+      "reason": "source未涉及具体提问方法，候选提供了类似a006的两个问题，但未补充新的实质内容，仅作主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:v2-n001",
+      "target": "s-0dca9f1f7766-c002:a019",
+      "kind": "complements",
+      "condition": "两者均涉及讨价还价中的共情要求",
+      "reason": "source指出让孩子考虑父母需要和想法，候选补充了讨价还价需要了解对方需求的原理：要给予对方所需以换取自己所需，因此必须设身处地。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a019",
+      "target": "s-0dca9f1f7766-c001:v2-n001",
+      "kind": "complements",
+      "condition": "两者均涉及讨价还价中的共情要求",
+      "reason": "source指出让孩子考虑父母需要和想法，候选补充了讨价还价需要了解对方需求的原理：要给予对方所需以换取自己所需，因此必须设身处地。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:v2-n001",
+      "target": "s-0dca9f1f7766-c001:a018",
+      "kind": "association",
+      "condition": "两者均涉及共赢主题但角度不同",
+      "reason": "source讨论通过鼓励挑战和讨价还价培养共赢，候选指出父母常见的共赢误区（好成绩即共赢），与source直接关联较弱，仅作主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a018",
+      "target": "s-0dca9f1f7766-c001:v2-n001",
+      "kind": "association",
+      "condition": "两者均涉及共赢主题但角度不同",
+      "reason": "source讨论通过鼓励挑战和讨价还价培养共赢，候选指出父母常见的共赢误区（好成绩即共赢），与source直接关联较弱，仅作主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:v2-n001",
+      "target": "s-0dca9f1f7766-c001:r005",
+      "kind": "complements",
+      "condition": "两者均讨论共赢的关键",
+      "reason": "source侧重于通过鼓励挑战让孩子敏锐捕捉共赢方案，候选补充了共赢的核心原则：平衡自信和为他人考虑，平衡自己的既得利益和对方想要什么。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:r005",
+      "target": "s-0dca9f1f7766-c001:v2-n001",
+      "kind": "complements",
+      "condition": "两者均讨论共赢的关键",
+      "reason": "source侧重于通过鼓励挑战让孩子敏锐捕捉共赢方案，候选补充了共赢的核心原则：平衡自信和为他人考虑，平衡自己的既得利益和对方想要什么。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:v2-n001",
+      "target": "s-0dca9f1f7766-c002:a005",
+      "kind": "complements",
+      "condition": "两者均涉及帮助孩子讨价还价",
+      "reason": "source建议鼓励讨价还价，候选补充了父母帮助孩子讨价还价的具体三个步骤：指认真实需求、思考应得理由、思考交换条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a005",
+      "target": "s-0dca9f1f7766-c001:v2-n001",
+      "kind": "complements",
+      "condition": "两者均涉及帮助孩子讨价还价",
+      "reason": "source建议鼓励讨价还价，候选补充了父母帮助孩子讨价还价的具体三个步骤：指认真实需求、思考应得理由、思考交换条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:v2-n001",
+      "target": "s-0dca9f1f7766-c001:a013",
+      "kind": "complements",
+      "condition": "在资源有限、能力有限的条件下培养孩子讨价还价能力。",
+      "reason": "source 强调鼓励讨价还价的勇气和口才及其益处，但未涉及具体场景和步骤；a013 补充了在资源有限下让孩子学习妥协和讨价还价的日常事务参与方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a013",
+      "target": "s-0dca9f1f7766-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在资源有限、能力有限的条件下培养孩子讨价还价能力。",
+      "reason": "source 强调鼓励讨价还价的勇气和口才及其益处，但未涉及具体场景和步骤；a013 补充了在资源有限下让孩子学习妥协和讨价还价的日常事务参与方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:v2-n001",
+      "target": "s-0dca9f1f7766-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在培养共赢能力时，两者需结合心理安全与技能训练。",
+      "reason": "source 侧重讨价还价的技能和收益，而 target 补充了核心前提：尊重、保护、支持孩子表达，即使不符合期待，这种环境是孩子能敏锐捕捉共赢方案的基础。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:v2-n001",
+      "target": "s-0dca9f1f7766-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在培养共赢能力时，两者需结合心理安全与技能训练。",
+      "reason": "source 侧重讨价还价的技能和收益，而 target 补充了核心前提：尊重、保护、支持孩子表达，即使不符合期待，这种环境是孩子能敏锐捕捉共赢方案的基础。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:v2-n001",
+      "target": "s-0dca9f1f7766-c001:a015",
+      "kind": "complements",
+      "condition": "当父母否定孩子讨价还价时。",
+      "reason": "source 提倡鼓励讨价还价，a015 从反面补充了禁止讨价还价的负面效果，说明该行为会阻碍共情、自信和共赢能力，强化了 source 的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a015",
+      "target": "s-0dca9f1f7766-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当父母否定孩子讨价还价时。",
+      "reason": "source 提倡鼓励讨价还价，a015 从反面补充了禁止讨价还价的负面效果，说明该行为会阻碍共情、自信和共赢能力，强化了 source 的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:v2-n001",
+      "target": "s-0dca9f1f7766-c002:a016",
+      "kind": "complements",
+      "condition": "当父母禁止孩子讨价还价时。",
+      "reason": "source 未分析禁止行为的原因，a016 补充了背后的心理动因：父母害怕失去控制，并将孩子讨价还价误解为不听话，这为了解如何改变提供了依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a016",
+      "target": "s-0dca9f1f7766-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当父母禁止孩子讨价还价时。",
+      "reason": "source 未分析禁止行为的原因，a016 补充了背后的心理动因：父母害怕失去控制，并将孩子讨价还价误解为不听话，这为了解如何改变提供了依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:v2-n001",
+      "target": "s-0dca9f1f7766-c002:a001",
+      "kind": "complements",
+      "condition": "当需要厘清讨价还价能力的概念时。",
+      "reason": "source 直接谈论鼓励讨价还价，但未给出定义；a001 补充了讨价还价的定义：通过沟通和交换条件达成双方可接受的协议，为 source 提供概念基础。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a001",
+      "target": "s-0dca9f1f7766-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要厘清讨价还价能力的概念时。",
+      "reason": "source 直接谈论鼓励讨价还价，但未给出定义；a001 补充了讨价还价的定义：通过沟通和交换条件达成双方可接受的协议，为 source 提供概念基础。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:v2-n001",
+      "target": "s-0dca9f1f7766-c002:r002",
+      "kind": "association",
+      "condition": "当讨论讨价还价能力的连带影响时。",
+      "reason": "source 关注能力带来的积极发展，r002 补充了没有该能力的孩子会难以接受非完美局面；两者都涉及讨价还价能力但侧重点不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:r002",
+      "target": "s-0dca9f1f7766-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论讨价还价能力的连带影响时。",
+      "reason": "source 关注能力带来的积极发展，r002 补充了没有该能力的孩子会难以接受非完美局面；两者都涉及讨价还价能力但侧重点不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:v2-n001",
+      "target": "s-0dca9f1f7766-c002:a002",
+      "kind": "complements",
+      "condition": "当评估孩子是否具备讨价还价能力时。",
+      "reason": "source 说鼓励讨价还价能增强共情和社交能力，a002 补充了具备该能力的三点表现：愿意妥协、设身处地、成熟取舍，使这些能力具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a002",
+      "target": "s-0dca9f1f7766-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当评估孩子是否具备讨价还价能力时。",
+      "reason": "source 说鼓励讨价还价能增强共情和社交能力，a002 补充了具备该能力的三点表现：愿意妥协、设身处地、成熟取舍，使这些能力具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:v2-n001",
+      "target": "s-0dca9f1f7766-c002:a019",
+      "kind": "complements",
+      "condition": "当学习讨价还价中的交换技巧时。",
+      "reason": "source 提到让孩子考虑父母的需要和想法，a019 补充了原因：讨价还价需要给对方他想要的东西来换取自己想要的，因此必须了解对方需求。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a019",
+      "target": "s-0dca9f1f7766-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当学习讨价还价中的交换技巧时。",
+      "reason": "source 提到让孩子考虑父母的需要和想法，a019 补充了原因：讨价还价需要给对方他想要的东西来换取自己想要的，因此必须了解对方需求。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:v2-n001",
+      "target": "s-0dca9f1f7766-c002:r001",
+      "kind": "association",
+      "condition": "当讨论讨价还价对沟通的影响时。",
+      "reason": "source 未涉及沟通渠道问题，r001 补充了具备讨价还价能力意味着在矛盾中仍能保持沟通；这属于另一结果，关联不紧密。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:r001",
+      "target": "s-0dca9f1f7766-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论讨价还价对沟通的影响时。",
+      "reason": "source 未涉及沟通渠道问题，r001 补充了具备讨价还价能力意味着在矛盾中仍能保持沟通；这属于另一结果，关联不紧密。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:v2-n001",
+      "target": "s-0dca9f1f7766-c001:a014",
+      "kind": "complements",
+      "condition": "当需要为孩子表达创造心理安全环境时。",
+      "reason": "source 强调勇气和口才，a014 补充了具体做法：允许孩子挑战权威，让孩子知道想法、需要、感受被尊重保护支持，这种环境是培养共情的基础。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c001:a014",
+      "target": "s-0dca9f1f7766-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要为孩子表达创造心理安全环境时。",
+      "reason": "source 强调勇气和口才，a014 补充了具体做法：允许孩子挑战权威，让孩子知道想法、需要、感受被尊重保护支持，这种环境是培养共情的基础。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:v2-n001",
+      "target": "s-0dca9f1f7766-c002:a003",
+      "kind": "association",
+      "condition": "当考虑不培养讨价还价能力的后果时。",
+      "reason": "source 是正面倡导，a003 阐述缺乏该能力的后果（关闭沟通、不能接受非完美局面）；后果可佐证 source 的重要性，但两者逻辑方向相反。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a003",
+      "target": "s-0dca9f1f7766-c002:v2-n001",
+      "kind": "association",
+      "condition": "当考虑不培养讨价还价能力的后果时。",
+      "reason": "source 是正面倡导，a003 阐述缺乏该能力的后果（关闭沟通、不能接受非完美局面）；后果可佐证 source 的重要性，但两者逻辑方向相反。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:v2-n001",
+      "target": "s-0dca9f1f7766-c002:a005",
+      "kind": "association",
+      "condition": "当孩子提出具体要求并需要引导时。",
+      "reason": "source 只提鼓励讨价还价，a005 给出三个具体引导步骤；可视为实践补充，但步骤针对孩子提出要求的场景，与 source 的宏观倡导关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0dca9f1f7766-c002:a005",
+      "target": "s-0dca9f1f7766-c002:v2-n001",
+      "kind": "association",
+      "condition": "当孩子提出具体要求并需要引导时。",
+      "reason": "source 只提鼓励讨价还价，a005 给出三个具体引导步骤；可视为实践补充，但步骤针对孩子提出要求的场景，与 source 的宏观倡导关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "在培养共赢能力时，共情（理解情绪）是基础，界限制定需要共情和讨价还价。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a012",
+        "s-0dca9f1f7766-c002:a015",
+        "s-0dca9f1f7766-c002:a024"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-0dca9f1f7766-c002:a015",
+          "limits": [
+            "价值和原则问题不可讨价还价"
+          ]
+        },
+        {
+          "atom_id": "s-0dca9f1f7766-c002:a024",
+          "limits": [
+            "价值和原则问题不可讨价还价"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "内在能力",
+      "to": "界限",
+      "when": "讨价还价能力（内在能力）用于制定界限前的协商，但界限一旦制定则不可改变。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a015",
+        "s-0dca9f1f7766-c002:a024"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-0dca9f1f7766-c002:a015",
+          "limits": [
+            "价值和原则问题不可讨价还价"
+          ]
+        },
+        {
+          "atom_id": "s-0dca9f1f7766-c002:a024",
+          "limits": [
+            "价值和原则问题不可讨价还价"
+          ]
+        },
+        {
+          "atom_id": "s-0dca9f1f7766-c002:a024",
+          "limits": [
+            "价值和原则问题不可讨价还价"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "内在能力",
+      "when": "共情能力帮助孩子理解他人需求，是讨价还价能力的重要组成部分。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a006",
+        "s-0dca9f1f7766-c002:a019",
+        "s-0dca9f1f7766-c002:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a013"
+      ],
+      "reason": "内容完全一致，都是培养共赢的方法：鼓励讨价还价，步骤和条件相同。"
+    },
+    {
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a015",
+        "s-0dca9f1f7766-c002:a024"
+      ],
+      "reason": "内容完全一致，都是界限制定的时机和例外。"
+    },
+    {
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a013",
+        "s-0dca9f1f7766-c002:r010"
+      ],
+      "reason": "内容完全一致，都是求同存异与共赢的关系。"
+    },
+    {
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a023"
+      ],
+      "reason": "内容完全一致，都是找出共同点改变敌对氛围。"
+    },
+    {
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a009"
+      ],
+      "reason": "内容完全一致，都是辩论训练反向思考。"
+    },
+    {
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a010"
+      ],
+      "reason": "内容完全一致，都是辩论训练清晰表达。"
+    },
+    {
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a011"
+      ],
+      "reason": "内容完全一致，都是辩论训练逻辑思考能力。"
+    },
+    {
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a012"
+      ],
+      "reason": "内容完全一致，都是辩论训练情绪管控。"
+    },
+    {
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a006",
+        "s-0dca9f1f7766-c002:r004"
+      ],
+      "reason": "内容完全一致，都是同理心练习的两个问题。"
+    },
+    {
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a007"
+      ],
+      "reason": "内容完全一致，都是理解他人感受促进妥协。"
+    },
+    {
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a004",
+        "s-0dca9f1f7766-c002:r003"
+      ],
+      "reason": "内容完全一致，都是妥协的底层逻辑。"
+    },
+    {
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a003",
+        "s-0dca9f1f7766-c002:r001",
+        "s-0dca9f1f7766-c002:r002"
+      ],
+      "reason": "内容完全一致，都是缺乏讨价还价能力的后果。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "培养共赢能力的方法",
+      "steps": [
+        {
+          "action": "父母与孩子共同参与决定日常事务，进入讨价还价环节",
+          "atom_ids": [
+            "s-0dca9f1f7766-c001:a013",
+            "s-0dca9f1f7766-c002:a018"
+          ],
+          "condition": "资源有限、能力有限的条件下"
+        },
+        {
+          "action": "帮助孩子指认真正想要什么、为什么应该得到、拿什么交换",
+          "atom_ids": [
+            "s-0dca9f1f7766-c002:a005"
+          ],
+          "condition": "孩子提出要求时"
+        },
+        {
+          "action": "通过提问帮助孩子理解他人感受和影响",
+          "atom_ids": [
+            "s-0dca9f1f7766-c002:a006",
+            "s-0dca9f1f7766-c002:r004"
+          ],
+          "condition": "孩子提出要求时"
+        },
+        {
+          "action": "鼓励孩子挑战父母权威，尊重其想法和感受",
+          "atom_ids": [
+            "s-0dca9f1f7766-c001:a014",
+            "s-0dca9f1f7766-c002:a017"
+          ],
+          "condition": null
+        },
+        {
+          "action": "在讨价还价后制定界限，但价值和原则问题不可讨价还价",
+          "atom_ids": [
+            "s-0dca9f1f7766-c002:a015",
+            "s-0dca9f1f7766-c002:a024"
+          ],
+          "condition": "制定界限时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "e4b58bcc5002405b12170443ec4735b29be17e09b3444547a7172edf4d8fb342",
+  "recovered_from_response": "s-0dca9f1f7766-relations-1793881947640628400.json",
+  "point_units": [
+    {
+      "id": "s-0dca9f1f7766-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:r001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a002",
+        "s-0dca9f1f7766-c001:r001"
+      ],
+      "blocks": [
+        "b00003",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a016"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a019"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:r002"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a020"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:r003",
+        "s-0dca9f1f7766-c001:a017"
+      ],
+      "blocks": [
+        "b00010",
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a003"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a004"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a005"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u012",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a006"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a007"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a008",
+        "s-0dca9f1f7766-c001:r004"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a009"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a008",
+        "s-0dca9f1f7766-c001:a016"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a021"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a010"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a011"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a022"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a002",
+        "s-0dca9f1f7766-c001:a012"
+      ],
+      "blocks": [
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u022",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a018"
+      ],
+      "blocks": [
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a012",
+        "s-0dca9f1f7766-c001:r005"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u024",
+      "kind": "method",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a013"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u025",
+      "kind": "method",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a018"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c001:u026",
+      "kind": "method",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a018"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:a014"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u004",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a016"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a002"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:r001"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a003"
+      ],
+      "blocks": [
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a002"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u009",
+      "kind": "definition",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a004"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a004"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a005"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a005"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a006"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a006"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u015",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a007"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a009"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a010"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a011"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a012"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a012"
+      ],
+      "blocks": [
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a013"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u022",
+      "kind": "case",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a014"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-0dca9f1f7766-c002:u023",
+      "kind": "condition",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:a015"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059",
+        "b00060"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "培养共赢的方法：鼓励孩子挑战父母权威",
+      "atom_ids": [
+        "s-0dca9f1f7766-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0dca9f1f7766",
+          "blocks": [
+            "b00032",
+            "b00033"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "鼓励讨价还价增强自我认知和共情社交能力",
+      "atom_ids": [
+        "s-0dca9f1f7766-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0dca9f1f7766",
+          "blocks": [
+            "b00030",
+            "b00031"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    }
+  ]
+}

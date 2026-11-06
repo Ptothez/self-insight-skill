@@ -1,0 +1,4483 @@
+{
+  "concepts": [
+    {
+      "name": "不能理直气壮的原因",
+      "definition": "担心观点或行为受到质疑和批评；不够确信立场正确；担心表达引起误会或冲突。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a001"
+      ]
+    },
+    {
+      "name": "应对担心被质疑",
+      "definition": "认识到观点或行为一定会受到批评或质疑，因此无需担心，将担心从思想中移除。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a002"
+      ]
+    },
+    {
+      "name": "应对立场不确定",
+      "definition": "认识到没有人能保证立场是绝对真理，只能根据当前信息做出最正确的选择；自我怀疑时也要质疑对方立场。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a003"
+      ]
+    },
+    {
+      "name": "应对表达引发误会",
+      "definition": "将误会和冲突常态化，认为发生是正常的，恐惧就会减少。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a004"
+      ]
+    },
+    {
+      "name": "情绪管理：从自我怀疑转向质疑对方",
+      "definition": "被质疑或批评时，第一时间感到弱势并自我怀疑、自我攻击；情绪管理要求将自我怀疑转变为怀疑对方的质疑、批评对方的批评。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a005",
+        "s-ffb5be3b961e-c001:r010"
+      ]
+    },
+    {
+      "name": "逻辑清晰：找出对方话中的破洞并反击",
+      "definition": "听出对方话中的逻辑漏洞，并针对漏洞进行有力反击。方法：先听出漏洞，不急于回应；然后针对漏洞提问或反驳，将对方的逻辑套回对方身上。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a007"
+      ]
+    },
+    {
+      "name": "针对逻辑漏洞的反击方法",
+      "definition": "指出漏洞后，用提问让对方确认其逻辑，或直接将逻辑套回对方身上。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a009"
+      ]
+    },
+    {
+      "name": "事实与逻辑漏洞的区分",
+      "definition": "对方可能陈述事实，但事实本身不构成逻辑漏洞；逻辑漏洞在于从事实得出的推论。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a010"
+      ]
+    },
+    {
+      "name": "听力练习：先听出逻辑漏洞再回应",
+      "definition": "在争论中先练习听力，听出对方话中的逻辑漏洞，不急于回应；只有听出漏洞才能有针对性地反击。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a011"
+      ]
+    },
+    {
+      "name": "质疑对方动机",
+      "definition": "当对方提出指责时，可以质疑对方的动机，例如怀疑对方是为了合理化自己的行为而编造理由。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r001"
+      ]
+    },
+    {
+      "name": "用事实反击",
+      "definition": "在争论中用事实反击，例如指出当前是自己在敲门理论，而对方没有先来，从而证明对方理亏。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r002"
+      ]
+    },
+    {
+      "name": "避免陷入证明死循环",
+      "definition": "当争论陷入“你说了我没说”的死循环时，应跳出循环，不试图证明无法证明的事情，而是用其他事实或逻辑漏洞来反击。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r003"
+      ]
+    },
+    {
+      "name": "讽刺对方",
+      "definition": "通过讽刺对方来反击，例如说“我不是那种父母”，暗示对方是那种父母，从而在心理上占据优势。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r004"
+      ]
+    },
+    {
+      "name": "设定界限：禁止孩子与对方接触",
+      "definition": "在冲突后设定界限，例如告诉孩子不再与对方孩子讲话或接触，以保护孩子。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r005"
+      ]
+    },
+    {
+      "name": "质疑对方逻辑中的定义",
+      "definition": "当对方随意下定义时，可以质疑这个定义，指出其不合理性。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r006"
+      ]
+    },
+    {
+      "name": "用对方的逻辑反制",
+      "definition": "当对方使用有漏洞的逻辑时，将同样的逻辑套回对方身上，从而暴露其逻辑的荒谬。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r007"
+      ]
+    },
+    {
+      "name": "提问让对方确认逻辑",
+      "definition": "在指出逻辑漏洞后，通过提问让对方确认其逻辑，让对方陷入困境。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r008"
+      ]
+    },
+    {
+      "name": "指出对方无法证明",
+      "definition": "当对方声称某事时，指出对方无法证明，从而削弱对方的立场。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r009"
+      ]
+    },
+    {
+      "name": "常态化恐惧",
+      "definition": "害怕源于认为某事不应该发生；一旦认为某事本来就应该发生，是正常的，恐惧就会减少。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r011"
+      ]
+    },
+    {
+      "name": "定义权争夺的逻辑漏洞",
+      "definition": "当对方随意定义某个概念时，其逻辑漏洞在于定义权是主观的，没有统一标准；可以用同样的方式反向定义对方的行为。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a001"
+      ]
+    },
+    {
+      "name": "贴标签与反向贴标签",
+      "definition": "对方通过贴标签来定义你，你可以用同样的方式反向贴标签，指出对方也在用自己的标准定义他人。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a002"
+      ]
+    },
+    {
+      "name": "利用对方逻辑漏洞进行反击",
+      "definition": "当对方提出无法证明的论断时，抓住其逻辑漏洞，用对方的逻辑反制，例如要求对方证明或提出不合理要求。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a003"
+      ]
+    },
+    {
+      "name": "情绪管理与冷静倾听",
+      "definition": "在冲突中，管理情绪、保持冷静是抓住对方逻辑漏洞的前提；情绪激动会导致无法理性分析。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a004"
+      ]
+    },
+    {
+      "name": "拒绝自证陷阱",
+      "definition": "当对方通过指责你情绪失控来占据道德高地时，不要自证清白，而是承认对方的标签并反将一军。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a006",
+        "s-ffb5be3b961e-c002:r006"
+      ]
+    },
+    {
+      "name": "寻找逻辑漏洞的方法",
+      "definition": "在回应对方指责前，先冷静分析对方话语中的逻辑漏洞，例如偷换概念、以偏概全、错误归因等，然后针对漏洞进行反击。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a008"
+      ]
+    },
+    {
+      "name": "反向定义矫情的具体示例",
+      "definition": "当对方定义“矫情”时，可以用对方的行为反向定义，揭示对方定义的主观性。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:r001"
+      ]
+    },
+    {
+      "name": "反向贴标签的具体示例",
+      "definition": "当对方贴标签时，可以用同样的方式反向贴标签，揭示对方标准的任意性。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:r002"
+      ]
+    },
+    {
+      "name": "利用无法证明的论断进行反击",
+      "definition": "当对方提出无法证明的论断时，可以要求对方证明，或提出不合理要求，从而暴露其逻辑的荒谬性。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:r003"
+      ]
+    },
+    {
+      "name": "冷静激怒策略",
+      "definition": "对方通过保持冷静、让你照镜子看自己失控的样子，将你置于道德低点，使你陷入自证陷阱。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:r005"
+      ]
+    },
+    {
+      "name": "识别对方的局",
+      "definition": "对方通过指责你情绪失控，将你置于道德低点，使你陷入自证陷阱；识别这个局是打破它的前提。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:xe008"
+      ]
+    },
+    {
+      "name": "逻辑漏洞与直接反驳的区别",
+      "definition": "逻辑漏洞是对方话语中隐含的错误前提或推理缺陷，直接反驳可能陷入对方设定的框架。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a002"
+      ]
+    },
+    {
+      "name": "全职妈妈工作评价权的逻辑漏洞",
+      "definition": "丈夫评价全职妈妈工作能力时，隐含假定自己是老板，有权定义工作职责和评价表现；但全职妈妈的工作没有明确工资、休假、五险一金等，丈夫无权单方面定义和评价。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:r001"
+      ]
+    },
+    {
+      "name": "用他人定义评价学习效果",
+      "definition": "丈夫用自己的定义来评价妻子学得好不好，学好的唯一标准是他满意。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a010"
+      ]
+    },
+    {
+      "name": "丈夫不是心理学或育儿专家",
+      "definition": "丈夫不是心理学大咖或育儿专家，因此没有权威定义学习效果。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a011"
+      ]
+    },
+    {
+      "name": "被质疑时陷入解释模式",
+      "definition": "当被丈夫质疑时，妻子们往往试图解释和劝说，但丈夫处于高点，妻子处于低压，解释无效。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a021"
+      ]
+    },
+    {
+      "name": "丈夫以老板姿态质疑",
+      "definition": "丈夫在对话中把自己置于高点，像老板一样要求妻子交代，妻子只能像下属一样解释。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a022"
+      ]
+    },
+    {
+      "name": "不回答对方问题，先质疑对方资格",
+      "definition": "当对方以老板姿态质疑时，不要回答他的问题，而是质疑他的资格。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a023"
+      ]
+    },
+    {
+      "name": "不要赌气",
+      "definition": "在冲突中不要赌气，否则会陷入争吵。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a032"
+      ]
+    },
+    {
+      "name": "老师批评不等于孩子差",
+      "definition": "老师批评孩子不代表孩子差，可能只是老师标准不同。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a037"
+      ]
+    },
+    {
+      "name": "用对方逻辑反击",
+      "definition": "当丈夫批评妻子时，妻子可以用同样逻辑批评丈夫。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a038"
+      ]
+    },
+    {
+      "name": "孩子学习标准由老师定义",
+      "definition": "孩子在学校学习有标准，由老师定义，不是由丈夫定义。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a039"
+      ]
+    },
+    {
+      "name": "作业没做好不等于被骗或没学好",
+      "definition": "孩子作业没做好不能推出妻子被骗或没学好，这是逻辑跳跃。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a041"
+      ]
+    },
+    {
+      "name": "没学的人不应制定标准",
+      "definition": "没学的人不应制定孩子好不好的标准，学了的人不应听没学的人。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a050"
+      ]
+    },
+    {
+      "name": "丈夫不承认自己不懂",
+      "definition": "丈夫不承认自己不懂，表现得好像很懂，又不学。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a051"
+      ]
+    },
+    {
+      "name": "不进入对方的局",
+      "definition": "当对方设局时，不要进入他的局，不回答他的问题。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a057"
+      ]
+    },
+    {
+      "name": "立自己的主场",
+      "definition": "在对话中要立自己的主场，不要进对方的主场。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a059"
+      ]
+    },
+    {
+      "name": "课程费用是夫妻共同财产",
+      "definition": "丈夫认为课程费用是夫妻共同财产，妻子花了没效果。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a060"
+      ]
+    },
+    {
+      "name": "用对方消费反击",
+      "definition": "可以指出对方抽烟也花家庭财产，反击其指责。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a061"
+      ]
+    },
+    {
+      "name": "丈夫认为没看到效果",
+      "definition": "丈夫认为孩子作业乱七八糟，没看到课程效果。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a062"
+      ]
+    },
+    {
+      "name": "妻子看到自己要的效果",
+      "definition": "妻子表示看到了自己要的效果，但不愿解释。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a063"
+      ]
+    },
+    {
+      "name": "丈夫只看到成绩，其他看不见",
+      "definition": "丈夫只盯着孩子成绩，其他改变都看不见。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a068"
+      ]
+    },
+    {
+      "name": "转到自己的主场",
+      "definition": "通过反问，妻子转到自己的主场，变得主动，丈夫需要解释。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a070"
+      ]
+    },
+    {
+      "name": "丈夫认为孩子越来越坏",
+      "definition": "丈夫认为孩子没什么改变，只是越来越坏了。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a072"
+      ]
+    },
+    {
+      "name": "丈夫只看到作业越来越乱",
+      "definition": "丈夫确认只看到孩子做作业越来越乱，其他改变没看到。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a074"
+      ]
+    },
+    {
+      "name": "丈夫是糟糕的爸爸",
+      "definition": "妻子认为如果丈夫只看到孩子变坏，就是非常糟糕的爸爸。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a076"
+      ]
+    },
+    {
+      "name": "作业被老师批评是改变",
+      "definition": "丈夫认为孩子作业被老师批评是很大的改变，邻居都看见了。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a077"
+      ]
+    },
+    {
+      "name": "不陪作业导致作业乱没关系",
+      "definition": "妻子认为不陪孩子做作业导致作业乱没有关系，是OK的。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a079"
+      ]
+    },
+    {
+      "name": "不解释原因",
+      "definition": "妻子决定不解释为什么作业乱是OK的，因为解释会被扭曲。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a081"
+      ]
+    },
+    {
+      "name": "孩子自己做作业锻炼独立性",
+      "definition": "孩子自己做作业是在锻炼独立性，所以作业乱是OK的。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a082"
+      ]
+    },
+    {
+      "name": "学习可以减轻焦虑",
+      "definition": "学了课程就不会焦虑，看着孩子作业没做好也不会焦虑；不学就会焦虑并找麻烦。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a084"
+      ]
+    },
+    {
+      "name": "丈夫要求妻子为孩子行为负责",
+      "definition": "丈夫认为妻子学习是为了孩子，孩子行为出现问题，妻子要负责。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a085"
+      ]
+    },
+    {
+      "name": "老师行为问题不是孩子行为问题",
+      "definition": "被老师在全班面前批评是老师的行为问题，不是孩子的行为问题。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a087"
+      ]
+    },
+    {
+      "name": "被老师点名不等于知识没学好",
+      "definition": "丈夫认为被老师点名说明知识没学好，但这是他的认知，不一定正确。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a088"
+      ]
+    },
+    {
+      "name": "丈夫认为孩子态度不行",
+      "definition": "丈夫认为孩子作业乱七八糟是态度不行。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a090"
+      ]
+    },
+    {
+      "name": "面对烦事态度不好是正常的",
+      "definition": "每个人面对很烦的事都态度不好，孩子面对作业态度不好是正常的。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a091"
+      ]
+    },
+    {
+      "name": "作业乱不认为有问题",
+      "definition": "妻子不认为孩子作业乱有任何问题，如果丈夫认为有问题，自己去学，不要发泄到妻子身上。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a092"
+      ]
+    },
+    {
+      "name": "老师批评伤自尊是丈夫的看法",
+      "definition": "丈夫认为老师在群里说孩子伤了孩子自尊，但妻子认为孩子没看到，没觉得伤自尊，是丈夫自己伤自尊。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a093"
+      ]
+    },
+    {
+      "name": "老师希望作业像课本一样",
+      "definition": "老师巴不得孩子作业写得跟课本一样，这是不现实的。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a094"
+      ]
+    },
+    {
+      "name": "区分讨论与发泄",
+      "definition": "在冲突对话中，需要区分讨论和发泄。讨论的目的是把事情说清楚，可以好好说；发泄的目的是把情绪宣泄出来，让自己不焦虑。如果对方不能反思，继续讲下去没有意义，此时对话就变成了发泄。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c005:a001"
+      ]
+    },
+    {
+      "name": "在高峰期结束争吵",
+      "definition": "当争吵陷入同一件事反复绕圈、没有定论时，应在高峰期结束对话。具体做法是：在对方指责自己时，进行一顿输出，然后离开。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c005:a002"
+      ]
+    },
+    {
+      "name": "寻找逻辑漏洞再回应",
+      "definition": "在争吵或辩论中，应先找出对方的逻辑漏洞，再回应。在没有听出逻辑漏洞之前，先不讲话。要一层一层找逻辑漏洞，从小层面到大层面，全部找完后，再根据逻辑漏洞进行回应。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c005:a003"
+      ]
+    },
+    {
+      "name": "练习寻找逻辑漏洞",
+      "definition": "可以通过练习来提高寻找逻辑漏洞的能力。练习方法是：用最近身边发生的事情，先讲一句话，然后大家一起找这句话中的逻辑漏洞，一层一层找。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c005:a004"
+      ]
+    },
+    {
+      "name": "区分对老师情绪与对配偶情绪的在意",
+      "definition": "在夫妻冲突中，一方可能过度在意老师的情绪，而忽视配偶的情绪。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c005:r001"
+      ]
+    },
+    {
+      "name": "争吵中停止的条件",
+      "definition": "当争吵陷入同一件事反复绕圈、没有定论，且对方在指责自己时，应停止争吵。停止的方式是在高峰期进行一顿输出后离开。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c005:r002"
+      ]
+    },
+    {
+      "name": "结束争吵的机制",
+      "definition": "在争吵高峰期进行一顿输出后离开，其机制是：如果对方能反思，他会开始反思；如果不能反思，继续讲下去没有意义，对话就变成了发泄。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c005:r003"
+      ]
+    },
+    {
+      "name": "练习寻找逻辑漏洞的步骤",
+      "definition": "练习寻找逻辑漏洞的具体步骤：选择最近身边发生的事情，先讲一句话，然后大家一起找这句话中的逻辑漏洞，一层一层找，从小层面到大层面，全部找完后，再根据逻辑漏洞进行回应。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c005:r004"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-ffb5be3b961e-c001:a001",
+      "target": "s-ffb5be3b961e-c001:a002",
+      "kind": "association",
+      "condition": "当担心观点或行为受到质疑和批评时",
+      "reason": "不能理直气壮的原因包含担心观点或行为受到质疑和批评，针对这一担心的应对方法是认识到批评不可避免，二者是问题与应对的关联，不构成支持或因果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 不在允许类型中，改为 association。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:a001",
+      "target": "s-ffb5be3b961e-c001:a003",
+      "kind": "association",
+      "condition": "当不够确信自己的立场正确时",
+      "reason": "不能理直气壮的原因包含不够确信自己的立场正确，应对方法是质疑对方立场同样可能错误，二者是问题与应对的关联，不构成支持或因果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 不在允许类型中，改为 association。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:a001",
+      "target": "s-ffb5be3b961e-c001:a004",
+      "kind": "association",
+      "condition": "当担心表达引起误会或冲突时",
+      "reason": "不能理直气壮的原因包含担心表达引起误会或冲突，应对方法是将冲突正常化，二者是问题与应对的关联，不构成支持或因果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 不在允许类型中，改为 association。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:a005",
+      "target": "s-ffb5be3b961e-c001:a003",
+      "kind": "supports",
+      "condition": "当自我怀疑时",
+      "reason": "k00005 强调将自我怀疑转变为质疑对方，k00003 也提到自我怀疑时也要质疑对方立场，两者一致。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:a007",
+      "target": "s-ffb5be3b961e-c001:a009",
+      "kind": "step_of",
+      "condition": "在找出逻辑漏洞后",
+      "reason": "k00007 描述逻辑清晰的方法包括找出漏洞并反击，k00009 具体说明反击方法。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:a011",
+      "target": "s-ffb5be3b961e-c001:a007",
+      "kind": "prerequisite",
+      "condition": "在争论中",
+      "reason": "在争论中，做到逻辑清晰需要先能听出对方话中的逻辑漏洞，因此听力练习是先决条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "前提关系成立。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:a010",
+      "target": "s-ffb5be3b961e-c001:a007",
+      "kind": "supports",
+      "condition": "当对方陈述事实时",
+      "reason": "k00010 区分事实与逻辑漏洞，有助于 k00007 中准确找出逻辑漏洞。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:r001",
+      "target": "s-ffb5be3b961e-c001:a007",
+      "kind": "example_of",
+      "condition": "当对方提出指责时",
+      "reason": "k00012 质疑对方动机是 k00007 中“针对漏洞进行反击”的一种具体方式。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:r002",
+      "target": "s-ffb5be3b961e-c001:a007",
+      "kind": "example_of",
+      "condition": "当有事实可用时",
+      "reason": "k00013 用事实反击是 k00007 中反击的一种方式。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:r003",
+      "target": "s-ffb5be3b961e-c001:a007",
+      "kind": "supports",
+      "condition": "当争论陷入死循环时",
+      "reason": "在死循环时跳出循环并用其他事实或逻辑漏洞反击，补充了逻辑清晰原则的应用情境，支持该原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:r004",
+      "target": "s-ffb5be3b961e-c001:a007",
+      "kind": "example_of",
+      "condition": "当需要心理优势时",
+      "reason": "k00015 讽刺对方是 k00007 中反击的一种方式。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:r005",
+      "target": "s-ffb5be3b961e-c001:a006",
+      "kind": "step_of",
+      "condition": "冲突后",
+      "reason": "在邻居孩子骂人事件中，冲突后设定界限禁止孩子接触是该案例处理过程的一个步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "步骤关系成立。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:r006",
+      "target": "s-ffb5be3b961e-c002:a001",
+      "kind": "supports",
+      "condition": "当对方随意下定义时",
+      "reason": "k00017 质疑定义，k00023 进一步说明定义权争夺的逻辑漏洞，两者相关。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:r007",
+      "target": "s-ffb5be3b961e-c001:a009",
+      "kind": "example_of",
+      "condition": "当对方使用有漏洞的逻辑时",
+      "reason": "k00018 用对方的逻辑反制是 k00009 中“将逻辑套回对方”的具体示例。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:r008",
+      "target": "s-ffb5be3b961e-c001:a009",
+      "kind": "example_of",
+      "condition": "当指出逻辑漏洞后",
+      "reason": "k00019 提问让对方确认逻辑是 k00009 中反击方法的一种。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:r009",
+      "target": "s-ffb5be3b961e-c001:a009",
+      "kind": "example_of",
+      "condition": "当对方声称无法证明的事时",
+      "reason": "k00020 指出对方无法证明是 k00009 中反击的一种方式。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:r011",
+      "target": "s-ffb5be3b961e-c001:a004",
+      "kind": "supports",
+      "condition": "当害怕误会或冲突时",
+      "reason": "k00022 常态化恐惧的原理支持 k00004 的应对方法。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:a001",
+      "target": "s-ffb5be3b961e-c002:a002",
+      "kind": "supports",
+      "condition": "当对方贴标签时",
+      "reason": "k00023 定义权争夺，k00024 贴标签与反向贴标签是类似策略。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:a003",
+      "target": "s-ffb5be3b961e-c002:r003",
+      "kind": "supports",
+      "condition": "当对方提出无法证明的论断时",
+      "reason": "k00025 和 k00033 都描述利用无法证明的论断进行反击，内容一致。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:a004",
+      "target": "s-ffb5be3b961e-c001:a011",
+      "kind": "prerequisite",
+      "condition": "在冲突中",
+      "reason": "情绪管理与冷静倾听是抓住对方逻辑漏洞的前提，因此是听力练习中先听出逻辑漏洞的先决条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "前提关系成立。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:a006",
+      "target": "s-ffb5be3b961e-c002:r005",
+      "kind": "contrasts",
+      "condition": "当对方使用冷静激怒策略时",
+      "reason": "拒绝自证陷阱是对冷静激怒策略的反制，两者是攻防关系，形成对照。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "对照关系成立。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:a008",
+      "target": "s-ffb5be3b961e-c002:a008",
+      "kind": "supports",
+      "condition": "在回应指责前",
+      "reason": "k00030 和 k00038 内容几乎相同，都描述寻找逻辑漏洞的方法。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:r001",
+      "target": "s-ffb5be3b961e-c002:a001",
+      "kind": "example_of",
+      "condition": "当对方定义“矫情”时",
+      "reason": "k00031 是 k00023 反向定义的具体示例。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:r002",
+      "target": "s-ffb5be3b961e-c002:a002",
+      "kind": "example_of",
+      "condition": "当对方贴标签时",
+      "reason": "k00032 是 k00024 反向贴标签的具体示例。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:r003",
+      "target": "s-ffb5be3b961e-c002:a003",
+      "kind": "supports",
+      "condition": "当对方提出无法证明的论断时",
+      "reason": "k00033 和 k00025 内容一致。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:r005",
+      "target": "s-ffb5be3b961e-c002:xe008",
+      "kind": "supports",
+      "condition": "当对方使用冷静激怒策略时",
+      "reason": "冷静激怒策略揭示了对方将你置于道德低点的做法，支持识别这个局是打破它的前提。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:r006",
+      "target": "s-ffb5be3b961e-c002:a006",
+      "kind": "supports",
+      "condition": "当对方指责情绪失控时",
+      "reason": "当对方指责情绪失控时，具体方法通过承认标签并警告后果，支持拒绝自证陷阱的原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:r007",
+      "target": "s-ffb5be3b961e-c003:a002",
+      "kind": "example_of",
+      "condition": "全职妈妈案例中",
+      "reason": "k00037 指出丈夫话语中的逻辑漏洞，k00049 进一步分析逻辑漏洞与直接反驳的区别。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:xe002",
+      "target": "s-ffb5be3b961e-c002:a008",
+      "kind": "supports",
+      "condition": "在寻找逻辑漏洞时",
+      "reason": "k00040 提示继续寻找漏洞，是 k00030 方法的应用。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a001",
+      "target": "s-ffb5be3b961e-c002:a008",
+      "kind": "supports",
+      "condition": "在回应批评前",
+      "reason": "k00048 和 k00030 内容一致。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a002",
+      "target": "s-ffb5be3b961e-c003:a004",
+      "kind": "association",
+      "condition": "",
+      "reason": "source解释逻辑漏洞概念并举例丈夫说“不做饭就是工作能力不行”的部分漏洞；target完整列出该丈夫话语中的8条逻辑漏洞。target是source中举例的具体展开，但方向为source到target，不适合标记为example_of，仅能确认二者关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原example_of方向不妥，改为association。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a004",
+      "target": "s-ffb5be3b961e-c003:a005",
+      "kind": "step_of",
+      "condition": "针对“全职是工作”漏洞",
+      "reason": "source列出丈夫话语中的第5条漏洞“如果全职是工作，应有工资、休假、五险一金等”；target针对该漏洞给出回应，先识别该漏洞再组织回应，属于步骤关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原step_of成立。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a006",
+      "target": "s-ffb5be3b961e-c003:r002",
+      "kind": "supports",
+      "condition": "当丈夫比较他人老婆时",
+      "reason": "source详细描述当丈夫说“人家老婆全职在家也不要钱”时的回应步骤；target概括该回应方法，两者内容一致，source为target提供具体支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "内容一致，supports成立。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a008",
+      "target": "s-ffb5be3b961e-c003:r003",
+      "kind": "supports",
+      "condition": "当丈夫说“你出去干”时",
+      "reason": "source详细描述应对丈夫提出交换角色的回应，并补充条件和限制；target概括该方法，两者内容一致，source支持target。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "成立。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a009",
+      "target": "s-ffb5be3b961e-c003:a009",
+      "kind": "supports",
+      "condition": "关于高收入丈夫的行为特征",
+      "reason": "k00056 和 k00063 内容一致。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a010",
+      "target": "s-ffb5be3b961e-c003:a010",
+      "kind": "supports",
+      "condition": "关于吵架对夫妻关系的影响",
+      "reason": "k00057 和 k00064 内容一致。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a011",
+      "target": "s-ffb5be3b961e-c003:a011",
+      "kind": "supports",
+      "condition": "当丈夫说“你吃的喝的都是我挣的钱”时",
+      "reason": "k00058 和 k00065 内容一致。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a012",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "supports",
+      "condition": "新加坡学员案例",
+      "reason": "k00059 和 k00066 描述同一案例。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a002",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "example_of",
+      "condition": "丈夫认为现在乱做作业以后一直乱做",
+      "reason": "k00067 指出丈夫话语中的逻辑漏洞，是 k00066 案例中的漏洞之一。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a003",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "example_of",
+      "condition": "丈夫认为不陪作业就是懒",
+      "reason": "k00068 指出逻辑漏洞。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a004",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "example_of",
+      "condition": "丈夫认为作业不好就是没人陪",
+      "reason": "k00069 指出逻辑漏洞。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a005",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "example_of",
+      "condition": "丈夫认为上了课孩子就应该做好作业",
+      "reason": "k00070 指出逻辑漏洞。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a006",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "source指出丈夫认为陪作业只是妈妈的事是一类逻辑漏洞；target案例中丈夫批评妻子不陪作业，但未明确表述“只是妈妈的事”，因此无法确认该案例是source漏洞的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "uncertain",
+      "review_notes": "target未体现source中的条件，关系不确定。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a007",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "example_of",
+      "condition": "丈夫认为孩子小就应该陪写作业",
+      "reason": "k00072 指出逻辑漏洞。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a008",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "example_of",
+      "condition": "丈夫认为作业没做好就是没学到东西",
+      "reason": "k00073 指出逻辑漏洞。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a009",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "example_of",
+      "condition": "丈夫认为课程没效果就是烂课烂老师",
+      "reason": "k00074 指出逻辑漏洞。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a010",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "example_of",
+      "condition": "丈夫用自己的定义评价学习效果",
+      "reason": "k00075 指出丈夫的评价标准问题。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a011",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "supports",
+      "condition": "当丈夫质疑学习效果时",
+      "reason": "k00076 指出丈夫不是专家，k00088 建议质疑对方资格。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a012",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫质疑学习效果时",
+      "reason": "k00077 是回应的一种方式。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a013",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当对方质疑学习效果时",
+      "reason": "k00078 反问标准。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a014",
+      "target": "s-ffb5be3b961e-c004:a010",
+      "kind": "supports",
+      "condition": "丈夫定义的学得好",
+      "reason": "k00079 具体说明丈夫的定义。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a015",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "source提到丈夫认为不陪作业是神经病；target案例中丈夫批评妻子学课程无用、不陪就是懒，但未提及“神经病”，因此不能确认target包含source内容。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "uncertain",
+      "review_notes": "source内容未在target中出现，关系不确定。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a016",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫质疑陪作业效果时",
+      "reason": "k00081 反问效果。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a017",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫批评时",
+      "reason": "k00082 反问动机。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a018",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "supports",
+      "condition": "关于学习效果的时间",
+      "reason": "k00083 说明学习效果不是立即的，反驳丈夫的期望。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a019",
+      "target": "s-ffb5be3b961e-c004:a002",
+      "kind": "supports",
+      "condition": "关于现在作业乱与将来成绩",
+      "reason": "k00084 支持 k00067 的逻辑漏洞。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a020",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫以成绩为标准时",
+      "reason": "k00085 反问标准。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a021",
+      "target": "s-ffb5be3b961e-c004:a022",
+      "kind": "supports",
+      "condition": "当被丈夫质疑时",
+      "reason": "k00086 描述解释无效，k00087 解释原因。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a023",
+      "target": "s-ffb5be3b961e-c004:a034",
+      "kind": "example_of",
+      "condition": "当对方指责时",
+      "reason": "k00099 是质疑资格的具体反问。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a024",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "example_of",
+      "condition": "丈夫认为老师批评说明孩子变差",
+      "reason": "k00089 是丈夫的证据。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a025",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫关注老师评价时",
+      "reason": "k00090 反问关注点。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a026",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "example_of",
+      "condition": "丈夫表示在乎成绩和作业",
+      "reason": "k00091 是丈夫的回应。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a027",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫提出证据时",
+      "reason": "k00092 反问证据时间。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a028",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫质疑时",
+      "reason": "k00093 提议责任转移。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a030",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫质疑教育方法时",
+      "reason": "k00095 反问证据。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a031",
+      "target": "s-ffb5be3b961e-c004:a030",
+      "kind": "supports",
+      "condition": "当对方已经证明教育不好时",
+      "reason": "k00096 说明不需要妻子证明。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a033",
+      "target": "s-ffb5be3b961e-c005:a004",
+      "kind": "association",
+      "condition": "",
+      "reason": "source描述讲师让学员扮演丈夫和妻子用丈夫以前的话来质问的练习；target描述通过讲一件事找逻辑漏洞的练习方法，两者都是练习但具体形式不同，source不是target中的步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of不成立，改为association。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a035",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当对方说被骗钱时",
+      "reason": "k00100 反问质疑。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a036",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当对方说结果不好时",
+      "reason": "k00101 反问定义。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a037",
+      "target": "s-ffb5be3b961e-c004:a024",
+      "kind": "contrasts",
+      "condition": "关于老师批评的意义",
+      "reason": "k00102 认为老师批评不代表孩子差，与 k00089 丈夫的观点相反。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a038",
+      "target": "s-ffb5be3b961e-c001:r007",
+      "kind": "example_of",
+      "condition": "当丈夫批评妻子时",
+      "reason": "k00103 是用对方逻辑反击的示例。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a039",
+      "target": "s-ffb5be3b961e-c004:a010",
+      "kind": "contrasts",
+      "condition": "关于学习标准的定义权",
+      "reason": "k00104 认为标准由老师定义，与 k00075 丈夫自己定义相反。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a040",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫定义没学好时",
+      "reason": "k00105 反问定义权。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a041",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "example_of",
+      "condition": "丈夫认为作业没做好等于被骗或没学好",
+      "reason": "k00106 指出逻辑跳跃。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a042",
+      "target": "s-ffb5be3b961e-c004:a010",
+      "kind": "supports",
+      "condition": "丈夫认为学好应体现在孩子各方面",
+      "reason": "k00107 是丈夫期望的具体化。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a043",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫定义模糊时",
+      "reason": "k00108 反问定义。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a044",
+      "target": "s-ffb5be3b961e-c004:a010",
+      "kind": "supports",
+      "condition": "丈夫定义好包括多方面",
+      "reason": "k00109 具体列出丈夫的标准。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a045",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫不听专家定义时",
+      "reason": "k00110 反问。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a046",
+      "target": "s-ffb5be3b961e-c004:a044",
+      "kind": "supports",
+      "condition": "老师定义好是全校第一",
+      "reason": "k00111 是丈夫引用的老师定义。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a047",
+      "target": "s-ffb5be3b961e-c004:a046",
+      "kind": "contrasts",
+      "condition": "丈夫不听老师定义",
+      "reason": "k00112 与 k00111 矛盾。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a048",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫没有学习时",
+      "reason": "k00113 要求对方学习才有发言权。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a049",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫提出观点时",
+      "reason": "k00114 要求科学依据。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a050",
+      "target": "s-ffb5be3b961e-c004:a048",
+      "kind": "supports",
+      "condition": "关于学习资格",
+      "reason": "k00115 支持 k00113 的观点。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a051",
+      "target": "s-ffb5be3b961e-c004:a050",
+      "kind": "supports",
+      "condition": "丈夫不承认不懂",
+      "reason": "k00116 是 k00115 的反面例子。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a052",
+      "target": "s-ffb5be3b961e-c004:a028",
+      "kind": "example_of",
+      "condition": "当丈夫质疑时",
+      "reason": "k00117 提议交换角色。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a053",
+      "target": "s-ffb5be3b961e-c004:a044",
+      "kind": "supports",
+      "condition": "丈夫标准极端",
+      "reason": "source列出丈夫的极端学习标准（一个月全年级第一、一年保送清华），target描述丈夫对孩子“好”的定义包含学习好、语数外全校第一等，source作为更极端的标准支持target中丈夫定义好包含学习成绩的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "成立。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a054",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫提出标准时",
+      "reason": "k00119 反问承诺。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a055",
+      "target": "s-ffb5be3b961e-c004:a010",
+      "kind": "supports",
+      "condition": "丈夫自己定义好",
+      "reason": "k00120 是丈夫控制定义的表现。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a056",
+      "target": "s-ffb5be3b961e-c004:a055",
+      "kind": "contrasts",
+      "condition": "课程讲者定义好",
+      "reason": "k00121 与丈夫定义不同。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a057",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "supports",
+      "condition": "当对方设局时",
+      "reason": "k00122 建议不进入对方的局，与 k00088 质疑资格一致。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a058",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当对方以老板姿态时",
+      "reason": "k00123 反问姿态。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a059",
+      "target": "s-ffb5be3b961e-c004:a057",
+      "kind": "supports",
+      "condition": "在对话中",
+      "reason": "k00124 立自己的主场是 k00122 不进入对方局的具体化。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a061",
+      "target": "s-ffb5be3b961e-c004:a060",
+      "kind": "association",
+      "condition": "",
+      "reason": "source提出用指出对方抽烟也花家庭财产来反击指责；target描述课程费用争议中妻子主张是共同财产自己有权支出，丈夫认为花了钱没效果。source与丈夫观点不直接矛盾，与target整体不构成对比，故标记为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原contrasts不成立，改为association。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a063",
+      "target": "s-ffb5be3b961e-c004:a062",
+      "kind": "contrasts",
+      "condition": "关于课程效果",
+      "reason": "k00128 妻子看到效果，与 k00127 丈夫认为没效果相反。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a064",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫要求解释时",
+      "reason": "k00129 拒绝解释。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a065",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫要求汇报时",
+      "reason": "k00130 反问资格。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a066",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫态度颐指气使时",
+      "reason": "k00131 反问态度。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a067",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫只关注作业时",
+      "reason": "k00132 反问其他效果。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a069",
+      "target": "s-ffb5be3b961e-c004:a068",
+      "kind": "supports",
+      "condition": "当丈夫只看到成绩时",
+      "reason": "k00134 反问确认盲点。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a070",
+      "target": "s-ffb5be3b961e-c004:a059",
+      "kind": "supports",
+      "condition": "通过反问",
+      "reason": "k00135 转到自己的主场是 k00124 立主场的实现。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a071",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫认为孩子没改变时",
+      "reason": "k00136 要求对方说出改变。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a073",
+      "target": "s-ffb5be3b961e-c004:a072",
+      "kind": "supports",
+      "condition": "当丈夫认为孩子越来越坏时",
+      "reason": "k00138 确认对方观点。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a075",
+      "target": "s-ffb5be3b961e-c004:a074",
+      "kind": "supports",
+      "condition": "当丈夫只看到作业乱时",
+      "reason": "k00140 批评对方不关心孩子。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a078",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫无法看到改变时",
+      "reason": "k00143 设定讨论条件。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a080",
+      "target": "s-ffb5be3b961e-c004:a079",
+      "kind": "contrasts",
+      "condition": "当妻子认为作业乱OK时",
+      "reason": "k00145 丈夫反问，与 k00144 妻子观点相对。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a082",
+      "target": "s-ffb5be3b961e-c004:a079",
+      "kind": "supports",
+      "condition": "当妻子认为作业乱OK时",
+      "reason": "k00147 解释原因。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a083",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "example_of",
+      "condition": "当丈夫不学习时",
+      "reason": "k00148 用“你不知道”回应。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a084",
+      "target": "s-ffb5be3b961e-c004:a083",
+      "kind": "supports",
+      "condition": "关于学习减轻焦虑",
+      "reason": "k00149 解释学习的好处，支持 k00148 的回应。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a086",
+      "target": "s-ffb5be3b961e-c004:a085",
+      "kind": "supports",
+      "condition": "当丈夫要求妻子负责时",
+      "reason": "k00151 反问具体问题。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a087",
+      "target": "s-ffb5be3b961e-c004:a085",
+      "kind": "contrasts",
+      "condition": "关于老师批评的性质",
+      "reason": "k00152 认为老师行为问题不是孩子行为问题，与丈夫观点相对。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a089",
+      "target": "s-ffb5be3b961e-c004:a088",
+      "kind": "supports",
+      "condition": "当丈夫认为老师点名说明知识没学好时",
+      "reason": "k00154 反问质疑逻辑。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a091",
+      "target": "s-ffb5be3b961e-c004:a090",
+      "kind": "contrasts",
+      "condition": "当丈夫认为孩子态度不行时",
+      "reason": "k00156 认为态度不好是正常的，与 k00155 丈夫观点相对。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a092",
+      "target": "s-ffb5be3b961e-c004:a090",
+      "kind": "contrasts",
+      "condition": "当丈夫认为作业乱有问题时",
+      "reason": "k00157 妻子不认为有问题。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a093",
+      "target": "s-ffb5be3b961e-c004:a077",
+      "kind": "contrasts",
+      "condition": "关于老师批评伤自尊",
+      "reason": "k00158 妻子认为孩子没伤自尊，与丈夫观点相对。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a094",
+      "target": "s-ffb5be3b961e-c004:a077",
+      "kind": "supports",
+      "condition": "关于老师期望",
+      "reason": "k00159 说明老师期望不现实，支持妻子观点。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c005:a001",
+      "target": "s-ffb5be3b961e-c005:a002",
+      "kind": "prerequisite",
+      "condition": "当争吵陷入绕圈时",
+      "reason": "k00160 区分讨论与发泄，k00161 建议在高峰期结束争吵，需要先识别是否陷入发泄。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c005:a003",
+      "target": "s-ffb5be3b961e-c005:a002",
+      "kind": "supports",
+      "condition": "在争吵中",
+      "reason": "k00162 建议先找逻辑漏洞再回应，k00161 建议在高峰期输出后离开，两者都是争吵策略。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c005:a004",
+      "target": "s-ffb5be3b961e-c005:a003",
+      "kind": "association",
+      "condition": "",
+      "reason": "source提供练习寻找逻辑漏洞的具体方法；target描述在争吵中先找出逻辑漏洞再回应的原则，source是练习该原则的活动，不是target方法中的一个步骤，故用关联表示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of不成立，改为association。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c005:r002",
+      "target": "s-ffb5be3b961e-c005:a002",
+      "kind": "supports",
+      "condition": "当争吵陷入绕圈且对方指责时",
+      "reason": "k00166 是 k00161 的条件具体化。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c005:r003",
+      "target": "s-ffb5be3b961e-c005:a002",
+      "kind": "supports",
+      "condition": "在高峰期输出后离开",
+      "reason": "k00167 解释 k00161 的机制。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c005:r004",
+      "target": "s-ffb5be3b961e-c005:a004",
+      "kind": "supports",
+      "condition": "练习寻找逻辑漏洞",
+      "reason": "source提供练习寻找逻辑漏洞的详细步骤，target描述练习寻找逻辑漏洞的方法，source作为target的具体步骤支持该方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "成立。"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:v2-n0001",
+      "target": "s-ffb5be3b961e-c001:a005",
+      "kind": "example_of",
+      "condition": "当被他人质疑或批评时应用自我怀疑转变策略",
+      "reason": "source 描述了面对体罚归咎时不陷入自我怀疑而质疑对方，正是 a005 所述'将自我怀疑转变为怀疑对方'的一个具体应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:a005",
+      "target": "s-ffb5be3b961e-c001:v2-n0001",
+      "kind": "has_example",
+      "condition": "当被他人质疑或批评时应用自我怀疑转变策略",
+      "reason": "source 描述了面对体罚归咎时不陷入自我怀疑而质疑对方，正是 a005 所述'将自我怀疑转变为怀疑对方'的一个具体应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:v2-n0001",
+      "target": "s-ffb5be3b961e-c001:r010",
+      "kind": "example_of",
+      "condition": "在被批评时应用情绪管理原则",
+      "reason": "r010 强调将自我怀疑转变为怀疑对方的质疑，source 在暴力归咎场景下实践了这一转变，故为实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:r010",
+      "target": "s-ffb5be3b961e-c001:v2-n0001",
+      "kind": "has_example",
+      "condition": "在被批评时应用情绪管理原则",
+      "reason": "r010 强调将自我怀疑转变为怀疑对方的质疑，source 在暴力归咎场景下实践了这一转变，故为实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:v2-n0001",
+      "target": "s-ffb5be3b961e-c001:r001",
+      "kind": "example_of",
+      "condition": "当对方提出指责并需要质疑其动机时",
+      "reason": "source 中反问'你凭什么打我'并质疑对方动机，正是 r001 所述质疑对方动机的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:r001",
+      "target": "s-ffb5be3b961e-c001:v2-n0001",
+      "kind": "has_example",
+      "condition": "当对方提出指责并需要质疑其动机时",
+      "reason": "source 中反问'你凭什么打我'并质疑对方动机，正是 r001 所述质疑对方动机的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:v2-n0001",
+      "target": "s-ffb5be3b961e-c001:a003",
+      "kind": "example_of",
+      "condition": "当立场不确定但仍需质疑对方时",
+      "reason": "source 在对方归咎时不接受自我攻击而是质疑对方，体现了 a003 所述即使自我怀疑也要质疑对方立场的原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:a003",
+      "target": "s-ffb5be3b961e-c001:v2-n0001",
+      "kind": "has_example",
+      "condition": "当立场不确定但仍需质疑对方时",
+      "reason": "source 在对方归咎时不接受自我攻击而是质疑对方，体现了 a003 所述即使自我怀疑也要质疑对方立场的原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:v2-n0001",
+      "target": "s-ffb5be3b961e-c004:a034",
+      "kind": "example_of",
+      "condition": "当对方提出无端指责时, 反问资格",
+      "reason": "source 中'你凭什么打我'与 a034 的'你凭什么来指责我'结构一致，都是质疑对方资格，故 source 是 a034 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a034",
+      "target": "s-ffb5be3b961e-c001:v2-n0001",
+      "kind": "has_example",
+      "condition": "当对方提出无端指责时, 反问资格",
+      "reason": "source 中'你凭什么打我'与 a034 的'你凭什么来指责我'结构一致，都是质疑对方资格，故 source 是 a034 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:v2-n0001",
+      "target": "s-ffb5be3b961e-c001:a006",
+      "kind": "association",
+      "condition": "当面对邻里冲突等类似情境时",
+      "reason": "source 的策略在 a006 邻居孩子骂人案例中得到体现（讲师从自我怀疑转为质疑对方），但 source 是通用策略，a006 是具体案例，关系为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:a006",
+      "target": "s-ffb5be3b961e-c001:v2-n0001",
+      "kind": "association",
+      "condition": "当面对邻里冲突等类似情境时",
+      "reason": "source 的策略在 a006 邻居孩子骂人案例中得到体现（讲师从自我怀疑转为质疑对方），但 source 是通用策略，a006 是具体案例，关系为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:v2-n0001",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "association",
+      "condition": "当面对权威姿态的质疑时",
+      "reason": "source 质疑对方打人资格，a023 质疑对方育儿专家资格，均为质疑资格类策略，但具体场景不同，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a023",
+      "target": "s-ffb5be3b961e-c001:v2-n0001",
+      "kind": "association",
+      "condition": "当面对权威姿态的质疑时",
+      "reason": "source 质疑对方打人资格，a023 质疑对方育儿专家资格，均为质疑资格类策略，但具体场景不同，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:v2-n0001",
+      "target": "s-ffb5be3b961e-c004:a035",
+      "kind": "association",
+      "condition": "当面对对方无根据的判断时",
+      "reason": "source 的反问与 a035 的反问类似，但针对不同指控（暴力 vs 被骗钱），关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a035",
+      "target": "s-ffb5be3b961e-c001:v2-n0001",
+      "kind": "association",
+      "condition": "当面对对方无根据的判断时",
+      "reason": "source 的反问与 a035 的反问类似，但针对不同指控（暴力 vs 被骗钱），关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:v2-n0001",
+      "target": "s-ffb5be3b961e-c004:a040",
+      "kind": "association",
+      "condition": "当对方试图定义你的状态时",
+      "reason": "source 质疑对方凭什么打人，a040 质疑对方凭什么定义'没学好'，都涉及质疑定义权，但内容不同，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a040",
+      "target": "s-ffb5be3b961e-c001:v2-n0001",
+      "kind": "association",
+      "condition": "当对方试图定义你的状态时",
+      "reason": "source 质疑对方凭什么打人，a040 质疑对方凭什么定义'没学好'，都涉及质疑定义权，但内容不同，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:v2-n0001",
+      "target": "s-ffb5be3b961e-c004:a066",
+      "kind": "association",
+      "condition": "当对方态度恶劣时",
+      "reason": "source 与 a066 都包含反问语气，但针对不同场景，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a066",
+      "target": "s-ffb5be3b961e-c001:v2-n0001",
+      "kind": "association",
+      "condition": "当对方态度恶劣时",
+      "reason": "source 与 a066 都包含反问语气，但针对不同场景，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:v2-n0001",
+      "target": "s-ffb5be3b961e-c001:r009",
+      "kind": "association",
+      "condition": "当对方提出无法证明的指控时",
+      "reason": "source 质疑动机而非证明，但都涉及削弱对方立场，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:r009",
+      "target": "s-ffb5be3b961e-c001:v2-n0001",
+      "kind": "association",
+      "condition": "当对方提出无法证明的指控时",
+      "reason": "source 质疑动机而非证明，但都涉及削弱对方立场，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:v2-n0001",
+      "target": "s-ffb5be3b961e-c001:r006",
+      "kind": "association",
+      "condition": "当对方定义不当时",
+      "reason": "source 是质疑动机，r006 是质疑定义，策略不同但同属质疑类别，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:r006",
+      "target": "s-ffb5be3b961e-c001:v2-n0001",
+      "kind": "association",
+      "condition": "当对方定义不当时",
+      "reason": "source 是质疑动机，r006 是质疑定义，策略不同但同属质疑类别，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n001",
+      "target": "s-ffb5be3b961e-c003:a003",
+      "kind": "association",
+      "condition": "当需要更详细的丈夫话语表述时",
+      "reason": "source 与 a003 描述同一案例，a003 补充了丈夫的完整话语，但 source 提供了场景背景，两者可相互补充但无更强关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a003",
+      "target": "s-ffb5be3b961e-c003:v2-n001",
+      "kind": "association",
+      "condition": "当需要更详细的丈夫话语表述时",
+      "reason": "source 与 a003 描述同一案例，a003 补充了丈夫的完整话语，但 source 提供了场景背景，两者可相互补充但无更强关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n001",
+      "target": "s-ffb5be3b961e-c003:a002",
+      "kind": "example_of",
+      "condition": "当展示逻辑漏洞与直接反驳的区别时",
+      "reason": "source 案例中丈夫说'不做饭就是工作能力不行'，正是 a002 用于说明逻辑漏洞的具体例子，故 source 是 a002 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a002",
+      "target": "s-ffb5be3b961e-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "当展示逻辑漏洞与直接反驳的区别时",
+      "reason": "source 案例中丈夫说'不做饭就是工作能力不行'，正是 a002 用于说明逻辑漏洞的具体例子，故 source 是 a002 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n001",
+      "target": "s-ffb5be3b961e-c002:a007",
+      "kind": "association",
+      "condition": "当对案例进行逻辑漏洞分析时",
+      "reason": "source 提供了原始案例，a007 是对该案例的分析，指出了逻辑漏洞，两者关联但 a007 增加了分析内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:a007",
+      "target": "s-ffb5be3b961e-c003:v2-n001",
+      "kind": "association",
+      "condition": "当对案例进行逻辑漏洞分析时",
+      "reason": "source 提供了原始案例，a007 是对该案例的分析，指出了逻辑漏洞，两者关联但 a007 增加了分析内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n001",
+      "target": "s-ffb5be3b961e-c002:r007",
+      "kind": "association",
+      "condition": "当总结案例中的逻辑漏洞时",
+      "reason": "r007 直接从 source 案例中提取出逻辑漏洞概念，关联紧密但 r007 是分析结果，非直接前提或实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:r007",
+      "target": "s-ffb5be3b961e-c003:v2-n001",
+      "kind": "association",
+      "condition": "当总结案例中的逻辑漏洞时",
+      "reason": "r007 直接从 source 案例中提取出逻辑漏洞概念，关联紧密但 r007 是分析结果，非直接前提或实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n001",
+      "target": "s-ffb5be3b961e-c003:r001",
+      "kind": "association",
+      "condition": "当讨论丈夫评价权时",
+      "reason": "r001 分析 source 案例中丈夫无权评价的逻辑，是为该案例的扩展分析，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:r001",
+      "target": "s-ffb5be3b961e-c003:v2-n001",
+      "kind": "association",
+      "condition": "当讨论丈夫评价权时",
+      "reason": "r001 分析 source 案例中丈夫无权评价的逻辑，是为该案例的扩展分析，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n001",
+      "target": "s-ffb5be3b961e-c003:a004",
+      "kind": "association",
+      "condition": "当列出丈夫话语中的多个逻辑漏洞时",
+      "reason": "a004 基于 source 案例详细列出多个逻辑漏洞，source 是基础案例，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a004",
+      "target": "s-ffb5be3b961e-c003:v2-n001",
+      "kind": "association",
+      "condition": "当列出丈夫话语中的多个逻辑漏洞时",
+      "reason": "a004 基于 source 案例详细列出多个逻辑漏洞，source 是基础案例，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n001",
+      "target": "s-ffb5be3b961e-c003:a005",
+      "kind": "association",
+      "condition": "当针对'全职是工作'漏洞进行回应时",
+      "reason": "a005 提供了针对 source 案例的回应策略，source 是回应的对象，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a005",
+      "target": "s-ffb5be3b961e-c003:v2-n001",
+      "kind": "association",
+      "condition": "当针对'全职是工作'漏洞进行回应时",
+      "reason": "a005 提供了针对 source 案例的回应策略，source 是回应的对象，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n001",
+      "target": "s-ffb5be3b961e-c003:v2-n002",
+      "kind": "association",
+      "condition": "当比较两个不同家庭案例中的丈夫批评时",
+      "reason": "source 与 v2-n002 都是丈夫批评妻子的案例，但事件不同（做饭 vs 作业），不能混同，关联并注明差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n002",
+      "target": "s-ffb5be3b961e-c003:v2-n001",
+      "kind": "association",
+      "condition": "当比较两个不同家庭案例中的丈夫批评时",
+      "reason": "source 与 v2-n002 都是丈夫批评妻子的案例，但事件不同（做饭 vs 作业），不能混同，关联并注明差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n002",
+      "target": "s-ffb5be3b961e-c004:a003",
+      "kind": "example_of",
+      "condition": "当展示'不陪作业不等于懒'的逻辑漏洞时",
+      "reason": "source 案例中丈夫指责妻子'你就是懒'，正是 a003 所指出的不陪作业不等于懒的逻辑漏洞的实例，故 source 是 a003 的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a003",
+      "target": "s-ffb5be3b961e-c003:v2-n002",
+      "kind": "has_example",
+      "condition": "当展示'不陪作业不等于懒'的逻辑漏洞时",
+      "reason": "source 案例中丈夫指责妻子'你就是懒'，正是 a003 所指出的不陪作业不等于懒的逻辑漏洞的实例，故 source 是 a003 的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n002",
+      "target": "s-ffb5be3b961e-c003:a012",
+      "kind": "association",
+      "condition": "当需要更完整的丈夫话语引用时",
+      "reason": "source 与 a012 描述同一案例，a012 补充了丈夫完整话语，两者为同一案例的不同表述，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a012",
+      "target": "s-ffb5be3b961e-c003:v2-n002",
+      "kind": "association",
+      "condition": "当需要更完整的丈夫话语引用时",
+      "reason": "source 与 a012 描述同一案例，a012 补充了丈夫完整话语，两者为同一案例的不同表述，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n002",
+      "target": "s-ffb5be3b961e-c004:a001",
+      "kind": "association",
+      "condition": "当参考另一简略版本案例时",
+      "reason": "source 与 a001 描述同一案例，内容相似，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a001",
+      "target": "s-ffb5be3b961e-c003:v2-n002",
+      "kind": "association",
+      "condition": "当参考另一简略版本案例时",
+      "reason": "source 与 a001 描述同一案例，内容相似，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n002",
+      "target": "s-ffb5be3b961e-c004:a014",
+      "kind": "association",
+      "condition": "当讨论丈夫对'学得好'的定义时",
+      "reason": "source 中丈夫认为应该陪作业，a014 具体说明丈夫定义学得好是作业整齐并检查，与 source 相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a014",
+      "target": "s-ffb5be3b961e-c003:v2-n002",
+      "kind": "association",
+      "condition": "当讨论丈夫对'学得好'的定义时",
+      "reason": "source 中丈夫认为应该陪作业，a014 具体说明丈夫定义学得好是作业整齐并检查，与 source 相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n002",
+      "target": "s-ffb5be3b961e-c004:a015",
+      "kind": "association",
+      "condition": "当讨论丈夫对不陪作业的极端看法时",
+      "reason": "source 中丈夫认为不陪是懒，a015 补充丈夫认为不陪是神经病，观点一致但更极端，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a015",
+      "target": "s-ffb5be3b961e-c003:v2-n002",
+      "kind": "association",
+      "condition": "当讨论丈夫对不陪作业的极端看法时",
+      "reason": "source 中丈夫认为不陪是懒，a015 补充丈夫认为不陪是神经病，观点一致但更极端，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n002",
+      "target": "s-ffb5be3b961e-c004:a079",
+      "kind": "association",
+      "condition": "当对比丈夫与妻子对作业乱的不同态度时",
+      "reason": "source 中丈夫认为作业乱有问题，a079 提到妻子认为没关系，两者立场不同但同源于该案例，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a079",
+      "target": "s-ffb5be3b961e-c003:v2-n002",
+      "kind": "association",
+      "condition": "当对比丈夫与妻子对作业乱的不同态度时",
+      "reason": "source 中丈夫认为作业乱有问题，a079 提到妻子认为没关系，两者立场不同但同源于该案例，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n002",
+      "target": "s-ffb5be3b961e-c004:a077",
+      "kind": "association",
+      "condition": "当讨论丈夫如何看待老师批评时",
+      "reason": "source 提及老师批评，a077 是丈夫认为作业被批评是改变，属于该案例中的观点，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a077",
+      "target": "s-ffb5be3b961e-c003:v2-n002",
+      "kind": "association",
+      "condition": "当讨论丈夫如何看待老师批评时",
+      "reason": "source 提及老师批评，a077 是丈夫认为作业被批评是改变，属于该案例中的观点，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n002",
+      "target": "s-ffb5be3b961e-c004:a093",
+      "kind": "association",
+      "condition": "当讨论老师批评对自尊的影响时",
+      "reason": "source 提及老师公开批评，a093 涉及丈夫认为伤自尊，是该案例的延伸讨论，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a093",
+      "target": "s-ffb5be3b961e-c003:v2-n002",
+      "kind": "association",
+      "condition": "当讨论老师批评对自尊的影响时",
+      "reason": "source 提及老师公开批评，a093 涉及丈夫认为伤自尊，是该案例的延伸讨论，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n002",
+      "target": "s-ffb5be3b961e-c004:a037",
+      "kind": "association",
+      "condition": "当讨论老师批评与孩子表现的关系时",
+      "reason": "source 提及老师批评，a037 认为老师批评不等于孩子差，是针对该情境的观点，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a037",
+      "target": "s-ffb5be3b961e-c003:v2-n002",
+      "kind": "association",
+      "condition": "当讨论老师批评与孩子表现的关系时",
+      "reason": "source 提及老师批评，a037 认为老师批评不等于孩子差，是针对该情境的观点，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n002",
+      "target": "s-ffb5be3b961e-c004:a024",
+      "kind": "association",
+      "condition": "当讨论丈夫对老师批评的解读时",
+      "reason": "source 提及老师批评，a024 是丈夫认为自己看得懂批评，属于案例中丈夫观点，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a024",
+      "target": "s-ffb5be3b961e-c003:v2-n002",
+      "kind": "association",
+      "condition": "当讨论丈夫对老师批评的解读时",
+      "reason": "source 提及老师批评，a024 是丈夫认为自己看得懂批评，属于案例中丈夫观点，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n002",
+      "target": "s-ffb5be3b961e-c005:a005",
+      "kind": "association",
+      "condition": "当模拟夫妻因老师批评孩子争吵时",
+      "reason": "source 与 a005 都涉及因老师批评孩子引发夫妻矛盾，但后者是模拟争吵，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c005:a005",
+      "target": "s-ffb5be3b961e-c003:v2-n002",
+      "kind": "association",
+      "condition": "当模拟夫妻因老师批评孩子争吵时",
+      "reason": "source 与 a005 都涉及因老师批评孩子引发夫妻矛盾，但后者是模拟争吵，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n002",
+      "target": "s-ffb5be3b961e-c003:v2-n001",
+      "kind": "association",
+      "condition": "当比较两个不同家庭案例中的丈夫批评时",
+      "reason": "source 与 v2-n001 都是丈夫批评妻子的案例，但事件不同（作业 vs 做饭），不能混同，关联并注明差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:v2-n001",
+      "target": "s-ffb5be3b961e-c003:v2-n002",
+      "kind": "association",
+      "condition": "当比较两个不同家庭案例中的丈夫批评时",
+      "reason": "source 与 v2-n001 都是丈夫批评妻子的案例，但事件不同（作业 vs 做饭），不能混同，关联并注明差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n001",
+      "target": "s-ffb5be3b961e-c004:a023",
+      "kind": "conflict",
+      "condition": "当对方以高位姿态要求解释且解释易被扭曲时",
+      "reason": "源知识主张先承认表面事实或回答他的问题，再反问；候选明确说不要回答他的问题，而是质疑资格，两者在应对质问时策略相反。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a023",
+      "target": "s-ffb5be3b961e-c004:v2-n001",
+      "kind": "conflict",
+      "condition": "当对方以高位姿态要求解释且解释易被扭曲时",
+      "reason": "源知识主张先承认表面事实或回答他的问题，再反问；候选明确说不要回答他的问题，而是质疑资格，两者在应对质问时策略相反。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n001",
+      "target": "s-ffb5be3b961e-c004:a086",
+      "kind": "complements",
+      "condition": "当对方质疑行为时",
+      "reason": "候选补充了具体反问句式'行为出现什么问题了，你能不能告诉我？'，是源知识中反问步骤的具体化，功能同样是把解释责任抛回。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a086",
+      "target": "s-ffb5be3b961e-c004:v2-n001",
+      "kind": "complements",
+      "condition": "当对方质疑行为时",
+      "reason": "候选补充了具体反问句式'行为出现什么问题了，你能不能告诉我？'，是源知识中反问步骤的具体化，功能同样是把解释责任抛回。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n001",
+      "target": "s-ffb5be3b961e-c004:a057",
+      "kind": "conflict",
+      "condition": "当对方设局或高位质问时",
+      "reason": "源知识主张先回答再反问，候选主张不进入对方的局、不回答问题，在类似条件下策略冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a057",
+      "target": "s-ffb5be3b961e-c004:v2-n001",
+      "kind": "conflict",
+      "condition": "当对方设局或高位质问时",
+      "reason": "源知识主张先回答再反问，候选主张不进入对方的局、不回答问题，在类似条件下策略冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n001",
+      "target": "s-ffb5be3b961e-c004:a080",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选是丈夫反问'为什么作业乱是OK的'的具体句式，与源知识反问步骤相似，但缺少先承认步骤，且角色不同，不能确定为补充或例子，只能关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a080",
+      "target": "s-ffb5be3b961e-c004:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选是丈夫反问'为什么作业乱是OK的'的具体句式，与源知识反问步骤相似，但缺少先承认步骤，且角色不同，不能确定为补充或例子，只能关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n001",
+      "target": "s-ffb5be3b961e-c002:xe004",
+      "kind": "complements",
+      "condition": "当对方指责你矫情时",
+      "reason": "候选补充了在具体情境'被指责矫情'下的反问方式，将定义权抛回，与源知识反问步骤目的一致，但源知识未涉及此具体情境。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:xe004",
+      "target": "s-ffb5be3b961e-c004:v2-n001",
+      "kind": "complements",
+      "condition": "当对方指责你矫情时",
+      "reason": "候选补充了在具体情境'被指责矫情'下的反问方式，将定义权抛回，与源知识反问步骤目的一致，但源知识未涉及此具体情境。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n001",
+      "target": "s-ffb5be3b961e-c004:a070",
+      "kind": "association",
+      "condition": "应用源知识反问后",
+      "reason": "候选描述通过反问转到自己的主场，是源知识策略的预期效果，但未构成直接步骤或前提，只能关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a070",
+      "target": "s-ffb5be3b961e-c004:v2-n001",
+      "kind": "association",
+      "condition": "应用源知识反问后",
+      "reason": "候选描述通过反问转到自己的主场，是源知识策略的预期效果，但未构成直接步骤或前提，只能关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n001",
+      "target": "s-ffb5be3b961e-c004:a013",
+      "kind": "complements",
+      "condition": "当对方质疑学习效果时",
+      "reason": "候选补充了具体反问'你觉得什么叫学得好？'，与源知识反问步骤相似，是具体化补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a013",
+      "target": "s-ffb5be3b961e-c004:v2-n001",
+      "kind": "complements",
+      "condition": "当对方质疑学习效果时",
+      "reason": "候选补充了具体反问'你觉得什么叫学得好？'，与源知识反问步骤相似，是具体化补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n001",
+      "target": "s-ffb5be3b961e-c004:a071",
+      "kind": "complements",
+      "condition": "当对方质疑孩子改变时",
+      "reason": "候选补充了具体反问'你告诉我孩子这三个月你发现他有什么改变呢？'，要求对方提供信息，符合源知识反问步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a071",
+      "target": "s-ffb5be3b961e-c004:v2-n001",
+      "kind": "complements",
+      "condition": "当对方质疑孩子改变时",
+      "reason": "候选补充了具体反问'你告诉我孩子这三个月你发现他有什么改变呢？'，要求对方提供信息，符合源知识反问步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n001",
+      "target": "s-ffb5be3b961e-c004:a081",
+      "kind": "complements",
+      "condition": "当解释易被扭曲时",
+      "reason": "候选'不解释原因'正好对应源知识步骤'不展开解释自己的理由'，是源知识步骤的具体体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a081",
+      "target": "s-ffb5be3b961e-c004:v2-n001",
+      "kind": "complements",
+      "condition": "当解释易被扭曲时",
+      "reason": "候选'不解释原因'正好对应源知识步骤'不展开解释自己的理由'，是源知识步骤的具体体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n001",
+      "target": "s-ffb5be3b961e-c004:a034",
+      "kind": "association",
+      "condition": "当对方指责时",
+      "reason": "候选反问'你凭什么来指责我？'质疑资格，与源知识反问'你来告诉我为什么'不同，但都属反问，关系不明确，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a034",
+      "target": "s-ffb5be3b961e-c004:v2-n001",
+      "kind": "association",
+      "condition": "当对方指责时",
+      "reason": "候选反问'你凭什么来指责我？'质疑资格，与源知识反问'你来告诉我为什么'不同，但都属反问，关系不明确，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n001",
+      "target": "s-ffb5be3b961e-c004:a035",
+      "kind": "association",
+      "condition": "当对方说你被骗时",
+      "reason": "候选反问'你凭什么说我被骗钱？'是具体反问，但与源知识内容无直接补充或冲突，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a035",
+      "target": "s-ffb5be3b961e-c004:v2-n001",
+      "kind": "association",
+      "condition": "当对方说你被骗时",
+      "reason": "候选反问'你凭什么说我被骗钱？'是具体反问，但与源知识内容无直接补充或冲突，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n001",
+      "target": "s-ffb5be3b961e-c004:a054",
+      "kind": "association",
+      "condition": "当要求对方承诺时",
+      "reason": "候选反问'你敢不敢承诺？'是反问的一种，但与源知识反问要求解释不同，关系不明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a054",
+      "target": "s-ffb5be3b961e-c004:v2-n001",
+      "kind": "association",
+      "condition": "当要求对方承诺时",
+      "reason": "候选反问'你敢不敢承诺？'是反问的一种，但与源知识反问要求解释不同，关系不明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n002",
+      "target": "s-ffb5be3b961e-c005:r001",
+      "kind": "complements",
+      "condition": "在夫妻冲突中，当老师评价被用作指责工具时",
+      "reason": "候选补充了'不应过度在意老师情绪，而应更关注配偶情绪'的层面，并重复了源知识'老师不了解孩子'的论据，补了情绪焦点转移的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c005:r001",
+      "target": "s-ffb5be3b961e-c004:v2-n002",
+      "kind": "complements",
+      "condition": "在夫妻冲突中，当老师评价被用作指责工具时",
+      "reason": "候选补充了'不应过度在意老师情绪，而应更关注配偶情绪'的层面，并重复了源知识'老师不了解孩子'的论据，补了情绪焦点转移的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n002",
+      "target": "s-ffb5be3b961e-c005:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选是具体案例，描述了夫妻因老师批评孩子而争吵的场景，包含源知识中的关键论据，但属案例叙述，非直接补充或冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c005:a005",
+      "target": "s-ffb5be3b961e-c004:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选是具体案例，描述了夫妻因老师批评孩子而争吵的场景，包含源知识中的关键论据，但属案例叙述，非直接补充或冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n002",
+      "target": "s-ffb5be3b961e-c004:a037",
+      "kind": "complements",
+      "condition": "当老师批评孩子时",
+      "reason": "候选补充了'老师批评不等于孩子差，可能只是标准不同'的理由，增强了源知识不必过度看重老师评价的论证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a037",
+      "target": "s-ffb5be3b961e-c004:v2-n002",
+      "kind": "complements",
+      "condition": "当老师批评孩子时",
+      "reason": "候选补充了'老师批评不等于孩子差，可能只是标准不同'的理由，增强了源知识不必过度看重老师评价的论证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n002",
+      "target": "s-ffb5be3b961e-c004:a025",
+      "kind": "complements",
+      "condition": "当发现对方过度在意老师评价时",
+      "reason": "候选补充了另一种反问句式'你在乎的是老师的评价，对吧？'，与源知识反问'那不看重老师的问题，看中谁的问题呢？'目的相似。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a025",
+      "target": "s-ffb5be3b961e-c004:v2-n002",
+      "kind": "complements",
+      "condition": "当发现对方过度在意老师评价时",
+      "reason": "候选补充了另一种反问句式'你在乎的是老师的评价，对吧？'，与源知识反问'那不看重老师的问题，看中谁的问题呢？'目的相似。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n002",
+      "target": "s-ffb5be3b961e-c004:a087",
+      "kind": "association",
+      "condition": "当老师批评行为发生时",
+      "reason": "候选提供'老师行为问题不是孩子行为问题'的观点，弱化老师批评，但源知识侧重老师不了解孩子，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a087",
+      "target": "s-ffb5be3b961e-c004:v2-n002",
+      "kind": "association",
+      "condition": "当老师批评行为发生时",
+      "reason": "候选提供'老师行为问题不是孩子行为问题'的观点，弱化老师批评，但源知识侧重老师不了解孩子，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n002",
+      "target": "s-ffb5be3b961e-c004:a067",
+      "kind": "association",
+      "condition": "当对方只关注作业时",
+      "reason": "候选反问'除了作业你看到什么效果？'引导关注其他方面，与源知识弱化单一评价视角相关，但不直接针对老师不了解孩子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:a067",
+      "target": "s-ffb5be3b961e-c004:v2-n002",
+      "kind": "association",
+      "condition": "当对方只关注作业时",
+      "reason": "候选反问'除了作业你看到什么效果？'引导关注其他方面，与源知识弱化单一评价视角相关，但不直接针对老师不了解孩子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n003",
+      "target": "s-ffb5be3b961e-c001:a011",
+      "kind": "complements",
+      "condition": "在争论中需要冷静倾听时",
+      "reason": "候选补充了'情绪激动时左脑运作减弱'等原因说明为何要先倾听，并细化了'专注倾听—分析漏洞—再回应'的步骤，是对源知识步骤的实质补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:a011",
+      "target": "s-ffb5be3b961e-c004:v2-n003",
+      "kind": "complements",
+      "condition": "在争论中需要冷静倾听时",
+      "reason": "候选补充了'情绪激动时左脑运作减弱'等原因说明为何要先倾听，并细化了'专注倾听—分析漏洞—再回应'的步骤，是对源知识步骤的实质补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n003",
+      "target": "s-ffb5be3b961e-c003:a001",
+      "kind": "complements",
+      "condition": "回应批评前",
+      "reason": "候选详细列出了'听取批评—分析漏洞—组织回应'的步骤，与源知识步骤一致，并补充了'不直接反驳或陷入对方的假定'的注意事项。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a001",
+      "target": "s-ffb5be3b961e-c004:v2-n003",
+      "kind": "complements",
+      "condition": "回应批评前",
+      "reason": "候选详细列出了'听取批评—分析漏洞—组织回应'的步骤，与源知识步骤一致，并补充了'不直接反驳或陷入对方的假定'的注意事项。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n003",
+      "target": "s-ffb5be3b961e-c002:a008",
+      "kind": "complements",
+      "condition": "识别逻辑漏洞时",
+      "reason": "候选补充了具体的漏洞类型（偷换概念、以偏概全、错误归因等）和设计回应的方法（反向定义、要求证明、指出矛盾），是对源知识'找出逻辑漏洞'的扩展。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:a008",
+      "target": "s-ffb5be3b961e-c004:v2-n003",
+      "kind": "complements",
+      "condition": "识别逻辑漏洞时",
+      "reason": "候选补充了具体的漏洞类型（偷换概念、以偏概全、错误归因等）和设计回应的方法（反向定义、要求证明、指出矛盾），是对源知识'找出逻辑漏洞'的扩展。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n003",
+      "target": "s-ffb5be3b961e-c001:a007",
+      "kind": "complements",
+      "condition": "在对方逻辑不清时",
+      "reason": "候选将源知识概括为'逻辑清晰'，并补充了'听出漏洞—不急于回应—针对漏洞反击'的步骤，与源知识高度一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c001:a007",
+      "target": "s-ffb5be3b961e-c004:v2-n003",
+      "kind": "complements",
+      "condition": "在对方逻辑不清时",
+      "reason": "候选将源知识概括为'逻辑清晰'，并补充了'听出漏洞—不急于回应—针对漏洞反击'的步骤，与源知识高度一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n003",
+      "target": "s-ffb5be3b961e-c002:xe002",
+      "kind": "association",
+      "condition": "讲师引导学员时",
+      "reason": "候选仅提示学员注意寻找逻辑漏洞，未提供具体方法或步骤，与源知识主题相关但内容单薄，只能关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:xe002",
+      "target": "s-ffb5be3b961e-c004:v2-n003",
+      "kind": "association",
+      "condition": "讲师引导学员时",
+      "reason": "候选仅提示学员注意寻找逻辑漏洞，未提供具体方法或步骤，与源知识主题相关但内容单薄，只能关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n003",
+      "target": "s-ffb5be3b961e-c005:a003",
+      "kind": "complements",
+      "condition": "在争吵或辩论中",
+      "reason": "候选补充了'一层一层找，从小层面到大层面'的层次化寻找漏洞方法，以及'没有听出漏洞前先不讲话'的克制策略，是源知识的有益补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c005:a003",
+      "target": "s-ffb5be3b961e-c004:v2-n003",
+      "kind": "complements",
+      "condition": "在争吵或辩论中",
+      "reason": "候选补充了'一层一层找，从小层面到大层面'的层次化寻找漏洞方法，以及'没有听出漏洞前先不讲话'的克制策略，是源知识的有益补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n003",
+      "target": "s-ffb5be3b961e-c002:r007",
+      "kind": "association",
+      "condition": "涉及全职妈妈案例时",
+      "reason": "候选是具体案例中的逻辑漏洞分析，展示了源知识在实例中的应用，但属案例而非方法性补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:r007",
+      "target": "s-ffb5be3b961e-c004:v2-n003",
+      "kind": "association",
+      "condition": "涉及全职妈妈案例时",
+      "reason": "候选是具体案例中的逻辑漏洞分析，展示了源知识在实例中的应用，但属案例而非方法性补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n003",
+      "target": "s-ffb5be3b961e-c002:a003",
+      "kind": "association",
+      "condition": "当对方提出无法证明的论断时",
+      "reason": "候选是利用漏洞反击的具体策略，与源知识'找出漏洞后回应'相关，但更侧重回应技巧，非源知识核心的听力步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:a003",
+      "target": "s-ffb5be3b961e-c004:v2-n003",
+      "kind": "association",
+      "condition": "当对方提出无法证明的论断时",
+      "reason": "候选是利用漏洞反击的具体策略，与源知识'找出漏洞后回应'相关，但更侧重回应技巧，非源知识核心的听力步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n003",
+      "target": "s-ffb5be3b961e-c002:a004",
+      "kind": "association",
+      "condition": "在情绪激动时",
+      "reason": "候选指出情绪管理是抓住漏洞的前提，与源知识'先倾听'有关，但方向上是源知识的前提条件，且未直接包含在源步骤中，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:a004",
+      "target": "s-ffb5be3b961e-c004:v2-n003",
+      "kind": "association",
+      "condition": "在情绪激动时",
+      "reason": "候选指出情绪管理是抓住漏洞的前提，与源知识'先倾听'有关，但方向上是源知识的前提条件，且未直接包含在源步骤中，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n003",
+      "target": "s-ffb5be3b961e-c005:a004",
+      "kind": "association",
+      "condition": "进行练习时",
+      "reason": "候选提供练习寻找逻辑漏洞的方法，是源知识技能的强化训练，但不属于源知识本身的操作步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c005:a004",
+      "target": "s-ffb5be3b961e-c004:v2-n003",
+      "kind": "association",
+      "condition": "进行练习时",
+      "reason": "候选提供练习寻找逻辑漏洞的方法，是源知识技能的强化训练，但不属于源知识本身的操作步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n003",
+      "target": "s-ffb5be3b961e-c003:a002",
+      "kind": "complements",
+      "condition": "区分逻辑漏洞与直接反驳时",
+      "reason": "候选补充了逻辑漏洞的定义和与直接反驳的区别，并举例说明，有助于理解源知识'找漏洞不急于解释'的原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c003:a002",
+      "target": "s-ffb5be3b961e-c004:v2-n003",
+      "kind": "complements",
+      "condition": "区分逻辑漏洞与直接反驳时",
+      "reason": "候选补充了逻辑漏洞的定义和与直接反驳的区别，并举例说明，有助于理解源知识'找漏洞不急于解释'的原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c004:v2-n003",
+      "target": "s-ffb5be3b961e-c002:a007",
+      "kind": "association",
+      "condition": "涉及全职妈妈案例时",
+      "reason": "候选是完整案例叙述，展示了源知识在实际争论中的应用场景，但作为案例，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ffb5be3b961e-c002:a007",
+      "target": "s-ffb5be3b961e-c004:v2-n003",
+      "kind": "association",
+      "condition": "涉及全职妈妈案例时",
+      "reason": "候选是完整案例叙述，展示了源知识在实际争论中的应用场景，但作为案例，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "在冲突中需要管理情绪以保持冷静，从而更好地找出逻辑漏洞并反击",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a005",
+        "s-ffb5be3b961e-c001:r010",
+        "s-ffb5be3b961e-c002:a004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "scope": "cross_module",
+      "source_limits": []
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a005",
+        "s-ffb5be3b961e-c001:r010"
+      ],
+      "reason": "两者内容几乎相同，都描述情绪管理中从自我怀疑转向质疑对方。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a004"
+      ],
+      "reason": "两者内容完全相同，都强调情绪管理是冷静倾听的前提。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a006",
+        "s-ffb5be3b961e-c002:r006"
+      ],
+      "reason": "两者内容相同，都描述拒绝自证陷阱的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a008"
+      ],
+      "reason": "两者内容几乎相同，都描述寻找逻辑漏洞的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a006",
+        "s-ffb5be3b961e-c003:r002"
+      ],
+      "reason": "两者内容相同，都描述应对丈夫比较他人老婆的回应方法。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a008",
+        "s-ffb5be3b961e-c003:r003"
+      ],
+      "reason": "两者内容相同，都描述应对丈夫说“你出去干”的回应方法。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a009"
+      ],
+      "reason": "两者内容相同，都描述高收入丈夫的行为特征。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a010"
+      ],
+      "reason": "两者内容相同，都描述吵架对夫妻关系的影响。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a011"
+      ],
+      "reason": "两者内容相同，都描述应对丈夫说“你吃的喝的都是我挣的钱”的回应方法。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a012",
+        "s-ffb5be3b961e-c004:a001"
+      ],
+      "reason": "两者描述同一案例，内容基本一致。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c005:a003",
+        "s-ffb5be3b961e-c005:r004"
+      ],
+      "reason": "两者内容几乎相同，都描述寻找逻辑漏洞再回应的步骤。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a037",
+        "s-ffb5be3b961e-c004:a024"
+      ],
+      "description": "k00102 认为老师批评不代表孩子差，而 k00089 中丈夫认为老师批评说明孩子变差。两者观点矛盾，需要明确在什么情况下老师批评反映孩子问题。",
+      "needed_evidence": "需要证据表明老师批评与孩子实际表现之间的关系，以及不同老师标准的差异。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a039",
+        "s-ffb5be3b961e-c004:a010"
+      ],
+      "description": "k00104 认为孩子学习标准由老师定义，而 k00075 中丈夫用自己的定义评价学习效果。两者关于定义权的归属矛盾。",
+      "needed_evidence": "需要明确在家庭教育中，谁有权定义学习效果和标准。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a046",
+        "s-ffb5be3b961e-c004:a047"
+      ],
+      "description": "k00111 中丈夫引用老师定义，但 k00112 中丈夫表示不听老师定义，前后矛盾。",
+      "needed_evidence": "需要澄清丈夫的真实立场，以及他是否承认老师定义的权威。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a056",
+        "s-ffb5be3b961e-c004:a055"
+      ],
+      "description": "k00121 课程讲者定义孩子好是身体健康、心理健康，而 k00120 中丈夫提出由自己定义好，两者标准冲突。",
+      "needed_evidence": "需要明确在课程中应采用哪种标准，以及丈夫是否有权设定标准。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a079",
+        "s-ffb5be3b961e-c004:a080"
+      ],
+      "description": "k00144 妻子认为不陪作业导致作业乱没关系，而 k00145 丈夫反问为什么作业乱是OK的，两者观点对立。",
+      "needed_evidence": "需要证据表明不陪作业对孩子的长期影响，以及作业乱是否可接受。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a090",
+        "s-ffb5be3b961e-c004:a091"
+      ],
+      "description": "k00155 丈夫认为孩子作业乱七八糟是态度不行，而 k00156 认为面对烦事态度不好是正常的。两者对态度问题的归因不同。",
+      "needed_evidence": "需要区分孩子态度问题的原因，是作业本身烦人还是其他因素。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a092",
+        "s-ffb5be3b961e-c004:a090"
+      ],
+      "description": "k00157 妻子不认为作业乱有问题，而 k00155 丈夫认为态度不行，两者对作业乱的评价矛盾。",
+      "needed_evidence": "需要明确作业乱是否反映态度问题，以及是否应干预。"
+    },
+    {
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a093",
+        "s-ffb5be3b961e-c004:a077"
+      ],
+      "description": "k00158 妻子认为老师批评没有伤孩子自尊，而 k00142 丈夫认为老师批评是很大的改变，两者对事件影响看法不同。",
+      "needed_evidence": "需要了解孩子对老师批评的实际感受，以及自尊是否受损。"
+    }
+  ],
+  "path": [
+    {
+      "name": "应对批评和质疑的流程",
+      "steps": [
+        {
+          "action": "管理情绪，保持冷静",
+          "atom_ids": [
+            "s-ffb5be3b961e-c001:a005",
+            "s-ffb5be3b961e-c001:r010",
+            "s-ffb5be3b961e-c002:a004"
+          ],
+          "condition": "当受到批评或质疑时"
+        },
+        {
+          "action": "倾听对方话语，找出逻辑漏洞",
+          "atom_ids": [
+            "s-ffb5be3b961e-c001:a011",
+            "s-ffb5be3b961e-c002:a008",
+            "s-ffb5be3b961e-c003:a001",
+            "s-ffb5be3b961e-c005:a003"
+          ],
+          "condition": "在情绪稳定后"
+        },
+        {
+          "action": "针对逻辑漏洞进行反击",
+          "atom_ids": [
+            "s-ffb5be3b961e-c001:a007",
+            "s-ffb5be3b961e-c001:a009",
+            "s-ffb5be3b961e-c001:r001",
+            "s-ffb5be3b961e-c001:r002",
+            "s-ffb5be3b961e-c001:r003",
+            "s-ffb5be3b961e-c001:r004",
+            "s-ffb5be3b961e-c001:r006",
+            "s-ffb5be3b961e-c001:r007",
+            "s-ffb5be3b961e-c001:r008",
+            "s-ffb5be3b961e-c001:r009",
+            "s-ffb5be3b961e-c002:a001",
+            "s-ffb5be3b961e-c002:a002",
+            "s-ffb5be3b961e-c002:a003",
+            "s-ffb5be3b961e-c002:r001",
+            "s-ffb5be3b961e-c002:r002",
+            "s-ffb5be3b961e-c002:r003",
+            "s-ffb5be3b961e-c003:a005",
+            "s-ffb5be3b961e-c003:a006",
+            "s-ffb5be3b961e-c003:a007",
+            "s-ffb5be3b961e-c003:a008",
+            "s-ffb5be3b961e-c003:a011",
+            "s-ffb5be3b961e-c003:r002",
+            "s-ffb5be3b961e-c003:r003",
+            "s-ffb5be3b961e-c004:a012",
+            "s-ffb5be3b961e-c004:a013",
+            "s-ffb5be3b961e-c004:a016",
+            "s-ffb5be3b961e-c004:a017",
+            "s-ffb5be3b961e-c004:a020",
+            "s-ffb5be3b961e-c004:a023",
+            "s-ffb5be3b961e-c004:a025",
+            "s-ffb5be3b961e-c004:a027",
+            "s-ffb5be3b961e-c004:a028",
+            "s-ffb5be3b961e-c004:a030",
+            "s-ffb5be3b961e-c004:a034",
+            "s-ffb5be3b961e-c004:a035",
+            "s-ffb5be3b961e-c004:a036",
+            "s-ffb5be3b961e-c004:a038",
+            "s-ffb5be3b961e-c004:a040",
+            "s-ffb5be3b961e-c004:a043",
+            "s-ffb5be3b961e-c004:a045",
+            "s-ffb5be3b961e-c004:a048",
+            "s-ffb5be3b961e-c004:a049",
+            "s-ffb5be3b961e-c004:a052",
+            "s-ffb5be3b961e-c004:a054",
+            "s-ffb5be3b961e-c004:a058",
+            "s-ffb5be3b961e-c004:a061",
+            "s-ffb5be3b961e-c004:a064",
+            "s-ffb5be3b961e-c004:a065",
+            "s-ffb5be3b961e-c004:a066",
+            "s-ffb5be3b961e-c004:a067",
+            "s-ffb5be3b961e-c004:a069",
+            "s-ffb5be3b961e-c004:a071",
+            "s-ffb5be3b961e-c004:a073",
+            "s-ffb5be3b961e-c004:a075",
+            "s-ffb5be3b961e-c004:a078",
+            "s-ffb5be3b961e-c004:a083",
+            "s-ffb5be3b961e-c004:a086",
+            "s-ffb5be3b961e-c004:a089"
+          ],
+          "condition": "找到逻辑漏洞后"
+        },
+        {
+          "action": "如果争吵陷入绕圈，在高峰期输出后离开",
+          "atom_ids": [
+            "s-ffb5be3b961e-c005:a001",
+            "s-ffb5be3b961e-c005:a002",
+            "s-ffb5be3b961e-c005:r002",
+            "s-ffb5be3b961e-c005:r003"
+          ],
+          "condition": "当争吵陷入同一件事反复绕圈、没有定论，且对方在指责自己时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "0b331338bec8154cb1e1ae7ff1bda47ff742eea67e6b2f6e7bb4024b9add64bf",
+  "point_units": [
+    {
+      "id": "s-ffb5be3b961e-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a001"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a002"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a003",
+        "s-ffb5be3b961e-c001:r009"
+      ],
+      "blocks": [
+        "b00024",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a004",
+        "s-ffb5be3b961e-c001:r011"
+      ],
+      "blocks": [
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a005",
+        "s-ffb5be3b961e-c001:r010"
+      ],
+      "blocks": [
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a006",
+        "s-ffb5be3b961e-c001:r001",
+        "s-ffb5be3b961e-c001:r002",
+        "s-ffb5be3b961e-c001:r003",
+        "s-ffb5be3b961e-c001:r004",
+        "s-ffb5be3b961e-c001:r005"
+      ],
+      "blocks": [
+        "b00032",
+        "b00034",
+        "b00036",
+        "b00038",
+        "b00040",
+        "b00042",
+        "b00046",
+        "b00048",
+        "b00050",
+        "b00052",
+        "b00054",
+        "b00056",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0007",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a007",
+        "s-ffb5be3b961e-c001:a011"
+      ],
+      "blocks": [
+        "b00044",
+        "b00058",
+        "b00062",
+        "b00068",
+        "b00070",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0008",
+      "kind": "case",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a008",
+        "s-ffb5be3b961e-c001:a010",
+        "s-ffb5be3b961e-c001:r006",
+        "s-ffb5be3b961e-c001:r007",
+        "s-ffb5be3b961e-c001:r008",
+        "s-ffb5be3b961e-c001:r009"
+      ],
+      "blocks": [
+        "b00060",
+        "b00062",
+        "b00064",
+        "b00066",
+        "b00068",
+        "b00070",
+        "b00072",
+        "b00074",
+        "b00076",
+        "b00078",
+        "b00080",
+        "b00082",
+        "b00084",
+        "b00086",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a009",
+        "s-ffb5be3b961e-c001:r007",
+        "s-ffb5be3b961e-c001:r008",
+        "s-ffb5be3b961e-c001:r009"
+      ],
+      "blocks": [
+        "b00070",
+        "b00072",
+        "b00074",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0010",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a010"
+      ],
+      "blocks": [
+        "b00062",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0011",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a011"
+      ],
+      "blocks": [
+        "b00046",
+        "b00062",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r001"
+      ],
+      "blocks": [
+        "b00036",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0013",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r002"
+      ],
+      "blocks": [
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r003"
+      ],
+      "blocks": [
+        "b00048",
+        "b00050",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0015",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r004"
+      ],
+      "blocks": [
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0016",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r005"
+      ],
+      "blocks": [
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0017",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r006"
+      ],
+      "blocks": [
+        "b00086",
+        "b00080",
+        "b00082",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0018",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r007"
+      ],
+      "blocks": [
+        "b00074",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0019",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r008"
+      ],
+      "blocks": [
+        "b00070",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0020",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:r009"
+      ],
+      "blocks": [
+        "b00026",
+        "b00070",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c001:u0021",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:a005",
+        "s-ffb5be3b961e-c001:v2-n0001"
+      ],
+      "blocks": [
+        "b00038",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a001",
+        "s-ffb5be3b961e-c002:r001"
+      ],
+      "blocks": [
+        "b00086",
+        "b00088",
+        "b00090",
+        "b00092",
+        "b00094",
+        "b00096"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c002:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a002",
+        "s-ffb5be3b961e-c002:r002"
+      ],
+      "blocks": [
+        "b00100",
+        "b00102"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c002:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a003",
+        "s-ffb5be3b961e-c002:r003"
+      ],
+      "blocks": [
+        "b00106",
+        "b00108",
+        "b00110",
+        "b00112",
+        "b00114"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c002:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:xe001"
+      ],
+      "blocks": [
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c002:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:xe003"
+      ],
+      "blocks": [
+        "b00116"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c002:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:xe004"
+      ],
+      "blocks": [
+        "b00118"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c002:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:xe005"
+      ],
+      "blocks": [
+        "b00120"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c002:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:xe006",
+        "s-ffb5be3b961e-c002:xe007"
+      ],
+      "blocks": [
+        "b00122",
+        "b00124"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c002:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a004",
+        "s-ffb5be3b961e-c002:r005"
+      ],
+      "blocks": [
+        "b00126"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c002:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:xe002"
+      ],
+      "blocks": [
+        "b00104"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c002:u011a",
+      "kind": "case",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a005",
+        "s-ffb5be3b961e-c002:r005",
+        "s-ffb5be3b961e-c002:xe008"
+      ],
+      "blocks": [
+        "b00128",
+        "b00130",
+        "b00132",
+        "b00134",
+        "b00136",
+        "b00138",
+        "b00140",
+        "b00142"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c002:u011b",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a006",
+        "s-ffb5be3b961e-c002:r006"
+      ],
+      "blocks": [
+        "b00144",
+        "b00146",
+        "b00148",
+        "b00150",
+        "b00152",
+        "b00154"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c002:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:xe009"
+      ],
+      "blocks": [
+        "b00156"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c002:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-ffb5be3b961e-c002:a007",
+        "s-ffb5be3b961e-c002:a008",
+        "s-ffb5be3b961e-c002:r007",
+        "s-ffb5be3b961e-c003:a003"
+      ],
+      "blocks": [
+        "b00158",
+        "b00160"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a001"
+      ],
+      "blocks": [
+        "b00158",
+        "b00160",
+        "b00162",
+        "b00164",
+        "b00166",
+        "b00174",
+        "b00196",
+        "b00198"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c003:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a004"
+      ],
+      "blocks": [
+        "b00162",
+        "b00164"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c003:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a004",
+        "s-ffb5be3b961e-c003:r001"
+      ],
+      "blocks": [
+        "b00166",
+        "b00168",
+        "b00170",
+        "b00172",
+        "b00174",
+        "b00176",
+        "b00178",
+        "b00180",
+        "b00182"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c003:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a005"
+      ],
+      "blocks": [
+        "b00178",
+        "b00180",
+        "b00182"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c003:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a006",
+        "s-ffb5be3b961e-c003:r002"
+      ],
+      "blocks": [
+        "b00184",
+        "b00186",
+        "b00188",
+        "b00190",
+        "b00192",
+        "b00194"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c003:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a007"
+      ],
+      "blocks": [
+        "b00196",
+        "b00198",
+        "b00200"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c003:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a008",
+        "s-ffb5be3b961e-c003:r003"
+      ],
+      "blocks": [
+        "b00202",
+        "b00204",
+        "b00206",
+        "b00208",
+        "b00210",
+        "b00212"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c003:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a008",
+        "s-ffb5be3b961e-c003:r003"
+      ],
+      "blocks": [
+        "b00206",
+        "b00208",
+        "b00210",
+        "b00212"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c003:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a009"
+      ],
+      "blocks": [
+        "b00212",
+        "b00214",
+        "b00216"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c003:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a010"
+      ],
+      "blocks": [
+        "b00218",
+        "b00220",
+        "b00222",
+        "b00224",
+        "b00226",
+        "b00228"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c003:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a010"
+      ],
+      "blocks": [
+        "b00226",
+        "b00228"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c003:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a011"
+      ],
+      "blocks": [
+        "b00230",
+        "b00232"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c003:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00158"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c003:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00236"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0001",
+      "kind": "case",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:a012"
+      ],
+      "blocks": [
+        "b00236"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0002",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a002"
+      ],
+      "blocks": [
+        "b00238"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a003"
+      ],
+      "blocks": [
+        "b00238"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0004",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a004"
+      ],
+      "blocks": [
+        "b00238"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0005",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a005"
+      ],
+      "blocks": [
+        "b00240"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0006",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a006"
+      ],
+      "blocks": [
+        "b00240"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a007"
+      ],
+      "blocks": [
+        "b00242"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0008",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a008"
+      ],
+      "blocks": [
+        "b00242"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0009",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a009"
+      ],
+      "blocks": [
+        "b00242"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0010",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a010"
+      ],
+      "blocks": [
+        "b00244",
+        "b00246"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0011",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a011"
+      ],
+      "blocks": [
+        "b00248"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0012",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a012"
+      ],
+      "blocks": [
+        "b00248"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0013",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a013"
+      ],
+      "blocks": [
+        "b00250"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0014",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a014"
+      ],
+      "blocks": [
+        "b00250"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0015",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a015"
+      ],
+      "blocks": [
+        "b00252"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0016",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a016"
+      ],
+      "blocks": [
+        "b00254"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0017",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a017"
+      ],
+      "blocks": [
+        "b00254"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0018",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a018"
+      ],
+      "blocks": [
+        "b00256"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0019",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a019"
+      ],
+      "blocks": [
+        "b00256"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0020",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a020"
+      ],
+      "blocks": [
+        "b00256"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0021",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a021"
+      ],
+      "blocks": [
+        "b00258",
+        "b00260",
+        "b00262"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0022",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a022"
+      ],
+      "blocks": [
+        "b00258",
+        "b00260",
+        "b00262"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0023",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a023"
+      ],
+      "blocks": [
+        "b00264"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0024",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a024"
+      ],
+      "blocks": [
+        "b00264"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0025",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a025"
+      ],
+      "blocks": [
+        "b00264",
+        "b00266"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0026",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a026"
+      ],
+      "blocks": [
+        "b00266"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0027",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a027"
+      ],
+      "blocks": [
+        "b00266"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0028",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a028"
+      ],
+      "blocks": [
+        "b00266"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0029",
+      "kind": "case",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a029"
+      ],
+      "blocks": [
+        "b00264",
+        "b00266",
+        "b00268"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0030",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a030"
+      ],
+      "blocks": [
+        "b00268"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0031",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a031"
+      ],
+      "blocks": [
+        "b00268"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0032",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a032"
+      ],
+      "blocks": [
+        "b00270"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0033",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a033"
+      ],
+      "blocks": [
+        "b00272"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0034",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a034"
+      ],
+      "blocks": [
+        "b00274"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0035",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a035"
+      ],
+      "blocks": [
+        "b00274"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0036",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a036"
+      ],
+      "blocks": [
+        "b00274"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0037",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a037"
+      ],
+      "blocks": [
+        "b00276"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0038",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a038"
+      ],
+      "blocks": [
+        "b00276"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0039",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a039"
+      ],
+      "blocks": [
+        "b00278"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0040",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a040"
+      ],
+      "blocks": [
+        "b00278"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0041",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a041"
+      ],
+      "blocks": [
+        "b00278"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0042",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a042"
+      ],
+      "blocks": [
+        "b00280"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0043",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a043"
+      ],
+      "blocks": [
+        "b00280"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0044",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a044"
+      ],
+      "blocks": [
+        "b00280"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0045",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a045"
+      ],
+      "blocks": [
+        "b00280"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0046",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a046"
+      ],
+      "blocks": [
+        "b00282"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0047",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a047"
+      ],
+      "blocks": [
+        "b00282"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0048",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a048"
+      ],
+      "blocks": [
+        "b00282"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0049",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a049"
+      ],
+      "blocks": [
+        "b00284"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0050",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a050"
+      ],
+      "blocks": [
+        "b00284"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0051",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a051"
+      ],
+      "blocks": [
+        "b00284"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0052",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a052"
+      ],
+      "blocks": [
+        "b00286"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0053",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a053"
+      ],
+      "blocks": [
+        "b00286"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0054",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a054"
+      ],
+      "blocks": [
+        "b00286"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0055",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a055"
+      ],
+      "blocks": [
+        "b00286"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0056",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a056"
+      ],
+      "blocks": [
+        "b00288"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0057",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a057"
+      ],
+      "blocks": [
+        "b00288"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0058",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a058"
+      ],
+      "blocks": [
+        "b00290"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0059",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a059"
+      ],
+      "blocks": [
+        "b00290"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0060",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a060"
+      ],
+      "blocks": [
+        "b00290"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0061",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a061"
+      ],
+      "blocks": [
+        "b00290"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0062",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a062"
+      ],
+      "blocks": [
+        "b00292"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0063",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a063"
+      ],
+      "blocks": [
+        "b00292"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0064",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a064"
+      ],
+      "blocks": [
+        "b00292"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0065",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a065"
+      ],
+      "blocks": [
+        "b00292"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0066",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a066"
+      ],
+      "blocks": [
+        "b00292"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0067",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a067"
+      ],
+      "blocks": [
+        "b00294"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0068",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a068"
+      ],
+      "blocks": [
+        "b00294"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0069",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a069"
+      ],
+      "blocks": [
+        "b00294"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0070",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a070"
+      ],
+      "blocks": [
+        "b00296"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0071",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a071"
+      ],
+      "blocks": [
+        "b00296"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0072",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a072"
+      ],
+      "blocks": [
+        "b00296"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0073",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a073"
+      ],
+      "blocks": [
+        "b00298"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0074",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a074"
+      ],
+      "blocks": [
+        "b00298"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0075",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a075"
+      ],
+      "blocks": [
+        "b00300"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0076",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a076"
+      ],
+      "blocks": [
+        "b00300"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0077",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a077"
+      ],
+      "blocks": [
+        "b00300"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0078",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a078"
+      ],
+      "blocks": [
+        "b00302"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0079",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a079"
+      ],
+      "blocks": [
+        "b00304"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0080",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a080"
+      ],
+      "blocks": [
+        "b00304"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0081",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:v2-n001"
+      ],
+      "blocks": [
+        "b00304"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0082",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a081"
+      ],
+      "blocks": [
+        "b00306"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0083",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a082"
+      ],
+      "blocks": [
+        "b00306"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0084",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a083"
+      ],
+      "blocks": [
+        "b00306"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0085",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a084"
+      ],
+      "blocks": [
+        "b00308"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0086",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a085"
+      ],
+      "blocks": [
+        "b00310"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0087",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a086"
+      ],
+      "blocks": [
+        "b00310"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0088",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a087"
+      ],
+      "blocks": [
+        "b00310"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0089",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a088"
+      ],
+      "blocks": [
+        "b00312"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0090",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a089"
+      ],
+      "blocks": [
+        "b00312"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0091",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a090"
+      ],
+      "blocks": [
+        "b00314"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0092",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a091"
+      ],
+      "blocks": [
+        "b00314"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0093",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a092"
+      ],
+      "blocks": [
+        "b00314"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0094",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a093"
+      ],
+      "blocks": [
+        "b00316"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0095",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:a094"
+      ],
+      "blocks": [
+        "b00316"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0096",
+      "kind": "question",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:v2-n002"
+      ],
+      "blocks": [
+        "b00318"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c004:u-0097",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:v2-n003"
+      ],
+      "blocks": [
+        "b00234"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c005:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ffb5be3b961e-c005:a001"
+      ],
+      "blocks": [
+        "b00330"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c005:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c005:a002",
+        "s-ffb5be3b961e-c005:r002",
+        "s-ffb5be3b961e-c005:r003"
+      ],
+      "blocks": [
+        "b00326",
+        "b00328",
+        "b00330"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c005:u003",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c005:a003"
+      ],
+      "blocks": [
+        "b00330",
+        "b00334"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c005:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-ffb5be3b961e-c005:a004",
+        "s-ffb5be3b961e-c005:r004"
+      ],
+      "blocks": [
+        "b00330",
+        "b00332",
+        "b00334"
+      ]
+    },
+    {
+      "id": "s-ffb5be3b961e-c005:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-ffb5be3b961e-c005:a005",
+        "s-ffb5be3b961e-c005:r001"
+      ],
+      "blocks": [
+        "b00318",
+        "b00320",
+        "b00322",
+        "b00324",
+        "b00326",
+        "b00328"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "面对体罚归咎的质疑策略",
+      "atom_ids": [
+        "s-ffb5be3b961e-c001:v2-n0001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-ffb5be3b961e",
+          "blocks": [
+            "b00038",
+            "b00040"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "全职妈妈外出吃饭被批评工作能力不行",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-ffb5be3b961e",
+          "blocks": [
+            "b00158"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "新加坡学员不陪孩子做作业被丈夫批评",
+      "atom_ids": [
+        "s-ffb5be3b961e-c003:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-ffb5be3b961e",
+          "blocks": [
+            "b00236"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "通过回答问题夺回主场",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-ffb5be3b961e",
+          "blocks": [
+            "b00304"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "老师只点几个名且不了解孩子，不必过度看重其评价",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-ffb5be3b961e",
+          "blocks": [
+            "b00318"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "question"
+    },
+    {
+      "title": "快速听出对方话语中的逻辑漏洞",
+      "atom_ids": [
+        "s-ffb5be3b961e-c004:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-ffb5be3b961e",
+          "blocks": [
+            "b00234"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

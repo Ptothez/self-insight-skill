@@ -1,0 +1,325 @@
+{
+  "concepts": [
+    {
+      "name": "允许失败与收拾残局",
+      "definition": "在读书阶段，孩子需要确认自己能否成功，允许孩子失败并让其收拾失败残局，使其认识到失败并不可怕。",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a001"
+      ]
+    },
+    {
+      "name": "允许并鼓励孩子拒绝父母",
+      "definition": "孩子长大后有了更多独立想法，父母应允许并鼓励孩子拒绝自己，以支持其独立性发展。",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a002"
+      ]
+    },
+    {
+      "name": "13-18岁父母角色为导师",
+      "definition": "13到18岁，父母应做孩子的导师，把孩子当作门徒来尊重，劝导但给予很多自由，让孩子选择后果。",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a003"
+      ]
+    },
+    {
+      "name": "允许早期犯错以控制后果",
+      "definition": "让孩子在十三四岁早期犯错有好处，因为此时父母还能控制后果；而到十七八岁后犯错，父母已无能为力。",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a004"
+      ]
+    },
+    {
+      "name": "朋友影响短效，父母影响长效",
+      "definition": "青少年期朋友影响多为短效方面，如发型、发色、穿衣等；而价值观、道德观、责任感、世界观等长效影响绝对由父母产生。",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a005"
+      ]
+    },
+    {
+      "name": "与孩子讨论行为后果以强化前额叶",
+      "definition": "经常与青少年讨论行为后果，可以帮助他们将冲动性思维和事实联系起来，激发并强化前额叶，使其更有效管控行为后果。",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a006"
+      ]
+    },
+    {
+      "name": "提醒孩子注意自身能力以抵御不良影响",
+      "definition": "青少年很难看到自己在恶劣环境中发挥作用的能力，父母提醒孩子有独立和自控能力，可帮助其在困难情境中保持住，并意识到某些行为是毁灭性的。",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a007"
+      ]
+    },
+    {
+      "name": "作为导师要对孩子感兴趣",
+      "definition": "成功的导师一定对引导的人感兴趣，父母要对孩子好奇，了解其喜欢的原因，但不代表要喜欢孩子喜欢的东西。",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a008"
+      ]
+    },
+    {
+      "name": "不要乱给建议，先倾听",
+      "definition": "青少年遇到问题时，父母常急于给建议，但孩子可能只希望被倾听。孩子未问建议时只听，问了才说。",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a009"
+      ]
+    },
+    {
+      "name": "18-25岁父母角色为朋友",
+      "definition": "18到25岁，父母应做孩子的朋友，主动帮助孩子与自己分开，体面地分开，尊重其主权和独立性。",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a010"
+      ]
+    },
+    {
+      "name": "经济支持作为礼物，不附加要求",
+      "definition": "18-25岁孩子可能仍用父母的钱，建议将钱作为礼物给予，但不能附加要求，如要求学特定专业或交特定女友。",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a011"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-6aa3d2c5041a-c001:a003",
+      "target": "s-6aa3d2c5041a-c001:a004",
+      "kind": "supports",
+      "condition": "13-18岁父母为导师，给予自由让孩子选择后果，因此允许早期犯错以控制后果。",
+      "reason": "导师角色劝导但给予很多自由，让孩子选择后果，所以允许早期犯错是导师角色的具体体现。"
+    },
+    {
+      "source": "s-6aa3d2c5041a-c001:a003",
+      "target": "s-6aa3d2c5041a-c001:a008",
+      "kind": "supports",
+      "condition": "当父母承担13-18岁导师角色时",
+      "reason": "“13-18岁父母角色为导师”确立父母应尊重劝导孩子，这一角色要求父母对孩子感兴趣，因此支持“作为导师要对孩子感兴趣”。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 prerequisite 方向不当，改为 supports。"
+    },
+    {
+      "source": "s-6aa3d2c5041a-c001:a003",
+      "target": "s-6aa3d2c5041a-c001:a009",
+      "kind": "supports",
+      "condition": "当父母以导师角色与青少年沟通时",
+      "reason": "“13-18岁父母角色为导师”要求尊重孩子并给予自由，与“不要乱给建议，先倾听”中尊重孩子表达、克制建议相一致，故支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-6aa3d2c5041a-c001:a006",
+      "target": "s-6aa3d2c5041a-c001:a007",
+      "kind": "association",
+      "condition": "当讨论青少年冲动控制与抵御不良影响的方法时",
+      "reason": "“与孩子讨论行为后果以强化前额叶”和“提醒孩子注意自身能力以抵御不良影响”是两种平行的协助策略，彼此不构成支持，仅同属青少年自控议题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系不成立，改为关联。"
+    },
+    {
+      "source": "s-6aa3d2c5041a-c001:a010",
+      "target": "s-6aa3d2c5041a-c001:a011",
+      "kind": "supports",
+      "condition": "当18-25岁父母以朋友角色提供经济支持时",
+      "reason": "“18-25岁父母角色为朋友”要求尊重孩子独立性和主权，“经济支持作为礼物，不附加要求”是这一角色在财务方面的具体体现，故支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-6aa3d2c5041a-c001:a002",
+      "target": "s-6aa3d2c5041a-c001:a010",
+      "kind": "step_of",
+      "condition": "允许并鼓励孩子拒绝父母是支持独立性发展，18-25岁朋友角色也尊重独立性。",
+      "reason": "两者都强调尊重孩子的独立性，允许拒绝是早期步骤，朋友角色是后期延续。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "13-18岁导师角色下，父母应允许孩子拒绝、倾听而非乱给建议；18-25岁朋友角色下，经济支持不附加要求。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a003",
+        "s-6aa3d2c5041a-c001:a002",
+        "s-6aa3d2c5041a-c001:a009",
+        "s-6aa3d2c5041a-c001:a010",
+        "s-6aa3d2c5041a-c001:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "13-18岁导师角色下，与孩子讨论行为后果以强化前额叶。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a003",
+        "s-6aa3d2c5041a-c001:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "内在能力",
+      "when": "13-18岁导师角色下，提醒孩子注意自身能力以抵御不良影响。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a003",
+        "s-6aa3d2c5041a-c001:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "自我修养",
+      "when": "13-18岁导师角色下，作为导师要对孩子感兴趣。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a003",
+        "s-6aa3d2c5041a-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-6aa3d2c5041a-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-6aa3d2c5041a-c001:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-6aa3d2c5041a-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a003"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-6aa3d2c5041a-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a004"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-6aa3d2c5041a-c001:u005",
+      "kind": "relation",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a005"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-6aa3d2c5041a-c001:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a006"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-6aa3d2c5041a-c001:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a007"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-6aa3d2c5041a-c001:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a008"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-6aa3d2c5041a-c001:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a009"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-6aa3d2c5041a-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a010"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-6aa3d2c5041a-c001:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-6aa3d2c5041a-c001:a011"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

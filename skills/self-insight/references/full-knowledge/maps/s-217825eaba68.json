@@ -1,0 +1,521 @@
+{
+  "concepts": [
+    {
+      "name": "说教",
+      "definition": "一种管教方式，包括机会教育和讲道理，容易导致情绪失联、孩子觉得父母不真实，并传递对感受不感兴趣的信息。",
+      "atom_ids": [
+        "s-217825eaba68-c001:a001",
+        "s-217825eaba68-c001:a003",
+        "s-217825eaba68-c001:a004",
+        "s-217825eaba68-c001:a009"
+      ]
+    },
+    {
+      "name": "情绪失联",
+      "definition": "父母与孩子之间情绪连接断裂，孩子不愿敞开心扉，常由说教引起。",
+      "atom_ids": [
+        "s-217825eaba68-c001:a003",
+        "s-217825eaba68-c001:a005"
+      ]
+    },
+    {
+      "name": "情绪连接",
+      "definition": "父母进入孩子的世界，认识他、聆听他，与他一起经历情绪和感知，是有效沟通的前提。",
+      "atom_ids": [
+        "s-217825eaba68-c001:a003",
+        "s-217825eaba68-c001:a006",
+        "s-217825eaba68-c001:a007",
+        "s-217825eaba68-c001:a008"
+      ]
+    },
+    {
+      "name": "罪恶式管教",
+      "definition": "通过让孩子感到罪恶感、罪疚感来管教，例如强调父母的牺牲，导致孩子背负重担、没有界限、自我价值感低。",
+      "atom_ids": [
+        "s-217825eaba68-c001:a013",
+        "s-217825eaba68-c001:a014",
+        "s-217825eaba68-c001:a018",
+        "s-217825eaba68-c001:a019"
+      ]
+    },
+    {
+      "name": "界限",
+      "definition": "父母应明确自己的选择与责任，不让孩子为父母的情绪负责，并帮助孩子建立健康的界限。",
+      "atom_ids": [
+        "s-217825eaba68-c001:a017",
+        "s-217825eaba68-c001:a020"
+      ]
+    },
+    {
+      "name": "重担",
+      "definition": "孩子因家庭期望或罪恶感而背负的心理负担，导致无法享受生活和幸福。",
+      "atom_ids": [
+        "s-217825eaba68-c001:a014",
+        "s-217825eaba68-c001:a015",
+        "s-217825eaba68-c001:a016",
+        "s-217825eaba68-c001:a021"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-217825eaba68-c001:a001",
+      "target": "s-217825eaba68-c001:a003",
+      "kind": "causes",
+      "condition": "当父母进行机会教育或讲道理时",
+      "reason": "说教容易导致父母与孩子情绪失联，因为孩子需要的不是说教，而是父母进入他的世界。"
+    },
+    {
+      "source": "s-217825eaba68-c001:a003",
+      "target": "s-217825eaba68-c001:a005",
+      "kind": "causes",
+      "condition": "长期说教导致情绪失联",
+      "reason": "情绪失联导致孩子不愿敞开心扉，回家就关门。"
+    },
+    {
+      "source": "s-217825eaba68-c001:a003",
+      "target": "s-217825eaba68-c001:a004",
+      "kind": "supports",
+      "condition": "说教时",
+      "reason": "说教传递的信息是父母对孩子的感受不感兴趣，只对问题感兴趣。"
+    },
+    {
+      "source": "s-217825eaba68-c001:a003",
+      "target": "s-217825eaba68-c001:a008",
+      "kind": "contrasts",
+      "condition": "对比说教与情绪连接",
+      "reason": "说教导致情绪失联，而先情绪连接再讲道理更有效。"
+    },
+    {
+      "source": "s-217825eaba68-c001:a009",
+      "target": "s-217825eaba68-c001:a010",
+      "kind": "supports",
+      "condition": "父母说教显得不真实",
+      "reason": "来源指出说教让孩子觉得父母不真实无聊，目标说明不真实的父母无法与提供丰富情绪的电子产品竞争，来源为目标提供解释。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind 为 causes，改为 supports"
+    },
+    {
+      "source": "s-217825eaba68-c001:a011",
+      "target": "s-217825eaba68-c001:a012",
+      "kind": "supports",
+      "condition": "同为减少说教的具体建议",
+      "reason": "父母应多听少讲，开口前自问是否为讲道理的好时机是实现这一原则的具体方法，二者相互支持，但不构成步骤关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 方向不成立，改为 supports"
+    },
+    {
+      "source": "s-217825eaba68-c001:a013",
+      "target": "s-217825eaba68-c001:a014",
+      "kind": "supports",
+      "condition": "罪恶式管教",
+      "reason": "罪恶式管教通过让孩子产生罪疚感，会使孩子背负重担，来源解释了目标中负担的原因。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind 为 causes，改为 supports"
+    },
+    {
+      "source": "s-217825eaba68-c001:a013",
+      "target": "s-217825eaba68-c001:a018",
+      "kind": "supports",
+      "condition": "罪恶式管教",
+      "reason": "罪恶式管教要求孩子为父母情绪负责，导致孩子缺乏界限并讨好他人，来源支持目标结果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind 为 causes，改为 supports"
+    },
+    {
+      "source": "s-217825eaba68-c001:a013",
+      "target": "s-217825eaba68-c001:a019",
+      "kind": "supports",
+      "condition": "罪恶式管教",
+      "reason": "罪恶式管教让孩子感到对不起父母，产生自我否定，支持目标中“觉得自己不好”的后果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind 为 causes，改为 supports"
+    },
+    {
+      "source": "s-217825eaba68-c001:a017",
+      "target": "s-217825eaba68-c001:a020",
+      "kind": "supports",
+      "condition": "父母有界限意识",
+      "reason": "父母记住牺牲是自己的选择、不让孩子负责，需要有界限意识，支持了正确立界线的必要性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-217825eaba68-c001:a014",
+      "target": "s-217825eaba68-c001:a021",
+      "kind": "causes",
+      "condition": "孩子背负重担",
+      "reason": "肩负重担的孩子无法享受优秀和生活，不太可能感知幸福。"
+    },
+    {
+      "source": "s-217825eaba68-c001:a015",
+      "target": "s-217825eaba68-c001:a016",
+      "kind": "association",
+      "condition": "",
+      "reason": "两者均为优秀者背负家庭期望的案例，但具体案例（上市公司二把手）是用来说明概括案例的实例，原方向相反，无法作为概括案例的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向错误，改为 association"
+    },
+    {
+      "source": "s-217825eaba68-c001:a006",
+      "target": "s-217825eaba68-c001:a007",
+      "kind": "association",
+      "condition": "角色与条件不同：案例发生在专业辅导室，目标在父母且限于无情绪问题时",
+      "reason": "案例中的共情发生在专业辅导者与青少年之间，而目标强调父母在无情绪问题时的预防作用，场景和角色不一致，无法直接支持省钱结论。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系不成立，改为关联"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "规则与行动",
+      "to": "理解情绪",
+      "when": "父母进行说教时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-217825eaba68-c001:a001",
+        "s-217825eaba68-c001:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我认知",
+      "when": "说教导致情绪失联，孩子觉得父母不真实",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-217825eaba68-c001:a003",
+        "s-217825eaba68-c001:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我认知",
+      "when": "罪恶式管教让孩子背负重担",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-217825eaba68-c001:a013",
+        "s-217825eaba68-c001:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "依赖与失控",
+      "when": "父母说教不真实，孩子转向电子产品寻求情绪连接",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-217825eaba68-c001:a009",
+        "s-217825eaba68-c001:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [
+    {
+      "name": "打破错误管教迷思",
+      "steps": [
+        {
+          "action": "识别错误说教",
+          "atom_ids": [
+            "s-217825eaba68-c001:a001"
+          ],
+          "condition": "当父母想要机会教育或讲道理时"
+        },
+        {
+          "action": "理解说教的危害",
+          "atom_ids": [
+            "s-217825eaba68-c001:a003",
+            "s-217825eaba68-c001:a004",
+            "s-217825eaba68-c001:a009"
+          ],
+          "condition": "说教导致情绪失联、孩子觉得父母不真实"
+        },
+        {
+          "action": "转向情绪连接",
+          "atom_ids": [
+            "s-217825eaba68-c001:a008",
+            "s-217825eaba68-c001:a011"
+          ],
+          "condition": "先与孩子情绪连接，多听少讲"
+        },
+        {
+          "action": "开口前自问时机",
+          "atom_ids": [
+            "s-217825eaba68-c001:a012"
+          ],
+          "condition": "每次开口前暂停，自问是否是讲道理的好时机"
+        },
+        {
+          "action": "避免罪恶式管教",
+          "atom_ids": [
+            "s-217825eaba68-c001:a013",
+            "s-217825eaba68-c001:a017",
+            "s-217825eaba68-c001:a020"
+          ],
+          "condition": "不让孩子为父母的情绪负责，父母有界限意识"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-217825eaba68-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a001"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-217825eaba68-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a003"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a004"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a005"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-217825eaba68-c001:a006"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a007"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a008"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a009"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u010",
+      "kind": "comparison",
+      "atom_ids": [
+        "s-217825eaba68-c001:a010"
+      ],
+      "blocks": [
+        "b00013",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a011"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a012"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a013"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a014"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-217825eaba68-c001:a015"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-217825eaba68-c001:a016"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a017"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a018"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a019"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a020"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-217825eaba68-c001:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-217825eaba68-c001:a021"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032",
+        "b00033"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

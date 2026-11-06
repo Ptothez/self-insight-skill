@@ -1,0 +1,1746 @@
+{
+  "concepts": [
+    {
+      "name": "家庭环境与上瘾抵抗力",
+      "definition": "健康、温暖的家庭环境能增强孩子对上瘾的抵抗力，即使接触致瘾物也不会上瘾。",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a001",
+        "s-42ca5837b22a-c003:a002"
+      ]
+    },
+    {
+      "name": "上瘾风险因素",
+      "definition": "增加孩子上瘾可能性的个人特质或环境因素，包括喜欢冒险、冲动、父母上瘾、童年创伤、社会边缘化、情绪失联、角色错位等。",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a004",
+        "s-42ca5837b22a-c001:a006",
+        "s-42ca5837b22a-c001:a013",
+        "s-42ca5837b22a-c001:a015",
+        "s-42ca5837b22a-c001:a017",
+        "s-42ca5837b22a-c001:a020",
+        "s-42ca5837b22a-c001:a024"
+      ]
+    },
+    {
+      "name": "延迟满足训练",
+      "definition": "通过让孩子等待或提供替代选择来培养控制冲动和延迟满足的能力，降低上瘾风险。",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a007",
+        "s-42ca5837b22a-c001:a008",
+        "s-42ca5837b22a-c001:a010",
+        "s-42ca5837b22a-c001:a011"
+      ]
+    },
+    {
+      "name": "情绪失联",
+      "definition": "父母在情绪上不接纳孩子，如不允许孩子表达负面情绪、对孩子情绪有错误期待，导致孩子情绪需求未被满足，增加上瘾风险。",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a020",
+        "s-42ca5837b22a-c001:a022",
+        "s-42ca5837b22a-c001:r001"
+      ]
+    },
+    {
+      "name": "角色错位",
+      "definition": "父母将不属于孩子的责任强加给孩子，使孩子承受过大压力，容易逃避到上瘾物质中。",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a024",
+        "s-42ca5837b22a-c002:a012"
+      ]
+    },
+    {
+      "name": "引导冒险",
+      "definition": "不压制孩子的冒险天性，而是引导其将冒险渴望投入到积极有意义的活动中，满足冒险需求并降低上瘾风险。",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a026",
+        "s-42ca5837b22a-c001:a027",
+        "s-42ca5837b22a-c001:r004"
+      ]
+    },
+    {
+      "name": "情绪表达与冲动控制",
+      "definition": "允许孩子健康表达情绪，尤其是激烈情绪，能减少冲动行为，因为语言表达激活左脑理性，抑制右脑冲动。",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a029",
+        "s-42ca5837b22a-c001:a030",
+        "s-42ca5837b22a-c002:a003"
+      ]
+    },
+    {
+      "name": "归属感缺失与上瘾",
+      "definition": "社会边缘化、隔离或家庭环境导致孩子缺乏归属感，孩子可能通过上瘾物质获得虚幻的归属感。",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a009",
+        "s-42ca5837b22a-c002:r001"
+      ]
+    },
+    {
+      "name": "父母角色与界限",
+      "definition": "父母应明确自己的角色，建立界限感，不把孩子当朋友，不推卸责任，角色随孩子年龄调整，否则增加孩子上瘾风险。",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a012",
+        "s-42ca5837b22a-c002:a014",
+        "s-42ca5837b22a-c002:a015"
+      ]
+    },
+    {
+      "name": "家庭暴力与上瘾",
+      "definition": "家暴（身体、语言、精神）让孩子产生恐惧和怒气，可能通过暴力游戏等上瘾行为发泄，增加上瘾风险。",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a020",
+        "s-42ca5837b22a-c002:a021"
+      ]
+    },
+    {
+      "name": "父母要求与上瘾",
+      "definition": "父母对孩子要求过高或过低都可能导致孩子寻求上瘾物质以获得认可或满足感。",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a027",
+        "s-42ca5837b22a-c002:a029"
+      ]
+    },
+    {
+      "name": "父母自身生活与上瘾",
+      "definition": "父母没有自己的生活，过度关注孩子，会给孩子带来压力，增加上瘾风险；父母有自己的生活则对孩子有保护作用。",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a030",
+        "s-42ca5837b22a-c003:a004"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-42ca5837b22a-c001:a004",
+      "target": "s-42ca5837b22a-c001:a026",
+      "kind": "association",
+      "condition": "当孩子喜欢冒险时",
+      "reason": "喜欢冒险是上瘾风险因素，引导冒险而非压制是应对该风险的教育方法，两者相关但非支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不是允许类型，改为 association。"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a006",
+      "target": "s-42ca5837b22a-c001:a007",
+      "kind": "association",
+      "condition": "当孩子冲动、缺乏延迟满足能力时",
+      "reason": "冲动是上瘾风险因素，训练延迟满足方法是针对该风险的教育措施，两者相关但非支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不是允许类型，改为 association。"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a013",
+      "target": "s-42ca5837b22a-c002:a005",
+      "kind": "supports",
+      "condition": "当父母有上瘾行为时",
+      "reason": "父母上瘾增加孩子上瘾风险，支撑了家长有上瘾行为孩子更可能有上瘾行为及应戒掉的建议。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a015",
+      "target": "s-42ca5837b22a-c002:a008",
+      "kind": "association",
+      "condition": "当孩子经历童年创伤时",
+      "reason": "童年创伤是上瘾风险因素，父母需对儿童心理有认知并寻求专业帮助是针对创伤的应对措施，相关但非支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不是允许类型，改为 association。"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a017",
+      "target": "s-42ca5837b22a-c002:a010",
+      "kind": "association",
+      "condition": "当孩子被社会边缘化或隔离时",
+      "reason": "社会边缘化或隔离是上瘾风险因素，帮助孩子建立归属感是应对该风险的方法，相关但非支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不是允许类型，改为 association。"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a020",
+      "target": "s-42ca5837b22a-c001:a031",
+      "kind": "association",
+      "condition": "当孩子与父母情绪失联时",
+      "reason": "与父母情绪失联是上瘾风险因素，而鼓励孩子表达情绪和想法可能改善情绪连接，但未直接证明该措施能针对性降低由情绪失联导致的上瘾风险，因此仅能建立议题关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind applies_to 不在允许范围，改为 association；两者议题相关但不足证明直接干预效果。"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a024",
+      "target": "s-42ca5837b22a-c002:a012",
+      "kind": "association",
+      "condition": "当孩子角色错位时",
+      "reason": "角色错位是上瘾风险因素，而建立界限感把孩子放回正确角色是解决方法，但未直接证明该解决措施能消除由角色错位导致的上瘾风险，因此仅能建立议题关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind applies_to 改为 association。"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a029",
+      "target": "s-42ca5837b22a-c001:a030",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "a029指出控制冲动不是控制脾气，而是让孩子健康表达情绪；a030进一步解释情绪表达与冲动行为的天平关系，支持a029的观点。"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:a003",
+      "target": "s-42ca5837b22a-c001:a030",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "语言表达时左脑组织语言、右脑冲动减少，为健康的情绪表达会减少冲动行为的观点提供了机制支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-42ca5837b22a-c002:a009",
+      "target": "s-42ca5837b22a-c002:a010",
+      "kind": "applies_to",
+      "condition": "当孩子缺乏归属感时",
+      "reason": "c002:a009指出社会边缘化导致归属感缺失，c002:a010提供帮助孩子建立归属感的方法。"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:a020",
+      "target": "s-42ca5837b22a-c002:a021",
+      "kind": "causes",
+      "condition": "当家暴发生时",
+      "reason": "c002:a020指出家暴增加孩子对暴力内容上瘾的风险，c002:a021解释孩子通过暴力游戏发泄恐惧和怒气，说明家暴导致孩子寻求暴力游戏。"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:a027",
+      "target": "s-42ca5837b22a-c002:a029",
+      "kind": "contrasts",
+      "condition": "无",
+      "reason": "c002:a027指出要求过高增加上瘾风险，c002:a029指出要求过低也增加上瘾风险，两者形成对比。"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:a030",
+      "target": "s-42ca5837b22a-c003:a004",
+      "kind": "contrasts",
+      "condition": "无",
+      "reason": "c002:a030指出父母没有自己的生活增加上瘾风险，c003:a004指出父母有自己的生活对孩子有保护作用，两者形成对比。"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n001",
+      "target": "s-42ca5837b22a-c001:a017",
+      "kind": "complements",
+      "condition": "当讨论社会边缘化风险时",
+      "reason": "source 提到边缘化是风险因素但不直接导致，候选具体说明社会边缘化或隔离使孩子容易上瘾，并同样强调不直接导致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a017",
+      "target": "s-42ca5837b22a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论社会边缘化风险时",
+      "reason": "source 提到边缘化是风险因素但不直接导致，候选具体说明社会边缘化或隔离使孩子容易上瘾，并同样强调不直接导致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n001",
+      "target": "s-42ca5837b22a-c001:r002",
+      "kind": "complements",
+      "condition": "当讨论情绪失联风险时",
+      "reason": "source 提到情绪失联是风险因素，候选补充了情绪失联导致上瘾的机制（面对上瘾物质更可能上瘾）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:r002",
+      "target": "s-42ca5837b22a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论情绪失联风险时",
+      "reason": "source 提到情绪失联是风险因素，候选补充了情绪失联导致上瘾的机制（面对上瘾物质更可能上瘾）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n001",
+      "target": "s-42ca5837b22a-c001:a013",
+      "kind": "complements",
+      "condition": "当讨论父母上瘾风险时",
+      "reason": "source 提到父母上瘾是风险因素，候选具体说明孩子会学习父母行为而更容易上瘾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a013",
+      "target": "s-42ca5837b22a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论父母上瘾风险时",
+      "reason": "source 提到父母上瘾是风险因素，候选具体说明孩子会学习父母行为而更容易上瘾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n001",
+      "target": "s-42ca5837b22a-c001:a003",
+      "kind": "complements",
+      "condition": "当讨论早期预兆时",
+      "reason": "source 提到早期预兆是风险因素，候选具体说明早期预兆表明更易上瘾但不一定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a003",
+      "target": "s-42ca5837b22a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论早期预兆时",
+      "reason": "source 提到早期预兆是风险因素，候选具体说明早期预兆表明更易上瘾但不一定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n001",
+      "target": "s-42ca5837b22a-c001:a015",
+      "kind": "complements",
+      "condition": "当讨论童年创伤风险时",
+      "reason": "source 提到童年创伤是风险因素，候选具体说明创伤经历导致从致瘾物寻求解脱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a015",
+      "target": "s-42ca5837b22a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论童年创伤风险时",
+      "reason": "source 提到童年创伤是风险因素，候选具体说明创伤经历导致从致瘾物寻求解脱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n001",
+      "target": "s-42ca5837b22a-c001:r003",
+      "kind": "association",
+      "condition": "当讨论应对风险因素时",
+      "reason": "source 列出风险因素，候选提出应对总原则，从预防角度补充，但未涉及具体风险因素细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:r003",
+      "target": "s-42ca5837b22a-c001:v2-n001",
+      "kind": "association",
+      "condition": "当讨论应对风险因素时",
+      "reason": "source 列出风险因素，候选提出应对总原则，从预防角度补充，但未涉及具体风险因素细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n001",
+      "target": "s-42ca5837b22a-c001:a004",
+      "kind": "complements",
+      "condition": "当讨论喜欢冒险风险时",
+      "reason": "source 提到喜欢冒险是风险因素，候选具体说明冒险行为表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a004",
+      "target": "s-42ca5837b22a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论喜欢冒险风险时",
+      "reason": "source 提到喜欢冒险是风险因素，候选具体说明冒险行为表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n001",
+      "target": "s-42ca5837b22a-c001:a020",
+      "kind": "complements",
+      "condition": "当讨论情绪失联的具体情形时",
+      "reason": "source 提到情绪失联，候选具体描述父母情绪不接纳导致情绪失联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a020",
+      "target": "s-42ca5837b22a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论情绪失联的具体情形时",
+      "reason": "source 提到情绪失联，候选具体描述父母情绪不接纳导致情绪失联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n001",
+      "target": "s-42ca5837b22a-c001:a006",
+      "kind": "complements",
+      "condition": "当讨论冲动风险时",
+      "reason": "source 提到冲动是风险因素，候选具体说明冲动与延迟满足能力不足相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a006",
+      "target": "s-42ca5837b22a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论冲动风险时",
+      "reason": "source 提到冲动是风险因素，候选具体说明冲动与延迟满足能力不足相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n001",
+      "target": "s-42ca5837b22a-c001:a024",
+      "kind": "complements",
+      "condition": "当讨论角色错位风险时",
+      "reason": "source 提到角色错位，候选具体说明孩子被放在无法承担的地位导致压力进而逃避。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a024",
+      "target": "s-42ca5837b22a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论角色错位风险时",
+      "reason": "source 提到角色错位，候选具体说明孩子被放在无法承担的地位导致压力进而逃避。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n001",
+      "target": "s-42ca5837b22a-c002:a026",
+      "kind": "complements",
+      "condition": "当讨论父母上瘾风险时",
+      "reason": "source 提到父母上瘾，候选补充了即使孩子不知道也会增加风险。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:a026",
+      "target": "s-42ca5837b22a-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论父母上瘾风险时",
+      "reason": "source 提到父母上瘾，候选补充了即使孩子不知道也会增加风险。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n001",
+      "target": "s-42ca5837b22a-c003:a004",
+      "kind": "association",
+      "condition": "当讨论保护因素时",
+      "reason": "source 讨论风险因素，候选从父母有自己的生活角度提供保护因素，形成对比，但非直接补充风险内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c003:a004",
+      "target": "s-42ca5837b22a-c001:v2-n001",
+      "kind": "association",
+      "condition": "当讨论保护因素时",
+      "reason": "source 讨论风险因素，候选从父母有自己的生活角度提供保护因素，形成对比，但非直接补充风险内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n002",
+      "target": "s-42ca5837b22a-c001:r006",
+      "kind": "complements",
+      "condition": "当讨论具体做法时",
+      "reason": "source 提出具体做法包括停止事务倾听，候选补充了看重表达意愿的具体例子，内容一致并强化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:r006",
+      "target": "s-42ca5837b22a-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论具体做法时",
+      "reason": "source 提出具体做法包括停止事务倾听，候选补充了看重表达意愿的具体例子，内容一致并强化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n002",
+      "target": "s-42ca5837b22a-c002:a002",
+      "kind": "complements",
+      "condition": "当讨论详细步骤时",
+      "reason": "source 提供基本步骤，候选补充了更多细节如蹲下来认真看着孩子，并让孩子知道其表达重要。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:a002",
+      "target": "s-42ca5837b22a-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论详细步骤时",
+      "reason": "source 提供基本步骤，候选补充了更多细节如蹲下来认真看着孩子，并让孩子知道其表达重要。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n002",
+      "target": "s-42ca5837b22a-c001:a031",
+      "kind": "complements",
+      "condition": "当讨论实际案例时",
+      "reason": "source 与方法相关，候选通过讲师家孩子案例展示具体应用，补充了实践情境。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a031",
+      "target": "s-42ca5837b22a-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论实际案例时",
+      "reason": "source 与方法相关，候选通过讲师家孩子案例展示具体应用，补充了实践情境。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n002",
+      "target": "s-42ca5837b22a-c002:v2-n001",
+      "kind": "association",
+      "condition": "当讨论反面对照时",
+      "reason": "source 鼓励表达，候选描述父母贬低孩子表达，形成对比，但非直接补充鼓励方法本身。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:v2-n001",
+      "target": "s-42ca5837b22a-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论反面对照时",
+      "reason": "source 鼓励表达，候选描述父母贬低孩子表达，形成对比，但非直接补充鼓励方法本身。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n002",
+      "target": "s-42ca5837b22a-c001:a030",
+      "kind": "complements",
+      "condition": "当讨论表达情绪的益处时",
+      "reason": "source 强调鼓励表达，候选补充了表达情绪可减少冲动行为这一益处。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a030",
+      "target": "s-42ca5837b22a-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论表达情绪的益处时",
+      "reason": "source 强调鼓励表达，候选补充了表达情绪可减少冲动行为这一益处。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n002",
+      "target": "s-42ca5837b22a-c002:a001",
+      "kind": "complements",
+      "condition": "同上",
+      "reason": "内容同 a030。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:a001",
+      "target": "s-42ca5837b22a-c001:v2-n002",
+      "kind": "complements",
+      "condition": "同上",
+      "reason": "内容同 a030。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n002",
+      "target": "s-42ca5837b22a-c002:a028",
+      "kind": "association",
+      "condition": "当讨论父母不满足孩子时",
+      "reason": "source 鼓励表达，候选讨论父母无法满足孩子，二者不同主题，关联仅为父母教养方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:a028",
+      "target": "s-42ca5837b22a-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论父母不满足孩子时",
+      "reason": "source 鼓励表达，候选讨论父母无法满足孩子，二者不同主题，关联仅为父母教养方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n002",
+      "target": "s-42ca5837b22a-c002:a003",
+      "kind": "association",
+      "condition": "当讨论语言表达的作用时",
+      "reason": "source 鼓励表达，候选解释表达激活左脑减少冲动，可视为表达益处的原理，但不够直接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:a003",
+      "target": "s-42ca5837b22a-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论语言表达的作用时",
+      "reason": "source 鼓励表达，候选解释表达激活左脑减少冲动，可视为表达益处的原理，但不够直接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n002",
+      "target": "s-42ca5837b22a-c001:a022",
+      "kind": "association",
+      "condition": "当讨论不允许生气的后果时",
+      "reason": "source 鼓励表达，候选提到不允许生气是情绪失联，反向相关，但不同点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a022",
+      "target": "s-42ca5837b22a-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论不允许生气的后果时",
+      "reason": "source 鼓励表达，候选提到不允许生气是情绪失联，反向相关，但不同点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n002",
+      "target": "s-42ca5837b22a-c002:a031",
+      "kind": "association",
+      "condition": "当讨论家庭环境影响时",
+      "reason": "source 是具体做法，候选讲家庭环境整体重要，关联为家庭环境的一部分。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:a031",
+      "target": "s-42ca5837b22a-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论家庭环境影响时",
+      "reason": "source 是具体做法，候选讲家庭环境整体重要，关联为家庭环境的一部分。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n002",
+      "target": "s-42ca5837b22a-c002:a007",
+      "kind": "association",
+      "condition": "当讨论打孩子案例时",
+      "reason": "source 关于表达，候选是打孩子后和好案例，无直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:a007",
+      "target": "s-42ca5837b22a-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论打孩子案例时",
+      "reason": "source 关于表达，候选是打孩子后和好案例，无直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n002",
+      "target": "s-42ca5837b22a-c001:a020",
+      "kind": "association",
+      "condition": "当讨论情绪失联风险时",
+      "reason": "source 鼓励表达，候选讲与父母情绪失联，关联为情绪表达与失联的对立，但未直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a020",
+      "target": "s-42ca5837b22a-c001:v2-n002",
+      "kind": "association",
+      "condition": "当讨论情绪失联风险时",
+      "reason": "source 鼓励表达，候选讲与父母情绪失联，关联为情绪表达与失联的对立，但未直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:v2-n001",
+      "target": "s-42ca5837b22a-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当父母需要具体做法避免贬低表达时",
+      "reason": "候选提供了相反的正确做法：鼓励表达，并给出倾听步骤，补足了 source 缺失的解决方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:v2-n002",
+      "target": "s-42ca5837b22a-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当父母需要具体做法避免贬低表达时",
+      "reason": "候选提供了相反的正确做法：鼓励表达，并给出倾听步骤，补足了 source 缺失的解决方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:v2-n001",
+      "target": "s-42ca5837b22a-c002:a002",
+      "kind": "complements",
+      "condition": "当需要更具体行动细节时",
+      "reason": "候选补充了蹲下、认真看、让孩子知道重要等具体动作，使正向做法更具操作性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:a002",
+      "target": "s-42ca5837b22a-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要更具体行动细节时",
+      "reason": "候选补充了蹲下、认真看、让孩子知道重要等具体动作，使正向做法更具操作性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:v2-n001",
+      "target": "s-42ca5837b22a-c001:r006",
+      "kind": "complements",
+      "condition": "当需要提取做法要点时",
+      "reason": "候选概括了看重表达时刻并立即停下手中的事，是对 source 反模式的直接修正。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:r006",
+      "target": "s-42ca5837b22a-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要提取做法要点时",
+      "reason": "候选概括了看重表达时刻并立即停下手中的事，是对 source 反模式的直接修正。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:v2-n001",
+      "target": "s-42ca5837b22a-c001:a031",
+      "kind": "complements",
+      "condition": "当需要实例说明时",
+      "reason": "候选提供讲师家孩子案例，具体展示了如何重视表达，补足了实践示例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a031",
+      "target": "s-42ca5837b22a-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要实例说明时",
+      "reason": "候选提供讲师家孩子案例，具体展示了如何重视表达，补足了实践示例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:v2-n001",
+      "target": "s-42ca5837b22a-c001:a030",
+      "kind": "association",
+      "condition": "涉及情绪表达与冲动行为关系时",
+      "reason": "候选提出健康表达情绪可减少冲动行为，与 source 中压抑表达相关，但 source 未直接提及冲动，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a030",
+      "target": "s-42ca5837b22a-c002:v2-n001",
+      "kind": "association",
+      "condition": "涉及情绪表达与冲动行为关系时",
+      "reason": "候选提出健康表达情绪可减少冲动行为，与 source 中压抑表达相关，但 source 未直接提及冲动，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:v2-n001",
+      "target": "s-42ca5837b22a-c002:a003",
+      "kind": "complements",
+      "condition": "从神经机制解释时",
+      "reason": "候选从左右脑分工说明表达意愿促进理性发展，反证 source 中压抑表达的危害，补足了机制层面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:a003",
+      "target": "s-42ca5837b22a-c002:v2-n001",
+      "kind": "complements",
+      "condition": "从神经机制解释时",
+      "reason": "候选从左右脑分工说明表达意愿促进理性发展，反证 source 中压抑表达的危害，补足了机制层面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:v2-n001",
+      "target": "s-42ca5837b22a-c001:a022",
+      "kind": "complements",
+      "condition": "涉及其他情绪表达被压抑时",
+      "reason": "候选补充了不允许孩子生气也是情绪失联表现，与 source 中不允许说话共同构成情绪压抑的完整画面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a022",
+      "target": "s-42ca5837b22a-c002:v2-n001",
+      "kind": "complements",
+      "condition": "涉及其他情绪表达被压抑时",
+      "reason": "候选补充了不允许孩子生气也是情绪失联表现，与 source 中不允许说话共同构成情绪压抑的完整画面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c002:v2-n001",
+      "target": "s-42ca5837b22a-c001:a029",
+      "kind": "association",
+      "condition": "涉及冲动控制时",
+      "reason": "候选强调健康表达情绪是控制冲动的最好方法，与 source 的压抑表达后果间接相关，但未直接说明因果关系，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-42ca5837b22a-c001:a029",
+      "target": "s-42ca5837b22a-c002:v2-n001",
+      "kind": "association",
+      "condition": "涉及冲动控制时",
+      "reason": "候选强调健康表达情绪是控制冲动的最好方法，与 source 的压抑表达后果间接相关，但未直接说明因果关系，故 association。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "依赖与失控",
+      "to": "规则与行动",
+      "when": "当孩子具有上瘾风险因素（如喜欢冒险、冲动）时，需要采取行动降低风险。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a004",
+        "s-42ca5837b22a-c001:a026",
+        "s-42ca5837b22a-c001:a006",
+        "s-42ca5837b22a-c001:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "依赖与失控",
+      "to": "理解情绪",
+      "when": "当孩子因情绪失联、创伤或家暴等情绪问题面临上瘾风险时，需要理解并引导情绪表达。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a020",
+        "s-42ca5837b22a-c001:a031",
+        "s-42ca5837b22a-c002:a020",
+        "s-42ca5837b22a-c002:a021"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "依赖与失控",
+      "to": "界限",
+      "when": "当孩子因角色错位或父母缺乏界限而面临上瘾风险时，需要建立界限感。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a024",
+        "s-42ca5837b22a-c002:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "依赖与失控",
+      "to": "阶段与角色",
+      "when": "当孩子进入青春期，父母角色未随年龄调整时，需要调整角色以避免上瘾。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a015",
+        "s-42ca5837b22a-c002:r003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "依赖与失控",
+      "to": "自我修养",
+      "when": "当父母没有自己的生活，过度关注孩子时，需要父母发展自己的生活以保护孩子。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a030",
+        "s-42ca5837b22a-c003:a004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a027",
+        "s-42ca5837b22a-c001:r004"
+      ],
+      "reason": "两者内容完全相同，都是引导冒险的具体活动示例。"
+    },
+    {
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a031",
+        "s-42ca5837b22a-c001:r006"
+      ],
+      "reason": "两者内容相同，都是鼓励孩子表达情绪和想法的具体做法。"
+    },
+    {
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a030",
+        "s-42ca5837b22a-c002:a001"
+      ],
+      "reason": "两者内容相同，都是情绪表达与冲动行为的天平关系。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a023",
+        "s-42ca5837b22a-c001:a029"
+      ],
+      "description": "a023说控制情绪是伪命题，a029说控制冲动不是控制脾气，而是让孩子健康表达情绪。两者看似矛盾，但a029可能是在a023基础上的进一步解释，需要明确控制情绪与控制冲动的区别。",
+      "needed_evidence": "需要明确控制情绪与控制冲动的定义和关系，以及在实际操作中如何区分。"
+    },
+    {
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a014",
+        "s-42ca5837b22a-c002:a015"
+      ],
+      "description": "a014说父母不可以做孩子的朋友，a015说父母角色应随孩子年龄改变。两者可能冲突，因为随着孩子长大，父母角色可能更接近朋友，但a014明确禁止。需要明确不同年龄段的角色定位。",
+      "needed_evidence": "需要明确父母角色随年龄变化的具体表现，以及是否在某些阶段可以成为朋友。"
+    }
+  ],
+  "path": [
+    {
+      "name": "降低孩子上瘾风险的家庭干预路径",
+      "steps": [
+        {
+          "action": "识别孩子具有的上瘾风险因素",
+          "atom_ids": [
+            "s-42ca5837b22a-c001:a004",
+            "s-42ca5837b22a-c001:a006",
+            "s-42ca5837b22a-c001:a013",
+            "s-42ca5837b22a-c001:a015",
+            "s-42ca5837b22a-c001:a017",
+            "s-42ca5837b22a-c001:a020",
+            "s-42ca5837b22a-c001:a024"
+          ],
+          "condition": "观察孩子的行为和环境，判断是否存在风险因素。"
+        },
+        {
+          "action": "针对每个风险因素采取相应措施",
+          "atom_ids": [
+            "s-42ca5837b22a-c001:a026",
+            "s-42ca5837b22a-c001:a007",
+            "s-42ca5837b22a-c002:a005",
+            "s-42ca5837b22a-c002:a008",
+            "s-42ca5837b22a-c002:a010",
+            "s-42ca5837b22a-c001:a031",
+            "s-42ca5837b22a-c002:a012"
+          ],
+          "condition": "根据风险因素类型选择对应方法，如引导冒险、训练延迟满足、戒除父母上瘾、寻求专业帮助、建立归属感、鼓励情绪表达、建立界限。"
+        },
+        {
+          "action": "营造健康的家庭环境",
+          "atom_ids": [
+            "s-42ca5837b22a-c003:a003",
+            "s-42ca5837b22a-c003:a004"
+          ],
+          "condition": "父母反思家庭氛围，与配偶讨论，并发展自己的生活，以增强孩子抵抗力。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "570390221814748f06778ccfed3ab35a7e0b98481a48a1b3d3163db272f71701",
+  "recovered_from_response": "s-42ca5837b22a-relations-1793880709820853000.json",
+  "point_units": [
+    {
+      "id": "s-42ca5837b22a-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a002"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a003"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a004"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a005"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a006"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0007",
+      "kind": "relation",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a007"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0008",
+      "kind": "case",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a008"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0009",
+      "kind": "case",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a009"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0010",
+      "kind": "relation",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a010"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a011"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0012",
+      "kind": "case",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a012"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a013"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a014"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a015"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a016"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a017"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0018",
+      "kind": "case",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a018"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a019"
+      ],
+      "blocks": [
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a020"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0021",
+      "kind": "case",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a021"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a022"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a023"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a024"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0025",
+      "kind": "case",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a025"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a026"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0027",
+      "kind": "relation",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a027",
+        "s-42ca5837b22a-c001:r004",
+        "s-42ca5837b22a-c001:r005"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a028"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a029"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a030"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0031",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:r001"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0032",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:r002"
+      ],
+      "blocks": [
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0033",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:r003"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0034",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c001:u0035",
+      "kind": "relation",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u01",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a030"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u02",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:a031",
+        "s-42ca5837b22a-c002:a002"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045",
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u03",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u04",
+      "kind": "case",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a002"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u05",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a003"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u06",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a003"
+      ],
+      "blocks": [
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u07",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a004"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u08",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a005"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u09",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a006"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u10",
+      "kind": "case",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a007"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u11",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a008"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u12",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a009"
+      ],
+      "blocks": [
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u13",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a010"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u14",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a011"
+      ],
+      "blocks": [
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u15",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a012"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u16",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a013"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u17",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a014"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u18",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a015",
+        "s-42ca5837b22a-c002:r003"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u19",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a016"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u20",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a017"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u21",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a018"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u22",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a019"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u23",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a020"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u24",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a021"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u25",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a022"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u26",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a023"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u27",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a024"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u28",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a025"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u29",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a026"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u30",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a027"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u31",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a028"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u32",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a029",
+        "s-42ca5837b22a-c003:r002"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c002:u33",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a030"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c003:u1",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a031",
+        "s-42ca5837b22a-c003:a001"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c003:u2",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:a031",
+        "s-42ca5837b22a-c003:a002"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c003:u3",
+      "kind": "method",
+      "atom_ids": [
+        "s-42ca5837b22a-c003:a003"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-42ca5837b22a-c003:u4",
+      "kind": "concept",
+      "atom_ids": [
+        "s-42ca5837b22a-c003:a004"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "风险因素不直接导致上瘾",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-42ca5837b22a",
+          "blocks": [
+            "b00018"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "鼓励孩子表达情绪和想法",
+      "atom_ids": [
+        "s-42ca5837b22a-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-42ca5837b22a",
+          "blocks": [
+            "b00044",
+            "b00045"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "父母贬低孩子表达意愿",
+      "atom_ids": [
+        "s-42ca5837b22a-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-42ca5837b22a",
+          "blocks": [
+            "b00044",
+            "b00045"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "counterexample"
+    }
+  ]
+}

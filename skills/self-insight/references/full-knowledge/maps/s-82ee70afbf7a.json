@@ -1,0 +1,2133 @@
+{
+  "concepts": [
+    {
+      "name": "妈妈焦虑的表征",
+      "definition": "妈妈焦虑的多种外在表现，包括着急、无法放松、易怒、事情比人重要、停不下来、失眠、对身边人不满、生理紧张、心理紧张、情绪紧张、完美主义、讨好型人格、比较、自卑等。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a001",
+        "s-82ee70afbf7a-c001:a002",
+        "s-82ee70afbf7a-c001:a003",
+        "s-82ee70afbf7a-c001:a004",
+        "s-82ee70afbf7a-c001:a005",
+        "s-82ee70afbf7a-c001:a006",
+        "s-82ee70afbf7a-c001:a007",
+        "s-82ee70afbf7a-c001:a008",
+        "s-82ee70afbf7a-c001:a009",
+        "s-82ee70afbf7a-c001:a010",
+        "s-82ee70afbf7a-c001:a011",
+        "s-82ee70afbf7a-c001:a012",
+        "s-82ee70afbf7a-c001:a013",
+        "s-82ee70afbf7a-c001:a014"
+      ]
+    },
+    {
+      "name": "童年场景触发焦虑",
+      "definition": "有了孩子后，孩子会折射父母的童年场景，触发未医治的童年记忆，导致焦虑。童年场景如同背景音乐，影响情绪反应。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a016",
+        "s-82ee70afbf7a-c001:a023",
+        "s-82ee70afbf7a-c001:r011",
+        "s-82ee70afbf7a-c002:a001",
+        "s-82ee70afbf7a-c002:a004",
+        "s-82ee70afbf7a-c002:a005"
+      ]
+    },
+    {
+      "name": "焦虑源于内在状态",
+      "definition": "焦虑的根源在于个人内在状态，而非外部事件。外部事件只是触发因素，如同摇晃杯子，但杯子里装的是什么，洒出来的就是什么。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a032",
+        "s-82ee70afbf7a-c002:a033",
+        "s-82ee70afbf7a-c003:a001"
+      ]
+    },
+    {
+      "name": "缺乏界限导致焦虑",
+      "definition": "缺乏界限感会导致焦虑，就像房子没有门一样，让人感到不安全，无法放松。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a003"
+      ]
+    },
+    {
+      "name": "微控",
+      "definition": "焦虑妈妈倾向于微控孩子，即对任何小事情都要按照自己的方式控制，导致孩子长大后不独立。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a009",
+        "s-82ee70afbf7a-c003:a011"
+      ]
+    },
+    {
+      "name": "焦虑与害怕的区别",
+      "definition": "焦虑是想象威胁，害怕是看见威胁。焦虑中常包含自我暗示。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a016"
+      ]
+    },
+    {
+      "name": "接受不可控",
+      "definition": "不可控是人生的常态，是应该的。如果发现生活所有事情都在控制范围内，需要警醒。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a017",
+        "s-82ee70afbf7a-c003:r003"
+      ]
+    },
+    {
+      "name": "专业心理辅导的标准",
+      "definition": "专业心理辅导不会打鸡血、不会直接告诉你怎么想或怎么做。不专业的辅导会直接给建议。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a021",
+        "s-82ee70afbf7a-c004:a001"
+      ]
+    },
+    {
+      "name": "安全的支持团体",
+      "definition": "焦虑情绪需要安全的倾诉团体，成员应具备三到五人，随时可倾听，不论断，不灌输道理，能接纳内心阴暗想法。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:a002"
+      ]
+    },
+    {
+      "name": "焦虑与抑郁的区分",
+      "definition": "对什么都没兴趣、不想管不想理，首先需排除抑郁。焦虑和抑郁常相连，焦虑可能引发抑郁。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:a003",
+        "s-82ee70afbf7a-c004:a010"
+      ]
+    },
+    {
+      "name": "讨好型人格与讨好型人的区分",
+      "definition": "讨好型人格是缺乏界限的表现，认为讨好别人是应该的，需为他人情绪负责。讨好型人是在具体事情上讨好。所有讨好型人格都是讨好型人，但反之不一定。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a015",
+        "s-82ee70afbf7a-c004:a011"
+      ]
+    },
+    {
+      "name": "儿童行为正常性判断",
+      "definition": "三岁孩子咬人打人在该年龄段是正常现象，但如果之前管教得当，此时应已不再咬人打人；若七八岁仍咬人打人则不太正常。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a001",
+        "s-82ee70afbf7a-c005:a009",
+        "s-82ee70afbf7a-c005:a010"
+      ]
+    },
+    {
+      "name": "健康焦虑与不健康焦虑",
+      "definition": "焦虑并非都不健康，比赛或考试中一定程度的合理焦虑有助于发挥最佳状态，但焦虑应可控且不过度。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a012"
+      ]
+    },
+    {
+      "name": "病态配偶的应对",
+      "definition": "若配偶处于病态焦虑或精神疾病状态，不应由配偶独自承担改变责任或硬撑，应寻求专业医院帮助，必要时将病态配偶与孩子隔离。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a013"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-82ee70afbf7a-c001:a016",
+      "target": "s-82ee70afbf7a-c001:a023",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "妈妈焦虑的原因之一是童年的场景，孩子会在某种程度上折射自己的童年并触发焦虑，诸多例子支持童年场景触发焦虑的概括。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持成立。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c001:a016",
+      "target": "s-82ee70afbf7a-c002:a001",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "妈妈焦虑的原因之一是童年的场景，其中孩子会折射父母的童年，支持孩子会折射父母童年场景的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持成立。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c001:a016",
+      "target": "s-82ee70afbf7a-c002:a004",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "妈妈焦虑的原因之一是童年的场景，其中孩子会引发父母未医治的童年记忆，支持孩子容易引发父母未医治的童年记忆。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持成立。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c001:a016",
+      "target": "s-82ee70afbf7a-c002:a005",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "妈妈焦虑的原因之一是童年的场景，这些场景在潜意识中影响情绪反应，支持童年场景如同背景音乐的隐喻。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持成立。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c001:a023",
+      "target": "s-82ee70afbf7a-c002:a001",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "童年场景的触发导致焦虑，其中孩子会折射自己的童年，支持孩子会折射父母童年场景的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持成立。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c001:a023",
+      "target": "s-82ee70afbf7a-c002:a004",
+      "kind": "supports",
+      "condition": "两者都涉及童年伤害被引发",
+      "reason": "a023提到童年场景触发焦虑，c002:a004指出童年伤害会被孩子提醒或引发，后者支持前者。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c001:a023",
+      "target": "s-82ee70afbf7a-c002:a005",
+      "kind": "supports",
+      "condition": "两者都涉及童年场景影响情绪",
+      "reason": "a023提到童年场景触发焦虑，c002:a005用背景音乐隐喻说明童年场景在潜意识中影响情绪反应，后者支持前者。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c001:r011",
+      "target": "s-82ee70afbf7a-c002:a001",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "童年场景触发焦虑的机制包含孩子折射自己的童年，支持孩子会折射父母童年场景的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持成立。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c001:r011",
+      "target": "s-82ee70afbf7a-c002:a004",
+      "kind": "supports",
+      "condition": "两者都涉及童年伤害被引发",
+      "reason": "r011提到童年场景触发焦虑，c002:a004指出童年伤害会被孩子提醒或引发，后者支持前者。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c001:r011",
+      "target": "s-82ee70afbf7a-c002:a005",
+      "kind": "supports",
+      "condition": "两者都涉及童年场景影响情绪",
+      "reason": "r011提到童年场景触发焦虑，c002:a005用背景音乐隐喻说明童年场景在潜意识中影响情绪反应，后者支持前者。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:a001",
+      "target": "s-82ee70afbf7a-c002:a004",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "孩子会折射父母的童年场景，这种折射会引发父母未医治的童年记忆，支持孩子容易引发父母未医治的童年记忆。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持成立。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:a001",
+      "target": "s-82ee70afbf7a-c002:a005",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "孩子会折射父母的童年场景，这一过程说明童年场景在潜意识中影响情绪反应，支持童年场景如同背景音乐的隐喻。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持成立。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:a004",
+      "target": "s-82ee70afbf7a-c002:a005",
+      "kind": "supports",
+      "condition": "两者都涉及童年场景影响情绪",
+      "reason": "c002:a004提到童年伤害被引发，c002:a005用背景音乐隐喻说明童年场景在潜意识中影响情绪反应，后者支持前者。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:a032",
+      "target": "s-82ee70afbf7a-c002:a033",
+      "kind": "supports",
+      "condition": "两者都说明焦虑根源在内心",
+      "reason": "c002:a032用杯子隐喻说明焦虑由内心决定，c002:a033进一步解释同样的事情有人焦虑有人不焦虑，说明根源在内心，后者支持前者。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:a032",
+      "target": "s-82ee70afbf7a-c003:a001",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "杯子装什么洒出什么，说明焦虑由内心状态决定而非外部事件，支持焦虑的根源在于自身内在状态。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持成立。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:a033",
+      "target": "s-82ee70afbf7a-c003:a001",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "同样事情有人焦虑有人不焦虑，说明事情本身不是焦虑根源，支持焦虑的根源在于自身内在状态。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持成立。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c003:a009",
+      "target": "s-82ee70afbf7a-c003:a011",
+      "kind": "supports",
+      "condition": "微控行为导致孩子不独立",
+      "reason": "焦虑妈妈倾向于微控孩子，且这种微控会导致孩子长大后不独立，支持微控导致孩子不独立的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型为causes，改为supports。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c003:a016",
+      "target": "s-82ee70afbf7a-c003:r002",
+      "kind": "supports",
+      "condition": "两者都涉及自我暗示",
+      "reason": "c003:a016指出焦虑是想象威胁，常包含自我暗示，c003:r002提出解决焦虑的第一步是注意自我暗示，后者基于前者的概念。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c003:a017",
+      "target": "s-82ee70afbf7a-c003:r003",
+      "kind": "supports",
+      "condition": "两者都涉及接受不可控",
+      "reason": "接受不可控是人生常态这一命题支持解决焦虑步骤中接受不可控为常态的建议。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-82ee70afbf7a-c003:a021",
+      "target": "s-82ee70afbf7a-c004:a001",
+      "kind": "supports",
+      "condition": "两者都涉及专业心理辅导的判断",
+      "reason": "c003:a021指出专业心理辅导不会直接告诉你怎么想或怎么做，c004:a001详细描述不专业心理辅导的特征，后者支持前者。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c004:a003",
+      "target": "s-82ee70afbf7a-c004:a010",
+      "kind": "supports",
+      "condition": "两者都涉及抑郁的表现",
+      "reason": "c004:a003提到判断抑郁需考虑时长、食欲、体重、兴趣等变化，c004:a010详细列出抑郁表现，后者支持前者。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c001:a015",
+      "target": "s-82ee70afbf7a-c004:a011",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "讨好型人与讨好型人格是不同概念，详细解释讨好型人格缺乏界限、所有讨好型人格都是讨好型人但反之不一定，支持了对两者区分的判断。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持成立。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c005:a001",
+      "target": "s-82ee70afbf7a-c005:a009",
+      "kind": "supports",
+      "condition": "两者都涉及三岁孩子咬东西的正常性",
+      "reason": "c005:a001指出三岁孩子咬人打人正常，c005:a009明确三岁孩子咬东西不是焦虑表现，后者支持前者。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c005:a001",
+      "target": "s-82ee70afbf7a-c005:a010",
+      "kind": "supports",
+      "condition": "两者都涉及三岁孩子打人的正常性",
+      "reason": "c005:a001指出三岁孩子咬人打人正常，c005:a010解释三岁孩子怕别人抢东西而打人是正常反应，后者支持前者。"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:v2-n001",
+      "target": "s-82ee70afbf7a-c002:a017",
+      "kind": "complements",
+      "condition": "在追溯妈妈焦虑根源时",
+      "reason": "source列出四个根源包括童年场景和原生背景；a017提供了如何通过关注这些背景来追溯根源的具体方法，补充了行动方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:a017",
+      "target": "s-82ee70afbf7a-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在追溯妈妈焦虑根源时",
+      "reason": "source列出四个根源包括童年场景和原生背景；a017提供了如何通过关注这些背景来追溯根源的具体方法，补充了行动方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:v2-n001",
+      "target": "s-82ee70afbf7a-c001:a019",
+      "kind": "complements",
+      "condition": "在区分焦虑的表面原因和根源时",
+      "reason": "source指出老公孩子不给力是表面原因；a019补充了将焦虑归结于老公孩子是危险的习惯，需要改掉，强化了不应停留于表面原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c001:a019",
+      "target": "s-82ee70afbf7a-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在区分焦虑的表面原因和根源时",
+      "reason": "source指出老公孩子不给力是表面原因；a019补充了将焦虑归结于老公孩子是危险的习惯，需要改掉，强化了不应停留于表面原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:v2-n001",
+      "target": "s-82ee70afbf7a-c002:a033",
+      "kind": "complements",
+      "condition": "在判断焦虑真正来源时",
+      "reason": "source区分根源与表面原因；a033进一步论证事情本身不是原因，内心根源才是，补充了区分的内在逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:a033",
+      "target": "s-82ee70afbf7a-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在判断焦虑真正来源时",
+      "reason": "source区分根源与表面原因；a033进一步论证事情本身不是原因，内心根源才是，补充了区分的内在逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:v2-n001",
+      "target": "s-82ee70afbf7a-c001:a023",
+      "kind": "complements",
+      "condition": "当孩子触发妈妈童年场景时",
+      "reason": "source列出童年的场景为根源之一；a023具体解释孩子如何折射童年触发焦虑，补充了该根源的产生机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c001:a023",
+      "target": "s-82ee70afbf7a-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子触发妈妈童年场景时",
+      "reason": "source列出童年的场景为根源之一；a023具体解释孩子如何折射童年触发焦虑，补充了该根源的产生机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:v2-n001",
+      "target": "s-82ee70afbf7a-c002:a008",
+      "kind": "complements",
+      "condition": "在比较父母焦虑表现时",
+      "reason": "source仅聚焦妈妈焦虑根源；a008补充了爸爸也会被童年场景提醒但表现不同，并指出父母都焦虑会导致孩子问题，拓宽了焦虑影响的讨论。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:a008",
+      "target": "s-82ee70afbf7a-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在比较父母焦虑表现时",
+      "reason": "source仅聚焦妈妈焦虑根源；a008补充了爸爸也会被童年场景提醒但表现不同，并指出父母都焦虑会导致孩子问题，拓宽了焦虑影响的讨论。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:v2-n001",
+      "target": "s-82ee70afbf7a-c001:a016",
+      "kind": "complements",
+      "condition": "当孩子触发妈妈童年场景时",
+      "reason": "source列出童年的场景为根源；a016详细给出了童年被父母打等具体事例，补充了该根源的丰富案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c001:a016",
+      "target": "s-82ee70afbf7a-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子触发妈妈童年场景时",
+      "reason": "source列出童年的场景为根源；a016详细给出了童年被父母打等具体事例，补充了该根源的丰富案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:v2-n001",
+      "target": "s-82ee70afbf7a-c002:a023",
+      "kind": "complements",
+      "condition": "在缺乏育儿知识导致焦虑时",
+      "reason": "source列出缺乏育儿知识为根源之一；a023补充了孩子比职场复杂因此缺乏知识易焦虑的具体解释，加强了该根源的合理性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c002:a023",
+      "target": "s-82ee70afbf7a-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在缺乏育儿知识导致焦虑时",
+      "reason": "source列出缺乏育儿知识为根源之一；a023补充了孩子比职场复杂因此缺乏知识易焦虑的具体解释，加强了该根源的合理性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c005:v2-n001",
+      "target": "s-82ee70afbf7a-c005:a008",
+      "kind": "association",
+      "condition": "爸爸焦虑的不同表现：source为打孩子暴力行为，target为纠结孩子行为不合心意的应对方法",
+      "reason": "source描述爸爸因焦虑打女儿，target提供当爸爸因焦虑纠结时的方法（如邀请上课、参加团体辅导），两者均涉及爸爸焦虑的应对，但target未针对打孩子行为，因此仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c005:a008",
+      "target": "s-82ee70afbf7a-c005:v2-n001",
+      "kind": "association",
+      "condition": "爸爸焦虑的不同表现：source为打孩子暴力行为，target为纠结孩子行为不合心意的应对方法",
+      "reason": "source描述爸爸因焦虑打女儿，target提供当爸爸因焦虑纠结时的方法（如邀请上课、参加团体辅导），两者均涉及爸爸焦虑的应对，但target未针对打孩子行为，因此仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c005:v2-n001",
+      "target": "s-82ee70afbf7a-c004:r002",
+      "kind": "example_of",
+      "condition": "爸爸焦虑打孩子是家长焦虑影响孩子的一个负面表现",
+      "reason": "source是具体案例：爸爸焦虑时打孩子，target为一般概念：家长焦虑肯定会影响孩子。source可作为target所述影响的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c004:r002",
+      "target": "s-82ee70afbf7a-c005:v2-n001",
+      "kind": "has_example",
+      "condition": "爸爸焦虑打孩子是家长焦虑影响孩子的一个负面表现",
+      "reason": "source是具体案例：爸爸焦虑时打孩子，target为一般概念：家长焦虑肯定会影响孩子。source可作为target所述影响的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c005:v2-n002",
+      "target": "s-82ee70afbf7a-c005:a002",
+      "kind": "association",
+      "condition": "朋友冲突情境下的不同方面",
+      "reason": "source询问朋友冲突时如何暗示，candidate提出与朋友长期冲突的两种可能原因（缺乏界限、不清楚为何在一起），为理解冲突提供背景，但未直接回答暗示方法，因此仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c005:a002",
+      "target": "s-82ee70afbf7a-c005:v2-n002",
+      "kind": "association",
+      "condition": "朋友冲突情境下的不同方面",
+      "reason": "source询问朋友冲突时如何暗示，candidate提出与朋友长期冲突的两种可能原因（缺乏界限、不清楚为何在一起），为理解冲突提供背景，但未直接回答暗示方法，因此仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c005:v2-n003",
+      "target": "s-82ee70afbf7a-c004:a014",
+      "kind": "association",
+      "condition": "三岁孩子粘人打人行为及情感连接的应用",
+      "reason": "source询问情感连接可改善孩子哪方面（恐惧粘人还是焦虑打人），candidate提供三岁孩子粘人、咬人、打人的案例评估，并建议母亲先改变情绪再与孩子情感连接，未直接回答改善哪方面，但相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c004:a014",
+      "target": "s-82ee70afbf7a-c005:v2-n003",
+      "kind": "association",
+      "condition": "三岁孩子粘人打人行为及情感连接的应用",
+      "reason": "source询问情感连接可改善孩子哪方面（恐惧粘人还是焦虑打人），candidate提供三岁孩子粘人、咬人、打人的案例评估，并建议母亲先改变情绪再与孩子情感连接，未直接回答改善哪方面，但相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c005:v2-n003",
+      "target": "s-82ee70afbf7a-c004:r003",
+      "kind": "association",
+      "condition": "情感连接作为缓解孩子情绪的方法",
+      "reason": "source询问情感连接改善孩子哪方面，candidate指出帮助三岁孩子缓解情绪需母亲先改变自己情绪再与孩子情绪连接，直接涉及情感连接，但未区分改善恐惧粘人还是焦虑打人，因此关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-82ee70afbf7a-c004:r003",
+      "target": "s-82ee70afbf7a-c005:v2-n003",
+      "kind": "association",
+      "condition": "情感连接作为缓解孩子情绪的方法",
+      "reason": "source询问情感连接改善孩子哪方面，candidate指出帮助三岁孩子缓解情绪需母亲先改变自己情绪再与孩子情绪连接，直接涉及情感连接，但未区分改善恐惧粘人还是焦虑打人，因此关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "自我认知",
+      "to": "理解情绪",
+      "when": "当妈妈焦虑时，孩子会通过观察妈妈的表情和反应学习应对方式，从而习得焦虑习惯。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a006",
+        "s-82ee70afbf7a-c003:a007",
+        "s-82ee70afbf7a-c003:a008",
+        "s-82ee70afbf7a-c003:r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "界限",
+      "when": "当妈妈焦虑时，倾向于微控孩子，缺乏界限感，导致孩子不独立。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a009",
+        "s-82ee70afbf7a-c003:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "阶段与角色",
+      "when": "当妈妈焦虑时，可能对孩子有不切实际的期待，忽视儿童发展阶段。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "依赖与失控",
+      "when": "当妈妈焦虑时，可能陷入越忙越焦虑、越焦虑越累的恶性循环，导致家庭失控。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "理解情绪",
+      "when": "当妈妈焦虑时，需要接受专业心理辅导或寻找安全的支持团体来缓解焦虑。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a020",
+        "s-82ee70afbf7a-c004:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a016",
+        "s-82ee70afbf7a-c001:a023",
+        "s-82ee70afbf7a-c001:r011"
+      ],
+      "reason": "三者都描述童年场景触发焦虑的机制，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a032",
+        "s-82ee70afbf7a-c002:a033",
+        "s-82ee70afbf7a-c003:a001"
+      ],
+      "reason": "三者都说明焦虑根源在于内在状态，而非外部事件，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a021",
+        "s-82ee70afbf7a-c004:a001"
+      ],
+      "reason": "两者都描述专业心理辅导的标准，内容实质等价。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a005",
+        "s-82ee70afbf7a-c001:r003"
+      ],
+      "description": "a005提到停不下来是焦虑表征，但r003指出偶尔停不下来是正常的，只有持续出现才需警惕。两者对停不下来的判断标准不同，需要明确正常与异常的界限。",
+      "needed_evidence": "需要更多关于停不下来行为持续时间、频率和情境的数据来界定正常与异常。"
+    },
+    {
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a006",
+        "s-82ee70afbf7a-c001:r004"
+      ],
+      "description": "a006提到失眠是焦虑表征，但r004指出失眠需持续一两个月以上才能作为判断依据。两者对失眠的时间标准不同，需要明确。",
+      "needed_evidence": "需要更多关于失眠持续时间与焦虑关系的研究数据。"
+    },
+    {
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a007",
+        "s-82ee70afbf7a-c001:r005"
+      ],
+      "description": "a007提到对身边人不满是焦虑表征，但r005指出优点与缺点比例低于6:4才说明有焦虑。两者对不满的判断标准不同，需要明确。",
+      "needed_evidence": "需要更多关于优点缺点比例与焦虑关系的研究数据。"
+    },
+    {
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a004"
+      ],
+      "description": "c005:a004声称抽动症与焦虑症无直接关系，但未提供充分证据，且与常见医学观点可能不一致。",
+      "needed_evidence": "需要专业医学研究来验证抽动症与焦虑症的关系。"
+    },
+    {
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a005"
+      ],
+      "description": "c005:a005将人格分裂归为第二线精神疾病，并给出治疗建议，但未提供专业依据，可能误导。",
+      "needed_evidence": "需要精神医学专业分类和治疗指南来验证。"
+    },
+    {
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a006"
+      ],
+      "description": "c005:a006区分强迫症和强迫性人格，但未提供专业诊断标准，可能不准确。",
+      "needed_evidence": "需要精神医学诊断标准来验证。"
+    },
+    {
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a007"
+      ],
+      "description": "c005:a007声称原生家庭是人格分裂的关键成因之一，但未提供充分证据，且可能过于简化。",
+      "needed_evidence": "需要心理学研究来验证原生家庭与人格分裂的因果关系。"
+    }
+  ],
+  "path": [
+    {
+      "name": "解决焦虑情绪的方法",
+      "steps": [
+        {
+          "action": "注意自我暗示",
+          "atom_ids": [
+            "s-82ee70afbf7a-c003:r002"
+          ],
+          "condition": "当感到焦虑时，识别焦虑情境，觉察自己的内心暗示，区分事实与想象。"
+        },
+        {
+          "action": "接受不可控",
+          "atom_ids": [
+            "s-82ee70afbf7a-c003:r003"
+          ],
+          "condition": "识别生活中不可控的部分，接受不可控为常态，警惕长期全面可控的状态。"
+        },
+        {
+          "action": "寻找安全的团队",
+          "atom_ids": [
+            "s-82ee70afbf7a-c003:r004"
+          ],
+          "condition": "寻找三到五人的安全倾诉团体，成员不论断、不灌输道理、能接纳内心阴暗想法。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-82ee70afbf7a-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:r001"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:r002"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a001"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a002"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a003"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a004"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a005",
+        "s-82ee70afbf7a-c001:r003"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a006",
+        "s-82ee70afbf7a-c001:r004"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a007",
+        "s-82ee70afbf7a-c001:r005"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a008"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a009"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a010"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a011"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:r006"
+      ],
+      "blocks": [
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a012"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u016",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:r007"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a013"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u018",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:r008"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a014"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u020",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:r010"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u021",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:r009"
+      ],
+      "blocks": [
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u022",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a015"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u023",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a019"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u024",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a020"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u025",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a021"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u026",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a022",
+        "s-82ee70afbf7a-c002:r001"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c001:u027",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a016",
+        "s-82ee70afbf7a-c001:a023",
+        "s-82ee70afbf7a-c001:r011"
+      ],
+      "blocks": [
+        "b00038",
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a016",
+        "s-82ee70afbf7a-c001:a023",
+        "s-82ee70afbf7a-c001:r011",
+        "s-82ee70afbf7a-c002:a001"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a017",
+        "s-82ee70afbf7a-c002:a002"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a001",
+        "s-82ee70afbf7a-c002:a002"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c001:a018",
+        "s-82ee70afbf7a-c002:a003"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a004"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u006",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a005"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a006"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a007"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a008"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a009"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u011",
+      "kind": "warning",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a010"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a011"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u013",
+      "kind": "warning",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a012"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a013"
+      ],
+      "blocks": [
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a014"
+      ],
+      "blocks": [
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a015"
+      ],
+      "blocks": [
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a016"
+      ],
+      "blocks": [
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a017"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a017"
+      ],
+      "blocks": [
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a018"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u021",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a019"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u022",
+      "kind": "method",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a020"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a021"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u024",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a022"
+      ],
+      "blocks": [
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a023"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a024"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a025"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a026"
+      ],
+      "blocks": [
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u029",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a027",
+        "s-82ee70afbf7a-c002:a028"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u030",
+      "kind": "advice",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a029"
+      ],
+      "blocks": [
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u031",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a030"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u032",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a031"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u033",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c002:u034",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:a032",
+        "s-82ee70afbf7a-c002:a033"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a001"
+      ],
+      "blocks": [
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a002"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a003"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a004"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u005",
+      "kind": "condition",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a005"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u006",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a006"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a008",
+        "s-82ee70afbf7a-c003:r001"
+      ],
+      "blocks": [
+        "b00089",
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a007"
+      ],
+      "blocks": [
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a009"
+      ],
+      "blocks": [
+        "b00094",
+        "b00098",
+        "b00099"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a010"
+      ],
+      "blocks": [
+        "b00095",
+        "b00096",
+        "b00097",
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a011"
+      ],
+      "blocks": [
+        "b00100",
+        "b00101"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a012"
+      ],
+      "blocks": [
+        "b00102"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a013"
+      ],
+      "blocks": [
+        "b00102",
+        "b00103",
+        "b00104"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a014"
+      ],
+      "blocks": [
+        "b00104",
+        "b00106",
+        "b00107"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a015"
+      ],
+      "blocks": [
+        "b00105",
+        "b00106",
+        "b00107"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a016"
+      ],
+      "blocks": [
+        "b00109"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:r002"
+      ],
+      "blocks": [
+        "b00108",
+        "b00109"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a017",
+        "s-82ee70afbf7a-c003:r003"
+      ],
+      "blocks": [
+        "b00110",
+        "b00111",
+        "b00112",
+        "b00113",
+        "b00114"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u019",
+      "kind": "condition",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a018"
+      ],
+      "blocks": [
+        "b00111",
+        "b00112"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a019"
+      ],
+      "blocks": [
+        "b00114",
+        "b00115",
+        "b00116"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c003:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a020"
+      ],
+      "blocks": [
+        "b00117",
+        "b00118",
+        "b00119",
+        "b00120"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c003:a021"
+      ],
+      "blocks": [
+        "b00121",
+        "b00122"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:a002"
+      ],
+      "blocks": [
+        "b00123",
+        "b00124",
+        "b00125",
+        "b00126",
+        "b00127"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:a003"
+      ],
+      "blocks": [
+        "b00130",
+        "b00131",
+        "b00132"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:a004"
+      ],
+      "blocks": [
+        "b00132",
+        "b00133"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:a005"
+      ],
+      "blocks": [
+        "b00133",
+        "b00134",
+        "b00135"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:a006"
+      ],
+      "blocks": [
+        "b00135",
+        "b00136"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:a007"
+      ],
+      "blocks": [
+        "b00136",
+        "b00137",
+        "b00138",
+        "b00139",
+        "b00140",
+        "b00141",
+        "b00142",
+        "b00143"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:r001"
+      ],
+      "blocks": [
+        "b00142"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:a008"
+      ],
+      "blocks": [
+        "b00138",
+        "b00139",
+        "b00140",
+        "b00141"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:a009"
+      ],
+      "blocks": [
+        "b00144",
+        "b00145"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:a010"
+      ],
+      "blocks": [
+        "b00145",
+        "b00146"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:a011"
+      ],
+      "blocks": [
+        "b00146",
+        "b00147",
+        "b00148",
+        "b00149"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:a012"
+      ],
+      "blocks": [
+        "b00149",
+        "b00150",
+        "b00151",
+        "b00152"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:a013"
+      ],
+      "blocks": [
+        "b00152",
+        "b00153",
+        "b00154",
+        "b00155",
+        "b00156",
+        "b00157",
+        "b00158"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:a014"
+      ],
+      "blocks": [
+        "b00158",
+        "b00159",
+        "b00160",
+        "b00161",
+        "b00162"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:r002"
+      ],
+      "blocks": [
+        "b00159"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c004:r003"
+      ],
+      "blocks": [
+        "b00159",
+        "b00160"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c004:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a001"
+      ],
+      "blocks": [
+        "b00161",
+        "b00162"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u001",
+      "kind": "question",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:v2-n002"
+      ],
+      "blocks": [
+        "b00163"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a002"
+      ],
+      "blocks": [
+        "b00164",
+        "b00165"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a003",
+        "s-82ee70afbf7a-c005:r002"
+      ],
+      "blocks": [
+        "b00165",
+        "b00166",
+        "b00167"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:r002"
+      ],
+      "blocks": [
+        "b00167"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a004"
+      ],
+      "blocks": [
+        "b00168",
+        "b00169"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a005"
+      ],
+      "blocks": [
+        "b00170",
+        "b00171",
+        "b00172",
+        "b00173"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a006"
+      ],
+      "blocks": [
+        "b00172"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:r001"
+      ],
+      "blocks": [
+        "b00173",
+        "b00174"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a007"
+      ],
+      "blocks": [
+        "b00174",
+        "b00175"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a005"
+      ],
+      "blocks": [
+        "b00175",
+        "b00176"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a008"
+      ],
+      "blocks": [
+        "b00176",
+        "b00177",
+        "b00178",
+        "b00179"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:v2-n001"
+      ],
+      "blocks": [
+        "b00177"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a009"
+      ],
+      "blocks": [
+        "b00179"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a010"
+      ],
+      "blocks": [
+        "b00180",
+        "b00182"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a011"
+      ],
+      "blocks": [
+        "b00180",
+        "b00181",
+        "b00182",
+        "b00184"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a012"
+      ],
+      "blocks": [
+        "b00182",
+        "b00183"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u017",
+      "kind": "question",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:v2-n003"
+      ],
+      "blocks": [
+        "b00184"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a014"
+      ],
+      "blocks": [
+        "b00185"
+      ]
+    },
+    {
+      "id": "s-82ee70afbf7a-c005:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:a013"
+      ],
+      "blocks": [
+        "b00186",
+        "b00187"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "妈妈焦虑的四个根源与表面原因",
+      "atom_ids": [
+        "s-82ee70afbf7a-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-82ee70afbf7a",
+          "blocks": [
+            "b00079",
+            "b00080"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "summary"
+    },
+    {
+      "title": "团体焦虑辅导中爸爸焦虑打孩子案例",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-82ee70afbf7a",
+          "blocks": [
+            "b00177"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "学员提问未获答复：朋友冲突如何暗示",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-82ee70afbf7a",
+          "blocks": [
+            "b00163"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "unanswered_question"
+    },
+    {
+      "title": "学员提问未获直接答复：情感连接改善孩子哪方面",
+      "atom_ids": [
+        "s-82ee70afbf7a-c005:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-82ee70afbf7a",
+          "blocks": [
+            "b00184"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "unanswered_question"
+    }
+  ]
+}

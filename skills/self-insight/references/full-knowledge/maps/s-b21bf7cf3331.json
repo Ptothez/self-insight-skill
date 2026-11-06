@@ -1,0 +1,689 @@
+{
+  "concepts": [
+    {
+      "name": "情绪敏感性",
+      "definition": "孩子对各种情况做出情绪反应的难易程度，包括是否容易呈现情绪反应、反应是否过度、情绪有多敏感。",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a001",
+        "s-b21bf7cf3331-c001:a002",
+        "s-b21bf7cf3331-c001:a005",
+        "s-b21bf7cf3331-c001:a006",
+        "s-b21bf7cf3331-c001:r001"
+      ]
+    },
+    {
+      "name": "自我情绪敏感度",
+      "definition": "对自己的感受的敏感度，表现为对自己的感受非常敏感、对事物的感受深刻，或根本不太知道自己的感受。",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a002",
+        "s-b21bf7cf3331-c001:a003",
+        "s-b21bf7cf3331-c001:a005",
+        "s-b21bf7cf3331-c001:a008",
+        "s-b21bf7cf3331-c001:r002"
+      ]
+    },
+    {
+      "name": "他人情绪敏感度",
+      "definition": "对他人感受的敏感度，表现为非常关注其他人正在发生的事情，或对他人情绪不敏感。",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a002",
+        "s-b21bf7cf3331-c001:a004",
+        "s-b21bf7cf3331-c001:a005",
+        "s-b21bf7cf3331-c001:a009",
+        "s-b21bf7cf3331-c001:a010"
+      ]
+    },
+    {
+      "name": "同理心",
+      "definition": "孩子能否与别人有情绪连接，能否进入别人的内心，是孩子最重要的能力之一。",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a011"
+      ]
+    },
+    {
+      "name": "过度沮丧",
+      "definition": "孩子受到批评或负面评价后，无法从沮丧中恢复，例如整个下午都躲着不出来玩，而不是短暂沮丧后重新开始活动。",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a008",
+        "s-b21bf7cf3331-c001:r003"
+      ]
+    },
+    {
+      "name": "情绪词汇学习",
+      "definition": "将情绪词汇贴在显眼地方，和孩子一起背诵，以便在需要时使用。",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a018"
+      ]
+    },
+    {
+      "name": "敏感度平衡引导",
+      "definition": "通过提问帮助孩子平衡对自己和对他人的情绪敏感度，如“如果你在他的角色，你会感觉怎么样？”或“如果是你在这件事情当中，你觉得你会有什么样的感受？”",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a016",
+        "s-b21bf7cf3331-c001:r005"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-b21bf7cf3331-c001:a001",
+      "target": "s-b21bf7cf3331-c001:a002",
+      "kind": "supports",
+      "condition": "情绪敏感性定义包含两个衡量尺度。",
+      "reason": "“情绪敏感性的定义”作为总体概念，支持“情绪敏感性的两个衡量尺度”作为其具体化维度。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a002",
+      "target": "s-b21bf7cf3331-c001:a003",
+      "kind": "supports",
+      "condition": "自我情绪敏感度是衡量尺度之一",
+      "reason": "a002提出两个尺度，a003描述自我敏感度的表现差异。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a002",
+      "target": "s-b21bf7cf3331-c001:a004",
+      "kind": "supports",
+      "condition": "他人情绪敏感度是衡量尺度之一。",
+      "reason": "“情绪敏感性的两个衡量尺度”包括对他人敏感度，“对他人情绪敏感度的表现差异”描述了该尺度的具体表现，是对前者的支撑。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a003",
+      "target": "s-b21bf7cf3331-c001:a005",
+      "kind": "supports",
+      "condition": "自我与他人敏感度可以独立变化",
+      "reason": "a003和a004分别描述自我和他人敏感度的差异，a005总结组合可能性。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a004",
+      "target": "s-b21bf7cf3331-c001:a005",
+      "kind": "association",
+      "condition": "自我与他人敏感度可以独立变化。",
+      "reason": "“对他人情绪敏感度的表现差异”仅描述他人敏感度，不足以单独支持“自我与他人敏感度的组合”，因为组合还需自我敏感度差异的信息，故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "支持不充分，改为关联。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a005",
+      "target": "s-b21bf7cf3331-c001:a006",
+      "kind": "association",
+      "condition": "两者同属情绪敏感性个体差异的说明",
+      "reason": "自我与他人敏感度的组合说明个体差异，但并未直接证明情绪敏感性是中性特质；中性特质命题与组合差异相关但不能由后者支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系过强，改为关联。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a006",
+      "target": "s-b21bf7cf3331-c001:r001",
+      "kind": "supports",
+      "condition": "情绪敏感性如同天生特质且中性",
+      "reason": "情绪敏感性是中性特质且类似身高体型肤色的天生特质，直接支持个体差异类比以及父母不应强行改变。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "维持支持关系。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a008",
+      "target": "s-b21bf7cf3331-c001:r002",
+      "kind": "association",
+      "condition": "测量自我情绪敏感度时需根据年龄调整",
+      "reason": "测量问题中包含需按年龄判断的要求，年龄调整的标准详细说明了该要求，两者紧密关联但不构成方向性支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原applies_to改为关联。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a008",
+      "target": "s-b21bf7cf3331-c001:r003",
+      "kind": "association",
+      "condition": "问题4中过度沮丧的判断标准",
+      "reason": "测量问题4提到过度沮丧，过度沮丧的判断标准为其提供具体说明，两者关联但不构成支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原applies_to改为关联。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a010",
+      "target": "s-b21bf7cf3331-c001:a009",
+      "kind": "example_of",
+      "condition": "问题1：孩子能很快注意到他人情绪",
+      "reason": "孩子注意到父母吵架后的情绪是测量他人情绪敏感度问题1的具体实例，方向应为案例指向测量问题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反转，改为示例关系。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a011",
+      "target": "s-b21bf7cf3331-c001:a009",
+      "kind": "association",
+      "condition": "同理心与对他人情绪敏感度相关",
+      "reason": "同理心重要性涉及情绪连接能力，测量对他人情绪敏感度涉及同理心表现，两者相关但前者不能直接支持后者的测量内容。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系改为关联。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a012",
+      "target": "s-b21bf7cf3331-c001:a013",
+      "kind": "supports",
+      "condition": "敏感特质与职业表现的关系",
+      "reason": "a012描述情绪敏感孩子的表现，a013说明敏感的人成年后在心理辅导等职业表现出色。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a012",
+      "target": "s-b21bf7cf3331-c001:a014",
+      "kind": "contrasts",
+      "condition": "不敏感特质与职业表现的关系",
+      "reason": "a012描述敏感孩子的表现，a014说明不敏感孩子可能更适合需要专注的职业，形成对比。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a016",
+      "target": "s-b21bf7cf3331-c001:a015",
+      "kind": "step_of",
+      "condition": "帮助平衡自我与他人敏感度",
+      "reason": "引导孩子平衡自我与他人敏感度的方法是父母应对原则中第7条的具体做法，应作为原则的步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反转，保持步骤关系。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a017",
+      "target": "s-b21bf7cf3331-c001:a015",
+      "kind": "step_of",
+      "condition": "引导用准确词语表达感受",
+      "reason": "引导孩子用准确词语表达感受的方法是父母应对原则中第8条的具体做法，应作为原则的步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反转，保持步骤关系。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a018",
+      "target": "s-b21bf7cf3331-c001:a015",
+      "kind": "step_of",
+      "condition": "学习情绪词汇支持准确表达",
+      "reason": "学习情绪词汇的方法是父母应对原则中引导准确表达的具体做法之一，应作为原则的步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反转，保持步骤关系。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a019",
+      "target": "s-b21bf7cf3331-c001:a015",
+      "kind": "step_of",
+      "condition": "了解自己敏感度并磨合",
+      "reason": "父母与孩子磨合敏感度差异是父母应对原则中第9条的具体做法，应作为原则的步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反转，保持步骤关系。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a020",
+      "target": "s-b21bf7cf3331-c001:a015",
+      "kind": "step_of",
+      "condition": "在日常活动中分享感受",
+      "reason": "在日常活动中分享感受是父母应对原则中第10条的具体做法，应作为原则的步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反转，保持步骤关系。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a016",
+      "target": "s-b21bf7cf3331-c001:r005",
+      "kind": "association",
+      "condition": "内容重复",
+      "reason": "平衡自我与他人敏感度的具体引导与引导孩子平衡自我与他人敏感度的方法内容几乎相同，仅表述重复，不构成支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系改为关联。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a017",
+      "target": "s-b21bf7cf3331-c001:a018",
+      "kind": "supports",
+      "condition": "提供情绪词汇与学习情绪词汇",
+      "reason": "a017在情绪激动时提供情绪词汇，a018建议背诵情绪词汇，两者都帮助孩子掌握情绪词汇。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a019",
+      "target": "s-b21bf7cf3331-c001:a015",
+      "kind": "step_of",
+      "condition": "了解自己敏感度并磨合",
+      "reason": "父母与孩子磨合敏感度差异是父母应对原则中第9条的具体做法，而非对原则整体的支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系改为步骤关系。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:a020",
+      "target": "s-b21bf7cf3331-c001:a015",
+      "kind": "step_of",
+      "condition": "在日常活动中分享感受",
+      "reason": "在日常活动中分享感受是父母应对原则中第10条的具体做法，而非对原则整体的支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系改为步骤关系。"
+    },
+    {
+      "source": "s-b21bf7cf3331-c001:r004",
+      "target": "s-b21bf7cf3331-c001:a015",
+      "kind": "supports",
+      "condition": "",
+      "reason": "《监控情绪化话题接触的具体做法》提供了第6条原则的具体执行方式，支持《父母应对情绪敏感性的原则》中监控情绪化话题接触的策略。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不成立，改为 supports。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "自我修养",
+      "when": "父母应对孩子情绪敏感性时，需要理解情绪知识并调整自身态度和行为",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a015",
+        "s-b21bf7cf3331-c001:a019"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "内在能力",
+      "when": "理解情绪敏感性有助于培养孩子的同理心等内在能力",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "父母需要监控孩子接触情绪化话题，设置界限以保护高度敏感的孩子",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:r004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "阶段与角色",
+      "when": "情绪敏感性特质在不同年龄阶段和职业角色中有不同表现和优势",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a013",
+        "s-b21bf7cf3331-c001:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a016",
+        "s-b21bf7cf3331-c001:r005"
+      ],
+      "reason": "两者内容完全相同，都是平衡自我与他人敏感度的引导方法，包括相同的提问语句和适用条件。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "父母应对孩子情绪敏感性的方法",
+      "steps": [
+        {
+          "action": "了解情绪敏感性是天生特质，无好坏",
+          "atom_ids": [
+            "s-b21bf7cf3331-c001:a006",
+            "s-b21bf7cf3331-c001:r001"
+          ],
+          "condition": "父母需要先建立正确认知"
+        },
+        {
+          "action": "测量孩子对自我和他人情绪的敏感度",
+          "atom_ids": [
+            "s-b21bf7cf3331-c001:a008",
+            "s-b21bf7cf3331-c001:a009",
+            "s-b21bf7cf3331-c001:r002",
+            "s-b21bf7cf3331-c001:r003"
+          ],
+          "condition": "根据孩子年龄进行测量"
+        },
+        {
+          "action": "拒绝贴标签，使用描述性积极词语引导",
+          "atom_ids": [
+            "s-b21bf7cf3331-c001:a015"
+          ],
+          "condition": "避免负面抱怨"
+        },
+        {
+          "action": "接纳孩子气质，用支持性言语鼓励",
+          "atom_ids": [
+            "s-b21bf7cf3331-c001:a015"
+          ],
+          "condition": "帮助孩子欣赏自己的气质"
+        },
+        {
+          "action": "监控孩子接触情绪化话题的场景",
+          "atom_ids": [
+            "s-b21bf7cf3331-c001:a015",
+            "s-b21bf7cf3331-c001:r004"
+          ],
+          "condition": "适用于高度情绪敏感的孩子"
+        },
+        {
+          "action": "帮助孩子平衡对自己和对他人的情绪敏感度",
+          "atom_ids": [
+            "s-b21bf7cf3331-c001:a016",
+            "s-b21bf7cf3331-c001:r005"
+          ],
+          "condition": "当孩子自我与他人敏感度不平衡时"
+        },
+        {
+          "action": "引导孩子用更准确的词语表达感受",
+          "atom_ids": [
+            "s-b21bf7cf3331-c001:a017",
+            "s-b21bf7cf3331-c001:a018"
+          ],
+          "condition": "孩子情绪激动或表达不清时"
+        },
+        {
+          "action": "了解自己的敏感度并与孩子磨合",
+          "atom_ids": [
+            "s-b21bf7cf3331-c001:a019"
+          ],
+          "condition": "父母与孩子敏感度不同时"
+        },
+        {
+          "action": "在日常活动中分享感受和情绪",
+          "atom_ids": [
+            "s-b21bf7cf3331-c001:a020"
+          ],
+          "condition": "帮助孩子识别和谈论感受"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-b21bf7cf3331-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a002"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a003"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a004"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a005"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a006",
+        "s-b21bf7cf3331-c001:r001"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a007"
+      ],
+      "blocks": [
+        "b00010",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0008",
+      "kind": "method",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a008",
+        "s-b21bf7cf3331-c001:r002",
+        "s-b21bf7cf3331-c001:r003"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a009"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0010",
+      "kind": "case",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a010"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a011"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a012"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a013"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a014"
+      ],
+      "blocks": [
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0015",
+      "kind": "method",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a015"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0016",
+      "kind": "method",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a015"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0017",
+      "kind": "method",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a015"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0018",
+      "kind": "method",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a015",
+        "s-b21bf7cf3331-c001:r004"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0019",
+      "kind": "method",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a015",
+        "s-b21bf7cf3331-c001:a016"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0020",
+      "kind": "method",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a015",
+        "s-b21bf7cf3331-c001:a017"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0021",
+      "kind": "method",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a018"
+      ],
+      "blocks": [
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0022",
+      "kind": "method",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a019"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-b21bf7cf3331-c001:u0023",
+      "kind": "method",
+      "atom_ids": [
+        "s-b21bf7cf3331-c001:a020"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

@@ -1,0 +1,676 @@
+{
+  "concepts": [
+    {
+      "name": "爱的五种语言",
+      "definition": "表达爱的五种方式：鼓励的语言、身体的接触、用心的礼物、高质量的陪伴和提供帮助。",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a003"
+      ]
+    },
+    {
+      "name": "鼓励的语言",
+      "definition": "通过言语表达鼓励和肯定。",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a004"
+      ]
+    },
+    {
+      "name": "身体的接触",
+      "definition": "包括拥抱、亲吻、抚摸等身体接触行为。",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a005"
+      ]
+    },
+    {
+      "name": "用心的礼物",
+      "definition": "通过观察和了解对方需求后赠送的礼物，而非随意赠送。",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a006"
+      ]
+    },
+    {
+      "name": "高质量的陪伴",
+      "definition": "花时间、关掉手机、专注地与对方共度愉快时光。",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a007"
+      ]
+    },
+    {
+      "name": "提供帮助",
+      "definition": "在对方需要时主动为对方做事，如帮忙洗碗等。",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a008"
+      ]
+    },
+    {
+      "name": "爱的语言测试方法",
+      "definition": "通过一系列选择题测试个人主要的爱的语言，统计各选项出现次数，最多的即为个人主要爱的语言。",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a009"
+      ]
+    },
+    {
+      "name": "爱的语言测试题目",
+      "definition": "测试包含多道选择题，每题两个选项，分别对应爱的五种语言。",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a010"
+      ]
+    },
+    {
+      "name": "父母爱孩子与孩子感受到爱是两回事",
+      "definition": "父母可能付出一切甚至生命去爱孩子，但孩子可能从心底感受不到这种爱，甚至产生怨恨和缺失感。",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a001",
+        "s-07148dfa8e6f-c001:r001"
+      ]
+    },
+    {
+      "name": "孩子感受不到爱的原因",
+      "definition": "父母给予的爱与孩子需要的爱不匹配，父母沿用孩子小时候的方式表达爱，而孩子在不同年龄阶段需要不同的爱。",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a002",
+        "s-07148dfa8e6f-c001:r002"
+      ]
+    },
+    {
+      "name": "父母等感谢与孩子等道歉的错位",
+      "definition": "父母在等孩子一句感谢，而孩子在等父母一句道歉，这种错位源于父母给予的爱不是孩子需要的爱。",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:r003"
+      ]
+    },
+    {
+      "name": "精准给予孩子所需爱的方法",
+      "definition": "从科学角度了解孩子每个年龄阶段需要的爱，精准给予，使付出事半功倍，孩子也因得到准确的爱而更幸福。",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:r004"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-07148dfa8e6f-c001:a001",
+      "target": "s-07148dfa8e6f-c001:a002",
+      "kind": "supports",
+      "condition": "当父母给予的爱与孩子需要的爱不匹配时",
+      "reason": "孩子感受不到爱的原因解释了父母爱孩子与孩子感受到爱是两回事这一命题，提供了原因支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 不在允许范围，改为 supports。"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a002",
+      "target": "s-07148dfa8e6f-c001:r003",
+      "kind": "association",
+      "condition": "当父母给予的爱不是孩子需要的爱时",
+      "reason": "父母等感谢与孩子等道歉的错位与孩子感受不到爱的原因相关，错位是不匹配的一种表现，但原因果类型不允许，故归为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 不在允许范围，且未达严格因果，改为 association。"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a002",
+      "target": "s-07148dfa8e6f-c001:r004",
+      "kind": "supports",
+      "condition": "当父母了解孩子每个年龄阶段需要的爱时",
+      "reason": "孩子感受不到父母的爱是因为父母给予的爱与孩子需要的爱不匹配；精准给予孩子所需爱的方法通过了解每个年龄阶段需要的爱来匹配，因此该方法可以解决不匹配问题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立，方法回应原因。"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a003",
+      "target": "s-07148dfa8e6f-c001:a004",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "鼓励的语言是爱的五种语言之一。"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a003",
+      "target": "s-07148dfa8e6f-c001:a005",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "身体的接触是爱的五种语言之一。"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a003",
+      "target": "s-07148dfa8e6f-c001:a006",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "用心的礼物是爱的五种语言之一。"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a003",
+      "target": "s-07148dfa8e6f-c001:a007",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "高质量的陪伴是爱的五种语言之一。"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a003",
+      "target": "s-07148dfa8e6f-c001:a008",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "提供帮助是爱的五种语言之一。"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a009",
+      "target": "s-07148dfa8e6f-c001:a010",
+      "kind": "supports",
+      "condition": "",
+      "reason": "爱的语言测试方法说明测试采用选择题形式，爱的语言测试题目提供了具体的选择题内容，后者是前者的具体化，因此前者支持后者的存在。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "概括支持具体。"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a009",
+      "target": "s-07148dfa8e6f-c001:a003",
+      "kind": "association",
+      "condition": "",
+      "reason": "爱的语言测试方法用于测试个人主要的爱的语言，而爱的五种语言是测试的基础，但测试方法不直接支持五种语言的命题，故用关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind applies_to 改为 association。"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:v2-n001",
+      "target": "s-07148dfa8e6f-c001:r002",
+      "kind": "association",
+      "condition": "当孩子年龄增长时",
+      "reason": "source 提出原则（年龄不同角色不同，表达爱方式应不同），candidate 描述父母沿用旧方式导致孩子感受不到爱，是 source 原则的反面例证，但未明确因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:r002",
+      "target": "s-07148dfa8e6f-c001:v2-n001",
+      "kind": "association",
+      "condition": "当孩子年龄增长时",
+      "reason": "source 提出原则（年龄不同角色不同，表达爱方式应不同），candidate 描述父母沿用旧方式导致孩子感受不到爱，是 source 原则的反面例证，但未明确因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:v2-n001",
+      "target": "s-07148dfa8e6f-c001:a002",
+      "kind": "association",
+      "condition": "当孩子感受不到爱时",
+      "reason": "candidate 是 source 原则的具体解释，即因为父母给予的爱与孩子需要的爱不匹配（年龄变化导致），两者关联但非直接前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a002",
+      "target": "s-07148dfa8e6f-c001:v2-n001",
+      "kind": "association",
+      "condition": "当孩子感受不到爱时",
+      "reason": "candidate 是 source 原则的具体解释，即因为父母给予的爱与孩子需要的爱不匹配（年龄变化导致），两者关联但非直接前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:v2-n001",
+      "target": "s-07148dfa8e6f-c001:r004",
+      "kind": "association",
+      "condition": "当父母希望精准表达爱时",
+      "reason": "source 提出需要不同方式，candidate 给出精准给予所需爱的方法，是 source 原则的应用，但未具体化年龄段。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:r004",
+      "target": "s-07148dfa8e6f-c001:v2-n001",
+      "kind": "association",
+      "condition": "当父母希望精准表达爱时",
+      "reason": "source 提出需要不同方式，candidate 给出精准给予所需爱的方法，是 source 原则的应用，但未具体化年龄段。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:v2-n001",
+      "target": "s-07148dfa8e6f-c001:r003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 描述父母等感谢与孩子等道歉的错位，是 source 原则可能导致的一种现象，但无直接说明。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:r003",
+      "target": "s-07148dfa8e6f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 描述父母等感谢与孩子等道歉的错位，是 source 原则可能导致的一种现象，但无直接说明。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:v2-n001",
+      "target": "s-07148dfa8e6f-c001:r001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "类似 r002，是父母付出与孩子感受矛盾的描述，与 source 原则相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:r001",
+      "target": "s-07148dfa8e6f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "类似 r002，是父母付出与孩子感受矛盾的描述，与 source 原则相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:v2-n001",
+      "target": "s-07148dfa8e6f-c001:a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 强调父母爱与孩子感受到爱是两回事，与 source 的年龄角色因素相关，但更多是感受层面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a001",
+      "target": "s-07148dfa8e6f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 强调父母爱与孩子感受到爱是两回事，与 source 的年龄角色因素相关，但更多是感受层面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:v2-n001",
+      "target": "s-07148dfa8e6f-c001:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "鼓励的语言是爱的语言之一，source 讲表达爱的方式因年龄而异，但未涉及具体语言类型，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a004",
+      "target": "s-07148dfa8e6f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "鼓励的语言是爱的语言之一，source 讲表达爱的方式因年龄而异，但未涉及具体语言类型，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:v2-n001",
+      "target": "s-07148dfa8e6f-c001:a008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "提供帮助是爱的语言之一，与 source 关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a008",
+      "target": "s-07148dfa8e6f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "提供帮助是爱的语言之一，与 source 关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:v2-n001",
+      "target": "s-07148dfa8e6f-c001:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "身体接触是爱的语言之一，与 source 关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a005",
+      "target": "s-07148dfa8e6f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "身体接触是爱的语言之一，与 source 关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:v2-n001",
+      "target": "s-07148dfa8e6f-c001:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "爱的五种语言是具体表达方式，source 强调方式因年龄不同，但未指定哪一种，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a003",
+      "target": "s-07148dfa8e6f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "爱的五种语言是具体表达方式，source 强调方式因年龄不同，但未指定哪一种，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:v2-n001",
+      "target": "s-07148dfa8e6f-c001:a007",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "高质量陪伴是爱的语言之一，与 source 关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a007",
+      "target": "s-07148dfa8e6f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "高质量陪伴是爱的语言之一，与 source 关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:v2-n001",
+      "target": "s-07148dfa8e6f-c001:a006",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "用心的礼物是爱的语言之一，与 source 关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07148dfa8e6f-c001:a006",
+      "target": "s-07148dfa8e6f-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "用心的礼物是爱的语言之一，与 source 关联弱。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "阶段与角色",
+      "when": "当父母需要理解孩子在不同年龄阶段对爱的需求时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a001",
+        "s-07148dfa8e6f-c001:a002",
+        "s-07148dfa8e6f-c001:r002",
+        "s-07148dfa8e6f-c001:r004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我认知",
+      "when": "当个人通过测试了解自己的主要爱的语言时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a003",
+        "s-07148dfa8e6f-c001:a009",
+        "s-07148dfa8e6f-c001:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a003"
+      ],
+      "reason": "内容完全一致，都是描述爱的五种语言分类。"
+    },
+    {
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a004"
+      ],
+      "reason": "内容完全一致，都是描述鼓励的语言。"
+    },
+    {
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a005"
+      ],
+      "reason": "内容完全一致，都是描述身体的接触。"
+    },
+    {
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a006"
+      ],
+      "reason": "内容完全一致，都是描述用心的礼物。"
+    },
+    {
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a007"
+      ],
+      "reason": "内容完全一致，都是描述高质量的陪伴。"
+    },
+    {
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a008"
+      ],
+      "reason": "内容完全一致，都是描述提供帮助。"
+    },
+    {
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a009"
+      ],
+      "reason": "内容完全一致，都是描述爱的语言测试方法。"
+    },
+    {
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a010"
+      ],
+      "reason": "内容完全一致，都是描述爱的语言测试题目。"
+    },
+    {
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a001",
+        "s-07148dfa8e6f-c001:r001"
+      ],
+      "reason": "内容完全一致，都是描述父母爱孩子与孩子感受到爱是两回事。"
+    },
+    {
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a002",
+        "s-07148dfa8e6f-c001:r002"
+      ],
+      "reason": "内容完全一致，都是描述孩子感受不到爱的原因。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "爱的语言测试流程",
+      "steps": [
+        {
+          "action": "准备纸笔。",
+          "atom_ids": [
+            "s-07148dfa8e6f-c001:a009"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "阅读每道题的两个选项。",
+          "atom_ids": [
+            "s-07148dfa8e6f-c001:a009"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "选择最想要的一个选项，记录对应字母。",
+          "atom_ids": [
+            "s-07148dfa8e6f-c001:a009"
+          ],
+          "condition": "每题只能选择一个选项，即使两个都想要也要取舍。"
+        },
+        {
+          "action": "完成所有题目后，统计各字母出现次数。",
+          "atom_ids": [
+            "s-07148dfa8e6f-c001:a009"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "出现次数最多的字母对应的爱的语言即为个人主要爱的语言。",
+          "atom_ids": [
+            "s-07148dfa8e6f-c001:a009"
+          ],
+          "condition": "无"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-07148dfa8e6f-c001:u01",
+      "kind": "concept",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a001",
+        "s-07148dfa8e6f-c001:r001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-07148dfa8e6f-c001:u02",
+      "kind": "concept",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-07148dfa8e6f-c001:u03",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a002",
+        "s-07148dfa8e6f-c001:r002"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-07148dfa8e6f-c001:u04",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:r003"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-07148dfa8e6f-c001:u05",
+      "kind": "method",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:r004"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-07148dfa8e6f-c001:u06",
+      "kind": "concept",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a003"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-07148dfa8e6f-c001:u07",
+      "kind": "concept",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a004"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-07148dfa8e6f-c001:u08",
+      "kind": "concept",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a005"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-07148dfa8e6f-c001:u09",
+      "kind": "concept",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a006"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-07148dfa8e6f-c001:u10",
+      "kind": "concept",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a007"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-07148dfa8e6f-c001:u11",
+      "kind": "concept",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a008"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-07148dfa8e6f-c001:u12",
+      "kind": "method",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a009"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-07148dfa8e6f-c001:u13",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:a010"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "孩子不同年龄，父母不同角色",
+      "atom_ids": [
+        "s-07148dfa8e6f-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-07148dfa8e6f",
+          "blocks": [
+            "b00001"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    }
+  ]
+}

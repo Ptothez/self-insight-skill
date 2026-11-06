@@ -23,7 +23,9 @@ Display names do not broaden the original scope. Parenting material is not autom
 
 ## Contents and use
 
-One router and nine modules: 88 Skill files and 477 knowledge atoms. Full methods, conditions, processes, concept relationships, case libraries, counterintuitive findings and dialogue methods are retained and loaded as needed.
+One entry point and nine modules, with 600 runtime files. The original 477 atoms, 54 knowledge and case files, and dialogue methods are preserved. The expanded library contains 13,044 structured records extracted and checked against 242 supplied texts. Search covers both layers and follows conditional links between them.
+
+Records include concepts, procedures, cases, applicability conditions and limits. Record counts are not counts of unique concepts. Original transcripts, private notes, identity mappings and internal audit material are neither distributed nor required to use the skill.
 
 Install all ten skills:
 
@@ -31,11 +33,13 @@ Install all ten skills:
 npx -y skills add Ptothez/self-insight-skill --skill '*'
 ```
 
-The installer guides you through supported agents and installation scope. Keep all ten directories together with their original names. Installation requires Node.js / npx; use requires an agent that supports skills.
+The installer guides you through supported agents and installation scope. Keep all ten directories together with their original names. Installation requires Node.js / npx; use requires an agent that supports skills. Local knowledge search uses the Python 3 standard library, with no API, account or additional Python packages. Without Python, the agent can follow the included Markdown module indexes and read the knowledge files.
 
 For example: "Use Self Insight to explore why I feel guilty after saying no." You may also specify a module. It follows facts and responses rather than a fixed number of questions. Cases are recorded only on explicit request.
 
 It answers using the included knowledge and what you share. It asks for missing facts when they matter. Original documents are needed only when you request a check against a specific source. Missing information is not invented; unanswered questions remain explicit.
+
+For example, a conversation may start with why a child's performance feels like a judgment of your worth, then move to practical responsibilities. The entry point keeps the known facts and consults Boundaries or another relevant module without restarting the story or assuming that every personal difficulty has a family cause.
 
 ## Limits
 

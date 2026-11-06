@@ -1,0 +1,1252 @@
+{
+  "concepts": [
+    {
+      "name": "罪恶感作为管教障碍",
+      "definition": "父母因平时没时间管孩子或过去管教错误而感到亏欠、内疚，从而不敢理直气壮地管教孩子。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a001"
+      ]
+    },
+    {
+      "name": "罪恶感导致放任行为",
+      "definition": "父母因罪恶感而放任孩子：孩子要什么就给什么，想做什么就做什么，生气就去哄，因为觉得孩子脾气怪、任性是自己没教好造成的。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a002"
+      ]
+    },
+    {
+      "name": "过去错误导致不敢管教",
+      "definition": "父母过去打骂孩子，孩子出现自杀或自伤行为后，父母知道做错了，现在就不敢管了。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a003"
+      ]
+    },
+    {
+      "name": "老大老二管教差异案例",
+      "definition": "有家长发现对老大的管教方式错了，对老二就完全不敢管，走向另一个极端；或者老大以前被伤害不跟父母讲话，现在关系好不容易和好，父母就完全不管，要什么给什么。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a004"
+      ]
+    },
+    {
+      "name": "打骂-内疚-不管的恶性循环",
+      "definition": "家长打孩子后感到内疚，于是后面孩子所有事情都不管，一直忍耐到下一次爆发又打孩子，然后又内疚，形成恶性循环。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a005"
+      ]
+    },
+    {
+      "name": "管教的两个极端",
+      "definition": "管教有两个错误极端：管过了（过度管教）和不管（不作为），两者都是错的。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a006"
+      ]
+    },
+    {
+      "name": "罪恶感导致讨好孩子",
+      "definition": "父母因罪恶感而哄着孩子、讨好孩子，不敢理直气壮地管教。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a007"
+      ]
+    },
+    {
+      "name": "破除罪恶感的方法：道歉和立界限",
+      "definition": "破除罪恶感的方法：第一，按照七个步骤诚恳地向孩子道歉，让孩子知道你为过去的事情深深后悔；第二，学习立界限，给孩子正确的界限并赋能。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a008"
+      ]
+    },
+    {
+      "name": "真诚道歉的具体做法",
+      "definition": "道歉时要勇敢承认错误，告诉孩子内心真实想法，一件一件说出过去做错的事情，表达深深的后悔，如“肠子都悔青了”。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a009"
+      ]
+    },
+    {
+      "name": "错误必须承认",
+      "definition": "错了的东西没有办法通过替代、逃避去掩埋，错了一定要认，这是最简单、最方便、最快速能继续对孩子产生影响的路，没有别的捷径。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a010"
+      ]
+    },
+    {
+      "name": "想跟孩子做朋友是错误想法",
+      "definition": "想要跟孩子做朋友是一件非常错误的事情，会导致父母放弃作为父母的权利，因为朋友没有权利管教朋友。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a011"
+      ]
+    },
+    {
+      "name": "想跟孩子做朋友的后果",
+      "definition": "想跟孩子做朋友会导致几个结果：第一，没有办法面对孩子的痛苦和眼泪；第二，不知道怎样解决和孩子的矛盾；第三，怕孩子跟自己不亲。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a012"
+      ]
+    },
+    {
+      "name": "希望与期待的区别",
+      "definition": "希望孩子永远没有痛苦、永远快乐、永远没有眼泪是好的，但希望不应该变成期待，更不应该变成育儿的要求。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a013"
+      ]
+    },
+    {
+      "name": "正确的育儿期待",
+      "definition": "正确的期待是：在育儿路上一定会犯错，一定会不经意伤害孩子；有时为孩子好，但孩子当时一定不快乐，会有眼泪、不理解甚至怨恨。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a014"
+      ]
+    },
+    {
+      "name": "必须忍受管教造成的眼泪和痛苦",
+      "definition": "父母要能够忍受孩子的眼泪和痛苦，有时这些眼泪和痛苦是管教造成的，但它是正确的事情。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a015"
+      ]
+    },
+    {
+      "name": "肌肉酸痛比喻",
+      "definition": "就像练习让肌肉强壮必须经历肌肉酸痛，酸痛是撕裂重组的过程；孩子成长也必须经历管教带来的眼泪和痛苦。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a016"
+      ]
+    },
+    {
+      "name": "正确与错误的眼泪痛苦",
+      "definition": "管教中应该有的眼泪和痛苦让孩子承担，这样他才能成长；但错误的眼泪和痛苦是不必要的，要尽可能避免，不能100%绝对避免。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a017"
+      ]
+    },
+    {
+      "name": "害怕与孩子矛盾",
+      "definition": "想跟孩子做朋友的父母不知道怎样解决和孩子的矛盾，孩子稍大一点有矛盾就很害怕，觉得孩子恨自己、讨厌自己。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a018"
+      ]
+    },
+    {
+      "name": "建议参加团体辅导解决矛盾",
+      "definition": "如果家长不知道怎么解决矛盾、避免冲突而不管教孩子，建议参加团体辅导，因为上课挖掘出的自身问题需要自己解决，团体项目可以帮助解决自身伤害。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a019"
+      ]
+    },
+    {
+      "name": "怕孩子跟自己不亲",
+      "definition": "有些父母自己跟父母不亲密，感到遗憾和伤害，就一定要孩子跟自己很亲，把亲子关系亲密度当作育儿成功的唯一考量，这是极度危险的事情。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a020"
+      ]
+    },
+    {
+      "name": "关系不应主导育儿",
+      "definition": "如果跟孩子的关系主导育儿，就会溺爱孩子、什么都顺着他，关系一定非常好；但管教的目的不是为了关系好，管教的结果正确才会有好的关系，好的关系是在最后的中间。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a021"
+      ]
+    },
+    {
+      "name": "管教过程中要承受怨恨",
+      "definition": "管教过程中可能有孩子恨你、不理解、怨恨，比如不让孩子吃冰激凌他就恨你，这些要能够承受。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a022"
+      ]
+    },
+    {
+      "name": "管教的目的",
+      "definition": "管教的目的不是关系好不好，而是：有没有赋能孩子；孩子离开父母后能不能独立做出正确的决定和行为；能不能在社会上成为有价值、有用、优秀的人；孩子的品格怎么样。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a023"
+      ]
+    },
+    {
+      "name": "满足孩子不等于好妈妈",
+      "definition": "孩子要什么给什么，他会说你是全世界最好的妈妈，但这不需要花钱学习、花精力、花脑子，不是管教的目的。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a024"
+      ]
+    },
+    {
+      "name": "“长大了就好”的错误想法",
+      "definition": "有些父母认为孩子还小，长大了自然就懂，不需要现在管教。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a025"
+      ]
+    },
+    {
+      "name": "朋友夫妻不管教孩子案例",
+      "definition": "讲师认识一对夫妻，坚决不管孩子，认为孩子长大了自然懂。他们的孩子在公共场合脱裤子，在家不爽就脱裤子尿尿，父母认为孩子长大绝对不会在公共场合尿尿，会自己知道害羞，所以没必要教。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a026"
+      ]
+    },
+    {
+      "name": "讲师不主动给朋友建议",
+      "definition": "讲师作为朋友，别人不问就闭嘴，因为必须有界限，不能因为自己懂就不管别人欢不欢迎都讲。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a027"
+      ]
+    },
+    {
+      "name": "小时候不管教的后果",
+      "definition": "孩子长大了以后，如果小时候没有管教引导的习惯，长大了人家不要你去管教引导，到时候父母就没办法了。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a028"
+      ]
+    },
+    {
+      "name": "破除想跟孩子做朋友的方法",
+      "definition": "破除想跟孩子做朋友的方法：第一，通过学习怎么做父母，让自己心里有底气敢用父母的权威权柄管教孩子；第二，告诉自己“我的孩子一生中有很多朋友，但只有我是他的父母”，不能丢掉父母位分。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a029"
+      ]
+    },
+    {
+      "name": "父母位分不可替代",
+      "definition": "孩子一生中有很多朋友，但只有父母是父母，不能拿最好的位分去换朋友；如果做父母引导影响孩子，孩子会爱你感激你。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a030"
+      ]
+    },
+    {
+      "name": "父母社交圈小导致孩子成朋友",
+      "definition": "有些父母在精英家庭忙碌工作，慢慢变得没有朋友，社交圈很小，最后孩子真的成了朋友，谁都不相信只相信孩子，特别是夫妻关系不好、爸爸缺席的情况。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a031"
+      ]
+    },
+    {
+      "name": "建立自己的社交团体",
+      "definition": "如果父母需要孩子做朋友，应建立自己的有效社交团体，团体应支持你、彼此鼓励；如果没有，可以报名参加讲师的团体。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a032"
+      ]
+    },
+    {
+      "name": "把孩子当心灵慰藉的后果",
+      "definition": "很多妈妈婚姻不幸福、老公不回家，把孩子当成唯一寄托，孩子长大后就各种捆绑、情绪勒索，最后两败俱伤，孩子不享受跟妈妈在一起。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a033"
+      ]
+    },
+    {
+      "name": "建立自己的生活圈子",
+      "definition": "父母不要忘记建立自己的生活圈子，生活不应该只有孩子；讲师以自己母亲为例，母亲有一群朋友到处玩，有自己生活。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a034"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-0cfa8120b7c8-c001:a001",
+      "target": "s-0cfa8120b7c8-c001:a002",
+      "kind": "causes",
+      "condition": "当父母有罪恶感时",
+      "reason": "罪恶感导致父母不敢管教，从而放任孩子。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a001",
+      "target": "s-0cfa8120b7c8-c001:a007",
+      "kind": "causes",
+      "condition": "当父母有罪恶感时",
+      "reason": "罪恶感导致父母讨好孩子。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a003",
+      "target": "s-0cfa8120b7c8-c001:a001",
+      "kind": "example_of",
+      "condition": "过去打骂孩子导致孩子自伤后",
+      "reason": "过去错误导致不敢管教，是罪恶感的一种具体表现。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a004",
+      "target": "s-0cfa8120b7c8-c001:a001",
+      "kind": "example_of",
+      "condition": "对老大管教方式错误后产生罪恶感",
+      "reason": "“老大老二管教差异案例”中对老大管教错误导致对老二不敢管，是“罪恶感作为管教障碍”的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a005",
+      "target": "s-0cfa8120b7c8-c001:a001",
+      "kind": "example_of",
+      "condition": "打骂孩子后内疚",
+      "reason": "打骂后内疚导致不管，是罪恶感的表现。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a006",
+      "target": "s-0cfa8120b7c8-c001:a002",
+      "kind": "contrasts",
+      "condition": "管教的两个极端",
+      "reason": "过度管教和不管都是错误，而罪恶感导致的放任属于不管的极端。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a008",
+      "target": "s-0cfa8120b7c8-c001:a009",
+      "kind": "step_of",
+      "condition": "破除罪恶感的第一步",
+      "reason": "道歉的具体做法是破除罪恶感方法的一部分。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a008",
+      "target": "s-0cfa8120b7c8-c001:a010",
+      "kind": "supports",
+      "condition": "道歉的必要性",
+      "reason": "错误必须承认，支持了道歉的必要性。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a011",
+      "target": "s-0cfa8120b7c8-c001:a012",
+      "kind": "causes",
+      "condition": "当父母想跟孩子做朋友时",
+      "reason": "想跟孩子做朋友导致无法面对痛苦、解决矛盾、怕不亲。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a012",
+      "target": "s-0cfa8120b7c8-c001:a018",
+      "kind": "example_of",
+      "condition": "不知道怎样解决矛盾",
+      "reason": "害怕与孩子矛盾是想跟孩子做朋友的后果之一。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a012",
+      "target": "s-0cfa8120b7c8-c001:a020",
+      "kind": "example_of",
+      "condition": "怕孩子跟自己不亲",
+      "reason": "怕孩子跟自己不亲是想跟孩子做朋友的后果之一。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a013",
+      "target": "s-0cfa8120b7c8-c001:a014",
+      "kind": "supports",
+      "condition": "希望与期待的区别",
+      "reason": "“希望与期待的区别”指出希望不应变成期待，而“正确的育儿期待”描述了应包含痛苦和眼泪的期待，前者支持后者，因为区分了不恰当的期待。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原对比关系不准确，改为支持"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a014",
+      "target": "s-0cfa8120b7c8-c001:a015",
+      "kind": "supports",
+      "condition": "正确的育儿期待",
+      "reason": "正确的期待包括眼泪和痛苦，因此父母必须忍受。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a015",
+      "target": "s-0cfa8120b7c8-c001:a016",
+      "kind": "supports",
+      "condition": "忍受痛苦的必要性",
+      "reason": "肌肉酸痛比喻支持了忍受痛苦的必要性。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a015",
+      "target": "s-0cfa8120b7c8-c001:a017",
+      "kind": "supports",
+      "condition": "区分正确与错误的痛苦",
+      "reason": "必须忍受正确的痛苦，避免错误的痛苦。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a018",
+      "target": "s-0cfa8120b7c8-c001:a019",
+      "kind": "association",
+      "condition": "当家长不知道如何解决矛盾时",
+      "reason": "“害怕与孩子矛盾”描述家长不知如何解决矛盾，与“建议参加团体辅导解决矛盾”相关，后者是针对前者的建议。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 非允许类型，改为关联"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a020",
+      "target": "s-0cfa8120b7c8-c001:a021",
+      "kind": "causes",
+      "condition": "当把亲子关系亲密度当作唯一考量时",
+      "reason": "怕孩子不亲导致关系主导育儿，从而溺爱。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a021",
+      "target": "s-0cfa8120b7c8-c001:a023",
+      "kind": "contrasts",
+      "condition": "管教的目的",
+      "reason": "关系不应主导育儿，管教的目的不是关系好。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a022",
+      "target": "s-0cfa8120b7c8-c001:a015",
+      "kind": "example_of",
+      "condition": "管教过程中孩子怨恨",
+      "reason": "怨恨是必须忍受的痛苦之一。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a023",
+      "target": "s-0cfa8120b7c8-c001:a024",
+      "kind": "contrasts",
+      "condition": "满足孩子不等于好妈妈",
+      "reason": "满足孩子不是管教的目的，管教目的是赋能和独立。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a025",
+      "target": "s-0cfa8120b7c8-c001:a026",
+      "kind": "example_of",
+      "condition": "“长大了就好”的错误想法",
+      "reason": "朋友夫妻不管教孩子是这种错误想法的案例。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a025",
+      "target": "s-0cfa8120b7c8-c001:a028",
+      "kind": "causes",
+      "condition": "如果小时候不管教",
+      "reason": "小时候不管教导致长大后无法管教。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a026",
+      "target": "s-0cfa8120b7c8-c001:a027",
+      "kind": "example_of",
+      "condition": "讲师不主动给朋友建议",
+      "reason": "讲师对朋友夫妻不管教孩子不主动建议，体现界限。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a029",
+      "target": "s-0cfa8120b7c8-c001:a030",
+      "kind": "supports",
+      "condition": "破除想跟孩子做朋友的方法",
+      "reason": "“破除想跟孩子做朋友的方法”中包含“父母位分不可替代”这一观点，因此支持“父母位分不可替代”的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a031",
+      "target": "s-0cfa8120b7c8-c001:a032",
+      "kind": "causes",
+      "condition": "当父母社交圈小导致孩子成朋友时",
+      "reason": "社交圈小导致孩子成朋友，因此需要建立自己的社交团体。"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a033",
+      "target": "s-0cfa8120b7c8-c001:a034",
+      "kind": "supports",
+      "condition": "当把孩子当心灵慰藉时",
+      "reason": "“把孩子当心灵慰藉的后果”表明其不良后果，支持“建立自己的生活圈子”的必要性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 非允许类型，改为支持"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:v2-n001",
+      "target": "s-0cfa8120b7c8-c001:a029",
+      "kind": "association",
+      "condition": "适用想跟孩子做朋友的父母",
+      "reason": "a029 提供了破除想跟孩子做朋友的方法（学做父母获得底气），与 source 的原因相关，但 source 是原因，a029 是方法，无直接互补或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a029",
+      "target": "s-0cfa8120b7c8-c001:v2-n001",
+      "kind": "association",
+      "condition": "适用想跟孩子做朋友的父母",
+      "reason": "a029 提供了破除想跟孩子做朋友的方法（学做父母获得底气），与 source 的原因相关，但 source 是原因，a029 是方法，无直接互补或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:v2-n001",
+      "target": "s-0cfa8120b7c8-c001:a011",
+      "kind": "association",
+      "condition": "适用想跟孩子做朋友的父母",
+      "reason": "a011 断言想跟孩子做朋友是错误想法，与 source 解释原因相关联，但未形成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a011",
+      "target": "s-0cfa8120b7c8-c001:v2-n001",
+      "kind": "association",
+      "condition": "适用想跟孩子做朋友的父母",
+      "reason": "a011 断言想跟孩子做朋友是错误想法，与 source 解释原因相关联，但未形成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:v2-n001",
+      "target": "s-0cfa8120b7c8-c001:a012",
+      "kind": "association",
+      "condition": "适用想跟孩子做朋友的父母",
+      "reason": "a012 描述想跟孩子做朋友的后果，与 source 原因相关，但属于不同方面，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a012",
+      "target": "s-0cfa8120b7c8-c001:v2-n001",
+      "kind": "association",
+      "condition": "适用想跟孩子做朋友的父母",
+      "reason": "a012 描述想跟孩子做朋友的后果，与 source 原因相关，但属于不同方面，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:v2-n001",
+      "target": "s-0cfa8120b7c8-c001:a031",
+      "kind": "association",
+      "condition": "不同原因：source 不懂做父母，target 社交圈小",
+      "reason": "两者都是导致想跟孩子做朋友的原因，但具体原因不同，无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a031",
+      "target": "s-0cfa8120b7c8-c001:v2-n001",
+      "kind": "association",
+      "condition": "不同原因：source 不懂做父母，target 社交圈小",
+      "reason": "两者都是导致想跟孩子做朋友的原因，但具体原因不同，无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:v2-n001",
+      "target": "s-0cfa8120b7c8-c001:v2-n002",
+      "kind": "association",
+      "condition": "target 是关于社交圈小导致孩子成朋友的频率估计",
+      "reason": "source 涉及一个原因，target 提供另一个原因的频率数据，关联较弱，仅同属主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:v2-n002",
+      "target": "s-0cfa8120b7c8-c001:v2-n001",
+      "kind": "association",
+      "condition": "target 是关于社交圈小导致孩子成朋友的频率估计",
+      "reason": "source 涉及一个原因，target 提供另一个原因的频率数据，关联较弱，仅同属主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:v2-n001",
+      "target": "s-0cfa8120b7c8-c001:a030",
+      "kind": "association",
+      "condition": "强调父母位分不可替代",
+      "reason": "a030 强调父母位分不可替代，与 source 中父母不懂做父母形成呼应，但无直接因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a030",
+      "target": "s-0cfa8120b7c8-c001:v2-n001",
+      "kind": "association",
+      "condition": "强调父母位分不可替代",
+      "reason": "a030 强调父母位分不可替代，与 source 中父母不懂做父母形成呼应，但无直接因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:v2-n002",
+      "target": "s-0cfa8120b7c8-c001:a031",
+      "kind": "association",
+      "condition": "适用于估计的特定现象",
+      "reason": "Source 为 a031 描述的现象提供了一个未经数据验证的频率估计（40%-45%），两者相关，但 source 不确定，故标记 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:a031",
+      "target": "s-0cfa8120b7c8-c001:v2-n002",
+      "kind": "association",
+      "condition": "适用于估计的特定现象",
+      "reason": "Source 为 a031 描述的现象提供了一个未经数据验证的频率估计（40%-45%），两者相关，但 source 不确定，故标记 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:v2-n002",
+      "target": "s-0cfa8120b7c8-c001:v2-n001",
+      "kind": "association",
+      "condition": "同为想跟孩子做朋友主题",
+      "reason": "v2-n001 解释想跟孩子做朋友的原因之一（不懂做父母），与 source 估计的另一个原因（社交圈小）相关，但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0cfa8120b7c8-c001:v2-n001",
+      "target": "s-0cfa8120b7c8-c001:v2-n002",
+      "kind": "association",
+      "condition": "同为想跟孩子做朋友主题",
+      "reason": "v2-n001 解释想跟孩子做朋友的原因之一（不懂做父母），与 source 估计的另一个原因（社交圈小）相关，但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "当父母因罪恶感而不敢管教时，需要学习立界限并采取正确的管教行动。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a008",
+        "s-0cfa8120b7c8-c001:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "当父母想跟孩子做朋友而无法面对孩子的痛苦和眼泪时，需要理解情绪并忍受管教造成的痛苦。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a012",
+        "s-0cfa8120b7c8-c001:a015"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "当父母因社交圈小或婚姻问题而把孩子当朋友或心灵慰藉时，需要建立自己的社交团体和生活圈子。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a031",
+        "s-0cfa8120b7c8-c001:a032",
+        "s-0cfa8120b7c8-c001:a033",
+        "s-0cfa8120b7c8-c001:a034"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "阶段与角色",
+      "when": "当父母认为孩子长大了自然懂而不管教时，需要认识到小时候不管教的后果并坚持父母位分。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a025",
+        "s-0cfa8120b7c8-c001:a028",
+        "s-0cfa8120b7c8-c001:a030"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "规则与行动",
+      "when": "当父母需要忍受管教造成的眼泪和痛苦时，需要坚持管教的目的（赋能、独立等）。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a015",
+        "s-0cfa8120b7c8-c001:a023"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a013"
+      ],
+      "reason": "内容完全相同，均为希望与期待的区别。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a014"
+      ],
+      "reason": "内容完全相同，均为正确的育儿期待。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a015"
+      ],
+      "reason": "内容完全相同，均为必须忍受管教造成的眼泪和痛苦。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a016"
+      ],
+      "reason": "内容完全相同，均为肌肉酸痛比喻。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a017"
+      ],
+      "reason": "内容完全相同，均为正确与错误的眼泪痛苦。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a018"
+      ],
+      "reason": "内容完全相同，均为害怕与孩子矛盾。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a019"
+      ],
+      "reason": "内容完全相同，均为建议参加团体辅导解决矛盾。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a020"
+      ],
+      "reason": "内容完全相同，均为怕孩子跟自己不亲。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a021"
+      ],
+      "reason": "内容完全相同，均为关系不应主导育儿。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a022"
+      ],
+      "reason": "内容完全相同，均为管教过程中要承受怨恨。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a023"
+      ],
+      "reason": "内容完全相同，均为管教的目的。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a024"
+      ],
+      "reason": "内容完全相同，均为满足孩子不等于好妈妈。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a025"
+      ],
+      "reason": "内容完全相同，均为“长大了就好”的错误想法。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a026"
+      ],
+      "reason": "内容完全相同，均为朋友夫妻不管教孩子案例。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a027"
+      ],
+      "reason": "内容完全相同，均为讲师不主动给朋友建议。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a028"
+      ],
+      "reason": "内容完全相同，均为小时候不管教的后果。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a029"
+      ],
+      "reason": "内容完全相同，均为破除想跟孩子做朋友的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a030"
+      ],
+      "reason": "内容完全相同，均为父母位分不可替代。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a031"
+      ],
+      "reason": "内容完全相同，均为父母社交圈小导致孩子成朋友。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a032"
+      ],
+      "reason": "内容完全相同，均为建立自己的社交团体。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a033"
+      ],
+      "reason": "内容完全相同，均为把孩子当心灵慰藉的后果。"
+    },
+    {
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a034"
+      ],
+      "reason": "内容完全相同，均为建立自己的生活圈子。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "破除管教障碍的方法",
+      "steps": [
+        {
+          "action": "破除罪恶感：按照七个步骤诚恳道歉，并学习立界限。",
+          "atom_ids": [
+            "s-0cfa8120b7c8-c001:a008",
+            "s-0cfa8120b7c8-c001:a009",
+            "s-0cfa8120b7c8-c001:a010"
+          ],
+          "condition": "当父母因罪恶感而不敢管教时"
+        },
+        {
+          "action": "破除想跟孩子做朋友的想法：通过学习获得底气，并坚守父母位分。",
+          "atom_ids": [
+            "s-0cfa8120b7c8-c001:a029",
+            "s-0cfa8120b7c8-c001:a030"
+          ],
+          "condition": "当父母想跟孩子做朋友而放弃管教时"
+        },
+        {
+          "action": "建立自己的社交团体和生活圈子，避免把孩子当朋友或心灵慰藉。",
+          "atom_ids": [
+            "s-0cfa8120b7c8-c001:a032",
+            "s-0cfa8120b7c8-c001:a034"
+          ],
+          "condition": "当父母社交圈小或婚姻问题导致依赖孩子时"
+        },
+        {
+          "action": "纠正“长大了就好”的错误想法，坚持从小管教。",
+          "atom_ids": [
+            "s-0cfa8120b7c8-c001:a025",
+            "s-0cfa8120b7c8-c001:a028"
+          ],
+          "condition": "当父母认为孩子长大自然懂而不管教时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-0cfa8120b7c8-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0002",
+      "kind": "relation",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a003"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0004",
+      "kind": "case",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a004"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a005"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a006"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0007",
+      "kind": "relation",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a007"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a008"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a009"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a010"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a011"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a012"
+      ],
+      "blocks": [
+        "b00016",
+        "b00024",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a013"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a014"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a015"
+      ],
+      "blocks": [
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0016",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a016"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a017"
+      ],
+      "blocks": [
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a018"
+      ],
+      "blocks": [
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a019"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a020"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a021"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a022"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a023"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a024"
+      ],
+      "blocks": [
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a025"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0026",
+      "kind": "case",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a026"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034",
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a027"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a028"
+      ],
+      "blocks": [
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a029"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a030"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0031",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0032",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0033",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a031"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0034",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a032"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0035",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a033"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-0cfa8120b7c8-c001:u0036",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:a034"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048",
+        "b00049"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "想跟孩子做朋友的原因：不懂做父母",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0cfa8120b7c8",
+          "blocks": [
+            "b00038",
+            "b00039"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reason"
+    },
+    {
+      "title": "父母社交圈小导致孩子成朋友的频率估计",
+      "atom_ids": [
+        "s-0cfa8120b7c8-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0cfa8120b7c8",
+          "blocks": [
+            "b00042"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "observation"
+    }
+  ]
+}

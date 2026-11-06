@@ -1,0 +1,327 @@
+{
+  "concepts": [
+    {
+      "name": "左脑功能",
+      "definition": "左脑负责逻辑事实、数学现象、思考时间、准确语言和次序。",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a001"
+      ]
+    },
+    {
+      "name": "左脑发育缓慢",
+      "definition": "如果父母没有有意识地刻意引导孩子的左右脑连结，孩子的左脑在七岁之前发育非常缓慢，与右脑发育速度完全不成正比。",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a002"
+      ]
+    },
+    {
+      "name": "左脑发育加速",
+      "definition": "左脑在孩子七岁过后开始飞速发展，但在七岁以前发育非常缓慢。",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a003"
+      ]
+    },
+    {
+      "name": "右脑主导",
+      "definition": "孩子七岁后左脑开始发育，但不会自动平衡使用左右脑。因为在人生最初七年中绝大部分时间都在用右脑，左脑发育时右脑也在继续发育，所以孩子最熟悉和最擅长的仍然是使用右脑。",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a004"
+      ]
+    },
+    {
+      "name": "情绪化冲动",
+      "definition": "七岁后的孩子很多时候仍然非常极端、情绪化、冲动，是因为他们最熟悉和擅长的还是使用右脑，而非左脑。",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a005"
+      ]
+    },
+    {
+      "name": "大脑成熟时间",
+      "definition": "在孩子25岁之前，大脑都没有发育成熟。",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a006"
+      ]
+    },
+    {
+      "name": "事实概念缺失",
+      "definition": "孩子左脑对事实概念尚未建立，并非真正撒谎。",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a007",
+        "s-4510b0b83f29-c001:a008",
+        "s-4510b0b83f29-c001:a009",
+        "s-4510b0b83f29-c001:a010",
+        "s-4510b0b83f29-c001:a011"
+      ]
+    },
+    {
+      "name": "左右脑特点应用",
+      "definition": "下一期课程将讲到孩子做作业磨磨蹭蹭该怎么办，会运用左右脑的特点来处理这一情况。",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a012"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-4510b0b83f29-c001:a002",
+      "target": "s-4510b0b83f29-c001:a003",
+      "kind": "prerequisite",
+      "condition": "父母未刻意引导左右脑连结",
+      "reason": "左脑在七岁前发育缓慢，七岁后开始飞速发展，因此七岁前发育缓慢是七岁后加速的前提。"
+    },
+    {
+      "source": "s-4510b0b83f29-c001:a004",
+      "target": "s-4510b0b83f29-c001:a005",
+      "kind": "supports",
+      "condition": "七岁后仍偏向使用右脑会导致情绪化冲动",
+      "reason": "“七岁后孩子仍偏向使用右脑”指出孩子最熟悉和擅长右脑，“七岁后孩子情绪化冲动的脑机制”将此作为情绪化、冲动的原因；前者为后者提供机制解释。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-4510b0b83f29-c001:a001",
+      "target": "s-4510b0b83f29-c001:a007",
+      "kind": "applies_to",
+      "condition": "左脑对事实概念尚未建立",
+      "reason": "左脑负责逻辑事实，孩子左脑发育不成熟导致对事实概念缺失，出现类似撒谎的行为。"
+    },
+    {
+      "source": "s-4510b0b83f29-c001:a008",
+      "target": "s-4510b0b83f29-c001:a009",
+      "kind": "supports",
+      "condition": "孩子将电影情节与现实混淆导致声称被打",
+      "reason": "“讲师孩子声称被妈妈打手的案例”呈现孩子虚构被打细节，“孩子虚构事件的原因”解释为前晚看电影并将情节与现实混淆；案例支持该原因解释。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-4510b0b83f29-c001:a009",
+      "target": "s-4510b0b83f29-c001:a010",
+      "kind": "step_of",
+      "condition": "讲师引导孩子澄清虚构事件",
+      "reason": "讲师通过提问引导孩子说出更多虚构细节，让外婆明白孩子并非真正撒谎。"
+    },
+    {
+      "source": "s-4510b0b83f29-c001:a011",
+      "target": "s-4510b0b83f29-c001:a007",
+      "kind": "example_of",
+      "condition": "孩子混淆事实与想象",
+      "reason": "孩子吃糖数量与事实概念缺失是孩子混淆事实与想象的一个例子。"
+    },
+    {
+      "source": "s-4510b0b83f29-c001:a012",
+      "target": "s-4510b0b83f29-c001:a001",
+      "kind": "applies_to",
+      "condition": "处理孩子做作业磨蹭",
+      "reason": "运用左右脑的特点来处理孩子做作业磨蹭，左脑功能是左右脑特点的一部分。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "七岁后孩子仍偏向使用右脑",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a004",
+        "s-4510b0b83f29-c001:a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a002"
+      ],
+      "reason": "内容完全一致，均为左脑发育与左右脑连结引导的关系。"
+    },
+    {
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a004"
+      ],
+      "reason": "内容完全一致，均为七岁后孩子仍偏向使用右脑。"
+    },
+    {
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a005"
+      ],
+      "reason": "内容完全一致，均为七岁后孩子情绪化冲动的脑机制。"
+    },
+    {
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a006"
+      ],
+      "reason": "内容完全一致，均为大脑成熟时间。"
+    },
+    {
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a007"
+      ],
+      "reason": "内容完全一致，均为孩子吃糖数量与事实概念缺失。"
+    },
+    {
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a008"
+      ],
+      "reason": "内容完全一致，均为讲师孩子声称被妈妈打手的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a009"
+      ],
+      "reason": "内容完全一致，均为孩子虚构事件的原因。"
+    },
+    {
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a010"
+      ],
+      "reason": "内容完全一致，均为讲师引导孩子澄清虚构事件。"
+    },
+    {
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a011"
+      ],
+      "reason": "内容完全一致，均为孩子混淆事实与想象并非撒谎。"
+    },
+    {
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a012"
+      ],
+      "reason": "内容完全一致，均为运用左右脑特点处理孩子做作业磨蹭。"
+    }
+  ],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-4510b0b83f29-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-4510b0b83f29-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a002"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-4510b0b83f29-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a003"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-4510b0b83f29-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a004"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-4510b0b83f29-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a005"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-4510b0b83f29-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a006"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-4510b0b83f29-c001:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a007"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-4510b0b83f29-c001:u0008",
+      "kind": "case",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a008"
+      ],
+      "blocks": [
+        "b00012",
+        "b00014",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-4510b0b83f29-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a009"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-4510b0b83f29-c001:u0010",
+      "kind": "case",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a010"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-4510b0b83f29-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a011"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-4510b0b83f29-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4510b0b83f29-c001:a012"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

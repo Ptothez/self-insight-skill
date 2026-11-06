@@ -1,0 +1,451 @@
+{
+  "concepts": [
+    {
+      "name": "高效陪伴三原则",
+      "definition": "每天15分钟高效陪伴孩子时，应遵循不提问、不纠正、不引导三个原则。",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a001"
+      ]
+    },
+    {
+      "name": "积极回应",
+      "definition": "对孩子的回应分为积极回应和消极回应。积极回应包括“好的”“是的”“可以”“很好”等肯定性语言。",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a002"
+      ]
+    },
+    {
+      "name": "消极回应",
+      "definition": "对孩子的回应分为积极回应和消极回应。消极回应包括“不要”“不准”“不可以”“不好”“不能”等否定性语言。",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a002"
+      ]
+    },
+    {
+      "name": "消极回应引发逆反心理",
+      "definition": "对孩子说“不要”会让孩子心生反感，并把他们推向反方向，导致他们更想做被禁止的事情。",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a003"
+      ]
+    },
+    {
+      "name": "成人与儿童对禁止的反应差异",
+      "definition": "成人听到“不准”时也会产生想做的冲动，但能通过控制行为、考虑后果而选择不做；儿童因大脑未发育成熟，无法进行这种思考，因此“不要”“不可以”等消极回应往往适得其反。",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a004"
+      ]
+    },
+    {
+      "name": "零食篮案例",
+      "definition": "讲师家中有一个篮子，装着健康零食和水果。非饭点时间孩子可以随意拿取，但前提是必须先征得讲师同意。讲师明确告诉孩子一定会同意。这样做的目的是让孩子尽可能多地听到“yes”这样的积极回应。",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a005"
+      ]
+    },
+    {
+      "name": "用yes代替no的方法",
+      "definition": "当不能同意孩子的要求时，仍可用yes代替no。例如，饭前五分钟孩子要吃巧克力，不说“不行”，而说“好的，吃完饭过后你就可以吃巧克力了”或“好的，你可以把巧克力放在身边吃饭”。对孩子说yes不是为了讨好，而是因为孩子需要更多正面回应，这是情绪连接的重要一环。",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a006"
+      ]
+    },
+    {
+      "name": "消极回应阻碍亲密关系",
+      "definition": "如果一段关系中对方整天说“不要这样”“不可以那样”，人会感觉难以建立亲密关系，不会觉得对方安全、值得信任，也不愿敞开吐露内心情感。对孩子也是如此。",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a007"
+      ]
+    },
+    {
+      "name": "练习用yes代替no以挑战惯性思维",
+      "definition": "父母常条件反射地拒绝孩子的要求，不加思索地说no。练习用yes代替no能帮助父母先思考孩子的要求再回答。",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a008",
+        "s-8f76ec232817-c001:r001"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-8f76ec232817-c001:a002",
+      "target": "s-8f76ec232817-c001:a003",
+      "kind": "causes",
+      "condition": "当对孩子使用消极回应时",
+      "reason": "消极回应（如“不要”）会引发孩子的逆反心理，导致他们更想做被禁止的事情。"
+    },
+    {
+      "source": "s-8f76ec232817-c001:a004",
+      "target": "s-8f76ec232817-c001:a003",
+      "kind": "supports",
+      "condition": "儿童大脑未发育成熟，无法控制行为",
+      "reason": "儿童因大脑未发育成熟，无法像成人一样控制行为，因此消极回应更容易引发逆反心理。"
+    },
+    {
+      "source": "s-8f76ec232817-c001:a006",
+      "target": "s-8f76ec232817-c001:a002",
+      "kind": "example_of",
+      "condition": "当不能同意孩子的要求时",
+      "reason": "用yes代替no是积极回应的一种具体应用，通过肯定性语言回应孩子。"
+    },
+    {
+      "source": "s-8f76ec232817-c001:a005",
+      "target": "s-8f76ec232817-c001:a002",
+      "kind": "example_of",
+      "condition": "通过零食篮规则让孩子听到更多yes",
+      "reason": "零食篮案例是创造积极回应机会的具体实践，目的是让孩子尽可能多地听到积极回应。"
+    },
+    {
+      "source": "s-8f76ec232817-c001:a007",
+      "target": "s-8f76ec232817-c001:a002",
+      "kind": "contrasts",
+      "condition": "消极回应与积极回应在建立亲密关系上的效果相反",
+      "reason": "消极回应阻碍亲密关系建立，而积极回应有助于情绪连接和信任。"
+    },
+    {
+      "source": "s-8f76ec232817-c001:a008",
+      "target": "s-8f76ec232817-c001:a006",
+      "kind": "step_of",
+      "condition": "练习用yes代替no是实施该方法的具体步骤",
+      "reason": "“练习用yes代替no以挑战惯性思维”是实施“用yes代替no的具体方法”的练习步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "步骤关系成立。"
+    },
+    {
+      "source": "s-8f76ec232817-c001:r001",
+      "target": "s-8f76ec232817-c001:a008",
+      "kind": "supports",
+      "condition": "两者都强调练习用yes代替no以挑战惯性思维",
+      "reason": "前者提出练习用yes代替no的训练方法，要求父母先思考再回答；后者说明该练习能帮助父母挑战惯性思维并给出具体例子，前者支持后者的核心观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8f76ec232817-c001:v2-n001",
+      "target": "s-8f76ec232817-c001:a002",
+      "kind": "complements",
+      "condition": "当需要区分回应类型时",
+      "reason": "source 指出父母多消极回应并需替换，target 给出积极和消极回应的具体语言示例，补充了区分标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:a002",
+      "target": "s-8f76ec232817-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要区分回应类型时",
+      "reason": "source 指出父母多消极回应并需替换，target 给出积极和消极回应的具体语言示例，补充了区分标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:v2-n001",
+      "target": "s-8f76ec232817-c001:a003",
+      "kind": "complements",
+      "condition": "当需要理解消极回应后果时",
+      "reason": "source 提出消极回应模式需被觉察，target 解释消极回应引发逆反心理的机制，补充了为何要替代的原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:a003",
+      "target": "s-8f76ec232817-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解消极回应后果时",
+      "reason": "source 提出消极回应模式需被觉察，target 解释消极回应引发逆反心理的机制，补充了为何要替代的原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:v2-n001",
+      "target": "s-8f76ec232817-c001:a004",
+      "kind": "complements",
+      "condition": "当需要理解儿童对禁止的反应时",
+      "reason": "source 指出消极回应需替代，target 解释成人与儿童对禁止的反应差异，补充了消极回应适得其反的原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:a004",
+      "target": "s-8f76ec232817-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解儿童对禁止的反应时",
+      "reason": "source 指出消极回应需替代，target 解释成人与儿童对禁止的反应差异，补充了消极回应适得其反的原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:v2-n001",
+      "target": "s-8f76ec232817-c001:a007",
+      "kind": "complements",
+      "condition": "当需要理解消极回应的人际影响时",
+      "reason": "source 提出消极回应模式需替换，target 说明消极回应阻碍亲密关系建立，补充了替代的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:a007",
+      "target": "s-8f76ec232817-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解消极回应的人际影响时",
+      "reason": "source 提出消极回应模式需替换，target 说明消极回应阻碍亲密关系建立，补充了替代的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:v2-n001",
+      "target": "s-8f76ec232817-c001:a006",
+      "kind": "complements",
+      "condition": "当需要实施积极回应时",
+      "reason": "source 建议用积极回应替代消极回应，target 给出用 yes 代替 no 的具体方法，补充了替代策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:a006",
+      "target": "s-8f76ec232817-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要实施积极回应时",
+      "reason": "source 建议用积极回应替代消极回应，target 给出用 yes 代替 no 的具体方法，补充了替代策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:v2-n001",
+      "target": "s-8f76ec232817-c001:a005",
+      "kind": "complements",
+      "condition": "当需要创造积极回应机会时",
+      "reason": "source 提出用积极回应替代消极回应，target 以零食篮案例展示创造积极回应机会，补充了具体应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:a005",
+      "target": "s-8f76ec232817-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要创造积极回应机会时",
+      "reason": "source 提出用积极回应替代消极回应，target 以零食篮案例展示创造积极回应机会，补充了具体应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:v2-n001",
+      "target": "s-8f76ec232817-c001:a008",
+      "kind": "complements",
+      "condition": "当需要练习积极回应时",
+      "reason": "source 提出替代消极回应，target 说明练习用 yes 代替 no 以挑战惯性思维，补充了练习方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:a008",
+      "target": "s-8f76ec232817-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要练习积极回应时",
+      "reason": "source 提出替代消极回应，target 说明练习用 yes 代替 no 以挑战惯性思维，补充了练习方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:v2-n001",
+      "target": "s-8f76ec232817-c001:r001",
+      "kind": "complements",
+      "condition": "当需要练习积极回应时",
+      "reason": "source 提出替代消极回应，target 再次强调用 yes 代替 no 的练习方法，补充了训练思路。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:r001",
+      "target": "s-8f76ec232817-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要练习积极回应时",
+      "reason": "source 提出替代消极回应，target 再次强调用 yes 代替 no 的练习方法，补充了训练思路。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:v2-n001",
+      "target": "s-8f76ec232817-c001:a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲消极回应，target 讲高效陪伴的三个原则，主题不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8f76ec232817-c001:a001",
+      "target": "s-8f76ec232817-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲消极回应，target 讲高效陪伴的三个原则，主题不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "在高效陪伴和日常互动中，通过设定界限（如零食篮规则）来创造积极回应机会，从而促进情绪连接。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a005",
+        "s-8f76ec232817-c001:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "理解情绪",
+      "when": "父母通过自我修养练习用yes代替no，挑战惯性思维，从而更好地理解孩子情绪并给予积极回应。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a008",
+        "s-8f76ec232817-c001:r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-8f76ec232817-c001:a008",
+        "s-8f76ec232817-c001:r001"
+      ],
+      "reason": "两者内容实质相同，都描述练习用yes代替no以挑战惯性思维的方法，只是表述略有不同。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "用yes代替no的练习路径",
+      "steps": [
+        {
+          "action": "识别自己的惯性思维，当孩子提出要求时，先思考再回应，而不是条件反射地说no。",
+          "atom_ids": [
+            "s-8f76ec232817-c001:a008",
+            "s-8f76ec232817-c001:r001"
+          ],
+          "condition": "当孩子提出与父母观点相左的意见时"
+        },
+        {
+          "action": "练习用yes代替no，即使不能同意，也用肯定性语言表达，如“好的，吃完饭过后你就可以吃巧克力了”。",
+          "atom_ids": [
+            "s-8f76ec232817-c001:a006"
+          ],
+          "condition": "当不能同意孩子的要求时"
+        },
+        {
+          "action": "通过设定规则（如零食篮）创造更多积极回应机会，让孩子听到更多yes。",
+          "atom_ids": [
+            "s-8f76ec232817-c001:a005"
+          ],
+          "condition": "在日常家庭互动中"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-8f76ec232817-c001:u-001",
+      "kind": "method",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-8f76ec232817-c001:u-002",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a002"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-8f76ec232817-c001:u-003",
+      "kind": "observation",
+      "atom_ids": [
+        "s-8f76ec232817-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-8f76ec232817-c001:u-004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a003"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-8f76ec232817-c001:u-005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a004"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-8f76ec232817-c001:u-006",
+      "kind": "case",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a005"
+      ],
+      "blocks": [
+        "b00014",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-8f76ec232817-c001:u-007",
+      "kind": "method",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a006"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-8f76ec232817-c001:u-008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a007"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-8f76ec232817-c001:u-009",
+      "kind": "method",
+      "atom_ids": [
+        "s-8f76ec232817-c001:a008",
+        "s-8f76ec232817-c001:r001"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "父母在日常中更多使用消极回应",
+      "atom_ids": [
+        "s-8f76ec232817-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8f76ec232817",
+          "blocks": [
+            "b00010"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "observation"
+    }
+  ]
+}

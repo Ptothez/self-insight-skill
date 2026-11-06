@@ -1,0 +1,2545 @@
+{
+  "concepts": [
+    {
+      "name": "情绪黑洞",
+      "definition": "孩子陷入生气、失望、愤怒、挫折等负面情绪后，长时间无法自行恢复平静或回到正常情绪状态的现象。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a001",
+        "s-5484afdcc8e0-c002:a030",
+        "s-5484afdcc8e0-c003:a003"
+      ]
+    },
+    {
+      "name": "快乐能力",
+      "definition": "孩子从负面情绪中快速恢复的能力，观察其能否从情绪黑洞中快速自拔，回到兴奋或正常情绪状态。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a029",
+        "s-5484afdcc8e0-c003:a002"
+      ]
+    },
+    {
+      "name": "匮乏感",
+      "definition": "因童年时期想要的东西未得到满足而产生的心理缺失感，可能导致成年后的收藏癖或过度补偿行为。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a005",
+        "s-5484afdcc8e0-c002:a010"
+      ]
+    },
+    {
+      "name": "富足感",
+      "definition": "内心知道需要的东西不缺，而非想要的东西不缺。富足不代表想买什么就买什么，也不代表一定要给孩子过最好的生活。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a011"
+      ]
+    },
+    {
+      "name": "醉酒感",
+      "definition": "针对具体事件的内疚感（如“我考得很差”），与攻击自我人格的羞耻感（如“我真是个笨蛋”）不同。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a008"
+      ]
+    },
+    {
+      "name": "羞耻感",
+      "definition": "攻击自我人格的情绪（如“我真是个笨蛋”），与针对具体事件的醉酒感不同。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a008"
+      ]
+    },
+    {
+      "name": "高兴",
+      "definition": "不用付出努力、马上就可以得到的情绪。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a017",
+        "s-5484afdcc8e0-c002:a001"
+      ]
+    },
+    {
+      "name": "快乐",
+      "definition": "付出努力后得到的更深层情绪，需要付出代价和努力。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a017",
+        "s-5484afdcc8e0-c002:a001"
+      ]
+    },
+    {
+      "name": "宽容",
+      "definition": "孩子犯错后原谅他，但仍要求其承担应有的管教和后果。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:r001",
+        "s-5484afdcc8e0-c003:a004"
+      ]
+    },
+    {
+      "name": "纵容",
+      "definition": "过度放任，孩子做什么都没有后果。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:r001",
+        "s-5484afdcc8e0-c003:a004"
+      ]
+    },
+    {
+      "name": "计划灵活",
+      "definition": "正常情况遵守既定规矩，特殊情况（如生日、节日聚会）可灵活调整，但仅因孩子想多玩而无特殊情况则不灵活。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a006",
+        "s-5484afdcc8e0-c003:r001"
+      ]
+    },
+    {
+      "name": "情绪连接",
+      "definition": "当孩子陷入羞耻感时，通过拥抱和语言认知情绪，不急于讲道理，让孩子明白感觉不是事实。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a010",
+        "s-5484afdcc8e0-c003:r002"
+      ]
+    },
+    {
+      "name": "自嘲",
+      "definition": "能笑自己的能力，有助于克服自卑，不会导致自卑。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a013",
+        "s-5484afdcc8e0-c002:a016"
+      ]
+    },
+    {
+      "name": "卓越",
+      "definition": "高超出众，可能有瑕疵，如95%、98%、99.999%，但不是100%。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a028"
+      ]
+    },
+    {
+      "name": "完美",
+      "definition": "毫无瑕疵，即100%。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a028"
+      ]
+    },
+    {
+      "name": "情绪饱满型孩子",
+      "definition": "容易激动，开心时非常开心，伤心时大哭不停的孩子。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a004"
+      ]
+    },
+    {
+      "name": "原生家庭不快乐的影响",
+      "definition": "原生家庭父母不快乐时，孩子可能不敢快乐，因为感到不合群或背叛父母。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a002"
+      ]
+    },
+    {
+      "name": "自我认知课程与团体辅导",
+      "definition": "通过自我认知课程清理基本问题，再参加团体辅导进行更深层处理，以改变原生家庭影响。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a003"
+      ]
+    },
+    {
+      "name": "努力后获得快乐的大脑机制",
+      "definition": "努力过后大脑会受到刺激，获得更深层的快乐，这种快乐会上瘾，并持续刺激人。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a018",
+        "s-5484afdcc8e0-c002:a002"
+      ]
+    },
+    {
+      "name": "无条件给予",
+      "definition": "家长无条件给予孩子基本生理需要如吃饭、穿衣、爱、关心、生病陪伴等，但额外的东西如礼物可以让孩子自己挣钱买。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a020"
+      ]
+    },
+    {
+      "name": "基本生理需要",
+      "definition": "吃饭、穿衣、爱、关心、生病陪伴等，必须无条件给予，惩罚时不能剥夺。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a020",
+        "s-5484afdcc8e0-c002:a021"
+      ]
+    },
+    {
+      "name": "感恩",
+      "definition": "六岁以下孩子的感恩通常是肤浅的，如感恩吃冰淇淋、买玩具等，不会感恩深层事物。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a007"
+      ]
+    },
+    {
+      "name": "幼儿感恩方法",
+      "definition": "用“谢谢”代替“感恩”，在具体场景中引导孩子说谢谢，如收玩具时感谢玩具，睡觉前感谢动物贴纸。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a024"
+      ]
+    },
+    {
+      "name": "虚度光阴的错误认知",
+      "definition": "潜意识中认为休息、看电视、放松、睡觉是虚度光阴，只有工作、做家务、做事才不是，导致休息后感到空虚。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a026"
+      ]
+    },
+    {
+      "name": "自我挑战",
+      "definition": "与不同背景、不同信仰的人交流，接触挑战自己认知的信息，避免认知壁垒，促进进步。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a027"
+      ]
+    },
+    {
+      "name": "行动先于感觉",
+      "definition": "有时需要先行动，感觉才会随之而来。例如，先自嘲，之后才会觉得没什么。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a014"
+      ]
+    },
+    {
+      "name": "父母关系不好对孩子的影响",
+      "definition": "父母关系不好、婚姻不好，控制孩子在力量上抗衡，会让孩子没有安全感，认为父母关系不好是自己造成的，可能成为完美主义。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a017"
+      ]
+    },
+    {
+      "name": "物质富足与心理富足",
+      "definition": "富足包括物质和心理两方面。心理富足来自被关心、被爱，而不仅仅是物质。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a018"
+      ]
+    },
+    {
+      "name": "避免让孩子觉得自己很穷",
+      "definition": "不需要让孩子知道家里很有钱，但一定不能让孩子觉得家里很穷，否则会缺乏基本生理安全感。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a019"
+      ]
+    },
+    {
+      "name": "对事不对人的批评方法",
+      "definition": "孩子做错事情后，应强调事情错了，但孩子本身是好孩子，不针对品性，这样孩子可以有醉酒感（内疚感）而非羞耻感。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a007"
+      ]
+    },
+    {
+      "name": "一岁孩子说“no”的引导原则",
+      "definition": "对一岁孩子说“no”时，要温柔地说，并温柔抓住手，说完即可，不要讲更多，因为一岁孩子听不懂更多。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a009"
+      ]
+    },
+    {
+      "name": "成人收藏癖与童年匮乏感",
+      "definition": "成人收藏癖可能源于童年匮乏感，因为小时候想得到的东西没给到。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a010"
+      ]
+    },
+    {
+      "name": "孩子工作后提出要求的处理原则",
+      "definition": "孩子工作后提出要求，不需要再给他立目标，因为孩子自己会把要求当成目标。家长可以拒绝不合理要求，但可以满足基本需要。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a011"
+      ]
+    },
+    {
+      "name": "弥补孩子童年匮乏感的方法",
+      "definition": "对于已经工作的孩子，家长可以道歉，让孩子知道情况，并鼓励孩子自己花钱报自我认知课程。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a012"
+      ]
+    },
+    {
+      "name": "限定时间控制iPad不算培养快乐能力",
+      "definition": "限定时间控制iPad使用不算培养孩子快乐的能力。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a023"
+      ]
+    },
+    {
+      "name": "父母思维打开后赋能孩子变得容易",
+      "definition": "父母思维打开后，会发现育儿赋能孩子很容易，随时随地都可以做，孩子很难不好。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a025"
+      ]
+    },
+    {
+      "name": "判断孩子是否有快乐能力的方法",
+      "definition": "观察孩子生气、失望、愤怒、挫折后，能否很快回到兴奋或正常情绪。有快乐能力的孩子能自己从情绪黑洞中拔出来，没有的孩子拔不出来。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a029"
+      ]
+    },
+    {
+      "name": "孩子工作后家长不应再把握其消费",
+      "definition": "孩子工作后，家长很难也不应该再去把握孩子该不该买、怎么把握，除非孩子找家长要钱买非必需品，家长可以拒绝。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a031"
+      ]
+    },
+    {
+      "name": "吃糖数量的约定方法",
+      "definition": "对于孩子喜欢吃糖的情况，应爽快地允许孩子吃糖，但需与孩子约定吃糖的数量，而非完全禁止或随意允许。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a005"
+      ]
+    },
+    {
+      "name": "引导孩子从羞耻感转向问题解决",
+      "definition": "当孩子说“我真是个笨蛋”时，引导其从情绪转向解决问题，询问考差的原因。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a009"
+      ]
+    },
+    {
+      "name": "培养富足感的方法",
+      "definition": "让孩子知道想要的东西和需要的东西的区别，例如生日收到一堆礼物时不让他立刻全打开。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a013"
+      ]
+    },
+    {
+      "name": "作业要求：做出来才有改变",
+      "definition": "上完课不会自动改变，必须完成作业并运用所学，做出来才有改变。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a014"
+      ]
+    },
+    {
+      "name": "处理孩子耍赖的具体步骤",
+      "definition": "降低期待，接受孩子可能耍赖；游戏前与孩子讲好规则；孩子耍赖时暂停游戏，告知无法继续；询问孩子是否继续玩；若孩子同意，继续游戏。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:r002"
+      ]
+    },
+    {
+      "name": "随心意做事的准备",
+      "definition": "在做随心意但认知中错误的事情前，应预知会有不适感（醉酒感），并做好准备接受，事后告诉自己这是自己的选择。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:r004"
+      ]
+    },
+    {
+      "name": "避免孩子产生匮乏感的拒绝方法",
+      "definition": "拒绝孩子时，不要强调家里穷或东西贵，而是告诉孩子“我们说好的，我们等到星期六再吃”，并表明妈妈有钱买。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a006"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-5484afdcc8e0-c001:a002",
+      "target": "s-5484afdcc8e0-c001:a003",
+      "kind": "association",
+      "condition": "两者都涉及原生家庭不快乐的影响，但一个是问题表现，一个是干预建议，不构成直接因果或支持。",
+      "reason": "“原生家庭不快乐导致孩子不敢快乐”描述原生家庭不快乐造成的情绪压抑，“通过自我认知和团体辅导改变原生家庭影响”提出后续干预路径；原因为因果过强，宜作为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原因果不成立，改为关联。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a004",
+      "target": "s-5484afdcc8e0-c001:a005",
+      "kind": "applies_to",
+      "condition": "对于情绪饱满型孩子",
+      "reason": "k00004定义情绪饱满型孩子，k00005给出针对这类孩子的处理方法，因此k00005适用于k00004描述的对象。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a006",
+      "target": "s-5484afdcc8e0-c001:a007",
+      "kind": "supports",
+      "condition": "当孩子六岁以下时",
+      "reason": "k00006说不要强迫孩子凡事感恩，k00007解释六岁以下孩子的感恩是肤浅的，支持了不要强迫深层感恩的观点。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a008",
+      "target": "s-5484afdcc8e0-c002:a024",
+      "kind": "step_of",
+      "condition": "当孩子是幼儿时",
+      "reason": "k00008建议每日分享感恩和开心的事，k00048给出教幼儿感恩的具体方法（用谢谢代替），是k00008在幼儿阶段的实施步骤。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a009",
+      "target": "s-5484afdcc8e0-c001:a010",
+      "kind": "supports",
+      "condition": "当孩子被辱骂感到愤怒时",
+      "reason": "“对辱骂感到愤怒是正常的”说明被辱骂时愤怒是健康反应且只要行为不过激应接纳，“情绪正常但行为需管控”提出情绪正常但行为需管理的原则；前者为后者提供具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a011",
+      "target": "s-5484afdcc8e0-c001:a012",
+      "kind": "association",
+      "condition": "涉及不同年龄段的儿童行为，不能直接应用。",
+      "reason": "“七岁前孩子以自我为中心”专指七岁前儿童，“八岁孩子玩游戏耍赖案例”是八岁儿童的游戏规则与期待问题；年龄条件不同，原应用关系不成立，仅可作发展背景关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "年龄条件不一致，修订为关联。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a012",
+      "target": "s-5484afdcc8e0-c001:a013",
+      "kind": "supports",
+      "condition": "当孩子玩游戏耍赖时",
+      "reason": "“八岁孩子玩游戏耍赖案例”记录孩子中途改规则、输了耍赖并指出家长期待过高，“降低对孩子遵守规则的期待”总结应降低期待、接受耍赖并在耍赖时暂停游戏；案例支持原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a013",
+      "target": "s-5484afdcc8e0-c001:r002",
+      "kind": "step_of",
+      "condition": "当孩子耍赖时",
+      "reason": "k00013提出降低期待的原则，k00020给出具体步骤，是原则的实施。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a014",
+      "target": "s-5484afdcc8e0-c001:a010",
+      "kind": "association",
+      "condition": "当分歧可能涉及伤害行为时，两者都涉及行为边界，但侧重点不同，不构成直接应用。",
+      "reason": "“夫妻育儿分歧的处理原则”聚焦于判断分歧是否伤害孩子并决定当面保护或私下沟通，“情绪正常但行为需管控”针对个人情绪表达与行为边界；两者都涉及界限，但前者是冲突处理流程，后者是一般行为原则，宜为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原应用关系过强，改为关联。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a015",
+      "target": "s-5484afdcc8e0-c001:a016",
+      "kind": "example_of",
+      "condition": "当随心意做认知中错误的事时",
+      "reason": "“随心意做认知中错误的事的案例”描述减肥期间吃高热量食物并接受醉酒感，“处理随心意后的醉酒感”提出事先预知并接受不适；案例是该方法的具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a017",
+      "target": "s-5484afdcc8e0-c001:a018",
+      "kind": "supports",
+      "condition": "当讨论快乐时",
+      "reason": "k00017定义高兴与快乐的区别，k00018解释努力后获得快乐的大脑机制，支持快乐需要努力的观点。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:r001",
+      "target": "s-5484afdcc8e0-c001:a009",
+      "kind": "supports",
+      "condition": "当孩子被辱骂时",
+      "reason": "“孩子情绪比成人健康”认为孩子对被辱骂感到愤怒是正常且健康的，“对辱骂感到愤怒是正常的”具体说明被辱骂时愤怒为健康反应；前者通过一般判断支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:r002",
+      "target": "s-5484afdcc8e0-c001:a013",
+      "kind": "step_of",
+      "condition": "当孩子耍赖时",
+      "reason": "k00020是具体步骤，k00013是原则，步骤体现原则。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:r003",
+      "target": "s-5484afdcc8e0-c001:a013",
+      "kind": "supports",
+      "condition": "当家长期待过高时",
+      "reason": "k00021解释成人期待与儿童行为差异，支持降低期待的必要性。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:r004",
+      "target": "s-5484afdcc8e0-c001:a016",
+      "kind": "supports",
+      "condition": "当随心意做事时",
+      "reason": "k00022和k00016内容相似，都是随心意做事的准备步骤，互相支持。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:xe001",
+      "target": "s-5484afdcc8e0-c001:a002",
+      "kind": "association",
+      "condition": "当学员感到亏欠父母时",
+      "reason": "学员感到亏欠父母并询问原因，不能直接作为原生家庭不快乐导致不敢快乐的实例，只能视为相关议题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系 example_of 过强，改为 association。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:xe002",
+      "target": "s-5484afdcc8e0-c001:a005",
+      "kind": "applies_to",
+      "condition": "当孩子情绪饱满时",
+      "reason": "k00024学员提问如何帮助情绪饱满的孩子看到积极面，k00005给出允许沉浸情绪并鼓励积极面的方法。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a001",
+      "target": "s-5484afdcc8e0-c002:a002",
+      "kind": "supports",
+      "condition": "当讨论快乐时",
+      "reason": "k00025定义高兴与快乐，k00026解释努力后获得快乐的大脑机制，支持快乐需要努力。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a003",
+      "target": "s-5484afdcc8e0-c002:a002",
+      "kind": "example_of",
+      "condition": "当学员在课程中努力时",
+      "reason": "k00027举例课程学习中的努力与快乐，是k00026大脑机制的实例。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a004",
+      "target": "s-5484afdcc8e0-c001:a017",
+      "kind": "supports",
+      "condition": "当孩子撒娇要东西时",
+      "reason": "k00028说不努力无法获得快乐，支持k00017快乐需要努力的观点。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a005",
+      "target": "s-5484afdcc8e0-c002:a006",
+      "kind": "contrasts",
+      "condition": "当拒绝孩子时",
+      "reason": "k00029说明匮乏感的产生条件，k00030给出避免匮乏感的拒绝方法，两者形成对比。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a007",
+      "target": "s-5484afdcc8e0-c003:a008",
+      "kind": "supports",
+      "condition": "当孩子做错事时",
+      "reason": "k00031提出对事不对人的批评方法，k00064区分醉酒感和羞耻感，支持对事不对人避免羞耻感。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a008",
+      "target": "s-5484afdcc8e0-c002:a009",
+      "kind": "supports",
+      "condition": "当孩子一岁时",
+      "reason": "k00032案例支持k00033的引导原则。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a010",
+      "target": "s-5484afdcc8e0-c002:a005",
+      "kind": "example_of",
+      "condition": "当成人有收藏癖时",
+      "reason": "成人收藏癖源于童年想要的东西未被满足，符合匮乏感产生条件，作为实例成立。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a011",
+      "target": "s-5484afdcc8e0-c002:a031",
+      "kind": "supports",
+      "condition": "当孩子工作后",
+      "reason": "孩子工作后家长对消费界限的处理原则支持不应再把握孩子消费的判断，二者一致。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a012",
+      "target": "s-5484afdcc8e0-c001:a003",
+      "kind": "step_of",
+      "condition": "当弥补孩子童年匮乏感时",
+      "reason": "k00036建议鼓励孩子自己花钱报自我认知课程，是k00003自我认知课程的具体应用。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a013",
+      "target": "s-5484afdcc8e0-c002:a014",
+      "kind": "supports",
+      "condition": "当讨论自嘲时",
+      "reason": "k00037说自嘲有助于克服自卑，k00038说行动先于感觉，支持通过自嘲行动来改变感觉。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a015",
+      "target": "s-5484afdcc8e0-c002:a013",
+      "kind": "example_of",
+      "condition": "当讲师自嘲时",
+      "reason": "k00039讲师自嘲案例是k00037自嘲有助于克服自卑的实例。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a016",
+      "target": "s-5484afdcc8e0-c002:a013",
+      "kind": "example_of",
+      "condition": "当遇到尴尬时",
+      "reason": "k00040自嘲化解尴尬是k00037自嘲作用的实例。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a017",
+      "target": "s-5484afdcc8e0-c001:a002",
+      "kind": "association",
+      "condition": "当父母关系不好时",
+      "reason": "父母关系不好导致孩子没有安全感，原生家庭不快乐导致孩子不敢快乐，二者都是原生家庭问题的后果，但不能证明一方导致另一方。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系 causes 不在允许类型中，且缺乏因果方向依据，改为 association。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a018",
+      "target": "s-5484afdcc8e0-c003:a011",
+      "kind": "supports",
+      "condition": "当讨论富足时",
+      "reason": "物质与心理富足的划分支持富足感定义，说明心理富足不依赖无限满足想要。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a019",
+      "target": "s-5484afdcc8e0-c002:a005",
+      "kind": "supports",
+      "condition": "当孩子觉得自己很穷时",
+      "reason": "k00043说不能让孩子觉得家里很穷，否则缺乏安全感，k00029说匮乏感产生条件，两者相关。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a020",
+      "target": "s-5484afdcc8e0-c002:a021",
+      "kind": "supports",
+      "condition": "当惩罚孩子时",
+      "reason": "k00044定义无条件给予，k00045说惩罚时不能剥夺基本需要，支持无条件给予原则。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a022",
+      "target": "s-5484afdcc8e0-c002:a020",
+      "kind": "example_of",
+      "condition": "当孩子裤子破了时",
+      "reason": "k00046案例是k00044无条件给予基本需要的实例。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a023",
+      "target": "s-5484afdcc8e0-c001:a017",
+      "kind": "contrasts",
+      "condition": "当讨论快乐能力时",
+      "reason": "k00047说限定时间控制iPad不算培养快乐能力，与k00017快乐需要努力形成对比。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a024",
+      "target": "s-5484afdcc8e0-c001:a007",
+      "kind": "supports",
+      "condition": "当孩子是幼儿时",
+      "reason": "k00048给出教幼儿感恩的方法，支持k00007六岁以下孩子感恩肤浅的观点。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a025",
+      "target": "s-5484afdcc8e0-c003:a014",
+      "kind": "supports",
+      "condition": "当父母思维打开后",
+      "reason": "k00049说父母思维打开后赋能孩子容易，k00070说做出来才有改变，两者都强调实践。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a026",
+      "target": "s-5484afdcc8e0-c001:a015",
+      "kind": "association",
+      "condition": "当讲师随心意做事时",
+      "reason": "虚度光阴的错误认知与讲师随心意吃高热量食物的案例都涉及内在认知与行为冲突，但案例不体现将休息视为虚度光阴，不足以作为实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系 example_of 不成立，改为 association。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a027",
+      "target": "s-5484afdcc8e0-c001:a003",
+      "kind": "supports",
+      "condition": "当挑战自我意识时",
+      "reason": "k00051说自我挑战促进进步，k00003自我认知课程是挑战认知的一种方式。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a028",
+      "target": "s-5484afdcc8e0-c002:a017",
+      "kind": "supports",
+      "condition": "当讨论完美主义时",
+      "reason": "k00052定义卓越与完美，k00041说父母关系不好可能导致完美主义，支持完美主义概念。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a029",
+      "target": "s-5484afdcc8e0-c003:a001",
+      "kind": "supports",
+      "condition": "当判断快乐能力时",
+      "reason": "判断方法中提到情绪黑洞，情绪黑洞定义为其长时间无法恢复平静，支撑该判断标准。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a030",
+      "target": "s-5484afdcc8e0-c003:a001",
+      "kind": "example_of",
+      "condition": "当孩子生气一个多小时时",
+      "reason": "k00054案例是k00057情绪黑洞的实例。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a031",
+      "target": "s-5484afdcc8e0-c002:a011",
+      "kind": "supports",
+      "condition": "当孩子工作后",
+      "reason": "孩子工作后家长不应再把握其消费，与孩子工作后提出要求的处理原则一致，互相支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:r001",
+      "target": "s-5484afdcc8e0-c003:a004",
+      "kind": "supports",
+      "condition": "当讨论宽容与纵容时",
+      "reason": "k00056和k00060都定义宽容与纵容的区别。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a001",
+      "target": "s-5484afdcc8e0-c003:a002",
+      "kind": "supports",
+      "condition": "当判断快乐能力时",
+      "reason": "情绪黑洞定义说明负面情绪无法自行恢复，快乐能力判断标准基于能否从情绪黑洞快速自拔，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a003",
+      "target": "s-5484afdcc8e0-c002:a030",
+      "kind": "example_of",
+      "condition": "当孩子生气一个多小时时",
+      "reason": "k00059和k00054是同一案例的不同表述。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a004",
+      "target": "s-5484afdcc8e0-c002:r001",
+      "kind": "supports",
+      "condition": "当讨论宽容与纵容时",
+      "reason": "k00060和k00056都定义宽容与纵容的区别。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a005",
+      "target": "s-5484afdcc8e0-c002:r001",
+      "kind": "example_of",
+      "condition": "当孩子喜欢吃糖时",
+      "reason": "k00061吃糖数量的约定方法是k00056宽容的实例。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a006",
+      "target": "s-5484afdcc8e0-c003:r001",
+      "kind": "supports",
+      "condition": "当讨论计划灵活时",
+      "reason": "计划灵活性原则与具体执行规则一致，后者细化了特殊情况灵活调整的界限。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a007",
+      "target": "s-5484afdcc8e0-c003:a006",
+      "kind": "example_of",
+      "condition": "当生日聚会时",
+      "reason": "k00063生日聚会晚睡案例是k00062计划灵活的实例。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a008",
+      "target": "s-5484afdcc8e0-c002:a007",
+      "kind": "supports",
+      "condition": "当孩子做错事时",
+      "reason": "k00064区分醉酒感和羞耻感，支持k00031对事不对人避免羞耻感。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a009",
+      "target": "s-5484afdcc8e0-c003:a010",
+      "kind": "step_of",
+      "condition": "当孩子说“我真是个笨蛋”时",
+      "reason": "引导孩子从羞耻感转向问题解决的过程中，先进行情绪连接是其中的一个步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a010",
+      "target": "s-5484afdcc8e0-c003:r002",
+      "kind": "supports",
+      "condition": "当进行情绪连接时",
+      "reason": "情绪连接的方法与具体步骤内容一致，互相支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a011",
+      "target": "s-5484afdcc8e0-c003:a013",
+      "kind": "supports",
+      "condition": "当培养富足感时",
+      "reason": "富足感定义区分想要与需要，培养富足感的方法正是让孩子明白这种区分，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a012",
+      "target": "s-5484afdcc8e0-c003:a011",
+      "kind": "example_of",
+      "condition": "当孩子买笔和买车时",
+      "reason": "买笔可买就买、买车可买但不买，案例体现了想要与需要的区分，是富足感定义的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a013",
+      "target": "s-5484afdcc8e0-c003:a011",
+      "kind": "supports",
+      "condition": "当培养富足感时",
+      "reason": "培养富足感的方法支持富足感与想要/需要的区分概念。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a014",
+      "target": "s-5484afdcc8e0-c001:a003",
+      "kind": "supports",
+      "condition": "当上完课后",
+      "reason": "k00070说做出来才有改变，k00003自我认知课程需要实践。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:r001",
+      "target": "s-5484afdcc8e0-c003:a006",
+      "kind": "supports",
+      "condition": "当讨论计划灵活性时",
+      "reason": "“计划灵活性的具体执行规则”提供了正常情况与特殊情况的具体例子，支持“计划灵活性的原则”中灵活但不失原则的表述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "内容一致，具体规则支撑原则。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:r002",
+      "target": "s-5484afdcc8e0-c003:a010",
+      "kind": "supports",
+      "condition": "当进行情绪连接时",
+      "reason": "“情绪连接的具体步骤”与“情绪连接的方法”内容相同，前者为后者提供步骤支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "重复关系，内容一致。"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n001",
+      "target": "s-5484afdcc8e0-c003:a001",
+      "kind": "association",
+      "condition": "涉及负面情绪持续状态",
+      "reason": "情绪黑洞定义与 source 中负面情绪相关，但 source 聚焦家长态度，非孩子状态。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a001",
+      "target": "s-5484afdcc8e0-c001:v2-n001",
+      "kind": "association",
+      "condition": "涉及负面情绪持续状态",
+      "reason": "情绪黑洞定义与 source 中负面情绪相关，但 source 聚焦家长态度，非孩子状态。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n001",
+      "target": "s-5484afdcc8e0-c001:a005",
+      "kind": "complements",
+      "condition": "适用于情绪饱满型孩子的处理",
+      "reason": "补充了允许孩子沉浸情绪并鼓励积极面的方法，与 source 中家长排斥负面情绪形成对照，提供了正确做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a005",
+      "target": "s-5484afdcc8e0-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于情绪饱满型孩子的处理",
+      "reason": "补充了允许孩子沉浸情绪并鼓励积极面的方法，与 source 中家长排斥负面情绪形成对照，提供了正确做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n001",
+      "target": "s-5484afdcc8e0-c001:a009",
+      "kind": "complements",
+      "condition": "适用于孩子被辱骂时的愤怒情绪",
+      "reason": "补充了愤怒是正常健康的，支持 source 中负面情绪合理的观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a009",
+      "target": "s-5484afdcc8e0-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用于孩子被辱骂时的愤怒情绪",
+      "reason": "补充了愤怒是正常健康的，支持 source 中负面情绪合理的观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n001",
+      "target": "s-5484afdcc8e0-c003:a010",
+      "kind": "association",
+      "condition": "情绪连接方法的具体应用",
+      "reason": "情绪连接步骤针对负面情绪（沮丧），与 source 家长态度相关，但为具体技术，非直接回应。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a010",
+      "target": "s-5484afdcc8e0-c001:v2-n001",
+      "kind": "association",
+      "condition": "情绪连接方法的具体应用",
+      "reason": "情绪连接步骤针对负面情绪（沮丧），与 source 家长态度相关，但为具体技术，非直接回应。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n001",
+      "target": "s-5484afdcc8e0-c003:r002",
+      "kind": "association",
+      "condition": "同上，情绪连接步骤",
+      "reason": "与 a010 内容一致，提供步骤，为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:r002",
+      "target": "s-5484afdcc8e0-c001:v2-n001",
+      "kind": "association",
+      "condition": "同上，情绪连接步骤",
+      "reason": "与 a010 内容一致，提供步骤，为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n001",
+      "target": "s-5484afdcc8e0-c001:xe002",
+      "kind": "association",
+      "condition": "具体提问案例",
+      "reason": "学员提问希望孩子不沉溺情绪，正是 source 所述家长心态的实例，但 direction 不符合 example_of，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:xe002",
+      "target": "s-5484afdcc8e0-c001:v2-n001",
+      "kind": "association",
+      "condition": "具体提问案例",
+      "reason": "学员提问希望孩子不沉溺情绪，正是 source 所述家长心态的实例，但 direction 不符合 example_of，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n001",
+      "target": "s-5484afdcc8e0-c001:r001",
+      "kind": "association",
+      "condition": "孩子情绪与成人对比",
+      "reason": "孩子情绪比成人健康，与 source 中家长误解有对比价值，为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:r001",
+      "target": "s-5484afdcc8e0-c001:v2-n001",
+      "kind": "association",
+      "condition": "孩子情绪与成人对比",
+      "reason": "孩子情绪比成人健康，与 source 中家长误解有对比价值，为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n001",
+      "target": "s-5484afdcc8e0-c002:a030",
+      "kind": "association",
+      "condition": "情绪黑洞案例",
+      "reason": "孩子生气久久不平复的案例与负面情绪持久相关，与 source 主题相连。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a030",
+      "target": "s-5484afdcc8e0-c001:v2-n001",
+      "kind": "association",
+      "condition": "情绪黑洞案例",
+      "reason": "孩子生气久久不平复的案例与负面情绪持久相关，与 source 主题相连。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n001",
+      "target": "s-5484afdcc8e0-c001:a002",
+      "kind": "association",
+      "condition": "涉及孩子不敢快乐的心理",
+      "reason": "原生家庭不快乐导致孩子不敢快乐，涉及负面情绪压抑，与 source 主题有部分关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a002",
+      "target": "s-5484afdcc8e0-c001:v2-n001",
+      "kind": "association",
+      "condition": "涉及孩子不敢快乐的心理",
+      "reason": "原生家庭不快乐导致孩子不敢快乐，涉及负面情绪压抑，与 source 主题有部分关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n002",
+      "target": "s-5484afdcc8e0-c001:a018",
+      "kind": "association",
+      "condition": "高度相似表述",
+      "reason": "候选内容与 source 几乎一致，为重复或强化，列为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a018",
+      "target": "s-5484afdcc8e0-c001:v2-n002",
+      "kind": "association",
+      "condition": "高度相似表述",
+      "reason": "候选内容与 source 几乎一致，为重复或强化，列为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n002",
+      "target": "s-5484afdcc8e0-c002:a002",
+      "kind": "association",
+      "condition": "相似的大脑机制描述",
+      "reason": "努力后大脑受刺激获得深层快乐，与 source 相同，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a002",
+      "target": "s-5484afdcc8e0-c001:v2-n002",
+      "kind": "association",
+      "condition": "相似的大脑机制描述",
+      "reason": "努力后大脑受刺激获得深层快乐，与 source 相同，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n002",
+      "target": "s-5484afdcc8e0-c001:a017",
+      "kind": "complements",
+      "condition": "适用于区分高兴与快乐",
+      "reason": "补充了高兴无需努力、快乐需努力的区别，是 source 中快乐定义的重要前置概念。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a017",
+      "target": "s-5484afdcc8e0-c001:v2-n002",
+      "kind": "complements",
+      "condition": "适用于区分高兴与快乐",
+      "reason": "补充了高兴无需努力、快乐需努力的区别，是 source 中快乐定义的重要前置概念。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n002",
+      "target": "s-5484afdcc8e0-c002:a001",
+      "kind": "complements",
+      "condition": "适用于区分高兴与快乐",
+      "reason": "同样补充高兴与快乐区别，与 source 直接相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a001",
+      "target": "s-5484afdcc8e0-c001:v2-n002",
+      "kind": "complements",
+      "condition": "适用于区分高兴与快乐",
+      "reason": "同样补充高兴与快乐区别，与 source 直接相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n002",
+      "target": "s-5484afdcc8e0-c002:a004",
+      "kind": "association",
+      "condition": "不努力无法获得快乐",
+      "reason": "补充了不努力无法快乐，从反面支持 source 观点，但非直接论断。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a004",
+      "target": "s-5484afdcc8e0-c001:v2-n002",
+      "kind": "association",
+      "condition": "不努力无法获得快乐",
+      "reason": "补充了不努力无法快乐，从反面支持 source 观点，但非直接论断。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n002",
+      "target": "s-5484afdcc8e0-c002:a003",
+      "kind": "association",
+      "condition": "课程学习具体化",
+      "reason": "描述课程学习努力产生快乐，是 source 中例子的展开。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a003",
+      "target": "s-5484afdcc8e0-c001:v2-n002",
+      "kind": "association",
+      "condition": "课程学习具体化",
+      "reason": "描述课程学习努力产生快乐，是 source 中例子的展开。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n002",
+      "target": "s-5484afdcc8e0-c001:a002",
+      "kind": "association",
+      "condition": "涉及孩子不敢快乐的心理",
+      "reason": "原生家庭不快乐导致孩子不敢快乐，涉及负面情绪压抑，与 source 中快乐主题相关但原因不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:a002",
+      "target": "s-5484afdcc8e0-c001:v2-n002",
+      "kind": "association",
+      "condition": "涉及孩子不敢快乐的心理",
+      "reason": "原生家庭不快乐导致孩子不敢快乐，涉及负面情绪压抑，与 source 中快乐主题相关但原因不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n002",
+      "target": "s-5484afdcc8e0-c002:a029",
+      "kind": "association",
+      "condition": "涉及快乐能力判断",
+      "reason": "判断孩子是否有快乐能力的方法与 source 中快乐机制不同维度，但都涉及快乐，为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a029",
+      "target": "s-5484afdcc8e0-c001:v2-n002",
+      "kind": "association",
+      "condition": "涉及快乐能力判断",
+      "reason": "判断孩子是否有快乐能力的方法与 source 中快乐机制不同维度，但都涉及快乐，为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c001:v2-n002",
+      "target": "s-5484afdcc8e0-c003:a002",
+      "kind": "association",
+      "condition": "涉及快乐能力判断标准",
+      "reason": "同上，快乐能力判断标准与 source 中快乐获得机制不同，但主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a002",
+      "target": "s-5484afdcc8e0-c001:v2-n002",
+      "kind": "association",
+      "condition": "涉及快乐能力判断标准",
+      "reason": "同上，快乐能力判断标准与 source 中快乐获得机制不同，但主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:v2-n001",
+      "target": "s-5484afdcc8e0-c002:a011",
+      "kind": "complements",
+      "condition": "当孩子进入工作阶段时",
+      "reason": "候选具体说明孩子工作后父母不需再立目标、责任不同，补充了source中“不同年龄阶段父母角色不同”在工作后阶段的具体应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a011",
+      "target": "s-5484afdcc8e0-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子进入工作阶段时",
+      "reason": "候选具体说明孩子工作后父母不需再立目标、责任不同，补充了source中“不同年龄阶段父母角色不同”在工作后阶段的具体应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:v2-n001",
+      "target": "s-5484afdcc8e0-c002:a008",
+      "kind": "complements",
+      "condition": "当孩子在一岁左右时",
+      "reason": "候选展示了对一岁孩子说“no”的具体引导方式，补充了source中“不同年龄阶段采用相应教导方式”在一岁阶段的操作实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a008",
+      "target": "s-5484afdcc8e0-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子在一岁左右时",
+      "reason": "候选展示了对一岁孩子说“no”的具体引导方式，补充了source中“不同年龄阶段采用相应教导方式”在一岁阶段的操作实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:v2-n002",
+      "target": "s-5484afdcc8e0-c002:r001",
+      "kind": "complements",
+      "condition": "在解释宽容与纵容区别时",
+      "reason": "候选补充了source未展开的纵容定义“过度放任”，并同样以吃糖约定说明宽容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:r001",
+      "target": "s-5484afdcc8e0-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在解释宽容与纵容区别时",
+      "reason": "候选补充了source未展开的纵容定义“过度放任”，并同样以吃糖约定说明宽容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:v2-n002",
+      "target": "s-5484afdcc8e0-c003:a004",
+      "kind": "complements",
+      "condition": "在区分宽容与纵容时",
+      "reason": "候选补充了宽容定义中“仍要求其承担应有的管教和后果”及纵容“无后果”，完善了source定义。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a004",
+      "target": "s-5484afdcc8e0-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在区分宽容与纵容时",
+      "reason": "候选补充了宽容定义中“仍要求其承担应有的管教和后果”及纵容“无后果”，完善了source定义。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:v2-n002",
+      "target": "s-5484afdcc8e0-c003:a005",
+      "kind": "complements",
+      "condition": "在指导孩子吃糖问题时",
+      "reason": "候选具体说明了吃糖约定的操作方法（爽快允许但约定数量），补充了source中“约定吃糖数量”的实施细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:a005",
+      "target": "s-5484afdcc8e0-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在指导孩子吃糖问题时",
+      "reason": "候选具体说明了吃糖约定的操作方法（爽快允许但约定数量），补充了source中“约定吃糖数量”的实施细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:v2-n002",
+      "target": "s-5484afdcc8e0-c003:v2-n002",
+      "kind": "association",
+      "condition": "在提及妈妈放松时",
+      "reason": "两端均强调妈妈应放松、不紧盯孩子，内容重复但未新增实质信息，故以关联标记。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:v2-n002",
+      "target": "s-5484afdcc8e0-c002:v2-n002",
+      "kind": "association",
+      "condition": "在提及妈妈放松时",
+      "reason": "两端均强调妈妈应放松、不紧盯孩子，内容重复但未新增实质信息，故以关联标记。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:v2-n002",
+      "target": "s-5484afdcc8e0-c002:a006",
+      "kind": "complements",
+      "condition": "在执行约定拒绝孩子时",
+      "reason": "候选补充了拒绝孩子时避免匮乏感的具体说法，如“我们说好的，等到星期六再吃”，进一步完善source中吃糖约定的执行环节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a006",
+      "target": "s-5484afdcc8e0-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在执行约定拒绝孩子时",
+      "reason": "候选补充了拒绝孩子时避免匮乏感的具体说法，如“我们说好的，等到星期六再吃”，进一步完善source中吃糖约定的执行环节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:v2-n001",
+      "target": "s-5484afdcc8e0-c002:a027",
+      "kind": "complements",
+      "condition": "在通过交流促进思考的方法上",
+      "reason": "候选补充了与不同背景、不同信仰的人交流以挑战认知的具体方式，与source提倡的同学讨论引发思考相补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:a027",
+      "target": "s-5484afdcc8e0-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在通过交流促进思考的方法上",
+      "reason": "候选补充了与不同背景、不同信仰的人交流以挑战认知的具体方式，与source提倡的同学讨论引发思考相补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c003:v2-n002",
+      "target": "s-5484afdcc8e0-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在区分宽容与纵容的养育情境下",
+      "reason": "候选将source建议扩展到需同时把握宽容与纵容的度，补充了该建议的适用条件和需注意的度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5484afdcc8e0-c002:v2-n002",
+      "target": "s-5484afdcc8e0-c003:v2-n002",
+      "kind": "complements",
+      "condition": "在区分宽容与纵容的养育情境下",
+      "reason": "候选将source建议扩展到需同时把握宽容与纵容的度，补充了该建议的适用条件和需注意的度。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "当孩子情绪正常但行为需要管控时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a009",
+        "s-5484afdcc8e0-c001:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "内在能力",
+      "when": "当讨论快乐能力时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a017",
+        "s-5484afdcc8e0-c001:a018",
+        "s-5484afdcc8e0-c002:a001",
+        "s-5484afdcc8e0-c002:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "内在能力",
+      "when": "当培养孩子富足感时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a011",
+        "s-5484afdcc8e0-c003:a013"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "自我认知",
+      "when": "当处理原生家庭影响时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a002",
+        "s-5484afdcc8e0-c001:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我认知",
+      "when": "当孩子陷入羞耻感时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a008",
+        "s-5484afdcc8e0-c003:a009",
+        "s-5484afdcc8e0-c003:a010",
+        "s-5484afdcc8e0-c003:r002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "当孩子耍赖时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a012",
+        "s-5484afdcc8e0-c001:a013",
+        "s-5484afdcc8e0-c001:r002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "当孩子七岁前以自我为中心时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a011",
+        "s-5484afdcc8e0-c001:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "界限",
+      "when": "当家长处理自己的匮乏感时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a005",
+        "s-5484afdcc8e0-c002:a006",
+        "s-5484afdcc8e0-c002:a010",
+        "s-5484afdcc8e0-c002:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "理解情绪",
+      "when": "当孩子说“我真是个笨蛋”时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a008",
+        "s-5484afdcc8e0-c003:a009",
+        "s-5484afdcc8e0-c003:a010",
+        "s-5484afdcc8e0-c003:r002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "当家长需要调整期待时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a013",
+        "s-5484afdcc8e0-c001:r003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a017",
+        "s-5484afdcc8e0-c002:a001"
+      ],
+      "reason": "两者内容完全一致，都定义高兴与快乐的区别。"
+    },
+    {
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a018",
+        "s-5484afdcc8e0-c002:a002"
+      ],
+      "reason": "两者内容完全一致，都描述努力后获得快乐的大脑机制。"
+    },
+    {
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a030",
+        "s-5484afdcc8e0-c003:a003"
+      ],
+      "reason": "两者描述同一案例：孩子生气一个多小时无法平复。"
+    },
+    {
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:r001",
+        "s-5484afdcc8e0-c003:a004"
+      ],
+      "reason": "两者都定义宽容与纵容的区别，内容一致。"
+    },
+    {
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a006",
+        "s-5484afdcc8e0-c003:r001"
+      ],
+      "reason": "两者都定义计划灵活性的原则，内容一致。"
+    },
+    {
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a010",
+        "s-5484afdcc8e0-c003:r002"
+      ],
+      "reason": "两者内容完全一致，都是情绪连接的具体步骤。"
+    },
+    {
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a016",
+        "s-5484afdcc8e0-c001:r004"
+      ],
+      "reason": "两者内容完全一致，都是随心意做事的准备步骤。"
+    },
+    {
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a013",
+        "s-5484afdcc8e0-c001:r003"
+      ],
+      "reason": "两者都强调降低对孩子遵守规则的期待，内容一致。"
+    },
+    {
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a009",
+        "s-5484afdcc8e0-c002:a008"
+      ],
+      "reason": "两者都描述一岁孩子说“no”的引导原则，内容一致。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a006",
+        "s-5484afdcc8e0-c001:a008"
+      ],
+      "description": "k00006说不要强迫孩子凡事感恩，k00008建议每日分享感恩和开心的事，可能产生矛盾：如何在不强迫的情况下进行感恩练习？",
+      "needed_evidence": "需要明确感恩练习的具体方式，避免强迫感。"
+    },
+    {
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a004",
+        "s-5484afdcc8e0-c002:a020"
+      ],
+      "description": "k00028说不努力无法获得快乐，暗示需要努力才能得到东西；k00044说基本生理需要无条件给予，可能产生矛盾：基本需要是否也需要努力？",
+      "needed_evidence": "需要区分基本需要和额外想要的东西，明确努力的范围。"
+    },
+    {
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a023",
+        "s-5484afdcc8e0-c001:a017"
+      ],
+      "description": "k00047说限定时间控制iPad不算培养快乐能力，k00017说快乐需要努力，可能产生矛盾：控制屏幕时间是否属于努力？",
+      "needed_evidence": "需要明确快乐能力的培养方式，以及屏幕时间控制的作用。"
+    },
+    {
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:r001",
+        "s-5484afdcc8e0-c003:a005"
+      ],
+      "description": "k00056说宽容是孩子犯错后原谅他，k00061说吃糖应约定数量，可能产生矛盾：约定数量是否属于宽容？",
+      "needed_evidence": "需要明确宽容与纵容的界限，以及约定数量的性质。"
+    }
+  ],
+  "path": [
+    {
+      "name": "处理孩子耍赖的流程",
+      "steps": [
+        {
+          "action": "降低期待，接受孩子可能耍赖",
+          "atom_ids": [
+            "s-5484afdcc8e0-c001:a013",
+            "s-5484afdcc8e0-c001:r003"
+          ],
+          "condition": "当孩子玩游戏时"
+        },
+        {
+          "action": "游戏前与孩子讲好规则",
+          "atom_ids": [
+            "s-5484afdcc8e0-c001:r002"
+          ],
+          "condition": "当开始游戏前"
+        },
+        {
+          "action": "孩子耍赖时暂停游戏，告知无法继续",
+          "atom_ids": [
+            "s-5484afdcc8e0-c001:r002"
+          ],
+          "condition": "当孩子耍赖时"
+        },
+        {
+          "action": "询问孩子是否继续玩",
+          "atom_ids": [
+            "s-5484afdcc8e0-c001:r002"
+          ],
+          "condition": "当暂停游戏后"
+        },
+        {
+          "action": "若孩子同意，继续游戏",
+          "atom_ids": [
+            "s-5484afdcc8e0-c001:r002"
+          ],
+          "condition": "当孩子同意继续时"
+        }
+      ]
+    },
+    {
+      "name": "情绪连接的流程",
+      "steps": [
+        {
+          "action": "抱住孩子",
+          "atom_ids": [
+            "s-5484afdcc8e0-c003:a010",
+            "s-5484afdcc8e0-c003:r002"
+          ],
+          "condition": "当孩子说“我真是个笨蛋”时"
+        },
+        {
+          "action": "说“你考得很差，但不代表你是笨蛋，妈妈知道你现在非常沮丧”",
+          "atom_ids": [
+            "s-5484afdcc8e0-c003:a010",
+            "s-5484afdcc8e0-c003:r002"
+          ],
+          "condition": "当抱住孩子后"
+        },
+        {
+          "action": "孩子可能继续说自己笨，回应“你不笨”",
+          "atom_ids": [
+            "s-5484afdcc8e0-c003:a010",
+            "s-5484afdcc8e0-c003:r002"
+          ],
+          "condition": "当孩子继续说自己笨时"
+        },
+        {
+          "action": "专注在情绪上，重复“妈妈知道你很沮丧”",
+          "atom_ids": [
+            "s-5484afdcc8e0-c003:a010",
+            "s-5484afdcc8e0-c003:r002"
+          ],
+          "condition": "当孩子仍陷于情绪时"
+        },
+        {
+          "action": "让孩子明白是情绪让他有这种感觉，但感觉不是事实",
+          "atom_ids": [
+            "s-5484afdcc8e0-c003:a010",
+            "s-5484afdcc8e0-c003:r002"
+          ],
+          "condition": "当孩子情绪稍缓时"
+        }
+      ]
+    },
+    {
+      "name": "随心意做事的准备流程",
+      "steps": [
+        {
+          "action": "预知会有不适感",
+          "atom_ids": [
+            "s-5484afdcc8e0-c001:a016",
+            "s-5484afdcc8e0-c001:r004"
+          ],
+          "condition": "当决定随心意做事前"
+        },
+        {
+          "action": "做好准备接受",
+          "atom_ids": [
+            "s-5484afdcc8e0-c001:a016",
+            "s-5484afdcc8e0-c001:r004"
+          ],
+          "condition": "当预知不适感后"
+        },
+        {
+          "action": "事后告诉自己这是自己的选择",
+          "atom_ids": [
+            "s-5484afdcc8e0-c001:a016",
+            "s-5484afdcc8e0-c001:r004"
+          ],
+          "condition": "当事后感到不适时"
+        }
+      ]
+    },
+    {
+      "name": "避免孩子产生匮乏感的拒绝流程",
+      "steps": [
+        {
+          "action": "与孩子事先约定规则",
+          "atom_ids": [
+            "s-5484afdcc8e0-c002:a006"
+          ],
+          "condition": "当孩子提出要求前"
+        },
+        {
+          "action": "拒绝时重申约定",
+          "atom_ids": [
+            "s-5484afdcc8e0-c002:a006"
+          ],
+          "condition": "当孩子提出要求时"
+        },
+        {
+          "action": "表明家长有能力购买，只是遵守约定",
+          "atom_ids": [
+            "s-5484afdcc8e0-c002:a006"
+          ],
+          "condition": "当拒绝孩子后"
+        }
+      ]
+    },
+    {
+      "name": "教幼儿感恩的流程",
+      "steps": [
+        {
+          "action": "用“谢谢”代替“感恩”",
+          "atom_ids": [
+            "s-5484afdcc8e0-c002:a024"
+          ],
+          "condition": "当孩子是幼儿时"
+        },
+        {
+          "action": "在具体场景中引导孩子说谢谢",
+          "atom_ids": [
+            "s-5484afdcc8e0-c002:a024"
+          ],
+          "condition": "当收玩具或睡觉前"
+        },
+        {
+          "action": "如收玩具时感谢玩具，睡觉前感谢动物贴纸",
+          "atom_ids": [
+            "s-5484afdcc8e0-c002:a024"
+          ],
+          "condition": "当进行具体活动时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "2b860fccb2081b1fa40442fd776b1611715e96b09894d656c251f7a10d0efbd2",
+  "point_units": [
+    {
+      "id": "s-5484afdcc8e0-c001:u0001",
+      "kind": "方法",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a001"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0002",
+      "kind": "机制",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a002"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0003",
+      "kind": "方法",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a003"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0004",
+      "kind": "概念",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a004"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0005",
+      "kind": "方法",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a005"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0006",
+      "kind": "界限/方法",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a006"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0007",
+      "kind": "区别/条件",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a007"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0008",
+      "kind": "练习",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a008"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0009",
+      "kind": "区别/条件",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a009"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022",
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0010",
+      "kind": "方法",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a010"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0011",
+      "kind": "条件/阶段",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a011"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0012",
+      "kind": "案例",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a012"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0013",
+      "kind": "方法",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a013",
+        "s-5484afdcc8e0-c001:r002",
+        "s-5484afdcc8e0-c001:r003"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0014",
+      "kind": "方法",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a014"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0015",
+      "kind": "案例",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a015"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0016",
+      "kind": "方法",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a016",
+        "s-5484afdcc8e0-c001:r004"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0017",
+      "kind": "区别",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a017"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0018",
+      "kind": "概念",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:r001"
+      ],
+      "blocks": [
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0019",
+      "kind": "区别",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0020",
+      "kind": "机制",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0021",
+      "kind": "案例/提问",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:xe001"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c001:u0022",
+      "kind": "案例/提问",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:xe002"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a017",
+        "s-5484afdcc8e0-c002:a001"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:a018",
+        "s-5484afdcc8e0-c002:a002"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a003"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a004"
+      ],
+      "blocks": [
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a005"
+      ],
+      "blocks": [
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a006"
+      ],
+      "blocks": [
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a007"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a008"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a009"
+      ],
+      "blocks": [
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a010"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a011"
+      ],
+      "blocks": [
+        "b00054",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a012"
+      ],
+      "blocks": [
+        "b00055",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a013"
+      ],
+      "blocks": [
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a014"
+      ],
+      "blocks": [
+        "b00059",
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a015"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a016"
+      ],
+      "blocks": [
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a017"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a018"
+      ],
+      "blocks": [
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a019"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a020"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070",
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a021"
+      ],
+      "blocks": [
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u022",
+      "kind": "case",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a022"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a023"
+      ],
+      "blocks": [
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a024"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a025"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a026"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a027"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a028"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a029"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a031"
+      ],
+      "blocks": [
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u031",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c002:u032",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a001"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:a030",
+        "s-5484afdcc8e0-c003:a003"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u003",
+      "kind": "method",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u004",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a004"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a005"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a006"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088",
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:r001"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088",
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a007"
+      ],
+      "blocks": [
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u009",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a008"
+      ],
+      "blocks": [
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a009"
+      ],
+      "blocks": [
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a010"
+      ],
+      "blocks": [
+        "b00092",
+        "b00093",
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a011"
+      ],
+      "blocks": [
+        "b00095",
+        "b00097",
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a012"
+      ],
+      "blocks": [
+        "b00095",
+        "b00096",
+        "b00097",
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a013"
+      ],
+      "blocks": [
+        "b00098",
+        "b00099"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00100",
+        "b00101"
+      ]
+    },
+    {
+      "id": "s-5484afdcc8e0-c003:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:a014"
+      ],
+      "blocks": [
+        "b00101",
+        "b00102"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "家长往往只排斥负面情绪",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5484afdcc8e0",
+          "blocks": [
+            "b00013"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "努力获得的快乐刺激大脑并上瘾",
+      "atom_ids": [
+        "s-5484afdcc8e0-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5484afdcc8e0",
+          "blocks": [
+            "b00044"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "不同年龄阶段父母角色与教导方式",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5484afdcc8e0",
+          "blocks": [
+            "b00051"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "宽容与纵容的区分",
+      "atom_ids": [
+        "s-5484afdcc8e0-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5484afdcc8e0",
+          "blocks": [
+            "b00085"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "课堂讨论与思考习惯",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5484afdcc8e0",
+          "blocks": [
+            "b00100",
+            "b00101"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "妈妈要放松，不要时时盯着孩子",
+      "atom_ids": [
+        "s-5484afdcc8e0-c003:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5484afdcc8e0",
+          "blocks": [
+            "b00085"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

@@ -41,6 +41,8 @@ description: 「责任归属与关系安全」的咨询模块——界限是任�
 
 ## 知识底座
 
+下列原有知识与案例全部保留。另按 `../self-insight/references/full-knowledge/README.md` 检索全文库及课内关系，不能只用旧原子库；本模块索引为 `../self-insight/references/full-knowledge/module-index/界限.json`。先核对记录条件与来源限制，跨模块仍交主入口编排，不一次加载全库。
+
 完整读取并按需引用（都是本模块的脱敏知识，只取当前环所需部分，不一次全量复述）：
 
 - `references/knowledge/理念框架.md`——定义、七原则、三沟通类型、三界限模式、概念链

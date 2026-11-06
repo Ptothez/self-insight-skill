@@ -1,0 +1,2032 @@
+{
+  "concepts": [
+    {
+      "name": "婚姻界限",
+      "definition": "夫妻双方在婚姻中明确各自可接受与不可接受的行为范围，通过提出要求、说明后果并执行后果来保护婚姻安全与自由。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a001",
+        "s-45c0f42194b0-c001:a005",
+        "s-45c0f42194b0-c002:a009",
+        "s-45c0f42194b0-c002:a010"
+      ]
+    },
+    {
+      "name": "立界限三步骤",
+      "definition": "提出自己的要求、告知对方做不到的后果、并确保后果是自己能够且愿意执行的。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a002",
+        "s-45c0f42194b0-c001:a023"
+      ]
+    },
+    {
+      "name": "相爱与界限的关系",
+      "definition": "相爱的人也需要界限，越相爱越有界限，界限保护婚姻，使双方在安全的婚姻中更好地相爱。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a003"
+      ]
+    },
+    {
+      "name": "婚姻中的自由",
+      "definition": "婚姻需要自由，双方应能自由追求兴趣和理想，而不是被强迫限制；被迫的限制和控制会导致积怨。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a004",
+        "s-45c0f42194b0-c001:a012"
+      ]
+    },
+    {
+      "name": "界限与责任",
+      "definition": "界限帮助夫妻明确各自责任，减少角色混乱和错误罪恶感；责任包括行为、选择、态度和价值观。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a006",
+        "s-45c0f42194b0-c001:a013"
+      ]
+    },
+    {
+      "name": "responsible for 与 responsible to 的区别",
+      "definition": "在婚姻中，区分“对某人负责”（responsible for）和“向某人负责”（responsible to）；丈夫对妻子有责任避免不忠行为，但不对妻子的情绪负责。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a007",
+        "s-45c0f42194b0-c001:a024",
+        "s-45c0f42194b0-c002:a001"
+      ]
+    },
+    {
+      "name": "罪恶感阻碍立界限",
+      "definition": "罪恶感会阻碍人们立界限，例如丈夫因觉得亏欠妻子而不敢对妻子的购物行为设限。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a011"
+      ]
+    },
+    {
+      "name": "暴力行为的渐进性",
+      "definition": "配偶的暴力或语言暴力是逐渐发展的，初期不会出现，因为对方不确定能否被接受；当对方发现可以接受且能利用罪恶感控制时，暴力会升级。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a014"
+      ]
+    },
+    {
+      "name": "界限和后果的威慑作用",
+      "definition": "暴力行为并非不可控制，而是因为界限和后果不够严重；如果后果足够严重（如法律制裁），施暴者可以控制行为。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a015"
+      ]
+    },
+    {
+      "name": "婚姻中角色混乱",
+      "definition": "婚姻中角色混乱表现为妻子像母亲一样管理丈夫，丈夫像叛逆青少年，这种模式在辅导中常见且结果不佳。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a016",
+        "s-45c0f42194b0-c002:a002"
+      ]
+    },
+    {
+      "name": "婚姻健康对孩子的影响",
+      "definition": "父母婚姻健康的孩子很少处于糟糕状态（如吸毒、仇恨家庭），婚姻健康对家庭氛围和孩子情绪有积极影响。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a017"
+      ]
+    },
+    {
+      "name": "婚姻关系对个人修复的影响",
+      "definition": "夫妻沟通良好的人在团体辅导中修复更快，关系不好的人修复更慢、更勉强。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a018"
+      ]
+    },
+    {
+      "name": "原生家庭冲突的记忆影响",
+      "definition": "成年人在团体辅导中回忆原生家庭时，常记得父母打架、吵架、冷战或外遇，这些记忆对孩子影响深刻。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a019"
+      ]
+    },
+    {
+      "name": "透明与不信任的区别",
+      "definition": "夫妻要求每通电话都一起听并非相爱或信任的表现，而是不信任和不安全感的反映。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a020"
+      ]
+    },
+    {
+      "name": "未立界限导致婚姻问题",
+      "definition": "婚姻中长时间未立界限会导致问题恶化，如暧昧、批评、购物失控等。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a022"
+      ]
+    },
+    {
+      "name": "界限缺失导致无法逃离不安全婚姻",
+      "definition": "婚姻中缺乏界限时，个体可能不知道自己有权离开不安全的环境，导致持续遭受暴力或虐待。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:r001"
+      ]
+    },
+    {
+      "name": "责任与等待对方改变",
+      "definition": "婚姻中一方若只等待对方改变而不承担自己的责任，改变不太可能发生；夫妻双方各有责任。",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:r002"
+      ]
+    },
+    {
+      "name": "失去自我型婚姻",
+      "definition": "没有界限的婚姻第一种情况：失去自我型。表现为我的需要不重要、想法不重要，存在为了依附配偶，被配偶完全盖过，自己缩小。常见于传统家庭，如丈夫是天，太太连上桌吃饭的权利都没有。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a005"
+      ]
+    },
+    {
+      "name": "太过独立型婚姻",
+      "definition": "没有界限的婚姻第二种情况：太过独立型。夫妻分得很开，各自吃什么、玩什么、朋友是谁都不知道，甚至不知道对方是否出轨。生活上情绪上基本自己过，像室友一样。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a006"
+      ]
+    },
+    {
+      "name": "分居是危险状态",
+      "definition": "婚姻中分居是危险状态。当觉得配偶不重要，甚至不想配偶的事情，生活情绪自己过，像室友一样，即使住在一起也可能分居。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a007"
+      ]
+    },
+    {
+      "name": "室友式婚姻",
+      "definition": "室友式婚姻表现：夫妻生活情绪独立，不相互依靠。例如回家时一方已睡，另一方已上班；躺在床上各自玩手机，只聊必要事务（如加油、学费、报班、孩子走路）。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a008"
+      ]
+    },
+    {
+      "name": "有界限的婚姻",
+      "definition": "有界限的婚姻：夫妻有共同兴趣和爱好，情绪彼此连接，同时平等保持各自独立性。双方有连接又有独立部分。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a009"
+      ]
+    },
+    {
+      "name": "有界限婚姻的实践",
+      "definition": "有界限婚姻的实践：花精力在共同喜欢的事情上（如一起选东西、搭乐高、服务别人、合奏音乐）；意见不同时仍愿意主动了解对方想法，不一定要同意但可以接受；精神上互相支持，相互依靠。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a010"
+      ]
+    },
+    {
+      "name": "婚姻界限的种类",
+      "definition": "婚姻界限包括：角色界限、隐私界限、时间界限、情绪界限。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a012"
+      ]
+    },
+    {
+      "name": "角色界限",
+      "definition": "角色界限：双方在婚姻中的角色需要讲清楚，根据各自的特长和恩赐分配角色，而非按性别刻板印象。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a013"
+      ]
+    },
+    {
+      "name": "保护角色界限的方法",
+      "definition": "保护角色界限：夫妻都是成年人，可以提供意见但最后自己选择。要小心检查是否当了配偶的妈。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a016"
+      ]
+    },
+    {
+      "name": "隐私界限",
+      "definition": "隐私界限：夫妻对隐私的看重程度不同，需要立好界限。例如是否知道对方手机密码、银行密码，账户合在一起还是分开，都要双方一起立界限。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a018"
+      ]
+    },
+    {
+      "name": "隐私界限的设立方法",
+      "definition": "隐私界限设立方法：夫妻双方清楚立好隐私界限，例如知道对方手机密码但只在紧急情况打开，不平时检查；银行账户合在一起或分开都要双方同意。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a020"
+      ]
+    },
+    {
+      "name": "时间界限",
+      "definition": "时间界限：夫妻在时间使用上需要界限，如丈夫下班需要自己时间，允许休息半小时或先洗澡；早睡晚睡找共同时间；对方工作时不去打扰（紧急情况除外）。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a021"
+      ]
+    },
+    {
+      "name": "磨合的定义",
+      "definition": "磨合不是磨到最后随便、不吵，而是双方的文化习惯变成共同的第三文化，属于两人的习惯。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a022"
+      ]
+    },
+    {
+      "name": "界限让关系更亲密",
+      "definition": "界限不是让关系不亲密，而是让关系更亲密，让双方更有安全感。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a024"
+      ]
+    },
+    {
+      "name": "时间界限的磨合方法",
+      "definition": "时间界限磨合方法：夫妻一起坐下来，讨论各自习惯（如早睡晚睡），协商调整时间，最终形成共同时间。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a025"
+      ]
+    },
+    {
+      "name": "情绪界限",
+      "definition": "情绪界限：每个人有自己的敏感点（雷点），夫妻需要事先立好情绪界限，告诉对方自己的爆点，避免触发。",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a026",
+        "s-45c0f42194b0-c003:a001"
+      ]
+    },
+    {
+      "name": "事先立界限的方法",
+      "definition": "在冲突发生之前，夫妻双方应敏锐觉察自己的情绪爆点，并提前告知对方，以预防冲突。",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a002"
+      ]
+    },
+    {
+      "name": "情绪界限的具体内容",
+      "definition": "情绪界限可包括：不允许当众嘲笑或讽刺、吵架不提离婚、外遇或家暴则立即离婚等。",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a004"
+      ]
+    },
+    {
+      "name": "界限提供安全感",
+      "definition": "界限能带来安全感，因为知道对方会遵守约定。",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a005"
+      ]
+    },
+    {
+      "name": "爱的界限",
+      "definition": "爱是无条件接纳对方，但需要用对方的爱的语言来表达，而非单方面牺牲自己。",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a006"
+      ]
+    },
+    {
+      "name": "忠诚的界限问题",
+      "definition": "忠诚的界限需要夫妻双方讨论：是指身体出轨还是包括网上调情等行为。",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a007"
+      ]
+    },
+    {
+      "name": "诚实对婚姻安全的作用",
+      "definition": "诚实让婚姻安全，不诚实会导致害怕、嫉妒、不信任和不尊重。",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a008"
+      ]
+    },
+    {
+      "name": "性的界限问题",
+      "definition": "在性方面，夫妻需要讨论当一方不想要时是否可以拒绝。",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a009"
+      ]
+    },
+    {
+      "name": "制定婚姻界限的步骤",
+      "definition": "夫妻双方根据课程内容，总结在哪些方面需要立界限，并共同制定界限。",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a010"
+      ]
+    },
+    {
+      "name": "界限数量的建议",
+      "definition": "建议一次制定三到五条界限，如果已有界限意识可稍多，刚开始则少一些，逐步建立。",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a011"
+      ]
+    },
+    {
+      "name": "情绪界限的后果设定",
+      "definition": "在立界限时，需要事先告知对方违反界限的后果。",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:r001"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-45c0f42194b0-c001:a002",
+      "target": "s-45c0f42194b0-c001:a023",
+      "kind": "supports",
+      "condition": "立界限时提出的后果必须是自己能够且愿意执行的",
+      "reason": "a023 强调后果必须可执行，是 a002 三步骤中执行后果的具体要求"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a001",
+      "target": "s-45c0f42194b0-c001:a005",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“婚姻界限的定义”包含保护婚姻安全与自由，“界限的保护功能”是对定义中保护部分的详细说明。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a003",
+      "target": "s-45c0f42194b0-c001:a005",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“相爱与界限的关系”指出界限保护婚姻，“界限的保护功能”具体说明如何保护，前者支持后者的成立。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a004",
+      "target": "s-45c0f42194b0-c001:a012",
+      "kind": "causes",
+      "condition": "被迫的限制和控制",
+      "reason": "a004 指出被迫限制导致积怨，a012 具体说明被迫限制导致积怨"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a006",
+      "target": "s-45c0f42194b0-c001:a013",
+      "kind": "association",
+      "condition": "界限与责任",
+      "reason": "a006 说明界限帮助明确责任，a013 说明缺乏界限导致责任错位，两者是同一议题的正反论述，但无法证明因果关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind=causes 不成立，改为 association。"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a007",
+      "target": "s-45c0f42194b0-c001:a024",
+      "kind": "supports",
+      "condition": "丈夫不对妻子的情绪负责",
+      "reason": "a024 具体说明丈夫对妻子情绪的责任边界，是 a007 的实例"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a008",
+      "target": "s-45c0f42194b0-c001:a022",
+      "kind": "example_of",
+      "condition": "未立界限导致婚姻问题（暧昧）",
+      "reason": "a008 邓先生案例是未立界限导致暧昧问题的具体案例，例证 a022 的一般概念。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a009",
+      "target": "s-45c0f42194b0-c001:a022",
+      "kind": "example_of",
+      "condition": "未立界限导致婚姻问题（批评）",
+      "reason": "a009 王律师案例是未立界限导致批评问题的具体案例，例证 a022 的一般概念。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a010",
+      "target": "s-45c0f42194b0-c001:a022",
+      "kind": "example_of",
+      "condition": "未立界限导致婚姻问题（购物失控）",
+      "reason": "a010 张太案例是未立界限导致购物失控的具体案例，例证 a022 的一般概念。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a011",
+      "target": "s-45c0f42194b0-c001:a010",
+      "kind": "example_of",
+      "condition": "罪恶感阻碍立界限",
+      "reason": "a010 张太案例是 a011 罪恶感阻碍立界限的具体表现（原方向 a011->a010 应为反向的 example_of）。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反了，应改为 a010->a011；kind 由 causes 改为 example_of。"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a014",
+      "target": "s-45c0f42194b0-c001:a015",
+      "kind": "supports",
+      "condition": "暴力行为渐进性",
+      "reason": "a014 说明暴力渐进发展，a015 说明界限和后果可控制暴力"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a016",
+      "target": "s-45c0f42194b0-c002:a002",
+      "kind": "supports",
+      "condition": "角色混乱表现",
+      "reason": "两者描述相同的角色混乱模式"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a017",
+      "target": "s-45c0f42194b0-c001:a019",
+      "kind": "supports",
+      "condition": "婚姻健康对孩子影响",
+      "reason": "a017 说明婚姻健康对孩子积极影响，a019 说明原生家庭冲突对孩子记忆影响"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a020",
+      "target": "s-45c0f42194b0-c001:a021",
+      "kind": "example_of",
+      "condition": "不信任与电话监听",
+      "reason": "a021 电话监听案例是 a020 不信任和不安全感的表现（原方向 a020->a021 应为反向的 example_of）。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了，应改为 a021->a020。"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:r001",
+      "target": "s-45c0f42194b0-c001:a013",
+      "kind": "association",
+      "condition": "界限缺失的后果",
+      "reason": "r001 和 a013 都描述界限缺失的负面后果，但彼此无直接支持或因果，只是同一议题平行论述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 证据不足，改为 association。"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:r002",
+      "target": "s-45c0f42194b0-c001:a006",
+      "kind": "supports",
+      "condition": "责任与改变",
+      "reason": "r002 强调双方各有责任，a006 说明界限明确责任"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a001",
+      "target": "s-45c0f42194b0-c001:a007",
+      "kind": "supports",
+      "condition": "责任区分",
+      "reason": "c002:a001 是 c001:a007 的详细说明"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a002",
+      "target": "s-45c0f42194b0-c002:a003",
+      "kind": "example_of",
+      "condition": "角色混乱",
+      "reason": "a003 是角色混乱导致出轨的案例"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a004",
+      "target": "s-45c0f42194b0-c002:a002",
+      "kind": "supports",
+      "condition": "丈夫需要妻子而非妈",
+      "reason": "a004 解释角色混乱的后果"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a005",
+      "target": "s-45c0f42194b0-c002:a006",
+      "kind": "contrasts",
+      "condition": "没有界限的两种婚姻类型",
+      "reason": "a005 失去自我型与 a006 太过独立型是两种相反的没有界限表现，构成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a006",
+      "target": "s-45c0f42194b0-c002:a007",
+      "kind": "association",
+      "condition": "太过独立与分居",
+      "reason": "a006 描述太过独立，a007 说明分居是危险状态，两者都涉及分居或情感疏离，但无法证明直接因果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind=causes 不成立，改为 association。"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a007",
+      "target": "s-45c0f42194b0-c002:a008",
+      "kind": "example_of",
+      "condition": "分居状态的具体表现",
+      "reason": "a008 是 a007 中像室友一样状态的具体表现（原方向 a007->a008 应为反向的 example_of）。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了，应改为 a008->a007。"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a009",
+      "target": "s-45c0f42194b0-c002:a010",
+      "kind": "supports",
+      "condition": "有界限婚姻的实践",
+      "reason": "a010 是有界限婚姻的具体实践"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a012",
+      "target": "s-45c0f42194b0-c002:a013",
+      "kind": "step_of",
+      "condition": "角色界限是婚姻界限的一种",
+      "reason": "a013 是角色界限的设立方法"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a012",
+      "target": "s-45c0f42194b0-c002:a018",
+      "kind": "step_of",
+      "condition": "隐私界限是婚姻界限的一种",
+      "reason": "a018 是隐私界限的内容"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a012",
+      "target": "s-45c0f42194b0-c002:a021",
+      "kind": "step_of",
+      "condition": "时间界限是婚姻界限的一种",
+      "reason": "a021 是时间界限的内容"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a012",
+      "target": "s-45c0f42194b0-c002:a026",
+      "kind": "association",
+      "condition": "婚姻界限种类与情绪界限",
+      "reason": "a012 列出情绪界限是婚姻界限的一种，a026 详细说明情绪界限内容，属于组成展开而非步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind=step_of 不成立，改为 association；若改方向可考虑 a026->a012 的 supports。"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a013",
+      "target": "s-45c0f42194b0-c002:a014",
+      "kind": "example_of",
+      "condition": "角色界限实例",
+      "reason": "a014 是讲师家庭角色界限实例"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a015",
+      "target": "s-45c0f42194b0-c002:a002",
+      "kind": "example_of",
+      "condition": "妻子当妈的反例",
+      "reason": "a015 是角色混乱的具体反例"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a016",
+      "target": "s-45c0f42194b0-c002:a017",
+      "kind": "example_of",
+      "condition": "保护角色界限的方法",
+      "reason": "a017 乐高预算界限案例是保护角色界限的实例"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a018",
+      "target": "s-45c0f42194b0-c002:a019",
+      "kind": "example_of",
+      "condition": "隐私差异案例",
+      "reason": "a019 是隐私界限的案例"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a020",
+      "target": "s-45c0f42194b0-c002:a018",
+      "kind": "supports",
+      "condition": "隐私界限设立方法",
+      "reason": "a020 是隐私界限的具体设立方法"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a021",
+      "target": "s-45c0f42194b0-c002:a023",
+      "kind": "example_of",
+      "condition": "时间界限案例",
+      "reason": "a023 是时间界限的具体案例"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a022",
+      "target": "s-45c0f42194b0-c002:a025",
+      "kind": "supports",
+      "condition": "磨合定义与时间界限磨合方法",
+      "reason": "a025 时间界限磨合方法体现了 a022 磨合定义中形成共同习惯的过程。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a024",
+      "target": "s-45c0f42194b0-c002:a023",
+      "kind": "example_of",
+      "condition": "界限让关系更亲密",
+      "reason": "a023 案例说明界限让关系更亲密"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a026",
+      "target": "s-45c0f42194b0-c002:a027",
+      "kind": "example_of",
+      "condition": "情绪界限实例",
+      "reason": "a027 讲师情绪界限实例是 a026 情绪界限概念的具体案例（原方向 a026->a027 应为反向的 example_of）。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了，应改为 a027->a026。"
+    },
+    {
+      "source": "s-45c0f42194b0-c003:a001",
+      "target": "s-45c0f42194b0-c002:a026",
+      "kind": "supports",
+      "condition": "情绪界限定义",
+      "reason": "c003:a001 情绪界限的正式定义与 c002:a026 的情绪界限说明一致，支持其内容。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-45c0f42194b0-c003:a002",
+      "target": "s-45c0f42194b0-c003:a003",
+      "kind": "example_of",
+      "condition": "事先立界限的方法",
+      "reason": "c003:a003 讲师与先生的案例是 c003:a002 事先立界限方法的具体例证（原方向 a002->a003 应为反向的 example_of）。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了，应改为 a003->a002。"
+    },
+    {
+      "source": "s-45c0f42194b0-c003:a004",
+      "target": "s-45c0f42194b0-c003:a001",
+      "kind": "supports",
+      "condition": "情绪界限的具体内容",
+      "reason": "c003:a004 情绪界限的具体内容支持 c003:a001 情绪界限定义中的规则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-45c0f42194b0-c003:a005",
+      "target": "s-45c0f42194b0-c003:a001",
+      "kind": "supports",
+      "condition": "界限提供安全感",
+      "reason": "“界限提供安全感”说明情绪界限能带来安全感，从而支持“情绪界限在婚姻中很重要”的重要性论述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-45c0f42194b0-c003:a006",
+      "target": "s-45c0f42194b0-c003:a007",
+      "kind": "association",
+      "condition": "同属婚姻中需要讨论的界限",
+      "reason": "“爱的界限”与“忠诚的界限问题”分别讨论爱和忠诚两个不同领域的界限，二者没有直接支持关系，仅在“夫妻需讨论并设立界限”这一主题上相关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系不成立，改为关联。"
+    },
+    {
+      "source": "s-45c0f42194b0-c003:a008",
+      "target": "s-45c0f42194b0-c003:a007",
+      "kind": "association",
+      "condition": "同属婚姻中需要讨论的界限",
+      "reason": "“诚实对婚姻安全的作用”强调诚实的重要性，“忠诚的界限问题”讨论忠诚定义，二者相关但后者不依赖前者，不构成直接支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系不成立，改为关联。"
+    },
+    {
+      "source": "s-45c0f42194b0-c003:a009",
+      "target": "s-45c0f42194b0-c003:a007",
+      "kind": "association",
+      "condition": "同属婚姻中需要讨论的界限",
+      "reason": "“性的界限问题”与“忠诚的界限问题”分别涉及性同意和忠诚的不同议题，不构成支持，仅同属界限讨论范畴。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系不成立，改为关联。"
+    },
+    {
+      "source": "s-45c0f42194b0-c003:a010",
+      "target": "s-45c0f42194b0-c003:a011",
+      "kind": "association",
+      "condition": "同属制定界限的过程",
+      "reason": "“制定婚姻界限的步骤”描述整体流程，“界限数量的建议”是执行中的一个具体建议，二者相关但前者不能支持后者，不构成支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系不成立，改为关联。"
+    },
+    {
+      "source": "s-45c0f42194b0-c003:r001",
+      "target": "s-45c0f42194b0-c003:a002",
+      "kind": "supports",
+      "condition": "情绪界限的后果设定",
+      "reason": "“情绪界限的后果设定”强调事先告知后果，这正是“事先立界限的方法”中提前告知对方的一部分，支持该方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:v2-n001",
+      "target": "s-45c0f42194b0-c001:a018",
+      "kind": "complements",
+      "condition": "婚姻关系质量对个人心理修复的影响",
+      "reason": "source 指出婚姻对个人情绪有重要影响且被低估，target 补充了在团体辅导中夫妻沟通好的人修复更快这一具体表现，印证了婚姻关系的实际影响，补足了 source 的宏观论断。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a018",
+      "target": "s-45c0f42194b0-c001:v2-n001",
+      "kind": "complements",
+      "condition": "婚姻关系质量对个人心理修复的影响",
+      "reason": "source 指出婚姻对个人情绪有重要影响且被低估，target 补充了在团体辅导中夫妻沟通好的人修复更快这一具体表现，印证了婚姻关系的实际影响，补足了 source 的宏观论断。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:v2-n001",
+      "target": "s-45c0f42194b0-c001:a017",
+      "kind": "association",
+      "condition": "注意对象不同：source 对个人，target 对孩子",
+      "reason": "source 讨论婚姻对个人情绪的影响，target 讨论婚姻健康对孩子情绪和家庭氛围的影响，对象不同，不能混用，但同属婚姻健康的影响范围。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a017",
+      "target": "s-45c0f42194b0-c001:v2-n001",
+      "kind": "association",
+      "condition": "注意对象不同：source 对个人，target 对孩子",
+      "reason": "source 讨论婚姻对个人情绪的影响，target 讨论婚姻健康对孩子情绪和家庭氛围的影响，对象不同，不能混用，但同属婚姻健康的影响范围。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:v2-n001",
+      "target": "s-45c0f42194b0-c002:a008",
+      "kind": "conditional_difference",
+      "condition": "比较婚姻关系好 vs 室友式婚姻",
+      "reason": "source 指出婚姻关系好时个人情绪通常更健康；target 描述室友式婚姻中夫妻情绪独立不连接，说明这种状态不利于情绪连接，形成健康与不健康婚姻模式的对比。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a008",
+      "target": "s-45c0f42194b0-c001:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "比较婚姻关系好 vs 室友式婚姻",
+      "reason": "source 指出婚姻关系好时个人情绪通常更健康；target 描述室友式婚姻中夫妻情绪独立不连接，说明这种状态不利于情绪连接，形成健康与不健康婚姻模式的对比。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:v2-n001",
+      "target": "s-45c0f42194b0-c002:a009",
+      "kind": "association",
+      "condition": "婚姻状态特征与情绪的关系不确定",
+      "reason": "source 讨论婚姻关系好对情绪的影响，target 描述有界限的婚姻特征（连接与独立），可能是有益模式，但 source 未明确界限，故关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a009",
+      "target": "s-45c0f42194b0-c001:v2-n001",
+      "kind": "association",
+      "condition": "婚姻状态特征与情绪的关系不确定",
+      "reason": "source 讨论婚姻关系好对情绪的影响，target 描述有界限的婚姻特征（连接与独立），可能是有益模式，但 source 未明确界限，故关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:v2-n001",
+      "target": "s-45c0f42194b0-c002:a011",
+      "kind": "association",
+      "condition": "具体案例与概念的关系",
+      "reason": "source 是概念，target 是讲师自述的具体健康婚姻案例，可作为 source 的潜在例证，但方向不符，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a011",
+      "target": "s-45c0f42194b0-c001:v2-n001",
+      "kind": "association",
+      "condition": "具体案例与概念的关系",
+      "reason": "source 是概念，target 是讲师自述的具体健康婚姻案例，可作为 source 的潜在例证，但方向不符，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:v2-n002",
+      "target": "s-45c0f42194b0-c002:a002",
+      "kind": "association",
+      "condition": "两者描述同一现象",
+      "reason": "source 与 target 标题和内容基本相同，都指出妻子像妈、丈夫像叛逆青少年的角色混乱模式，结果不好，因此视为高度一致的关联，不构成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a002",
+      "target": "s-45c0f42194b0-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者描述同一现象",
+      "reason": "source 与 target 标题和内容基本相同，都指出妻子像妈、丈夫像叛逆青少年的角色混乱模式，结果不好，因此视为高度一致的关联，不构成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:v2-n002",
+      "target": "s-45c0f42194b0-c001:a016",
+      "kind": "association",
+      "condition": "同一现象",
+      "reason": "source 与 target 都描述同一角色混乱表现，且都指出结果不佳，内容重合，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a016",
+      "target": "s-45c0f42194b0-c001:v2-n002",
+      "kind": "association",
+      "condition": "同一现象",
+      "reason": "source 与 target 都描述同一角色混乱表现，且都指出结果不佳，内容重合，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:v2-n002",
+      "target": "s-45c0f42194b0-c002:a004",
+      "kind": "complements",
+      "condition": "角色混乱的后果解释",
+      "reason": "source 指出角色混乱模式没有好下场，target 补充了原因：丈夫需要的是妻子而非又一个妈，角色混乱导致婚姻无法健康继续，弥补了 source 未详述为何不好的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a004",
+      "target": "s-45c0f42194b0-c001:v2-n002",
+      "kind": "complements",
+      "condition": "角色混乱的后果解释",
+      "reason": "source 指出角色混乱模式没有好下场，target 补充了原因：丈夫需要的是妻子而非又一个妈，角色混乱导致婚姻无法健康继续，弥补了 source 未详述为何不好的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:v2-n002",
+      "target": "s-45c0f42194b0-c002:a015",
+      "kind": "association",
+      "condition": "具体案例展示",
+      "reason": "source 描述角色混乱模式，target 以妻子管理丈夫穿衣等具体行为为例，展现了该模式的实际表现，可视为 source 的例证补充，但方向不符，作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a015",
+      "target": "s-45c0f42194b0-c001:v2-n002",
+      "kind": "association",
+      "condition": "具体案例展示",
+      "reason": "source 描述角色混乱模式，target 以妻子管理丈夫穿衣等具体行为为例，展现了该模式的实际表现，可视为 source 的例证补充，但方向不符，作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:v2-n002",
+      "target": "s-45c0f42194b0-c002:a013",
+      "kind": "complements",
+      "condition": "针对角色混乱的解决方案",
+      "reason": "source 指出角色混乱问题，target 提供了设立角色界限的方法（根据特长分配、约定决策权），补充了如何避免或解决角色混乱的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a013",
+      "target": "s-45c0f42194b0-c001:v2-n002",
+      "kind": "complements",
+      "condition": "针对角色混乱的解决方案",
+      "reason": "source 指出角色混乱问题，target 提供了设立角色界限的方法（根据特长分配、约定决策权），补充了如何避免或解决角色混乱的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:v2-n002",
+      "target": "s-45c0f42194b0-c002:a003",
+      "kind": "association",
+      "condition": "具体案例与概念",
+      "reason": "source 描述角色混乱模式，target 是丈夫出轨案例，追溯发现妻子长期当妈，是 source 模式的潜在严重后果案例，但因来源为单独案例，关联而非因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a003",
+      "target": "s-45c0f42194b0-c001:v2-n002",
+      "kind": "association",
+      "condition": "具体案例与概念",
+      "reason": "source 描述角色混乱模式，target 是丈夫出轨案例，追溯发现妻子长期当妈，是 source 模式的潜在严重后果案例，但因来源为单独案例，关联而非因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:v2-n002",
+      "target": "s-45c0f42194b0-c002:a005",
+      "kind": "conditional_difference",
+      "condition": "比较不同无界限类型",
+      "reason": "source 描述角色混乱型无界限（妻子像妈、丈夫像叛逆青少年），target 描述失去自我型无界限（一方完全依附），两者同属无界限婚姻但表现不同，形成条件差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a005",
+      "target": "s-45c0f42194b0-c001:v2-n002",
+      "kind": "conditional_difference",
+      "condition": "比较不同无界限类型",
+      "reason": "source 描述角色混乱型无界限（妻子像妈、丈夫像叛逆青少年），target 描述失去自我型无界限（一方完全依附），两者同属无界限婚姻但表现不同，形成条件差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:v2-n001",
+      "target": "s-45c0f42194b0-c001:r002",
+      "kind": "association",
+      "condition": "同一观点",
+      "reason": "source 与 target 都强调一方只等对方改变而不承担自己责任则改变不太可能发生，内容高度一致，作为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:r002",
+      "target": "s-45c0f42194b0-c002:v2-n001",
+      "kind": "association",
+      "condition": "同一观点",
+      "reason": "source 与 target 都强调一方只等对方改变而不承担自己责任则改变不太可能发生，内容高度一致，作为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:v2-n001",
+      "target": "s-45c0f42194b0-c002:a001",
+      "kind": "complements",
+      "condition": "妻子面对丈夫不够体贴时",
+      "reason": "source 指出妻子只等丈夫改变不行，应自己行动；target 补充了具体责任划分：丈夫对妻子有责任但不对其情绪负责，妻子需自己处理情绪，从而明确妻子应承担的责任，补充了 source 的抽象原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a001",
+      "target": "s-45c0f42194b0-c002:v2-n001",
+      "kind": "complements",
+      "condition": "妻子面对丈夫不够体贴时",
+      "reason": "source 指出妻子只等丈夫改变不行，应自己行动；target 补充了具体责任划分：丈夫对妻子有责任但不对其情绪负责，妻子需自己处理情绪，从而明确妻子应承担的责任，补充了 source 的抽象原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:v2-n001",
+      "target": "s-45c0f42194b0-c001:a013",
+      "kind": "conditional_difference",
+      "condition": "比较只等待改变 vs 过度承担责任",
+      "reason": "source 描述一方只等对方改变而不行动；target 描述一方将对方责任揽到自己身上导致对方不改变，两者都是责任错位但方向相反：一个不作为，一个过度作为，形成条件差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a013",
+      "target": "s-45c0f42194b0-c002:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "比较只等待改变 vs 过度承担责任",
+      "reason": "source 描述一方只等对方改变而不行动；target 描述一方将对方责任揽到自己身上导致对方不改变，两者都是责任错位但方向相反：一个不作为，一个过度作为，形成条件差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:v2-n001",
+      "target": "s-45c0f42194b0-c001:a007",
+      "kind": "complements",
+      "condition": "责任划分的概念框架",
+      "reason": "source 提出夫妻各有自己的责任，target 补充了区分‘对某人负责’和‘向某人负责’的概念，帮助理解责任边界，弥补了 source 未定义责任类型的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a007",
+      "target": "s-45c0f42194b0-c002:v2-n001",
+      "kind": "complements",
+      "condition": "责任划分的概念框架",
+      "reason": "source 提出夫妻各有自己的责任，target 补充了区分‘对某人负责’和‘向某人负责’的概念，帮助理解责任边界，弥补了 source 未定义责任类型的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:v2-n001",
+      "target": "s-45c0f42194b0-c001:a024",
+      "kind": "association",
+      "condition": "与 a001 相似",
+      "reason": "source 强调妻子不能只等丈夫改变，target 再次强调丈夫不对妻子的不安全感负责，妻子需自行处理，与 source 的责任观一致，但内容重复，作为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c001:a024",
+      "target": "s-45c0f42194b0-c002:v2-n001",
+      "kind": "association",
+      "condition": "与 a001 相似",
+      "reason": "source 强调妻子不能只等丈夫改变，target 再次强调丈夫不对妻子的不安全感负责，妻子需自行处理，与 source 的责任观一致，但内容重复，作为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c003:v2-n001",
+      "target": "s-45c0f42194b0-c002:a025",
+      "kind": "example_of",
+      "condition": "source 为具体案例，target 为一般方法",
+      "reason": "source 描述了夫妻协商作息时间（十点睡与两点睡磨合到十一点半）的具体过程，是 target 所概括的‘夫妻讨论各自习惯、协商调整、达成共同时间’方法的一个应用实例，因此 source 是 target 的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a025",
+      "target": "s-45c0f42194b0-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "source 为具体案例，target 为一般方法",
+      "reason": "source 描述了夫妻协商作息时间（十点睡与两点睡磨合到十一点半）的具体过程，是 target 所概括的‘夫妻讨论各自习惯、协商调整、达成共同时间’方法的一个应用实例，因此 source 是 target 的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c003:v2-n001",
+      "target": "s-45c0f42194b0-c002:a023",
+      "kind": "association",
+      "condition": "不同场景的时间界限案例",
+      "reason": "source 与 target 都是时间界限的具体案例，但场景不同：source 是作息时间协商，target 是丈夫回家后需要半小时独处，两者不能直接等同或互相例证，仅作为同主题不同案例关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a023",
+      "target": "s-45c0f42194b0-c003:v2-n001",
+      "kind": "association",
+      "condition": "不同场景的时间界限案例",
+      "reason": "source 与 target 都是时间界限的具体案例，但场景不同：source 是作息时间协商，target 是丈夫回家后需要半小时独处，两者不能直接等同或互相例证，仅作为同主题不同案例关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c003:v2-n001",
+      "target": "s-45c0f42194b0-c002:a021",
+      "kind": "example_of",
+      "condition": "source 为 target 定义的一部分",
+      "reason": "source 中的作息时间协商正是 target 描述的时间界限内容之一（早睡晚睡找共同时间），因此 source 是 target 的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a021",
+      "target": "s-45c0f42194b0-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "source 为 target 定义的一部分",
+      "reason": "source 中的作息时间协商正是 target 描述的时间界限内容之一（早睡晚睡找共同时间），因此 source 是 target 的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c003:v2-n001",
+      "target": "s-45c0f42194b0-c002:a012",
+      "kind": "association",
+      "condition": "上下文关联",
+      "reason": "source 涉及时间界限，target 列出婚姻界限包括时间界限，为 source 提供了种类归属，但 target 未涉及具体协商，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a012",
+      "target": "s-45c0f42194b0-c003:v2-n001",
+      "kind": "association",
+      "condition": "上下文关联",
+      "reason": "source 涉及时间界限，target 列出婚姻界限包括时间界限，为 source 提供了种类归属，但 target 未涉及具体协商，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c003:v2-n001",
+      "target": "s-45c0f42194b0-c003:a010",
+      "kind": "example_of",
+      "condition": "source 展示了制定界限的一个具体步骤",
+      "reason": "target 给出制定婚姻界限的一般步骤（回顾、商量、总结、制定），source 中夫妻协商作息时间是该步骤的具体应用，尤其体现了商量和达成一致，因此 source 是 target 的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c003:a010",
+      "target": "s-45c0f42194b0-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "source 展示了制定界限的一个具体步骤",
+      "reason": "target 给出制定婚姻界限的一般步骤（回顾、商量、总结、制定），source 中夫妻协商作息时间是该步骤的具体应用，尤其体现了商量和达成一致，因此 source 是 target 的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c003:v2-n001",
+      "target": "s-45c0f42194b0-c002:a008",
+      "kind": "conditional_difference",
+      "condition": "比较有界限的时间协商 vs 室友式情绪独立",
+      "reason": "source 描述通过协商建立时间界限，体现有界限的婚姻；target 描述室友式婚姻中夫妻情绪独立不连接，并非健康界限，两者区别在于是否协商和情感连接，形成条件差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a008",
+      "target": "s-45c0f42194b0-c003:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "比较有界限的时间协商 vs 室友式情绪独立",
+      "reason": "source 描述通过协商建立时间界限，体现有界限的婚姻；target 描述室友式婚姻中夫妻情绪独立不连接，并非健康界限，两者区别在于是否协商和情感连接，形成条件差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c003:v2-n001",
+      "target": "s-45c0f42194b0-c002:a024",
+      "kind": "association",
+      "condition": "与 source 的潜在结果相关",
+      "reason": "source 展示了时间界限协商，target 指出界限让关系更亲密，暗示 source 的协商可能带来亲密，但 source 未明说结果，故关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-45c0f42194b0-c002:a024",
+      "target": "s-45c0f42194b0-c003:v2-n001",
+      "kind": "association",
+      "condition": "与 source 的潜在结果相关",
+      "reason": "source 展示了时间界限协商，target 指出界限让关系更亲密，暗示 source 的协商可能带来亲密，但 source 未明说结果，故关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a007",
+        "s-45c0f42194b0-c001:a024",
+        "s-45c0f42194b0-c002:a001"
+      ],
+      "reason": "这些记录都表达相同的责任区分：丈夫对妻子有责任但不对其情绪负责，内容实质等价"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a016",
+        "s-45c0f42194b0-c002:a002"
+      ],
+      "reason": "这些记录都描述婚姻中角色混乱：妻子像妈、丈夫像叛逆青少年，内容实质等价"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a005"
+      ],
+      "reason": "内容完全相同，描述失去自我型婚姻"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a006"
+      ],
+      "reason": "内容完全相同，描述太过独立型婚姻"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a007"
+      ],
+      "reason": "内容完全相同，描述分居是危险状态"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a008"
+      ],
+      "reason": "内容完全相同，描述室友式婚姻表现"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a009"
+      ],
+      "reason": "内容完全相同，描述有界限的婚姻"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a010"
+      ],
+      "reason": "内容完全相同，描述有界限婚姻的实践"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a012"
+      ],
+      "reason": "内容完全相同，列出婚姻界限的种类"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a013"
+      ],
+      "reason": "内容完全相同，描述角色界限的设立方法"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a014"
+      ],
+      "reason": "内容完全相同，讲师家庭角色界限实例"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a015"
+      ],
+      "reason": "内容完全相同，妻子当妈的反例"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a016"
+      ],
+      "reason": "内容完全相同，保护角色界限的方法"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a017"
+      ],
+      "reason": "内容完全相同，乐高预算界限案例"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a018"
+      ],
+      "reason": "内容完全相同，隐私界限"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a019"
+      ],
+      "reason": "内容完全相同，隐私差异案例"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a020"
+      ],
+      "reason": "内容完全相同，隐私界限的设立方法"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a021"
+      ],
+      "reason": "内容完全相同，时间界限"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a022"
+      ],
+      "reason": "内容完全相同，磨合的定义"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a023"
+      ],
+      "reason": "内容完全相同，时间界限案例：丈夫回家半小时"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a024"
+      ],
+      "reason": "内容完全相同，界限让关系更亲密"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a025"
+      ],
+      "reason": "内容完全相同，时间界限的磨合方法"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a026"
+      ],
+      "reason": "内容完全相同，情绪界限"
+    },
+    {
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a027"
+      ],
+      "reason": "内容完全相同，讲师情绪界限实例"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "制定婚姻界限的步骤",
+      "steps": [
+        {
+          "action": "回顾各关系方面，评估做得好与不好的地方",
+          "atom_ids": [
+            "s-45c0f42194b0-c003:a010"
+          ],
+          "condition": "夫妻双方根据课程内容进行回顾"
+        },
+        {
+          "action": "针对不好的方面，与配偶商量讨论",
+          "atom_ids": [
+            "s-45c0f42194b0-c003:a010"
+          ],
+          "condition": "需要双方共同参与"
+        },
+        {
+          "action": "总结需要立界限的方面",
+          "atom_ids": [
+            "s-45c0f42194b0-c003:a010"
+          ],
+          "condition": "基于讨论结果"
+        },
+        {
+          "action": "制定界限",
+          "atom_ids": [
+            "s-45c0f42194b0-c003:a010"
+          ],
+          "condition": "建议一次制定三到五条界限"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-45c0f42194b0-c001:u001",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a017"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a018"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a019"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u005",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a020"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a021"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a003"
+      ],
+      "blocks": [
+        "b00005",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a001",
+        "s-45c0f42194b0-c001:a002",
+        "s-45c0f42194b0-c001:a023"
+      ],
+      "blocks": [
+        "b00021",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a008"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a009"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a010"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017",
+        "b00018",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a011"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u013",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a022"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a012"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u023",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a004"
+      ],
+      "blocks": [
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u015",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a005"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u016",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a013"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u017",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:r001"
+      ],
+      "blocks": [
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u018",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a014"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u019",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a015"
+      ],
+      "blocks": [
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u020",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a006",
+        "s-45c0f42194b0-c001:r002"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u021",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a007",
+        "s-45c0f42194b0-c001:a024"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c001:u022",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u0",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u1",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a007",
+        "s-45c0f42194b0-c001:a024",
+        "s-45c0f42194b0-c002:a001"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u2",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:a016",
+        "s-45c0f42194b0-c002:a002"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u3",
+      "kind": "case",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a003"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u4",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a004"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u5",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a005"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u6",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a006"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u7",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a007"
+      ],
+      "blocks": [
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u8",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a008"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u9",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a009"
+      ],
+      "blocks": [
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u10",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a010"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u11",
+      "kind": "case",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a011"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u12",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a012"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u13",
+      "kind": "method",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a013",
+        "s-45c0f42194b0-c002:a014"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059",
+        "b00060",
+        "b00061",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u14",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a015"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u15",
+      "kind": "method",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a016",
+        "s-45c0f42194b0-c002:a017"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067",
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u16",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a018",
+        "s-45c0f42194b0-c002:a020"
+      ],
+      "blocks": [
+        "b00069",
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u17",
+      "kind": "case",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a019"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u18",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a021"
+      ],
+      "blocks": [
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u19",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a022"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u20",
+      "kind": "case",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a023"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076",
+        "b00077",
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u21",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a024"
+      ],
+      "blocks": [
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u22",
+      "kind": "method",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a025"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c002:u23",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:a026",
+        "s-45c0f42194b0-c002:a027"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082",
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a001"
+      ],
+      "blocks": [
+        "b00081",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c003:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a002"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083",
+        "b00084",
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c003:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a003"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c003:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a004"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c003:u005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a005"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c003:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a006"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c003:u007",
+      "kind": "question",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a007"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c003:u008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a008"
+      ],
+      "blocks": [
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c003:u009",
+      "kind": "question",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a009"
+      ],
+      "blocks": [
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c003:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a010"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c003:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:a011"
+      ],
+      "blocks": [
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c003:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:r001"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-45c0f42194b0-c003:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00081"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "婚姻对个人情绪的影响及被低估",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-45c0f42194b0",
+          "blocks": [
+            "b00001",
+            "b00002"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "婚姻中的角色混乱：太太像妈，丈夫像叛逆青少年",
+      "atom_ids": [
+        "s-45c0f42194b0-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-45c0f42194b0",
+          "blocks": [
+            "b00041"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "role_confusion"
+    },
+    {
+      "title": "只等配偶改变而不行动难以奏效",
+      "atom_ids": [
+        "s-45c0f42194b0-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-45c0f42194b0",
+          "blocks": [
+            "b00038"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "时间界限的协商案例",
+      "atom_ids": [
+        "s-45c0f42194b0-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-45c0f42194b0",
+          "blocks": [
+            "b00081"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    }
+  ]
+}

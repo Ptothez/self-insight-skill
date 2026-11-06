@@ -1,0 +1,708 @@
+{
+  "concepts": [
+    {
+      "name": "专制型育儿",
+      "definition": "以父母为导向的育儿方式，父母做主、孩子不需要解释或顶嘴；设置严格规则且无例外；沟通单方面；对孩子情绪反应低；常用惩罚控制；关注身体和学业而非情绪心理社交。",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a001",
+        "s-8e95342c9991-c001:a002",
+        "s-8e95342c9991-c001:a003",
+        "s-8e95342c9991-c001:a004",
+        "s-8e95342c9991-c001:a005",
+        "s-8e95342c9991-c001:a006",
+        "s-8e95342c9991-c001:r001"
+      ]
+    },
+    {
+      "name": "专制型父母的信念与态度",
+      "definition": "专制型父母相信孩子不需要解释、不应顶嘴，坚信挫折教育，认为孩子错了要狠狠罚，态度强硬，管教方式缺乏变化。",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a002",
+        "s-8e95342c9991-c001:a025",
+        "s-8e95342c9991-c001:a026"
+      ]
+    },
+    {
+      "name": "溺爱型育儿",
+      "definition": "以孩子为导向的育儿方式，孩子做主，父母回应高但要求低；沟通开放但缺乏引导；规则无界限和后果；父母希望孩子开心，避免冲突，可能自身是讨好型人格。",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a007",
+        "s-8e95342c9991-c001:a008",
+        "s-8e95342c9991-c001:a009",
+        "s-8e95342c9991-c001:a010",
+        "s-8e95342c9991-c001:a011",
+        "s-8e95342c9991-c001:a012"
+      ]
+    },
+    {
+      "name": "放任式育儿",
+      "definition": "父母很少参与孩子生活，回应低、要求低，对孩子情绪和社交需求麻木，很少给规则，可能因父母自身情绪问题或忙碌导致。",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a013",
+        "s-8e95342c9991-c001:a014",
+        "s-8e95342c9991-c001:a015",
+        "s-8e95342c9991-c001:a018",
+        "s-8e95342c9991-c001:a019",
+        "s-8e95342c9991-c001:a020"
+      ]
+    },
+    {
+      "name": "放任式育儿案例",
+      "definition": "具体案例：科学家爸爸描述父亲只关注成绩和惹祸时体罚，其他不关心，感觉成长像白开水；女学员描述父亲传递“只能自己顾自己”，孩子往往独立。",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a016",
+        "s-8e95342c9991-c001:a017"
+      ]
+    },
+    {
+      "name": "育儿方式的对比与混合",
+      "definition": "专制型要求高回应低，溺爱型回应高要求低；放任式与溺爱型在少规则上相似但回应不同；一般父母可能混合多种方式，对不同孩子倾向不同。",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a022",
+        "s-8e95342c9991-c001:a023",
+        "s-8e95342c9991-c001:r002"
+      ]
+    },
+    {
+      "name": "让孩子做决定需根据年龄",
+      "definition": "给孩子自主权应根据年龄判断，太小承担过多自由和权利对孩子是一种摧毁。",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a024"
+      ]
+    },
+    {
+      "name": "父母处理自身情绪的重要性",
+      "definition": "父母应处理好自己的情绪和问题，因为情绪和心理健康会影响育儿方式。",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a021"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-8e95342c9991-c001:a001",
+      "target": "s-8e95342c9991-c001:a002",
+      "kind": "supports",
+      "condition": "专制型育儿定义中父母做主、孩子不需要解释，与父母信念中孩子不需要解释、不应顶嘴一致。",
+      "reason": "“专制型育儿定义”支持“专制型父母的信念”，信念是定义的具体表现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8e95342c9991-c001:a001",
+      "target": "s-8e95342c9991-c001:a003",
+      "kind": "supports",
+      "condition": "专制型育儿定义中父母做主，与设置严格规则且无例外相符。",
+      "reason": "“专制型育儿定义”支持“专制型父母的规则设置”，严格规则是父母做主的具体体现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8e95342c9991-c001:a001",
+      "target": "s-8e95342c9991-c001:a004",
+      "kind": "supports",
+      "condition": "专制型育儿定义中孩子不需要解释，与单方面沟通一致。",
+      "reason": "“专制型育儿定义”支持“专制型育儿的沟通方式”，单方面沟通是孩子无解释权的表现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8e95342c9991-c001:a001",
+      "target": "s-8e95342c9991-c001:a005",
+      "kind": "supports",
+      "condition": "专制型育儿定义中父母做主，与对孩子情绪反应低一致。",
+      "reason": "“专制型育儿定义”支持“专制型父母对情绪的态度”，父母做主可能导致忽视孩子情绪。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8e95342c9991-c001:a001",
+      "target": "s-8e95342c9991-c001:a006",
+      "kind": "supports",
+      "condition": "专制型育儿定义中父母做主，与使用惩罚控制一致。",
+      "reason": "“专制型育儿定义”支持“专制型父母使用惩罚”，惩罚是维持父母权威的手段。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8e95342c9991-c001:a001",
+      "target": "s-8e95342c9991-c001:r001",
+      "kind": "association",
+      "condition": "",
+      "reason": "专制型育儿定义描述父母做主、孩子不应顶嘴，而专制型父母关注领域描述其很少关注情绪心理社交、更关注身体和学业；二者同属专制型育儿特征，但定义本身不能直接推出关注领域。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系存在过度推断，改为关联。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a002",
+      "target": "s-8e95342c9991-c001:a025",
+      "kind": "association",
+      "condition": "",
+      "reason": "专制型父母信念强调孩子不应顶嘴、服从父母，而挫折教育看法强调让孩子受苦、给予狠心爱；二者都属于专制型育儿特征，但前者不能直接支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系过强，改为关联。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a002",
+      "target": "s-8e95342c9991-c001:a026",
+      "kind": "supports",
+      "condition": "专制型父母信念中孩子不应顶嘴，与认为孩子错了要狠狠罚一致。",
+      "reason": "专制型父母信念强调孩子不应顶嘴、必须服从，并以威胁惩罚方式命令孩子，支持其认为孩子错了要狠狠罚的惩罚态度。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8e95342c9991-c001:a025",
+      "target": "s-8e95342c9991-c001:a026",
+      "kind": "supports",
+      "condition": "挫折教育与严厉惩罚都体现专制型父母的强硬态度。",
+      "reason": "两者都是专制型育儿中强硬管教的表现。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a007",
+      "target": "s-8e95342c9991-c001:a008",
+      "kind": "supports",
+      "condition": "溺爱型育儿定义中孩子做主，与沟通开放但让孩子选择一致。",
+      "reason": "溺爱型育儿定义中孩子做主、父母要求低，直接支持溺爱型育儿沟通方式中让孩子选择、父母缺乏引导和要求的描述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8e95342c9991-c001:a007",
+      "target": "s-8e95342c9991-c001:a009",
+      "kind": "supports",
+      "condition": "溺爱型育儿定义中父母要求低，与规则无界限和后果一致。",
+      "reason": "溺爱型育儿定义中要求低、孩子做主，支持溺爱型育儿对规则态度的描述：规则纸上谈兵、没有界限后果、孩子想做什么就做什么。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8e95342c9991-c001:a007",
+      "target": "s-8e95342c9991-c001:a010",
+      "kind": "supports",
+      "condition": "溺爱型育儿定义中孩子做主，与父母希望孩子开心一致。",
+      "reason": "以孩子为导向，父母会满足孩子需求。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a007",
+      "target": "s-8e95342c9991-c001:a011",
+      "kind": "supports",
+      "condition": "溺爱型育儿定义中孩子做主，与父母希望做朋友而非父母一致。",
+      "reason": "孩子做主导致父母角色弱化，更像朋友。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a007",
+      "target": "s-8e95342c9991-c001:a012",
+      "kind": "supports",
+      "condition": "溺爱型育儿定义中父母回应高，与父母可能是讨好型人格一致。",
+      "reason": "讨好型人格倾向满足孩子以避免负面情绪。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a013",
+      "target": "s-8e95342c9991-c001:a014",
+      "kind": "supports",
+      "condition": "放任式育儿定义中父母很少参与，与对孩子需求麻木一致。",
+      "reason": "参与少导致对孩子情绪和社交需求不敏感。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a013",
+      "target": "s-8e95342c9991-c001:a015",
+      "kind": "supports",
+      "condition": "放任式育儿定义中父母很少参与，与回应低要求低一致。",
+      "reason": "参与少表现为低回应低要求。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a013",
+      "target": "s-8e95342c9991-c001:a018",
+      "kind": "supports",
+      "condition": "放任式育儿定义中父母很少参与，与很少给规则一致。",
+      "reason": "参与少导致不设规则。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a013",
+      "target": "s-8e95342c9991-c001:a019",
+      "kind": "supports",
+      "condition": "放任式育儿定义中父母很少参与，与给人的冷漠感觉一致。",
+      "reason": "参与少表现为冷漠麻木。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a013",
+      "target": "s-8e95342c9991-c001:a020",
+      "kind": "causes",
+      "condition": "放任式育儿可能因父母自身情绪问题导致。",
+      "reason": "父母情绪挣扎可能导致无法参与孩子生活。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a016",
+      "target": "s-8e95342c9991-c001:a013",
+      "kind": "example_of",
+      "condition": "科学家爸爸案例是放任式育儿的实例。",
+      "reason": "案例中父亲很少参与，只关注成绩和体罚，符合放任式定义。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a017",
+      "target": "s-8e95342c9991-c001:a013",
+      "kind": "example_of",
+      "condition": "女学员案例是放任式育儿的实例。",
+      "reason": "案例中父亲传递“只能自己顾自己”，符合放任式低参与。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a022",
+      "target": "s-8e95342c9991-c001:a001",
+      "kind": "supports",
+      "condition": "专制型育儿要求高回应低，与专制型定义一致。",
+      "reason": "专制型与溺爱型育儿的对比明确指出专制型育儿要求高、回应低，支持专制型育儿定义中父母主导的特征。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8e95342c9991-c001:a022",
+      "target": "s-8e95342c9991-c001:a007",
+      "kind": "supports",
+      "condition": "溺爱型育儿回应高要求低，与溺爱型定义一致。",
+      "reason": "对比中明确溺爱型特征。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:r002",
+      "target": "s-8e95342c9991-c001:a013",
+      "kind": "supports",
+      "condition": "放任式育儿与溺爱型育儿在少规则上相似，但放任式回应低。",
+      "reason": "对比中明确放任式特征。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:r002",
+      "target": "s-8e95342c9991-c001:a007",
+      "kind": "supports",
+      "condition": "放任式育儿与溺爱型育儿在少规则上相似，但溺爱型回应高。",
+      "reason": "对比中明确溺爱型特征。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a023",
+      "target": "s-8e95342c9991-c001:a001",
+      "kind": "association",
+      "condition": "",
+      "reason": "育儿方式的混合性指出父母可能部分采用不同育儿方式，这与专制型育儿的定义相关，但不直接支持定义本身，故为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原applies_to不在允许关系类型中，改为association。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a023",
+      "target": "s-8e95342c9991-c001:a007",
+      "kind": "applies_to",
+      "condition": "育儿方式混合性说明父母可能部分采用溺爱型。",
+      "reason": "混合性适用于所有育儿方式。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a023",
+      "target": "s-8e95342c9991-c001:a013",
+      "kind": "applies_to",
+      "condition": "育儿方式混合性说明父母可能部分采用放任式。",
+      "reason": "混合性适用于所有育儿方式。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a024",
+      "target": "s-8e95342c9991-c001:a007",
+      "kind": "contrasts",
+      "condition": "让孩子做决定需根据年龄，与溺爱型育儿中孩子做主可能冲突。",
+      "reason": "溺爱型可能给孩子过多自主权，而年龄限制强调适度。"
+    },
+    {
+      "source": "s-8e95342c9991-c001:a021",
+      "target": "s-8e95342c9991-c001:a020",
+      "kind": "causes",
+      "condition": "父母处理自身情绪的重要性，与放任式父母可能因情绪问题导致放任相关。",
+      "reason": "父母情绪问题可能影响育儿方式，因此需要处理自身情绪。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "规则与行动",
+      "to": "理解情绪",
+      "when": "专制型育儿中，父母设置严格规则但很少关注孩子情绪；溺爱型育儿中，父母回应情绪但规则弱；放任式育儿中，父母对情绪麻木且规则少。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a003",
+        "s-8e95342c9991-c001:a005",
+        "s-8e95342c9991-c001:a009",
+        "s-8e95342c9991-c001:a010",
+        "s-8e95342c9991-c001:a014",
+        "s-8e95342c9991-c001:a018"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "阶段与角色",
+      "when": "放任式育儿案例中，父母角色缺失导致孩子独立；溺爱型育儿中，父母希望做朋友而非父母，影响角色定位。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a011",
+        "s-8e95342c9991-c001:a016",
+        "s-8e95342c9991-c001:a017"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "规则与行动",
+      "when": "父母自身情绪问题可能导致放任式育儿，因此处理自身情绪影响育儿方式。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a020",
+        "s-8e95342c9991-c001:a021"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "让孩子做决定需根据年龄，与溺爱型育儿中孩子做主可能冲突，需要界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a024",
+        "s-8e95342c9991-c001:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-8e95342c9991-c001:a024",
+        "s-8e95342c9991-c001:a007"
+      ],
+      "description": "让孩子做决定需根据年龄，而溺爱型育儿中孩子做主，可能给孩子过多自主权，但记录未明确溺爱型是否考虑年龄。",
+      "needed_evidence": "需要明确溺爱型育儿是否根据年龄调整自主权，以及年龄界限的具体标准。"
+    }
+  ],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-8e95342c9991-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a001"
+      ],
+      "blocks": [
+        "b00003",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a002"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a003"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a004"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a005"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a006"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a025"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a026"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:r001"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a023"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a007"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0012",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a022"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a008"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0014",
+      "kind": "advice",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a024"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a009"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a010"
+      ],
+      "blocks": [
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a011"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a012"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a013"
+      ],
+      "blocks": [
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a014"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a015"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0022",
+      "kind": "case",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a016"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0023",
+      "kind": "case",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a017"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a018"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a019"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0026",
+      "kind": "condition",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a020"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0027",
+      "kind": "advice",
+      "atom_ids": [
+        "s-8e95342c9991-c001:a021"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-8e95342c9991-c001:u0028",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8e95342c9991-c001:r002"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

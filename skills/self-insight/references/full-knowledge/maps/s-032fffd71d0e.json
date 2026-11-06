@@ -1,0 +1,3077 @@
+{
+  "concepts": [
+    {
+      "name": "正常压力与最佳表现",
+      "definition": "正常的压力有助于发挥最佳水平，但压力过大会压迫大脑影响发挥，因此需要降低高压事件的影响。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a001",
+        "s-032fffd71d0e-c001:a002"
+      ]
+    },
+    {
+      "name": "给孩子松绑以降低考试压力",
+      "definition": "通过沟通让孩子知道紧张是允许的，高考不是唯一机会，没考好也没那么严重，从而放松去考。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a003"
+      ]
+    },
+    {
+      "name": "双向调节压力",
+      "definition": "一方面逐步增加孩子抗压能力，另一方面降低高考、竞赛等事件对孩子过分的影响。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a004",
+        "s-032fffd71d0e-c001:a005"
+      ]
+    },
+    {
+      "name": "四岁孩子兴趣探索期",
+      "definition": "四岁孩子应探索各种兴趣，不要求立刻坚持一个项目，体验期最多半年，半年后可换项目。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a006",
+        "s-032fffd71d0e-c001:a013"
+      ]
+    },
+    {
+      "name": "兴趣项目确定与坚持约定",
+      "definition": "孩子尝试后确定兴趣项目，家长确认后约定坚持一年，中途放弃需承担后果（如打工偿还学费）。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a007",
+        "s-032fffd71d0e-c001:a008",
+        "s-032fffd71d0e-c001:a009"
+      ]
+    },
+    {
+      "name": "坚持与毅力练习",
+      "definition": "孩子对喜欢的东西学到一定时候会不想坚持，这是共性，但必须练习毅力坚持，同时可让事情变得有趣。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a011",
+        "s-032fffd71d0e-c001:a012"
+      ]
+    },
+    {
+      "name": "发自内心欢迎孩子犯错",
+      "definition": "父母要发自内心欢迎孩子犯错，孩子才能不怕失败；假意接纳会被孩子感知，导致害怕失败。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a017",
+        "s-032fffd71d0e-c001:a018"
+      ]
+    },
+    {
+      "name": "家长不看重成绩而看重学习心",
+      "definition": "家长应热爱学习、培养兴趣、不看重成绩只看收获、不比较、看重尽全力、帮助立目标、营造轻松氛围、了解孩子擅长学科。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a019"
+      ]
+    },
+    {
+      "name": "改变环境与紧急处理",
+      "definition": "如果父母有能力改变环境，应考虑改变；对于17岁孩子紧急情况，优先改变环境，再慢慢建立底层逻辑。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a020",
+        "s-032fffd71d0e-c001:a034"
+      ]
+    },
+    {
+      "name": "可靠父母与强势",
+      "definition": "让孩子感觉父母可靠与父母强势处理问题无关，可靠不等于强势。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a021"
+      ]
+    },
+    {
+      "name": "双赢解决冲突",
+      "definition": "面对家长和孩子意见冲突，应追求双赢，把问题给孩子，让孩子做选择，同时尊重家长的要求。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a023",
+        "s-032fffd71d0e-c001:a024",
+        "s-032fffd71d0e-c001:a025"
+      ]
+    },
+    {
+      "name": "允许使用网络工具找答案",
+      "definition": "孩子用百度等网络工具找答案是可取的，没有问题。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a026"
+      ]
+    },
+    {
+      "name": "孩子专注阅读时不必控制时间",
+      "definition": "孩子周末早起看书不知饿，如果只是几小时不吃不用管，一整天不吃才需要管。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a027"
+      ]
+    },
+    {
+      "name": "限制作业帮APP使用",
+      "definition": "如果APP给解题步骤不给答案，可以允许使用但限制次数，如十道题给三次机会，用完不再用。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a028"
+      ]
+    },
+    {
+      "name": "减少考核与保持学习兴趣的平衡",
+      "definition": "减少考核对学习有不好影响，但完全没有考核会削弱抗压能力，需要平衡，通过比赛等方式建立抗压能力。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a029"
+      ]
+    },
+    {
+      "name": "带孩子参加比赛的目的",
+      "definition": "比赛目的不是赢，而是建立抗压能力，让孩子看到更厉害的人受到激励，激发竞争心，但不要强调排名。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a030",
+        "s-032fffd71d0e-c001:a031",
+        "s-032fffd71d0e-c002:a001"
+      ]
+    },
+    {
+      "name": "鼓励参加表演性场合",
+      "definition": "鼓励孩子参加表演性场合，如周年活动、圣诞节表演等，让孩子去看一下，开阔眼界。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a032",
+        "s-032fffd71d0e-c002:a002"
+      ]
+    },
+    {
+      "name": "四岁孩子参与日常活动的引导",
+      "definition": "四岁孩子想参与日常活动，安全的事情允许参与，危险的事情让他看着，耐心不够需要引导。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a033"
+      ]
+    },
+    {
+      "name": "反对小孩子上网课",
+      "definition": "讲师个人非常反对小孩子上网课，认为网课完全不能达到目标，完全没有必要。",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a004"
+      ]
+    },
+    {
+      "name": "好玩是孩子学习的重要原则",
+      "definition": "很多老师强调好玩对孩子学习的重要性，会主动降低难度或缩短时间，避免孩子觉得不好玩而失去兴趣。",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a005",
+        "s-032fffd71d0e-c002:a006",
+        "s-032fffd71d0e-c002:a007"
+      ]
+    },
+    {
+      "name": "学习不是选择而是必须",
+      "definition": "家长不应给孩子太多力量，学习从来不是一个选择，而是必须的事情，要让孩子明白学习是主业。",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a009",
+        "s-032fffd71d0e-c002:a012"
+      ]
+    },
+    {
+      "name": "时间分配原则",
+      "definition": "每个时间有自己的事情：做作业的时间做作业，吃饭的时间吃饭，睡觉的时间睡觉，玩的时间玩，不能混淆。",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a010"
+      ]
+    },
+    {
+      "name": "纠正12岁孩子学习问题的两种方法",
+      "definition": "容易的方法是先完成作业再玩，制定时间；难的方法是天天逼着孩子。可以让孩子选择或先试容易的方法再试难的方法。",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a011"
+      ]
+    },
+    {
+      "name": "判断孩子阅读是否读懂的方法",
+      "definition": "孩子读完后让他讲内容，如果读懂跳漏不用管；如果跳漏，通过提问让他找答案。",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a014",
+        "s-032fffd71d0e-c002:a016",
+        "s-032fffd71d0e-c002:r003"
+      ]
+    },
+    {
+      "name": "帮助孩子解压的方法",
+      "definition": "父母问孩子题目并赞叹，减轻压力；作业做不完设定截止时间，没做完第二天到学校再做。",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a018",
+        "s-032fffd71d0e-c002:r005",
+        "s-032fffd71d0e-c002:r006"
+      ]
+    },
+    {
+      "name": "应对老师问责的方法",
+      "definition": "如果孩子很努力但做不完作业，家长可以理直气壮告诉老师孩子做不完，回应个体差异，表明家长不会问责老师。",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a019",
+        "s-032fffd71d0e-c002:r004"
+      ]
+    },
+    {
+      "name": "保持探索热情的方法",
+      "definition": "每天花10分钟和孩子一起探索感兴趣的话题，上网搜索百科知识。",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a020",
+        "s-032fffd71d0e-c002:r007"
+      ]
+    },
+    {
+      "name": "童年创伤与大脑损害",
+      "definition": "童年遭受打骂不安全太多，信任和可能被长久损害，杏仁核可能一直张开，影响学习，不一定是习得性无助。",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a021",
+        "s-032fffd71d0e-c002:a022"
+      ]
+    },
+    {
+      "name": "打破习得性无助的方法",
+      "definition": "让自己知道现在是安全的，确认生理和心理安全，如果家庭仍有暴力需要解决安全问题。",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a023"
+      ]
+    },
+    {
+      "name": "父母支持对孩子信心的绝对性优势",
+      "definition": "父母对孩子的支持有绝对性优势，只要父母支持，外界批评影响不大。",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a025",
+        "s-032fffd71d0e-c003:a001"
+      ]
+    },
+    {
+      "name": "保护孩子好奇心的做法",
+      "definition": "在学校外可以让孩子幻想，父母支持孩子就好，不需要担心外界否定。",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a026"
+      ]
+    },
+    {
+      "name": "鼓励孩子提问以保持提问热情",
+      "definition": "家长应成为孩子最好的老师，鼓励孩子提问，积极回应，与孩子一起探讨，不否定孩子的想法。",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:a002"
+      ]
+    },
+    {
+      "name": "抗压力的核心底层逻辑",
+      "definition": "内心感到无条件的接纳和爱、高自我认知，以及快乐的能力、积极主动的能力、有支持自己的团体等。",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:a003",
+        "s-032fffd71d0e-c003:r002"
+      ]
+    },
+    {
+      "name": "抗压能力与犯错的关系",
+      "definition": "抗压能力最重要的一点是知道犯了错不是世界末日，摔倒了还能爬起来，需要经历失败才能理解。",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:a004"
+      ]
+    },
+    {
+      "name": "孩子失败后的正确陪伴方法",
+      "definition": "孩子失败后，家长蹲在旁边陪伴，不主动抱，用语言安抚，不强迫立刻爬起来，等孩子准备好再一起起来。",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:a006",
+        "s-032fffd71d0e-c003:r003"
+      ]
+    },
+    {
+      "name": "育儿需全方位融会贯通",
+      "definition": "育儿是全方位的东西，需要上完七大系列课形成完整闭环，把学过的东西融会贯通。",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:a007"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-032fffd71d0e-c001:a001",
+      "target": "s-032fffd71d0e-c001:a002",
+      "kind": "contrasts",
+      "condition": "压力水平不同",
+      "reason": "正常压力有助于发挥，但压力过大压迫大脑影响发挥，形成对比。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a002",
+      "target": "s-032fffd71d0e-c001:a003",
+      "kind": "causes",
+      "condition": "高压情境",
+      "reason": "因为压力过大影响发挥，所以需要给孩子松绑降低压力。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a003",
+      "target": "s-032fffd71d0e-c001:a004",
+      "kind": "step_of",
+      "condition": "降低考试压力",
+      "reason": "给孩子松绑是降低高压事件影响的一部分，双向调节还包括增加抗压能力。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a004",
+      "target": "s-032fffd71d0e-c001:a005",
+      "kind": "causes",
+      "condition": "抗压能力弱",
+      "reason": "因为平时抗压能力弱，大脑易受刺激，所以需要逐步增加抗压能力。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a006",
+      "target": "s-032fffd71d0e-c001:a007",
+      "kind": "step_of",
+      "condition": "兴趣探索后",
+      "reason": "四岁孩子先探索各种兴趣，然后确定兴趣项目。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a007",
+      "target": "s-032fffd71d0e-c001:a008",
+      "kind": "step_of",
+      "condition": "确定兴趣项目后",
+      "reason": "确定兴趣项目后，家长与孩子约定坚持一年。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a008",
+      "target": "s-032fffd71d0e-c001:a009",
+      "kind": "step_of",
+      "condition": "坚持期内想放弃",
+      "reason": "约定坚持一年的规则提出明确为期一年的约定，当孩子中途想放弃时，按坚持期内孩子想放弃的处理来应对；后者是前者在实施过程中的后续步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立，步骤关系合理。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a011",
+      "target": "s-032fffd71d0e-c001:a012",
+      "kind": "supports",
+      "condition": "坚持过程中",
+      "reason": "在坚持过程中，可以想办法让事情变得有趣，但必须坚持。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a017",
+      "target": "s-032fffd71d0e-c001:a018",
+      "kind": "example_of",
+      "condition": "发自内心接纳",
+      "reason": "某位家长案例说明父母需要发自内心接纳孩子，否则孩子能感知到。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a020",
+      "target": "s-032fffd71d0e-c001:a034",
+      "kind": "applies_to",
+      "condition": "17岁孩子紧急情况",
+      "reason": "改变环境的方法特别适用于17岁孩子紧急情况，优先改变环境。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a022",
+      "target": "s-032fffd71d0e-c001:a023",
+      "kind": "example_of",
+      "condition": "冲突案例",
+      "reason": "体能教练案例是双赢解决冲突方法的应用实例。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a023",
+      "target": "s-032fffd71d0e-c001:a024",
+      "kind": "supports",
+      "condition": "孩子不愿意换教练",
+      "reason": "把难题抛给孩子促使其做选择，是双赢方法的具体策略。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a023",
+      "target": "s-032fffd71d0e-c001:a025",
+      "kind": "supports",
+      "condition": "亲子关系",
+      "reason": "双赢理念在亲子关系中的应用，避免对立。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a029",
+      "target": "s-032fffd71d0e-c001:a030",
+      "kind": "association",
+      "condition": "减少考核",
+      "reason": "减少考核与保持学习兴趣的平衡提出减少考核可能削弱抗压能力，需要借助其他方式建立抗压能力；带孩子参加比赛的目的阐述比赛以建立抗压能力为目的。两者相关，但不存在直接因果或支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 不在允许范围内，且关系为相关而非因果，降级为 association。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a030",
+      "target": "s-032fffd71d0e-c001:a031",
+      "kind": "example_of",
+      "condition": "比赛激励",
+      "reason": "带孩子参加比赛可以让孩子看到更厉害的人受到激励，儿子考跆拳道黄带受激励的案例是这一点的具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例与观点匹配，例证关系成立。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a030",
+      "target": "s-032fffd71d0e-c001:a032",
+      "kind": "association",
+      "condition": "参与场合",
+      "reason": "带孩子参加比赛的目的和鼓励孩子参加表演性场合都涉及帮助孩子开阔眼界、建立抗压能力，但后者并未直接支持前者的具体主张，两者属于同一议题下的关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 证据不足，降级为 association。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a003",
+      "target": "s-032fffd71d0e-c002:a004",
+      "kind": "supports",
+      "condition": "五岁孩子上网课",
+      "reason": "五岁孩子不愿上网课和篮球课的案例引出并支持讲师反对小孩子上网课的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 不准确，改为 supports，因为案例为观点提供证据而非例示。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a004",
+      "target": "s-032fffd71d0e-c002:a005",
+      "kind": "supports",
+      "condition": "小孩子学习",
+      "reason": "游泳课15分钟时长案例说明小孩子体力有限，学习时间不宜过长，支持反对小孩子上网课的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a005",
+      "target": "s-032fffd71d0e-c002:a006",
+      "kind": "supports",
+      "condition": "好玩原则",
+      "reason": "游泳课案例体现好玩原则，避免孩子把学习当任务。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a006",
+      "target": "s-032fffd71d0e-c002:a007",
+      "kind": "contrasts",
+      "condition": "游泳要求",
+      "reason": "五岁孩子被要求游800米是反例，说明不好玩会失去兴趣。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a008",
+      "target": "s-032fffd71d0e-c002:a009",
+      "kind": "causes",
+      "condition": "12岁孩子不愿学习",
+      "reason": "因为孩子认为学习是选择，所以需要让孩子明白学习是必须。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a009",
+      "target": "s-032fffd71d0e-c002:a010",
+      "kind": "supports",
+      "condition": "时间管理",
+      "reason": "学习是必须，所以需要时间分配原则来保证学习时间。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a009",
+      "target": "s-032fffd71d0e-c002:a011",
+      "kind": "causes",
+      "condition": "纠正学习问题",
+      "reason": "因为学习是必须，所以需要纠正孩子不愿学习的问题，提供两种方法。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a009",
+      "target": "s-032fffd71d0e-c002:a012",
+      "kind": "causes",
+      "condition": "家长权威",
+      "reason": "因为学习是必须，家长需要收回给孩子的过多力量。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a013",
+      "target": "s-032fffd71d0e-c002:a014",
+      "kind": "association",
+      "condition": "阅读跳字串行",
+      "reason": "八岁半男孩读书跳字串行的问题，与判断孩子阅读是否读懂的方法相互关联，后者为问题提供解决方案，但二者不构成直接因果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 不在允许范围，且关系为问题与方法关联，改为 association。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a014",
+      "target": "s-032fffd71d0e-c002:a015",
+      "kind": "example_of",
+      "condition": "阅读速度快",
+      "reason": "判断孩子阅读是否读懂的方法指出跳漏可能只是眼睛看到但嘴巴没读出来，天才双胞胎阅读快的案例正是这种现象的例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a014",
+      "target": "s-032fffd71d0e-c002:a016",
+      "kind": "supports",
+      "condition": "提问方法",
+      "reason": "判断孩子阅读是否读懂的方法中包含的提问策略，支持了通过提问解决孩子阅读问题的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a017",
+      "target": "s-032fffd71d0e-c002:a018",
+      "kind": "association",
+      "condition": "学业压力大",
+      "reason": "14岁八年级男孩学业压力大的案例与帮助孩子解压的方法相关，后者为前者提供应对策略，但二者不构成因果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 不在允许范围，改为 association。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a018",
+      "target": "s-032fffd71d0e-c002:a019",
+      "kind": "association",
+      "condition": "作业做不完",
+      "reason": "帮助孩子解压的方法中设定作业截止时间，与应对老师问责的方法相关，但后者并非前者的步骤之一，属于同议题下的配套关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 关系不成立，改为 association。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a018",
+      "target": "s-032fffd71d0e-c002:a020",
+      "kind": "association",
+      "condition": "保持探索热情",
+      "reason": "帮助孩子解压的方法与保持探索热情的方法都涉及亲子互动和鼓励孩子，但二者之间没有直接支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 证据不足，降级为 association。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a021",
+      "target": "s-032fffd71d0e-c002:a022",
+      "kind": "causes",
+      "condition": "童年暴力",
+      "reason": "童年暴力可能导致大脑永久损害，影响学习。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a022",
+      "target": "s-032fffd71d0e-c002:a023",
+      "kind": "causes",
+      "condition": "习得性无助",
+      "reason": "大脑损害可能导致习得性无助，需要打破，所以提供方法。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a024",
+      "target": "s-032fffd71d0e-c002:a025",
+      "kind": "causes",
+      "condition": "外界否定",
+      "reason": "孩子被外界否定，需要父母支持来保护好奇心。"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a025",
+      "target": "s-032fffd71d0e-c002:a026",
+      "kind": "supports",
+      "condition": "保护好奇心",
+      "reason": "父母支持对孩子有绝对优势这一一般原则，支持保护孩子好奇心的做法中父母支持就好的具体建议。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:a001",
+      "target": "s-032fffd71d0e-c003:a002",
+      "kind": "supports",
+      "condition": "鼓励提问",
+      "reason": "父母支持孩子，所以应鼓励孩子提问，保持提问热情。"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:a003",
+      "target": "s-032fffd71d0e-c003:a004",
+      "kind": "supports",
+      "condition": "抗压能力",
+      "reason": "抗压能力与犯错的关系是抗压力的核心底层逻辑的一个具体方面，支持了抗压力核心底层逻辑的阐述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:a004",
+      "target": "s-032fffd71d0e-c003:a006",
+      "kind": "association",
+      "condition": "孩子失败",
+      "reason": "抗压能力与犯错的关系强调孩子需要经历失败，孩子失败后的正确陪伴方法为家长提供了应对策略，但二者并非直接因果，而是关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 不在允许范围，且关系为策略配套，改为 association。"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:a003",
+      "target": "s-032fffd71d0e-c003:a005",
+      "kind": "example_of",
+      "condition": "抗压能力",
+      "reason": "讲师分享自身抗压能力与事业取舍的案例，体现了抗压力的核心底层逻辑中知道自己有能力、失败后可以再起来的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例与观点匹配，例证关系成立。"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:a006",
+      "target": "s-032fffd71d0e-c003:r003",
+      "kind": "supports",
+      "condition": "失败陪伴",
+      "reason": "正确陪伴方法包括避免负面评价，去旁边鼓励。"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:a007",
+      "target": "s-032fffd71d0e-c003:a003",
+      "kind": "association",
+      "condition": "育儿体系",
+      "reason": "育儿需全方位融会贯通强调整体闭环，抗压力的核心底层逻辑是其中一部分，但整体并不直接支持该底层逻辑的具体内容。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 证据不足，降级为 association。"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n001",
+      "target": "s-032fffd71d0e-c001:a006",
+      "kind": "example_of",
+      "condition": "当孩子四岁左右兴趣转移时",
+      "reason": "源展示了家长描述的四岁孩子兴趣转移的具体情境，而候选是讲师提出的原则（四岁孩子不需立刻定项目，应探索），故源是候选原则的一个实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a006",
+      "target": "s-032fffd71d0e-c001:v2-n001",
+      "kind": "has_example",
+      "condition": "当孩子四岁左右兴趣转移时",
+      "reason": "源展示了家长描述的四岁孩子兴趣转移的具体情境，而候选是讲师提出的原则（四岁孩子不需立刻定项目，应探索），故源是候选原则的一个实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n001",
+      "target": "s-032fffd71d0e-c001:a033",
+      "kind": "association",
+      "condition": "当四岁孩子表现出探索性行为时",
+      "reason": "候选涉及四岁孩子想参与日常活动，源涉及兴趣探索，两者同属四岁孩子探索行为，但具体内容不同（日常活动 vs 兴趣班），关系较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a033",
+      "target": "s-032fffd71d0e-c001:v2-n001",
+      "kind": "association",
+      "condition": "当四岁孩子表现出探索性行为时",
+      "reason": "候选涉及四岁孩子想参与日常活动，源涉及兴趣探索，两者同属四岁孩子探索行为，但具体内容不同（日常活动 vs 兴趣班），关系较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n001",
+      "target": "s-032fffd71d0e-c002:v2-n003",
+      "kind": "association",
+      "condition": "当希望保持孩子探索热情时",
+      "reason": "候选提供给孩子单独时间探索的方法，与源家长询问如何帮助孩子保持学习心相关，但不是直接回答该案例问题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n003",
+      "target": "s-032fffd71d0e-c001:v2-n001",
+      "kind": "association",
+      "condition": "当希望保持孩子探索热情时",
+      "reason": "候选提供给孩子单独时间探索的方法，与源家长询问如何帮助孩子保持学习心相关，但不是直接回答该案例问题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n001",
+      "target": "s-032fffd71d0e-c001:a019",
+      "kind": "association",
+      "condition": "家长努力方向涉及学习心时",
+      "reason": "候选列出家长帮助孩子保持学习心的努力方向，源中家长担心自己短板无法帮助孩子，候选可提供宏观指导，关联但非直接针对案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a019",
+      "target": "s-032fffd71d0e-c001:v2-n001",
+      "kind": "association",
+      "condition": "家长努力方向涉及学习心时",
+      "reason": "候选列出家长帮助孩子保持学习心的努力方向，源中家长担心自己短板无法帮助孩子，候选可提供宏观指导，关联但非直接针对案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n001",
+      "target": "s-032fffd71d0e-c002:a007",
+      "kind": "association",
+      "condition": "当孩子兴趣被任务化时",
+      "reason": "候选是五岁孩子游泳被功利化导致失去兴趣的反例，源涉及四岁孩子兴趣转移，两者都关注兴趣保护，但年龄和具体情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a007",
+      "target": "s-032fffd71d0e-c001:v2-n001",
+      "kind": "association",
+      "condition": "当孩子兴趣被任务化时",
+      "reason": "候选是五岁孩子游泳被功利化导致失去兴趣的反例，源涉及四岁孩子兴趣转移，两者都关注兴趣保护，但年龄和具体情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n001",
+      "target": "s-032fffd71d0e-c001:v2-n003",
+      "kind": "association",
+      "condition": "当孩子不愿上课外班或网课时",
+      "reason": "候选是五岁孩子不愿上网课和课外班，源是四岁孩子兴趣转移，均涉及孩子对学习项目的态度，但年龄和内容有差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n003",
+      "target": "s-032fffd71d0e-c001:v2-n001",
+      "kind": "association",
+      "condition": "当孩子不愿上课外班或网课时",
+      "reason": "候选是五岁孩子不愿上网课和课外班，源是四岁孩子兴趣转移，均涉及孩子对学习项目的态度，但年龄和内容有差异。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n001",
+      "target": "s-032fffd71d0e-c001:a013",
+      "kind": "complements",
+      "condition": "当四岁孩子尝试兴趣项目时",
+      "reason": "候选补充了四岁孩子体验兴趣项目的最长时限（半年），并指出体验课一节不够，为源中孩子频繁换兴趣提供了操作建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a013",
+      "target": "s-032fffd71d0e-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当四岁孩子尝试兴趣项目时",
+      "reason": "候选补充了四岁孩子体验兴趣项目的最长时限（半年），并指出体验课一节不够，为源中孩子频繁换兴趣提供了操作建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n001",
+      "target": "s-032fffd71d0e-c001:a010",
+      "kind": "complements",
+      "condition": "当孩子探索兴趣后需要确定项目时",
+      "reason": "候选补充了探索后选定项目并坚持一年的做法，弥补了源只强调探索未涉及坚持的空白。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a010",
+      "target": "s-032fffd71d0e-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子探索兴趣后需要确定项目时",
+      "reason": "候选补充了探索后选定项目并坚持一年的做法，弥补了源只强调探索未涉及坚持的空白。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n001",
+      "target": "s-032fffd71d0e-c001:a011",
+      "kind": "complements",
+      "condition": "当孩子兴趣学习进入坚持阶段时",
+      "reason": "候选强调兴趣学习中的坚持与毅力练习，与源中孩子兴趣转移后如何保持学习心的问题相关，补充了坚持的重要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a011",
+      "target": "s-032fffd71d0e-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子兴趣学习进入坚持阶段时",
+      "reason": "候选强调兴趣学习中的坚持与毅力练习，与源中孩子兴趣转移后如何保持学习心的问题相关，补充了坚持的重要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n001",
+      "target": "s-032fffd71d0e-c001:a007",
+      "kind": "complements",
+      "condition": "当孩子尝试一圈兴趣后需要确定项目时",
+      "reason": "候选提供了探索后确定兴趣项目的具体步骤（让孩子说出喜欢什么并确认），与源的四岁孩子探索兴趣相关，补充了确定方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a007",
+      "target": "s-032fffd71d0e-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子尝试一圈兴趣后需要确定项目时",
+      "reason": "候选提供了探索后确定兴趣项目的具体步骤（让孩子说出喜欢什么并确认），与源的四岁孩子探索兴趣相关，补充了确定方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n001",
+      "target": "s-032fffd71d0e-c002:a003",
+      "kind": "association",
+      "condition": "当孩子不愿上网课或课外班时",
+      "reason": "候选与源同样是孩子对课程不满，但年龄五岁且原因为时间太长，与源中四岁兴趣转移不同，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a003",
+      "target": "s-032fffd71d0e-c001:v2-n001",
+      "kind": "association",
+      "condition": "当孩子不愿上网课或课外班时",
+      "reason": "候选与源同样是孩子对课程不满，但年龄五岁且原因为时间太长，与源中四岁兴趣转移不同，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n002",
+      "target": "s-032fffd71d0e-c002:a002",
+      "kind": "association",
+      "condition": "当孩子需要展示机会时",
+      "reason": "候选与源内容高度一致，仅表述略有差异（源强调激励，候选强调开阔眼界），无实质补充，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a002",
+      "target": "s-032fffd71d0e-c001:v2-n002",
+      "kind": "association",
+      "condition": "当孩子需要展示机会时",
+      "reason": "候选与源内容高度一致，仅表述略有差异（源强调激励，候选强调开阔眼界），无实质补充，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n002",
+      "target": "s-032fffd71d0e-c001:a032",
+      "kind": "conditional_difference",
+      "condition": "当孩子有机会参加比赛和表演时",
+      "reason": "源侧重“不一定要参加比赛”，而候选同时鼓励参加比赛和表演，在是否鼓励比赛上存在条件差异，但两者并不直接冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a032",
+      "target": "s-032fffd71d0e-c001:v2-n002",
+      "kind": "conditional_difference",
+      "condition": "当孩子有机会参加比赛和表演时",
+      "reason": "源侧重“不一定要参加比赛”，而候选同时鼓励参加比赛和表演，在是否鼓励比赛上存在条件差异，但两者并不直接冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n002",
+      "target": "s-032fffd71d0e-c001:a030",
+      "kind": "association",
+      "condition": "当考虑参加比赛时",
+      "reason": "候选讨论带孩子参加比赛的目的（抗压能力、激励），与源提倡的表演性场合同为激励手段，但途径不同，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a030",
+      "target": "s-032fffd71d0e-c001:v2-n002",
+      "kind": "association",
+      "condition": "当考虑参加比赛时",
+      "reason": "候选讨论带孩子参加比赛的目的（抗压能力、激励），与源提倡的表演性场合同为激励手段，但途径不同，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n002",
+      "target": "s-032fffd71d0e-c002:a001",
+      "kind": "association",
+      "condition": "当孩子参加考试或比赛时",
+      "reason": "候选揭示考试/比赛通过看到更厉害的人激发动机的机制，与源中表演性场合让孩子看到更厉害的表现受到激励的机制类似，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a001",
+      "target": "s-032fffd71d0e-c001:v2-n002",
+      "kind": "association",
+      "condition": "当孩子参加考试或比赛时",
+      "reason": "候选揭示考试/比赛通过看到更厉害的人激发动机的机制，与源中表演性场合让孩子看到更厉害的表现受到激励的机制类似，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n002",
+      "target": "s-032fffd71d0e-c001:a031",
+      "kind": "association",
+      "condition": "当孩子参加考试或比赛并看到更厉害表现时",
+      "reason": "候选是具体案例，展示了源所描述的“看到更厉害的表现并受到激励”的现象，但场合是跆拳道考试，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a031",
+      "target": "s-032fffd71d0e-c001:v2-n002",
+      "kind": "association",
+      "condition": "当孩子参加考试或比赛并看到更厉害表现时",
+      "reason": "候选是具体案例，展示了源所描述的“看到更厉害的表现并受到激励”的现象，但场合是跆拳道考试，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n003",
+      "target": "s-032fffd71d0e-c002:a003",
+      "kind": "complements",
+      "condition": "当孩子表达不愿上网课或课外班时",
+      "reason": "候选补充了孩子说“太累太晚回家”的具体原因，且详细描述家长询问如何理解，弥补了源中未提及的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a003",
+      "target": "s-032fffd71d0e-c001:v2-n003",
+      "kind": "complements",
+      "condition": "当孩子表达不愿上网课或课外班时",
+      "reason": "候选补充了孩子说“太累太晚回家”的具体原因，且详细描述家长询问如何理解，弥补了源中未提及的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n003",
+      "target": "s-032fffd71d0e-c002:r002",
+      "kind": "complements",
+      "condition": "当孩子说上课时间太长时",
+      "reason": "候选提供了判断孩子说上课时间太长的具体方法（确认实际时长，判断是无聊还是有更好玩的事），是对源中家长问题的直接分析框架。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:r002",
+      "target": "s-032fffd71d0e-c001:v2-n003",
+      "kind": "complements",
+      "condition": "当孩子说上课时间太长时",
+      "reason": "候选提供了判断孩子说上课时间太长的具体方法（确认实际时长，判断是无聊还是有更好玩的事），是对源中家长问题的直接分析框架。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n003",
+      "target": "s-032fffd71d0e-c002:a004",
+      "kind": "association",
+      "condition": "当孩子被要求上网课时",
+      "reason": "候选是讲师对网课的反对态度，与源中孩子不愿上网课相关，但源中讲师未直接回答，此候选可作为讲师一般观点的补充，但非针对该案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a004",
+      "target": "s-032fffd71d0e-c001:v2-n003",
+      "kind": "association",
+      "condition": "当孩子被要求上网课时",
+      "reason": "候选是讲师对网课的反对态度，与源中孩子不愿上网课相关，但源中讲师未直接回答，此候选可作为讲师一般观点的补充，但非针对该案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n003",
+      "target": "s-032fffd71d0e-c001:v2-n001",
+      "kind": "association",
+      "condition": "当孩子兴趣或课程参与出现问题时",
+      "reason": "候选为四岁孩子兴趣转移案例，源为五岁孩子不愿上课外班，均涉及孩子对学习项目的态度，但年龄和具体问题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n001",
+      "target": "s-032fffd71d0e-c001:v2-n003",
+      "kind": "association",
+      "condition": "当孩子兴趣或课程参与出现问题时",
+      "reason": "候选为四岁孩子兴趣转移案例，源为五岁孩子不愿上课外班，均涉及孩子对学习项目的态度，但年龄和具体问题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n003",
+      "target": "s-032fffd71d0e-c001:a022",
+      "kind": "association",
+      "condition": "当课外班安排出现问题时",
+      "reason": "候选涉及课外班教练缩短课时引发冲突，源涉及孩子不愿上课外班，同属课外班问题但侧重点不同，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a022",
+      "target": "s-032fffd71d0e-c001:v2-n003",
+      "kind": "association",
+      "condition": "当课外班安排出现问题时",
+      "reason": "候选涉及课外班教练缩短课时引发冲突，源涉及孩子不愿上课外班，同属课外班问题但侧重点不同，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n003",
+      "target": "s-032fffd71d0e-c002:a007",
+      "kind": "association",
+      "condition": "当孩子对体育活动失去兴趣时",
+      "reason": "候选是五岁孩子游泳被功利化的反例，源是五岁孩子不愿上网课和课外班，年龄相同，都涉及孩子兴趣受损，但具体项目不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a007",
+      "target": "s-032fffd71d0e-c001:v2-n003",
+      "kind": "association",
+      "condition": "当孩子对体育活动失去兴趣时",
+      "reason": "候选是五岁孩子游泳被功利化的反例，源是五岁孩子不愿上网课和课外班，年龄相同，都涉及孩子兴趣受损，但具体项目不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n001",
+      "target": "s-032fffd71d0e-c002:a011",
+      "kind": "association",
+      "condition": "当孩子学习问题需要纠正时",
+      "reason": "候选涉及制定学习和玩耍时间，源涉及父母不要总看孩子学习，两者同属学习管理，但角度和年龄可能不同，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a011",
+      "target": "s-032fffd71d0e-c002:v2-n001",
+      "kind": "association",
+      "condition": "当孩子学习问题需要纠正时",
+      "reason": "候选涉及制定学习和玩耍时间，源涉及父母不要总看孩子学习，两者同属学习管理，但角度和年龄可能不同，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n001",
+      "target": "s-032fffd71d0e-c002:a008",
+      "kind": "association",
+      "condition": "当父母监督孩子学习计划时",
+      "reason": "候选案例中母亲纠结是否监督孩子执行计划，源建议不要总过去看，两者在监督学习行为上有一定关联，但候选年龄12岁且情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a008",
+      "target": "s-032fffd71d0e-c002:v2-n001",
+      "kind": "association",
+      "condition": "当父母监督孩子学习计划时",
+      "reason": "候选案例中母亲纠结是否监督孩子执行计划，源建议不要总过去看，两者在监督学习行为上有一定关联，但候选年龄12岁且情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n002",
+      "target": "s-032fffd71d0e-c002:a014",
+      "kind": "complements",
+      "condition": "当八岁半孩子读书跳字串行时",
+      "reason": "候选补充了判断孩子是否读懂的具体方法（让孩子讲内容，针对跳漏提问），而源仅指出内容完整即读明白了但未提供判断步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a014",
+      "target": "s-032fffd71d0e-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当八岁半孩子读书跳字串行时",
+      "reason": "候选补充了判断孩子是否读懂的具体方法（让孩子讲内容，针对跳漏提问），而源仅指出内容完整即读明白了但未提供判断步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n002",
+      "target": "s-032fffd71d0e-c002:a013",
+      "kind": "association",
+      "condition": "当八岁半孩子出现阅读跳字时",
+      "reason": "候选为具体案例，展示了源所描述的现象，但候选是报告案例，未提供额外解释，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a013",
+      "target": "s-032fffd71d0e-c002:v2-n002",
+      "kind": "association",
+      "condition": "当八岁半孩子出现阅读跳字时",
+      "reason": "候选为具体案例，展示了源所描述的现象，但候选是报告案例，未提供额外解释，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n002",
+      "target": "s-032fffd71d0e-c002:a015",
+      "kind": "association",
+      "condition": "当阅读速度与朗读不一致时",
+      "reason": "候选案例显示眼睛看得快导致嘴巴不读，与源中跳字串行现象类似，但年龄和情境不同，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a015",
+      "target": "s-032fffd71d0e-c002:v2-n002",
+      "kind": "association",
+      "condition": "当阅读速度与朗读不一致时",
+      "reason": "候选案例显示眼睛看得快导致嘴巴不读，与源中跳字串行现象类似，但年龄和情境不同，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n002",
+      "target": "s-032fffd71d0e-c002:r003",
+      "kind": "complements",
+      "condition": "当孩子读完后需要判断是否读懂时",
+      "reason": "候选补充了通过针对跳漏内容提问来验证孩子是否读到的具体方法，与源判断是否读明白相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:r003",
+      "target": "s-032fffd71d0e-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子读完后需要判断是否读懂时",
+      "reason": "候选补充了通过针对跳漏内容提问来验证孩子是否读到的具体方法，与源判断是否读明白相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n002",
+      "target": "s-032fffd71d0e-c002:a016",
+      "kind": "complements",
+      "condition": "当孩子阅读跳字串行时",
+      "reason": "候强调家长学会提问判断是否读懂，而不是直接纠正，为源提供了应对策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a016",
+      "target": "s-032fffd71d0e-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子阅读跳字串行时",
+      "reason": "候强调家长学会提问判断是否读懂，而不是直接纠正，为源提供了应对策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n003",
+      "target": "s-032fffd71d0e-c002:r005",
+      "kind": "complements",
+      "condition": "在保持孩子探索热情的目标下，可与单独探索时间配合使用。",
+      "reason": "源建议安排孩子可自由支配的单独时间让他探索自己感兴趣的事情；候选建议父母问孩子题目并赞叹以减轻压力并保持探索热情，两者分别从自主探索和家长互动提问两个角度补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:r005",
+      "target": "s-032fffd71d0e-c002:v2-n003",
+      "kind": "complements",
+      "condition": "在保持孩子探索热情的目标下，可与单独探索时间配合使用。",
+      "reason": "源建议安排孩子可自由支配的单独时间让他探索自己感兴趣的事情；候选建议父母问孩子题目并赞叹以减轻压力并保持探索热情，两者分别从自主探索和家长互动提问两个角度补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n003",
+      "target": "s-032fffd71d0e-c002:a020",
+      "kind": "complements",
+      "condition": "在保持探索热情的方法层面，源提供独立时间，候选提供每日10分钟亲子共学具体话题。",
+      "reason": "源通过给孩子单独时间促进其自己探索；候选提出每天花10分钟与孩子一起上网搜索感兴趣话题，两者分别填补自主探索和亲子共学两个实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a020",
+      "target": "s-032fffd71d0e-c002:v2-n003",
+      "kind": "complements",
+      "condition": "在保持探索热情的方法层面，源提供独立时间，候选提供每日10分钟亲子共学具体话题。",
+      "reason": "源通过给孩子单独时间促进其自己探索；候选提出每天花10分钟与孩子一起上网搜索感兴趣话题，两者分别填补自主探索和亲子共学两个实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n003",
+      "target": "s-032fffd71d0e-c001:v2-n001",
+      "kind": "association",
+      "condition": "均涉及儿童兴趣探索，但源为方法，候选为4岁孩子兴趣转移案例；未发现直接衔接。",
+      "reason": "源针对保持探索热情给出单独时间安排；候选描述四岁孩子兴趣变化和家长困惑，二者主题相近但缺乏具体方法上的直接配合，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:v2-n001",
+      "target": "s-032fffd71d0e-c002:v2-n003",
+      "kind": "association",
+      "condition": "均涉及儿童兴趣探索，但源为方法，候选为4岁孩子兴趣转移案例；未发现直接衔接。",
+      "reason": "源针对保持探索热情给出单独时间安排；候选描述四岁孩子兴趣变化和家长困惑，二者主题相近但缺乏具体方法上的直接配合，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n003",
+      "target": "s-032fffd71d0e-c002:a010",
+      "kind": "association",
+      "condition": "源涉及给孩子单独时间，候选涉及固定时间分配原则；未说明如何协调。",
+      "reason": "源建议安排可自由支配的单独时间；候选主张每个时间有固定事情，但未对源的自由探索时间作明确安排，无法判定互补或冲突，仅因时间主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a010",
+      "target": "s-032fffd71d0e-c002:v2-n003",
+      "kind": "association",
+      "condition": "源涉及给孩子单独时间，候选涉及固定时间分配原则；未说明如何协调。",
+      "reason": "源建议安排可自由支配的单独时间；候选主张每个时间有固定事情，但未对源的自由探索时间作明确安排，无法判定互补或冲突，仅因时间主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n003",
+      "target": "s-032fffd71d0e-c002:a012",
+      "kind": "conditional_difference",
+      "condition": "当单独探索时间被误用为孩子自主决定全部时间时，候选与源形成差异；源仅指安排好的自由时间，并未让渡所有时间决定权。",
+      "reason": "源鼓励给孩子单独时间探索自己的事情；候选警告家长给孩子太多力量会导致孩子自主决定时间，需要收回力量。二者在是否允许孩子自主决定时间上存在条件性差异：源限定为指定单独时间，候选针对过度放权。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a012",
+      "target": "s-032fffd71d0e-c002:v2-n003",
+      "kind": "conditional_difference",
+      "condition": "当单独探索时间被误用为孩子自主决定全部时间时，候选与源形成差异；源仅指安排好的自由时间，并未让渡所有时间决定权。",
+      "reason": "源鼓励给孩子单独时间探索自己的事情；候选警告家长给孩子太多力量会导致孩子自主决定时间，需要收回力量。二者在是否允许孩子自主决定时间上存在条件性差异：源限定为指定单独时间，候选针对过度放权。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n003",
+      "target": "s-032fffd71d0e-c002:a018",
+      "kind": "association",
+      "condition": "源目标为保持探索热情，候选目标为解压；两者均涉及亲子互动但重点不同。",
+      "reason": "源提出给孩子单独时间探索；候选提供通过提问赞叹和作业截止时间帮孩子解压的方法，其中提问赞叹与另一候选r005相似，但与源的单独探索无直接配合，仅因亲子支持主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a018",
+      "target": "s-032fffd71d0e-c002:v2-n003",
+      "kind": "association",
+      "condition": "源目标为保持探索热情，候选目标为解压；两者均涉及亲子互动但重点不同。",
+      "reason": "源提出给孩子单独时间探索；候选提供通过提问赞叹和作业截止时间帮孩子解压的方法，其中提问赞叹与另一候选r005相似，但与源的单独探索无直接配合，仅因亲子支持主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n003",
+      "target": "s-032fffd71d0e-c001:a006",
+      "kind": "association",
+      "condition": "源适用于初高中阶段也可使用；候选针对4岁兴趣探索期，年龄条件不同。",
+      "reason": "源指出初高中阶段学业压力大时也可使用单独时间探索；候选提出四岁孩子应探索各种兴趣不必定项目，均涉及探索兴趣，但适用年龄段不同，仅作主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a006",
+      "target": "s-032fffd71d0e-c002:v2-n003",
+      "kind": "association",
+      "condition": "源适用于初高中阶段也可使用；候选针对4岁兴趣探索期，年龄条件不同。",
+      "reason": "源指出初高中阶段学业压力大时也可使用单独时间探索；候选提出四岁孩子应探索各种兴趣不必定项目，均涉及探索兴趣，但适用年龄段不同，仅作主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n003",
+      "target": "s-032fffd71d0e-c001:a019",
+      "kind": "complements",
+      "condition": "在家长帮助孩子保持学习心/探索热情的整体方向下，源可作为候选所提培养兴趣好奇心的一种具体做法。",
+      "reason": "候选列出家长不看重成绩、培养兴趣好奇心、营造轻松家庭氛围等努力方向；源提供\"给孩子单独时间探索\"这一具体做法，补充候选较宏观清单中的可操作方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a019",
+      "target": "s-032fffd71d0e-c002:v2-n003",
+      "kind": "complements",
+      "condition": "在家长帮助孩子保持学习心/探索热情的整体方向下，源可作为候选所提培养兴趣好奇心的一种具体做法。",
+      "reason": "候选列出家长不看重成绩、培养兴趣好奇心、营造轻松家庭氛围等努力方向；源提供\"给孩子单独时间探索\"这一具体做法，补充候选较宏观清单中的可操作方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n003",
+      "target": "s-032fffd71d0e-c002:a009",
+      "kind": "association",
+      "condition": "若单独时间用于非学习自由探索，不与候选冲突；候选强调学习时间不可协商。",
+      "reason": "源给予孩子单独时间探索自己事情；候选强调学习不是选择而是必须，二者都涉及孩子时间与自主权，但未直接冲突或互补，仅因控制权主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a009",
+      "target": "s-032fffd71d0e-c002:v2-n003",
+      "kind": "association",
+      "condition": "若单独时间用于非学习自由探索，不与候选冲突；候选强调学习时间不可协商。",
+      "reason": "源给予孩子单独时间探索自己事情；候选强调学习不是选择而是必须，二者都涉及孩子时间与自主权，但未直接冲突或互补，仅因控制权主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n003",
+      "target": "s-032fffd71d0e-c001:a007",
+      "kind": "association",
+      "condition": "源涉及探索阶段给时间，候选涉及探索后确定兴趣项目；存在过程关联但源不是候选的明确步骤。",
+      "reason": "源帮助孩子在探索期拥有单独时间；候选描述尝试各种兴趣后确定一个项目并约定坚持，二者顺序相关但候选未包含源的具体步骤，不能判定为step_of，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a007",
+      "target": "s-032fffd71d0e-c002:v2-n003",
+      "kind": "association",
+      "condition": "源涉及探索阶段给时间，候选涉及探索后确定兴趣项目；存在过程关联但源不是候选的明确步骤。",
+      "reason": "源帮助孩子在探索期拥有单独时间；候选描述尝试各种兴趣后确定一个项目并约定坚持，二者顺序相关但候选未包含源的具体步骤，不能判定为step_of，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n004",
+      "target": "s-032fffd71d0e-c002:a001",
+      "kind": "complements",
+      "condition": "在不同学习活动（作业与考试/比赛）中，均强调目的不是表面指标（完成/排名），而是学习与发展。",
+      "reason": "源指出做题要让孩子知道题怎么做而非单纯完成；候选指出考试/比赛目的不是排名而是看到更强者以激发动机，二者分别补充对作业和考试的正确功能定位。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a001",
+      "target": "s-032fffd71d0e-c002:v2-n004",
+      "kind": "complements",
+      "condition": "在不同学习活动（作业与考试/比赛）中，均强调目的不是表面指标（完成/排名），而是学习与发展。",
+      "reason": "源指出做题要让孩子知道题怎么做而非单纯完成；候选指出考试/比赛目的不是排名而是看到更强者以激发动机，二者分别补充对作业和考试的正确功能定位。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n004",
+      "target": "s-032fffd71d0e-c001:a030",
+      "kind": "association",
+      "condition": "源针对作业目的，候选针对比赛目的；两者均注重非成绩目标，但具体活动不同。",
+      "reason": "源主张作业是为了理解而非完成；候选主张比赛不是为了赢而是建立抗压能力并看到更强者，两者都反对单纯结果导向，但未直接衔接，仅因学习动机主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a030",
+      "target": "s-032fffd71d0e-c002:v2-n004",
+      "kind": "association",
+      "condition": "源针对作业目的，候选针对比赛目的；两者均注重非成绩目标，但具体活动不同。",
+      "reason": "源主张作业是为了理解而非完成；候选主张比赛不是为了赢而是建立抗压能力并看到更强者，两者都反对单纯结果导向，但未直接衔接，仅因学习动机主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n004",
+      "target": "s-032fffd71d0e-c001:a003",
+      "kind": "association",
+      "condition": "源针对作业理解，候选针对考试压力；两者均涉及降低对结果的过度关注。",
+      "reason": "源提出作业目的在于知道怎么做；候选提出降低考试压力、给孩子松绑，均试图减轻表现压力，但来源与目标活动不同，仅作弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a003",
+      "target": "s-032fffd71d0e-c002:v2-n004",
+      "kind": "association",
+      "condition": "源针对作业理解，候选针对考试压力；两者均涉及降低对结果的过度关注。",
+      "reason": "源提出作业目的在于知道怎么做；候选提出降低考试压力、给孩子松绑，均试图减轻表现压力，但来源与目标活动不同，仅作弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n004",
+      "target": "s-032fffd71d0e-c001:a017",
+      "kind": "association",
+      "condition": "源涉及做题理解，候选涉及欢迎犯错；两者都暗含学习过程重于结果。",
+      "reason": "源强调让孩子知道题怎么做而非单纯完成；候选要求家长发自内心欢迎孩子犯错，均指向学习中的试错与理解，但没有直接步骤或前提关系，仅因学习心态关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c001:a017",
+      "target": "s-032fffd71d0e-c002:v2-n004",
+      "kind": "association",
+      "condition": "源涉及做题理解，候选涉及欢迎犯错；两者都暗含学习过程重于结果。",
+      "reason": "源强调让孩子知道题怎么做而非单纯完成；候选要求家长发自内心欢迎孩子犯错，均指向学习中的试错与理解，但没有直接步骤或前提关系，仅因学习心态关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n004",
+      "target": "s-032fffd71d0e-c002:a011",
+      "kind": "conditional_difference",
+      "condition": "在改善孩子作业行为时，候选的方法可能仅保证完成，需结合源的理解目标。",
+      "reason": "候选提供两种纠正12岁孩子学习问题的方法，重点在完成作业时间安排或逼迫执行；源提醒做题目的不只是完成所有题目，而要知道怎么做。两者在作业目的上存在条件性差异：候选偏重执行，源偏重理解。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a011",
+      "target": "s-032fffd71d0e-c002:v2-n004",
+      "kind": "conditional_difference",
+      "condition": "在改善孩子作业行为时，候选的方法可能仅保证完成，需结合源的理解目标。",
+      "reason": "候选提供两种纠正12岁孩子学习问题的方法，重点在完成作业时间安排或逼迫执行；源提醒做题目的不只是完成所有题目，而要知道怎么做。两者在作业目的上存在条件性差异：候选偏重执行，源偏重理解。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n004",
+      "target": "s-032fffd71d0e-c002:a009",
+      "kind": "association",
+      "condition": "源讨论作业目标，候选强调学习是必须；均涉及学习态度，但未直接建立逻辑衔接。",
+      "reason": "源认为做题目的是理解；候选强调学习不是选择而是必须，两者都涉及学习要求，但一为质量目标，一为义务属性，仅作主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a009",
+      "target": "s-032fffd71d0e-c002:v2-n004",
+      "kind": "association",
+      "condition": "源讨论作业目标，候选强调学习是必须；均涉及学习态度，但未直接建立逻辑衔接。",
+      "reason": "源认为做题目的是理解；候选强调学习不是选择而是必须，两者都涉及学习要求，但一为质量目标，一为义务属性，仅作主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n004",
+      "target": "s-032fffd71d0e-c002:a016",
+      "kind": "association",
+      "condition": "源针对作业理解，候选针对阅读理解；均强调通过提问判断是否真正明白。",
+      "reason": "源说做题要让孩子知道题怎么做；候选提出家长用提问判断孩子是否读懂阅读内容，两者都关注\"知道/理解\"而非形式完成，但具体场景不同，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a016",
+      "target": "s-032fffd71d0e-c002:v2-n004",
+      "kind": "association",
+      "condition": "源针对作业理解，候选针对阅读理解；均强调通过提问判断是否真正明白。",
+      "reason": "源说做题要让孩子知道题怎么做；候选提出家长用提问判断孩子是否读懂阅读内容，两者都关注\"知道/理解\"而非形式完成，但具体场景不同，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n005",
+      "target": "s-032fffd71d0e-c003:v2-n001",
+      "kind": "association",
+      "condition": "两者为同一案例的不同表述。",
+      "reason": "源与候选内容高度一致，均讲述遇到珍惜提问的老师而从学渣变为学霸且指出中国教育质量参差；候选补充了讲师视角，属同一案例的重复/变体，无冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:v2-n001",
+      "target": "s-032fffd71d0e-c002:v2-n005",
+      "kind": "association",
+      "condition": "两者为同一案例的不同表述。",
+      "reason": "源与候选内容高度一致，均讲述遇到珍惜提问的老师而从学渣变为学霸且指出中国教育质量参差；候选补充了讲师视角，属同一案例的重复/变体，无冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n005",
+      "target": "s-032fffd71d0e-c003:a002",
+      "kind": "complements",
+      "condition": "在老师不珍惜提问的环境下，源指出问题，候选提供家长应对策略。",
+      "reason": "源指出能遇到珍惜提问的老师不易；候选提出家长应成为孩子最好的老师并鼓励提问，给出具体回应方法。源提供问题背景，候选提供应对策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:a002",
+      "target": "s-032fffd71d0e-c002:v2-n005",
+      "kind": "complements",
+      "condition": "在老师不珍惜提问的环境下，源指出问题，候选提供家长应对策略。",
+      "reason": "源指出能遇到珍惜提问的老师不易；候选提出家长应成为孩子最好的老师并鼓励提问，给出具体回应方法。源提供问题背景，候选提供应对策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n005",
+      "target": "s-032fffd71d0e-c002:v2-n006",
+      "kind": "complements",
+      "condition": "源为案例背景，候选为可操作的家长行为。",
+      "reason": "源记录好老师稀缺；候选明确提出家长在家鼓励孩子提问、不要打击孩子，使源中的问题有了具体解决办法，补充了实践指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n006",
+      "target": "s-032fffd71d0e-c002:v2-n005",
+      "kind": "complements",
+      "condition": "源为案例背景，候选为可操作的家长行为。",
+      "reason": "源记录好老师稀缺；候选明确提出家长在家鼓励孩子提问、不要打击孩子，使源中的问题有了具体解决办法，补充了实践指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n005",
+      "target": "s-032fffd71d0e-c003:r001",
+      "kind": "complements",
+      "condition": "在提问支持上，源展示老师稀缺，候选区分学校与家长角色。",
+      "reason": "源中的老师珍惜提问属稀缺条件；候选区分学校老师只问学习问题、家长可鼓励幻想提问，为家长应保护孩子提问热情提供了角色依据，与源形成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:r001",
+      "target": "s-032fffd71d0e-c002:v2-n005",
+      "kind": "complements",
+      "condition": "在提问支持上，源展示老师稀缺，候选区分学校与家长角色。",
+      "reason": "源中的老师珍惜提问属稀缺条件；候选区分学校老师只问学习问题、家长可鼓励幻想提问，为家长应保护孩子提问热情提供了角色依据，与源形成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n005",
+      "target": "s-032fffd71d0e-c002:a016",
+      "kind": "association",
+      "condition": "源涉及珍视提问，候选涉及家长用提问判断阅读是否读懂；均围绕提问，但语境不同。",
+      "reason": "源关于老师珍惜孩子提问；候选关于家长用提问判断孩子是否读懂阅读内容，两者都涉及提问的应用，但一为师生互动，一为阅读检查，仅作主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a016",
+      "target": "s-032fffd71d0e-c002:v2-n005",
+      "kind": "association",
+      "condition": "源涉及珍视提问，候选涉及家长用提问判断阅读是否读懂；均围绕提问，但语境不同。",
+      "reason": "源关于老师珍惜孩子提问；候选关于家长用提问判断孩子是否读懂阅读内容，两者都涉及提问的应用，但一为师生互动，一为阅读检查，仅作主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n006",
+      "target": "s-032fffd71d0e-c003:a002",
+      "kind": "complements",
+      "condition": "在鼓励孩子提问的具体做法上，候选补充了回应话术和例子。",
+      "reason": "源给出家长鼓励提问的步骤和禁忌；候选补充具体回应话术（如\"这是一个很好的问题，我们一起来想一想\"）和想象例子（如太阳方形），使源的操作更具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:a002",
+      "target": "s-032fffd71d0e-c002:v2-n006",
+      "kind": "complements",
+      "condition": "在鼓励孩子提问的具体做法上，候选补充了回应话术和例子。",
+      "reason": "源给出家长鼓励提问的步骤和禁忌；候选补充具体回应话术（如\"这是一个很好的问题，我们一起来想一想\"）和想象例子（如太阳方形），使源的操作更具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n006",
+      "target": "s-032fffd71d0e-c003:r001",
+      "kind": "complements",
+      "condition": "源为家长行为指导，候选解释角色差异依据。",
+      "reason": "候选解释学校老师只问学习相关、家长可鼓励幻想提问，说明了为什么源中家长要成为孩子最好的老师并保护提问热情，补充背后角色分工。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:r001",
+      "target": "s-032fffd71d0e-c002:v2-n006",
+      "kind": "complements",
+      "condition": "源为家长行为指导，候选解释角色差异依据。",
+      "reason": "候选解释学校老师只问学习相关、家长可鼓励幻想提问，说明了为什么源中家长要成为孩子最好的老师并保护提问热情，补充背后角色分工。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n006",
+      "target": "s-032fffd71d0e-c002:v2-n005",
+      "kind": "complements",
+      "condition": "候选为问题背景，源为解决方案。",
+      "reason": "候选指出能遇到珍惜提问的老师不容易；源提出家长在家鼓励孩子提问、做孩子最好的老师，直接回应候选中的困境，形成问题与对策的互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n005",
+      "target": "s-032fffd71d0e-c002:v2-n006",
+      "kind": "complements",
+      "condition": "候选为问题背景，源为解决方案。",
+      "reason": "候选指出能遇到珍惜提问的老师不容易；源提出家长在家鼓励孩子提问、做孩子最好的老师，直接回应候选中的困境，形成问题与对策的互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n006",
+      "target": "s-032fffd71d0e-c003:v2-n001",
+      "kind": "association",
+      "condition": "与c002:v2-n005为同一案例的不同表述，与源构成问题背景。",
+      "reason": "候选是同一案例的详细版，源则为该问题提供家长应对策略；二者存在背景与对策的关联，但候选本身未直接说明源的做法，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:v2-n001",
+      "target": "s-032fffd71d0e-c002:v2-n006",
+      "kind": "association",
+      "condition": "与c002:v2-n005为同一案例的不同表述，与源构成问题背景。",
+      "reason": "候选是同一案例的详细版，源则为该问题提供家长应对策略；二者存在背景与对策的关联，但候选本身未直接说明源的做法，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n006",
+      "target": "s-032fffd71d0e-c003:a001",
+      "kind": "example_of",
+      "condition": "当体现父母支持对孩子信心的绝对优势时，源中的在家鼓励提问是具体表现之一。",
+      "reason": "候选认为父母支持对孩子有绝对优势，外界负面影响不大；源中家长成为孩子最好老师、积极回应提问正是父母支持的一个具体例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:a001",
+      "target": "s-032fffd71d0e-c002:v2-n006",
+      "kind": "has_example",
+      "condition": "当体现父母支持对孩子信心的绝对优势时，源中的在家鼓励提问是具体表现之一。",
+      "reason": "候选认为父母支持对孩子有绝对优势，外界负面影响不大；源中家长成为孩子最好老师、积极回应提问正是父母支持的一个具体例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n006",
+      "target": "s-032fffd71d0e-c002:a016",
+      "kind": "association",
+      "condition": "源涉及鼓励孩子提问，候选涉及家长用提问检查阅读；均使用提问但场景不同。",
+      "reason": "源鼓励孩子向家长提问；候选让家长向孩子提问以判断是否读懂阅读材料，两者虽都围绕提问，但提问方向和目的不同，仅作弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a016",
+      "target": "s-032fffd71d0e-c002:v2-n006",
+      "kind": "association",
+      "condition": "源涉及鼓励孩子提问，候选涉及家长用提问检查阅读；均使用提问但场景不同。",
+      "reason": "源鼓励孩子向家长提问；候选让家长向孩子提问以判断是否读懂阅读材料，两者虽都围绕提问，但提问方向和目的不同，仅作弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:v2-n001",
+      "target": "s-032fffd71d0e-c002:v2-n005",
+      "kind": "association",
+      "condition": "两者为同一案例的不同版本。",
+      "reason": "源详细讲述遇到珍惜提问的老师而从学渣变为学霸；候选为同一案例的简版，均强调好老师难得，属重复/变体，无冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n005",
+      "target": "s-032fffd71d0e-c003:v2-n001",
+      "kind": "association",
+      "condition": "两者为同一案例的不同版本。",
+      "reason": "源详细讲述遇到珍惜提问的老师而从学渣变为学霸；候选为同一案例的简版，均强调好老师难得，属重复/变体，无冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:v2-n001",
+      "target": "s-032fffd71d0e-c003:a002",
+      "kind": "complements",
+      "condition": "源为问题背景，候选为家长可采取的方法。",
+      "reason": "源指出好老师不易遇到；候选提出家长应成为孩子最好的老师并鼓励提问，提供了具体回应策略，补充源未展开的实践路径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:a002",
+      "target": "s-032fffd71d0e-c003:v2-n001",
+      "kind": "complements",
+      "condition": "源为问题背景，候选为家长可采取的方法。",
+      "reason": "源指出好老师不易遇到；候选提出家长应成为孩子最好的老师并鼓励提问，提供了具体回应策略，补充源未展开的实践路径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:v2-n001",
+      "target": "s-032fffd71d0e-c002:v2-n006",
+      "kind": "complements",
+      "condition": "源为案例，候选为原则指导。",
+      "reason": "源记录个人经历说明珍惜提问的老师重要性；候选提出家长在家鼓励提问并避免打击孩子，使经验转化为可操作原则，与源互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:v2-n006",
+      "target": "s-032fffd71d0e-c003:v2-n001",
+      "kind": "complements",
+      "condition": "源为案例，候选为原则指导。",
+      "reason": "源记录个人经历说明珍惜提问的老师重要性；候选提出家长在家鼓励提问并避免打击孩子，使经验转化为可操作原则，与源互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:v2-n001",
+      "target": "s-032fffd71d0e-c003:r001",
+      "kind": "complements",
+      "condition": "在提问支持上，源为个案，候选为角色分工说明。",
+      "reason": "源展示好老师稀缺；候选区分学校老师与家长不同提问支持角色，为家长为何要在家鼓励提问提供依据，补充源未说明的角色逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:r001",
+      "target": "s-032fffd71d0e-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在提问支持上，源为个案，候选为角色分工说明。",
+      "reason": "源展示好老师稀缺；候选区分学校老师与家长不同提问支持角色，为家长为何要在家鼓励提问提供依据，补充源未说明的角色逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c003:v2-n001",
+      "target": "s-032fffd71d0e-c002:a016",
+      "kind": "association",
+      "condition": "源涉及提问被珍惜，候选涉及家长提问检查阅读；均与提问有关但语境不同。",
+      "reason": "源关于老师珍惜学生提问；候选关于家长用提问判断孩子是否读懂阅读，两者都使用提问，但一方为师生互动，另一方为亲子阅读，仅作主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-032fffd71d0e-c002:a016",
+      "target": "s-032fffd71d0e-c003:v2-n001",
+      "kind": "association",
+      "condition": "源涉及提问被珍惜，候选涉及家长提问检查阅读；均与提问有关但语境不同。",
+      "reason": "源关于老师珍惜学生提问；候选关于家长用提问判断孩子是否读懂阅读，两者都使用提问，但一方为师生互动，另一方为亲子阅读，仅作主题关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "降低考试压力时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a002",
+        "s-032fffd71d0e-c001:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "内在能力",
+      "when": "约定坚持兴趣项目时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a008",
+        "s-032fffd71d0e-c001:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "内在能力",
+      "to": "界限",
+      "when": "通过比赛建立抗压能力时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a030",
+        "s-032fffd71d0e-c001:a023"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "专注力",
+      "when": "限制作业帮APP使用时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a028",
+        "s-032fffd71d0e-c001:a026"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "内在能力",
+      "when": "帮助孩子解压并保持探索热情时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a018",
+        "s-032fffd71d0e-c002:a020"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "内在能力",
+      "when": "纠正12岁孩子学习问题时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a011",
+        "s-032fffd71d0e-c002:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "内在能力",
+      "when": "父母发自内心接纳孩子以建立抗压能力时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a017",
+        "s-032fffd71d0e-c003:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "四岁孩子兴趣探索后确定项目时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a006",
+        "s-032fffd71d0e-c001:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "17岁孩子紧急情况改变环境时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a034",
+        "s-032fffd71d0e-c001:a020"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a006"
+      ],
+      "reason": "内容完全一致，均为四岁孩子兴趣探索期的处理原则。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a007"
+      ],
+      "reason": "内容完全一致，均为探索后确定兴趣项目的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a008"
+      ],
+      "reason": "内容完全一致，均为约定坚持一年的规则。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a009"
+      ],
+      "reason": "内容完全一致，均为坚持期内孩子想放弃的处理。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a010"
+      ],
+      "reason": "内容完全一致，均为讲师家庭孩子兴趣坚持案例。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a011"
+      ],
+      "reason": "内容完全一致，均为兴趣学习中的坚持与毅力练习。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a012"
+      ],
+      "reason": "内容完全一致，均为坚持过程中让事情变得有趣。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a013"
+      ],
+      "reason": "内容完全一致，均为四岁孩子体验期时长建议。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a014"
+      ],
+      "reason": "内容完全一致，均为讲师租乐器让孩子尝试的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a015"
+      ],
+      "reason": "内容完全一致，均为八岁女儿数学题浅尝辄止的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a016"
+      ],
+      "reason": "内容完全一致，均为帮助孩子建立延迟满足和积极主动。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a017"
+      ],
+      "reason": "内容完全一致，均为发自内心欢迎孩子犯错的重要性。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a018"
+      ],
+      "reason": "内容完全一致，均为某位家长关于孩子穿多层衣服的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a019"
+      ],
+      "reason": "内容完全一致，均为家长不看重成绩而看重学习心。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a020"
+      ],
+      "reason": "内容完全一致，均为有能力改变环境时应考虑改变。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a021"
+      ],
+      "reason": "内容完全一致，均为可靠父母与强势处理问题的区别。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a022"
+      ],
+      "reason": "内容完全一致，均为体能教练缩短课时引发的冲突案例。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a023"
+      ],
+      "reason": "内容完全一致，均为双赢解决冲突的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a024"
+      ],
+      "reason": "内容完全一致，均为把难题抛给孩子促使其做选择。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a025"
+      ],
+      "reason": "内容完全一致，均为双赢理念在亲子关系中的应用。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a026"
+      ],
+      "reason": "内容完全一致，均为允许孩子用百度等网络工具找答案。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a027"
+      ],
+      "reason": "内容完全一致，均为孩子周末早起看书不知饿的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a028"
+      ],
+      "reason": "内容完全一致，均为初三孩子使用作业帮APP的限制方法。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a029"
+      ],
+      "reason": "内容完全一致，均为减少考核与保持学习兴趣的平衡。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a030"
+      ],
+      "reason": "内容完全一致，均为带孩子参加比赛的目的。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a031"
+      ],
+      "reason": "内容完全一致，均为儿子考跆拳道黄带受激励的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a032"
+      ],
+      "reason": "内容完全一致，均为鼓励孩子参加表演性场合。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a033"
+      ],
+      "reason": "内容完全一致，均为四岁孩子参与日常活动的引导。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a034"
+      ],
+      "reason": "内容完全一致，均为17岁孩子紧急情况优先改变环境。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a019",
+        "s-032fffd71d0e-c002:r004"
+      ],
+      "reason": "内容完全一致，均为应对老师问责的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a020",
+        "s-032fffd71d0e-c002:r007"
+      ],
+      "reason": "内容完全一致，均为保持探索热情的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a023"
+      ],
+      "reason": "内容完全一致，均为打破习得性无助的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a026"
+      ],
+      "reason": "内容完全一致，均为保护孩子好奇心的做法。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a009",
+        "s-032fffd71d0e-c001:a011"
+      ],
+      "description": "a009提出如果孩子坚持不了需要打工偿还学费，可能给孩子造成过度压力；而a011强调坚持是练习毅力，但未提及经济惩罚。两者在坚持的后果上存在潜在矛盾，经济惩罚可能削弱内在动机。",
+      "needed_evidence": "需要研究经济惩罚对儿童毅力和心理健康的影响，以及不同家庭经济背景下的适用性。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a004",
+        "s-032fffd71d0e-c002:a006"
+      ],
+      "description": "a004反对小孩子上网课，认为完全不能达到目标；而a006强调好玩是学习的重要原则，网课如果设计得好玩可能也能达到目标。两者在网课有效性上存在矛盾。",
+      "needed_evidence": "需要研究网课对幼儿学习效果的影响，以及如何设计有趣的网课。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a009",
+        "s-032fffd71d0e-c002:a011"
+      ],
+      "description": "a009强调学习是必须，家长不应给孩子太多力量；而a011提供两种方法让孩子选择，可能给予孩子过多自主权，与收回力量的理念存在张力。",
+      "needed_evidence": "需要研究在纠正学习问题时，给予孩子选择权与家长权威之间的平衡。"
+    },
+    {
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a022",
+        "s-032fffd71d0e-c002:a023"
+      ],
+      "description": "a022提出童年创伤可能造成大脑永久损害，而a023认为打破习得性无助的方法是让自己知道现在是安全的，暗示损害可能可逆。两者在大脑损害的可逆性上存在矛盾。",
+      "needed_evidence": "需要神经科学研究童年创伤对大脑的长期影响及恢复可能性。"
+    }
+  ],
+  "path": [
+    {
+      "name": "建立孩子抗压能力与兴趣坚持的综合方法",
+      "steps": [
+        {
+          "action": "降低高压事件对孩子的影响，给孩子松绑",
+          "atom_ids": [
+            "s-032fffd71d0e-c001:a003"
+          ],
+          "condition": "孩子面临高考、比赛等高压情境"
+        },
+        {
+          "action": "逐步增加孩子抗压能力",
+          "atom_ids": [
+            "s-032fffd71d0e-c001:a004",
+            "s-032fffd71d0e-c001:a005"
+          ],
+          "condition": "孩子平时抗压能力弱"
+        },
+        {
+          "action": "让孩子探索各种兴趣，不要求立刻坚持",
+          "atom_ids": [
+            "s-032fffd71d0e-c001:a006",
+            "s-032fffd71d0e-c001:a013"
+          ],
+          "condition": "孩子四岁左右"
+        },
+        {
+          "action": "确定兴趣项目并约定坚持一年",
+          "atom_ids": [
+            "s-032fffd71d0e-c001:a007",
+            "s-032fffd71d0e-c001:a008"
+          ],
+          "condition": "孩子尝试后确定兴趣"
+        },
+        {
+          "action": "坚持期内处理放弃念头，练习毅力",
+          "atom_ids": [
+            "s-032fffd71d0e-c001:a009",
+            "s-032fffd71d0e-c001:a011",
+            "s-032fffd71d0e-c001:a012"
+          ],
+          "condition": "孩子中途想放弃"
+        },
+        {
+          "action": "通过比赛和表演建立抗压能力",
+          "atom_ids": [
+            "s-032fffd71d0e-c001:a030",
+            "s-032fffd71d0e-c001:a032"
+          ],
+          "condition": "孩子需要抗压锻炼"
+        },
+        {
+          "action": "父母发自内心接纳孩子，正确陪伴失败",
+          "atom_ids": [
+            "s-032fffd71d0e-c001:a017",
+            "s-032fffd71d0e-c003:a006"
+          ],
+          "condition": "孩子犯错或失败时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-032fffd71d0e-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a001"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a002"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0003",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a003"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a004"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0005",
+      "kind": "condition",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a005"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0006",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a006"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0007",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a007"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0008",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a008"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a009"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0010",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a010"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a011"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0012",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a012"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a013"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0014",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a014"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0015",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a015"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0016",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a016"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0017",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a017"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0018",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a018"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0019",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a019"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0020",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a020"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0021",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a021"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0022",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a022"
+      ],
+      "blocks": [
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0023",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a023"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0024",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a024"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0025",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a025"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0026",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a026"
+      ],
+      "blocks": [
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0027",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a027"
+      ],
+      "blocks": [
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0028",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a028"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035",
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0029",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a029"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0030",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a030"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0031",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a031"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0032",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a033"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0033",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a034"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0034",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:r001"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0035",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0036",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c001:u0037",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u001",
+      "kind": "principle",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a001"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:a032",
+        "s-032fffd71d0e-c002:a002"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a003"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:r002"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u005",
+      "kind": "opinion",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a004"
+      ],
+      "blocks": [
+        "b00045",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a005"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u007",
+      "kind": "principle",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a006"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a007"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a008"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u010",
+      "kind": "principle",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a009"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a010"
+      ],
+      "blocks": [
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a011"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u013",
+      "kind": "principle",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a012"
+      ],
+      "blocks": [
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a013"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a014",
+        "s-032fffd71d0e-c002:a016",
+        "s-032fffd71d0e-c002:r003"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061",
+        "b00062",
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a015"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u018",
+      "kind": "principle",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a017"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a018",
+        "s-032fffd71d0e-c002:r005",
+        "s-032fffd71d0e-c002:r006"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069",
+        "b00070",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u021",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u022",
+      "kind": "principle",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:v2-n004"
+      ],
+      "blocks": [
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u023",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a019",
+        "s-032fffd71d0e-c002:r004"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u024",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a020",
+        "s-032fffd71d0e-c002:r007"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u025",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a021"
+      ],
+      "blocks": [
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u026",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a022"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u027",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a023"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u028",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a024"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u029",
+      "kind": "principle",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a025",
+        "s-032fffd71d0e-c003:a001"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u030",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:a026"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u031",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:v2-n005"
+      ],
+      "blocks": [
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c002:u032",
+      "kind": "method",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:v2-n006"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c003:u01",
+      "kind": "concept",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:a001"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c003:u02",
+      "kind": "concept",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:r001"
+      ],
+      "blocks": [
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c003:u03",
+      "kind": "concept",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:a002"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083",
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c003:u04",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c003:u05",
+      "kind": "concept",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:a003"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c003:u06",
+      "kind": "concept",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:a004"
+      ],
+      "blocks": [
+        "b00086",
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c003:u07",
+      "kind": "case",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:a005"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c003:u08",
+      "kind": "concept",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:r002"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c003:u09",
+      "kind": "concept",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:r003"
+      ],
+      "blocks": [
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c003:u10",
+      "kind": "concept",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:a006"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-032fffd71d0e-c003:u11",
+      "kind": "concept",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:a007"
+      ],
+      "blocks": [
+        "b00092",
+        "b00093",
+        "b00094"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "四岁孩子兴趣转移与家长短板案例",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-032fffd71d0e",
+          "blocks": [
+            "b00007"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "用表演性场合替代比赛提供展示机会",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-032fffd71d0e",
+          "blocks": [
+            "b00042",
+            "b00043"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "五岁孩子不愿上网课和课外班的案例",
+      "atom_ids": [
+        "s-032fffd71d0e-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-032fffd71d0e",
+          "blocks": [
+            "b00043"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "父母不要总过去看孩子学习",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-032fffd71d0e",
+          "blocks": [
+            "b00057"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "八岁半大脑跳行不罕见",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-032fffd71d0e",
+          "blocks": [
+            "b00061"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "给孩子单独时间探索",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-032fffd71d0e",
+          "blocks": [
+            "b00067"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "做题的目的是知道题怎么做",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-032fffd71d0e",
+          "blocks": [
+            "b00068"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "老师珍惜提问助学生从学渣变学霸",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-032fffd71d0e",
+          "blocks": [
+            "b00082"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "家长鼓励孩子提问，做孩子最好的老师",
+      "atom_ids": [
+        "s-032fffd71d0e-c002:v2-n006"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-032fffd71d0e",
+          "blocks": [
+            "b00082",
+            "b00083"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "讲师自述遇到珍惜提问的老师而从学渣变为学霸",
+      "atom_ids": [
+        "s-032fffd71d0e-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-032fffd71d0e",
+          "blocks": [
+            "b00082"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    }
+  ]
+}

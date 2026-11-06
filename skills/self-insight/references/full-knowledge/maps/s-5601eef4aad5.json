@@ -1,0 +1,799 @@
+{
+  "concepts": [
+    {
+      "name": "情绪连接",
+      "definition": "在引导孩子左脑之前，必须与孩子建立情绪上的共鸣，这是进入孩子内心世界的第一步。没有连接时任何引导都无效。",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a001",
+        "s-5601eef4aad5-c001:r001"
+      ]
+    },
+    {
+      "name": "发脾气是求助信号",
+      "definition": "孩子发脾气（摔门、打滚、大哭、尖叫、扔东西等）应被视为寻求帮助，因为孩子当前没有能力处理所面对的状况。",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a002",
+        "s-5601eef4aad5-c001:r002"
+      ]
+    },
+    {
+      "name": "无连接时引导无效",
+      "definition": "如果父母没有和孩子建立情绪连接，任何引导都是无效的，只会把孩子推向更恐慌、不知所措、不安全的状态。",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a003"
+      ]
+    },
+    {
+      "name": "发脾气时右脑的两种极端",
+      "definition": "孩子发脾气时右脑呈现两种极端：一是极度脆弱（小一点的孩子哭哭啼啼、要抱；大一点的孩子极度敏感、神经质发脾气）；二是非常死板（没有商量余地、不愿妥协）。两种极端都可能激起父母愤怒。",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a004"
+      ]
+    },
+    {
+      "name": "父母愤怒后的错误应对方式",
+      "definition": "父母愤怒后可能采取两种方式：一是理性讲道理，二是强硬压制。这些做法会逼孩子徘徊在两个极端之间，进入3F状态（冻结、应战或逃跑），不利于孩子学习自主平衡情绪。",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a005",
+        "s-5601eef4aad5-c001:r003"
+      ]
+    },
+    {
+      "name": "3F状态",
+      "definition": "3F指冻结（freeze）、应战（fight）或逃跑（flight），是孩子面对父母怒气时呈现的三种状态：吓得不敢出声呆住、变得更加愤怒反抗、不停躲避逃跑。",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a006"
+      ]
+    },
+    {
+      "name": "身体接触进行情绪连接",
+      "definition": "当孩子情绪极度激烈无法语言沟通时，轻柔的拥抱、缓慢抚摸后背能通过刺激其他感官分散右脑注意力，帮助孩子冷静下来，感知和接受连接。",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a008",
+        "s-5601eef4aad5-c001:r004"
+      ]
+    },
+    {
+      "name": "引导的时机",
+      "definition": "当孩子情绪慢慢恢复平静时，就可以开始引导他们。",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a009"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-5601eef4aad5-c001:a001",
+      "target": "s-5601eef4aad5-c001:a003",
+      "kind": "supports",
+      "condition": "无连接时引导无效",
+      "reason": "a001强调情绪连接是引导的前提，a003说明没有连接时引导无效，两者相互支持。"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a002",
+      "target": "s-5601eef4aad5-c001:a004",
+      "kind": "causes",
+      "condition": "孩子发脾气时右脑呈现两种极端",
+      "reason": "a002指出发脾气是求助信号，a004描述发脾气时右脑的两种极端表现，说明求助信号的具体表现。"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a004",
+      "target": "s-5601eef4aad5-c001:a005",
+      "kind": "causes",
+      "condition": "两种极端可能激起父母愤怒",
+      "reason": "a004提到两种极端可能激起父母愤怒，a005描述父母愤怒后的错误应对方式，存在因果关系。"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a005",
+      "target": "s-5601eef4aad5-c001:a006",
+      "kind": "causes",
+      "condition": "错误应对方式导致孩子进入3F状态",
+      "reason": "a005指出错误应对方式会逼孩子进入3F状态，a006解释3F状态的具体表现。"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a007",
+      "target": "s-5601eef4aad5-c001:a008",
+      "kind": "example_of",
+      "condition": "案例中讲师使用身体接触进行情绪连接",
+      "reason": "讲师处理孩子洗澡冲突的案例中，孩子愤怒尖叫哭闹，讲师通过抱起、抚摸后背进行情绪连接，是“身体接触进行情绪连接”概念的一个具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立，案例是该方法的具体应用。"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a007",
+      "target": "s-5601eef4aad5-c001:a009",
+      "kind": "example_of",
+      "condition": "孩子情绪恢复平静后，讲师判断可以引导",
+      "reason": "讲师处理孩子洗澡冲突的案例中，孩子从大哭变为低声抽泣、停止尖叫，并表达“妈妈我想你给我洗澡”后，讲师判断已准备好被引导，展示了引导的时机所主张的当孩子情绪慢慢恢复平静时就可以开始引导。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不准确，案例是时机的实例而非其步骤，故改为 example_of。"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a008",
+      "target": "s-5601eef4aad5-c001:a009",
+      "kind": "prerequisite",
+      "condition": "身体接触帮助孩子冷静后，才能引导",
+      "reason": "a008描述身体接触帮助孩子冷静，a009指出情绪平静后可以引导，身体接触是引导的前提。"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n001",
+      "target": "s-5601eef4aad5-c001:v2-n003",
+      "kind": "complements",
+      "condition": "当孩子大哭大闹发脾气、不给父母说话机会时",
+      "reason": "source 提出父母可将自身经历与孩子情绪相联系以让孩子感到被了解；candidate 描述许多父母困惑于孩子不给说话机会，讲师随后以自己的经历示范，补充了该方法在该困难情境下的实际应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n003",
+      "target": "s-5601eef4aad5-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子大哭大闹发脾气、不给父母说话机会时",
+      "reason": "source 提出父母可将自身经历与孩子情绪相联系以让孩子感到被了解；candidate 描述许多父母困惑于孩子不给说话机会，讲师随后以自己的经历示范，补充了该方法在该困难情境下的实际应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n001",
+      "target": "s-5601eef4aad5-c001:r004",
+      "kind": "complements",
+      "condition": "当孩子发脾气需要情绪连接时",
+      "reason": "source 提供通过联系自身经历进行情绪连接的语言共情方式；candidate 提供深呼吸、轻柔抱起、抚摸后背、说‘妈妈知道’等身体接触与简短安抚的具体步骤，两者互补，共同构成完整的情绪连接手段。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:r004",
+      "target": "s-5601eef4aad5-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子发脾气需要情绪连接时",
+      "reason": "source 提供通过联系自身经历进行情绪连接的语言共情方式；candidate 提供深呼吸、轻柔抱起、抚摸后背、说‘妈妈知道’等身体接触与简短安抚的具体步骤，两者互补，共同构成完整的情绪连接手段。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n001",
+      "target": "s-5601eef4aad5-c001:a008",
+      "kind": "conditional_difference",
+      "condition": "当孩子情绪极度激烈、无法语言沟通时",
+      "reason": "source 的联系自身经历适用于可以交谈的场景，通过语言让孩子感到被了解；candidate 指出当孩子无法语言沟通时，需改用身体接触（拥抱、抚摸后背）来建立连接，两者适用条件不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a008",
+      "target": "s-5601eef4aad5-c001:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "当孩子情绪极度激烈、无法语言沟通时",
+      "reason": "source 的联系自身经历适用于可以交谈的场景，通过语言让孩子感到被了解；candidate 指出当孩子无法语言沟通时，需改用身体接触（拥抱、抚摸后背）来建立连接，两者适用条件不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n002",
+      "target": "s-5601eef4aad5-c001:r003",
+      "kind": "complements",
+      "condition": "当父母因误解妥协而采用强硬手段时",
+      "reason": "source 指出许多父母认为妥协会宠坏孩子，因此倾向用强硬手段；candidate 说明试图讲道理或强硬压制会逼孩子进入3F状态，补充了这种错误应对的负面后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:r003",
+      "target": "s-5601eef4aad5-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当父母因误解妥协而采用强硬手段时",
+      "reason": "source 指出许多父母认为妥协会宠坏孩子，因此倾向用强硬手段；candidate 说明试图讲道理或强硬压制会逼孩子进入3F状态，补充了这种错误应对的负面后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n002",
+      "target": "s-5601eef4aad5-c001:a005",
+      "kind": "complements",
+      "condition": "当父母愤怒后可能采取错误应对方式时",
+      "reason": "source 指出父母因误解妥协而倾向强硬手段；candidate 说明父母愤怒后可能采取理性讲道理或强硬压制，并说明这些做法导致3F状态，补充了错误应对的类型和后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a005",
+      "target": "s-5601eef4aad5-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当父母愤怒后可能采取错误应对方式时",
+      "reason": "source 指出父母因误解妥协而倾向强硬手段；candidate 说明父母愤怒后可能采取理性讲道理或强硬压制，并说明这些做法导致3F状态，补充了错误应对的类型和后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n002",
+      "target": "s-5601eef4aad5-c001:a007",
+      "kind": "association",
+      "condition": "面对孩子发脾气时",
+      "reason": "source 呈现许多父母认为妥协宠坏孩子而用强硬手段的误解；candidate 案例中讲师选择情绪连接而非强硬手段，展示了另一种应对策略，与 source 的强硬倾向形成对照，但案例未直接反驳该观念，故仅作关联，不足处是未明确对比。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a007",
+      "target": "s-5601eef4aad5-c001:v2-n002",
+      "kind": "association",
+      "condition": "面对孩子发脾气时",
+      "reason": "source 呈现许多父母认为妥协宠坏孩子而用强硬手段的误解；candidate 案例中讲师选择情绪连接而非强硬手段，展示了另一种应对策略，与 source 的强硬倾向形成对照，但案例未直接反驳该观念，故仅作关联，不足处是未明确对比。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n003",
+      "target": "s-5601eef4aad5-c001:v2-n004",
+      "kind": "complements",
+      "condition": "孩子大哭大闹发脾气不给说话机会时",
+      "reason": "source 提出许多父母困惑于孩子不给说话机会如何情绪连接；candidate 强调孩子发脾气时既表明需要帮助也是情绪连接的最好机会，为 source 的困惑提供理论支持，说明即使不给说话机会仍是连接机会。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n004",
+      "target": "s-5601eef4aad5-c001:v2-n003",
+      "kind": "complements",
+      "condition": "孩子大哭大闹发脾气不给说话机会时",
+      "reason": "source 提出许多父母困惑于孩子不给说话机会如何情绪连接；candidate 强调孩子发脾气时既表明需要帮助也是情绪连接的最好机会，为 source 的困惑提供理论支持，说明即使不给说话机会仍是连接机会。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n003",
+      "target": "s-5601eef4aad5-c001:r004",
+      "kind": "complements",
+      "condition": "孩子情绪激烈无法语言沟通时",
+      "reason": "source 提出孩子不给说话机会的困惑；candidate 提供深呼吸、轻柔抱起、抚摸后背、说安抚话语的具体步骤，直接回应了 source 的困惑，补充了可行的解决方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:r004",
+      "target": "s-5601eef4aad5-c001:v2-n003",
+      "kind": "complements",
+      "condition": "孩子情绪激烈无法语言沟通时",
+      "reason": "source 提出孩子不给说话机会的困惑；candidate 提供深呼吸、轻柔抱起、抚摸后背、说安抚话语的具体步骤，直接回应了 source 的困惑，补充了可行的解决方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n003",
+      "target": "s-5601eef4aad5-c001:a008",
+      "kind": "complements",
+      "condition": "孩子情绪极度激烈无法语言沟通时",
+      "reason": "source 提出困惑；candidate 进一步解释身体接触（拥抱、抚摸后背）能通过刺激其他感官帮助孩子冷静，补了具体机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a008",
+      "target": "s-5601eef4aad5-c001:v2-n003",
+      "kind": "complements",
+      "condition": "孩子情绪极度激烈无法语言沟通时",
+      "reason": "source 提出困惑；candidate 进一步解释身体接触（拥抱、抚摸后背）能通过刺激其他感官帮助孩子冷静，补了具体机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n003",
+      "target": "s-5601eef4aad5-c001:v2-n001",
+      "kind": "association",
+      "condition": "孩子不给说话机会时",
+      "reason": "source 提到讲师以自己的经历示范；candidate 提供联系自身经历的方法，可能对应讲师的示范，但 source 未明确说明讲师示范内容，故关联不足，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n001",
+      "target": "s-5601eef4aad5-c001:v2-n003",
+      "kind": "association",
+      "condition": "孩子不给说话机会时",
+      "reason": "source 提到讲师以自己的经历示范；candidate 提供联系自身经历的方法，可能对应讲师的示范，但 source 未明确说明讲师示范内容，故关联不足，仅作 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n003",
+      "target": "s-5601eef4aad5-c001:a002",
+      "kind": "complements",
+      "condition": "孩子发脾气时",
+      "reason": "source 呈现孩子大哭大闹发脾气不给说话机会；candidate 说明发脾气是求助信号，解释孩子行为背后的原因，补充了父母理解孩子需求的视角。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a002",
+      "target": "s-5601eef4aad5-c001:v2-n003",
+      "kind": "complements",
+      "condition": "孩子发脾气时",
+      "reason": "source 呈现孩子大哭大闹发脾气不给说话机会；candidate 说明发脾气是求助信号，解释孩子行为背后的原因，补充了父母理解孩子需求的视角。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n003",
+      "target": "s-5601eef4aad5-c001:a004",
+      "kind": "complements",
+      "condition": "孩子发脾气不给说话机会时",
+      "reason": "source 困惑于孩子不给说话机会；candidate 说明发脾气时右脑两种极端，解释孩子无法理性沟通的神经基础，补充了理解。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a004",
+      "target": "s-5601eef4aad5-c001:v2-n003",
+      "kind": "complements",
+      "condition": "孩子发脾气不给说话机会时",
+      "reason": "source 困惑于孩子不给说话机会；candidate 说明发脾气时右脑两种极端，解释孩子无法理性沟通的神经基础，补充了理解。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n003",
+      "target": "s-5601eef4aad5-c001:r002",
+      "kind": "complements",
+      "condition": "孩子发脾气时",
+      "reason": "source 提出困惑；candidate 列出孩子发脾气的具体原因示例（如没耐心、不愿分享等），帮助父母理解孩子行为，从而更好地应对。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:r002",
+      "target": "s-5601eef4aad5-c001:v2-n003",
+      "kind": "complements",
+      "condition": "孩子发脾气时",
+      "reason": "source 提出困惑；candidate 列出孩子发脾气的具体原因示例（如没耐心、不愿分享等），帮助父母理解孩子行为，从而更好地应对。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n004",
+      "target": "s-5601eef4aad5-c001:r004",
+      "kind": "complements",
+      "condition": "孩子发脾气时",
+      "reason": "source 指出发脾气是情绪连接的最好机会；candidate 提供具体步骤（深呼吸、抱起、抚摸、安抚），补充了如何利用这个机会进行连接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:r004",
+      "target": "s-5601eef4aad5-c001:v2-n004",
+      "kind": "complements",
+      "condition": "孩子发脾气时",
+      "reason": "source 指出发脾气是情绪连接的最好机会；candidate 提供具体步骤（深呼吸、抱起、抚摸、安抚），补充了如何利用这个机会进行连接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n004",
+      "target": "s-5601eef4aad5-c001:v2-n003",
+      "kind": "complements",
+      "condition": "孩子大哭大闹不给说话机会时",
+      "reason": "source 肯定发脾气是连接机会；candidate 呈现父母在同样情境下的困惑，两者互补，candidate 说明即使孩子不给说话机会仍是机会。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n003",
+      "target": "s-5601eef4aad5-c001:v2-n004",
+      "kind": "complements",
+      "condition": "孩子大哭大闹不给说话机会时",
+      "reason": "source 肯定发脾气是连接机会；candidate 呈现父母在同样情境下的困惑，两者互补，candidate 说明即使孩子不给说话机会仍是机会。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n004",
+      "target": "s-5601eef4aad5-c001:a003",
+      "kind": "complements",
+      "condition": "孩子发脾气时",
+      "reason": "source 指出发脾气是连接机会；candidate 说明无连接时引导无效，补充了抓住机会建立连接的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a003",
+      "target": "s-5601eef4aad5-c001:v2-n004",
+      "kind": "complements",
+      "condition": "孩子发脾气时",
+      "reason": "source 指出发脾气是连接机会；candidate 说明无连接时引导无效，补充了抓住机会建立连接的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n004",
+      "target": "s-5601eef4aad5-c001:a001",
+      "kind": "association",
+      "condition": "情绪连接与引导的顺序",
+      "reason": "source 强调发脾气是连接机会，candidate 强调情绪连接先于引导，两者都突出连接的重要性，但 source 侧重时机，candidate 侧重顺序，无直接补充点，故仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a001",
+      "target": "s-5601eef4aad5-c001:v2-n004",
+      "kind": "association",
+      "condition": "情绪连接与引导的顺序",
+      "reason": "source 强调发脾气是连接机会，candidate 强调情绪连接先于引导，两者都突出连接的重要性，但 source 侧重时机，candidate 侧重顺序，无直接补充点，故仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n004",
+      "target": "s-5601eef4aad5-c001:a002",
+      "kind": "complements",
+      "condition": "孩子发脾气时",
+      "reason": "source 指出发脾气表明需要帮助；candidate 进一步说明发脾气是求助信号，因为孩子没有能力处理状况，补充了求助的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a002",
+      "target": "s-5601eef4aad5-c001:v2-n004",
+      "kind": "complements",
+      "condition": "孩子发脾气时",
+      "reason": "source 指出发脾气表明需要帮助；candidate 进一步说明发脾气是求助信号，因为孩子没有能力处理状况，补充了求助的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n004",
+      "target": "s-5601eef4aad5-c001:a008",
+      "kind": "complements",
+      "condition": "孩子情绪极度激烈无法语言沟通时",
+      "reason": "source 指出发脾气是连接机会；candidate 提供身体接触方法，适用于无法语言沟通的情况，补充了实现连接的具体手段。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a008",
+      "target": "s-5601eef4aad5-c001:v2-n004",
+      "kind": "complements",
+      "condition": "孩子情绪极度激烈无法语言沟通时",
+      "reason": "source 指出发脾气是连接机会；candidate 提供身体接触方法，适用于无法语言沟通的情况，补充了实现连接的具体手段。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n004",
+      "target": "s-5601eef4aad5-c001:v2-n001",
+      "kind": "complements",
+      "condition": "孩子发脾气时",
+      "reason": "source 指出发脾气是连接机会；candidate 提供联系自身经历的方法，作为利用机会的一种方式，补充了具体技巧。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n001",
+      "target": "s-5601eef4aad5-c001:v2-n004",
+      "kind": "complements",
+      "condition": "孩子发脾气时",
+      "reason": "source 指出发脾气是连接机会；candidate 提供联系自身经历的方法，作为利用机会的一种方式，补充了具体技巧。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:v2-n004",
+      "target": "s-5601eef4aad5-c001:a007",
+      "kind": "association",
+      "condition": "孩子发脾气时",
+      "reason": "source 提出发脾气是建立连接的最好机会；candidate 案例中讲师在孩子发脾气时通过情绪连接利用了这一机会，是 source 的具体体现，但方向不满足 example_of 定义，故仅作关联，不足处是未用 example_of。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-5601eef4aad5-c001:a007",
+      "target": "s-5601eef4aad5-c001:v2-n004",
+      "kind": "association",
+      "condition": "孩子发脾气时",
+      "reason": "source 提出发脾气是建立连接的最好机会；candidate 案例中讲师在孩子发脾气时通过情绪连接利用了这一机会，是 source 的具体体现，但方向不满足 example_of 定义，故仅作关联，不足处是未用 example_of。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "理解情绪",
+      "when": "孩子发脾气时，父母需要先建立情绪连接，再引导孩子",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a001",
+        "s-5601eef4aad5-c001:a008",
+        "s-5601eef4aad5-c001:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "scope": "within_module",
+      "source_limits": []
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a001",
+        "s-5601eef4aad5-c001:r001"
+      ],
+      "reason": "两者都强调情绪连接是进入孩子内心世界的第一步，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a002",
+        "s-5601eef4aad5-c001:r002"
+      ],
+      "reason": "两者都说明发脾气是求助信号，因为孩子没有能力处理状况，r002补充了具体原因示例，但核心观点相同。"
+    },
+    {
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a005",
+        "s-5601eef4aad5-c001:r003"
+      ],
+      "reason": "两者都描述父母错误应对方式导致孩子进入3F状态，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a008",
+        "s-5601eef4aad5-c001:r004"
+      ],
+      "reason": "两者都描述通过身体接触（拥抱、抚摸后背）进行情绪连接的具体步骤，内容实质等价。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "情绪连接与引导流程",
+      "steps": [
+        {
+          "action": "识别孩子发脾气为求助信号",
+          "atom_ids": [
+            "s-5601eef4aad5-c001:a002"
+          ],
+          "condition": "孩子出现发脾气行为"
+        },
+        {
+          "action": "调整自己，避免错误应对",
+          "atom_ids": [
+            "s-5601eef4aad5-c001:a005"
+          ],
+          "condition": "父母感到愤怒时"
+        },
+        {
+          "action": "通过身体接触建立情绪连接",
+          "atom_ids": [
+            "s-5601eef4aad5-c001:a008",
+            "s-5601eef4aad5-c001:r004"
+          ],
+          "condition": "孩子情绪极度激烈，无法语言沟通"
+        },
+        {
+          "action": "等待孩子情绪恢复平静",
+          "atom_ids": [
+            "s-5601eef4aad5-c001:a009"
+          ],
+          "condition": "孩子情绪逐渐缓和"
+        },
+        {
+          "action": "开始引导孩子",
+          "atom_ids": [
+            "s-5601eef4aad5-c001:a009"
+          ],
+          "condition": "孩子情绪恢复平静"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-5601eef4aad5-c001:u1",
+      "kind": "method",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u2",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:r001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u3",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u4",
+      "kind": "concept",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a002"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u5",
+      "kind": "example",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:r002"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u6",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a003"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u7",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a004"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u8",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a005"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u9",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u10",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a005",
+        "s-5601eef4aad5-c001:r003"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u11",
+      "kind": "definition",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a006"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u12",
+      "kind": "question",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u13",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:v2-n004"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u14",
+      "kind": "case",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a007"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u15",
+      "kind": "method",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:r004"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u16",
+      "kind": "case_result",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a007"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u17",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a008"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-5601eef4aad5-c001:u18",
+      "kind": "condition",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:a009"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "联系自身经历以理解孩子情绪",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5601eef4aad5",
+          "blocks": [
+            "b00006"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "妥协即宠坏孩子的误解",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5601eef4aad5",
+          "blocks": [
+            "b00012"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "misconception"
+    },
+    {
+      "title": "常见困惑：孩子不给说话机会如何情绪连接",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5601eef4aad5",
+          "blocks": [
+            "b00014"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "question"
+    },
+    {
+      "title": "发脾气是情绪连接的机会",
+      "atom_ids": [
+        "s-5601eef4aad5-c001:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-5601eef4aad5",
+          "blocks": [
+            "b00014"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "mechanism"
+    }
+  ]
+}

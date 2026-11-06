@@ -1,0 +1,2220 @@
+{
+  "concepts": [
+    {
+      "name": "学习能力",
+      "definition": "真正有学习能力的人对知识不会感到疲倦，能快速大量吸收知识并储存，在需要时调用；学习能力强的人在与任何人交谈时都能捕捉信息并转化为有利知识。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a001",
+        "s-455a8fd49ded-c001:a002",
+        "s-455a8fd49ded-c001:a021"
+      ]
+    },
+    {
+      "name": "学习好不等于成绩好",
+      "definition": "学习好不是指成绩好，而是指应变能力、判断能力、选择能力等方面的学习，不单指书本知识的学习。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a003"
+      ]
+    },
+    {
+      "name": "学习是孩子的本能",
+      "definition": "学习是孩子非常本能、自然而然的现象，在没有考试成绩机制之前，人就会学习；孩子天生喜欢学习，例如不断问问题、观察蚂蚁等。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a004",
+        "s-455a8fd49ded-c001:a011"
+      ]
+    },
+    {
+      "name": "成绩机制对学习认知的影响",
+      "definition": "成绩机制用统一标准评判孩子的学习，如果孩子对学习的认知仅限于成绩，就会变得浅薄和单一，导致孩子后来不愿意学习。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a005",
+        "s-455a8fd49ded-c001:r007"
+      ]
+    },
+    {
+      "name": "学习是苦差事的观念",
+      "definition": "如果孩子接受“学习本来就是很苦的”观念，就会认为学习是吃苦，对学习毫无兴趣，甚至厌恶学习，一旦有机会就会抛弃学习。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a006",
+        "s-455a8fd49ded-c001:r008"
+      ]
+    },
+    {
+      "name": "“熬过学习就好了”的观念",
+      "definition": "如果孩子认为“熬一下学完了就好了”，一旦熬过（如高考），就会觉得不用再学习，从而阻断将来学习成长的可能性。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a007"
+      ]
+    },
+    {
+      "name": "学习要求绝对安全的环境",
+      "definition": "学习要求绝对安全的环境，即孩子没有焦虑、压力、紧张或身体饥饿，身体和心理都处于感觉安全的状态。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a008"
+      ]
+    },
+    {
+      "name": "不安全环境导致学习能力下降",
+      "definition": "当孩子心理或身体感到害怕时，专注力会放在自我保护（survive模式）上，基本需求受威胁时没有能力学习。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a009"
+      ]
+    },
+    {
+      "name": "杏仁核在压力下抑制学习",
+      "definition": "大脑中的杏仁核感到危险时，大脑处于“张开”状态，人没有能力学习；在高度紧张时，连简单问题都很难回答。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a010"
+      ]
+    },
+    {
+      "name": "学习激情在小学二三年级消失",
+      "definition": "小孩子对学习非常有激情，但这种激情在小学二年级三年级时开始消失。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a012"
+      ]
+    },
+    {
+      "name": "提问到回答问题的转变导致学习激情消失",
+      "definition": "小孩子学习的方法是问问题，但一二年级后基本变成回答问题；学校不鼓励提问，只要求回答问题，变成填鸭式学习，导致学习激情消失。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a013"
+      ]
+    },
+    {
+      "name": "语言爆发式增长体现孩子学习能力",
+      "definition": "孩子在两岁左右语言会爆发式增长，因为孩子自己在学习，学习能力非常强。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a014"
+      ]
+    },
+    {
+      "name": "讲师个人学习经历：中国与美国教育对比",
+      "definition": "讲师在中国因问天马行空问题被老师厌恶，学习压抑；到美国后同样问题被老师鼓励，学习兴趣大增，数学和生物成绩显著提升。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a015"
+      ]
+    },
+    {
+      "name": "兴趣结合学习提高效率",
+      "definition": "当学习与兴趣结合时，学习速度和效率都会高很多。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a016"
+      ]
+    },
+    {
+      "name": "分数重要性导致学习功利化",
+      "definition": "随着年级升高，分数变得很重要，学习变成功利的事情，并带来压力。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a017"
+      ]
+    },
+    {
+      "name": "烘焙评分类比学习功利化",
+      "definition": "类比：如果每次烤蛋糕都有人评分并排名竞争上岗，就很难享受烘焙；对孩子学习同理，分数和排名使学习失去乐趣。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a018"
+      ]
+    },
+    {
+      "name": "补习班导致生活无聊和学习厌恶",
+      "definition": "孩子生活里越来越多补习班和课外活动，使生活变得无聊、枯燥、单调，导致孩子对学习没有激情，越大越厌恶学习。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a019",
+        "s-455a8fd49ded-c002:a001"
+      ]
+    },
+    {
+      "name": "学习技巧的个体差异",
+      "definition": "有些技巧对某些孩子更容易掌握，例如讲师认为数学难掌握，需要花很大精力才能学80分，但心理学技能可能更容易。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a020"
+      ]
+    },
+    {
+      "name": "律师朋友从理发师处获得关键知识",
+      "definition": "讲师的一位律师朋友几乎不败诉，他利用理发师告知的烫发后三天内不能洗头的知识点，结合案件细节，判定是丈夫的情妇杀人，保护了当事人。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a021"
+      ]
+    },
+    {
+      "name": "人生阶段划分的误区",
+      "definition": "将人生分为学习阶段、工作阶段、建立家庭阶段等，认为学习只在第一阶段，这种分段有误差，会让人误以为大学毕业后就不必再学习。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:r001"
+      ]
+    },
+    {
+      "name": "现代知识更新速度要求持续学习",
+      "definition": "在现代社会，知识更新快，大一学的东西大四毕业时可能已无用，因此需要全方位、不断学习。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:r002"
+      ]
+    },
+    {
+      "name": "专业人才需要跨领域学习",
+      "definition": "即使是专业人才（如心理专家），也需要学习短视频、写脚本、直播、带货销售等新技能，因为专业的人做一件事的人越来越少。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:r003"
+      ]
+    },
+    {
+      "name": "未来社会需要快速主动学习能力",
+      "definition": "未来科技更新换代快，孩子需要具备快速学习、主动学习、积极学习、随时学习的能力，才能立足并站稳脚跟，否则容易被年轻新人推翻。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:r004"
+      ]
+    },
+    {
+      "name": "学渣成功与学霸平庸的现象",
+      "definition": "同学会中常见以前成绩不好的学渣反而成功（如当老板），而学习优异的人反而平庸，说明毕业后的学习中，不会学习的人可能追上来，而只会书本知识的人可能落后。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:r005"
+      ]
+    },
+    {
+      "name": "中国孩子大学后放弃学习",
+      "definition": "中国孩子容易出现考上大学后彻底放松、不愿再学习的现象，因为从小学到高中压力过大，弦绷得太紧，考上大学后彻底放弃学习。",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:r006"
+      ]
+    },
+    {
+      "name": "技能掌握难易因人而异",
+      "definition": "每个孩子对不同的技能掌握难易程度不同，有些技能需要付出很大努力也只能达到一般水平，而另一些技能几乎不用怎么学就能做得很好，这与性格、过去经历、兴趣和爱好有关。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a002"
+      ]
+    },
+    {
+      "name": "自然学习与需要学习的技能",
+      "definition": "有些技能如走路、玩耍、说话，孩子通过自然学习就能掌握，不需要专门教学；而有些技能如开车、数学、阅读，则需要专门学习。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a003"
+      ]
+    },
+    {
+      "name": "找到孩子的优势技能",
+      "definition": "为了让孩子成功，需要找到孩子天生就擅长的技能，因为孩子在自然擅长的技能上更容易成功。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a004"
+      ]
+    },
+    {
+      "name": "学习方式因人而异",
+      "definition": "每个孩子的学习方式不同，有的需要绝对安静，有的需要背景嘈杂；有的通过视觉学习，有的通过听觉学习；有的通过抽象概念学习，有的通过实际操作学习；有的通过探索学习，有的通过观察学习。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a005"
+      ]
+    },
+    {
+      "name": "讲师自身学习方式案例",
+      "definition": "讲师在绝对安静的环境中无法专心学习，需要背景嘈杂；讲师通过视觉学习，需要实际操作才能学会；丈夫学习需要绝对安静，通过听觉学习，抽象学习能力强。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a006"
+      ]
+    },
+    {
+      "name": "性别与学习方式差异",
+      "definition": "在学习中，女孩子一般语言表达能力更强，男孩子运动能力更强。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a007"
+      ]
+    },
+    {
+      "name": "顺应孩子的学习方式",
+      "definition": "通过找到孩子自己的学习方法并顺应它，孩子可以学得非常好。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a008"
+      ]
+    },
+    {
+      "name": "破坏自然学习能力的三个关键点",
+      "definition": "孩子天生会自主学习，但中国大部分父母会不自然地破坏三个关键点：好奇、探索、喜欢，从而破坏孩子自然学习的能力。如果能够保护、加强这三个关键点，孩子自然学习的能力就会很强。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a009"
+      ]
+    },
+    {
+      "name": "好奇是自然学习的关键点",
+      "definition": "好奇是自然学习的第一个关键点，一个人要自主学习，必须对世界保持好奇心。孩子做作业时东看看西看看是好奇的自然流露，父母不应将其视为问题。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a010"
+      ]
+    },
+    {
+      "name": "破坏好奇心的行为",
+      "definition": "父母对孩子的好奇心进行否定或贬低，例如当孩子问鲨鱼怎么生孩子时，母亲回答“这个东西要考试吗？”，并责骂孩子成绩差，这是破坏孩子好奇心的糟糕行为。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a011"
+      ]
+    },
+    {
+      "name": "用好奇本保护好奇心",
+      "definition": "当孩子在做作业时突然产生好奇想法，可以让孩子把问题写下来，放在旁边，继续做作业。专门准备一个本子叫“好奇本”，记录这些问题。作业做完后，帮助孩子找到问题的答案，至少当天解答一个问题。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a012"
+      ]
+    },
+    {
+      "name": "探索是自然学习的关键点",
+      "definition": "探索是自然学习的第二个关键点，人必须通过探索来学习。探索方式多样，不仅限于书本学习。探索是由好奇引导的自然行为，不功利；而学习是带有目标性的行为。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a013"
+      ]
+    },
+    {
+      "name": "探索与学习的区别",
+      "definition": "学习是想要了解一件事情，通过查资料、寻找专家意见来学习已经获得的知识；探索是通过观察或实践得出属于自己的结论，这个结论不一定绝对正确，但却是学习成长中非常重要的一环。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a014"
+      ]
+    },
+    {
+      "name": "孩子探索一加一的案例",
+      "definition": "孩子观察到爸爸加妈妈等于一家三口，得出探索结论一加一等于三或四；而学习是直接告诉孩子一加一等于二。探索得出的答案可能不是标准答案，但应鼓励孩子用探索的方法学习。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a015"
+      ]
+    },
+    {
+      "name": "消防员救援数学题案例",
+      "definition": "讲师提到某位老师家的孩子做一道关于消防员救援时间的数学题，孩子虽然答案做错，但认为自己的方案才是最佳救援方案，并得出另一个答案。讲师认为孩子的探索是对的，而且更为高级，应鼓励孩子探索并得出自己的结论，不必看重结论是否符合已知科学原理。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a016"
+      ]
+    },
+    {
+      "name": "鼓励探索而非否定",
+      "definition": "不要破坏孩子探索的心和探索过后的成功感觉，不要跟孩子说“你这个是错的，你看到的东西是错的”。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a017"
+      ]
+    },
+    {
+      "name": "喜欢是自然学习的关键点",
+      "definition": "喜欢是自然学习的第三个关键点。孩子喜欢的东西与父母想让他学习的东西可能不同，但孩子本身喜欢学习语文、诗词、数学，学习动机是好玩和喜欢。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a018"
+      ]
+    },
+    {
+      "name": "喜欢驱动学习",
+      "definition": "孩子在自己喜欢的事情上会想尽办法达到更高级别，会找攻略、向别人学习、请别人教、与别人讨论，愿意学习；对于不喜欢的事情，被逼着学就会想睡觉。当一个人从知识中找到乐趣时，学习就变得容易。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a019"
+      ]
+    },
+    {
+      "name": "孩子通过游戏学习心算",
+      "definition": "讲师家老大在学加法时掰手指算不出来，后来发现老大和爸爸、老二一起玩家庭桌游时，心算特别厉害。讲师意识到孩子在玩的过程中最容易学习，于是后来教数学时用游戏情境，孩子心算很快。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a020"
+      ]
+    },
+    {
+      "name": "把学习变成好玩的事情",
+      "definition": "要把学习变成好玩、有意思的事情，而不是用鞭子压着孩子学。方法是将学到的东西用起来，让孩子在生活中用得上，例如学英文时给孩子一个讲英文的朋友，孩子会因为喜欢和朋友玩而快速学习。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a021"
+      ]
+    },
+    {
+      "name": "经常问孩子问题",
+      "definition": "在日常生活中，经常问孩子问题，例如看到事情时问“你觉得发生什么事情了？”让孩子天马行空地想，不需要标准答案，也不要给孩子标准答案。还可以问“你怎么看这个事情？你觉得有更好的解决方法吗？如果是你，你会怎么解决？这件事情你有什么问题吗？”让孩子提问。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a022"
+      ]
+    },
+    {
+      "name": "不直接给答案，一起探索",
+      "definition": "当孩子提问后，不要着急给答案，而是和孩子一起探索、寻找答案，让孩子养成自己探索寻求问题答案的好习惯。因为一起探索，孩子会觉得有意思、有趣，让探索变成好玩的亲子相处时光。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a023"
+      ]
+    },
+    {
+      "name": "给孩子自由时间",
+      "definition": "要给孩子自由时间，不要把孩子每一分钟都排满。自由时间孩子会做白日梦，实验证明会做白日梦的孩子更具有自然学习能力，因为他们在幻想中尝试不同经历、感受想象中的世界并做出回应，获得感悟和体验。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a024"
+      ]
+    },
+    {
+      "name": "白日梦带来力量感",
+      "definition": "孩子在做白日梦时总是幻想自己是强大的、成功的、有力量的一方，这给孩子的力量感和自信心带来很大帮助。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a025"
+      ]
+    },
+    {
+      "name": "读闲书同样有益",
+      "definition": "读闲书（如小说）与做白日梦有同样道理，但需要孩子有空闲时间。如果周末被排满，孩子就没有时间做这些自然学习能力建造所需要的基础。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a026"
+      ]
+    },
+    {
+      "name": "成为孩子的向导而非答案",
+      "definition": "父母要成为孩子的向导，而不是直接提供答案。当孩子对什么好奇、问问题时，不着急给答案，而是引导孩子自主探索。",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a027",
+        "s-455a8fd49ded-c003:a001"
+      ]
+    },
+    {
+      "name": "鲸鱼主题自主学习案例",
+      "definition": "讲师家老二对鲸鱼产生兴趣，家长从图书馆借阅鲸鱼相关书籍，孩子自主学习了鲸鱼如何生宝宝、新生鲸鱼重量、每天食量等知识。家长还买了一条一磅多的鱼来类比，让孩子想象8000磅食物的量，整个过程孩子觉得有趣好玩。",
+      "atom_ids": [
+        "s-455a8fd49ded-c003:a002"
+      ]
+    },
+    {
+      "name": "让学习变得有趣好玩",
+      "definition": "家长应尽可能让学习过程变得有意思、好玩，例如通过实物类比、想象和互动，激发孩子的学习兴趣。",
+      "atom_ids": [
+        "s-455a8fd49ded-c003:a003"
+      ]
+    },
+    {
+      "name": "让书环绕孩子",
+      "definition": "在家中多处放置书籍，让孩子随时可以拿到书，以提升孩子读书的意愿。哈佛大学研究显示，孩子能否快速拿到书与读书意愿成正比。",
+      "atom_ids": [
+        "s-455a8fd49ded-c003:a004"
+      ]
+    },
+    {
+      "name": "书籍种类不限于教学书",
+      "definition": "家中放置的书籍应包括各种闲书、杂志（如自然杂志、地理杂志），而不只是教学书或数学书，以创造学习探索的环境。",
+      "atom_ids": [
+        "s-455a8fd49ded-c003:a005"
+      ]
+    },
+    {
+      "name": "用环境潜移默化影响孩子",
+      "definition": "通过创造充满书籍和探索空间的环境，潜移默化地影响孩子，培养其学习能力。",
+      "atom_ids": [
+        "s-455a8fd49ded-c003:a006"
+      ]
+    },
+    {
+      "name": "学以致用",
+      "definition": "将学到的知识运用到生活中，才能把知识变成自己的。",
+      "atom_ids": [
+        "s-455a8fd49ded-c003:a007"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-455a8fd49ded-c001:a005",
+      "target": "s-455a8fd49ded-c001:a006",
+      "kind": "association",
+      "condition": "如果孩子对学习的认知仅限于成绩",
+      "reason": "“成绩机制对学习认知的影响”讨论成绩机制导致认知浅薄而不愿学习；“学习是苦差事的观念导致厌恶学习”讨论内化苦差事观念后的厌恶。两者同属学习厌恶成因，但源头未直接推出苦差事观念，因此仅相关。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原为 causes，但因果证据不足，降级为关联。"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:a006",
+      "target": "s-455a8fd49ded-c001:a007",
+      "kind": "supports",
+      "condition": "如果孩子接受学习是苦差事的观念",
+      "reason": "“学习是苦差事的观念导致厌恶学习”描述因认为学习苦而产生厌恶并想抛弃；“‘熬过学习就好了’的观念阻断成长”是这种苦差事观念在时间维度上的具体表现，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原为 causes，但因两者因果方向可理解为支撑，调整为 supports。"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:a008",
+      "target": "s-455a8fd49ded-c001:a009",
+      "kind": "supports",
+      "condition": "当环境不安全时",
+      "reason": "“学习要求绝对安全的环境”说明安全是学习的前提；“不安全环境导致学习能力下降”描述安全条件被破坏时的后果，前提要求支持后果判断。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原为 causes，现调整为 supports，因为前提要求对后果有直接支撑。"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:a009",
+      "target": "s-455a8fd49ded-c001:a010",
+      "kind": "supports",
+      "condition": "当孩子感到害怕时",
+      "reason": "“不安全环境导致学习能力下降”描述害怕时无法学习；“杏仁核在压力下抑制学习”从神经机制角度解释压力下学习受阻，支持前一机制。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:a013",
+      "target": "s-455a8fd49ded-c001:a012",
+      "kind": "supports",
+      "condition": "当学校不鼓励提问时",
+      "reason": "“提问到回答问题的转变导致学习激情消失”表明学校不鼓励提问、只要求回答会扼杀学习激情，从而支持“学习激情在小学二三年级消失”。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原关系为 causes，此处映射为 supports；方向正确，支持成立。"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:a015",
+      "target": "s-455a8fd49ded-c001:a016",
+      "kind": "supports",
+      "condition": "当学习与兴趣结合时",
+      "reason": "讲师个人经历表明兴趣结合学习提高效率。"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:a017",
+      "target": "s-455a8fd49ded-c001:a018",
+      "kind": "supports",
+      "condition": "当分数变得重要时",
+      "reason": "烘焙评分类比说明分数和排名使学习失去乐趣。"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:a019",
+      "target": "s-455a8fd49ded-c001:a012",
+      "kind": "causes",
+      "condition": "当孩子生活被补习班填满时",
+      "reason": "补习班导致生活无聊和学习厌恶，进而学习激情消失。"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:a021",
+      "target": "s-455a8fd49ded-c001:a002",
+      "kind": "example_of",
+      "condition": "律师朋友从理发师处获得关键知识并运用于案件",
+      "reason": "“律师朋友从理发师处获得关键知识”展示了学习能力强的人能从看似无关的交谈中捕捉信息并储存，是“学习能力强的表现”的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "方向正确。"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:r001",
+      "target": "s-455a8fd49ded-c001:r002",
+      "kind": "association",
+      "condition": "在现代社会背景下讨论学习阶段与知识更新",
+      "reason": "“人生阶段划分的误区”指出将学习局限于第一阶段会让人误以为毕业后不必再学习，而“现代知识更新速度要求持续学习”强调知识更新快、需不断学习。两者同属持续学习议题，但前者不构成对后者的支持，仅为相关观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 过强，改为 association；两者没有直接的证据支持关系。"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:r002",
+      "target": "s-455a8fd49ded-c001:r003",
+      "kind": "supports",
+      "condition": "对于专业人才",
+      "reason": "“现代知识更新速度要求持续学习”指出知识更新快、需要不断积累，支持“专业人才需要跨领域学习”的主张，因为专业人才也需应对变化、学习新技能。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持成立。"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:r004",
+      "target": "s-455a8fd49ded-c001:r002",
+      "kind": "supports",
+      "condition": "未来社会同样面临知识快速更新",
+      "reason": "“未来社会需要快速主动学习能力”强调未来科技更新换代快，孩子需快速主动学习，这支持“现代知识更新速度要求持续学习”的观点，即快速变化要求人们不断学习。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "未来与现代时间不同，但同为知识更新快的逻辑，支持关系成立。"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:r005",
+      "target": "s-455a8fd49ded-c001:a003",
+      "kind": "supports",
+      "condition": "毕业后",
+      "reason": "学渣成功与学霸平庸的现象说明学习好不等于成绩好。"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:r006",
+      "target": "s-455a8fd49ded-c001:a007",
+      "kind": "supports",
+      "condition": "中国孩子",
+      "reason": "中国孩子大学后放弃学习是“熬过学习就好了”观念的现实表现。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a009",
+      "target": "s-455a8fd49ded-c002:a010",
+      "kind": "step_of",
+      "condition": "保护自然学习能力",
+      "reason": "好奇是自然学习的第一个关键点。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a009",
+      "target": "s-455a8fd49ded-c002:a013",
+      "kind": "step_of",
+      "condition": "保护自然学习能力",
+      "reason": "探索是自然学习的第二个关键点。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a009",
+      "target": "s-455a8fd49ded-c002:a018",
+      "kind": "step_of",
+      "condition": "保护自然学习能力",
+      "reason": "喜欢是自然学习的第三个关键点。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a010",
+      "target": "s-455a8fd49ded-c002:a011",
+      "kind": "contrasts",
+      "condition": "父母对孩子好奇心的态度",
+      "reason": "好奇是自然学习的关键点，但破坏好奇心的行为会损害学习。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a011",
+      "target": "s-455a8fd49ded-c002:a012",
+      "kind": "contrasts",
+      "condition": "面对孩子的好奇",
+      "reason": "破坏好奇心的行为与用好奇本保护好奇心形成对比。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a013",
+      "target": "s-455a8fd49ded-c002:a014",
+      "kind": "supports",
+      "condition": "理解探索",
+      "reason": "探索与学习的区别有助于理解探索是自然学习的关键点。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a014",
+      "target": "s-455a8fd49ded-c002:a015",
+      "kind": "example_of",
+      "condition": "孩子探索一加一",
+      "reason": "孩子探索一加一的案例说明了探索与学习的区别。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a014",
+      "target": "s-455a8fd49ded-c002:a016",
+      "kind": "example_of",
+      "condition": "消防员救援数学题",
+      "reason": "消防员救援数学题案例说明了探索与学习的区别。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a016",
+      "target": "s-455a8fd49ded-c002:a017",
+      "kind": "supports",
+      "condition": "面对孩子的探索",
+      "reason": "消防员救援数学题案例支持鼓励探索而非否定。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a018",
+      "target": "s-455a8fd49ded-c002:a019",
+      "kind": "supports",
+      "condition": "孩子喜欢的事情",
+      "reason": "喜欢驱动学习，解释了喜欢是自然学习的关键点。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a019",
+      "target": "s-455a8fd49ded-c002:a020",
+      "kind": "example_of",
+      "condition": "孩子通过游戏学习心算",
+      "reason": "孩子通过游戏学习心算案例说明喜欢驱动学习。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a020",
+      "target": "s-455a8fd49ded-c002:a021",
+      "kind": "supports",
+      "condition": "把学习变成好玩的事情",
+      "reason": "孩子通过游戏学习心算案例支持把学习变成好玩的事情。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a022",
+      "target": "s-455a8fd49ded-c002:a023",
+      "kind": "step_of",
+      "condition": "经常问孩子问题后",
+      "reason": "经常问孩子问题后，不直接给答案，一起探索。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a023",
+      "target": "s-455a8fd49ded-c002:a027",
+      "kind": "supports",
+      "condition": "父母角色",
+      "reason": "不直接给答案，一起探索是成为孩子的向导而非答案的体现。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a024",
+      "target": "s-455a8fd49ded-c002:a025",
+      "kind": "causes",
+      "condition": "孩子做白日梦时",
+      "reason": "给孩子自由时间，孩子会做白日梦，白日梦带来力量感。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a024",
+      "target": "s-455a8fd49ded-c002:a026",
+      "kind": "supports",
+      "condition": "有空闲时间时",
+      "reason": "读闲书同样有益，但需要孩子有空闲时间。"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a027",
+      "target": "s-455a8fd49ded-c003:a001",
+      "kind": "supports",
+      "condition": "当孩子好奇时",
+      "reason": "“成为孩子的向导而非答案”（源）提出父母应引导孩子自主探索，支持“成为孩子的向导而非答案”（目标）中关于提供资源、不直接给答案的具体做法，二者观点一致。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "两端内容重合度高，支持关系成立。"
+    },
+    {
+      "source": "s-455a8fd49ded-c003:a001",
+      "target": "s-455a8fd49ded-c003:a002",
+      "kind": "example_of",
+      "condition": "鲸鱼主题自主学习案例",
+      "reason": "“鲸鱼主题自主学习案例”是“成为孩子的向导而非答案”的具体实例：家长借书提供资源、让孩子自主探索，体现了向导而非答案的做法。原方向应从案例指向概念，需反转。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向应反转：案例指向概念；原关系类型 example_of 正确。"
+    },
+    {
+      "source": "s-455a8fd49ded-c003:a002",
+      "target": "s-455a8fd49ded-c003:a003",
+      "kind": "supports",
+      "condition": "让学习变得有趣好玩",
+      "reason": "“鲸鱼主题自主学习案例”中孩子通过实物类比和自主探索觉得学习有趣，支持“让学习变得有趣好玩”这一观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "案例作为证据支持概念，方向正确。"
+    },
+    {
+      "source": "s-455a8fd49ded-c003:a004",
+      "target": "s-455a8fd49ded-c003:a005",
+      "kind": "supports",
+      "condition": "让书环绕孩子",
+      "reason": "书籍种类不限于教学书，才能创造学习探索的环境。"
+    },
+    {
+      "source": "s-455a8fd49ded-c003:a004",
+      "target": "s-455a8fd49ded-c003:a006",
+      "kind": "supports",
+      "condition": "用环境潜移默化影响孩子",
+      "reason": "让书环绕孩子是用环境潜移默化影响孩子的一种方式。"
+    },
+    {
+      "source": "s-455a8fd49ded-c003:a006",
+      "target": "s-455a8fd49ded-c003:a007",
+      "kind": "association",
+      "condition": "在培养孩子学习能力的情境下",
+      "reason": "“用环境潜移默化影响孩子”强调通过环境培养学习能力，“学以致用”强调把知识运用到生活中。两者同属学习培养议题，但前者不直接支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 过强，改为 association。"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:v2-n001",
+      "target": "s-455a8fd49ded-c001:a020",
+      "kind": "association",
+      "condition": "当两个表述内容基本一致时",
+      "reason": "a020 与 source 均说明学习技巧个体差异，内容相似，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:a020",
+      "target": "s-455a8fd49ded-c001:v2-n001",
+      "kind": "association",
+      "condition": "当两个表述内容基本一致时",
+      "reason": "a020 与 source 均说明学习技巧个体差异，内容相似，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:v2-n001",
+      "target": "s-455a8fd49ded-c002:a002",
+      "kind": "complements",
+      "condition": "在解释个体差异的原因时",
+      "reason": "a002 补充了技能掌握难易与性格、经历、兴趣等有关，为 source 的个体差异提供原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a002",
+      "target": "s-455a8fd49ded-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在解释个体差异的原因时",
+      "reason": "a002 补充了技能掌握难易与性格、经历、兴趣等有关，为 source 的个体差异提供原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:v2-n001",
+      "target": "s-455a8fd49ded-c002:a003",
+      "kind": "association",
+      "condition": "在区分自然学习与专门学习时",
+      "reason": "a003 将技能分为自然学习和需要专门学习，与 source 的个体差异不同维度，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a003",
+      "target": "s-455a8fd49ded-c001:v2-n001",
+      "kind": "association",
+      "condition": "在区分自然学习与专门学习时",
+      "reason": "a003 将技能分为自然学习和需要专门学习，与 source 的个体差异不同维度，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:v2-n001",
+      "target": "s-455a8fd49ded-c001:a011",
+      "kind": "association",
+      "condition": "在讨论孩子天生学习能力时",
+      "reason": "a011 强调孩子天生会学习且方法各异，与 source 的个体差异相关，但侧重天生性，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:a011",
+      "target": "s-455a8fd49ded-c001:v2-n001",
+      "kind": "association",
+      "condition": "在讨论孩子天生学习能力时",
+      "reason": "a011 强调孩子天生会学习且方法各异，与 source 的个体差异相关，但侧重天生性，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:v2-n001",
+      "target": "s-455a8fd49ded-c002:a005",
+      "kind": "complements",
+      "condition": "在列举具体学习方式差异时",
+      "reason": "a005 补充了具体的学习方式差异（视觉、听觉等），为 source 的个体差异提供实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a005",
+      "target": "s-455a8fd49ded-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在列举具体学习方式差异时",
+      "reason": "a005 补充了具体的学习方式差异（视觉、听觉等），为 source 的个体差异提供实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:v2-n001",
+      "target": "s-455a8fd49ded-c002:a007",
+      "kind": "association",
+      "condition": "在讨论性别差异时",
+      "reason": "a007 提供性别与学习方式差异，是 source 个体差异的一个可能来源，但仅作关联，不能过度概括。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a007",
+      "target": "s-455a8fd49ded-c001:v2-n001",
+      "kind": "association",
+      "condition": "在讨论性别差异时",
+      "reason": "a007 提供性别与学习方式差异，是 source 个体差异的一个可能来源，但仅作关联，不能过度概括。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:v2-n001",
+      "target": "s-455a8fd49ded-c002:a004",
+      "kind": "association",
+      "condition": "在应用个体差异找到优势技能时",
+      "reason": "a004 建议找到孩子天生擅长的技能，与 source 的个体差异相关，是应用层面，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a004",
+      "target": "s-455a8fd49ded-c001:v2-n001",
+      "kind": "association",
+      "condition": "在应用个体差异找到优势技能时",
+      "reason": "a004 建议找到孩子天生擅长的技能，与 source 的个体差异相关，是应用层面，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:v2-n001",
+      "target": "s-455a8fd49ded-c002:a020",
+      "kind": "complements",
+      "condition": "在提供个体差异的案例时",
+      "reason": "a020 提供孩子通过游戏学习心算的案例，展示了学习的个体差异，补充了 source 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a020",
+      "target": "s-455a8fd49ded-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在提供个体差异的案例时",
+      "reason": "a020 提供孩子通过游戏学习心算的案例，展示了学习的个体差异，补充了 source 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:v2-n001",
+      "target": "s-455a8fd49ded-c003:a003",
+      "kind": "association",
+      "condition": "在讨论让学习有趣时",
+      "reason": "a003 建议让学习变得有趣，与 source 的个体差异无直接补充，但同属学习主题，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c003:a003",
+      "target": "s-455a8fd49ded-c001:v2-n001",
+      "kind": "association",
+      "condition": "在讨论让学习有趣时",
+      "reason": "a003 建议让学习变得有趣，与 source 的个体差异无直接补充，但同属学习主题，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:v2-n001",
+      "target": "s-455a8fd49ded-c002:a019",
+      "kind": "association",
+      "condition": "在讨论喜欢驱动学习时",
+      "reason": "a019 说明喜欢驱动学习，与 source 个体差异相关，但不直接补充，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a019",
+      "target": "s-455a8fd49ded-c001:v2-n001",
+      "kind": "association",
+      "condition": "在讨论喜欢驱动学习时",
+      "reason": "a019 说明喜欢驱动学习，与 source 个体差异相关，但不直接补充，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:v2-n001",
+      "target": "s-455a8fd49ded-c001:a018",
+      "kind": "complements",
+      "condition": "讨论分数重要性对学习乐趣的影响",
+      "reason": "source 用烘焙类比说明分数排名使学习失去乐趣，candidate 补充了烘焙评分具体场景（90分、85分）和排名竞争上岗，使类比更具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:a018",
+      "target": "s-455a8fd49ded-c002:v2-n001",
+      "kind": "complements",
+      "condition": "讨论分数重要性对学习乐趣的影响",
+      "reason": "source 用烘焙类比说明分数排名使学习失去乐趣，candidate 补充了烘焙评分具体场景（90分、85分）和排名竞争上岗，使类比更具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:v2-n001",
+      "target": "s-455a8fd49ded-c001:a017",
+      "kind": "complements",
+      "condition": "都讨论分数重要性导致学习功利化",
+      "reason": "source 指出分数重要使学习功利有压力，candidate 补充了“随着年级升高”这一背景，说明分数重要性随年级升高而增加。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:a017",
+      "target": "s-455a8fd49ded-c002:v2-n001",
+      "kind": "complements",
+      "condition": "都讨论分数重要性导致学习功利化",
+      "reason": "source 指出分数重要使学习功利有压力，candidate 补充了“随着年级升高”这一背景，说明分数重要性随年级升高而增加。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:v2-n001",
+      "target": "s-455a8fd49ded-c001:r007",
+      "kind": "complements",
+      "condition": "都讨论成绩机制对学习的负面影响",
+      "reason": "source 侧重功利和压力，candidate 补充了成绩机制导致学习认知浅薄单一这一后果，补了认知影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c001:r007",
+      "target": "s-455a8fd49ded-c002:v2-n001",
+      "kind": "complements",
+      "condition": "都讨论成绩机制对学习的负面影响",
+      "reason": "source 侧重功利和压力，candidate 补充了成绩机制导致学习认知浅薄单一这一后果，补了认知影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:v2-n001",
+      "target": "s-455a8fd49ded-c002:a009",
+      "kind": "example_of",
+      "condition": "source 描述分数重要破坏喜欢的具体情境，candidate 总结破坏自然学习能力的三个关键点",
+      "reason": "source 展示了外部评分排名如何破坏原本喜欢的活动，是 candidate 中“破坏喜欢”关键点的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a009",
+      "target": "s-455a8fd49ded-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "source 描述分数重要破坏喜欢的具体情境，candidate 总结破坏自然学习能力的三个关键点",
+      "reason": "source 展示了外部评分排名如何破坏原本喜欢的活动，是 candidate 中“破坏喜欢”关键点的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:v2-n002",
+      "target": "s-455a8fd49ded-c003:a002",
+      "kind": "complements",
+      "condition": "同一鲸鱼自主学习案例",
+      "reason": "source 简述了老二喜欢鲸鱼、借书和模型、自主探索，candidate 补充了具体数字（新生鲸鱼重量、每天食量8000磅）和买鱼类比，使案例更详实。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c003:a002",
+      "target": "s-455a8fd49ded-c002:v2-n002",
+      "kind": "complements",
+      "condition": "同一鲸鱼自主学习案例",
+      "reason": "source 简述了老二喜欢鲸鱼、借书和模型、自主探索，candidate 补充了具体数字（新生鲸鱼重量、每天食量8000磅）和买鱼类比，使案例更详实。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:v2-n002",
+      "target": "s-455a8fd49ded-c003:a001",
+      "kind": "example_of",
+      "condition": "source 案例体现了“成为孩子的向导而非答案”的原则",
+      "reason": "source 中家长不直接给答案或填鸭，而是借书、模型让孩子自主探索，是 candidate 所描述原则的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c003:a001",
+      "target": "s-455a8fd49ded-c002:v2-n002",
+      "kind": "has_example",
+      "condition": "source 案例体现了“成为孩子的向导而非答案”的原则",
+      "reason": "source 中家长不直接给答案或填鸭，而是借书、模型让孩子自主探索，是 candidate 所描述原则的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:v2-n002",
+      "target": "s-455a8fd49ded-c002:a023",
+      "kind": "example_of",
+      "condition": "source 案例体现了“不直接给答案，一起探索”的原则",
+      "reason": "source 中家长和孩子一起想象、讨论，不直接告知答案，是 candidate 原则的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a023",
+      "target": "s-455a8fd49ded-c002:v2-n002",
+      "kind": "has_example",
+      "condition": "source 案例体现了“不直接给答案，一起探索”的原则",
+      "reason": "source 中家长和孩子一起想象、讨论，不直接告知答案，是 candidate 原则的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:v2-n002",
+      "target": "s-455a8fd49ded-c002:a009",
+      "kind": "complements",
+      "condition": "source 实践保护了自然学习的关键点",
+      "reason": "candidate 提出破坏三个关键点会损害自然学习能力，source 通过保护好奇（喜欢鲸鱼）、探索（自主了解）、喜欢（觉得好玩）提供了正面做法，补充了实际保护关键点的方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a009",
+      "target": "s-455a8fd49ded-c002:v2-n002",
+      "kind": "complements",
+      "condition": "source 实践保护了自然学习的关键点",
+      "reason": "candidate 提出破坏三个关键点会损害自然学习能力，source 通过保护好奇（喜欢鲸鱼）、探索（自主了解）、喜欢（觉得好玩）提供了正面做法，补充了实际保护关键点的方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:v2-n002",
+      "target": "s-455a8fd49ded-c002:a018",
+      "kind": "example_of",
+      "condition": "source 案例体现了“喜欢是自然学习的关键点”",
+      "reason": "source 中孩子因为喜欢鲸鱼而主动探索学习，是 candidate 所称“喜欢是自然学习关键点”的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a018",
+      "target": "s-455a8fd49ded-c002:v2-n002",
+      "kind": "has_example",
+      "condition": "source 案例体现了“喜欢是自然学习的关键点”",
+      "reason": "source 中孩子因为喜欢鲸鱼而主动探索学习，是 candidate 所称“喜欢是自然学习关键点”的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:v2-n002",
+      "target": "s-455a8fd49ded-c002:a010",
+      "kind": "example_of",
+      "condition": "source 案例体现了“好奇是自然学习的关键点”",
+      "reason": "source 中孩子对鲸鱼产生好奇，从而引发自主学习，是 candidate 所称“好奇是自然学习关键点”的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c002:a010",
+      "target": "s-455a8fd49ded-c002:v2-n002",
+      "kind": "has_example",
+      "condition": "source 案例体现了“好奇是自然学习的关键点”",
+      "reason": "source 中孩子对鲸鱼产生好奇，从而引发自主学习，是 candidate 所称“好奇是自然学习关键点”的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c003:v2-n001",
+      "target": "s-455a8fd49ded-c003:a004",
+      "kind": "example_of",
+      "condition": "source 案例体现了“让书环绕孩子”的原则",
+      "reason": "source 中家里到处放书、玩具收拾但书不收拾，让孩子目光所及之处都能看到书，是 candidate 所提原则的具体实践。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c003:a004",
+      "target": "s-455a8fd49ded-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "source 案例体现了“让书环绕孩子”的原则",
+      "reason": "source 中家里到处放书、玩具收拾但书不收拾，让孩子目光所及之处都能看到书，是 candidate 所提原则的具体实践。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c003:v2-n001",
+      "target": "s-455a8fd49ded-c003:a006",
+      "kind": "example_of",
+      "condition": "source 案例体现了“用环境潜移默化影响孩子”的原则",
+      "reason": "source 通过创造充满书籍的环境来培养孩子学习能力，是 candidate 所提方法的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c003:a006",
+      "target": "s-455a8fd49ded-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "source 案例体现了“用环境潜移默化影响孩子”的原则",
+      "reason": "source 通过创造充满书籍的环境来培养孩子学习能力，是 candidate 所提方法的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c003:v2-n001",
+      "target": "s-455a8fd49ded-c003:a005",
+      "kind": "complements",
+      "condition": "source 只提到放书，未提书籍种类",
+      "reason": "source 说家里到处放书，candidate 补充了书籍种类应不限于教学书，包括各种闲书、杂志，补了书籍选择的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-455a8fd49ded-c003:a005",
+      "target": "s-455a8fd49ded-c003:v2-n001",
+      "kind": "complements",
+      "condition": "source 只提到放书，未提书籍种类",
+      "reason": "source 说家里到处放书，candidate 补充了书籍种类应不限于教学书，包括各种闲书、杂志，补了书籍选择的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a001",
+        "s-455a8fd49ded-c001:a002"
+      ],
+      "reason": "两条记录都描述学习能力强的表现，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a005",
+        "s-455a8fd49ded-c001:r007"
+      ],
+      "reason": "两条记录内容完全相同，都是关于成绩机制对学习认知的影响。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a006",
+        "s-455a8fd49ded-c001:r008"
+      ],
+      "reason": "两条记录内容完全相同，都是关于学习是苦差事的观念导致厌恶学习。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a007"
+      ],
+      "reason": "两条记录内容完全相同，都是关于“熬过学习就好了”的观念阻断成长。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a009"
+      ],
+      "reason": "两条记录内容完全相同，都是关于不安全环境导致学习能力下降。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a010"
+      ],
+      "reason": "两条记录内容完全相同，都是关于杏仁核在压力下抑制学习。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a011"
+      ],
+      "reason": "两条记录内容完全相同，都是关于孩子天生会学习且方法各异。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a012"
+      ],
+      "reason": "两条记录内容完全相同，都是关于学习激情在小学二三年级消失。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a013"
+      ],
+      "reason": "两条记录内容完全相同，都是关于提问到回答问题的转变导致学习激情消失。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a014"
+      ],
+      "reason": "两条记录内容完全相同，都是关于语言爆发式增长体现孩子学习能力。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a015"
+      ],
+      "reason": "两条记录内容完全相同，都是关于讲师个人学习经历：中国与美国教育对比。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a016"
+      ],
+      "reason": "两条记录内容完全相同，都是关于兴趣结合学习提高效率。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a017"
+      ],
+      "reason": "两条记录内容完全相同，都是关于分数重要性导致学习功利化。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a018"
+      ],
+      "reason": "两条记录内容完全相同，都是关于烘焙评分类比学习功利化。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a019"
+      ],
+      "reason": "两条记录内容完全相同，都是关于补习班导致生活无聊和学习厌恶。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a020"
+      ],
+      "reason": "两条记录内容完全相同，都是关于学习技巧的个体差异。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a021"
+      ],
+      "reason": "两条记录内容完全相同，都是关于律师朋友从理发师处获得关键知识。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a001"
+      ],
+      "reason": "两条记录内容完全相同，都是关于过度安排导致学习厌恶。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a002"
+      ],
+      "reason": "两条记录内容完全相同，都是关于技能掌握难易因人而异。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a003"
+      ],
+      "reason": "两条记录内容完全相同，都是关于自然学习与需要学习的技能。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a004"
+      ],
+      "reason": "两条记录内容完全相同，都是关于找到孩子的优势技能。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a005"
+      ],
+      "reason": "两条记录内容完全相同，都是关于学习方式因人而异。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a006"
+      ],
+      "reason": "两条记录内容完全相同，都是关于讲师自身学习方式案例。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a007"
+      ],
+      "reason": "两条记录内容完全相同，都是关于性别与学习方式差异。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a008"
+      ],
+      "reason": "两条记录内容完全相同，都是关于顺应孩子的学习方式。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a009"
+      ],
+      "reason": "两条记录内容完全相同，都是关于破坏自然学习能力的三个关键点。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a010"
+      ],
+      "reason": "两条记录内容完全相同，都是关于好奇是自然学习的关键点。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a011"
+      ],
+      "reason": "两条记录内容完全相同，都是关于破坏好奇心的行为。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a012"
+      ],
+      "reason": "两条记录内容完全相同，都是关于用好奇本保护好奇心。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a013"
+      ],
+      "reason": "两条记录内容完全相同，都是关于探索是自然学习的关键点。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a014"
+      ],
+      "reason": "两条记录内容完全相同，都是关于探索与学习的区别。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a015"
+      ],
+      "reason": "两条记录内容完全相同，都是关于孩子探索一加一的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a016"
+      ],
+      "reason": "两条记录内容完全相同，都是关于消防员救援数学题案例。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a017"
+      ],
+      "reason": "两条记录内容完全相同，都是关于鼓励探索而非否定。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a018"
+      ],
+      "reason": "两条记录内容完全相同，都是关于喜欢是自然学习的关键点。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a019"
+      ],
+      "reason": "两条记录内容完全相同，都是关于喜欢驱动学习。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a020"
+      ],
+      "reason": "两条记录内容完全相同，都是关于孩子通过游戏学习心算。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a021"
+      ],
+      "reason": "两条记录内容完全相同，都是关于把学习变成好玩的事情。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a022"
+      ],
+      "reason": "两条记录内容完全相同，都是关于经常问孩子问题。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a023"
+      ],
+      "reason": "两条记录内容完全相同，都是关于不直接给答案，一起探索。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a024"
+      ],
+      "reason": "两条记录内容完全相同，都是关于给孩子自由时间。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a025"
+      ],
+      "reason": "两条记录内容完全相同，都是关于白日梦带来力量感。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a026"
+      ],
+      "reason": "两条记录内容完全相同，都是关于读闲书同样有益。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a027"
+      ],
+      "reason": "两条记录内容完全相同，都是关于成为孩子的向导而非答案。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a004",
+        "s-455a8fd49ded-c001:a012"
+      ],
+      "description": "一条记录说孩子天生喜欢学习，另一条说学习激情在小学二三年级消失，两者之间存在矛盾，需要解释激情消失的原因。",
+      "needed_evidence": "需要证据说明学习激情消失的具体原因，例如教育方式、环境变化等。"
+    },
+    {
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a011",
+        "s-455a8fd49ded-c001:a013"
+      ],
+      "description": "一条记录说孩子天生会学习且方法各异，另一条说学校不鼓励提问导致学习激情消失，两者之间存在矛盾，需要明确学校环境对孩子学习的影响。",
+      "needed_evidence": "需要证据说明学校环境如何影响孩子的自然学习能力。"
+    }
+  ],
+  "path": [
+    {
+      "name": "保护孩子自然学习能力的方法",
+      "steps": [
+        {
+          "action": "保护好奇心",
+          "atom_ids": [
+            "s-455a8fd49ded-c002:a010",
+            "s-455a8fd49ded-c002:a011",
+            "s-455a8fd49ded-c002:a012"
+          ],
+          "condition": "当孩子表现出好奇时，不要否定或贬低，使用好奇本记录问题。"
+        },
+        {
+          "action": "鼓励探索",
+          "atom_ids": [
+            "s-455a8fd49ded-c002:a013",
+            "s-455a8fd49ded-c002:a014",
+            "s-455a8fd49ded-c002:a015",
+            "s-455a8fd49ded-c002:a016",
+            "s-455a8fd49ded-c002:a017"
+          ],
+          "condition": "当孩子探索时，不要否定其结论，鼓励其得出自己的结论。"
+        },
+        {
+          "action": "培养喜欢",
+          "atom_ids": [
+            "s-455a8fd49ded-c002:a018",
+            "s-455a8fd49ded-c002:a019",
+            "s-455a8fd49ded-c002:a020",
+            "s-455a8fd49ded-c002:a021"
+          ],
+          "condition": "将学习与孩子的兴趣结合，把学习变成好玩的事情。"
+        },
+        {
+          "action": "提供自由时间",
+          "atom_ids": [
+            "s-455a8fd49ded-c002:a024",
+            "s-455a8fd49ded-c002:a025",
+            "s-455a8fd49ded-c002:a026"
+          ],
+          "condition": "不要把孩子的时间排满，允许孩子做白日梦和读闲书。"
+        },
+        {
+          "action": "成为向导而非答案",
+          "atom_ids": [
+            "s-455a8fd49ded-c002:a027",
+            "s-455a8fd49ded-c003:a001",
+            "s-455a8fd49ded-c003:a002"
+          ],
+          "condition": "当孩子提问时，不直接给答案，提供资源让孩子自主探索。"
+        },
+        {
+          "action": "创造学习环境",
+          "atom_ids": [
+            "s-455a8fd49ded-c003:a004",
+            "s-455a8fd49ded-c003:a005",
+            "s-455a8fd49ded-c003:a006"
+          ],
+          "condition": "在家中多处放置书籍，包括闲书和杂志，让孩子随时可以拿到书。"
+        },
+        {
+          "action": "学以致用",
+          "atom_ids": [
+            "s-455a8fd49ded-c003:a007"
+          ],
+          "condition": "将学到的知识运用到生活中，才能把知识变成自己的。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "6adbf9e8d5660c607bd92b10091278f6f6ef3e0f9e60a78f34b40ff8e6b5152e",
+  "recovered_from_response": "s-455a8fd49ded-relations-1793882122669349200.json",
+  "point_units": [
+    {
+      "id": "s-455a8fd49ded-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:r001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:r002"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:r003"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:r004"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:r005"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a003"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a006"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a007"
+      ],
+      "blocks": [
+        "b00009",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:r006"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a004"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a005"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a001"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a002"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a008"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a009"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a010"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a011"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a012"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a013"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a014"
+      ],
+      "blocks": [
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u021",
+      "kind": "case",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a015"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035",
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a016"
+      ],
+      "blocks": [
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a017"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u024",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a018"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a019"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u026",
+      "kind": "case",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a021"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c001:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u001",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a019",
+        "s-455a8fd49ded-c002:a001"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u002",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:a020",
+        "s-455a8fd49ded-c002:a002"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a003"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a004"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u005",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a005"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00049",
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a006"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00049",
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a007"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a008"
+      ],
+      "blocks": [
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u009",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a009"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u010",
+      "kind": "definition",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a010"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u011",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a011"
+      ],
+      "blocks": [
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a012"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u013",
+      "kind": "definition",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a013"
+      ],
+      "blocks": [
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u014",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a014"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a015"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a016"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a017"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u018",
+      "kind": "definition",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a018"
+      ],
+      "blocks": [
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u019",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a019"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u020",
+      "kind": "case",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a020"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069",
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u021",
+      "kind": "method",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a021"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u022",
+      "kind": "method",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a022"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u023",
+      "kind": "method",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a023"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u024",
+      "kind": "method",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a024"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u025",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a025"
+      ],
+      "blocks": [
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u026",
+      "kind": "method",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a026"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u027",
+      "kind": "method",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:a027"
+      ],
+      "blocks": [
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u028",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c002:u029",
+      "kind": "case",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c003:u1",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c003:a001"
+      ],
+      "blocks": [
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c003:u2",
+      "kind": "case",
+      "atom_ids": [
+        "s-455a8fd49ded-c003:a002"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c003:u3",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c003:a003"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c003:u4",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c003:a004"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c003:u5",
+      "kind": "case",
+      "atom_ids": [
+        "s-455a8fd49ded-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c003:u6",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c003:a005"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c003:u7",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c003:a006"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-455a8fd49ded-c003:u8",
+      "kind": "concept",
+      "atom_ids": [
+        "s-455a8fd49ded-c003:a007"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "学习技巧的个体差异",
+      "atom_ids": [
+        "s-455a8fd49ded-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-455a8fd49ded",
+          "blocks": [
+            "b00042"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "分数重要性与外部评分排名破坏享受",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-455a8fd49ded",
+          "blocks": [
+            "b00039",
+            "b00040"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "老二鲸鱼自主学习案例",
+      "atom_ids": [
+        "s-455a8fd49ded-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-455a8fd49ded",
+          "blocks": [
+            "b00081",
+            "b00082"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "家中书籍散乱实践案例",
+      "atom_ids": [
+        "s-455a8fd49ded-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-455a8fd49ded",
+          "blocks": [
+            "b00085"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    }
+  ]
+}

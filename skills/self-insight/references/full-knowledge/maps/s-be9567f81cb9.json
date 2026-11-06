@@ -1,0 +1,795 @@
+{
+  "concepts": [
+    {
+      "name": "羞辱式管教",
+      "definition": "一种通过让孩子感到羞耻来教育孩子的方式，源于中国传统文化中的“知耻而后勇”观念，认为孩子必须知道羞耻才能有所作为。",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a001",
+        "s-be9567f81cb9-c001:a003",
+        "s-be9567f81cb9-c001:r002"
+      ]
+    },
+    {
+      "name": "羞耻文化",
+      "definition": "中国文化中普遍存在的一种现象，表现为从小用“羞不羞”、“羞羞羞”等语言让孩子感到羞耻，讲师认为这种文化对心理不健康。",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a002",
+        "s-be9567f81cb9-c001:r001",
+        "s-be9567f81cb9-c001:r003",
+        "s-be9567f81cb9-c001:r004"
+      ]
+    },
+    {
+      "name": "错误羞耻心",
+      "definition": "个体形成的错误的羞耻感，例如认为哭是羞耻的，导致个体习惯性地觉得自己不好，甚至使被性侵的孩子认为被性侵是自己的羞耻。",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a005",
+        "s-be9567f81cb9-c001:r001",
+        "s-be9567f81cb9-c001:r005"
+      ]
+    },
+    {
+      "name": "放任式管教",
+      "definition": "一种错误的教育方式，表现为父母只要求孩子快乐，不批评、不反对、不管教孩子，或声称与孩子做朋友。",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a010",
+        "s-be9567f81cb9-c001:a012",
+        "s-be9567f81cb9-c001:r007",
+        "s-be9567f81cb9-c001:r008",
+        "s-be9567f81cb9-c001:r009",
+        "s-be9567f81cb9-c001:r010"
+      ]
+    },
+    {
+      "name": "父母自身羞耻感",
+      "definition": "父母内心充满羞耻感，孩子做某事可能激发父母的羞耻感，父母便想纠正孩子，将羞耻感加在孩子身上，这是一种投射机制。",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a009",
+        "s-be9567f81cb9-c001:r006"
+      ]
+    },
+    {
+      "name": "父母角色与朋友角色",
+      "definition": "孩子可以有很多朋友，但只有一个爸爸和一个妈妈。父母不应只做孩子的朋友，而应承担管教责任。",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a018"
+      ]
+    },
+    {
+      "name": "孩子自由发挥的年龄界限",
+      "definition": "孩子小的时候不应该自由发挥，父母不能让孩子自由发挥；孩子年龄大了该独立时，父母应让孩子独立。",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a017"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-be9567f81cb9-c001:a001",
+      "target": "s-be9567f81cb9-c001:a002",
+      "kind": "causes",
+      "condition": "在中国文化背景下",
+      "reason": "羞辱式管教源于中国传统文化中的“知耻而后勇”观念，而羞耻文化是这种观念的具体体现。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a002",
+      "target": "s-be9567f81cb9-c001:r001",
+      "kind": "causes",
+      "condition": "个体从小接受羞耻文化",
+      "reason": "羞耻文化导致个体形成错误的羞耻感，例如认为哭是羞耻的。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a003",
+      "target": "s-be9567f81cb9-c001:r002",
+      "kind": "supports",
+      "condition": "父母使用羞辱式管教时",
+      "reason": "a003提到父母使用羞辱式管教的原因包括打压孩子以促进进步，r002具体说明了这一机制。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a003",
+      "target": "s-be9567f81cb9-c001:r003",
+      "kind": "supports",
+      "condition": "父母使用羞耻性语言时",
+      "reason": "a003提到用羞耻性语言作为谦虚的象征，r003具体说明了“犬子”等语言习惯。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a004",
+      "target": "s-be9567f81cb9-c001:a005",
+      "kind": "causes",
+      "condition": "个体从小被灌输错误羞耻观念",
+      "reason": "讲师个人经历中母亲用羞耻语言回应夸奖，导致她形成错误羞耻心，这种错误羞耻心与性侵隐瞒有关。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a005",
+      "target": "s-be9567f81cb9-c001:a006",
+      "kind": "example_of",
+      "condition": "在团体辅导中",
+      "reason": "a006提供了具体案例，说明错误羞耻心导致性侵受害者隐瞒。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a007",
+      "target": "s-be9567f81cb9-c001:a008",
+      "kind": "example_of",
+      "condition": "孩子因失败感到羞耻时",
+      "reason": "讲师孩子玩旋转玩具时因跳不上去感到羞耻，讲师用语言安抚打破羞耻，是打破孩子错误羞耻感的方法的具体应用案例；原方向反了。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "改为案例作为方法例证。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a009",
+      "target": "s-be9567f81cb9-c001:r006",
+      "kind": "supports",
+      "condition": "父母自身有羞耻感时",
+      "reason": "a009提到父母自身羞耻感导致羞辱式管教，r006具体说明了投射机制。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a010",
+      "target": "s-be9567f81cb9-c001:a012",
+      "kind": "causes",
+      "condition": "父母采用放任式管教",
+      "reason": "放任式管教导致孩子出现各种危害，如缺乏规范、受挫能力差等。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a010",
+      "target": "s-be9567f81cb9-c001:r007",
+      "kind": "causes",
+      "condition": "父母采用放任式管教",
+      "reason": "放任式育儿传递父母无能力管教的信息，导致孩子对规范没有概念。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a010",
+      "target": "s-be9567f81cb9-c001:r008",
+      "kind": "causes",
+      "condition": "父母采用放任式管教",
+      "reason": "放任式育儿导致孩子容易在法律上出现问题或行为问题。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a010",
+      "target": "s-be9567f81cb9-c001:r009",
+      "kind": "causes",
+      "condition": "父母采用放任式管教",
+      "reason": "放任式育儿导致孩子缺乏敬畏和感激之心。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a010",
+      "target": "s-be9567f81cb9-c001:r010",
+      "kind": "causes",
+      "condition": "父母采用放任式管教",
+      "reason": "放任式育儿导致孩子受挫能力差。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a011",
+      "target": "s-be9567f81cb9-c001:a012",
+      "kind": "example_of",
+      "condition": "朋友放任式育儿案例",
+      "reason": "朋友放任式育儿导致孩子抑郁自杀，是放任式育儿的危害（如受挫能力差、无法经历挫折）的具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "保留。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a013",
+      "target": "s-be9567f81cb9-c001:a012",
+      "kind": "example_of",
+      "condition": "同事母亲放弃管教案例",
+      "reason": "a013是放任式管教导致孩子感受的具体案例。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a014",
+      "target": "s-be9567f81cb9-c001:a012",
+      "kind": "example_of",
+      "condition": "国际留学生放任式管教案例",
+      "reason": "国际留学生因母亲放任而在学校出现行为问题，是放任式育儿的危害（如对规范和顺服没有概念、在学校出现行为问题）的具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "保留。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a015",
+      "target": "s-be9567f81cb9-c001:r011",
+      "kind": "supports",
+      "condition": "父母害怕冲突时",
+      "reason": "a015提到父母害怕管教孩子引发冲突，r011具体说明了这种心理。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a015",
+      "target": "s-be9567f81cb9-c001:r012",
+      "kind": "supports",
+      "condition": "父母听了错误教导时",
+      "reason": "a015提到父母听了错误教导，r012具体说明了错误教导的内容。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a016",
+      "target": "s-be9567f81cb9-c001:a015",
+      "kind": "applies_to",
+      "condition": "父母使用放任式管教时",
+      "reason": "a016提供了解决放任式管教问题的建议，针对a015中的原因。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a017",
+      "target": "s-be9567f81cb9-c001:a017",
+      "kind": "supports",
+      "condition": "关于孩子自由发挥的年龄界限",
+      "reason": "a017和r013内容相同，相互支持。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a018",
+      "target": "s-be9567f81cb9-c001:a018",
+      "kind": "supports",
+      "condition": "关于父母角色与朋友角色的区别",
+      "reason": "a018和r014内容相同，相互支持。"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:v2-n001",
+      "target": "s-be9567f81cb9-c001:r004",
+      "kind": "complements",
+      "condition": "当需要识别条件反射式贬低孩子的具体行为时",
+      "reason": "source 建议避免条件反射地贬低孩子，候选具体列举了父母面对夸奖时贬低孩子的常见表现（如说“哪里哪里”），补充了这一需避免行为的具体场景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:r004",
+      "target": "s-be9567f81cb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要识别条件反射式贬低孩子的具体行为时",
+      "reason": "source 建议避免条件反射地贬低孩子，候选具体列举了父母面对夸奖时贬低孩子的常见表现（如说“哪里哪里”），补充了这一需避免行为的具体场景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:v2-n001",
+      "target": "s-be9567f81cb9-c001:r001",
+      "kind": "complements",
+      "condition": "当需要理解羞耻文化的心理危害时",
+      "reason": "source 提出要挑战羞耻文化，候选解释了羞耻文化对心理不健康、形成错误羞耻感等影响，补充了挑战该文化的必要性依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:r001",
+      "target": "s-be9567f81cb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解羞耻文化的心理危害时",
+      "reason": "source 提出要挑战羞耻文化，候选解释了羞耻文化对心理不健康、形成错误羞耻感等影响，补充了挑战该文化的必要性依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:v2-n001",
+      "target": "s-be9567f81cb9-c001:a002",
+      "kind": "complements",
+      "condition": "当需要界定羞耻文化的内涵时",
+      "reason": "source 提及羞耻文化，候选给出了羞耻文化的具体定义（如用“羞不羞”让孩子感到羞耻），补充了概念本身的内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a002",
+      "target": "s-be9567f81cb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要界定羞耻文化的内涵时",
+      "reason": "source 提及羞耻文化，候选给出了羞耻文化的具体定义（如用“羞不羞”让孩子感到羞耻），补充了概念本身的内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:v2-n001",
+      "target": "s-be9567f81cb9-c001:r003",
+      "kind": "complements",
+      "condition": "当需要理解羞耻性语言的文化背景时",
+      "reason": "source 要挑战羞耻文化，候选指出羞耻性语言（如“犬子”）作为谦虚象征强化了羞耻文化，补充了需要挑战的具体语言习惯。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:r003",
+      "target": "s-be9567f81cb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解羞耻性语言的文化背景时",
+      "reason": "source 要挑战羞耻文化，候选指出羞耻性语言（如“犬子”）作为谦虚象征强化了羞耻文化，补充了需要挑战的具体语言习惯。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:v2-n001",
+      "target": "s-be9567f81cb9-c001:r005",
+      "kind": "complements",
+      "condition": "当需要说明错误羞耻心的严重后果时",
+      "reason": "source 建议打破羞耻反应模式，候选指出错误羞耻心导致性侵受害者隐瞒，补充了挑战羞耻文化的重要理由（避免严重隐瞒）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:r005",
+      "target": "s-be9567f81cb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要说明错误羞耻心的严重后果时",
+      "reason": "source 建议打破羞耻反应模式，候选指出错误羞耻心导致性侵受害者隐瞒，补充了挑战羞耻文化的重要理由（避免严重隐瞒）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:v2-n001",
+      "target": "s-be9567f81cb9-c001:a009",
+      "kind": "complements",
+      "condition": "当需要理解父母羞辱式管教的内在原因时",
+      "reason": "source 讲挑战羞耻文化，候选指出父母自身羞耻感导致羞辱式管教，补充了羞耻感如何影响管教行为的深层机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a009",
+      "target": "s-be9567f81cb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解父母羞辱式管教的内在原因时",
+      "reason": "source 讲挑战羞耻文化，候选指出父母自身羞耻感导致羞辱式管教，补充了羞耻感如何影响管教行为的深层机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:v2-n001",
+      "target": "s-be9567f81cb9-c001:a005",
+      "kind": "complements",
+      "condition": "当需要关联错误羞耻心与性侵隐瞒时",
+      "reason": "source 要打破羞耻反应模式，候选详细论证错误羞耻心导致性侵受害者隐瞒，并强调羞耻应属于侵犯者，补充了具体关联分析。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a005",
+      "target": "s-be9567f81cb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要关联错误羞耻心与性侵隐瞒时",
+      "reason": "source 要打破羞耻反应模式，候选详细论证错误羞耻心导致性侵受害者隐瞒，并强调羞耻应属于侵犯者，补充了具体关联分析。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:v2-n001",
+      "target": "s-be9567f81cb9-c001:a007",
+      "kind": "complements",
+      "condition": "当需要具体方法帮助孩子摆脱羞耻感时",
+      "reason": "source 提出挑战羞耻文化的宏观方法，候选给出了针对孩子的具体步骤（如用语言安抚、举例说明失败正常），补充了可操作的行动细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a007",
+      "target": "s-be9567f81cb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要具体方法帮助孩子摆脱羞耻感时",
+      "reason": "source 提出挑战羞耻文化的宏观方法，候选给出了针对孩子的具体步骤（如用语言安抚、举例说明失败正常），补充了可操作的行动细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:v2-n001",
+      "target": "s-be9567f81cb9-c001:a001",
+      "kind": "complements",
+      "condition": "当需要理解羞辱式管教的概念时",
+      "reason": "source 想挑战羞耻文化，候选定义了羞辱式管教（通过让孩子羞耻来教育），补充了这种管教方式的概念内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a001",
+      "target": "s-be9567f81cb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解羞辱式管教的概念时",
+      "reason": "source 想挑战羞耻文化，候选定义了羞辱式管教（通过让孩子羞耻来教育），补充了这种管教方式的概念内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:v2-n001",
+      "target": "s-be9567f81cb9-c001:a004",
+      "kind": "complements",
+      "condition": "当需要实际案例佐证羞耻文化影响时",
+      "reason": "source 提出方法建议，候选提供了讲师个人经历：母亲用羞耻语言回应夸奖，导致讲师形成羞耻感，补充了实际案例，印证了羞耻文化的危害。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a004",
+      "target": "s-be9567f81cb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要实际案例佐证羞耻文化影响时",
+      "reason": "source 提出方法建议，候选提供了讲师个人经历：母亲用羞耻语言回应夸奖，导致讲师形成羞耻感，补充了实际案例，印证了羞耻文化的危害。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:v2-n001",
+      "target": "s-be9567f81cb9-c001:r006",
+      "kind": "complements",
+      "condition": "当需要理解父母羞耻感投射机制时",
+      "reason": "source 建议挑战羞耻文化，候选概括父母内心羞耻感导致投射，将羞耻感加在孩子身上，补充了该机制的一般性表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:r006",
+      "target": "s-be9567f81cb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解父母羞耻感投射机制时",
+      "reason": "source 建议挑战羞耻文化，候选概括父母内心羞耻感导致投射，将羞耻感加在孩子身上，补充了该机制的一般性表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:v2-n001",
+      "target": "s-be9567f81cb9-c001:a006",
+      "kind": "complements",
+      "condition": "当需要实证数据说明错误羞耻心的普遍后果时",
+      "reason": "source 倡导打破羞耻反应模式，候选提供了团体辅导中学员性侵经历比例的数据，证明错误羞耻心导致的隐瞒很普遍，补充了实证支持。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be9567f81cb9-c001:a006",
+      "target": "s-be9567f81cb9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要实证数据说明错误羞耻心的普遍后果时",
+      "reason": "source 倡导打破羞耻反应模式，候选提供了团体辅导中学员性侵经历比例的数据，证明错误羞耻心导致的隐瞒很普遍，补充了实证支持。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "规则与行动",
+      "to": "理解情绪",
+      "when": "父母使用羞辱式管教时，羞耻文化影响孩子的情绪健康",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a001",
+        "s-be9567f81cb9-c001:a002",
+        "s-be9567f81cb9-c001:r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "自我认知",
+      "when": "父母自身羞耻感投射到孩子身上，影响孩子自我认知",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a009",
+        "s-be9567f81cb9-c001:r006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "自我修养",
+      "when": "父母需要解决自身问题以避免传递不健康羞耻感或采用放任式管教",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a009",
+        "s-be9567f81cb9-c001:a016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-be9567f81cb9-c001:a016",
+          "limits": [
+            "需要父母自我觉察和努力"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "阶段与角色",
+      "when": "父母需要根据孩子年龄阶段调整管教方式，避免放任或过度控制",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a017",
+        "s-be9567f81cb9-c001:a018"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a017"
+      ],
+      "reason": "两条记录内容完全相同，均描述孩子自由发挥的年龄界限。"
+    },
+    {
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a018"
+      ],
+      "reason": "两条记录内容完全相同，均描述父母角色与朋友角色的区别。"
+    }
+  ],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "87cb4b529e25b208468c82b5bd007dfa21047acc73ad71f00e6ccc09631b80a3",
+  "recovered_from_response": "s-be9567f81cb9-relations-1793881174069524900.json",
+  "point_units": [
+    {
+      "id": "s-be9567f81cb9-c001:u001",
+      "kind": "definition",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a001"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a002",
+        "s-be9567f81cb9-c001:r001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a003",
+        "s-be9567f81cb9-c001:r002",
+        "s-be9567f81cb9-c001:r003"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:r004"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00007",
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a004"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a005",
+        "s-be9567f81cb9-c001:r005"
+      ],
+      "blocks": [
+        "b00014",
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a006"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a007"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a008"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a009",
+        "s-be9567f81cb9-c001:r006"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u012",
+      "kind": "definition",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a010"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a011"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029",
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a012",
+        "s-be9567f81cb9-c001:r007"
+      ],
+      "blocks": [
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a013"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u016",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a012",
+        "s-be9567f81cb9-c001:r008"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a014"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u018",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a012",
+        "s-be9567f81cb9-c001:r009",
+        "s-be9567f81cb9-c001:r010"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u019",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a015",
+        "s-be9567f81cb9-c001:r012"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u020",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a015",
+        "s-be9567f81cb9-c001:r011"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u021",
+      "kind": "method",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a016"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u022",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a017"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-be9567f81cb9-c001:u023",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:a018"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "挑战羞耻文化的方法",
+      "atom_ids": [
+        "s-be9567f81cb9-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-be9567f81cb9",
+          "blocks": [
+            "b00009"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

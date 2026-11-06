@@ -1,0 +1,400 @@
+{
+  "concepts": [
+    {
+      "name": "管教",
+      "definition": "源自希腊文disciple，意为门徒；核心是管理自己，目的是引导赋能而非控制，让孩子最终独立。",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a001",
+        "s-60149f80fd1e-c001:a002",
+        "s-60149f80fd1e-c001:a003",
+        "s-60149f80fd1e-c001:a004",
+        "s-60149f80fd1e-c001:a005",
+        "s-60149f80fd1e-c001:a013",
+        "s-60149f80fd1e-c001:a016"
+      ]
+    },
+    {
+      "name": "榜样与模仿",
+      "definition": "孩子通过观察和模仿父母的行为、态度和生活方式来学习，父母自身管理是有效管教的前提。",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a002",
+        "s-60149f80fd1e-c001:a008",
+        "s-60149f80fd1e-c001:a009",
+        "s-60149f80fd1e-c001:a010",
+        "s-60149f80fd1e-c001:a011",
+        "s-60149f80fd1e-c001:a012",
+        "s-60149f80fd1e-c001:a017"
+      ]
+    },
+    {
+      "name": "管教方法",
+      "definition": "强调管教需要有意义、科学支持，避免凭直觉和经验；通过让孩子知道行为后果来管理自己。",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a005",
+        "s-60149f80fd1e-c001:a006",
+        "s-60149f80fd1e-c001:a007",
+        "s-60149f80fd1e-c001:a014",
+        "s-60149f80fd1e-c001:a015"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-60149f80fd1e-c001:a001",
+      "target": "s-60149f80fd1e-c001:a002",
+      "kind": "supports",
+      "condition": "管教的核心在于管理自己，因为门徒跟随师傅同吃同住，观察师傅的作为。",
+      "reason": "词源表明门徒通过观察师傅学习，因此父母作为榜样必须管理自己。"
+    },
+    {
+      "source": "s-60149f80fd1e-c001:a002",
+      "target": "s-60149f80fd1e-c001:a008",
+      "kind": "supports",
+      "condition": "孩子模仿父母，所以父母管理自己是管教的前提。",
+      "reason": "a002强调父母管理自己，a008解释孩子模仿父母，两者共同支持榜样作用。"
+    },
+    {
+      "source": "s-60149f80fd1e-c001:a002",
+      "target": "s-60149f80fd1e-c001:a012",
+      "kind": "causes",
+      "condition": "父母没有管理好自己的生活，导致孩子不受教。",
+      "reason": "a012明确指出孩子不受教是因为父母自身管理不善，与a002的自我管理要求一致。"
+    },
+    {
+      "source": "s-60149f80fd1e-c001:a003",
+      "target": "s-60149f80fd1e-c001:a013",
+      "kind": "supports",
+      "condition": "管教目的是让孩子独立",
+      "reason": "“管教的目的在于引导赋能而非控制”中的独立目标，支持“管教目标：孩子越大越不需要管”的具体表述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-60149f80fd1e-c001:a003",
+      "target": "s-60149f80fd1e-c001:a016",
+      "kind": "supports",
+      "condition": "管教不是控制而是引导",
+      "reason": "“管教的目的在于引导赋能而非控制”与“管教与控制的区别”都强调引导而非控制，前项支持后项对两者区分的阐释。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-60149f80fd1e-c001:a004",
+      "target": "s-60149f80fd1e-c001:a003",
+      "kind": "example_of",
+      "condition": "疏通管道的比喻说明管教是引导而非控制",
+      "reason": "“管教如疏通管道”的比喻形象地说明了“管教的目的在于引导赋能而非控制”中的引导含义。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-60149f80fd1e-c001:a005",
+      "target": "s-60149f80fd1e-c001:a006",
+      "kind": "supports",
+      "condition": "管教需要有意义，且凭直觉经验无科学支持",
+      "reason": "“管教需要有意义”支持“凭直觉和经验的管教出错几率大”的观点，因为直觉经验缺乏科学支持，难以保证管教有意义。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-60149f80fd1e-c001:a006",
+      "target": "s-60149f80fd1e-c001:a007",
+      "kind": "example_of",
+      "condition": "两种原始管教态度都是凭直觉和经验的例子。",
+      "reason": "a007列举两种未经学习验证的态度，是a006所指凭直觉和经验的具体表现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-60149f80fd1e-c001:a006",
+      "target": "s-60149f80fd1e-c001:a015",
+      "kind": "supports",
+      "condition": "吃泥巴治病的比喻说明凭个人经验不可信。",
+      "reason": "a015用比喻论证凭经验不可信，支持a006的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-60149f80fd1e-c001:a008",
+      "target": "s-60149f80fd1e-c001:a009",
+      "kind": "example_of",
+      "condition": "电梯里父亲抽烟骂孩子案例说明孩子模仿父母行为。",
+      "reason": "a009是a008所述孩子模仿父母的具体案例。"
+    },
+    {
+      "source": "s-60149f80fd1e-c001:a008",
+      "target": "s-60149f80fd1e-c001:a010",
+      "kind": "example_of",
+      "condition": "女客人成长经历说明家庭环境对孩子行为的深远影响。",
+      "reason": "a010展示孩子受母亲行为影响，是a008模仿概念的极端案例。"
+    },
+    {
+      "source": "s-60149f80fd1e-c001:a008",
+      "target": "s-60149f80fd1e-c001:a011",
+      "kind": "example_of",
+      "condition": "家庭暴力代际传递说明孩子模仿暴力行为。",
+      "reason": "a011是a008所述模仿行为的体现。"
+    },
+    {
+      "source": "s-60149f80fd1e-c001:a013",
+      "target": "s-60149f80fd1e-c001:a014",
+      "kind": "prerequisite",
+      "condition": "孩子能管理自己是因为知道行为后果。",
+      "reason": "a013提出孩子越大越不需要管，a014解释孩子能管理自己的原因是知道后果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-60149f80fd1e-c001:a016",
+      "target": "s-60149f80fd1e-c001:r001",
+      "kind": "contrasts",
+      "condition": "管教不是控制，但很多人一想到管教就出现对立画面。",
+      "reason": "r001描述常见的管教画面是控制和对立，与a016的引导理念形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    }
+  ],
+  "module_links": [
+    {
+      "from": "自我修养",
+      "to": "规则与行动",
+      "when": "父母管理好自己，孩子才能受教，管教才能有效。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a002",
+        "s-60149f80fd1e-c001:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a003",
+        "s-60149f80fd1e-c001:a013",
+        "s-60149f80fd1e-c001:a016"
+      ],
+      "reason": "三者均表达管教目的是引导孩子独立而非控制，内容实质等价。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a017",
+        "s-60149f80fd1e-c001:a008"
+      ],
+      "description": "a017提到“龙生龙凤生凤”有一定道理但讲师不完全赞同，而a008强调孩子模仿父母，似乎支持该俗语。",
+      "needed_evidence": "需要明确讲师不完全赞同的具体原因，以及模仿与遗传/环境影响的边界。"
+    }
+  ],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-60149f80fd1e-c001:u01",
+      "kind": "concept",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:r001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u02",
+      "kind": "concept",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a006"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00006",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u03",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a007"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u04",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a015"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u05",
+      "kind": "concept",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a001"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u06",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a008"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u07",
+      "kind": "concept",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a002"
+      ],
+      "blocks": [
+        "b00013",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u08",
+      "kind": "concept",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a017"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u09",
+      "kind": "case",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a009"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u10",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a012"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u11",
+      "kind": "case",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a010"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019",
+        "b00020",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u12",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a011"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u13",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a004"
+      ],
+      "blocks": [
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u14",
+      "kind": "concept",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a005"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u15",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a003",
+        "s-60149f80fd1e-c001:a016"
+      ],
+      "blocks": [
+        "b00027",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u16",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a014"
+      ],
+      "blocks": [
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-60149f80fd1e-c001:u17",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-60149f80fd1e-c001:a013"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

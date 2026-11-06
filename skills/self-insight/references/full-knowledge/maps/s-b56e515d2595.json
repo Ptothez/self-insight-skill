@@ -1,0 +1,484 @@
+{
+  "concepts": [
+    {
+      "name": "父母对幼儿自控能力的错误期待",
+      "definition": "许多父母错误地认为幼儿能够控制冲动、分享玩具、轮流玩耍和控制情绪，这些期待与脑科学不符。",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a001"
+      ]
+    },
+    {
+      "name": "幼儿自控能力发展的实际时间线",
+      "definition": "自我控制的概念和逐渐开始的能力在三岁半到四岁之间发展起来；分享玩具、轮流玩玩具的能力大约在四到五岁之间发展出来；情绪背后的行为控制大约在三岁半到四岁左右开始慢慢发展。",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a002"
+      ]
+    },
+    {
+      "name": "高知父母过早要求婴儿控制情绪的案例",
+      "definition": "一对台湾夫妇均为医学博士，在孩子约12个月大时就要求孩子在公共场合控制情绪，不允许尖叫、哭闹或发脾气，认为孩子是人就应该可以控制，需要训练。",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a003"
+      ]
+    },
+    {
+      "name": "婴儿可训练与不可训练的方面",
+      "definition": "婴儿在情绪某些方面确实不能被训练，但有些方面可以训练。四个月之前的婴儿不用考虑训练；四个月之后的婴儿可以慢慢开始训练睡眠。孩子不跟父母睡觉不会失去安全感，但可能感到不安全。",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a004"
+      ]
+    },
+    {
+      "name": "四个月后婴儿睡眠训练方法",
+      "definition": "四个月后的婴儿可以通过制定日程表来训练睡眠：每天按照“睡醒就吃，吃完就玩，玩累就睡”的循环进行，根据孩子能玩多久来安排，累了就睡，按照日程表训练孩子，让他晚上可以尽快睡过夜。",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a005"
+      ]
+    },
+    {
+      "name": "八岁左右孩子能听懂简单行为指示",
+      "definition": "孩子在八岁左右已经能够听懂父母的指示，但父母应给予最简单的行为指示，例如“放”、“拿”、“说”等，一次只给一个行为指令。不要给两个以上的行为指令。",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a006"
+      ]
+    },
+    {
+      "name": "幼儿行为控制的现实与解决方法",
+      "definition": "期待幼儿控制自己的行为（如收玩具、好好坐在餐椅上吃饭、乖乖去幼儿园）是不太可能的。解决方法包括：通过夸奖、解释自己的计划、因地制宜、使用计时器帮助轮流。",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a007"
+      ]
+    },
+    {
+      "name": "向幼儿解释计划的具体做法",
+      "definition": "向幼儿解释计划时，要详细说明今天要去哪里、接下来去哪里、要做什么、过程中会遇到什么、会经历什么。例如，孩子玩玩具时妈妈需要去洗手间，可以解释具体安排，然后按照承诺回来，并感谢孩子。",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a008"
+      ]
+    },
+    {
+      "name": "使用计时器帮助幼儿轮流",
+      "definition": "对于幼儿，很难让他们理解别人也想玩同一个玩具，因为他们觉得这不关自己的事。可以使用计时器来帮助轮流：设定每人玩两分钟，时间到了就轮到另一个人。这个年龄段的孩子能理解并期望获得公平，所以只要让他知道是公平的，就可以很好地解决轮流问题。",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a009"
+      ]
+    },
+    {
+      "name": "幼儿同理心与道德尚未发育",
+      "definition": "幼儿仍然在学习同理心和道德，这些东西其实还没有发育起来，所以很难让他明白别人也想玩同一个玩具，他觉得这不关自己的事情。",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a010"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-b56e515d2595-c001:a001",
+      "target": "s-b56e515d2595-c001:a002",
+      "kind": "contrasts",
+      "condition": "父母期待与脑科学不符",
+      "reason": "源命题描述父母对幼儿自控能力的错误期待，目标命题给出脑科学研究支持的实际发展时间线，二者形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b56e515d2595-c001:a003",
+      "target": "s-b56e515d2595-c001:a002",
+      "kind": "contrasts",
+      "condition": "案例中父母要求12个月婴儿控制情绪，而实际情绪控制约三岁半到四岁才开始发展",
+      "reason": "源命题是父母过早要求12个月婴儿控制情绪的案例，目标命题给出实际自控能力发展的时间线，形成对比，揭示要求过早。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b56e515d2595-c001:a004",
+      "target": "s-b56e515d2595-c001:a005",
+      "kind": "step_of",
+      "condition": "四个月后婴儿可以训练睡眠",
+      "reason": "a004提到四个月后可以训练睡眠，a005给出具体训练方法。"
+    },
+    {
+      "source": "s-b56e515d2595-c001:a007",
+      "target": "s-b56e515d2595-c001:a008",
+      "kind": "step_of",
+      "condition": "解决方法之一是解释自己的计划",
+      "reason": "a007列出解决方法包括解释计划，a008详细说明如何解释计划。"
+    },
+    {
+      "source": "s-b56e515d2595-c001:a007",
+      "target": "s-b56e515d2595-c001:a009",
+      "kind": "step_of",
+      "condition": "解决方法之一是使用计时器帮助轮流",
+      "reason": "a007列出解决方法包括使用计时器，a009详细说明如何使用计时器。"
+    },
+    {
+      "source": "s-b56e515d2595-c001:a010",
+      "target": "s-b56e515d2595-c001:a009",
+      "kind": "causes",
+      "condition": "幼儿同理心与道德尚未发育，导致难以理解别人也想玩同一个玩具",
+      "reason": "a010说明幼儿同理心未发育，所以觉得不关自己的事，a009提出用计时器解决轮流问题。"
+    },
+    {
+      "source": "s-b56e515d2595-c001:a006",
+      "target": "s-b56e515d2595-c001:a002",
+      "kind": "association",
+      "condition": "不同年龄的儿童发展能力",
+      "reason": "源命题描述八岁孩子能听懂简单行为指示，目标命题描述幼儿自控能力的实际发展时间线，二者属于不同年龄段的不同能力，之间没有对立或因果，仅可关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 contrasts 不成立，改为 association。"
+    },
+    {
+      "source": "s-b56e515d2595-c001:v2-n001",
+      "target": "s-b56e515d2595-c001:a001",
+      "kind": "complements",
+      "condition": "幼儿期",
+      "reason": "候选提供了父母错误期待的具体比例和年龄数据，补充了源内容中‘错误期待’的量化依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b56e515d2595-c001:a001",
+      "target": "s-b56e515d2595-c001:v2-n001",
+      "kind": "complements",
+      "condition": "幼儿期",
+      "reason": "候选提供了父母错误期待的具体比例和年龄数据，补充了源内容中‘错误期待’的量化依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b56e515d2595-c001:v2-n001",
+      "target": "s-b56e515d2595-c001:a002",
+      "kind": "complements",
+      "condition": "幼儿期",
+      "reason": "候选给出了幼儿自控能力实际发展的时间线，与源内容中表面控制偶然性互补，帮助理解为何期待稳定控制错误。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b56e515d2595-c001:a002",
+      "target": "s-b56e515d2595-c001:v2-n001",
+      "kind": "complements",
+      "condition": "幼儿期",
+      "reason": "候选给出了幼儿自控能力实际发展的时间线，与源内容中表面控制偶然性互补，帮助理解为何期待稳定控制错误。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b56e515d2595-c001:v2-n001",
+      "target": "s-b56e515d2595-c001:a003",
+      "kind": "association",
+      "condition": "婴儿期12个月",
+      "reason": "候选是高知父母过早要求婴儿控制情绪的案例，与源内容中错误期待主题相关，但方向不满足example_of，故association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b56e515d2595-c001:a003",
+      "target": "s-b56e515d2595-c001:v2-n001",
+      "kind": "association",
+      "condition": "婴儿期12个月",
+      "reason": "候选是高知父母过早要求婴儿控制情绪的案例，与源内容中错误期待主题相关，但方向不满足example_of，故association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b56e515d2595-c001:v2-n001",
+      "target": "s-b56e515d2595-c001:a007",
+      "kind": "association",
+      "condition": "幼儿期",
+      "reason": "候选讨论了幼儿行为控制的现实与解决方法，与源内容表面控制偶然性相关，但未直接涉及自控，故association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b56e515d2595-c001:a007",
+      "target": "s-b56e515d2595-c001:v2-n001",
+      "kind": "association",
+      "condition": "幼儿期",
+      "reason": "候选讨论了幼儿行为控制的现实与解决方法，与源内容表面控制偶然性相关，但未直接涉及自控，故association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b56e515d2595-c001:v2-n002",
+      "target": "s-b56e515d2595-c001:a007",
+      "kind": "complements",
+      "condition": "幼儿外出",
+      "reason": "源内容是a007中“因地制宜”原则的具体展开，补充了该原则的操作细节（如固定时间、带物品等）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b56e515d2595-c001:a007",
+      "target": "s-b56e515d2595-c001:v2-n002",
+      "kind": "complements",
+      "condition": "幼儿外出",
+      "reason": "源内容是a007中“因地制宜”原则的具体展开，补充了该原则的操作细节（如固定时间、带物品等）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b56e515d2595-c001:v2-n002",
+      "target": "s-b56e515d2595-c001:a008",
+      "kind": "complements",
+      "condition": "幼儿外出",
+      "reason": "候选提供向幼儿解释计划的具体做法，与源内容保持固定程序互补，共同构成外出管理策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b56e515d2595-c001:a008",
+      "target": "s-b56e515d2595-c001:v2-n002",
+      "kind": "complements",
+      "condition": "幼儿外出",
+      "reason": "候选提供向幼儿解释计划的具体做法，与源内容保持固定程序互补，共同构成外出管理策略。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "阶段与角色",
+      "to": "阶段与角色",
+      "when": "父母对幼儿自控能力有错误期待，需要了解实际发展时间线",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a001",
+        "s-b56e515d2595-c001:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "scope": "within_module",
+      "source_limits": []
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-b56e515d2595-c001:a001"
+      ],
+      "reason": "内容完全相同，标题和正文一致。"
+    },
+    {
+      "atom_ids": [
+        "s-b56e515d2595-c001:a002"
+      ],
+      "reason": "内容完全相同，标题和正文一致。"
+    },
+    {
+      "atom_ids": [
+        "s-b56e515d2595-c001:a003"
+      ],
+      "reason": "内容完全相同，标题和正文一致。"
+    },
+    {
+      "atom_ids": [
+        "s-b56e515d2595-c001:a004"
+      ],
+      "reason": "内容完全相同，标题和正文一致。"
+    },
+    {
+      "atom_ids": [
+        "s-b56e515d2595-c001:a005"
+      ],
+      "reason": "内容完全相同，标题和正文一致。"
+    },
+    {
+      "atom_ids": [
+        "s-b56e515d2595-c001:a006"
+      ],
+      "reason": "内容完全相同，标题和正文一致。"
+    },
+    {
+      "atom_ids": [
+        "s-b56e515d2595-c001:a007"
+      ],
+      "reason": "内容完全相同，标题和正文一致。"
+    },
+    {
+      "atom_ids": [
+        "s-b56e515d2595-c001:a008"
+      ],
+      "reason": "内容完全相同，标题和正文一致。"
+    },
+    {
+      "atom_ids": [
+        "s-b56e515d2595-c001:a009"
+      ],
+      "reason": "内容完全相同，标题和正文一致。"
+    },
+    {
+      "atom_ids": [
+        "s-b56e515d2595-c001:a010"
+      ],
+      "reason": "内容完全相同，标题和正文一致。"
+    }
+  ],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-b56e515d2595-c001:unit-0001",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-b56e515d2595-c001:unit-0002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b56e515d2595-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-b56e515d2595-c001:unit-0003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a002"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-b56e515d2595-c001:unit-0004",
+      "kind": "case",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a003"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-b56e515d2595-c001:unit-0005",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a004"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-b56e515d2595-c001:unit-0006",
+      "kind": "method",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a005"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-b56e515d2595-c001:unit-0007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a006"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-b56e515d2595-c001:unit-0008",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a007"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-b56e515d2595-c001:unit-0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a008"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-b56e515d2595-c001:unit-0010",
+      "kind": "method",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a007",
+        "s-b56e515d2595-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-b56e515d2595-c001:unit-0011",
+      "kind": "method",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a009"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-b56e515d2595-c001:unit-0012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b56e515d2595-c001:a010",
+        "s-b56e515d2595-c001:a009"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "幼儿表面控制冲动可能只是偶然",
+      "atom_ids": [
+        "s-b56e515d2595-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b56e515d2595",
+          "blocks": [
+            "b00002"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "带幼儿外出时因地制宜保持固定程序",
+      "atom_ids": [
+        "s-b56e515d2595-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b56e515d2595",
+          "blocks": [
+            "b00015"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

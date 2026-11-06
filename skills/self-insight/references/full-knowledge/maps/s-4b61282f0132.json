@@ -1,0 +1,2113 @@
+{
+  "concepts": [
+    {
+      "name": "力量悬殊时的家长保护角色",
+      "definition": "当孩子面对力量悬殊的成人（如奶奶、爸爸）时，家长必须站出来对抗，不能让孩子独自面对，因为孩子在绝对力量面前无法正确面对。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a001",
+        "s-4b61282f0132-c001:a003"
+      ]
+    },
+    {
+      "name": "当面纠正成人错误",
+      "definition": "如果成人当着孩子的面对孩子做错了，妈妈一定要当着孩子的面说出来，不要听信“爸爸就算做错了，也不要当着孩子的面跟爸爸说”的言论。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a002"
+      ]
+    },
+    {
+      "name": "青春期界限与情绪连接平衡",
+      "definition": "对于青春期孩子（如16岁），需要界限和情绪连接同时进行，不能无止境情绪连接，否则孩子会认为不同意的事情可以反抗。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a005"
+      ]
+    },
+    {
+      "name": "青春期最后影响力",
+      "definition": "青春期孩子处于“又觉得自己可以，但实际还不可以”的阶段，父母必须用界限坚持管教引导，这是最后的影响力；18-20岁后应放手。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a006"
+      ]
+    },
+    {
+      "name": "规劝前先了解孩子想法",
+      "definition": "规劝孩子前，父母应先真实了解孩子为什么要做这件事，认真思考是否真的不可以做，并让孩子知道父母有认真思考过；否则规劝会放在对立面。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a007"
+      ]
+    },
+    {
+      "name": "能力失衡与平衡",
+      "definition": "孩子行为本身没错，但能力失衡（如管别人而忽略自己），应补充负责任的能力，形成平衡；性格如此，不要老想纠正。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a008"
+      ]
+    },
+    {
+      "name": "热心与冷漠非对立",
+      "definition": "不热心不代表冷漠自私，不要给孩子贴不必要的标签；如果孩子没那么热心，不代表一定自私冷漠。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a009"
+      ]
+    },
+    {
+      "name": "幼儿摔玩具的情绪与后果",
+      "definition": "2岁孩子摔玩具不一定是抓狂，可能多种情绪（兴奋、抓狂等），需让孩子知道后果：扔掉玩具后三分钟之内玩具不跟他玩；或告诉他太吵，玩具不想跟他玩，把玩具收走。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a010",
+        "s-4b61282f0132-c001:a011"
+      ]
+    },
+    {
+      "name": "渐进训练控制扔玩具",
+      "definition": "下次孩子想扔玩具时提醒上次的后果，他可能仍忍不住扔，就把玩具放到他看得见但够不着的地方，让他看到但玩不到；慢慢训练，两岁半前孩子能自然控制住。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a012"
+      ]
+    },
+    {
+      "name": "运动方式多样化",
+      "definition": "喜欢运动有很多种方式，不一定是高强度大量运动或特定项目；爬山、玩水、散步、跳舞、在小区走动、打开后车厢吃披萨等都可以是运动。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a013"
+      ]
+    },
+    {
+      "name": "培养运动兴趣的方法",
+      "definition": "通过改变运动方式让孩子喜欢运动：如一家人爬山后野餐、在小区散步、打开后车厢吃披萨、在家跳舞等，慢慢培养，而不是强迫孩子去游泳或打篮球。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a014"
+      ]
+    },
+    {
+      "name": "竞争力与享受生活不矛盾",
+      "definition": "孩子可以既有竞争力又享受生活，两者不矛盾；关键是“凡事都有时”：学习时认真学习，玩乐时绝对不要学习。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a015"
+      ]
+    },
+    {
+      "name": "父母需先学会享受生活",
+      "definition": "父母要会享受生活，才能教孩子享受生活；要有对生活的好奇心，观察细微的美，静下来感知生活。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a017"
+      ]
+    },
+    {
+      "name": "3-7岁儿童自我中心",
+      "definition": "3-7岁孩子以自我为中心是正常生理现象：太阳升起是因为他起床，太阳落下是因为他要睡觉，幼儿园开门是因为他到了。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a020",
+        "s-4b61282f0132-c002:a001"
+      ]
+    },
+    {
+      "name": "3岁孩子自私的应对",
+      "definition": "3岁孩子自私不需要大惊小怪，不需要引导；5-6岁可以慢慢讲双赢思想。3岁时可准备两把伞，或让爷爷抱起孩子一起打伞，让孩子觉得好玩。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a021",
+        "s-4b61282f0132-c001:r001",
+        "s-4b61282f0132-c002:a002",
+        "s-4b61282f0132-c002:a003"
+      ]
+    },
+    {
+      "name": "反复引导情绪表达",
+      "definition": "引导孩子认识并表达自己的情绪后，下次遇到同样情况需要再引导，不会一次就引导完。需要反复引导。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a004"
+      ]
+    },
+    {
+      "name": "帮助八岁哥哥改正激怒弟弟",
+      "definition": "方法包括：让哥哥从父母那里得到安全感；让哥哥和兄弟姐妹经常一起合作做一些事情；帮助哥哥用对的方式表达自己的情绪；让哥哥看到恶性循环，并引导他选择良性循环。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a005"
+      ]
+    },
+    {
+      "name": "八岁孩子无判别是非能力",
+      "definition": "八岁的孩子没有判别是非的能力，刚刚开始有抽象概念。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a006"
+      ]
+    },
+    {
+      "name": "引导八岁孩子做领导者",
+      "definition": "对于八岁孩子容易被煽动的问题，不是引导价值观，而是告诉孩子做一个领导者，而不是一个追随者。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a007"
+      ]
+    },
+    {
+      "name": "跟随强者的心理机制",
+      "definition": "孩子喜欢跟大的孩子玩，因为大的孩子更强。跟随强者是很多人的习惯，包括孩子。霸凌者中很多人知道对错，但仍然跟随强者。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a008"
+      ]
+    },
+    {
+      "name": "帮助孩子主动指认情绪",
+      "definition": "当孩子闷着时，父母要主动问孩子，帮助他主动指认自己的情绪。不要让孩子自己待着，要坐在他旁边。如果孩子说想自己待一会儿，可以说好的妈妈待会儿再回来，我们再来聊这个事情。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a009"
+      ]
+    },
+    {
+      "name": "鼓励孩子聊出情绪",
+      "definition": "当孩子不想聊时，可以鼓励他说聊出来会比闷在心里面有意想不到的感觉。让孩子知道任何时候想找妈妈聊，妈妈都很想跟他聊，随时可以来找妈妈。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a010"
+      ]
+    },
+    {
+      "name": "建立稳定优秀朋友圈",
+      "definition": "要建立稳定的优秀朋友圈，不是看孩子是否优秀，而是看家长是否优秀。优秀的家长把孩子放在一起，形成稳定的优秀朋友圈。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a011"
+      ]
+    },
+    {
+      "name": "孩子被打后妈妈应保护",
+      "definition": "孩子被打后，妈妈应该站出来说话保护孩子，不要等着对方讲。身体已经受伤，不要感情也受伤。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a012",
+        "s-4b61282f0132-c002:a013"
+      ]
+    },
+    {
+      "name": "不要用摄像头监视孩子做作业",
+      "definition": "不要用摄像头监视孩子做作业，因为这会给孩子灌输一个观念：做作业是需要被监视的。没有监视的时候就可以不好好做作业。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a014"
+      ]
+    },
+    {
+      "name": "东摸摸西摸摸可能帮助精力集中",
+      "definition": "有些孩子做作业时东摸摸西摸摸，这不一定是不专注，可能帮助精力集中。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a015"
+      ]
+    },
+    {
+      "name": "允许孩子在规定范围内做好作业即可",
+      "definition": "对于做作业时东摸摸西摸摸的孩子，只要他在规定范围内做好作业就可以了，不用管他有没有摸这个摸那个。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a016"
+      ]
+    },
+    {
+      "name": "压力可以让人亢奋提高效率",
+      "definition": "有些人需要压力，压力会让人亢奋，动作做得很快。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a017"
+      ]
+    },
+    {
+      "name": "用闹钟给孩子压力提高作业效率",
+      "definition": "可以在孩子旁边摆一个可以看到时间的闹钟，让孩子自己看着时间，给他压力，帮助他提高作业效率。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a018"
+      ]
+    },
+    {
+      "name": "孩子说再过十分钟拖延的应对",
+      "definition": "孩子写作业拖延，总是说再过十分钟，最好的办法就是不给他十分钟了。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a019"
+      ]
+    },
+    {
+      "name": "讲条件与讲次序的区别",
+      "definition": "不能以带着去哪儿玩作为条件让孩子先做作业，但可以告诉孩子先写作业再出去玩，这是讲次序，不是讲条件。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a020"
+      ]
+    },
+    {
+      "name": "用次序引导孩子先做作业再玩",
+      "definition": "告诉孩子先写作业再出去玩，这是讲次序。如果孩子没写完作业，就说赶紧把作业写完，写完了才出去玩儿。如果已经订好机票去三亚，要告诉孩子没写完作业到了三亚还要写作业，多没意思，所以赶紧写完。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a021"
+      ]
+    },
+    {
+      "name": "让孩子品尝做对事和做错事的后果",
+      "definition": "让孩子自己品尝到做对事情有好的后果，做错事情有不好的后果，而他是有力量来控制这个后果的。当他发现可以控制一件事情得到想要的东西时，会变成自发性的，而不是被强迫。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a022"
+      ]
+    },
+    {
+      "name": "四岁半女儿希望妈妈陪玩不是自私",
+      "definition": "四岁半的女儿希望妈妈陪她玩一会儿，这不是自私的表现。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a023"
+      ]
+    },
+    {
+      "name": "情绪论的三层情绪结构",
+      "definition": "情绪论将情绪分为三层：第一层是最表面的情绪，大部分人能一口说出；第二层是处于显性和潜在意识之间的情绪，约50%的人能想出来；第三层是更隐藏更深的情绪，需要非常体会，大部分人会卡在第二层下不去。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a024",
+        "s-4b61282f0132-c002:xe005"
+      ]
+    },
+    {
+      "name": "情绪冰山比喻",
+      "definition": "情绪可以用冰山比喻：第一层是冰山上面露在外面给人看的；第二层是水中间看得到一点山的；第三层是下面完全看不见的。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a025"
+      ]
+    },
+    {
+      "name": "孩子请求多玩一会儿的应对",
+      "definition": "孩子约定回家先玩20分钟，时间到了还想玩，答不答应看他的态度：如果态度好，请求再玩一会儿并给出时间，可以再给两分钟并设定计时器；如果头都不回说不玩完不去，那不行，要立刻马上执行约定。如果玩具干扰，就把玩具拿走。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a026",
+        "s-4b61282f0132-c002:r004",
+        "s-4b61282f0132-c003:a002",
+        "s-4b61282f0132-c003:r001"
+      ]
+    },
+    {
+      "name": "孩子请求多玩时尊重父母同意",
+      "definition": "孩子请求多玩一会儿时，必须停下来先跟父母讲，得到同意后才继续，这叫做尊重。孩子必须知道多出来的时间是父母给的。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a027",
+        "s-4b61282f0132-c003:a003"
+      ]
+    },
+    {
+      "name": "看电视时间到了但剧情快结束的应对",
+      "definition": "看电视说好20分钟，但剧情还有两三分钟结束，一般可以跟孩子说看完这一集就结束。如果还有两三分钟，还是看孩子的态度。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a028",
+        "s-4b61282f0132-c003:a004"
+      ]
+    },
+    {
+      "name": "结交智慧的伙伴：先从父母朋友筛选",
+      "definition": "结交智慧的伙伴，要先从父母朋友那边筛选，而不是从小伙伴那边筛选。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:r002"
+      ]
+    },
+    {
+      "name": "孩子用想开心事情处理痛苦的方法",
+      "definition": "案例：孩子幼儿园时压力大，有点封闭，上小学后好转。前两年面对冲突和伤心时，孩子说想一会儿开心的事情就不难受了。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:xe002"
+      ]
+    },
+    {
+      "name": "处理孩子拖延：移除干扰因素",
+      "definition": "当孩子因玩具等干扰而无法履行约定时，家长应移除阻碍孩子完成承诺的干扰因素，例如拿走玩具，让孩子明白干扰因素会被移除。",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a001"
+      ]
+    },
+    {
+      "name": "五岁孩子不肯好好说话",
+      "definition": "案例：五岁孩子吃饭时被要求叫“土豆”却不肯说，被逼后大哭。讲师认为五岁孩子完全应该能正常沟通，要求不过分；孩子哭没问题，但要说出来。",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a005"
+      ]
+    },
+    {
+      "name": "孩子不肯说话而哭不算情绪问题",
+      "definition": "孩子因不肯好好说话而哭不算情绪问题，而是孩子没有搞明白为什么这件事对家长和自己重要。",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a006"
+      ]
+    },
+    {
+      "name": "孩子哭时的处理：让她哭但要求说话",
+      "definition": "孩子哭没有问题，可以让她哭，但要求她说话表达。",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a007"
+      ]
+    },
+    {
+      "name": "女儿写作业被儿子游戏声干扰",
+      "definition": "案例：女儿在客厅写作业，儿子和朋友玩游戏声音大，女儿躲出来并表达不开心，要求他们小声但无效。讲师认为教女儿表达不满和愤怒没有问题，但也可采用其他方法。",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a008"
+      ]
+    },
+    {
+      "name": "处理兄弟姐妹干扰的多种方法",
+      "definition": "处理兄弟姐妹干扰时，有多种方法：让孩子去自己房间、让干扰者去其他房间、家长出面协调，或让孩子之间协商。",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a009"
+      ]
+    },
+    {
+      "name": "家长出面协调兄弟姐妹干扰",
+      "definition": "当客厅是唯一可写作业的地方时，家长应告诉干扰者去房间玩，因为姐姐需要在这里写作业。",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a010"
+      ]
+    },
+    {
+      "name": "孩子睡觉哭醒的处理：等待",
+      "definition": "孩子睡觉时哭醒是正常的，可能在做梦。家长应先等待几分钟，最好等孩子自己下床来找，不要一哭就冲进去，以免真正吵醒孩子。",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a011"
+      ]
+    },
+    {
+      "name": "孩子哭时在门口回应",
+      "definition": "孩子哭时，家长可以在门口回应“妈妈在”，让孩子知道妈妈在，但不要进去哄。",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a012"
+      ]
+    },
+    {
+      "name": "使用遮光窗帘改善睡眠",
+      "definition": "推荐使用遮光窗帘，但不要把房间遮成全黑，要让孩子能区分上午和下午；百叶窗不够，应同时使用百叶窗和窗帘。",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a013"
+      ]
+    },
+    {
+      "name": "课程实践的重要性",
+      "definition": "课程效果取决于实践，操练越多越可能成功；不实践就像拿着药不吃，无法判断药效。",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a014"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-4b61282f0132-c001:a001",
+      "target": "s-4b61282f0132-c001:a003",
+      "kind": "supports",
+      "condition": "当孩子面对力量悬殊的成人时",
+      "reason": "k00001 指出家长必须站出来对抗，k00003 解释原因：孩子在绝对力量面前无法正确面对。"
+    },
+    {
+      "source": "s-4b61282f0132-c001:a005",
+      "target": "s-4b61282f0132-c001:a006",
+      "kind": "supports",
+      "condition": "处理青春期孩子坚持己见的问题时",
+      "reason": "k00005 强调界限和情绪连接同时进行，k00006 说明青春期是最后影响力，必须用界限坚持管教。"
+    },
+    {
+      "source": "s-4b61282f0132-c001:a007",
+      "target": "s-4b61282f0132-c001:a005",
+      "kind": "prerequisite",
+      "condition": "父母想要规劝孩子时",
+      "reason": "k00007 建议规劝前先了解孩子想法，这是进行有效界限和情绪连接的前提。"
+    },
+    {
+      "source": "s-4b61282f0132-c001:a010",
+      "target": "s-4b61282f0132-c001:a011",
+      "kind": "step_of",
+      "condition": "2岁孩子摔玩具时",
+      "reason": "k00010 描述孩子摔玩具的情绪，k00011 提供具体处理方法。"
+    },
+    {
+      "source": "s-4b61282f0132-c001:a011",
+      "target": "s-4b61282f0132-c001:a012",
+      "kind": "step_of",
+      "condition": "2岁孩子反复扔玩具时",
+      "reason": "k00011 是初次处理，k00012 是后续渐进训练。"
+    },
+    {
+      "source": "s-4b61282f0132-c001:a013",
+      "target": "s-4b61282f0132-c001:a014",
+      "kind": "supports",
+      "condition": "孩子不喜欢运动时",
+      "reason": "k00013 提出运动方式多样化，k00014 具体说明如何培养运动兴趣。"
+    },
+    {
+      "source": "s-4b61282f0132-c001:a015",
+      "target": "s-4b61282f0132-c001:a016",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "k00015 认为竞争力和享受生活不矛盾，k00016 是反例，说明过度竞争导致不享受生活。"
+    },
+    {
+      "source": "s-4b61282f0132-c001:a017",
+      "target": "s-4b61282f0132-c001:a018",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00017 强调父母需先学会享受生活，k00018 是讲师引导孩子感受自然的案例。"
+    },
+    {
+      "source": "s-4b61282f0132-c001:a019",
+      "target": "s-4b61282f0132-c001:a020",
+      "kind": "supports",
+      "condition": "3岁孩子表现出自私行为时",
+      "reason": "k00019 案例中孩子自私，k00020 解释3-7岁自我中心是正常发展。"
+    },
+    {
+      "source": "s-4b61282f0132-c001:a020",
+      "target": "s-4b61282f0132-c001:a021",
+      "kind": "supports",
+      "condition": "3-7岁儿童自我中心是正常发展",
+      "reason": "“3-7岁儿童自我中心是正常发展”为“3岁孩子自私行为的应对建议”提供了发展心理学依据，支持其“不需要大惊小怪”的立场。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-4b61282f0132-c001:a021",
+      "target": "s-4b61282f0132-c001:r001",
+      "kind": "association",
+      "condition": "内容重复",
+      "reason": "“3岁孩子自私行为的应对建议”与“处理3岁孩子自私行为的具体方法”内容基本相同，描述同一情境和建议，不构成支持关系，仅为重复内容。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原重复关系不属于允许类型，改为关联。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a001",
+      "target": "s-4b61282f0132-c002:a002",
+      "kind": "supports",
+      "condition": "孩子三岁且出现自私行为",
+      "reason": "“三岁孩子自私是生理性正常现象”为“三岁孩子打伞冲突的解决方法”提供了理论依据，支持不贴标签、游戏式解决的做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a002",
+      "target": "s-4b61282f0132-c002:a003",
+      "kind": "step_of",
+      "condition": "孩子3岁到5-6岁",
+      "reason": "k00024 是3岁时的解决方法，k00025 是5-6岁时的引导。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a005",
+      "target": "s-4b61282f0132-c002:a006",
+      "kind": "association",
+      "condition": "同一八岁孩子的情境",
+      "reason": "“帮助八岁哥哥改正故意激怒弟弟的方法”与“八岁孩子没有判别是非的能力”相关，后者可作为前者必要性的依据，但当前方向不构成支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系方向不成立，改为关联。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a007",
+      "target": "s-4b61282f0132-c002:a008",
+      "kind": "supports",
+      "condition": "八岁孩子容易被煽动时",
+      "reason": "k00029 建议引导做领导者，k00030 解释跟随强者的心理机制。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a009",
+      "target": "s-4b61282f0132-c002:a010",
+      "kind": "step_of",
+      "condition": "孩子闷着不表达情绪时",
+      "reason": "k00031 是主动指认情绪，k00032 是鼓励聊出情绪。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a012",
+      "target": "s-4b61282f0132-c002:a013",
+      "kind": "supports",
+      "condition": "孩子被打后妈妈未保护导致感情受伤",
+      "reason": "案例“孩子被打后妈妈未保护导致感情受伤”通过反面例证支持“处理孩子被打后的方法”中妈妈应站出来保护孩子的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a015",
+      "target": "s-4b61282f0132-c002:a016",
+      "kind": "supports",
+      "condition": "孩子做作业时东摸摸西摸摸",
+      "reason": "“东摸摸西摸摸可能帮助精力集中”为“允许孩子在规定范围内做好作业即可”提供了理由，支持不干涉小动作的做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a017",
+      "target": "s-4b61282f0132-c002:a018",
+      "kind": "supports",
+      "condition": "孩子做作业拖延时",
+      "reason": "k00039 说明压力可以提高效率，k00040 建议用闹钟给孩子压力。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a019",
+      "target": "s-4b61282f0132-c002:a019",
+      "kind": "duplicate",
+      "condition": null,
+      "reason": "k00041 和 k00053 内容完全相同。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a020",
+      "target": "s-4b61282f0132-c002:a021",
+      "kind": "supports",
+      "condition": "孩子需要先做作业再玩时",
+      "reason": "k00042 区分讲条件和讲次序，k00043 具体说明如何用次序引导。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a024",
+      "target": "s-4b61282f0132-c002:a025",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00046 描述三层情绪结构，k00047 用冰山比喻帮助理解。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a026",
+      "target": "s-4b61282f0132-c002:a027",
+      "kind": "supports",
+      "condition": "孩子请求多玩一会儿时",
+      "reason": "“孩子请求多玩一会儿的应对方法”中包含必须先征得父母同意才是尊重的规则，支持“孩子请求多玩时尊重父母同意”的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a026",
+      "target": "s-4b61282f0132-c002:r004",
+      "kind": "association",
+      "condition": "内容重复",
+      "reason": "“孩子请求多玩一会儿的应对方法”与“孩子请求多玩时态度决定是否允许”内容基本相同，不构成支持，仅为重复。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原重复关系不属于允许类型，改为关联。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a026",
+      "target": "s-4b61282f0132-c003:a002",
+      "kind": "association",
+      "condition": "内容重复",
+      "reason": "“孩子请求多玩一会儿的应对方法”与“孩子请求延长时间时的处理”内容基本相同，均按态度决定是否延长时间，不构成支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原重复关系不属于允许类型，改为关联。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a026",
+      "target": "s-4b61282f0132-c003:r001",
+      "kind": "association",
+      "condition": "",
+      "reason": "两端均描述家长根据孩子请求延长时间的态度决定是否给予额外时间，内容高度相似，原重复关系不在允许类型内，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为duplicate，已调整为association。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a027",
+      "target": "s-4b61282f0132-c002:a027",
+      "kind": "duplicate",
+      "condition": null,
+      "reason": "k00049 和 k00055 内容完全相同。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a027",
+      "target": "s-4b61282f0132-c003:a003",
+      "kind": "association",
+      "condition": "",
+      "reason": "两端均强调孩子请求多玩时需先征得父母同意并视为尊重，内容高度相似，原重复关系不在允许类型内，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为duplicate，已调整为association。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a028",
+      "target": "s-4b61282f0132-c002:a028",
+      "kind": "duplicate",
+      "condition": null,
+      "reason": "k00050 和 k00056 内容完全相同。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a028",
+      "target": "s-4b61282f0132-c003:a004",
+      "kind": "duplicate",
+      "condition": null,
+      "reason": "k00050 和 k00065 内容基本相同。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a028",
+      "target": "s-4b61282f0132-c003:a004",
+      "kind": "duplicate",
+      "condition": null,
+      "reason": "k00050 和 k00077 内容基本相同。"
+    },
+    {
+      "source": "s-4b61282f0132-c003:a001",
+      "target": "s-4b61282f0132-c002:a026",
+      "kind": "supports",
+      "condition": "孩子因玩具干扰无法履行约定时",
+      "reason": "源命题提出当孩子因玩具等干扰无法履行约定时应移除干扰因素；目标命题在应对孩子请求多玩时提到如果玩具干扰就拿走玩具。源为目标的这一处理步骤提供支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-4b61282f0132-c003:a005",
+      "target": "s-4b61282f0132-c003:a006",
+      "kind": "association",
+      "condition": "五岁孩子不肯好好说话时",
+      "reason": "案例描述五岁孩子不肯好好说话而哭，概念解释此类哭不算情绪问题而是没搞明白重要性；案例未体现该因果，因此只能关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系理由不足，降为关联。"
+    },
+    {
+      "source": "s-4b61282f0132-c003:a006",
+      "target": "s-4b61282f0132-c003:a007",
+      "kind": "supports",
+      "condition": "孩子哭时",
+      "reason": "k00067 说明哭不算情绪问题，k00068 建议允许哭但要求说话。"
+    },
+    {
+      "source": "s-4b61282f0132-c003:a008",
+      "target": "s-4b61282f0132-c003:a009",
+      "kind": "supports",
+      "condition": "存在兄弟姐妹间的干扰时",
+      "reason": "案例呈现女儿写作业被儿子游戏声干扰的情境，概念总结处理兄弟姐妹干扰的多种方法；案例可作为该情境的实例支持多种处理方式的适用性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-4b61282f0132-c003:a009",
+      "target": "s-4b61282f0132-c003:a010",
+      "kind": "step_of",
+      "condition": "客厅是唯一可写作业的地方时",
+      "reason": "源命题列出处理兄弟姐妹干扰的多种方法，目标命题是其中一种家长出面协调的具体做法，并限定在客厅唯一可写作业的条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-4b61282f0132-c003:a011",
+      "target": "s-4b61282f0132-c003:a012",
+      "kind": "step_of",
+      "condition": "孩子睡觉哭醒时",
+      "reason": "k00072 建议先等待，k00073 是等待期间在门口回应。"
+    },
+    {
+      "source": "s-4b61282f0132-c003:a013",
+      "target": "s-4b61282f0132-c003:a013",
+      "kind": "duplicate",
+      "condition": null,
+      "reason": "k00074 和 k00081 内容完全相同。"
+    },
+    {
+      "source": "s-4b61282f0132-c003:a014",
+      "target": "s-4b61282f0132-c003:a014",
+      "kind": "duplicate",
+      "condition": null,
+      "reason": "k00075 和 k00082 内容完全相同。"
+    },
+    {
+      "source": "s-4b61282f0132-c002:v2-n001",
+      "target": "s-4b61282f0132-c002:a006",
+      "kind": "example_of",
+      "condition": "孩子8岁，被同伴A煽动欺负B",
+      "reason": "source 中8岁孩子被同伴A煽动欺负B且反复，讲师认为八岁孩子本来没有判别是非能力，这是该概念的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a006",
+      "target": "s-4b61282f0132-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "孩子8岁，被同伴A煽动欺负B",
+      "reason": "source 中8岁孩子被同伴A煽动欺负B且反复，讲师认为八岁孩子本来没有判别是非能力，这是该概念的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:v2-n001",
+      "target": "s-4b61282f0132-c002:a007",
+      "kind": "complements",
+      "condition": "孩子8岁，容易被煽动",
+      "reason": "source 呈现了8岁孩子被煽动的问题，a007 提出应对方法：不是引导价值观，而是告诉孩子做领导者而非追随者，补充了解决该问题的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a007",
+      "target": "s-4b61282f0132-c002:v2-n001",
+      "kind": "complements",
+      "condition": "孩子8岁，容易被煽动",
+      "reason": "source 呈现了8岁孩子被煽动的问题，a007 提出应对方法：不是引导价值观，而是告诉孩子做领导者而非追随者，补充了解决该问题的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:v2-n002",
+      "target": "s-4b61282f0132-c002:a011",
+      "kind": "complements",
+      "condition": "孩子14岁，需要建立稳定优秀朋友圈",
+      "reason": "source 描述家长以孩子是否优秀组建朋友圈，讲师质疑应看家长是否优秀；a011 给出方法：不是看孩子是否优秀，而是看家长是否优秀，补充了判断标准这一实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a011",
+      "target": "s-4b61282f0132-c002:v2-n002",
+      "kind": "complements",
+      "condition": "孩子14岁，需要建立稳定优秀朋友圈",
+      "reason": "source 描述家长以孩子是否优秀组建朋友圈，讲师质疑应看家长是否优秀；a011 给出方法：不是看孩子是否优秀，而是看家长是否优秀，补充了判断标准这一实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:v2-n002",
+      "target": "s-4b61282f0132-c002:r002",
+      "kind": "complements",
+      "condition": "为孩子结交智慧伙伴或优秀朋友圈时",
+      "reason": "source 中家长从小伙伴中筛选优秀孩子组群，r002 主张先从父母朋友筛选，而不是从小伙伴筛选，补充了筛选来源的实质点，与讲师质疑一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:r002",
+      "target": "s-4b61282f0132-c002:v2-n002",
+      "kind": "complements",
+      "condition": "为孩子结交智慧伙伴或优秀朋友圈时",
+      "reason": "source 中家长从小伙伴中筛选优秀孩子组群，r002 主张先从父母朋友筛选，而不是从小伙伴筛选，补充了筛选来源的实质点，与讲师质疑一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:v2-n003",
+      "target": "s-4b61282f0132-c002:a005",
+      "kind": "example_of",
+      "condition": "哥哥8岁，弟弟5岁和3岁，哥哥故意激怒弟弟且弟弟们平时招惹他",
+      "reason": "source 描述了具体的兄弟冲突案例：8岁哥哥故意激怒弟弟，讲师给出安全感、合作、正确表达情绪、认识恶性循环等方法；a005 是针对该情境的系统方法，source 是该方法的应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a005",
+      "target": "s-4b61282f0132-c002:v2-n003",
+      "kind": "has_example",
+      "condition": "哥哥8岁，弟弟5岁和3岁，哥哥故意激怒弟弟且弟弟们平时招惹他",
+      "reason": "source 描述了具体的兄弟冲突案例：8岁哥哥故意激怒弟弟，讲师给出安全感、合作、正确表达情绪、认识恶性循环等方法；a005 是针对该情境的系统方法，source 是该方法的应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:v2-n003",
+      "target": "s-4b61282f0132-c002:a004",
+      "kind": "complements",
+      "condition": "引导孩子表达情绪时，尤其是兄弟姐妹冲突",
+      "reason": "source 方法中包括帮助哥哥用对的方式表达情绪，但未强调需要反复引导；a004 指出引导孩子表达情绪需要反复进行，补充了这一实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a004",
+      "target": "s-4b61282f0132-c002:v2-n003",
+      "kind": "complements",
+      "condition": "引导孩子表达情绪时，尤其是兄弟姐妹冲突",
+      "reason": "source 方法中包括帮助哥哥用对的方式表达情绪，但未强调需要反复引导；a004 指出引导孩子表达情绪需要反复进行，补充了这一实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:v2-n004",
+      "target": "s-4b61282f0132-c002:a014",
+      "kind": "example_of",
+      "condition": "孩子8岁，写作业磨蹭，妈妈考虑装摄像头",
+      "reason": "source 描述妈妈考虑装摄像头监视孩子写作业，讲师指出摄像头会让孩子以为写作业需要被监视；a014 是该观点的概括，source 是其具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a014",
+      "target": "s-4b61282f0132-c002:v2-n004",
+      "kind": "has_example",
+      "condition": "孩子8岁，写作业磨蹭，妈妈考虑装摄像头",
+      "reason": "source 描述妈妈考虑装摄像头监视孩子写作业，讲师指出摄像头会让孩子以为写作业需要被监视；a014 是该观点的概括，source 是其具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:v2-n004",
+      "target": "s-4b61282f0132-c002:a016",
+      "kind": "complements",
+      "condition": "孩子做作业时东摸摸西摸摸，在规定范围内完成作业即可",
+      "reason": "source 中孩子东摸西摸，讲师针对小动作回应；a016 提出只要在规定范围内做好作业即可，不用管小动作，补充了具体应对方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a016",
+      "target": "s-4b61282f0132-c002:v2-n004",
+      "kind": "complements",
+      "condition": "孩子做作业时东摸摸西摸摸，在规定范围内完成作业即可",
+      "reason": "source 中孩子东摸西摸，讲师针对小动作回应；a016 提出只要在规定范围内做好作业即可，不用管小动作，补充了具体应对方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:v2-n004",
+      "target": "s-4b61282f0132-c002:a015",
+      "kind": "example_of",
+      "condition": "孩子8岁，做作业时东摸摸西摸摸",
+      "reason": "source 描述孩子东摸西摸，a015 提出东摸摸可能帮助精力集中，source 是该观点的实际案例，但需注意 a015 有年龄限制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a015",
+      "target": "s-4b61282f0132-c002:v2-n004",
+      "kind": "has_example",
+      "condition": "孩子8岁，做作业时东摸摸西摸摸",
+      "reason": "source 描述孩子东摸西摸，a015 提出东摸摸可能帮助精力集中，source 是该观点的实际案例，但需注意 a015 有年龄限制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:v2-n005",
+      "target": "s-4b61282f0132-c002:a028",
+      "kind": "association",
+      "condition": "看电视时间到了但剧情快结束",
+      "reason": "source 与 a028 内容几乎一致：都强调看孩子态度决定是否允许看完这一集，但无法确定更具体关系，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a028",
+      "target": "s-4b61282f0132-c002:v2-n005",
+      "kind": "association",
+      "condition": "看电视时间到了但剧情快结束",
+      "reason": "source 与 a028 内容几乎一致：都强调看孩子态度决定是否允许看完这一集，但无法确定更具体关系，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:v2-n005",
+      "target": "s-4b61282f0132-c003:a004",
+      "kind": "association",
+      "condition": "约定看电视时间结束但剧情还剩几分钟",
+      "reason": "source 与 c003:a004 都涉及看孩子态度决定是否允许看完剩余剧情，内容高度相关，但无明确互补或从属关系，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c003:a004",
+      "target": "s-4b61282f0132-c002:v2-n005",
+      "kind": "association",
+      "condition": "约定看电视时间结束但剧情还剩几分钟",
+      "reason": "source 与 c003:a004 都涉及看孩子态度决定是否允许看完剩余剧情，内容高度相关，但无明确互补或从属关系，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:v2-n005",
+      "target": "s-4b61282f0132-c002:r004",
+      "kind": "association",
+      "condition": "孩子约定时间到了还想玩",
+      "reason": "r004 将“看态度决定是否允许”扩展到玩玩具场景，与 source 原则相同但情境不同，存在关联且不确定更具体关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:r004",
+      "target": "s-4b61282f0132-c002:v2-n005",
+      "kind": "association",
+      "condition": "孩子约定时间到了还想玩",
+      "reason": "r004 将“看态度决定是否允许”扩展到玩玩具场景，与 source 原则相同但情境不同，存在关联且不确定更具体关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:v2-n005",
+      "target": "s-4b61282f0132-c003:r001",
+      "kind": "association",
+      "condition": "孩子请求延长时间",
+      "reason": "c003:r001 也是基于孩子态度决定是否给予额外时间，与 source 核心原则一致，但 source 特定于看电视，存在关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c003:r001",
+      "target": "s-4b61282f0132-c002:v2-n005",
+      "kind": "association",
+      "condition": "孩子请求延长时间",
+      "reason": "c003:r001 也是基于孩子态度决定是否给予额外时间，与 source 核心原则一致，但 source 特定于看电视，存在关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:v2-n005",
+      "target": "s-4b61282f0132-c003:a002",
+      "kind": "association",
+      "condition": "孩子请求延长时间（如拼乐高）",
+      "reason": "c003:a002 描述态度良好可给额外时间并设定计时器，与 source 中看态度决定是否允许看完相似，两者原则相通。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c003:a002",
+      "target": "s-4b61282f0132-c002:v2-n005",
+      "kind": "association",
+      "condition": "孩子请求延长时间（如拼乐高）",
+      "reason": "c003:a002 描述态度良好可给额外时间并设定计时器，与 source 中看态度决定是否允许看完相似，两者原则相通。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:v2-n005",
+      "target": "s-4b61282f0132-c002:a026",
+      "kind": "association",
+      "condition": "孩子约定时间到了还想玩",
+      "reason": "c002:a026 详细描述了看态度决定是否允许延长玩，并强调尊重，与 source 原则相关但应用场景不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c002:a026",
+      "target": "s-4b61282f0132-c002:v2-n005",
+      "kind": "association",
+      "condition": "孩子约定时间到了还想玩",
+      "reason": "c002:a026 详细描述了看态度决定是否允许延长玩，并强调尊重，与 source 原则相关但应用场景不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c003:v2-n-0001",
+      "target": "s-4b61282f0132-c003:a005",
+      "kind": "association",
+      "condition": "婆婆在旁边指责家长，孩子在场",
+      "reason": "source 建议婆婆指责时不要把火发在孩子身上，可以直接怼婆婆；c003:a005 案例中婆婆在旁边指责家长，孩子因被逼而大哭，两者都涉及婆婆指责情境，但 source 是情绪管理建议，候选是具体案例，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-4b61282f0132-c003:a005",
+      "target": "s-4b61282f0132-c003:v2-n-0001",
+      "kind": "association",
+      "condition": "婆婆在旁边指责家长，孩子在场",
+      "reason": "source 建议婆婆指责时不要把火发在孩子身上，可以直接怼婆婆；c003:a005 案例中婆婆在旁边指责家长，孩子因被逼而大哭，两者都涉及婆婆指责情境，但 source 是情绪管理建议，候选是具体案例，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "处理青春期孩子坚持己见的问题时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "青春期孩子需要管教引导时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-4b61282f0132-c001:a006",
+          "limits": [
+            "18-20岁后应放手"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "规则与行动",
+      "when": "2岁孩子摔玩具时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a010",
+        "s-4b61282f0132-c001:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "3岁孩子表现出自私行为时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a019",
+        "s-4b61282f0132-c001:a020",
+        "s-4b61282f0132-c001:a021",
+        "s-4b61282f0132-c001:r001",
+        "s-4b61282f0132-c002:a001",
+        "s-4b61282f0132-c002:a002",
+        "s-4b61282f0132-c002:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "内在能力",
+      "when": "八岁孩子容易被煽动时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a007",
+        "s-4b61282f0132-c002:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "孩子被打后",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a012",
+        "s-4b61282f0132-c002:a013"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "专注力",
+      "to": "自我修养",
+      "when": "孩子做作业拖延时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a017",
+        "s-4b61282f0132-c002:a018"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "孩子请求延长时间或看电视时间结束时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a026",
+        "s-4b61282f0132-c002:a027",
+        "s-4b61282f0132-c002:a028",
+        "s-4b61282f0132-c003:a001",
+        "s-4b61282f0132-c003:a002",
+        "s-4b61282f0132-c003:a003",
+        "s-4b61282f0132-c003:a004",
+        "s-4b61282f0132-c003:r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "五岁孩子不肯好好说话时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a005",
+        "s-4b61282f0132-c003:a006",
+        "s-4b61282f0132-c003:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "处理兄弟姐妹干扰时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a008",
+        "s-4b61282f0132-c003:a009",
+        "s-4b61282f0132-c003:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我修养",
+      "when": "孩子睡觉哭醒时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a011",
+        "s-4b61282f0132-c003:a012",
+        "s-4b61282f0132-c003:a013"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-4b61282f0132-c001:a021",
+        "s-4b61282f0132-c001:r001"
+      ],
+      "reason": "内容几乎相同，都是关于3岁孩子自私的应对建议。"
+    },
+    {
+      "atom_ids": [
+        "s-4b61282f0132-c002:a019"
+      ],
+      "reason": "内容完全相同。"
+    },
+    {
+      "atom_ids": [
+        "s-4b61282f0132-c002:a026",
+        "s-4b61282f0132-c002:r004"
+      ],
+      "reason": "内容完全相同。"
+    },
+    {
+      "atom_ids": [
+        "s-4b61282f0132-c002:a026",
+        "s-4b61282f0132-c003:a002"
+      ],
+      "reason": "内容基本相同，都是根据态度决定是否延长时间。"
+    },
+    {
+      "atom_ids": [
+        "s-4b61282f0132-c002:a026",
+        "s-4b61282f0132-c003:r001"
+      ],
+      "reason": "内容基本相同。"
+    },
+    {
+      "atom_ids": [
+        "s-4b61282f0132-c002:a027"
+      ],
+      "reason": "内容完全相同。"
+    },
+    {
+      "atom_ids": [
+        "s-4b61282f0132-c002:a027",
+        "s-4b61282f0132-c003:a003"
+      ],
+      "reason": "内容基本相同。"
+    },
+    {
+      "atom_ids": [
+        "s-4b61282f0132-c002:a028"
+      ],
+      "reason": "内容完全相同。"
+    },
+    {
+      "atom_ids": [
+        "s-4b61282f0132-c002:a028",
+        "s-4b61282f0132-c003:a004"
+      ],
+      "reason": "内容基本相同。"
+    },
+    {
+      "atom_ids": [
+        "s-4b61282f0132-c002:a028",
+        "s-4b61282f0132-c003:a004"
+      ],
+      "reason": "内容基本相同。"
+    },
+    {
+      "atom_ids": [
+        "s-4b61282f0132-c003:a013"
+      ],
+      "reason": "内容完全相同。"
+    },
+    {
+      "atom_ids": [
+        "s-4b61282f0132-c003:a014"
+      ],
+      "reason": "内容完全相同。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "处理孩子情绪与界限的通用流程",
+      "steps": [
+        {
+          "action": "了解孩子想法和动机",
+          "atom_ids": [
+            "s-4b61282f0132-c001:a007"
+          ],
+          "condition": "父母想要规劝孩子时"
+        },
+        {
+          "action": "根据孩子年龄和发展阶段判断行为是否正常",
+          "atom_ids": [
+            "s-4b61282f0132-c001:a020",
+            "s-4b61282f0132-c002:a001",
+            "s-4b61282f0132-c002:a006"
+          ],
+          "condition": "孩子表现出特定行为时"
+        },
+        {
+          "action": "同时进行情绪连接和界限设定",
+          "atom_ids": [
+            "s-4b61282f0132-c001:a005"
+          ],
+          "condition": "处理青春期孩子问题时"
+        },
+        {
+          "action": "引导孩子表达情绪",
+          "atom_ids": [
+            "s-4b61282f0132-c002:a009",
+            "s-4b61282f0132-c002:a010",
+            "s-4b61282f0132-c003:a007"
+          ],
+          "condition": "孩子闷着或哭闹时"
+        },
+        {
+          "action": "根据孩子态度决定是否延长时间或允许例外",
+          "atom_ids": [
+            "s-4b61282f0132-c002:a026",
+            "s-4b61282f0132-c002:a028",
+            "s-4b61282f0132-c003:a002",
+            "s-4b61282f0132-c003:a004",
+            "s-4b61282f0132-c003:r001"
+          ],
+          "condition": "孩子请求延长时间或看电视时间结束时"
+        },
+        {
+          "action": "移除干扰因素或调整环境",
+          "atom_ids": [
+            "s-4b61282f0132-c003:a001",
+            "s-4b61282f0132-c003:a009",
+            "s-4b61282f0132-c003:a010"
+          ],
+          "condition": "孩子因干扰无法履行约定时"
+        },
+        {
+          "action": "让孩子品尝后果并培养自发性",
+          "atom_ids": [
+            "s-4b61282f0132-c002:a022"
+          ],
+          "condition": "孩子做对或做错事情时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "37979ee106c816609a3e8c9969c7b35db1add0c130273bd369d58248c258a786",
+  "point_units": [
+    {
+      "id": "s-4b61282f0132-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a001"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a002"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a003"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a004"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a005"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a006"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a007"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a008"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a009"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a010"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a011"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a012"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a013"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029",
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a014"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029",
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a015"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u016",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a016"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a017"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u018",
+      "kind": "case",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a018"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a019"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a020"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a021"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U1",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-4b61282f0132-c001:a021",
+        "s-4b61282f0132-c002:a001",
+        "s-4b61282f0132-c002:a002",
+        "s-4b61282f0132-c002:a003"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U2",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a004"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U3",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a005",
+        "s-4b61282f0132-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U4",
+      "kind": "case",
+      "atom_ids": [
+        "s-4b61282f0132-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U5",
+      "kind": "concept/definition",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a006",
+        "s-4b61282f0132-c002:a007",
+        "s-4b61282f0132-c002:a008"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051",
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U6",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:xe001"
+      ],
+      "blocks": [
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U7",
+      "kind": "case",
+      "atom_ids": [
+        "s-4b61282f0132-c002:xe002"
+      ],
+      "blocks": [
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U8",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a009"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U9",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a010"
+      ],
+      "blocks": [
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U10",
+      "kind": "note",
+      "atom_ids": [
+        "s-4b61282f0132-c002:r001"
+      ],
+      "blocks": [
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U11",
+      "kind": "case",
+      "atom_ids": [
+        "s-4b61282f0132-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U12",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a011"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U13",
+      "kind": "concept/method+case",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a012",
+        "s-4b61282f0132-c002:a013"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U14",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:r002"
+      ],
+      "blocks": [
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U15",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a014"
+      ],
+      "blocks": [
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U16",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a015"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U17",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a016"
+      ],
+      "blocks": [
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U18",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:xe003"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U19",
+      "kind": "concept/mechanism+case",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a017",
+        "s-4b61282f0132-c002:xe004"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U20",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a018"
+      ],
+      "blocks": [
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U21",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a019"
+      ],
+      "blocks": [
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U22",
+      "kind": "concept/distinction",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a020",
+        "s-4b61282f0132-c002:a021"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U23",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a022"
+      ],
+      "blocks": [
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U24",
+      "kind": "concept/definition",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a023"
+      ],
+      "blocks": [
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U25",
+      "kind": "concept/definition",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a024",
+        "s-4b61282f0132-c002:a025",
+        "s-4b61282f0132-c002:xe005"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U26",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a026",
+        "s-4b61282f0132-c002:r004"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U27",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:v2-n005"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c002:U28",
+      "kind": "case",
+      "atom_ids": [
+        "s-4b61282f0132-c002:v2-n004"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c003:u-0001",
+      "kind": "method",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a001"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c003:u-0002",
+      "kind": "method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a027",
+        "s-4b61282f0132-c003:a003"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c003:u-0003",
+      "kind": "method",
+      "atom_ids": [
+        "s-4b61282f0132-c002:a028",
+        "s-4b61282f0132-c003:a004"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c003:u-0004",
+      "kind": "case",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a005"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c003:u-0005",
+      "kind": "method",
+      "atom_ids": [
+        "s-4b61282f0132-c003:v2-n-0001"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c003:u-0006",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a006"
+      ],
+      "blocks": [
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c003:u-0007",
+      "kind": "method",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a007"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c003:u-0008",
+      "kind": "method",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a008"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c003:u-0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a009"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c003:u-0010",
+      "kind": "method",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a010"
+      ],
+      "blocks": [
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c003:u-0011",
+      "kind": "method",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a011"
+      ],
+      "blocks": [
+        "b00093",
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c003:u-0012",
+      "kind": "method",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a012"
+      ],
+      "blocks": [
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c003:u-0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a013"
+      ],
+      "blocks": [
+        "b00095",
+        "b00096"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c003:u-0014",
+      "kind": "method",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a014"
+      ],
+      "blocks": [
+        "b00097",
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-4b61282f0132-c003:u-0015",
+      "kind": "method",
+      "atom_ids": [
+        "s-4b61282f0132-c003:a002",
+        "s-4b61282f0132-c003:r001"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "8岁孩子被同伴A煽动欺负B且反复",
+      "atom_ids": [
+        "s-4b61282f0132-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-4b61282f0132",
+          "blocks": [
+            "b00050"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "家长为孩子组建优秀朋友圈",
+      "atom_ids": [
+        "s-4b61282f0132-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-4b61282f0132",
+          "blocks": [
+            "b00058",
+            "b00059",
+            "b00060"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "8岁哥哥故意激怒弟弟",
+      "atom_ids": [
+        "s-4b61282f0132-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-4b61282f0132",
+          "blocks": [
+            "b00046",
+            "b00047"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "8岁孩子写作业磨蹭且被妈妈考虑装摄像头",
+      "atom_ids": [
+        "s-4b61282f0132-c002:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-4b61282f0132",
+          "blocks": [
+            "b00064",
+            "b00065"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "看电视时间到但剧情快结束的处理",
+      "atom_ids": [
+        "s-4b61282f0132-c002:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-4b61282f0132",
+          "blocks": [
+            "b00086"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "婆婆指责时不要把火发在孩子身上",
+      "atom_ids": [
+        "s-4b61282f0132-c003:v2-n-0001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-4b61282f0132",
+          "blocks": [
+            "b00087",
+            "b00088"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

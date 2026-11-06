@@ -1,0 +1,1655 @@
+{
+  "concepts": [
+    {
+      "name": "惩罚在婚姻中的无效性",
+      "definition": "在婚姻中，通过惩罚（如罚款、转红包）处理配偶行为问题无效，因为惩罚对婚姻无益，且会让配偶认为付钱即可继续行为，同时将不可接受的行为变成可交易的条件。",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a001",
+        "s-bc6b75de580d-c001:a011"
+      ]
+    },
+    {
+      "name": "保护孩子与允许他人批评的区分",
+      "definition": "孩子做错事和允许他人伤害孩子是两回事。即使孩子行为不当，也不应允许他人在孩子面前说伤害性的话，父母应保护孩子，同时通过立界限来要求孩子，平衡不溺爱与给予足够安全感和爱。",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a002",
+        "s-bc6b75de580d-c001:a012"
+      ]
+    },
+    {
+      "name": "电子游戏与多动症的关系",
+      "definition": "电子游戏不会直接引发多动症。孩子对世界好奇、东摸西摸是正常现象，不应将所有问题都归咎于电子游戏。",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a003"
+      ]
+    },
+    {
+      "name": "美商的培养",
+      "definition": "从小培养孩子的美商，让孩子知道什么是真正的美，避免被潮流影响。美商包括对美的认知和审美能力，例如了解健康与不健康的身体状态，而不是盲目追求瘦。",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a004",
+        "s-bc6b75de580d-c001:a013"
+      ]
+    },
+    {
+      "name": "编程活动的进度管理",
+      "definition": "如果孩子想通过编程做游戏，需要确认孩子是否真正学习过编程，并设定明确的进度表、完成时间和检查机制，例如每周进度评估，避免无限期拖延。编程比玩游戏更有益，但需要监督和考核。",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a005",
+        "s-bc6b75de580d-c001:a014"
+      ]
+    },
+    {
+      "name": "上瘾与焦虑的关联",
+      "definition": "上瘾行为通常伴随焦虑。对于11岁男孩在上网课时乱画、看手机时不停点击的行为，可能反映焦虑，而非单纯行为问题。干预应关注背后原因，而非直接禁止行为。",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a006",
+        "s-bc6b75de580d-c001:a015"
+      ]
+    },
+    {
+      "name": "家校合作管教",
+      "definition": "父母应与老师沟通教育理念和训练目标，让老师配合管教。如果老师给予的后果不足以抵抗游戏诱惑，可以与老师商量更有吸引力的后果。",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a007",
+        "s-bc6b75de580d-c001:a016"
+      ]
+    },
+    {
+      "name": "外驱力与自驱力的恶性循环",
+      "definition": "当孩子只有在父母盯着时才能高效完成任务，说明孩子依赖外驱力而非自驱力。父母持续盯着会形成恶性循环：孩子习惯被盯，父母不得不盯，孩子失去自我提升动力。打破循环需要父母停止盯着，让孩子自己承担后果（如睡眠不足），从而激发自驱力。",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a008",
+        "s-bc6b75de580d-c001:a016"
+      ]
+    },
+    {
+      "name": "避免给孩子贴标签",
+      "definition": "不要轻易给孩子贴上“上瘾”等标签。幼儿时期喜欢某个玩具不一定是上瘾，身体动作不协调也不一定与上瘾有关。应避免标签化，关注成长。",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a009"
+      ]
+    },
+    {
+      "name": "过度理性与情绪失联",
+      "definition": "目标感过强、过度理性的人可能长期与自己的情绪失联，无法连接感受。好事情过度会变成坏事情，需要警惕。",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a010",
+        "s-bc6b75de580d-c001:a017"
+      ]
+    },
+    {
+      "name": "父母不应总认为孩子有问题",
+      "definition": "父母不应总是认为孩子有问题，或当孩子行为不合自己心意时就觉得需要引导或赋能。有时孩子只是做了不同的事情，并不代表有问题。",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a018",
+        "s-bc6b75de580d-c001:r001",
+        "s-bc6b75de580d-c002:a001",
+        "s-bc6b75de580d-c002:a002"
+      ]
+    },
+    {
+      "name": "儿童摆弄生殖器的正常性",
+      "definition": "五岁儿童在性启蒙后对隐私部位产生好奇，故意摆弄生殖器以观察他人反应是正常行为。父母应冷静反应，避免传递隐私部位不好的信息。",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a003",
+        "s-bc6b75de580d-c002:a004",
+        "s-bc6b75de580d-c002:a006",
+        "s-bc6b75de580d-c002:a007",
+        "s-bc6b75de580d-c002:a008",
+        "s-bc6b75de580d-c002:r002",
+        "s-bc6b75de580d-c002:r003"
+      ]
+    },
+    {
+      "name": "上瘾判断的条件",
+      "definition": "判断孩子是否上瘾不能仅凭单一行为，需参考课程中讲的上瘾条件和前提。孩子想先玩游戏再复习是正常想法，但也可能是上瘾的表现。",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a009",
+        "s-bc6b75de580d-c002:a010",
+        "s-bc6b75de580d-c002:r004"
+      ]
+    },
+    {
+      "name": "成绩观",
+      "definition": "一次考试考不好不代表孩子不好，成绩不能决定孩子的一生，尤其在AI时代更是如此。父母应提醒自己不要过度担忧成绩。",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a011",
+        "s-bc6b75de580d-c002:r005",
+        "s-bc6b75de580d-c002:r006"
+      ]
+    },
+    {
+      "name": "游戏时间不应作为奖励",
+      "definition": "如果孩子有上瘾倾向，游戏时间不能作为奖励。父母不应将游戏时间与考试等表现关联，考得好就奖励玩游戏是错误的。",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a012"
+      ]
+    },
+    {
+      "name": "合理放松与上瘾的界限",
+      "definition": "放假时适当增加游戏时间作为放松是正常的，但需区分放松与上瘾。如果放松意味着没日没夜打游戏，则会上瘾；如果设定界限并能准时停止，则没问题。",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a013",
+        "s-bc6b75de580d-c002:a014"
+      ]
+    },
+    {
+      "name": "夏令营手机管理",
+      "definition": "夏令营中统一由老师收手机，结束时归还，是合理的管理方式。对于学生借手机处理作业的请求，应拒绝，作业可在白天完成。",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a015",
+        "s-bc6b75de580d-c002:a016"
+      ]
+    },
+    {
+      "name": "儿童异性亲密行为的纯洁性",
+      "definition": "七岁女孩与男孩的亲密行为是纯洁的，不纯洁的是成人的眼光。只要在公共场合而非私人场合，七岁孩子与男孩保持距离不是必须的。年龄影响关注度：七岁无需过度担心，17岁则需要认真教导。",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a017",
+        "s-bc6b75de580d-c002:a018",
+        "s-bc6b75de580d-c002:a019"
+      ]
+    },
+    {
+      "name": "iPad使用管理",
+      "definition": "父母陪伴孩子时不应使用iPad或任何电子产品，否则孩子会养成习惯，认为父母陪伴时就是用iPad，失去高质量互动。不陪伴孩子时，可以给孩子限时使用iPad，如20或30分钟，时间到立即收回。不必全程监控，但需监督时间。",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a020",
+        "s-bc6b75de580d-c002:a021",
+        "s-bc6b75de580d-c002:a022"
+      ]
+    },
+    {
+      "name": "父母情绪与孩子安全感",
+      "definition": "父母在孩子痛苦时崩溃哭泣，孩子会收到信息：我的崩溃妈妈hold不住，因此最好不要在妈妈面前崩溃。这让孩子感到无助、不安全，并怀疑父母能否帮助自己。父母可以真实表达自己的情绪低落，不需要强装，但不能崩溃。",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a023",
+        "s-bc6b75de580d-c002:a024",
+        "s-bc6b75de580d-c002:a025",
+        "s-bc6b75de580d-c002:a026",
+        "s-bc6b75de580d-c002:a027",
+        "s-bc6b75de580d-c002:a028",
+        "s-bc6b75de580d-c002:a029",
+        "s-bc6b75de580d-c002:a030"
+      ]
+    },
+    {
+      "name": "短视频上瘾的管理",
+      "definition": "对于孩子通过短视频学习新知识的需求，使用抖音青少年模式并每天特定时间陪同观看，比父母自己学习后讲给孩子更有效。但青少年模式内容不一定完全健康，父母仍需筛查。在采取管理措施前，父母应确认孩子是否真的短视频上瘾，并思考是否有其他方法满足孩子学习新知识的需求。",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a031",
+        "s-bc6b75de580d-c002:a032",
+        "s-bc6b75de580d-c002:a033"
+      ]
+    },
+    {
+      "name": "因果关系与责任",
+      "definition": "孩子因果关系没有建立好，认为问题应由父母负责，而实际上责任在孩子自己。父母应让孩子明白因果关系，分清责任。可以通过反推问题训练孩子因果关系，如问孩子为什么没饭吃，一步步反推原因，最后让孩子认识到是自己造成的。",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a034",
+        "s-bc6b75de580d-c002:a035",
+        "s-bc6b75de580d-c002:a036",
+        "s-bc6b75de580d-c002:a037",
+        "s-bc6b75de580d-c002:a038",
+        "s-bc6b75de580d-c002:a039",
+        "s-bc6b75de580d-c002:a040",
+        "s-bc6b75de580d-c003:a001",
+        "s-bc6b75de580d-c003:a002",
+        "s-bc6b75de580d-c003:a003",
+        "s-bc6b75de580d-c003:a004",
+        "s-bc6b75de580d-c003:r001",
+        "s-bc6b75de580d-c003:r002",
+        "s-bc6b75de580d-c003:r003",
+        "s-bc6b75de580d-c003:r004"
+      ]
+    },
+    {
+      "name": "上瘾纠正的长期性",
+      "definition": "孩子上瘾不是一天两天形成的，纠正也需要长期过程，不能期望一个月就解决。家长需要持续观察和努力。有些上瘾是隐性的、危险的，不容易被发现。家长需要保持敏锐和敏感，仔细观察孩子的变化和改变。",
+      "atom_ids": [
+        "s-bc6b75de580d-c003:a005",
+        "s-bc6b75de580d-c003:a006",
+        "s-bc6b75de580d-c003:r006"
+      ]
+    },
+    {
+      "name": "对课程内容的误解纠正",
+      "definition": "有学员误解课程观点，认为老师说过不要控制孩子做作业或打游戏，因此就不应该控制孩子。实际上这种理解是不健康的，课程并非主张完全放任。",
+      "atom_ids": [
+        "s-bc6b75de580d-c003:a007"
+      ]
+    },
+    {
+      "name": "反复听课的建议",
+      "definition": "课程鼓励学员过一段时间重新听课，因为随着实践和时间的推移，会有不同的感受和理解。同时提醒学员要认真仔细地听，避免听错内容。",
+      "atom_ids": [
+        "s-bc6b75de580d-c003:a008"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-bc6b75de580d-c001:a001",
+      "target": "s-bc6b75de580d-c001:a011",
+      "kind": "supports",
+      "condition": "学员对丈夫玩游戏的惩罚案例",
+      "reason": "《婚姻中避免用惩罚处理配偶行为》原则应用于《案例：学员对丈夫玩游戏的焦虑》中的惩罚行为，讲师基于该原则判断学员的做法不可取。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向相反，改为 supports。"
+    },
+    {
+      "source": "s-bc6b75de580d-c001:a002",
+      "target": "s-bc6b75de580d-c001:a012",
+      "kind": "example_of",
+      "condition": "学员保护孩子免受他人评价",
+      "reason": "学员怼回他人评价，讲师认为保护是对的，但需平衡不溺爱与立界限。"
+    },
+    {
+      "source": "s-bc6b75de580d-c001:a004",
+      "target": "s-bc6b75de580d-c001:a013",
+      "kind": "supports",
+      "condition": "米粒关于减肥的提问",
+      "reason": "《培养孩子的美商》理念支持对《案例：学员关于减肥的提问》的建议，即培养美商避免盲目追求瘦。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向相反，改为 supports。"
+    },
+    {
+      "source": "s-bc6b75de580d-c001:a005",
+      "target": "s-bc6b75de580d-c001:a014",
+      "kind": "example_of",
+      "condition": "学员11岁儿子编程做游戏",
+      "reason": "讲师建议确认孩子是否真正学习编程，设定进度表和完成时间，每周检查进度。"
+    },
+    {
+      "source": "s-bc6b75de580d-c001:a006",
+      "target": "s-bc6b75de580d-c001:a015",
+      "kind": "example_of",
+      "condition": "学员儿子上网课乱画",
+      "reason": "讲师认为可能反映焦虑，上瘾常伴随焦虑，建议关注背后原因。"
+    },
+    {
+      "source": "s-bc6b75de580d-c001:a007",
+      "target": "s-bc6b75de580d-c001:a016",
+      "kind": "supports",
+      "condition": "学员13岁孩子作业与游戏",
+      "reason": "《与老师沟通配合管教》原则支持在《案例：学员13岁孩子作业与游戏》中讲师建议与老师沟通、商量更有吸引力的后果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向相反，改为 supports。"
+    },
+    {
+      "source": "s-bc6b75de580d-c001:a008",
+      "target": "s-bc6b75de580d-c001:a016",
+      "kind": "supports",
+      "condition": "学员13岁孩子自驱力问题",
+      "reason": "《外驱力与自驱力的恶性循环》理论解释《案例：学员13岁孩子作业与游戏》中孩子依赖外驱力的问题，并支持停止盯着的建议。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向相反，改为 supports。"
+    },
+    {
+      "source": "s-bc6b75de580d-c001:a010",
+      "target": "s-bc6b75de580d-c001:a017",
+      "kind": "supports",
+      "condition": "学员情绪失联",
+      "reason": "《过度理性可能导致情绪失联》理论解释《案例：学员情绪失联》中目标感过强、过度理性导致情绪断联的情况。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 方向相反，改为 supports。"
+    },
+    {
+      "source": "s-bc6b75de580d-c001:a018",
+      "target": "s-bc6b75de580d-c001:r001",
+      "kind": "supports",
+      "condition": "父母不应总认为孩子有问题",
+      "reason": "学员女儿问刁钻问题，讲师认为女儿没有问题，反而思维活跃，父母不应总认为孩子有问题。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a001",
+      "target": "s-bc6b75de580d-c002:a002",
+      "kind": "supports",
+      "condition": "父母不应将个人喜好强加于孩子",
+      "reason": "孩子问刁钻问题反映思维活跃，父母不应因孩子行为不合自己心意就认为孩子有问题。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a003",
+      "target": "s-bc6b75de580d-c002:a004",
+      "kind": "example_of",
+      "condition": "五岁男孩摆弄生殖器",
+      "reason": "《五岁男孩故意摆弄生殖器以观察父母反应》是《五岁儿童摆弄生殖器是正常的好奇行为》的具体案例，展示该年龄的正常好奇行为。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a004",
+      "target": "s-bc6b75de580d-c002:a006",
+      "kind": "supports",
+      "condition": "冷静介绍身体部位",
+      "reason": "《五岁儿童摆弄生殖器是正常的好奇行为》建议父母保持冷静，支持《孩子摆弄生殖器时冷静介绍身体部位》的具体做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 方向不成立，改为 supports。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a006",
+      "target": "s-bc6b75de580d-c002:a007",
+      "kind": "contrasts",
+      "condition": "过度反应会强化负面认知",
+      "reason": "父母对孩子摆弄隐私部位生气或威胁，会传递该部位不好的信息，反而可能强化该行为。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a007",
+      "target": "s-bc6b75de580d-c002:a008",
+      "kind": "causes",
+      "condition": "越禁止越好奇",
+      "reason": "父母对隐私部位的过度反应会激发孩子的好奇心。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a009",
+      "target": "s-bc6b75de580d-c002:a010",
+      "kind": "prerequisite",
+      "condition": "判断上瘾需依据课程中的条件和前提",
+      "reason": "孩子想先玩游戏再复习是正常想法，但判断是否上瘾需参考课程中的条件和前提。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a011",
+      "target": "s-bc6b75de580d-c002:r005",
+      "kind": "supports",
+      "condition": "父母应调整对孩子考不好的脸色",
+      "reason": "成绩不是孩子的一切，父母应调整自己的脸色。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a012",
+      "target": "s-bc6b75de580d-c002:a012",
+      "kind": "supports",
+      "condition": "游戏时间不应作为奖励",
+      "reason": "如果孩子有上瘾倾向，游戏时间不能作为奖励。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a013",
+      "target": "s-bc6b75de580d-c002:a014",
+      "kind": "step_of",
+      "condition": "放假可适当放松游戏时间但需设界限",
+      "reason": "放假时可以适当增加游戏时间，但必须设定界限和后果。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a015",
+      "target": "s-bc6b75de580d-c002:a016",
+      "kind": "example_of",
+      "condition": "夏令营学生借手机处理作业却整晚玩游戏",
+      "reason": "夏令营统一收手机是合理做法，对于学生借手机处理作业的请求，应拒绝。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a017",
+      "target": "s-bc6b75de580d-c002:a018",
+      "kind": "example_of",
+      "condition": "七岁女孩与男孩打闹拉手拥抱",
+      "reason": "七岁儿童与异性亲密行为是纯洁的，不纯洁的是成人的眼光。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a018",
+      "target": "s-bc6b75de580d-c002:a019",
+      "kind": "applies_to",
+      "condition": "年龄影响对异性亲密行为的关注度",
+      "reason": "七岁孩子与异性亲密行为无需过度担心，但如果是17岁，则需要认真教导。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a020",
+      "target": "s-bc6b75de580d-c002:a021",
+      "kind": "contrasts",
+      "condition": "陪伴孩子时不应使用电子产品",
+      "reason": "父母陪伴孩子时不应使用iPad，否则孩子会养成习惯。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a021",
+      "target": "s-bc6b75de580d-c002:a022",
+      "kind": "step_of",
+      "condition": "不陪伴时给孩子限时使用iPad并监督",
+      "reason": "不陪伴孩子时，可以给孩子限时使用iPad，但需监督时间。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a023",
+      "target": "s-bc6b75de580d-c002:a024",
+      "kind": "example_of",
+      "condition": "15岁儿子因无深交朋友影响学习状态",
+      "reason": "母亲崩溃哭泣，讲师认为父母不应在孩子难过时急于安慰，应允许孩子经历痛苦。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a024",
+      "target": "s-bc6b75de580d-c002:a026",
+      "kind": "supports",
+      "condition": "孩子需要学习在难过中自洽",
+      "reason": "父母应允许孩子经历痛苦并学习自洽。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a025",
+      "target": "s-bc6b75de580d-c002:a026",
+      "kind": "example_of",
+      "condition": "讲师因孩子不坐凳子而收走凳子导致孩子哭泣",
+      "reason": "讲师坚持让孩子经历痛苦，孩子需要学习在难过中自洽。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a027",
+      "target": "s-bc6b75de580d-c002:a028",
+      "kind": "association",
+      "condition": "",
+      "reason": "《父母崩溃会让孩子感到不安全》和《父母不想孩子痛苦源于控制欲》都涉及父母对孩子痛苦的反应，但前者描述父母崩溃的后果，后者解释父母不想孩子痛苦的深层原因，二者无明确因果或支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "uncertain",
+      "review_notes": "原 kind causes 不允许且因果不明确，改为 association 并标记 uncertain。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a028",
+      "target": "s-bc6b75de580d-c002:a029",
+      "kind": "prerequisite",
+      "condition": "父母应反省自己为何因孩子痛苦而崩溃",
+      "reason": "《父母不想孩子痛苦源于控制欲》揭示了父母不愿孩子痛苦的深层原因，是《父母应反省自己为何因孩子痛苦而崩溃》中反省底层原因的知识前提。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不成立，改为 prerequisite。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a029",
+      "target": "s-bc6b75de580d-c002:a030",
+      "kind": "supports",
+      "condition": "表达难过与崩溃的区别",
+      "reason": "父母可以真实表达自己的情绪低落，但不能崩溃。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a031",
+      "target": "s-bc6b75de580d-c002:a032",
+      "kind": "step_of",
+      "condition": "使用青少年模式并陪同观看优于被动学习",
+      "reason": "对于孩子通过短视频学习新知识的需求，使用抖音青少年模式并陪同观看更有效。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a032",
+      "target": "s-bc6b75de580d-c002:a033",
+      "kind": "prerequisite",
+      "condition": "需确认孩子是否真的短视频上瘾",
+      "reason": "在采取管理措施前，父母应确认孩子是否真的短视频上瘾。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a034",
+      "target": "s-bc6b75de580d-c002:a035",
+      "kind": "causes",
+      "condition": "孩子威胁不好好写作业反映学习是为父母",
+      "reason": "孩子威胁不好好写作业，表明他认为学习是为父母而学。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a035",
+      "target": "s-bc6b75de580d-c002:a036",
+      "kind": "causes",
+      "condition": "孩子因果关系混乱导致责任错位",
+      "reason": "孩子因果关系没有建立好，认为问题应由父母负责。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a036",
+      "target": "s-bc6b75de580d-c002:a037",
+      "kind": "step_of",
+      "condition": "通过反推训练孩子因果关系",
+      "reason": "父母可以通过反推问题训练孩子因果关系。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a037",
+      "target": "s-bc6b75de580d-c002:a038",
+      "kind": "example_of",
+      "condition": "讲师通过反推让孩子认识到自己造成饿肚子",
+      "reason": "讲师在房间问孩子为什么没饭吃，反推原因，最后孩子认识到是自己造成的。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a038",
+      "target": "s-bc6b75de580d-c002:a039",
+      "kind": "supports",
+      "condition": "平时训练孩子因果关系",
+      "reason": "父母应在平时训练孩子因果关系，让孩子知道什么是因什么是果。"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a039",
+      "target": "s-bc6b75de580d-c002:a040",
+      "kind": "supports",
+      "condition": "孩子感到不舒服说明界限和后果有效",
+      "reason": "孩子因频繁检查感到不舒服和反感，说明界限和后果有效。"
+    },
+    {
+      "source": "s-bc6b75de580d-c003:a001",
+      "target": "s-bc6b75de580d-c003:a002",
+      "kind": "example_of",
+      "condition": "孩子没饭吃案例展示因果归因训练",
+      "reason": "孩子没饭吃案例中家长通过反问引导孩子反推行为链条并让孩子承认责任，是因果归因训练的具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系方向反了，已修正为案例指向概念。"
+    },
+    {
+      "source": "s-bc6b75de580d-c003:a002",
+      "target": "s-bc6b75de580d-c003:a003",
+      "kind": "contrasts",
+      "condition": "罚没饭吃的痛苦与管教非惩罚原则形成对比",
+      "reason": "孩子没饭吃案例中孩子被罚没饭吃而流泪，而管教与惩罚的区别强调管教不应为了惩罚或让孩子痛苦。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-bc6b75de580d-c003:a003",
+      "target": "s-bc6b75de580d-c003:a004",
+      "kind": "supports",
+      "condition": "管教非惩罚原则支持界限后果做法",
+      "reason": "管教与惩罚的区别强调不应为了惩罚而制造不舒服，支持界限后果有效的条件中家长不应因担心习惯而刻意制造更多不舒服。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-bc6b75de580d-c003:a005",
+      "target": "s-bc6b75de580d-c003:a006",
+      "kind": "supports",
+      "condition": "隐性上瘾的警惕",
+      "reason": "孩子上瘾不是一天两天形成的，纠正也需要长期过程，家长需要保持敏锐和敏感。"
+    },
+    {
+      "source": "s-bc6b75de580d-c003:a007",
+      "target": "s-bc6b75de580d-c003:a008",
+      "kind": "step_of",
+      "condition": "反复听课的建议",
+      "reason": "课程鼓励学员过一段时间重新听课，避免听错内容。"
+    },
+    {
+      "source": "s-bc6b75de580d-c001:v2-n001",
+      "target": "s-bc6b75de580d-c001:a009",
+      "kind": "example_of",
+      "condition": "幼儿时期玩具依恋和动作不协调被误判为上瘾",
+      "reason": "source 中家长怀疑孩子玩具上瘾及动作不协调与上瘾有关，讲师回应不要贴标签，正是候选概念“避免给孩子贴标签”的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bc6b75de580d-c001:a009",
+      "target": "s-bc6b75de580d-c001:v2-n001",
+      "kind": "has_example",
+      "condition": "幼儿时期玩具依恋和动作不协调被误判为上瘾",
+      "reason": "source 中家长怀疑孩子玩具上瘾及动作不协调与上瘾有关，讲师回应不要贴标签，正是候选概念“避免给孩子贴标签”的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bc6b75de580d-c001:v2-n001",
+      "target": "s-bc6b75de580d-c002:a010",
+      "kind": "association",
+      "condition": "判断是否上瘾需综合条件",
+      "reason": "source 中讲师提醒不能仅凭玩具喜爱和动作不协调断定上瘾，与候选“判断上瘾不能仅凭单一行为”原则相关，但 source 未明确引用课程条件，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a010",
+      "target": "s-bc6b75de580d-c001:v2-n001",
+      "kind": "association",
+      "condition": "判断是否上瘾需综合条件",
+      "reason": "source 中讲师提醒不能仅凭玩具喜爱和动作不协调断定上瘾，与候选“判断上瘾不能仅凭单一行为”原则相关，但 source 未明确引用课程条件，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:v2-n001",
+      "target": "s-bc6b75de580d-c002:a040",
+      "kind": "complements",
+      "condition": "当孩子因频繁检查感到不舒服时",
+      "reason": "候选补充了 source 未明确的一点：父母不必时刻制造不舒服，但需保持界限，回应了 source 中关于是否持续制造不舒服的疑问。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a040",
+      "target": "s-bc6b75de580d-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子因频繁检查感到不舒服时",
+      "reason": "候选补充了 source 未明确的一点：父母不必时刻制造不舒服，但需保持界限，回应了 source 中关于是否持续制造不舒服的疑问。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:v2-n001",
+      "target": "s-bc6b75de580d-c003:a004",
+      "kind": "complements",
+      "condition": "孩子对频繁查看感到不舒服和反感",
+      "reason": "候选明确指出家长不应因担心孩子习惯而刻意制造更多不舒服，补充了 source 中关于区分暂时不舒服与持续制造不舒服的具体立场。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bc6b75de580d-c003:a004",
+      "target": "s-bc6b75de580d-c002:v2-n001",
+      "kind": "complements",
+      "condition": "孩子对频繁查看感到不舒服和反感",
+      "reason": "候选明确指出家长不应因担心孩子习惯而刻意制造更多不舒服，补充了 source 中关于区分暂时不舒服与持续制造不舒服的具体立场。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:v2-n001",
+      "target": "s-bc6b75de580d-c003:r003",
+      "kind": "complements",
+      "condition": "孩子对频繁查看感到不舒服和反感",
+      "reason": "候选以判断标准形式重复同一要点，说明界限后果有效的判断依据，与 source 的核心信号一致并补充不应刻意制造不舒服。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bc6b75de580d-c003:r003",
+      "target": "s-bc6b75de580d-c002:v2-n001",
+      "kind": "complements",
+      "condition": "孩子对频繁查看感到不舒服和反感",
+      "reason": "候选以判断标准形式重复同一要点，说明界限后果有效的判断依据，与 source 的核心信号一致并补充不应刻意制造不舒服。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:v2-n001",
+      "target": "s-bc6b75de580d-c003:r004",
+      "kind": "complements",
+      "condition": "家长采取管教措施时",
+      "reason": "候选提供具体做法：避免频繁查看和制定苛刻规则，补充 source 中“不要持续故意制造不舒服”的可操作步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bc6b75de580d-c003:r004",
+      "target": "s-bc6b75de580d-c002:v2-n001",
+      "kind": "complements",
+      "condition": "家长采取管教措施时",
+      "reason": "候选提供具体做法：避免频繁查看和制定苛刻规则，补充 source 中“不要持续故意制造不舒服”的可操作步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:v2-n001",
+      "target": "s-bc6b75de580d-c003:a003",
+      "kind": "complements",
+      "condition": "区分管教与惩罚",
+      "reason": "候选强调管教目的是引导而非惩罚，补充 source 中关于不舒服目的的解释，说明不应为了惩罚而制造痛苦。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bc6b75de580d-c003:a003",
+      "target": "s-bc6b75de580d-c002:v2-n001",
+      "kind": "complements",
+      "condition": "区分管教与惩罚",
+      "reason": "候选强调管教目的是引导而非惩罚，补充 source 中关于不舒服目的的解释，说明不应为了惩罚而制造痛苦。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:v2-n001",
+      "target": "s-bc6b75de580d-c002:a034",
+      "kind": "association",
+      "condition": "孩子因偷看视频失去信任一周并被频繁检查",
+      "reason": "source 中“孩子处于承担后果期间，如失去信任一周”的条件与该案例匹配，候选案例中的孩子因被频繁检查而生气威胁，可能体现 source 所说的不舒服信号，但未明示界限有效，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-bc6b75de580d-c002:a034",
+      "target": "s-bc6b75de580d-c002:v2-n001",
+      "kind": "association",
+      "condition": "孩子因偷看视频失去信任一周并被频繁检查",
+      "reason": "source 中“孩子处于承担后果期间，如失去信任一周”的条件与该案例匹配，候选案例中的孩子因被频繁检查而生气威胁，可能体现 source 所说的不舒服信号，但未明示界限有效，故关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "当孩子做出奇怪行为时，父母应先思考原因而非急于纠正，例如孩子摆弄生殖器时冷静反应。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a005",
+        "s-bc6b75de580d-c002:a006",
+        "s-bc6b75de580d-c002:a007",
+        "s-bc6b75de580d-c002:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "依赖与失控",
+      "when": "当孩子有上瘾倾向时，父母应设定界限并监督，例如游戏时间管理。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a012",
+        "s-bc6b75de580d-c002:a013",
+        "s-bc6b75de580d-c002:a014",
+        "s-bc6b75de580d-c002:a015",
+        "s-bc6b75de580d-c002:a016",
+        "s-bc6b75de580d-c002:a020",
+        "s-bc6b75de580d-c002:a021",
+        "s-bc6b75de580d-c002:a022"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我修养",
+      "when": "当父母因孩子痛苦而崩溃时，应反省自己的控制欲和情绪管理。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a027",
+        "s-bc6b75de580d-c002:a028",
+        "s-bc6b75de580d-c002:a029",
+        "s-bc6b75de580d-c002:a030"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "依赖与失控",
+      "to": "规则与行动",
+      "when": "当孩子想通过编程做游戏时，父母应设定进度和考核规则。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a005",
+        "s-bc6b75de580d-c001:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "当孩子年龄较小时，父母应保护孩子免受他人伤害，同时立界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a002",
+        "s-bc6b75de580d-c001:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a001",
+        "s-bc6b75de580d-c001:a011"
+      ],
+      "reason": "两者都涉及婚姻中惩罚配偶行为的问题，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a002",
+        "s-bc6b75de580d-c001:a012"
+      ],
+      "reason": "两者都涉及保护孩子与允许他人批评的区分，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a004",
+        "s-bc6b75de580d-c001:a013"
+      ],
+      "reason": "两者都涉及培养美商，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a005",
+        "s-bc6b75de580d-c001:a014"
+      ],
+      "reason": "两者都涉及编程活动的进度管理，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a006",
+        "s-bc6b75de580d-c001:a015"
+      ],
+      "reason": "两者都涉及上瘾与焦虑的关联，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a007",
+        "s-bc6b75de580d-c001:a016"
+      ],
+      "reason": "两者都涉及家校合作管教，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a008",
+        "s-bc6b75de580d-c001:a016"
+      ],
+      "reason": "两者都涉及外驱力与自驱力的恶性循环，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a010",
+        "s-bc6b75de580d-c001:a017"
+      ],
+      "reason": "两者都涉及过度理性与情绪失联，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a018",
+        "s-bc6b75de580d-c001:r001",
+        "s-bc6b75de580d-c002:a001",
+        "s-bc6b75de580d-c002:a002"
+      ],
+      "reason": "这些记录都表达父母不应总认为孩子有问题，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a003",
+        "s-bc6b75de580d-c002:a004",
+        "s-bc6b75de580d-c002:a006",
+        "s-bc6b75de580d-c002:a007",
+        "s-bc6b75de580d-c002:a008",
+        "s-bc6b75de580d-c002:r002",
+        "s-bc6b75de580d-c002:r003"
+      ],
+      "reason": "这些记录都涉及儿童摆弄生殖器的正常性和应对方法，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a009",
+        "s-bc6b75de580d-c002:a010",
+        "s-bc6b75de580d-c002:r004"
+      ],
+      "reason": "这些记录都涉及上瘾判断的条件，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a011",
+        "s-bc6b75de580d-c002:r005",
+        "s-bc6b75de580d-c002:r006"
+      ],
+      "reason": "这些记录都涉及成绩观，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a012"
+      ],
+      "reason": "这些记录都涉及游戏时间不应作为奖励，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a013",
+        "s-bc6b75de580d-c002:a014"
+      ],
+      "reason": "这些记录都涉及合理放松与上瘾的界限，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a015",
+        "s-bc6b75de580d-c002:a016"
+      ],
+      "reason": "这些记录都涉及夏令营手机管理，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a017",
+        "s-bc6b75de580d-c002:a018",
+        "s-bc6b75de580d-c002:a019"
+      ],
+      "reason": "这些记录都涉及儿童异性亲密行为的纯洁性和年龄差异，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a020",
+        "s-bc6b75de580d-c002:a021",
+        "s-bc6b75de580d-c002:a022"
+      ],
+      "reason": "这些记录都涉及iPad使用管理，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a023",
+        "s-bc6b75de580d-c002:a024",
+        "s-bc6b75de580d-c002:a025",
+        "s-bc6b75de580d-c002:a026",
+        "s-bc6b75de580d-c002:a027",
+        "s-bc6b75de580d-c002:a028",
+        "s-bc6b75de580d-c002:a029",
+        "s-bc6b75de580d-c002:a030"
+      ],
+      "reason": "这些记录都涉及父母情绪与孩子安全感，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a031",
+        "s-bc6b75de580d-c002:a032",
+        "s-bc6b75de580d-c002:a033"
+      ],
+      "reason": "这些记录都涉及短视频上瘾的管理，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a034",
+        "s-bc6b75de580d-c002:a035",
+        "s-bc6b75de580d-c002:a036",
+        "s-bc6b75de580d-c002:a037",
+        "s-bc6b75de580d-c002:a038",
+        "s-bc6b75de580d-c002:a039",
+        "s-bc6b75de580d-c002:a040",
+        "s-bc6b75de580d-c003:a001",
+        "s-bc6b75de580d-c003:a002",
+        "s-bc6b75de580d-c003:a003",
+        "s-bc6b75de580d-c003:a004",
+        "s-bc6b75de580d-c003:r001",
+        "s-bc6b75de580d-c003:r002",
+        "s-bc6b75de580d-c003:r003",
+        "s-bc6b75de580d-c003:r004"
+      ],
+      "reason": "这些记录都涉及因果关系与责任，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c003:a005",
+        "s-bc6b75de580d-c003:a006",
+        "s-bc6b75de580d-c003:r006"
+      ],
+      "reason": "这些记录都涉及上瘾纠正的长期性和隐性上瘾的警惕，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c003:a007"
+      ],
+      "reason": "这些记录都涉及对课程内容的误解纠正，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c003:a008"
+      ],
+      "reason": "这些记录都涉及反复听课的建议，内容实质等价。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a025",
+        "s-bc6b75de580d-c003:a002"
+      ],
+      "description": "讲师因孩子不坐凳子而收走凳子导致孩子哭泣，并让孩子没饭吃，这与课程中强调的管教目的不是惩罚或让孩子痛苦存在潜在矛盾。",
+      "needed_evidence": "需要明确在何种情况下剥夺基本需求（如食物）是适当的管教手段，以及如何平衡后果承担与儿童身心健康。"
+    },
+    {
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a024",
+        "s-bc6b75de580d-c002:a027"
+      ],
+      "description": "课程一方面建议父母允许孩子经历痛苦并学习自洽，另一方面又强调父母崩溃会让孩子感到不安全，但未明确父母在何种程度上可以表达自己的痛苦而不至于崩溃。",
+      "needed_evidence": "需要更具体的指导，说明父母如何在保持情绪稳定的同时允许孩子经历痛苦。"
+    }
+  ],
+  "path": [
+    {
+      "name": "处理孩子上瘾问题的综合方法",
+      "steps": [
+        {
+          "action": "确认孩子是否真的上瘾，参考课程中的上瘾条件和前提，避免仅凭单一行为判断。",
+          "atom_ids": [
+            "s-bc6b75de580d-c002:a009",
+            "s-bc6b75de580d-c002:a010",
+            "s-bc6b75de580d-c002:a033",
+            "s-bc6b75de580d-c002:r004"
+          ],
+          "condition": "当孩子出现可能的上瘾行为时"
+        },
+        {
+          "action": "理解行为背后的原因，如焦虑、学习需求等，而非直接禁止行为。",
+          "atom_ids": [
+            "s-bc6b75de580d-c001:a006",
+            "s-bc6b75de580d-c001:a015",
+            "s-bc6b75de580d-c002:a005",
+            "s-bc6b75de580d-c002:a031"
+          ],
+          "condition": "当孩子行为异常时"
+        },
+        {
+          "action": "设定明确的界限和后果，如游戏时间限制、编程进度管理、iPad使用规则等。",
+          "atom_ids": [
+            "s-bc6b75de580d-c001:a005",
+            "s-bc6b75de580d-c001:a014",
+            "s-bc6b75de580d-c002:a012",
+            "s-bc6b75de580d-c002:a013",
+            "s-bc6b75de580d-c002:a014",
+            "s-bc6b75de580d-c002:a015",
+            "s-bc6b75de580d-c002:a016",
+            "s-bc6b75de580d-c002:a020",
+            "s-bc6b75de580d-c002:a021",
+            "s-bc6b75de580d-c002:a022",
+            "s-bc6b75de580d-c002:a032"
+          ],
+          "condition": "当确认孩子有上瘾倾向或需要管理电子产品使用时"
+        },
+        {
+          "action": "让孩子承担后果，并引导其认识因果关系，从而激发自驱力。",
+          "atom_ids": [
+            "s-bc6b75de580d-c001:a008",
+            "s-bc6b75de580d-c001:a016",
+            "s-bc6b75de580d-c002:a034",
+            "s-bc6b75de580d-c002:a035",
+            "s-bc6b75de580d-c002:a036",
+            "s-bc6b75de580d-c002:a037",
+            "s-bc6b75de580d-c002:a038",
+            "s-bc6b75de580d-c002:a039",
+            "s-bc6b75de580d-c002:a040",
+            "s-bc6b75de580d-c003:a001",
+            "s-bc6b75de580d-c003:a002",
+            "s-bc6b75de580d-c003:a003",
+            "s-bc6b75de580d-c003:a004",
+            "s-bc6b75de580d-c003:r001",
+            "s-bc6b75de580d-c003:r002",
+            "s-bc6b75de580d-c003:r003",
+            "s-bc6b75de580d-c003:r004"
+          ],
+          "condition": "当孩子违反界限或需要建立责任意识时"
+        },
+        {
+          "action": "持续观察和调整，认识到上瘾纠正的长期性，保持敏锐和敏感。",
+          "atom_ids": [
+            "s-bc6b75de580d-c003:a005",
+            "s-bc6b75de580d-c003:a006",
+            "s-bc6b75de580d-c003:r006"
+          ],
+          "condition": "在整个过程中"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-bc6b75de580d-c001:U001",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a001",
+        "s-bc6b75de580d-c001:a011"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c001:U002",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a002",
+        "s-bc6b75de580d-c001:a003",
+        "s-bc6b75de580d-c001:a012"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c001:U003",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a004",
+        "s-bc6b75de580d-c001:a013"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00017",
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c001:U004",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a005",
+        "s-bc6b75de580d-c001:a014"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021",
+        "b00022",
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c001:U005",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a006",
+        "s-bc6b75de580d-c001:a015"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c001:U006",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a007",
+        "s-bc6b75de580d-c001:a016"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c001:U007",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a008",
+        "s-bc6b75de580d-c001:a016"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c001:U008",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a009",
+        "s-bc6b75de580d-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c001:U009",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a010",
+        "s-bc6b75de580d-c001:a017"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c001:U010",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:a018",
+        "s-bc6b75de580d-c001:r001"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a001",
+        "s-bc6b75de580d-c002:r001"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a002"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0003",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a003"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a004",
+        "s-bc6b75de580d-c002:r002"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a005"
+      ],
+      "blocks": [
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a006",
+        "s-bc6b75de580d-c002:r003"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a007",
+        "s-bc6b75de580d-c002:a008"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a009",
+        "s-bc6b75de580d-c002:r004",
+        "s-bc6b75de580d-c002:a010"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a011",
+        "s-bc6b75de580d-c002:r005",
+        "s-bc6b75de580d-c002:r006"
+      ],
+      "blocks": [
+        "b00054",
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a012"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a013",
+        "s-bc6b75de580d-c002:a014"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0012",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a015",
+        "s-bc6b75de580d-c002:a016"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a017",
+        "s-bc6b75de580d-c002:a018",
+        "s-bc6b75de580d-c002:a019"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a020",
+        "s-bc6b75de580d-c002:a021",
+        "s-bc6b75de580d-c002:a022"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0015",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a023",
+        "s-bc6b75de580d-c002:a024"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067",
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0016",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a025",
+        "s-bc6b75de580d-c002:a026"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a027"
+      ],
+      "blocks": [
+        "b00072",
+        "b00074",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a028"
+      ],
+      "blocks": [
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a029"
+      ],
+      "blocks": [
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a030"
+      ],
+      "blocks": [
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a031",
+        "s-bc6b75de580d-c002:a032",
+        "s-bc6b75de580d-c002:a033"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0022",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a034",
+        "s-bc6b75de580d-c002:a035"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a036"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082",
+        "b00083",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0024",
+      "kind": "method",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a037",
+        "s-bc6b75de580d-c002:a038",
+        "s-bc6b75de580d-c002:a039"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c002:u0025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c003:U1",
+      "kind": "method",
+      "atom_ids": [
+        "s-bc6b75de580d-c003:a001",
+        "s-bc6b75de580d-c003:r001"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c003:U2",
+      "kind": "case",
+      "atom_ids": [
+        "s-bc6b75de580d-c003:a002"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c003:U3",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-bc6b75de580d-c003:r002"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c003:U4",
+      "kind": "condition",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:a040",
+        "s-bc6b75de580d-c003:a004",
+        "s-bc6b75de580d-c003:r003"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c003:U5",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-bc6b75de580d-c003:a003",
+        "s-bc6b75de580d-c003:r004"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c003:U6",
+      "kind": "method",
+      "atom_ids": [
+        "s-bc6b75de580d-c003:a008"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c003:U7",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-bc6b75de580d-c003:a007"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c003:U8",
+      "kind": "condition",
+      "atom_ids": [
+        "s-bc6b75de580d-c003:a005"
+      ],
+      "blocks": [
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-bc6b75de580d-c003:U9",
+      "kind": "method",
+      "atom_ids": [
+        "s-bc6b75de580d-c003:a006",
+        "s-bc6b75de580d-c003:r006"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "案例：幼儿时期玩具依恋与动作不协调",
+      "atom_ids": [
+        "s-bc6b75de580d-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bc6b75de580d",
+          "blocks": [
+            "b00036",
+            "b00037"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "孩子不舒服是界限和后果有效的信号",
+      "atom_ids": [
+        "s-bc6b75de580d-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-bc6b75de580d",
+          "blocks": [
+            "b00086"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    }
+  ]
+}

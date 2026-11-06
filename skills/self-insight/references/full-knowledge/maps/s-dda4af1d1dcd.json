@@ -1,0 +1,4959 @@
+{
+  "concepts": [
+    {
+      "name": "对金钱的误解",
+      "definition": "由于文化、面子等原因，人们虽然知道钱很重要，但不知道如何正确谈论钱，从而对钱产生错误认知。这些误解通过父母向孩子介绍钱的方式代代传递。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a001"
+      ]
+    },
+    {
+      "name": "挣钱公式化误解",
+      "definition": "认为挣钱遵循固定公式：努力学习、考好大学、找好工作、努力工作、好好挣钱。这种观念将挣钱途径单一化，追求稳定，限制孩子挣钱的可能性。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a002",
+        "s-dda4af1d1dcd-c001:a003"
+      ]
+    },
+    {
+      "name": "挣钱不容易误解",
+      "definition": "认为挣钱不容易、挣钱很难。这种观念被父母传递给孩子后，会让孩子觉得挣钱非常困难，从而限制其迎接挑战、冒险和尝试，也不敢花钱。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a004",
+        "s-dda4af1d1dcd-c001:a005",
+        "s-dda4af1d1dcd-c001:r001"
+      ]
+    },
+    {
+      "name": "穷人思维",
+      "definition": "认为挣钱不容易、挣钱很难的思维模式。并非穷人所独有，很多富人也有穷人思维；而没有穷人思维的人即使暂时没钱，迟早也会挣钱。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a005"
+      ]
+    },
+    {
+      "name": "省着点花误解",
+      "definition": "认为要省着点花，因为挣钱不容易。这种观念认为钱是省出来的，但富人思维认为钱是花出来的，该花的钱不花是最大的浪费。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a009"
+      ]
+    },
+    {
+      "name": "有钱就能过好日子误解",
+      "definition": "认为有钱就能过好日子。实际上很多人有钱后日子反而过不好，因为缺乏高级的金钱观，将物质满足替代了更高层次需求。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a012"
+      ]
+    },
+    {
+      "name": "高级的金钱观",
+      "definition": "不将物质满足视为金钱的唯一目的，而是认识到金钱应服务于更高层次的需求，如安全感、归属感、对社会的贡献等。需要植入心智，占据心智空间。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a013",
+        "s-dda4af1d1dcd-c001:r003"
+      ]
+    },
+    {
+      "name": "节俭与浪费的误解",
+      "definition": "认为节俭就是少花钱买便宜东西，浪费就是花很多钱买贵东西。实际上节俭与浪费不能仅以价格判断，而应看物品的长期价值和使用效率。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a014",
+        "s-dda4af1d1dcd-c001:r005",
+        "s-dda4af1d1dcd-c002:a001",
+        "s-dda4af1d1dcd-c002:a002",
+        "s-dda4af1d1dcd-c006:a010"
+      ]
+    },
+    {
+      "name": "欲望等于贪婪的误解",
+      "definition": "对金钱有欲望并不等同于贪婪。贪婪是指付出很少努力却期望很高回报；付出与回报对等则不是贪婪。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a003",
+        "s-dda4af1d1dcd-c002:a005"
+      ]
+    },
+    {
+      "name": "仇富心态",
+      "definition": "源于将金钱视为万恶之源、将对金钱的欲望等同于贪婪的错误观念，导致对有钱人产生负面评价。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a004"
+      ]
+    },
+    {
+      "name": "有钱人制造不平等的误解",
+      "definition": "认为有钱人压榨他人、制造不平等是一种误解。虽然这种情况存在，但不是必然的。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a006"
+      ]
+    },
+    {
+      "name": "钱的本质是交换物",
+      "definition": "钱不是用来花的，而是用来置换的。花钱时要思考置换出了什么，避免什么消耗。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a008",
+        "s-dda4af1d1dcd-c002:r001"
+      ]
+    },
+    {
+      "name": "值得用钱置换的东西",
+      "definition": "包括知识、心智、时间和友谊。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a010"
+      ]
+    },
+    {
+      "name": "心智",
+      "definition": "心理的智慧，决定一个人对事物的相信程度。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a012"
+      ]
+    },
+    {
+      "name": "保护心智的方法",
+      "definition": "像保护瞳孔一样，通过选择专业背景的老师、不买低价课、扔掉不好的书来过滤可能破坏心智的信息。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a014",
+        "s-dda4af1d1dcd-c002:xe006"
+      ]
+    },
+    {
+      "name": "看价值而非价格",
+      "definition": "掌握钱的关键是凡事看价值，先看价值。看到商品第一反应是价格，第二反应是买不买得起，但盯着价格会一辈子买不起。看价值则不同，价值包括值不值这么多钱和值不值得为它努力。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a005"
+      ]
+    },
+    {
+      "name": "消费与投资的区分",
+      "definition": "消费的钱花了就没有了，投资可能以不同形式更多返回，也可能血本无归。所有花在自己身上的钱，除了学习以外，都叫消费；花在别人身上的钱都叫投资。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a007",
+        "s-dda4af1d1dcd-c005:a020"
+      ]
+    },
+    {
+      "name": "机会成本",
+      "definition": "为了选择某个机会而放弃的其他机会。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a010"
+      ]
+    },
+    {
+      "name": "时间成本",
+      "definition": "选择某件事而放弃的其他时间用途。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a011"
+      ]
+    },
+    {
+      "name": "努力成本",
+      "definition": "为了完成某事而额外付出的学习努力。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a012"
+      ]
+    },
+    {
+      "name": "健康成本",
+      "definition": "为了省钱或多挣钱而牺牲健康，如天天吃泡面、熬夜加班等。用健康换钱是最划不来的。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a013",
+        "s-dda4af1d1dcd-c003:r005"
+      ]
+    },
+    {
+      "name": "财富的定义",
+      "definition": "不仅指物质上的富裕（富），还包括精神灵魂上的高贵（贵）。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a002",
+        "s-dda4af1d1dcd-c004:r001"
+      ]
+    },
+    {
+      "name": "财宝与心的关系",
+      "definition": "你的财宝在哪里，你的心就在哪里。人们追求金钱往往是为了金钱背后的东西，如尊重、安全感、能力证明、力量、价值感等。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a003"
+      ]
+    },
+    {
+      "name": "健康的财富定义",
+      "definition": "包括生活中的情感纽带、内在成长、幸福的记忆、足够的金钱以及对他人的贡献等一切使生活更加丰富和有意义的珍贵资源。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a007"
+      ]
+    },
+    {
+      "name": "金钱作为工具",
+      "definition": "当心在追求健康的财富时，金钱会成为工具箱里的一个工具，可以通过它，也可以越过它去获得真正的财富。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a008"
+      ]
+    },
+    {
+      "name": "情感纽带",
+      "definition": "家庭成员之间自然分享真实想法和感受、面对困难时彼此关心陪伴、拥有美好回忆、在一起时感到幸福、开放坦诚表达意见。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a009",
+        "s-dda4af1d1dcd-c004:a011",
+        "s-dda4af1d1dcd-c004:a012"
+      ]
+    },
+    {
+      "name": "内在成长",
+      "definition": "从外在成就的喜悦退回到内在，关注自己内在的成长，从而保持清醒，不被社会渲染的金钱观所影响。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a014",
+        "s-dda4af1d1dcd-c004:r005",
+        "s-dda4af1d1dcd-c005:a001"
+      ]
+    },
+    {
+      "name": "幸福的记忆",
+      "definition": "刺激大脑去做同样的事情，让人愿意放弃宝贵的东西去获得幸福，获得金钱无法实现的满足感。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:r006",
+        "s-dda4af1d1dcd-c005:a002"
+      ]
+    },
+    {
+      "name": "让孩子挣钱的方法",
+      "definition": "通过做家务挣钱和对外挣钱。做家务挣钱分为份内家务和额外家务，份内家务没有钱，额外家务才有钱。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a006"
+      ]
+    },
+    {
+      "name": "份内家务",
+      "definition": "包括整理自己的玩具、摆放全家的餐具、整理自己的衣物、清理餐桌、倒垃圾、浇花、整理自己的床铺、帮助准备简单的食物、折叠自己的衣物并挂好。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a007"
+      ]
+    },
+    {
+      "name": "额外家务",
+      "definition": "按年龄分为三个阶段：3-5岁可以帮忙倒垃圾、洗全家的碗；6-13岁可以照顾动物植物、辅导低龄孩子学习、摆地摊、做点心等；14-18岁可以兼职工作、做教育类辅导、创业项目、网络兼职。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a008"
+      ]
+    },
+    {
+      "name": "管理金钱的三分法",
+      "definition": "孩子挣的钱分成三份：储蓄、支出、慈善。储蓄分成短期储蓄和长期储蓄，各占储蓄的50%。支出需要记录每一笔花费。慈善包括奉献和公益。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a013"
+      ]
+    },
+    {
+      "name": "储蓄的两个目标",
+      "definition": "短期储蓄（一年以内）和长期储蓄（一年以后），各占储蓄的50%。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a015"
+      ]
+    },
+    {
+      "name": "记录支出的方法",
+      "definition": "孩子每花一笔钱都要记录下来，可以写在本子上，不会写字可以画形状。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a016"
+      ]
+    },
+    {
+      "name": "压岁钱的处理方法",
+      "definition": "不给孩子压岁钱，但让孩子知道有压岁钱。压岁钱存在银行账户或人身保险里，孩子平时想用钱必须自己挣钱。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a019"
+      ]
+    },
+    {
+      "name": "三部分比例的建议",
+      "definition": "讲师家的比例：奉献10%，公益20%，储蓄30-40%，支出20-30%。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a022"
+      ]
+    },
+    {
+      "name": "引导四岁半孩子认识钱的方法",
+      "definition": "停止提供零食和冰淇淋，告诉孩子要买零食自己花钱，让孩子立刻有挣钱的动力。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a023",
+        "s-dda4af1d1dcd-c006:a002"
+      ]
+    },
+    {
+      "name": "让孩子看见挣钱容易与挣钱难",
+      "definition": "要让孩子看见父母挣钱很容易，但让孩子看见自己挣钱很难，让孩子去挣辛苦的钱。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:r001"
+      ]
+    },
+    {
+      "name": "鼓励孩子花钱的方法",
+      "definition": "如果孩子舍不得花钱，可以鼓励他花，或者让他存长期买大东西；当孩子要买大东西时，可以补贴一半。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:r002",
+        "s-dda4af1d1dcd-c006:a001",
+        "s-dda4af1d1dcd-c006:r001"
+      ]
+    },
+    {
+      "name": "孩子不愿挣钱的原因",
+      "definition": "孩子不愿意出去挣钱，是因为没有必要挣钱，因为孩子想要的都已经得到了，所以没有挣钱的动力。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a004"
+      ]
+    },
+    {
+      "name": "家务给钱与不给钱的区分",
+      "definition": "摆放全家餐具、擦餐桌等属于家庭成员共同分担的家务，不应该给钱；而倒垃圾等原本属于家长责任、孩子帮忙承担的家务，可以给孩子钱。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a006"
+      ]
+    },
+    {
+      "name": "处理爷爷奶奶当面给孩子大笔钱的方法",
+      "definition": "家长应该当着孩子的面把钱收起来，并告诉孩子这笔钱由家长决定用途，例如交学费等。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a007"
+      ]
+    },
+    {
+      "name": "十一奉献的比例",
+      "definition": "每月十分之一的工资是肯定要做到的，但具体比例可以根据个人情况调整。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a008"
+      ]
+    },
+    {
+      "name": "与负债丈夫讲清金钱界限的方法",
+      "definition": "通过学习界限课程，为家庭、婚姻、自己、孩子、父母等各方面设立金钱界限。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a009"
+      ]
+    },
+    {
+      "name": "孩子对钱没有概念的原因",
+      "definition": "家长平时没有培养孩子对钱的概念，例如孩子要钱就转账，没有让孩子自己挣钱。人只有自己挣了钱才会对钱有概念。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a011"
+      ]
+    },
+    {
+      "name": "家里零食的管理方法",
+      "definition": "家里可以有一些健康零食和水果，每周有一次冰激凌时间，但如果孩子想要更多，就需要自己挣钱买或者控制欲望。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a013"
+      ]
+    },
+    {
+      "name": "教孩子慈善公益的方法",
+      "definition": "慈善公益不需要专门教，带孩子去做就可以，例如让孩子帮忙摆桌子、参与慈善活动、卖东西捐款等。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a014"
+      ]
+    },
+    {
+      "name": "需要与想要的区分",
+      "definition": "父母需要分辨什么是需要、什么是想要。例如冰激凌不是生存需要，但可能是心理必要，所以可以适当满足。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a016"
+      ]
+    },
+    {
+      "name": "让孩子讨价还价的方法",
+      "definition": "当孩子想要某样东西而家长认为不需要时，可以让孩子讨价还价，说明为什么需要。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a017"
+      ]
+    },
+    {
+      "name": "孩子请朋友喝水后提醒对方回请的处理",
+      "definition": "不需要管，因为孩子有界限，不容易吃亏。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a018"
+      ]
+    },
+    {
+      "name": "作业一：你的财宝在哪里",
+      "definition": "思考赚钱背后心里需要的是什么，问自己钱能带给你的最大好处是什么，诚实回答并挖深，就能知道自己心里的伤痛是什么。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a019"
+      ]
+    },
+    {
+      "name": "作业二：你的育儿方式让孩子追求什么财富",
+      "definition": "思考以现在的育儿方式，孩子可能会希望通过钱获得什么样的财富。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a020"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-dda4af1d1dcd-c001:a001",
+      "target": "s-dda4af1d1dcd-c001:a002",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00002 是 k00001 中提到的常见误解之一的具体例子。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a001",
+      "target": "s-dda4af1d1dcd-c001:a004",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00004 是 k00001 中提到的常见误解之一的具体例子。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a001",
+      "target": "s-dda4af1d1dcd-c001:a009",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00009 是 k00001 中提到的常见误解之一的具体例子。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a001",
+      "target": "s-dda4af1d1dcd-c001:a012",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00012 是 k00001 中提到的常见误解之一的具体例子。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a001",
+      "target": "s-dda4af1d1dcd-c001:a014",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00014 是 k00001 中提到的常见误解之一的具体例子。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a002",
+      "target": "s-dda4af1d1dcd-c001:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00003 解释了 k00002 中公式化误解的机制。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a004",
+      "target": "s-dda4af1d1dcd-c001:a005",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00005 将 k00004 中的观念定义为穷人思维。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a004",
+      "target": "s-dda4af1d1dcd-c001:r001",
+      "kind": "causes",
+      "condition": null,
+      "reason": "k00016 说明挣钱不容易的观念如何限制行为并导致挣钱困难。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a009",
+      "target": "s-dda4af1d1dcd-c001:a010",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00010 对比了穷人思维和富人思维对花钱的区别，支持 k00009 的观点。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a012",
+      "target": "s-dda4af1d1dcd-c001:a013",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "k00013 提出高级金钱观作为 k00012 误解的对比。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a013",
+      "target": "s-dda4af1d1dcd-c001:r003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00018 说明如何将高级金钱观植入心智。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a014",
+      "target": "s-dda4af1d1dcd-c001:r005",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00020 提供了节俭与浪费的正确判断标准。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a014",
+      "target": "s-dda4af1d1dcd-c002:a001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00021 给出了节俭的定义。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a014",
+      "target": "s-dda4af1d1dcd-c002:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00022 进一步区分节俭与浪费。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a003",
+      "target": "s-dda4af1d1dcd-c002:a005",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“对金钱的误解：欲望等于贪婪”明确了欲望与贪婪的区别，“对金钱有欲望与贪婪的区别”进一步展开这种区别，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a003",
+      "target": "s-dda4af1d1dcd-c002:a004",
+      "kind": "causes",
+      "condition": null,
+      "reason": "k00024 说明将欲望等同于贪婪导致仇富心态。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a008",
+      "target": "s-dda4af1d1dcd-c002:a009",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "k00029 提供了花钱时的思考方法，是 k00028 中置换概念的具体步骤。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a008",
+      "target": "s-dda4af1d1dcd-c002:a010",
+      "kind": "association",
+      "condition": "",
+      "reason": "“钱的本质是交换物”提出钱是用来置换的，“值得用钱置换的东西”列举了具体置换对象；二者相关但前者并未直接支持后者的具体清单。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 supports，改为 association。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a010",
+      "target": "s-dda4af1d1dcd-c002:a011",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "“用钱置换知识”是“值得用钱置换的东西”中“知识”的具体例子，说明了通过购买课程和讲座节省时间的方式。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a010",
+      "target": "s-dda4af1d1dcd-c002:a015",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "“用钱置换时间”是“值得用钱置换的东西”中“时间”的具体例子，阐述了用钱换取时间以提升幸福感的机制。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a010",
+      "target": "s-dda4af1d1dcd-c002:a017",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "“用钱置换友谊”对应“值得用钱置换的东西”中的“友谊”，虽然具体方式未展开，但仍属于该清单的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a012",
+      "target": "s-dda4af1d1dcd-c002:a013",
+      "kind": "association",
+      "condition": "",
+      "reason": "“牛奶包装案例”是“心智的定义”的一个具体案例，说明心智被占据后人们会相信包装信息；但原关系方向为定义指向案例，不符合 example_of 的方向，因此改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 example_of 但方向相反，改为 association。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a012",
+      "target": "s-dda4af1d1dcd-c002:a014",
+      "kind": "supports",
+      "condition": "",
+      "reason": "‘心智的定义’强调心智决定相信程度，为‘保护心智的方法’提供了必要性基础。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a015",
+      "target": "s-dda4af1d1dcd-c002:a016",
+      "kind": "association",
+      "condition": "",
+      "reason": "“头等舱案例”是“用钱置换时间”的具体实例，但原关系方向为概念指向案例，不符合 example_of 的方向，因此改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 example_of 但方向相反，改为 association。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a015",
+      "target": "s-dda4af1d1dcd-c002:r003",
+      "kind": "association",
+      "condition": "",
+      "reason": "“用钱置换时间的具体方式”是对“用钱置换时间”这一概念的具体化，但原关系方向为概念支持具体方式，逻辑上更应相反，因此改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 supports，改为 association。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:r001",
+      "target": "s-dda4af1d1dcd-c002:r002",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00039 是用钱置换舒适感的例子。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a005",
+      "target": "s-dda4af1d1dcd-c003:a006",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00055 是讲师买房看价值的案例。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a007",
+      "target": "s-dda4af1d1dcd-c003:a008",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00057 说明投资他人获得贵人帮助。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a007",
+      "target": "s-dda4af1d1dcd-c003:a009",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00058 是有钱人做公益作为投资的例子。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a010",
+      "target": "s-dda4af1d1dcd-c003:a011",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00060 是时间成本，与机会成本类似的概念。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a010",
+      "target": "s-dda4af1d1dcd-c003:a012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00061 是努力成本，与机会成本类似的概念。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a010",
+      "target": "s-dda4af1d1dcd-c003:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00062 是健康成本，与机会成本类似的概念。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a014",
+      "target": "s-dda4af1d1dcd-c004:a001",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "两个女孩租房选择不同的结果说明用钱可以置换时间、精力和社交机会等成本，是“用钱置换其他成本”的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a002",
+      "target": "s-dda4af1d1dcd-c004:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00071 解释财宝与心的关系，支持财富定义。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a003",
+      "target": "s-dda4af1d1dcd-c004:a004",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00072 是为尊重而挣钱的案例。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a003",
+      "target": "s-dda4af1d1dcd-c004:a005",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00073 是为安全感而挣钱的案例。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a003",
+      "target": "s-dda4af1d1dcd-c004:a006",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00074 列出金钱背后的多种动机。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a007",
+      "target": "s-dda4af1d1dcd-c004:a008",
+      "kind": "supports",
+      "condition": "",
+      "reason": "健康的财富定义指出金钱是重要组成部分但不是全部；金钱作为工具说明追求健康财富时金钱成为工具而非目的。定义支持金钱的工具地位。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a009",
+      "target": "s-dda4af1d1dcd-c004:a010",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "缺乏情感纽带的富二代案例展示了情感纽带缺失导致只关注金钱利益，是“树立正确财富观的第一步：体验情感纽带”所述缺失后果的例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向颠倒，已修正。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a009",
+      "target": "s-dda4af1d1dcd-c004:a011",
+      "kind": "association",
+      "condition": "",
+      "reason": "测试家庭情感纽带的五个问题用于评估情感纽带状况，而树立正确财富观的第一步：体验情感纽带强调情感纽带重要并警告缺失后果。两者同涉情感纽带，但测试问题不是支持情感纽带重要性的直接证据。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 关系过强，改为 association。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a011",
+      "target": "s-dda4af1d1dcd-c004:a012",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "k00080 说明按照五个问题实践建立情感纽带。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a014",
+      "target": "s-dda4af1d1dcd-c004:a015",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00083 是学开车的内在成长例子。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a014",
+      "target": "s-dda4af1d1dcd-c004:r005",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00088 说明内在成长的作用。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:r003",
+      "target": "s-dda4af1d1dcd-c004:a009",
+      "kind": "step_of",
+      "condition": "",
+      "reason": "树立正确财富观的方法中第一步是让孩子体验情感纽带；树立正确财富观的第一步：体验情感纽带是该方法的步骤之一。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向颠倒，已修正。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:r003",
+      "target": "s-dda4af1d1dcd-c004:a014",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "k00086 中第二步是让孩子感受内在成长的喜悦。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:r003",
+      "target": "s-dda4af1d1dcd-c004:r006",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "k00086 中第三步是让孩子拥有幸福的记忆。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:r006",
+      "target": "s-dda4af1d1dcd-c005:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00091 解释幸福记忆的作用机制。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:r006",
+      "target": "s-dda4af1d1dcd-c005:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00092 说明幸福记忆对财富追求的影响。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a004",
+      "target": "s-dda4af1d1dcd-c004:r006",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "资助贫困女孩的案例中，讲师长期支持女孩成长并收获幸福记忆，是“幸福的记忆的作用”所述幸福记忆让人愿意付出并获得满足感的具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a006",
+      "target": "s-dda4af1d1dcd-c005:a007",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00096 列出份内家务清单。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a006",
+      "target": "s-dda4af1d1dcd-c005:a008",
+      "kind": "supports",
+      "condition": "",
+      "reason": "让孩子挣钱的方法提到额外家务才给钱；额外家务的年龄分段具体列出了不同年龄段可做的额外家务，是对该方法中额外家务部分的详细说明。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a008",
+      "target": "s-dda4af1d1dcd-c005:a009",
+      "kind": "supports",
+      "condition": "",
+      "reason": "额外家务的年龄分段提到6-13岁可照顾动植物但需不是孩子提出养的；照顾动物植物的付费条件进一步解释了孩子自己提出养则不付钱、父母养则付钱。后者支持前者中的前提条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a010",
+      "target": "s-dda4af1d1dcd-c005:r001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00113 强调让孩子看见挣钱难，支持 k00099 的目的。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a013",
+      "target": "s-dda4af1d1dcd-c005:a015",
+      "kind": "supports",
+      "condition": "",
+      "reason": "管理金钱的三分法指出储蓄分短期和长期各占50%；储蓄的两个目标详细说明了短期和长期储蓄的用途与分配，支持三分法中的储蓄目标分类。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a013",
+      "target": "s-dda4af1d1dcd-c005:a016",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00105 提供记录支出的方法。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a016",
+      "target": "s-dda4af1d1dcd-c005:a017",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00106 是孩子夏令营花钱记录的案例。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a023",
+      "target": "s-dda4af1d1dcd-c006:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00116 提供更详细的引导步骤。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a023",
+      "target": "s-dda4af1d1dcd-c006:a003",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "引导四岁半孩子认识钱的方法提出停止提供零食让孩子有挣钱动力；孩子主动为邻居除草挣钱是该方法的实际案例，孩子因家长不再提供某些东西而产生挣钱意愿。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向颠倒，已修正。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a004",
+      "target": "s-dda4af1d1dcd-c006:a011",
+      "kind": "association",
+      "condition": "",
+      "reason": "孩子不愿挣钱的原因认为没有挣钱动力是因想要的东西已得到；孩子对钱没有概念的原因认为缺乏概念是因家长没有培养并让孩子自己挣钱。两者都涉及孩子挣钱与金钱概念，但解释的原因不同，不能互相支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 关系不成立，改为 association。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a005",
+      "target": "s-dda4af1d1dcd-c006:a005",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00139 提供更详细的引导步骤。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a006",
+      "target": "s-dda4af1d1dcd-c006:a006",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00140 重复强调家务给钱与不给钱的区分。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a007",
+      "target": "s-dda4af1d1dcd-c006:a007",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00141 重复强调处理爷爷奶奶给钱的方法。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a008",
+      "target": "s-dda4af1d1dcd-c006:a008",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00142 重复强调十一奉献的比例。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a009",
+      "target": "s-dda4af1d1dcd-c006:a009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00143 重复强调与负债丈夫讲清金钱界限的方法。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a010",
+      "target": "s-dda4af1d1dcd-c006:a010",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00144 重复强调节俭与浪费的区分。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a011",
+      "target": "s-dda4af1d1dcd-c006:a011",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00145 重复强调孩子对钱没有概念的原因。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a012",
+      "target": "s-dda4af1d1dcd-c006:a012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00146 重复富商儿子挣钱后珍惜硬币的故事。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a013",
+      "target": "s-dda4af1d1dcd-c006:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00147 重复强调家里零食的管理方法。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a014",
+      "target": "s-dda4af1d1dcd-c006:a014",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00148 重复强调教孩子慈善公益的方法。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a015",
+      "target": "s-dda4af1d1dcd-c006:a015",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00149 重复孩子在学校慈善活动中卖妈妈的书案例。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a016",
+      "target": "s-dda4af1d1dcd-c006:a016",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00150 重复强调需要与想要的区分。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a017",
+      "target": "s-dda4af1d1dcd-c006:a017",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00151 重复强调让孩子讨价还价的方法。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a018",
+      "target": "s-dda4af1d1dcd-c006:a018",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00152 重复强调孩子请朋友喝水后提醒对方回请的处理。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a019",
+      "target": "s-dda4af1d1dcd-c006:a019",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00153 重复强调作业一的内容。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a020",
+      "target": "s-dda4af1d1dcd-c006:a020",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00154 重复强调作业二的内容。"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n001",
+      "target": "s-dda4af1d1dcd-c001:a006",
+      "kind": "association",
+      "condition": "关于赚钱难易的信念",
+      "reason": "source 中讲师表示赚钱容易可随时重新创业；候选描述美国朋友挣钱难但讲师认为美国遍地是钱，两者同属讲师对赚钱容易的信念，但事件不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a006",
+      "target": "s-dda4af1d1dcd-c001:v2-n001",
+      "kind": "association",
+      "condition": "关于赚钱难易的信念",
+      "reason": "source 中讲师表示赚钱容易可随时重新创业；候选描述美国朋友挣钱难但讲师认为美国遍地是钱，两者同属讲师对赚钱容易的信念，但事件不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n001",
+      "target": "s-dda4af1d1dcd-c004:r006",
+      "kind": "association",
+      "condition": "当联系到幸福记忆驱动放弃行为时",
+      "reason": "source 讲师愿意放弃事业陪伴孩子，可能因幸福记忆（但未明说）；候选指出幸福记忆让人愿意放弃宝贵东西获得幸福，可关联但因果关系不明确，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:r006",
+      "target": "s-dda4af1d1dcd-c001:v2-n001",
+      "kind": "association",
+      "condition": "当联系到幸福记忆驱动放弃行为时",
+      "reason": "source 讲师愿意放弃事业陪伴孩子，可能因幸福记忆（但未明说）；候选指出幸福记忆让人愿意放弃宝贵东西获得幸福，可关联但因果关系不明确，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n001",
+      "target": "s-dda4af1d1dcd-c005:a004",
+      "kind": "association",
+      "condition": "讲师对幸福与金钱的取舍",
+      "reason": "source 中讲师放弃事业；候选资助贫困女孩多年并感到幸福，体现为幸福付出金钱，两者均显示讲师重幸福轻金钱，但具体情境不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a004",
+      "target": "s-dda4af1d1dcd-c001:v2-n001",
+      "kind": "association",
+      "condition": "讲师对幸福与金钱的取舍",
+      "reason": "source 中讲师放弃事业；候选资助贫困女孩多年并感到幸福，体现为幸福付出金钱，两者均显示讲师重幸福轻金钱，但具体情境不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n001",
+      "target": "s-dda4af1d1dcd-c001:a015",
+      "kind": "association",
+      "condition": "讲师金钱观案例",
+      "reason": "source 体现讲师对赚钱和事业的态度；候选 Max Mara 大衣案例展示讲师花钱看价值而非价格，同属金钱观但无直接联系，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a015",
+      "target": "s-dda4af1d1dcd-c001:v2-n001",
+      "kind": "association",
+      "condition": "讲师金钱观案例",
+      "reason": "source 体现讲师对赚钱和事业的态度；候选 Max Mara 大衣案例展示讲师花钱看价值而非价格，同属金钱观但无直接联系，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n001",
+      "target": "s-dda4af1d1dcd-c001:a008",
+      "kind": "association",
+      "condition": "育儿价值观",
+      "reason": "source 讲师愿为孩子放弃事业；候选讲师引导孩子格局大，均体现讲师育儿理念，但事件不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a008",
+      "target": "s-dda4af1d1dcd-c001:v2-n001",
+      "kind": "association",
+      "condition": "育儿价值观",
+      "reason": "source 讲师愿为孩子放弃事业；候选讲师引导孩子格局大，均体现讲师育儿理念，但事件不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n001",
+      "target": "s-dda4af1d1dcd-c002:a007",
+      "kind": "association",
+      "condition": "金钱置换时间案例",
+      "reason": "source 讲师表达赚钱容易；候选迪士尼快速通道案例体现用钱置换时间，同属金钱观但不同主题，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a007",
+      "target": "s-dda4af1d1dcd-c001:v2-n001",
+      "kind": "association",
+      "condition": "金钱置换时间案例",
+      "reason": "source 讲师表达赚钱容易；候选迪士尼快速通道案例体现用钱置换时间，同属金钱观但不同主题，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n001",
+      "target": "s-dda4af1d1dcd-c006:a016",
+      "kind": "association",
+      "condition": "金钱教育概念",
+      "reason": "source 未涉及需要与想要区分；候选讨论需要与想要，与讲师金钱观相关，但关联弱，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a016",
+      "target": "s-dda4af1d1dcd-c001:v2-n001",
+      "kind": "association",
+      "condition": "金钱教育概念",
+      "reason": "source 未涉及需要与想要区分；候选讨论需要与想要，与讲师金钱观相关，但关联弱，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n002",
+      "target": "s-dda4af1d1dcd-c001:a004",
+      "kind": "complements",
+      "condition": "当父母需理解具体狭隘观念时",
+      "reason": "source 指出不应传递挣钱难等观念；候选具体定义‘挣钱不容易误解’及其危害，补足了需要避免的观念内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a004",
+      "target": "s-dda4af1d1dcd-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当父母需理解具体狭隘观念时",
+      "reason": "source 指出不应传递挣钱难等观念；候选具体定义‘挣钱不容易误解’及其危害，补足了需要避免的观念内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n002",
+      "target": "s-dda4af1d1dcd-c001:r001",
+      "kind": "complements",
+      "condition": "理解观念影响机制",
+      "reason": "source 说狭隘观念限制孩子发展；候选解释穷人思维如何限制挑战、花钱，补充了影响机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:r001",
+      "target": "s-dda4af1d1dcd-c001:v2-n002",
+      "kind": "complements",
+      "condition": "理解观念影响机制",
+      "reason": "source 说狭隘观念限制孩子发展；候选解释穷人思维如何限制挑战、花钱，补充了影响机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n002",
+      "target": "s-dda4af1d1dcd-c005:r001",
+      "kind": "complements",
+      "condition": "实践扩大格局的方法",
+      "reason": "source 提出扩大格局的目标；候选提供具体做法：让孩子看见父母挣钱容易但自己挣钱难，补足了操作方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:r001",
+      "target": "s-dda4af1d1dcd-c001:v2-n002",
+      "kind": "complements",
+      "condition": "实践扩大格局的方法",
+      "reason": "source 提出扩大格局的目标；候选提供具体做法：让孩子看见父母挣钱容易但自己挣钱难，补足了操作方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n002",
+      "target": "s-dda4af1d1dcd-c001:a005",
+      "kind": "complements",
+      "condition": "定义穷人思维",
+      "reason": "source 中的狭隘观念即穷人思维；候选给出穷人思维定义，并说明非穷人所独有，补足概念。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a005",
+      "target": "s-dda4af1d1dcd-c001:v2-n002",
+      "kind": "complements",
+      "condition": "定义穷人思维",
+      "reason": "source 中的狭隘观念即穷人思维；候选给出穷人思维定义，并说明非穷人所独有，补足概念。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n002",
+      "target": "s-dda4af1d1dcd-c005:v2-n003",
+      "kind": "complements",
+      "condition": "谈钱前的正确认知",
+      "reason": "source 强调扩大思维格局；候选指出谈钱前先建立对钱和财富的正确认知，可作为实现格局的前提步骤，补足了先决条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n003",
+      "target": "s-dda4af1d1dcd-c001:v2-n002",
+      "kind": "complements",
+      "condition": "谈钱前的正确认知",
+      "reason": "source 强调扩大思维格局；候选指出谈钱前先建立对钱和财富的正确认知，可作为实现格局的前提步骤，补足了先决条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n002",
+      "target": "s-dda4af1d1dcd-c001:a001",
+      "kind": "complements",
+      "condition": "理解金钱误解总类",
+      "reason": "source 提到狭隘观念；候选概括对金钱的误解及其传递，补足整体框架。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a001",
+      "target": "s-dda4af1d1dcd-c001:v2-n002",
+      "kind": "complements",
+      "condition": "理解金钱误解总类",
+      "reason": "source 提到狭隘观念；候选概括对金钱的误解及其传递，补足整体框架。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n002",
+      "target": "s-dda4af1d1dcd-c001:r004",
+      "kind": "complements",
+      "condition": "低级金钱观后果",
+      "reason": "source 指出狭隘观念会限制发展；候选具体说明低级金钱观占据心智导致没有空间接受高级东西，补足后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:r004",
+      "target": "s-dda4af1d1dcd-c001:v2-n002",
+      "kind": "complements",
+      "condition": "低级金钱观后果",
+      "reason": "source 指出狭隘观念会限制发展；候选具体说明低级金钱观占据心智导致没有空间接受高级东西，补足后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n002",
+      "target": "s-dda4af1d1dcd-c001:a008",
+      "kind": "association",
+      "condition": "格局案例",
+      "reason": "source 提出扩大格局；候选孩子买玩具案例展示讲师引导格局大，可作为例证但未直接构成因果关系，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a008",
+      "target": "s-dda4af1d1dcd-c001:v2-n002",
+      "kind": "association",
+      "condition": "格局案例",
+      "reason": "source 提出扩大格局；候选孩子买玩具案例展示讲师引导格局大，可作为例证但未直接构成因果关系，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n002",
+      "target": "s-dda4af1d1dcd-c006:v2-n003",
+      "kind": "association",
+      "condition": "金钱自主权与界限",
+      "reason": "source 关于格局和思维限制；候选涉及金钱自主权界限，相关但侧重不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n003",
+      "target": "s-dda4af1d1dcd-c001:v2-n002",
+      "kind": "association",
+      "condition": "金钱自主权与界限",
+      "reason": "source 关于格局和思维限制；候选涉及金钱自主权界限，相关但侧重不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:v2-n001",
+      "target": "s-dda4af1d1dcd-c002:a010",
+      "kind": "complements",
+      "condition": "当需要完整置换清单时",
+      "reason": "source 仅提出友谊是第四个；候选列出值得用钱置换的四样东西（知识、心智、时间、友谊），补足了完整清单。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a010",
+      "target": "s-dda4af1d1dcd-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要完整置换清单时",
+      "reason": "source 仅提出友谊是第四个；候选列出值得用钱置换的四样东西（知识、心智、时间、友谊），补足了完整清单。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:v2-n001",
+      "target": "s-dda4af1d1dcd-c003:r001",
+      "kind": "complements",
+      "condition": "当需要友谊置换的具体方式时",
+      "reason": "source 明确未展开具体方式；候选提供具体做法如朋友带奶茶时主动付钱，补足了 source 缺失的部分。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:r001",
+      "target": "s-dda4af1d1dcd-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要友谊置换的具体方式时",
+      "reason": "source 明确未展开具体方式；候选提供具体做法如朋友带奶茶时主动付钱，补足了 source 缺失的部分。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:v2-n001",
+      "target": "s-dda4af1d1dcd-c003:a003",
+      "kind": "complements",
+      "condition": "阐释用钱维护友谊",
+      "reason": "source 提出用钱置换友谊；候选解释要用钱维护友谊、替换消耗友谊的东西，补足了维护的含义。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a003",
+      "target": "s-dda4af1d1dcd-c002:v2-n001",
+      "kind": "complements",
+      "condition": "阐释用钱维护友谊",
+      "reason": "source 提出用钱置换友谊；候选解释要用钱维护友谊、替换消耗友谊的东西，补足了维护的含义。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:v2-n001",
+      "target": "s-dda4af1d1dcd-c002:a017",
+      "kind": "association",
+      "condition": "内容重复",
+      "reason": "候选与 source 内容基本相同，仅标题不同，无新增实质信息，故 association 并注明重复。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a017",
+      "target": "s-dda4af1d1dcd-c002:v2-n001",
+      "kind": "association",
+      "condition": "内容重复",
+      "reason": "候选与 source 内容基本相同，仅标题不同，无新增实质信息，故 association 并注明重复。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:v2-n001",
+      "target": "s-dda4af1d1dcd-c002:r004",
+      "kind": "association",
+      "condition": "内容重复",
+      "reason": "同上，候选重复 source 观点，未补充具体方式，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:r004",
+      "target": "s-dda4af1d1dcd-c002:v2-n001",
+      "kind": "association",
+      "condition": "内容重复",
+      "reason": "同上，候选重复 source 观点，未补充具体方式，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:v2-n001",
+      "target": "s-dda4af1d1dcd-c003:a001",
+      "kind": "association",
+      "condition": "同为用钱置换系列",
+      "reason": "source 关于友谊；候选关于时间提升幸福感，两者属于同一主题但置换对象不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a001",
+      "target": "s-dda4af1d1dcd-c002:v2-n001",
+      "kind": "association",
+      "condition": "同为用钱置换系列",
+      "reason": "source 关于友谊；候选关于时间提升幸福感，两者属于同一主题但置换对象不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:v2-n001",
+      "target": "s-dda4af1d1dcd-c002:a015",
+      "kind": "association",
+      "condition": "同为用钱置换系列",
+      "reason": "同上，候选讲时间置换，与友谊置换不同对象，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a015",
+      "target": "s-dda4af1d1dcd-c002:v2-n001",
+      "kind": "association",
+      "condition": "同为用钱置换系列",
+      "reason": "同上，候选讲时间置换，与友谊置换不同对象，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:v2-n001",
+      "target": "s-dda4af1d1dcd-c002:a008",
+      "kind": "association",
+      "condition": "钱的本质概念",
+      "reason": "source 是友谊置换，候选讲钱的本质是交换物，为整个置换逻辑基础，相关但非直接补充，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a008",
+      "target": "s-dda4af1d1dcd-c002:v2-n001",
+      "kind": "association",
+      "condition": "钱的本质概念",
+      "reason": "source 是友谊置换，候选讲钱的本质是交换物，为整个置换逻辑基础，相关但非直接补充，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:v2-n002",
+      "target": "s-dda4af1d1dcd-c002:a007",
+      "kind": "conditional_difference",
+      "condition": "比较学员不舍得买与讲师舍得出钱时",
+      "reason": "source 中学员舍不得买快速通道排队三小时只玩两个项目；候选描述讲师购买快速通道避免排队，两者形成条件差异（是否舍得花钱）导致不同结果，故 conditional_difference。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a007",
+      "target": "s-dda4af1d1dcd-c002:v2-n002",
+      "kind": "conditional_difference",
+      "condition": "比较学员不舍得买与讲师舍得出钱时",
+      "reason": "source 中学员舍不得买快速通道排队三小时只玩两个项目；候选描述讲师购买快速通道避免排队，两者形成条件差异（是否舍得花钱）导致不同结果，故 conditional_difference。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:v2-n002",
+      "target": "s-dda4af1d1dcd-c002:xe004",
+      "kind": "complements",
+      "condition": "同一对比场景",
+      "reason": "候选内容与 a007 重复，补足 source 中提到的讲师做法，故 complements。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:xe004",
+      "target": "s-dda4af1d1dcd-c002:v2-n002",
+      "kind": "complements",
+      "condition": "同一对比场景",
+      "reason": "候选内容与 a007 重复，补足 source 中提到的讲师做法，故 complements。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:v2-n002",
+      "target": "s-dda4af1d1dcd-c002:r003",
+      "kind": "association",
+      "condition": "时间置换概念",
+      "reason": "source 是未用钱置换时间的反例；候选列出用钱置换时间的具体方式，概念相关，但 source 是反例，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:r003",
+      "target": "s-dda4af1d1dcd-c002:v2-n002",
+      "kind": "association",
+      "condition": "时间置换概念",
+      "reason": "source 是未用钱置换时间的反例；候选列出用钱置换时间的具体方式，概念相关，但 source 是反例，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:v2-n002",
+      "target": "s-dda4af1d1dcd-c002:a015",
+      "kind": "association",
+      "condition": "时间置换概念",
+      "reason": "同上，候选阐述时间置换的价值，与 source 反例形成对照，但无直接逻辑关系，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a015",
+      "target": "s-dda4af1d1dcd-c002:v2-n002",
+      "kind": "association",
+      "condition": "时间置换概念",
+      "reason": "同上，候选阐述时间置换的价值，与 source 反例形成对照，但无直接逻辑关系，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:v2-n002",
+      "target": "s-dda4af1d1dcd-c003:a001",
+      "kind": "association",
+      "condition": "时间置换概念",
+      "reason": "同上，候选讲时间置换提升幸福感，与 source 案例相关但不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a001",
+      "target": "s-dda4af1d1dcd-c002:v2-n002",
+      "kind": "association",
+      "condition": "时间置换概念",
+      "reason": "同上，候选讲时间置换提升幸福感，与 source 案例相关但不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:v2-n002",
+      "target": "s-dda4af1d1dcd-c004:a001",
+      "kind": "association",
+      "condition": "其他成本置换",
+      "reason": "source 体现时间成本，候选概念覆盖用钱置换其他成本，关联但非直接补充，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a001",
+      "target": "s-dda4af1d1dcd-c002:v2-n002",
+      "kind": "association",
+      "condition": "其他成本置换",
+      "reason": "source 体现时间成本，候选概念覆盖用钱置换其他成本，关联但非直接补充，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:v2-n001",
+      "target": "s-dda4af1d1dcd-c003:a010",
+      "kind": "complements",
+      "condition": "理解机会成本时",
+      "reason": "source 提及机会成本；候选定义机会成本并举例，补足该成本的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a010",
+      "target": "s-dda4af1d1dcd-c003:v2-n001",
+      "kind": "complements",
+      "condition": "理解机会成本时",
+      "reason": "source 提及机会成本；候选定义机会成本并举例，补足该成本的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:v2-n001",
+      "target": "s-dda4af1d1dcd-c003:a011",
+      "kind": "complements",
+      "condition": "理解时间成本时",
+      "reason": "source 提及时间成本；候选定义时间成本并举例，补足具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a011",
+      "target": "s-dda4af1d1dcd-c003:v2-n001",
+      "kind": "complements",
+      "condition": "理解时间成本时",
+      "reason": "source 提及时间成本；候选定义时间成本并举例，补足具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:v2-n001",
+      "target": "s-dda4af1d1dcd-c003:a012",
+      "kind": "complements",
+      "condition": "理解努力成本时",
+      "reason": "source 提及努力成本；候选定义努力成本并举例，补足具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a012",
+      "target": "s-dda4af1d1dcd-c003:v2-n001",
+      "kind": "complements",
+      "condition": "理解努力成本时",
+      "reason": "source 提及努力成本；候选定义努力成本并举例，补足具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:v2-n001",
+      "target": "s-dda4af1d1dcd-c003:a013",
+      "kind": "complements",
+      "condition": "理解健康成本时",
+      "reason": "source 提及健康成本；候选定义健康成本并说明用健康换钱最划不来，补足具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a013",
+      "target": "s-dda4af1d1dcd-c003:v2-n001",
+      "kind": "complements",
+      "condition": "理解健康成本时",
+      "reason": "source 提及健康成本；候选定义健康成本并说明用健康换钱最划不来，补足具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:v2-n001",
+      "target": "s-dda4af1d1dcd-c003:r005",
+      "kind": "complements",
+      "condition": "健康成本重要性",
+      "reason": "source 仅提到健康成本；候选强调健康成本的重要性，补充了为什么要注意健康成本。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:r005",
+      "target": "s-dda4af1d1dcd-c003:v2-n001",
+      "kind": "complements",
+      "condition": "健康成本重要性",
+      "reason": "source 仅提到健康成本；候选强调健康成本的重要性，补充了为什么要注意健康成本。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:v2-n001",
+      "target": "s-dda4af1d1dcd-c004:a001",
+      "kind": "complements",
+      "condition": "理解用钱置换其他成本",
+      "reason": "source 讲消费时考虑消耗的成本；候选讲用钱可以置换时间、精力、社交机会等成本，是从相反视角补足成本管理。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a001",
+      "target": "s-dda4af1d1dcd-c003:v2-n001",
+      "kind": "complements",
+      "condition": "理解用钱置换其他成本",
+      "reason": "source 讲消费时考虑消耗的成本；候选讲用钱可以置换时间、精力、社交机会等成本，是从相反视角补足成本管理。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:v2-n001",
+      "target": "s-dda4af1d1dcd-c002:a009",
+      "kind": "complements",
+      "condition": "花钱时的思考方法",
+      "reason": "source 提出考虑成本；候选具体给出思考方法：想置换出了什么、避免什么消耗，补足操作方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a009",
+      "target": "s-dda4af1d1dcd-c003:v2-n001",
+      "kind": "complements",
+      "condition": "花钱时的思考方法",
+      "reason": "source 提出考虑成本；候选具体给出思考方法：想置换出了什么、避免什么消耗，补足操作方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:v2-n001",
+      "target": "s-dda4af1d1dcd-c003:a001",
+      "kind": "association",
+      "condition": "时间置换相关",
+      "reason": "source 包含时间成本；候选讲用钱置换时间提升幸福感，可视为延伸，但非直接补充，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a001",
+      "target": "s-dda4af1d1dcd-c003:v2-n001",
+      "kind": "association",
+      "condition": "时间置换相关",
+      "reason": "source 包含时间成本；候选讲用钱置换时间提升幸福感，可视为延伸，但非直接补充，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:v2-n001",
+      "target": "s-dda4af1d1dcd-c003:a005",
+      "kind": "association",
+      "condition": "看价值与成本",
+      "reason": "source 关于成本；候选讲看价值而非价格，相关但侧重不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a005",
+      "target": "s-dda4af1d1dcd-c003:v2-n001",
+      "kind": "association",
+      "condition": "看价值与成本",
+      "reason": "source 关于成本；候选讲看价值而非价格，相关但侧重不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:v2-n001",
+      "target": "s-dda4af1d1dcd-c002:a010",
+      "kind": "association",
+      "condition": "值得置换的清单",
+      "reason": "source 涉及具体成本；候选列出值得用钱置换的东西，关联但非直接补充，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a010",
+      "target": "s-dda4af1d1dcd-c003:v2-n001",
+      "kind": "association",
+      "condition": "值得置换的清单",
+      "reason": "source 涉及具体成本；候选列出值得用钱置换的东西，关联但非直接补充，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:v2-n001",
+      "target": "s-dda4af1d1dcd-c002:a008",
+      "kind": "association",
+      "condition": "钱的本质",
+      "reason": "source 强调考虑成本；候选讲钱是交换物，基础概念相关，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a008",
+      "target": "s-dda4af1d1dcd-c003:v2-n001",
+      "kind": "association",
+      "condition": "钱的本质",
+      "reason": "source 强调考虑成本；候选讲钱是交换物，基础概念相关，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n001",
+      "target": "s-dda4af1d1dcd-c003:a014",
+      "kind": "complements",
+      "condition": "同一案例的不同细节版本",
+      "reason": "source 描述两个女孩租房选择及后续发展，未给出具体工资和租金；target 补充了月薪7000元、近租房4000元、远租房2000元，并增加了住得近的女孩考试通过的结果，补足了案例的具体数据与结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a014",
+      "target": "s-dda4af1d1dcd-c004:v2-n001",
+      "kind": "complements",
+      "condition": "同一案例的不同细节版本",
+      "reason": "source 描述两个女孩租房选择及后续发展，未给出具体工资和租金；target 补充了月薪7000元、近租房4000元、远租房2000元，并增加了住得近的女孩考试通过的结果，补足了案例的具体数据与结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n001",
+      "target": "s-dda4af1d1dcd-c004:a001",
+      "kind": "example_of",
+      "condition": "当用该案例说明用钱置换成本时",
+      "reason": "source 中住得近的女孩付出更高房租节省通勤时间，获得健身、社交、学习、加班等机会并升职，正是 target 所述“用钱置换时间、精力、社交机会等成本”的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a001",
+      "target": "s-dda4af1d1dcd-c004:v2-n001",
+      "kind": "has_example",
+      "condition": "当用该案例说明用钱置换成本时",
+      "reason": "source 中住得近的女孩付出更高房租节省通勤时间，获得健身、社交、学习、加班等机会并升职，正是 target 所述“用钱置换时间、精力、社交机会等成本”的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n001",
+      "target": "s-dda4af1d1dcd-c003:a011",
+      "kind": "example_of",
+      "condition": "当考虑通勤时间作为成本时",
+      "reason": "source 中住得远的女孩通勤两小时且疲惫，不敢加班、社交受限，体现了 target 所说的时间成本——选择住得远而放弃的时间用途。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a011",
+      "target": "s-dda4af1d1dcd-c004:v2-n001",
+      "kind": "has_example",
+      "condition": "当考虑通勤时间作为成本时",
+      "reason": "source 中住得远的女孩通勤两小时且疲惫，不敢加班、社交受限，体现了 target 所说的时间成本——选择住得远而放弃的时间用途。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n001",
+      "target": "s-dda4af1d1dcd-c003:a010",
+      "kind": "association",
+      "condition": "分析选择放弃的其他机会时",
+      "reason": "source 中两个女孩分别选择了高房租近住或省钱远住，各自放弃了省钱或时间，符合机会成本的概念，但 target 定义以工作选择为例，未直接引用租房案例，关联不确定且不够具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a010",
+      "target": "s-dda4af1d1dcd-c004:v2-n001",
+      "kind": "association",
+      "condition": "分析选择放弃的其他机会时",
+      "reason": "source 中两个女孩分别选择了高房租近住或省钱远住，各自放弃了省钱或时间，符合机会成本的概念，但 target 定义以工作选择为例，未直接引用租房案例，关联不确定且不够具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n001",
+      "target": "s-dda4af1d1dcd-c002:v2-n002",
+      "kind": "association",
+      "condition": "比较不花钱导致时间消耗的场景时",
+      "reason": "source 中住得远省房租但通勤两小时，与 target 中某学员不买快速通道导致排队三小时、全天只能玩两个项目，都体现省钱导致大量时间消耗，但场景和主体不同，无直接因果关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:v2-n002",
+      "target": "s-dda4af1d1dcd-c004:v2-n001",
+      "kind": "association",
+      "condition": "比较不花钱导致时间消耗的场景时",
+      "reason": "source 中住得远省房租但通勤两小时，与 target 中某学员不买快速通道导致排队三小时、全天只能玩两个项目，都体现省钱导致大量时间消耗，但场景和主体不同，无直接因果关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n001",
+      "target": "s-dda4af1d1dcd-c002:a007",
+      "kind": "association",
+      "condition": "比较用钱买时间的案例时",
+      "reason": "source 中住得近用高房租买通勤时间，target 中讲师买迪士尼快速通道避免排队暴晒，均体现用钱置换时间，但情境（居住与游乐）差异大，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c002:a007",
+      "target": "s-dda4af1d1dcd-c004:v2-n001",
+      "kind": "association",
+      "condition": "比较用钱买时间的案例时",
+      "reason": "source 中住得近用高房租买通勤时间，target 中讲师买迪士尼快速通道避免排队暴晒，均体现用钱置换时间，但情境（居住与游乐）差异大，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n001",
+      "target": "s-dda4af1d1dcd-c001:a011",
+      "kind": "association",
+      "condition": "比较省钱导致损失机会的案例时",
+      "reason": "source 中住得远省钱导致通勤疲惫、发展受限，target 中客人省钱坐夜车导致睡过站、丢失竞标，都因节省小钱损失更大机会，但具体事件和主体不同，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a011",
+      "target": "s-dda4af1d1dcd-c004:v2-n001",
+      "kind": "association",
+      "condition": "比较省钱导致损失机会的案例时",
+      "reason": "source 中住得远省钱导致通勤疲惫、发展受限，target 中客人省钱坐夜车导致睡过站、丢失竞标，都因节省小钱损失更大机会，但具体事件和主体不同，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n002",
+      "target": "s-dda4af1d1dcd-c005:a002",
+      "kind": "association",
+      "condition": "比较同一概念的两种表述时",
+      "reason": "source 与 target 内容几乎逐句相同，都称幸福记忆刺激大脑重复幸福行为、使人愿意放弃宝贵东西获得金钱无法实现的满足感，未发现实质补充，仅表述微调，关联但无互补点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a002",
+      "target": "s-dda4af1d1dcd-c004:v2-n002",
+      "kind": "association",
+      "condition": "比较同一概念的两种表述时",
+      "reason": "source 与 target 内容几乎逐句相同，都称幸福记忆刺激大脑重复幸福行为、使人愿意放弃宝贵东西获得金钱无法实现的满足感，未发现实质补充，仅表述微调，关联但无互补点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n002",
+      "target": "s-dda4af1d1dcd-c004:r006",
+      "kind": "complements",
+      "condition": "当需要得出育儿结论时",
+      "reason": "source 指出幸福记忆的作用并提到孩子能越过金钱追求更高财富，target 补充了“因此，孩子需要有幸福的记忆才能追求真正的财富”的因果结论，使作用与育儿要求连接更明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:r006",
+      "target": "s-dda4af1d1dcd-c004:v2-n002",
+      "kind": "complements",
+      "condition": "当需要得出育儿结论时",
+      "reason": "source 指出幸福记忆的作用并提到孩子能越过金钱追求更高财富，target 补充了“因此，孩子需要有幸福的记忆才能追求真正的财富”的因果结论，使作用与育儿要求连接更明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n002",
+      "target": "s-dda4af1d1dcd-c005:a003",
+      "kind": "complements",
+      "condition": "当讨论幸福记忆对孩子财富追求的全面影响时",
+      "reason": "source 提到孩子能越过金钱追求更高层次财富，target 补充了“不会因为美好记忆而不去挣钱，从而保持平衡和健康”，补足了幸福记忆不会导致放弃挣钱这一平衡点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a003",
+      "target": "s-dda4af1d1dcd-c004:v2-n002",
+      "kind": "complements",
+      "condition": "当讨论幸福记忆对孩子财富追求的全面影响时",
+      "reason": "source 提到孩子能越过金钱追求更高层次财富，target 补充了“不会因为美好记忆而不去挣钱，从而保持平衡和健康”，补足了幸福记忆不会导致放弃挣钱这一平衡点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n002",
+      "target": "s-dda4af1d1dcd-c005:a005",
+      "kind": "association",
+      "condition": "当定义财富与金钱关系时",
+      "reason": "source 说幸福记忆带来金钱无法实现的满足感、孩子越过金钱追求更高层次财富，target 将财富定义为金钱永远无法到达的高度并包含幸福记忆，二者相关但 source 未全面定义财富，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a005",
+      "target": "s-dda4af1d1dcd-c004:v2-n002",
+      "kind": "association",
+      "condition": "当定义财富与金钱关系时",
+      "reason": "source 说幸福记忆带来金钱无法实现的满足感、孩子越过金钱追求更高层次财富，target 将财富定义为金钱永远无法到达的高度并包含幸福记忆，二者相关但 source 未全面定义财富，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n002",
+      "target": "s-dda4af1d1dcd-c004:r003",
+      "kind": "association",
+      "condition": "当将幸福记忆放入树立财富观的方法框架时",
+      "reason": "target 列出三步方法，第三步为“让孩子拥有幸福的记忆”，source 阐述幸福记忆的作用，与第三步相关，但 source 不是方法步骤本身，不能作为 step_of。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:r003",
+      "target": "s-dda4af1d1dcd-c004:v2-n002",
+      "kind": "association",
+      "condition": "当将幸福记忆放入树立财富观的方法框架时",
+      "reason": "target 列出三步方法，第三步为“让孩子拥有幸福的记忆”，source 阐述幸福记忆的作用，与第三步相关，但 source 不是方法步骤本身，不能作为 step_of。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n002",
+      "target": "s-dda4af1d1dcd-c004:a008",
+      "kind": "association",
+      "condition": "当讨论金钱作为工具时",
+      "reason": "source 提到孩子能越过金钱去追求更高层次的财富，target 指出金钱是工具箱里的工具，可以越过它获得真正财富，二者观点一致，但 source 未明确金钱的工具属性，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a008",
+      "target": "s-dda4af1d1dcd-c004:v2-n002",
+      "kind": "association",
+      "condition": "当讨论金钱作为工具时",
+      "reason": "source 提到孩子能越过金钱去追求更高层次的财富，target 指出金钱是工具箱里的工具，可以越过它获得真正财富，二者观点一致，但 source 未明确金钱的工具属性，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n002",
+      "target": "s-dda4af1d1dcd-c004:a007",
+      "kind": "complements",
+      "condition": "当需要完整定义健康财富时",
+      "reason": "source 只提及幸福记忆作为财富一部分，target 列出了健康财富的全部要素：情感纽带、内在成长、幸福的记忆、足够的金钱、对他人的贡献等，补充了除幸福记忆外的其他组成部分。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a007",
+      "target": "s-dda4af1d1dcd-c004:v2-n002",
+      "kind": "complements",
+      "condition": "当需要完整定义健康财富时",
+      "reason": "source 只提及幸福记忆作为财富一部分，target 列出了健康财富的全部要素：情感纽带、内在成长、幸福的记忆、足够的金钱、对他人的贡献等，补充了除幸福记忆外的其他组成部分。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n002",
+      "target": "s-dda4af1d1dcd-c005:a018",
+      "kind": "association",
+      "condition": "当将幸福记忆体验放入儿童教育序列时",
+      "reason": "target 提出让孩子依次体验财宝（含幸福记忆）、挣钱、公益和管理金钱，source 强调幸福记忆的作用，是财宝体验的一部分，但 source 未涉及后续挣钱公益管理，无法构成步骤关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a018",
+      "target": "s-dda4af1d1dcd-c004:v2-n002",
+      "kind": "association",
+      "condition": "当将幸福记忆体验放入儿童教育序列时",
+      "reason": "target 提出让孩子依次体验财宝（含幸福记忆）、挣钱、公益和管理金钱，source 强调幸福记忆的作用，是财宝体验的一部分，但 source 未涉及后续挣钱公益管理，无法构成步骤关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:v2-n003",
+      "target": "s-dda4af1d1dcd-c005:a004",
+      "kind": "complements",
+      "condition": "同一事件的完整版本",
+      "reason": "source 仅简述讲师18岁时帮助一个初中孩子、父亲去世母亲在商场卖东西，后续未知；target 补充了女孩从13岁到30多岁得到持续支持、后来美国留学工作结婚、讲师证婚、回忆幸福等完整发展和结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a004",
+      "target": "s-dda4af1d1dcd-c004:v2-n003",
+      "kind": "complements",
+      "condition": "同一事件的完整版本",
+      "reason": "source 仅简述讲师18岁时帮助一个初中孩子、父亲去世母亲在商场卖东西，后续未知；target 补充了女孩从13岁到30多岁得到持续支持、后来美国留学工作结婚、讲师证婚、回忆幸福等完整发展和结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n001",
+      "target": "s-dda4af1d1dcd-c004:a009",
+      "kind": "complements",
+      "condition": "当明确情感纽带在财富观教育中的作用时",
+      "reason": "source 指出情感纽带让人渴望亲密关系，是财宝体验第一步、对家长有要求；target 补充了情感纽带缺失时人会因冷漠疏远而变成只爱钱、不择手段的人，并明确为树立正确财富观的第一步。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a009",
+      "target": "s-dda4af1d1dcd-c005:v2-n001",
+      "kind": "complements",
+      "condition": "当明确情感纽带在财富观教育中的作用时",
+      "reason": "source 指出情感纽带让人渴望亲密关系，是财宝体验第一步、对家长有要求；target 补充了情感纽带缺失时人会因冷漠疏远而变成只爱钱、不择手段的人，并明确为树立正确财富观的第一步。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n001",
+      "target": "s-dda4af1d1dcd-c004:r003",
+      "kind": "association",
+      "condition": "当将情感纽带放入财富观方法框架时",
+      "reason": "target 将“让孩子体验情感纽带”列为三步方法的第一步，source 阐述情感纽带让人渴望亲密关系，是第一步的内涵，但 source 本身不是动作步骤，不能作为 step_of。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:r003",
+      "target": "s-dda4af1d1dcd-c005:v2-n001",
+      "kind": "association",
+      "condition": "当将情感纽带放入财富观方法框架时",
+      "reason": "target 将“让孩子体验情感纽带”列为三步方法的第一步，source 阐述情感纽带让人渴望亲密关系，是第一步的内涵，但 source 本身不是动作步骤，不能作为 step_of。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n001",
+      "target": "s-dda4af1d1dcd-c004:r004",
+      "kind": "complements",
+      "condition": "当说明情感纽带缺失的后果时",
+      "reason": "source 只讲情感纽带存在时的正面作用，target 补充了缺失时人会内心冷漠疏远、变成只喜欢钱不择手段的人，补足了反面对照。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:r004",
+      "target": "s-dda4af1d1dcd-c005:v2-n001",
+      "kind": "complements",
+      "condition": "当说明情感纽带缺失的后果时",
+      "reason": "source 只讲情感纽带存在时的正面作用，target 补充了缺失时人会内心冷漠疏远、变成只喜欢钱不择手段的人，补足了反面对照。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n001",
+      "target": "s-dda4af1d1dcd-c004:a010",
+      "kind": "association",
+      "condition": "作为情感纽带缺失的反面案例时",
+      "reason": "source 强调情感纽带让人渴望亲密关系，target 案例中富二代因缺乏情感纽带在父亲胃出血时只想到换车，展示了缺失后果，与 source 观点形成对比，但 source 未给出缺失定义，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a010",
+      "target": "s-dda4af1d1dcd-c005:v2-n001",
+      "kind": "association",
+      "condition": "作为情感纽带缺失的反面案例时",
+      "reason": "source 强调情感纽带让人渴望亲密关系，target 案例中富二代因缺乏情感纽带在父亲胃出血时只想到换车，展示了缺失后果，与 source 观点形成对比，但 source 未给出缺失定义，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n001",
+      "target": "s-dda4af1d1dcd-c004:a012",
+      "kind": "complements",
+      "condition": "当需要知道如何建立情感纽带时",
+      "reason": "source 提出要让孩子体验情感纽带且对家长有要求，target 提供了按照五个问题去实践建立家庭情感纽带的具体方法，补充了操作路径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a012",
+      "target": "s-dda4af1d1dcd-c005:v2-n001",
+      "kind": "complements",
+      "condition": "当需要知道如何建立情感纽带时",
+      "reason": "source 提出要让孩子体验情感纽带且对家长有要求，target 提供了按照五个问题去实践建立家庭情感纽带的具体方法，补充了操作路径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n001",
+      "target": "s-dda4af1d1dcd-c005:a018",
+      "kind": "association",
+      "condition": "当将情感纽带放入儿童体验总体序列时",
+      "reason": "target 的财宝体验包括情感纽带、内在成长、幸福记忆，source 阐述情感纽带的作用且称其为第一步，是其中一部分，但 source 未涉及后续体验环节，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a018",
+      "target": "s-dda4af1d1dcd-c005:v2-n001",
+      "kind": "association",
+      "condition": "当将情感纽带放入儿童体验总体序列时",
+      "reason": "target 的财宝体验包括情感纽带、内在成长、幸福记忆，source 阐述情感纽带的作用且称其为第一步，是其中一部分，但 source 未涉及后续体验环节，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n001",
+      "target": "s-dda4af1d1dcd-c004:a011",
+      "kind": "complements",
+      "condition": "当需要测试家庭情感纽带时",
+      "reason": "source 只要求体验情感纽带，target 提供了五个具体问题来测试家庭情感纽带状况，为家长提供了评估工具，补充了落地方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a011",
+      "target": "s-dda4af1d1dcd-c005:v2-n001",
+      "kind": "complements",
+      "condition": "当需要测试家庭情感纽带时",
+      "reason": "source 只要求体验情感纽带，target 提供了五个具体问题来测试家庭情感纽带状况，为家长提供了评估工具，补充了落地方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n001",
+      "target": "s-dda4af1d1dcd-c004:a007",
+      "kind": "association",
+      "condition": "当讨论健康财富整体构成时",
+      "reason": "target 将情感纽带列为健康财富要素之一，source 阐述情感纽带让人渴望亲密关系，二者相关，但 source 未涉及其他要素，不足以构成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a007",
+      "target": "s-dda4af1d1dcd-c005:v2-n001",
+      "kind": "association",
+      "condition": "当讨论健康财富整体构成时",
+      "reason": "target 将情感纽带列为健康财富要素之一，source 阐述情感纽带让人渴望亲密关系，二者相关，但 source 未涉及其他要素，不足以构成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n002",
+      "target": "s-dda4af1d1dcd-c005:a001",
+      "kind": "association",
+      "condition": "比较两种内在成长定义时",
+      "reason": "source 将内在成长定义为通过面对挑战重新认识自己、提升自我评价，target 给出几乎相同的定义但未提及外在成长对比，内容高度重复，仅表述微调，无实质补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a001",
+      "target": "s-dda4af1d1dcd-c005:v2-n002",
+      "kind": "association",
+      "condition": "比较两种内在成长定义时",
+      "reason": "source 将内在成长定义为通过面对挑战重新认识自己、提升自我评价，target 给出几乎相同的定义但未提及外在成长对比，内容高度重复，仅表述微调，无实质补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n002",
+      "target": "s-dda4af1d1dcd-c004:a015",
+      "kind": "complements",
+      "condition": "当需要具体例子说明内外在成长时",
+      "reason": "source 简单举例“学会开车”作为外在成长，target 详细展开学开车的外在成长（学会技能、可开滴滴或带人玩）和内在成长（面对挑战做到、觉得自己比想象中强），补充了例子的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a015",
+      "target": "s-dda4af1d1dcd-c005:v2-n002",
+      "kind": "complements",
+      "condition": "当需要具体例子说明内外在成长时",
+      "reason": "source 简单举例“学会开车”作为外在成长，target 详细展开学开车的外在成长（学会技能、可开滴滴或带人玩）和内在成长（面对挑战做到、觉得自己比想象中强），补充了例子的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n002",
+      "target": "s-dda4af1d1dcd-c004:a014",
+      "kind": "association",
+      "condition": "比较内在成长的不同定义角度时",
+      "reason": "source 的内在成长强调面对挑战后的自我重新认识，target 定义为从外在成就的喜悦退回到内在、保持清醒不被金钱观影响，二者都涉及内在关注但侧重点不同，不确定是否互补或存在细微冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a014",
+      "target": "s-dda4af1d1dcd-c005:v2-n002",
+      "kind": "association",
+      "condition": "比较内在成长的不同定义角度时",
+      "reason": "source 的内在成长强调面对挑战后的自我重新认识，target 定义为从外在成就的喜悦退回到内在、保持清醒不被金钱观影响，二者都涉及内在关注但侧重点不同，不确定是否互补或存在细微冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n002",
+      "target": "s-dda4af1d1dcd-c004:r005",
+      "kind": "association",
+      "condition": "当将内在成长与保持清醒联系时",
+      "reason": "target 提出从外在成长退回内在成长后才能保持清醒，source 未提及“退回”与金钱观影响，只定义内外在成长，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:r005",
+      "target": "s-dda4af1d1dcd-c005:v2-n002",
+      "kind": "association",
+      "condition": "当将内在成长与保持清醒联系时",
+      "reason": "target 提出从外在成长退回内在成长后才能保持清醒，source 未提及“退回”与金钱观影响，只定义内外在成长，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n002",
+      "target": "s-dda4af1d1dcd-c004:r003",
+      "kind": "association",
+      "condition": "当将内在成长放入财富观方法框架时",
+      "reason": "target 将“让孩子感受内在成长的喜悦”列为第二步，source 定义了内在成长是面对挑战后的自我认知提升，为第二步提供概念基础，但 source 不是步骤本身。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:r003",
+      "target": "s-dda4af1d1dcd-c005:v2-n002",
+      "kind": "association",
+      "condition": "当将内在成长放入财富观方法框架时",
+      "reason": "target 将“让孩子感受内在成长的喜悦”列为第二步，source 定义了内在成长是面对挑战后的自我认知提升，为第二步提供概念基础，但 source 不是步骤本身。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n002",
+      "target": "s-dda4af1d1dcd-c004:a007",
+      "kind": "association",
+      "condition": "当讨论健康财富构成时",
+      "reason": "target 将内在成长列为健康财富要素之一，source 定义内在成长，二者相关，但 source 未涉及其他要素，无法构成完整互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a007",
+      "target": "s-dda4af1d1dcd-c005:v2-n002",
+      "kind": "association",
+      "condition": "当讨论健康财富构成时",
+      "reason": "target 将内在成长列为健康财富要素之一，source 定义内在成长，二者相关，但 source 未涉及其他要素，无法构成完整互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n002",
+      "target": "s-dda4af1d1dcd-c005:a018",
+      "kind": "association",
+      "condition": "当将内在成长放入儿童体验序列时",
+      "reason": "target 的财宝体验包含内在成长，source 对内在成长的定义是其中一部分，但 source 未涉及整个体验流程，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a018",
+      "target": "s-dda4af1d1dcd-c005:v2-n002",
+      "kind": "association",
+      "condition": "当将内在成长放入儿童体验序列时",
+      "reason": "target 的财宝体验包含内在成长，source 对内在成长的定义是其中一部分，但 source 未涉及整个体验流程，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n003",
+      "target": "s-dda4af1d1dcd-c004:a009",
+      "kind": "association",
+      "condition": "当将概括要求具体化为第一步时",
+      "reason": "source 主张谈钱前建立对钱和财富的正确认知，target 提出树立正确财富观的第一步是体验情感纽带，target 是 source 的具体化之一，但 source 是概括性要求，无法作为 target 的前提或步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a009",
+      "target": "s-dda4af1d1dcd-c005:v2-n003",
+      "kind": "association",
+      "condition": "当将概括要求具体化为第一步时",
+      "reason": "source 主张谈钱前建立对钱和财富的正确认知，target 提出树立正确财富观的第一步是体验情感纽带，target 是 source 的具体化之一，但 source 是概括性要求，无法作为 target 的前提或步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n003",
+      "target": "s-dda4af1d1dcd-c004:r003",
+      "kind": "complements",
+      "condition": "当需要具体方法实现正确认知时",
+      "reason": "source 只提出先建立正确认知的要求，target 给出了树立正确财富观的三步方法（体验情感纽带、感受内在成长喜悦、拥有幸福记忆），补充了实现 source 的具体操作路径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:r003",
+      "target": "s-dda4af1d1dcd-c005:v2-n003",
+      "kind": "complements",
+      "condition": "当需要具体方法实现正确认知时",
+      "reason": "source 只提出先建立正确认知的要求，target 给出了树立正确财富观的三步方法（体验情感纽带、感受内在成长喜悦、拥有幸福记忆），补充了实现 source 的具体操作路径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n003",
+      "target": "s-dda4af1d1dcd-c005:a014",
+      "kind": "association",
+      "condition": "当考虑实践层面如何让孩子对钱有感觉时",
+      "reason": "source 是认知前提，target 建议给孩子现金并用手摸钱以建立对钱的感觉，属于实践方法，与 source 的认知要求相关但并非同一层面，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a014",
+      "target": "s-dda4af1d1dcd-c005:v2-n003",
+      "kind": "association",
+      "condition": "当考虑实践层面如何让孩子对钱有感觉时",
+      "reason": "source 是认知前提，target 建议给孩子现金并用手摸钱以建立对钱的感觉，属于实践方法，与 source 的认知要求相关但并非同一层面，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n003",
+      "target": "s-dda4af1d1dcd-c001:a001",
+      "kind": "association",
+      "condition": "当讨论正确认知的反面时",
+      "reason": "source 要求建立对钱和财富的正确认知，target 定义了对金钱的误解及传递，二者都在谈论认知问题，但 target 关注误解本身，未直接证明 source 的必要性，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:a001",
+      "target": "s-dda4af1d1dcd-c005:v2-n003",
+      "kind": "association",
+      "condition": "当讨论正确认知的反面时",
+      "reason": "source 要求建立对钱和财富的正确认知，target 定义了对金钱的误解及传递，二者都在谈论认知问题，但 target 关注误解本身，未直接证明 source 的必要性，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n003",
+      "target": "s-dda4af1d1dcd-c005:a003",
+      "kind": "association",
+      "condition": "当幸福记忆作为正确认知的组成部分时",
+      "reason": "source 要求正确财富认知，target 说明幸福记忆对财富追求的影响，是正确认知的一部分，但 source 未涉及具体内容，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a003",
+      "target": "s-dda4af1d1dcd-c005:v2-n003",
+      "kind": "association",
+      "condition": "当幸福记忆作为正确认知的组成部分时",
+      "reason": "source 要求正确财富认知，target 说明幸福记忆对财富追求的影响，是正确认知的一部分，但 source 未涉及具体内容，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n003",
+      "target": "s-dda4af1d1dcd-c005:a018",
+      "kind": "association",
+      "condition": "当正确认知后的实践序列被考虑时",
+      "reason": "source 是谈钱前建立认知的前提，target 给出让孩子体验财宝、挣钱、公益、管理的序列，属于认知后的实践步骤，二者有时间先后但 source 未明确从认知到实践的过渡，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a018",
+      "target": "s-dda4af1d1dcd-c005:v2-n003",
+      "kind": "association",
+      "condition": "当正确认知后的实践序列被考虑时",
+      "reason": "source 是谈钱前建立认知的前提，target 给出让孩子体验财宝、挣钱、公益、管理的序列，属于认知后的实践步骤，二者有时间先后但 source 未明确从认知到实践的过渡，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n003",
+      "target": "s-dda4af1d1dcd-c001:r004",
+      "kind": "association",
+      "condition": "当讨论低级金钱观占据心智的后果时",
+      "reason": "source 强调要先建立正确认知，target 说明低级金钱观占据心智会导致没有空间接受高级东西，从反面支持 source 的必要性，但未直接涉及 source 的财富认知层面，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:r004",
+      "target": "s-dda4af1d1dcd-c005:v2-n003",
+      "kind": "association",
+      "condition": "当讨论低级金钱观占据心智的后果时",
+      "reason": "source 强调要先建立正确认知，target 说明低级金钱观占据心智会导致没有空间接受高级东西，从反面支持 source 的必要性，但未直接涉及 source 的财富认知层面，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n003",
+      "target": "s-dda4af1d1dcd-c004:a013",
+      "kind": "complements",
+      "condition": "当需要说明认知重要性时",
+      "reason": "source 主张先建立正确认知，target 指出认知高低影响执行效果，即便得到同样方法执行效果也不同，补充了认知作为前提的重要性理由。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c004:a013",
+      "target": "s-dda4af1d1dcd-c005:v2-n003",
+      "kind": "complements",
+      "condition": "当需要说明认知重要性时",
+      "reason": "source 主张先建立正确认知，target 指出认知高低影响执行效果，即便得到同样方法执行效果也不同，补充了认知作为前提的重要性理由。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n003",
+      "target": "s-dda4af1d1dcd-c001:v2-n002",
+      "kind": "association",
+      "condition": "当将扩大思维格局作为正确认知的一部分时",
+      "reason": "source 要求建立对钱和财富的正确认知，target 提出扩大孩子思维与格局，属于正确认知的范畴之一，但 source 未明确包含此观点，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c001:v2-n002",
+      "target": "s-dda4af1d1dcd-c005:v2-n003",
+      "kind": "association",
+      "condition": "当将扩大思维格局作为正确认知的一部分时",
+      "reason": "source 要求建立对钱和财富的正确认知，target 提出扩大孩子思维与格局，属于正确认知的范畴之一，但 source 未明确包含此观点，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n004",
+      "target": "s-dda4af1d1dcd-c005:a023",
+      "kind": "complements",
+      "condition": "当需要补充具体示范步骤时",
+      "reason": "源明确增加“家长在孩子旁边吃冰激凌但不分给孩子吃”这一关键示范，而目标仅提及停止提供和告知，故源补充了该实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a023",
+      "target": "s-dda4af1d1dcd-c005:v2-n004",
+      "kind": "complements",
+      "condition": "当需要补充具体示范步骤时",
+      "reason": "源明确增加“家长在孩子旁边吃冰激凌但不分给孩子吃”这一关键示范，而目标仅提及停止提供和告知，故源补充了该实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n004",
+      "target": "s-dda4af1d1dcd-c006:a002",
+      "kind": "complements",
+      "condition": "当需要强调适用条件时",
+      "reason": "源增加条件“孩子年龄小且尚未建立金钱概念”，目标未说明适用条件；同时目标多出“孩子想吃时告知自己花钱买”步骤，但方向为源补目标的条件，故为互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a002",
+      "target": "s-dda4af1d1dcd-c005:v2-n004",
+      "kind": "complements",
+      "condition": "当需要强调适用条件时",
+      "reason": "源增加条件“孩子年龄小且尚未建立金钱概念”，目标未说明适用条件；同时目标多出“孩子想吃时告知自己花钱买”步骤，但方向为源补目标的条件，故为互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n004",
+      "target": "s-dda4af1d1dcd-c006:a013",
+      "kind": "association",
+      "condition": "不同阶段或管理方式",
+      "reason": "两者都涉及零食和冰淇淋管理，但源为启蒙动机而停止提供，目标为长期家庭规则（每周提供一次、额外需自购），主题相关但非同一方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a013",
+      "target": "s-dda4af1d1dcd-c005:v2-n004",
+      "kind": "association",
+      "condition": "不同阶段或管理方式",
+      "reason": "两者都涉及零食和冰淇淋管理，但源为启蒙动机而停止提供，目标为长期家庭规则（每周提供一次、额外需自购），主题相关但非同一方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n004",
+      "target": "s-dda4af1d1dcd-c006:a003",
+      "kind": "association",
+      "condition": "案例与方法的相似性",
+      "reason": "目标案例显示停止提供后孩子产生挣钱意愿并主动除草，与源方法意图一致，但案例未明确使用完全相同步骤，不确定因果，仅作相关案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a003",
+      "target": "s-dda4af1d1dcd-c005:v2-n004",
+      "kind": "association",
+      "condition": "案例与方法的相似性",
+      "reason": "目标案例显示停止提供后孩子产生挣钱意愿并主动除草，与源方法意图一致，但案例未明确使用完全相同步骤，不确定因果，仅作相关案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n004",
+      "target": "s-dda4af1d1dcd-c006:a004",
+      "kind": "association",
+      "condition": "因果解释与应用方法",
+      "reason": "目标解释孩子不愿挣钱是因需求已满足，源通过停止提供制造需求以激发动力，两者互补但非形式化前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a004",
+      "target": "s-dda4af1d1dcd-c005:v2-n004",
+      "kind": "association",
+      "condition": "因果解释与应用方法",
+      "reason": "目标解释孩子不愿挣钱是因需求已满足，源通过停止提供制造需求以激发动力，两者互补但非形式化前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n004",
+      "target": "s-dda4af1d1dcd-c006:a011",
+      "kind": "association",
+      "condition": "原因分析与启蒙方法",
+      "reason": "目标阐述孩子对钱无概念的原因（家长未培养），源提供具体启蒙方法，主题相关但未直接引用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a011",
+      "target": "s-dda4af1d1dcd-c005:v2-n004",
+      "kind": "association",
+      "condition": "原因分析与启蒙方法",
+      "reason": "目标阐述孩子对钱无概念的原因（家长未培养），源提供具体启蒙方法，主题相关但未直接引用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n004",
+      "target": "s-dda4af1d1dcd-c006:v2-n002",
+      "kind": "association",
+      "condition": "挣钱后的心理效应",
+      "reason": "源方法旨在产生挣钱动力，目标描述孩子珍惜自己挣来的钱，属于后续阶段的心理表现，关联但非直接因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n002",
+      "target": "s-dda4af1d1dcd-c005:v2-n004",
+      "kind": "association",
+      "condition": "挣钱后的心理效应",
+      "reason": "源方法旨在产生挣钱动力，目标描述孩子珍惜自己挣来的钱，属于后续阶段的心理表现，关联但非直接因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n004",
+      "target": "s-dda4af1d1dcd-c005:a006",
+      "kind": "association",
+      "condition": "具体方法与更广泛方法",
+      "reason": "源是激发挣钱动力的一种特定方法，目标涵盖做家务等多种挣钱方法，主题相关但源不是目标的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a006",
+      "target": "s-dda4af1d1dcd-c005:v2-n004",
+      "kind": "association",
+      "condition": "具体方法与更广泛方法",
+      "reason": "源是激发挣钱动力的一种特定方法，目标涵盖做家务等多种挣钱方法，主题相关但源不是目标的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n005",
+      "target": "s-dda4af1d1dcd-c003:a009",
+      "kind": "association",
+      "condition": "对给予的正面评价",
+      "reason": "源认为给予者比接受者有福，目标说明有钱人做公益是投资且帮助自己，均肯定给予的价值，但源侧重心态，目标侧重功利，非同一主张。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a009",
+      "target": "s-dda4af1d1dcd-c005:v2-n005",
+      "kind": "association",
+      "condition": "对给予的正面评价",
+      "reason": "源认为给予者比接受者有福，目标说明有钱人做公益是投资且帮助自己，均肯定给予的价值，但源侧重心态，目标侧重功利，非同一主张。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n005",
+      "target": "s-dda4af1d1dcd-c003:a004",
+      "kind": "association",
+      "condition": "人际金钱往来中的给予与计较",
+      "reason": "目标案例中一方长期慷慨给予却因小钱计较导致关系破裂，与源提倡的给予心态形成对照，但未直接讨论给予是否有福，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c003:a004",
+      "target": "s-dda4af1d1dcd-c005:v2-n005",
+      "kind": "association",
+      "condition": "人际金钱往来中的给予与计较",
+      "reason": "目标案例中一方长期慷慨给予却因小钱计较导致关系破裂，与源提倡的给予心态形成对照，但未直接讨论给予是否有福，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n001",
+      "target": "s-dda4af1d1dcd-c005:a022",
+      "kind": "association",
+      "condition": "同一家庭比例的不同表述",
+      "reason": "两者描述同一家庭的分配比例，但数值略有差异（如公益和储蓄范围），源说“现在不太管”，目标说“讲师记不完全准确”，本质为同一实践的不同表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a022",
+      "target": "s-dda4af1d1dcd-c006:v2-n001",
+      "kind": "association",
+      "condition": "同一家庭比例的不同表述",
+      "reason": "两者描述同一家庭的分配比例，但数值略有差异（如公益和储蓄范围），源说“现在不太管”，目标说“讲师记不完全准确”，本质为同一实践的不同表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n001",
+      "target": "s-dda4af1d1dcd-c006:a008",
+      "kind": "association",
+      "condition": "奉献比例的细节",
+      "reason": "源提到奉献10%肯定，目标说明十一奉献比例可调整（如十二分之一），两者讨论奉献比例但角度不同，关联但无冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a008",
+      "target": "s-dda4af1d1dcd-c006:v2-n001",
+      "kind": "association",
+      "condition": "奉献比例的细节",
+      "reason": "源提到奉献10%肯定，目标说明十一奉献比例可调整（如十二分之一），两者讨论奉献比例但角度不同，关联但无冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n001",
+      "target": "s-dda4af1d1dcd-c005:a018",
+      "kind": "association",
+      "condition": "整体教育框架",
+      "reason": "源涉及公益和储蓄比例，目标提出让孩子体验挣钱、公益、管理的整体框架，主题相关但源仅为比例分配，不构成前提或步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a018",
+      "target": "s-dda4af1d1dcd-c006:v2-n001",
+      "kind": "association",
+      "condition": "整体教育框架",
+      "reason": "源涉及公益和储蓄比例，目标提出让孩子体验挣钱、公益、管理的整体框架，主题相关但源仅为比例分配，不构成前提或步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n001",
+      "target": "s-dda4af1d1dcd-c006:v2-n002",
+      "kind": "association",
+      "condition": "储蓄与消费行为",
+      "reason": "源包含孩子自行花掉和储蓄部分，目标描述孩子珍惜挣来的钱、舍不得花，两者在消费行为上有关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n002",
+      "target": "s-dda4af1d1dcd-c006:v2-n001",
+      "kind": "association",
+      "condition": "储蓄与消费行为",
+      "reason": "源包含孩子自行花掉和储蓄部分，目标描述孩子珍惜挣来的钱、舍不得花，两者在消费行为上有关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n001",
+      "target": "s-dda4af1d1dcd-c005:a012",
+      "kind": "association",
+      "condition": "公益部分的意义",
+      "reason": "源包含公益比例，目标解释参与公益活动的意义，主题相关但源未提供公益意义的具体理由。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a012",
+      "target": "s-dda4af1d1dcd-c006:v2-n001",
+      "kind": "association",
+      "condition": "公益部分的意义",
+      "reason": "源包含公益比例，目标解释参与公益活动的意义，主题相关但源未提供公益意义的具体理由。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n002",
+      "target": "s-dda4af1d1dcd-c006:r001",
+      "kind": "complements",
+      "condition": "当需要强调接纳心态时",
+      "reason": "源补充了“家长可以接纳这种舍不得”的实质点，而目标仅给出补贴一半等具体操作，故源补目标。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:r001",
+      "target": "s-dda4af1d1dcd-c006:v2-n002",
+      "kind": "complements",
+      "condition": "当需要强调接纳心态时",
+      "reason": "源补充了“家长可以接纳这种舍不得”的实质点，而目标仅给出补贴一半等具体操作，故源补目标。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n002",
+      "target": "s-dda4af1d1dcd-c006:a001",
+      "kind": "complements",
+      "condition": "当需要强调接纳心态时",
+      "reason": "与 r001 类似，目标提供花钱操作，源增加接纳舍不得的心态，故源补目标。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a001",
+      "target": "s-dda4af1d1dcd-c006:v2-n002",
+      "kind": "complements",
+      "condition": "当需要强调接纳心态时",
+      "reason": "与 r001 类似，目标提供花钱操作，源增加接纳舍不得的心态，故源补目标。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n002",
+      "target": "s-dda4af1d1dcd-c005:r002",
+      "kind": "association",
+      "condition": "相似花钱引导",
+      "reason": "目标为鼓励花钱的简要表述，源包含接纳心态及存长期买大件，方向为源提供更多背景，关联但非互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:r002",
+      "target": "s-dda4af1d1dcd-c006:v2-n002",
+      "kind": "association",
+      "condition": "相似花钱引导",
+      "reason": "目标为鼓励花钱的简要表述，源包含接纳心态及存长期买大件，方向为源提供更多背景，关联但非互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n002",
+      "target": "s-dda4af1d1dcd-c006:a013",
+      "kind": "association",
+      "condition": "不同消费场景",
+      "reason": "源说孩子舍不得花（可能指小额），目标说买大件不手软，两者并存且源也引导存钱买大件，故不冲突，为不同消费场景的关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a013",
+      "target": "s-dda4af1d1dcd-c006:v2-n002",
+      "kind": "association",
+      "condition": "不同消费场景",
+      "reason": "源说孩子舍不得花（可能指小额），目标说买大件不手软，两者并存且源也引导存钱买大件，故不冲突，为不同消费场景的关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n002",
+      "target": "s-dda4af1d1dcd-c005:v2-n004",
+      "kind": "association",
+      "condition": "前置激励方法",
+      "reason": "源描述孩子挣钱后的珍惜行为，目标为激发挣钱动力的启蒙方法，属于时间上的前置环节，关联但不构成直接因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n004",
+      "target": "s-dda4af1d1dcd-c006:v2-n002",
+      "kind": "association",
+      "condition": "前置激励方法",
+      "reason": "源描述孩子挣钱后的珍惜行为，目标为激发挣钱动力的启蒙方法，属于时间上的前置环节，关联但不构成直接因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n002",
+      "target": "s-dda4af1d1dcd-c005:a022",
+      "kind": "association",
+      "condition": "包含舍不得及鼓励花/存",
+      "reason": "目标提到孩子自己挣的钱舍不得花，可鼓励花或存长期，与源内容重叠，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a022",
+      "target": "s-dda4af1d1dcd-c006:v2-n002",
+      "kind": "association",
+      "condition": "包含舍不得及鼓励花/存",
+      "reason": "目标提到孩子自己挣的钱舍不得花，可鼓励花或存长期，与源内容重叠，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n002",
+      "target": "s-dda4af1d1dcd-c005:a023",
+      "kind": "association",
+      "condition": "前置激励方法",
+      "reason": "目标与 v2-n004 类似，为启蒙挣钱方法，与源后续珍惜行为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a023",
+      "target": "s-dda4af1d1dcd-c006:v2-n002",
+      "kind": "association",
+      "condition": "前置激励方法",
+      "reason": "目标与 v2-n004 类似，为启蒙挣钱方法，与源后续珍惜行为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n002",
+      "target": "s-dda4af1d1dcd-c006:a002",
+      "kind": "association",
+      "condition": "前置激励方法",
+      "reason": "目标为四岁半建立金钱概念的方法，与源后续珍惜行为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a002",
+      "target": "s-dda4af1d1dcd-c006:v2-n002",
+      "kind": "association",
+      "condition": "前置激励方法",
+      "reason": "目标为四岁半建立金钱概念的方法，与源后续珍惜行为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n003",
+      "target": "s-dda4af1d1dcd-c006:a007",
+      "kind": "complements",
+      "condition": "当需要具体操作步骤时",
+      "reason": "源补充了诊断性说明（家庭界限没立好）和原则（不能给过多力量），目标提供当面收钱、告知用途等具体步骤，故源补目标。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a007",
+      "target": "s-dda4af1d1dcd-c006:v2-n003",
+      "kind": "complements",
+      "condition": "当需要具体操作步骤时",
+      "reason": "源补充了诊断性说明（家庭界限没立好）和原则（不能给过多力量），目标提供当面收钱、告知用途等具体步骤，故源补目标。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n003",
+      "target": "s-dda4af1d1dcd-c006:a011",
+      "kind": "association",
+      "condition": "金钱概念与自主权",
+      "reason": "两者都涉及孩子对钱的理解问题，但源针对六岁孩子自主权界限，目标解释无金钱概念的原因，主题相关但侧重不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a011",
+      "target": "s-dda4af1d1dcd-c006:v2-n003",
+      "kind": "association",
+      "condition": "金钱概念与自主权",
+      "reason": "两者都涉及孩子对钱的理解问题，但源针对六岁孩子自主权界限，目标解释无金钱概念的原因，主题相关但侧重不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n003",
+      "target": "s-dda4af1d1dcd-c005:v2-n004",
+      "kind": "association",
+      "condition": "不同年龄段的金钱教育",
+      "reason": "源针对六岁孩子，目标针对四岁半尚无金钱概念的孩子，年龄不同，方法也不同，但因同属金钱启蒙主题而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:v2-n004",
+      "target": "s-dda4af1d1dcd-c006:v2-n003",
+      "kind": "association",
+      "condition": "不同年龄段的金钱教育",
+      "reason": "源针对六岁孩子，目标针对四岁半尚无金钱概念的孩子，年龄不同，方法也不同，但因同属金钱启蒙主题而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n003",
+      "target": "s-dda4af1d1dcd-c006:a002",
+      "kind": "association",
+      "condition": "不同年龄段的金钱教育",
+      "reason": "与 v2-n004 类似，目标为四岁半建立金钱概念，源为六岁设立界限，年龄和情境不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:a002",
+      "target": "s-dda4af1d1dcd-c006:v2-n003",
+      "kind": "association",
+      "condition": "不同年龄段的金钱教育",
+      "reason": "与 v2-n004 类似，目标为四岁半建立金钱概念，源为六岁设立界限，年龄和情境不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c006:v2-n003",
+      "target": "s-dda4af1d1dcd-c005:a023",
+      "kind": "association",
+      "condition": "不同年龄段的金钱教育",
+      "reason": "目标同为四岁半方法，与源六岁界限主题相关但非同一场景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dda4af1d1dcd-c005:a023",
+      "target": "s-dda4af1d1dcd-c006:v2-n003",
+      "kind": "association",
+      "condition": "不同年龄段的金钱教育",
+      "reason": "目标同为四岁半方法，与源六岁界限主题相关但非同一场景。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "自我认知",
+      "to": "界限",
+      "when": "当讨论金钱观和财富观时，自我认知中的误解和高级金钱观会影响界限的设立，如金钱界限、情感纽带等。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a001",
+        "s-dda4af1d1dcd-c001:a013",
+        "s-dda4af1d1dcd-c004:a009",
+        "s-dda4af1d1dcd-c006:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "规则与行动",
+      "when": "当将金钱观转化为具体行动时，如让孩子挣钱、管理金钱等。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a006",
+        "s-dda4af1d1dcd-c005:a013",
+        "s-dda4af1d1dcd-c005:a023"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "当界限中的情感纽带和金钱界限需要通过具体规则和行动来实施时。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a009",
+        "s-dda4af1d1dcd-c004:a012",
+        "s-dda4af1d1dcd-c005:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "内在能力",
+      "when": "当讨论内在成长时，自我认知中的内在成长概念与内在能力模块相关。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a014",
+        "s-dda4af1d1dcd-c004:r005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "理解情绪",
+      "when": "当讨论幸福记忆和情感纽带时，涉及情绪体验。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:r006",
+        "s-dda4af1d1dcd-c005:a002",
+        "s-dda4af1d1dcd-c005:a004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "专注力",
+      "when": "当让孩子挣辛苦钱以促进读书专注时。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "自我修养",
+      "when": "当讨论公益活动和奉献时，涉及自我修养。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a012",
+        "s-dda4af1d1dcd-c006:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a010"
+      ],
+      "reason": "内容完全相同，都是关于穷人思维与富人思维对花钱的区别，包括李嘉诚的话。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a017",
+        "s-dda4af1d1dcd-c002:r004"
+      ],
+      "reason": "内容完全相同，都是关于用钱置换友谊，且具体方式未详细说明。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:xe001",
+        "s-dda4af1d1dcd-c001:a015"
+      ],
+      "reason": "内容实质相同，都是讲师购买Max Mara大衣的案例，强调长期使用价值。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:xe004",
+        "s-dda4af1d1dcd-c002:a007"
+      ],
+      "reason": "内容实质相同，都是迪士尼快速通道的公平性讨论。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:xe006",
+        "s-dda4af1d1dcd-c002:a014"
+      ],
+      "reason": "内容实质相同，都是保护心智的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a002",
+        "s-dda4af1d1dcd-c002:a016"
+      ],
+      "reason": "内容实质相同，都是讲师坐头等舱置换时间的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:r001",
+        "s-dda4af1d1dcd-c003:a003"
+      ],
+      "reason": "内容实质相同，都是用钱维护友谊的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:r004",
+        "s-dda4af1d1dcd-c003:a008"
+      ],
+      "reason": "内容实质相同，都是投资他人需以投资眼光看待。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a001",
+        "s-dda4af1d1dcd-c003:a014"
+      ],
+      "reason": "内容实质相同，都是两个女孩租房选择不同结果的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a015",
+        "s-dda4af1d1dcd-c005:a001"
+      ],
+      "reason": "内容实质相同，都是内在成长的定义。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:r001",
+        "s-dda4af1d1dcd-c004:a002"
+      ],
+      "reason": "内容实质相同，都是富与贵的区别。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:r004",
+        "s-dda4af1d1dcd-c004:a009"
+      ],
+      "reason": "内容实质相同，都是情感纽带缺失导致金钱至上。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:r005",
+        "s-dda4af1d1dcd-c004:a014"
+      ],
+      "reason": "内容实质相同，都是内在成长的作用。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a002",
+        "s-dda4af1d1dcd-c004:r006"
+      ],
+      "reason": "内容实质相同，都是幸福记忆的作用机制。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a003",
+        "s-dda4af1d1dcd-c004:r006"
+      ],
+      "reason": "内容实质相同，都是幸福记忆对财富追求的影响。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a005",
+        "s-dda4af1d1dcd-c004:a007"
+      ],
+      "reason": "内容实质相同，都是财富与金钱的区别。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a001",
+        "s-dda4af1d1dcd-c005:r002"
+      ],
+      "reason": "内容实质相同，都是鼓励孩子花钱的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a002",
+        "s-dda4af1d1dcd-c005:a023"
+      ],
+      "reason": "内容实质相同，都是引导四岁半孩子建立金钱概念的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a003",
+        "s-dda4af1d1dcd-c005:a023"
+      ],
+      "reason": "内容实质相同，都是孩子主动为邻居除草挣钱的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a004",
+        "s-dda4af1d1dcd-c006:a011"
+      ],
+      "reason": "内容实质相同，都是孩子不愿挣钱的原因。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a005"
+      ],
+      "reason": "内容实质相同，都是引导孩子投资失败后的正面总结。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a006"
+      ],
+      "reason": "内容实质相同，都是家务给钱与不给钱的区分。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a007"
+      ],
+      "reason": "内容实质相同，都是处理爷爷奶奶当面给孩子大笔钱的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a008"
+      ],
+      "reason": "内容实质相同，都是十一奉献的比例。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a009"
+      ],
+      "reason": "内容实质相同，都是与负债丈夫讲清金钱界限的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a010"
+      ],
+      "reason": "内容实质相同，都是节俭与浪费的区分。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a011"
+      ],
+      "reason": "内容实质相同，都是孩子对钱没有概念的原因。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a012"
+      ],
+      "reason": "内容实质相同，都是富商儿子挣钱后珍惜硬币的故事。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a013"
+      ],
+      "reason": "内容实质相同，都是家里零食的管理方法。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a014"
+      ],
+      "reason": "内容实质相同，都是教孩子慈善公益的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a015"
+      ],
+      "reason": "内容实质相同，都是孩子在学校慈善活动中卖妈妈的书案例。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a016"
+      ],
+      "reason": "内容实质相同，都是需要与想要的区分。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a017"
+      ],
+      "reason": "内容实质相同，都是让孩子讨价还价的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a018"
+      ],
+      "reason": "内容实质相同，都是孩子请朋友喝水后提醒对方回请的处理。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a019"
+      ],
+      "reason": "内容实质相同，都是作业一的内容。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a020"
+      ],
+      "reason": "内容实质相同，都是作业二的内容。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a004",
+        "s-dda4af1d1dcd-c001:a009"
+      ],
+      "description": "k00004 认为挣钱不容易是误解，k00009 认为要省着点花是误解，但两者都源于挣钱不容易的观念，可能产生矛盾：如果挣钱不容易，是否应该省着点花？",
+      "needed_evidence": "需要明确挣钱容易与花钱态度之间的关系，以及不同情境下的适用性。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a009",
+        "s-dda4af1d1dcd-c001:a010"
+      ],
+      "description": "k00009 认为省着点花是误解，k00010 中穷人思维认为没钱要省着花，富人思维认为没钱更要花钱请别人吃饭，两者存在矛盾。",
+      "needed_evidence": "需要明确在没钱的情况下，是应该省钱还是花钱，以及不同思维模式的适用条件。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a012",
+        "s-dda4af1d1dcd-c001:a013"
+      ],
+      "description": "k00012 认为有钱就能过好日子是误解，k00013 提出高级金钱观，但未明确高级金钱观是否适用于所有人，以及如何平衡物质与精神需求。",
+      "needed_evidence": "需要更多证据说明高级金钱观在不同人群中的适用性。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a014",
+        "s-dda4af1d1dcd-c002:a001"
+      ],
+      "description": "k00014 认为节俭与浪费不能仅以价格判断，k00021 定义节俭为购买经久耐用、长期保持品质的物品，即使价格昂贵，但未明确便宜但耐用的物品是否节俭。",
+      "needed_evidence": "需要明确节俭与浪费的判断标准是否完全排除价格因素。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a003",
+        "s-dda4af1d1dcd-c002:a005"
+      ],
+      "description": "k00023 认为对金钱有欲望不等同于贪婪，k00025 认为没有金钱欲望的人可能更贪婪，但未明确欲望与贪婪的界限。",
+      "needed_evidence": "需要更清晰的界定欲望与贪婪的区别。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a008",
+        "s-dda4af1d1dcd-c002:r001"
+      ],
+      "description": "k00028 认为钱不是用来花的，而是用来置换的，k00038 认为花出去的钱叫打水漂，但未明确如何区分消费与置换。",
+      "needed_evidence": "需要明确消费与置换的界限。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a007",
+        "s-dda4af1d1dcd-c005:a020"
+      ],
+      "description": "k00056 认为所有花在自己身上的钱，除了学习以外，都叫消费；k00109 认为提升自己形象的花钱是消费，不是投资，但未明确学习是否包括形象提升。",
+      "needed_evidence": "需要明确学习与形象提升的界限。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a009",
+        "s-dda4af1d1dcd-c004:r004"
+      ],
+      "description": "k00077 认为情感纽带缺失会导致金钱至上，k00087 重复此观点，但未明确情感纽带缺失是否必然导致金钱至上。",
+      "needed_evidence": "需要更多证据说明情感纽带缺失与金钱至上的因果关系。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a014",
+        "s-dda4af1d1dcd-c004:r005"
+      ],
+      "description": "k00082 认为内在成长是从外在成就退回到内在，k00088 认为只有从外在成长退回到内在成长后才能保持清醒，但未明确内在成长是否排斥外在成就。",
+      "needed_evidence": "需要明确内在成长与外在成就的关系。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a006",
+        "s-dda4af1d1dcd-c006:a006"
+      ],
+      "description": "k00095 认为做家务挣钱分为份内家务和额外家务，份内家务没有钱，额外家务才有钱；k00120 认为摆放全家餐具、擦餐桌等属于家庭成员共同分担的家务，不应该给钱，而倒垃圾等原本属于家长责任、孩子帮忙承担的家务，可以给孩子钱。但 k00096 将倒垃圾列为份内家务，存在矛盾。",
+      "needed_evidence": "需要明确倒垃圾是否属于份内家务，以及份内家务与额外家务的界限。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a013",
+        "s-dda4af1d1dcd-c005:a022"
+      ],
+      "description": "k00102 提出管理金钱的三分法：储蓄、支出、慈善，但未明确比例；k00111 给出讲师家的比例：奉献10%，公益20%，储蓄30-40%，支出20-30%，但未明确是否适用于所有家庭。",
+      "needed_evidence": "需要明确三分法的比例是否固定，以及如何根据家庭情况调整。"
+    },
+    {
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a023",
+        "s-dda4af1d1dcd-c006:a013"
+      ],
+      "description": "k00112 建议停止提供零食和冰淇淋，让孩子自己挣钱买；k00127 认为家里可以有一些健康零食和水果，每周有一次冰激凌时间，但如果孩子想要更多，就需要自己挣钱买或者控制欲望。两者在零食管理上存在矛盾。",
+      "needed_evidence": "需要明确是否完全停止提供零食，还是允许一定量的健康零食。"
+    }
+  ],
+  "path": [
+    {
+      "name": "树立正确财富观的方法",
+      "steps": [
+        {
+          "action": "让孩子体验情感纽带",
+          "atom_ids": [
+            "s-dda4af1d1dcd-c004:a009",
+            "s-dda4af1d1dcd-c004:a011",
+            "s-dda4af1d1dcd-c004:a012"
+          ],
+          "condition": null
+        },
+        {
+          "action": "让孩子感受内在成长的喜悦",
+          "atom_ids": [
+            "s-dda4af1d1dcd-c004:a014",
+            "s-dda4af1d1dcd-c004:r005"
+          ],
+          "condition": null
+        },
+        {
+          "action": "让孩子拥有幸福的记忆",
+          "atom_ids": [
+            "s-dda4af1d1dcd-c004:r006",
+            "s-dda4af1d1dcd-c005:a002"
+          ],
+          "condition": null
+        }
+      ]
+    },
+    {
+      "name": "让孩子挣钱的方法",
+      "steps": [
+        {
+          "action": "通过做家务挣钱",
+          "atom_ids": [
+            "s-dda4af1d1dcd-c005:a006",
+            "s-dda4af1d1dcd-c005:a007",
+            "s-dda4af1d1dcd-c005:a008",
+            "s-dda4af1d1dcd-c005:a009"
+          ],
+          "condition": null
+        },
+        {
+          "action": "对外挣钱",
+          "atom_ids": [
+            "s-dda4af1d1dcd-c005:a006"
+          ],
+          "condition": null
+        }
+      ]
+    },
+    {
+      "name": "管理金钱的三分法",
+      "steps": [
+        {
+          "action": "将孩子挣的钱分成三份：储蓄、支出、慈善",
+          "atom_ids": [
+            "s-dda4af1d1dcd-c005:a013"
+          ],
+          "condition": null
+        },
+        {
+          "action": "储蓄分成短期储蓄和长期储蓄，各占50%",
+          "atom_ids": [
+            "s-dda4af1d1dcd-c005:a015"
+          ],
+          "condition": null
+        },
+        {
+          "action": "记录每一笔支出",
+          "atom_ids": [
+            "s-dda4af1d1dcd-c005:a016"
+          ],
+          "condition": null
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "e35cfa2c68ec8b747b7fa084540e76c03b4ed9a1f3210cb3b8c5db3378a563bd",
+  "point_units": [
+    {
+      "id": "s-dda4af1d1dcd-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a001"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a002",
+        "s-dda4af1d1dcd-c001:a003"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a004",
+        "s-dda4af1d1dcd-c001:a005",
+        "s-dda4af1d1dcd-c001:r001"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c001:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a006"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a007",
+        "s-dda4af1d1dcd-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c001:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a008"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c001:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a009",
+        "s-dda4af1d1dcd-c001:a010"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028",
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c001:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a011"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a012",
+        "s-dda4af1d1dcd-c001:a013",
+        "s-dda4af1d1dcd-c001:r003",
+        "s-dda4af1d1dcd-c001:r004"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a014",
+        "s-dda4af1d1dcd-c001:r005"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c001:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a015"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u001",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:a015"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a001",
+        "s-dda4af1d1dcd-c002:a002"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u003",
+      "kind": "advice",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:xe002"
+      ],
+      "blocks": [
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a003",
+        "s-dda4af1d1dcd-c002:a004",
+        "s-dda4af1d1dcd-c002:a005"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050",
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u005",
+      "kind": "advice",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:xe003"
+      ],
+      "blocks": [
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a006"
+      ],
+      "blocks": [
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a007"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056",
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a005"
+      ],
+      "blocks": [
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u010",
+      "kind": "advice",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:xe005"
+      ],
+      "blocks": [
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a008",
+        "s-dda4af1d1dcd-c002:a009",
+        "s-dda4af1d1dcd-c002:r001",
+        "s-dda4af1d1dcd-c002:r002",
+        "s-dda4af1d1dcd-c002:r003"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00063",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a010"
+      ],
+      "blocks": [
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u013",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a011"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a012"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a013"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074",
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a014"
+      ],
+      "blocks": [
+        "b00070",
+        "b00077",
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:xe007",
+        "s-dda4af1d1dcd-c002:xe008"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a015"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a016"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c002:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a010",
+        "s-dda4af1d1dcd-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u1",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a001"
+      ],
+      "blocks": [
+        "b00084",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u2",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a002"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u3",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:a017",
+        "s-dda4af1d1dcd-c003:a003"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u4",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a004"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089",
+        "b00090",
+        "b00091",
+        "b00092",
+        "b00093",
+        "b00094",
+        "b00095",
+        "b00096",
+        "b00097",
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u5",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:r001"
+      ],
+      "blocks": [
+        "b00096",
+        "b00097",
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u6",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a005"
+      ],
+      "blocks": [
+        "b00099",
+        "b00100",
+        "b00101",
+        "b00102",
+        "b00107"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u7",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a006"
+      ],
+      "blocks": [
+        "b00102",
+        "b00103",
+        "b00104",
+        "b00105",
+        "b00106",
+        "b00107",
+        "b00108",
+        "b00109",
+        "b00110",
+        "b00111",
+        "b00112",
+        "b00113"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u8",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:r002"
+      ],
+      "blocks": [
+        "b00107",
+        "b00108"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u9",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:r003"
+      ],
+      "blocks": [
+        "b00112",
+        "b00113"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u10",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a007"
+      ],
+      "blocks": [
+        "b00114",
+        "b00115",
+        "b00116",
+        "b00119"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u11",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a008",
+        "s-dda4af1d1dcd-c003:r004"
+      ],
+      "blocks": [
+        "b00116",
+        "b00117",
+        "b00118"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u12",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a009"
+      ],
+      "blocks": [
+        "b00119",
+        "b00120"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u13",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00121"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u14",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a010"
+      ],
+      "blocks": [
+        "b00121",
+        "b00122"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u15",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a011"
+      ],
+      "blocks": [
+        "b00122",
+        "b00123"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u16",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a012"
+      ],
+      "blocks": [
+        "b00123",
+        "b00124"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u17",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a013",
+        "s-dda4af1d1dcd-c003:r005"
+      ],
+      "blocks": [
+        "b00124",
+        "b00125"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c003:u18",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:a014"
+      ],
+      "blocks": [
+        "b00125",
+        "b00126",
+        "b00127",
+        "b00128",
+        "b00129",
+        "b00130"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u001",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a001"
+      ],
+      "blocks": [
+        "b00127",
+        "b00128",
+        "b00129",
+        "b00130",
+        "b00131"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a001",
+        "s-dda4af1d1dcd-c004:v2-n001"
+      ],
+      "blocks": [
+        "b00127",
+        "b00128",
+        "b00129",
+        "b00130",
+        "b00131"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u003",
+      "kind": "concept/definition",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a002",
+        "s-dda4af1d1dcd-c004:r001"
+      ],
+      "blocks": [
+        "b00132",
+        "b00133"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u004",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a003"
+      ],
+      "blocks": [
+        "b00134",
+        "b00135",
+        "b00150",
+        "b00151"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a004"
+      ],
+      "blocks": [
+        "b00135",
+        "b00136",
+        "b00137",
+        "b00138",
+        "b00139",
+        "b00140",
+        "b00141"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a005"
+      ],
+      "blocks": [
+        "b00142",
+        "b00143",
+        "b00144",
+        "b00145",
+        "b00146",
+        "b00147"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u007",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a006"
+      ],
+      "blocks": [
+        "b00148",
+        "b00149",
+        "b00150"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u008",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:r002"
+      ],
+      "blocks": [
+        "b00151",
+        "b00152"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u009",
+      "kind": "concept/definition",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a007"
+      ],
+      "blocks": [
+        "b00153",
+        "b00154"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u010",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a008"
+      ],
+      "blocks": [
+        "b00150",
+        "b00154",
+        "b00155"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u011",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:r003"
+      ],
+      "blocks": [
+        "b00156",
+        "b00167",
+        "b00172"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u012",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a009",
+        "s-dda4af1d1dcd-c004:r004"
+      ],
+      "blocks": [
+        "b00156",
+        "b00157"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a010"
+      ],
+      "blocks": [
+        "b00157",
+        "b00158",
+        "b00159",
+        "b00160"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u014",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a011"
+      ],
+      "blocks": [
+        "b00160",
+        "b00161",
+        "b00162",
+        "b00163",
+        "b00164"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u015",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a012"
+      ],
+      "blocks": [
+        "b00164",
+        "b00165"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u016",
+      "kind": "concept/distinction",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a013"
+      ],
+      "blocks": [
+        "b00166"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u017",
+      "kind": "concept/definition",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a014",
+        "s-dda4af1d1dcd-c004:r005"
+      ],
+      "blocks": [
+        "b00167",
+        "b00168",
+        "b00169"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u018",
+      "kind": "concept/example",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:a015"
+      ],
+      "blocks": [
+        "b00170",
+        "b00171"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u019",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:v2-n002"
+      ],
+      "blocks": [
+        "b00172"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c004:u020",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:v2-n003"
+      ],
+      "blocks": [
+        "b00173"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u001",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:r006",
+        "s-dda4af1d1dcd-c005:a002"
+      ],
+      "blocks": [
+        "b00172"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u002",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a003"
+      ],
+      "blocks": [
+        "b00172"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u003",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:r003"
+      ],
+      "blocks": [
+        "b00172"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a004"
+      ],
+      "blocks": [
+        "b00173",
+        "b00174",
+        "b00175",
+        "b00176",
+        "b00177",
+        "b00178"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u005",
+      "kind": "concept/definition",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a005"
+      ],
+      "blocks": [
+        "b00179"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u006",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a006"
+      ],
+      "blocks": [
+        "b00180"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u007",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a007"
+      ],
+      "blocks": [
+        "b00181",
+        "b00182"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u008",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a008"
+      ],
+      "blocks": [
+        "b00182",
+        "b00183",
+        "b00184",
+        "b00185",
+        "b00186",
+        "b00187",
+        "b00188",
+        "b00189",
+        "b00190"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u009",
+      "kind": "concept/condition",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a009"
+      ],
+      "blocks": [
+        "b00184"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u010",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a010"
+      ],
+      "blocks": [
+        "b00186"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u011",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:r001"
+      ],
+      "blocks": [
+        "b00186"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a011"
+      ],
+      "blocks": [
+        "b00187",
+        "b00188"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u013",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a012"
+      ],
+      "blocks": [
+        "b00190",
+        "b00191"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u014",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:v2-n005"
+      ],
+      "blocks": [
+        "b00190"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u015",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a013"
+      ],
+      "blocks": [
+        "b00192"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u016",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a014"
+      ],
+      "blocks": [
+        "b00193",
+        "b00194"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u017",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a013",
+        "s-dda4af1d1dcd-c005:a015"
+      ],
+      "blocks": [
+        "b00194",
+        "b00195",
+        "b00196"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u018",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a016"
+      ],
+      "blocks": [
+        "b00196",
+        "b00197"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a017"
+      ],
+      "blocks": [
+        "b00197",
+        "b00198",
+        "b00199",
+        "b00200",
+        "b00201"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u020",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a018"
+      ],
+      "blocks": [
+        "b00201",
+        "b00202"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u021",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:v2-n003"
+      ],
+      "blocks": [
+        "b00202"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u022",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a019"
+      ],
+      "blocks": [
+        "b00203",
+        "b00204"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u023",
+      "kind": "concept/distinction",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a020"
+      ],
+      "blocks": [
+        "b00205",
+        "b00206",
+        "b00207"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u024",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a021"
+      ],
+      "blocks": [
+        "b00208",
+        "b00209",
+        "b00210"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u025",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a022"
+      ],
+      "blocks": [
+        "b00210",
+        "b00211",
+        "b00212",
+        "b00213"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u026",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:r002"
+      ],
+      "blocks": [
+        "b00213",
+        "b00214"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u027",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:v2-n004"
+      ],
+      "blocks": [
+        "b00214",
+        "b00215"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u028",
+      "kind": "concept/mechanism",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:v2-n001"
+      ],
+      "blocks": [
+        "b00156"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u029",
+      "kind": "concept/method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:r003"
+      ],
+      "blocks": [
+        "b00167"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c005:u030",
+      "kind": "concept/distinction",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a001",
+        "s-dda4af1d1dcd-c005:v2-n002"
+      ],
+      "blocks": [
+        "b00170",
+        "b00171"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:v2-n001"
+      ],
+      "blocks": [
+        "b00212"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:r002",
+        "s-dda4af1d1dcd-c006:a001",
+        "s-dda4af1d1dcd-c006:r001",
+        "s-dda4af1d1dcd-c006:v2-n002"
+      ],
+      "blocks": [
+        "b00213",
+        "b00214"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u003",
+      "kind": "method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:a023",
+        "s-dda4af1d1dcd-c006:a002"
+      ],
+      "blocks": [
+        "b00214",
+        "b00215"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a003"
+      ],
+      "blocks": [
+        "b00216",
+        "b00217"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a004"
+      ],
+      "blocks": [
+        "b00217",
+        "b00218"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a005"
+      ],
+      "blocks": [
+        "b00218",
+        "b00219",
+        "b00220",
+        "b00221",
+        "b00222"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a006"
+      ],
+      "blocks": [
+        "b00222",
+        "b00223",
+        "b00224",
+        "b00225"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a007",
+        "s-dda4af1d1dcd-c006:v2-n003"
+      ],
+      "blocks": [
+        "b00225",
+        "b00226",
+        "b00227",
+        "b00228"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a008"
+      ],
+      "blocks": [
+        "b00229"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a009"
+      ],
+      "blocks": [
+        "b00229",
+        "b00230"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u011",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a010"
+      ],
+      "blocks": [
+        "b00230",
+        "b00231",
+        "b00232",
+        "b00233"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a011",
+        "s-dda4af1d1dcd-c006:a012"
+      ],
+      "blocks": [
+        "b00233",
+        "b00234",
+        "b00235",
+        "b00236"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a013"
+      ],
+      "blocks": [
+        "b00237",
+        "b00238"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a014"
+      ],
+      "blocks": [
+        "b00238",
+        "b00239",
+        "b00240",
+        "b00241",
+        "b00242"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a015"
+      ],
+      "blocks": [
+        "b00240",
+        "b00241"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u016",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a016"
+      ],
+      "blocks": [
+        "b00242",
+        "b00243",
+        "b00244"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a017"
+      ],
+      "blocks": [
+        "b00245"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a018"
+      ],
+      "blocks": [
+        "b00246",
+        "b00247"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u019",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a019"
+      ],
+      "blocks": [
+        "b00248",
+        "b00249",
+        "b00250"
+      ]
+    },
+    {
+      "id": "s-dda4af1d1dcd-c006:u020",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:a020"
+      ],
+      "blocks": [
+        "b00250"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "记者采访放弃事业案例",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00024",
+            "b00025",
+            "b00026"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "扩大孩子思维与格局",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00022",
+            "b00024"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "用钱置换友谊的观点",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00087"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "definition"
+    },
+    {
+      "title": "某学员未买快速通道的案例",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00059"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "用钱时考虑其他成本",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00121"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "案例：两个租房女孩的不同发展",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00127",
+            "b00128",
+            "b00129",
+            "b00130",
+            "b00131"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "幸福记忆的作用",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00172"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "案例：讲师帮助初中孩子（片段）",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c004:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00173"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "情感纽带让人渴望亲密关系",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00156"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "外在成长与内在成长的区别",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00170",
+            "b00171"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "谈钱前先建立对钱和财富的正确认知",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00202"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "对幼儿进行金钱概念启蒙的方法",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00214",
+            "b00215"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "施比受更为有福",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c005:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00190"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "孩子收到钱的分配比例",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00212"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "孩子珍惜自己挣来的钱",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00213"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "六岁孩子没有金钱自主权，父母不应给过多力量",
+      "atom_ids": [
+        "s-dda4af1d1dcd-c006:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dda4af1d1dcd",
+          "blocks": [
+            "b00226"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    }
+  ]
+}

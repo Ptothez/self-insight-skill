@@ -1,0 +1,549 @@
+{
+  "concepts": [
+    {
+      "name": "安抚情绪",
+      "definition": "父母替孩子说出孩子不知道怎么表达的情感，而非让孩子停止负面情绪或立刻高兴起来。",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a001",
+        "s-3ce9ea0844b5-c001:a005",
+        "s-3ce9ea0844b5-c001:a010"
+      ]
+    },
+    {
+      "name": "情绪连接",
+      "definition": "通过说出深层情感和原因，让孩子感到被理解和接纳，从而获得情绪发泄时的安全感。",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a001",
+        "s-3ce9ea0844b5-c001:a002",
+        "s-3ce9ea0844b5-c001:a004",
+        "s-3ce9ea0844b5-c001:a010",
+        "s-3ce9ea0844b5-c001:a011",
+        "s-3ce9ea0844b5-c001:a012"
+      ]
+    },
+    {
+      "name": "深层情感和原因",
+      "definition": "在指认情绪后，说出孩子更深一层的情感和其背后的原因，例如对没吃到冰激凌的孩子说“是不是不明白为什么前面两个冰激凌都给你吃了，妈妈却不肯给你第三个呢？”",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a005",
+        "s-3ce9ea0844b5-c001:a006",
+        "s-3ce9ea0844b5-c001:a007",
+        "s-3ce9ea0844b5-c001:a009"
+      ]
+    },
+    {
+      "name": "幼儿自我中心",
+      "definition": "孩子在会在地上打滚的年龄都是以自我为中心的，不能理解为什么其他孩子有的东西而他却没有，这对他们来说是天大的委屈。",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a008"
+      ]
+    },
+    {
+      "name": "说教",
+      "definition": "在了解孩子负面情绪背后的原因后，开始和孩子说道理，忽略了情绪连接，失去了和孩子情绪连接的机会。",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a011"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-3ce9ea0844b5-c001:a001",
+      "target": "s-3ce9ea0844b5-c001:a005",
+      "kind": "step_of",
+      "condition": "安抚情绪需要先指认情绪，再说出深层情感和原因",
+      "reason": "a001定义安抚情绪为替孩子说出情感，a005给出具体方法：指认情绪后说出深层情感和原因"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a005",
+      "target": "s-3ce9ea0844b5-c001:a006",
+      "kind": "example_of",
+      "condition": "冰激凌案例",
+      "reason": "a005提出方法，a006是该方法在冰激凌场景的具体应用"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a005",
+      "target": "s-3ce9ea0844b5-c001:a007",
+      "kind": "example_of",
+      "condition": "打滚案例",
+      "reason": "a005提出方法，a007是该方法在打滚场景的具体应用"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a005",
+      "target": "s-3ce9ea0844b5-c001:a009",
+      "kind": "example_of",
+      "condition": "车祸案例",
+      "reason": "a005提出方法，a009是该方法在车祸场景的具体应用"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a008",
+      "target": "s-3ce9ea0844b5-c001:a007",
+      "kind": "supports",
+      "condition": "幼儿自我中心导致委屈",
+      "reason": "a008解释幼儿自我中心特点，a007中安抚打滚孩子时提到“你很委屈，为什么小朋友有这个玩具而你却没有”，正是基于该特点"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a010",
+      "target": "s-3ce9ea0844b5-c001:a002",
+      "kind": "supports",
+      "condition": "安抚情绪暂时加剧情绪但带来安全感",
+      "reason": "a010说明安抚情绪会让孩子情绪更激烈但获得安全感，a002描述安抚做得好孩子会哭得更伤心但灵魂被安抚，两者一致"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a011",
+      "target": "s-3ce9ea0844b5-c001:a012",
+      "kind": "supports",
+      "condition": "错过情绪连接导致长期后果",
+      "reason": "“安抚情绪后说教的反例”指出错过连接情绪步骤会失去连接机会，“错过情绪连接的长期后果”说明一次次错过积累后孩子不愿向父母敞开心扉；前者所描述的行为会导向后者的后果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a003",
+      "target": "s-3ce9ea0844b5-c001:a004",
+      "kind": "contrasts",
+      "condition": "朋友劝解方式对比",
+      "reason": "a003朋友劝解不要难过，a004朋友说出心底感受，两种方式效果不同"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a004",
+      "target": "s-3ce9ea0844b5-c001:a001",
+      "kind": "example_of",
+      "condition": "成人场景类比",
+      "reason": "a004用成人朋友场景类比安抚情绪，a001定义安抚情绪为替孩子说出情感"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:v2-n001",
+      "target": "s-3ce9ea0844b5-c001:a002",
+      "kind": "complements",
+      "condition": "在情绪连接过程中安抚情绪环节",
+      "reason": "source 将安抚情绪列为三个步骤之一；target 说明了安抚情绪做得好的具体效果，补充了该步骤的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a002",
+      "target": "s-3ce9ea0844b5-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在情绪连接过程中安抚情绪环节",
+      "reason": "source 将安抚情绪列为三个步骤之一；target 说明了安抚情绪做得好的具体效果，补充了该步骤的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:v2-n001",
+      "target": "s-3ce9ea0844b5-c001:a011",
+      "kind": "complements",
+      "condition": "在三个步骤的完整实施中",
+      "reason": "source 明确三个步骤；target 指出忽略第三步的具体反例，补充了执行中的常见误区。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a011",
+      "target": "s-3ce9ea0844b5-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在三个步骤的完整实施中",
+      "reason": "source 明确三个步骤；target 指出忽略第三步的具体反例，补充了执行中的常见误区。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:v2-n001",
+      "target": "s-3ce9ea0844b5-c001:a001",
+      "kind": "complements",
+      "condition": "在情绪连接中安抚情绪环节",
+      "reason": "source 将安抚情绪列为第二步；target 具体定义了安抚情绪的内涵，补充了该步骤的关键做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a001",
+      "target": "s-3ce9ea0844b5-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在情绪连接中安抚情绪环节",
+      "reason": "source 将安抚情绪列为第二步；target 具体定义了安抚情绪的内涵，补充了该步骤的关键做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:v2-n001",
+      "target": "s-3ce9ea0844b5-c001:v2-n002",
+      "kind": "complements",
+      "condition": "在情绪连接中指认情绪环节",
+      "reason": "source 将指认情绪列为第一步；target 补充了该步骤的具体做法（提问方式），二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:v2-n002",
+      "target": "s-3ce9ea0844b5-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在情绪连接中指认情绪环节",
+      "reason": "source 将指认情绪列为第一步；target 补充了该步骤的具体做法（提问方式），二者互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:v2-n001",
+      "target": "s-3ce9ea0844b5-c001:a010",
+      "kind": "complements",
+      "condition": "在安抚情绪的效果上",
+      "reason": "source 列出安抚情绪步骤；target 具体说明安抚情绪暂时加剧情绪但带来安全感，补充了该步骤的后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a010",
+      "target": "s-3ce9ea0844b5-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在安抚情绪的效果上",
+      "reason": "source 列出安抚情绪步骤；target 具体说明安抚情绪暂时加剧情绪但带来安全感，补充了该步骤的后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:v2-n001",
+      "target": "s-3ce9ea0844b5-c001:a012",
+      "kind": "complements",
+      "condition": "在错过情绪连接的后果上",
+      "reason": "source 强调情绪连接需要完整步骤；target 指出错过情绪连接的长期后果，补充了执行不完整的影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a012",
+      "target": "s-3ce9ea0844b5-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在错过情绪连接的后果上",
+      "reason": "source 强调情绪连接需要完整步骤；target 指出错过情绪连接的长期后果，补充了执行不完整的影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:v2-n001",
+      "target": "s-3ce9ea0844b5-c001:a005",
+      "kind": "complements",
+      "condition": "在安抚情绪的具体方法上",
+      "reason": "source 将安抚情绪列为步骤；target 提供了安抚情绪的具体方法（说出深层情感和原因），补充了操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a005",
+      "target": "s-3ce9ea0844b5-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在安抚情绪的具体方法上",
+      "reason": "source 将安抚情绪列为步骤；target 提供了安抚情绪的具体方法（说出深层情感和原因），补充了操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:v2-n002",
+      "target": "s-3ce9ea0844b5-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在情绪连接的总步骤中",
+      "reason": "source 提供了第一步（指认情绪）的具体方法；target 列出三个步骤，二者互补，source 补充了第一步的操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:v2-n001",
+      "target": "s-3ce9ea0844b5-c001:v2-n002",
+      "kind": "complements",
+      "condition": "在情绪连接的总步骤中",
+      "reason": "source 提供了第一步（指认情绪）的具体方法；target 列出三个步骤，二者互补，source 补充了第一步的操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:v2-n002",
+      "target": "s-3ce9ea0844b5-c001:a001",
+      "kind": "association",
+      "condition": "在不同步骤（安抚情绪）上",
+      "reason": "source 关注指认情绪；target 定义安抚情绪，二者同属情绪连接但为不同步骤，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a001",
+      "target": "s-3ce9ea0844b5-c001:v2-n002",
+      "kind": "association",
+      "condition": "在不同步骤（安抚情绪）上",
+      "reason": "source 关注指认情绪；target 定义安抚情绪，二者同属情绪连接但为不同步骤，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:v2-n002",
+      "target": "s-3ce9ea0844b5-c001:a005",
+      "kind": "association",
+      "condition": "在指认情绪与安抚情绪的关系上",
+      "reason": "source 提供指认情绪的方法；target 涉及安抚情绪的方法，二者顺序相接但内容不同，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a005",
+      "target": "s-3ce9ea0844b5-c001:v2-n002",
+      "kind": "association",
+      "condition": "在指认情绪与安抚情绪的关系上",
+      "reason": "source 提供指认情绪的方法；target 涉及安抚情绪的方法，二者顺序相接但内容不同，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:v2-n002",
+      "target": "s-3ce9ea0844b5-c001:a002",
+      "kind": "association",
+      "condition": "在安抚情绪的效果上",
+      "reason": "source 不涉及安抚情绪的效果；target 说明安抚情绪的效果，二者同属情绪连接但关注点不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a002",
+      "target": "s-3ce9ea0844b5-c001:v2-n002",
+      "kind": "association",
+      "condition": "在安抚情绪的效果上",
+      "reason": "source 不涉及安抚情绪的效果；target 说明安抚情绪的效果，二者同属情绪连接但关注点不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:v2-n002",
+      "target": "s-3ce9ea0844b5-c001:a011",
+      "kind": "association",
+      "condition": "在情绪连接步骤的常见错误上",
+      "reason": "source 提供正确的第一步方法；target 指出忽略第三步的反例，二者同属完整步骤的讨论，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3ce9ea0844b5-c001:a011",
+      "target": "s-3ce9ea0844b5-c001:v2-n002",
+      "kind": "association",
+      "condition": "在情绪连接步骤的常见错误上",
+      "reason": "source 提供正确的第一步方法；target 指出忽略第三步的反例，二者同属完整步骤的讨论，故为关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "理解情绪",
+      "when": "安抚情绪时，需要理解孩子的深层情感和原因",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a001",
+        "s-3ce9ea0844b5-c001:a005",
+        "s-3ce9ea0844b5-c001:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "scope": "within_module",
+      "source_limits": []
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a005",
+        "s-3ce9ea0844b5-c001:a006"
+      ],
+      "reason": "a005提出方法并举例冰激凌，a006重复冰激凌案例，内容实质等价"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "安抚情绪的方法",
+      "steps": [
+        {
+          "action": "指认孩子的情绪",
+          "atom_ids": [
+            "s-3ce9ea0844b5-c001:a005"
+          ],
+          "condition": "孩子有情绪时"
+        },
+        {
+          "action": "说出孩子更深一层的情感和其背后的原因",
+          "atom_ids": [
+            "s-3ce9ea0844b5-c001:a005",
+            "s-3ce9ea0844b5-c001:a006",
+            "s-3ce9ea0844b5-c001:a007",
+            "s-3ce9ea0844b5-c001:a009"
+          ],
+          "condition": "在指认情绪之后"
+        },
+        {
+          "action": "允许孩子情绪暂时加剧，获得安全感",
+          "atom_ids": [
+            "s-3ce9ea0844b5-c001:a010"
+          ],
+          "condition": "说出深层情感后，孩子可能大哭或更兴奋"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "e448049f5875360c7472a420931b6a6b2b72029121f59e8822cd25e922d2e39b",
+  "recovered_from_response": "s-3ce9ea0844b5-relations-1793882056593871800.json",
+  "point_units": [
+    {
+      "id": "s-3ce9ea0844b5-c001:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-3ce9ea0844b5-c001:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-3ce9ea0844b5-c001:u003",
+      "kind": "concept/definition",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a001"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-3ce9ea0844b5-c001:u004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a002"
+      ],
+      "blocks": [
+        "b00008",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-3ce9ea0844b5-c001:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a003"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-3ce9ea0844b5-c001:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a004"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-3ce9ea0844b5-c001:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a005"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-3ce9ea0844b5-c001:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a006"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-3ce9ea0844b5-c001:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a007"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-3ce9ea0844b5-c001:u010",
+      "kind": "concept/condition",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a008"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-3ce9ea0844b5-c001:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a009"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-3ce9ea0844b5-c001:u012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a010"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-3ce9ea0844b5-c001:u013",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a011"
+      ],
+      "blocks": [
+        "b00016",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-3ce9ea0844b5-c001:u014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:a012"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "情绪连接的三个步骤",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-3ce9ea0844b5",
+          "blocks": [
+            "b00006"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "用提问方式指认情绪",
+      "atom_ids": [
+        "s-3ce9ea0844b5-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-3ce9ea0844b5",
+          "blocks": [
+            "b00006"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

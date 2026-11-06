@@ -1,0 +1,907 @@
+{
+  "concepts": [
+    {
+      "name": "儿童退缩的健康反应",
+      "definition": "三岁半以下儿童遇到困难时，退缩是自然的、健康的反应；迎难而上反而危险。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a001"
+      ]
+    },
+    {
+      "name": "训练勇敢的方法",
+      "definition": "给孩子稍加努力就能完成的目标，鼓励尝试新鲜事情，允许经历轻微伤害（非大问题）。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a002"
+      ]
+    },
+    {
+      "name": "经历轻微伤害减少恐惧",
+      "definition": "孩子经历轻微伤害后知道能恢复，从而减少对困难事情的恐惧。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a004"
+      ]
+    },
+    {
+      "name": "正确称赞方式",
+      "definition": "称赞应针对努力而非结果，描述具体努力过程。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a005"
+      ]
+    },
+    {
+      "name": "错误称赞方式",
+      "definition": "针对结果的称赞（如比赛得第一名）不利于培养勇敢品质。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a006"
+      ]
+    },
+    {
+      "name": "退缩时批评或比较的负面影响",
+      "definition": "批评孩子胆小或与他人比较会加重恐惧，让孩子更想逃避挑战。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a007"
+      ]
+    },
+    {
+      "name": "不必挽回",
+      "definition": "对于情绪失控留下阴影的妈妈，孩子还小，不必挽回；挽回心态不利于建立界限和安全感。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a008"
+      ]
+    },
+    {
+      "name": "疫情导致的温柔是暂时的",
+      "definition": "因疫情空闲而温柔可能是暂时的，恢复正常生活后可能复发，需处理根本问题。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a009"
+      ]
+    },
+    {
+      "name": "寻求专业心理辅导",
+      "definition": "建议找专业心理辅导处理情绪阻塞，可能原因包括产后抑郁、原生家庭问题等。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a010"
+      ]
+    },
+    {
+      "name": "好的心理辅导标准",
+      "definition": "好的心理辅导讲话不超过5%，且其中90%为提问。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a011"
+      ]
+    },
+    {
+      "name": "糟糕心理辅导特征",
+      "definition": "一直给建议、开导，或不分青红皂白叫吃药的心理辅导不专业。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a012",
+        "s-b51edd68a992-c001:a013"
+      ]
+    },
+    {
+      "name": "新课程《打败焦虑并不难》",
+      "definition": "课程分三部分：常见焦虑处理、青少年焦虑、父母帮助焦虑孩子。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a014"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-b51edd68a992-c001:a002",
+      "target": "s-b51edd68a992-c001:a004",
+      "kind": "causes",
+      "condition": "当孩子经历轻微伤害时",
+      "reason": "a002 允许经历轻微伤害，a004 说明经历轻微伤害后知道能恢复，从而减少恐惧。"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a003",
+      "target": "s-b51edd68a992-c001:a004",
+      "kind": "example_of",
+      "condition": "允许孩子摸烫菜是经历轻微伤害的具体例子",
+      "reason": "a003 是允许孩子摸烫菜的具体案例，a004 是经历轻微伤害减少恐惧的一般结论。"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a005",
+      "target": "s-b51edd68a992-c001:a006",
+      "kind": "contrasts",
+      "condition": "称赞方式不同",
+      "reason": "a005 是正确称赞（针对努力），a006 是错误称赞（针对结果），两者形成对比。"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a007",
+      "target": "s-b51edd68a992-c001:a001",
+      "kind": "contrasts",
+      "condition": "当孩子退缩时",
+      "reason": "a001 认为退缩是健康反应，a007 指出批评或比较会加重恐惧，暗示不应批评退缩。"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a009",
+      "target": "s-b51edd68a992-c001:a010",
+      "kind": "causes",
+      "condition": "当温柔是暂时的，需要处理根本问题时",
+      "reason": "a009 指出疫情导致的温柔是暂时的，需处理根本问题；a010 建议寻求专业心理辅导处理情绪阻塞。"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a011",
+      "target": "s-b51edd68a992-c001:a012",
+      "kind": "contrasts",
+      "condition": "心理辅导的好坏标准",
+      "reason": "a011 描述好的心理辅导特征，a012 描述糟糕心理辅导特征，形成对比。"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a012",
+      "target": "s-b51edd68a992-c001:a013",
+      "kind": "supports",
+      "condition": "糟糕心理辅导的多个特征",
+      "reason": "a012 和 a013 都是糟糕心理辅导的特征，相互支持。"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n001",
+      "target": "s-b51edd68a992-c001:a008",
+      "kind": "complements",
+      "condition": "当妈妈想挽回时",
+      "reason": "source 描述妈妈想挽回和弥补，target 直接回应说孩子还小不必挽回，补充了讲师观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a008",
+      "target": "s-b51edd68a992-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当妈妈想挽回时",
+      "reason": "source 描述妈妈想挽回和弥补，target 直接回应说孩子还小不必挽回，补充了讲师观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n001",
+      "target": "s-b51edd68a992-c001:a009",
+      "kind": "complements",
+      "condition": "当妈妈因疫情有空闲而温柔时",
+      "reason": "source 案例中妈妈因疫情分离产生内疚和挽回想法，target 指出疫情空闲导致温柔可能是暂时的，补充了需处理根本问题的观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a009",
+      "target": "s-b51edd68a992-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当妈妈因疫情有空闲而温柔时",
+      "reason": "source 案例中妈妈因疫情分离产生内疚和挽回想法，target 指出疫情空闲导致温柔可能是暂时的，补充了需处理根本问题的观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n001",
+      "target": "s-b51edd68a992-c001:a010",
+      "kind": "complements",
+      "condition": "当妈妈情绪问题根源不明时",
+      "reason": "source 描述妈妈情绪失控可能原因复杂，target 建议寻求专业心理辅导处理情绪阻塞，补充了解决途径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a010",
+      "target": "s-b51edd68a992-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当妈妈情绪问题根源不明时",
+      "reason": "source 描述妈妈情绪失控可能原因复杂，target 建议寻求专业心理辅导处理情绪阻塞，补充了解决途径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n001",
+      "target": "s-b51edd68a992-c001:a002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例涉及情绪问题，target 讲训练孩子勇敢的方法，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a002",
+      "target": "s-b51edd68a992-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例涉及情绪问题，target 讲训练孩子勇敢的方法，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n001",
+      "target": "s-b51edd68a992-c001:a012",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例可能涉及心理辅导建议，target 讲糟糕心理辅导的特征，相关但间接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a012",
+      "target": "s-b51edd68a992-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例可能涉及心理辅导建议，target 讲糟糕心理辅导的特征，相关但间接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n001",
+      "target": "s-b51edd68a992-c001:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 为妈妈的情绪案例，target 为允许孩子摸烫菜的经历，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a003",
+      "target": "s-b51edd68a992-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 为妈妈的情绪案例，target 为允许孩子摸烫菜的经历，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n001",
+      "target": "s-b51edd68a992-c001:a014",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 为听众案例，target 为新课程内容结构，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a014",
+      "target": "s-b51edd68a992-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 为听众案例，target 为新课程内容结构，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n001",
+      "target": "s-b51edd68a992-c001:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例涉及情绪失控，target 讲称赞孩子应针对努力，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a005",
+      "target": "s-b51edd68a992-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例涉及情绪失控，target 讲称赞孩子应针对努力，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n001",
+      "target": "s-b51edd68a992-c001:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例与 target 讲经历轻微伤害减少恐惧，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a004",
+      "target": "s-b51edd68a992-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例与 target 讲经历轻微伤害减少恐惧，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n001",
+      "target": "s-b51edd68a992-c001:a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例与 target 讲三岁半以下儿童退缩是健康反应，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a001",
+      "target": "s-b51edd68a992-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例与 target 讲三岁半以下儿童退缩是健康反应，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n001",
+      "target": "s-b51edd68a992-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 为听众案例，target 为课程预期效果，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n002",
+      "target": "s-b51edd68a992-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 为听众案例，target 为课程预期效果，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n001",
+      "target": "s-b51edd68a992-c001:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例可能涉及心理辅导，target 讲国内心理市场混乱，相关但间接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n003",
+      "target": "s-b51edd68a992-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 案例可能涉及心理辅导，target 讲国内心理市场混乱，相关但间接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n002",
+      "target": "s-b51edd68a992-c001:a014",
+      "kind": "complements",
+      "condition": "当需要了解课程具体内容时",
+      "reason": "source 声称课程效果，target 给出课程内容结构，补充了实现效果的具体模块。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a014",
+      "target": "s-b51edd68a992-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要了解课程具体内容时",
+      "reason": "source 声称课程效果，target 给出课程内容结构，补充了实现效果的具体模块。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n002",
+      "target": "s-b51edd68a992-c001:a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲焦虑课程效果，target 讲儿童退缩反应，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a001",
+      "target": "s-b51edd68a992-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲焦虑课程效果，target 讲儿童退缩反应，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n002",
+      "target": "s-b51edd68a992-c001:a009",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲课程效果，target 讲疫情导致温柔暂时，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a009",
+      "target": "s-b51edd68a992-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲课程效果，target 讲疫情导致温柔暂时，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n002",
+      "target": "s-b51edd68a992-c001:a010",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲焦虑课程效果，target 讲寻求专业心理辅导，相关但间接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a010",
+      "target": "s-b51edd68a992-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲焦虑课程效果，target 讲寻求专业心理辅导，相关但间接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n002",
+      "target": "s-b51edd68a992-c001:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲课程效果，target 讲国内心理市场混乱，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n003",
+      "target": "s-b51edd68a992-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲课程效果，target 讲国内心理市场混乱，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n002",
+      "target": "s-b51edd68a992-c001:a012",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲课程效果，target 讲糟糕心理辅导特征，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a012",
+      "target": "s-b51edd68a992-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲课程效果，target 讲糟糕心理辅导特征，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n002",
+      "target": "s-b51edd68a992-c001:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲课程效果，target 讲允许孩子摸烫菜，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a003",
+      "target": "s-b51edd68a992-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲课程效果，target 讲允许孩子摸烫菜，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n002",
+      "target": "s-b51edd68a992-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 为课程效果，target 为听众案例，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n001",
+      "target": "s-b51edd68a992-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 为课程效果，target 为听众案例，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n002",
+      "target": "s-b51edd68a992-c001:a011",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲焦虑课程效果，target 讲判断好的心理辅导，相关但间接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a011",
+      "target": "s-b51edd68a992-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲焦虑课程效果，target 讲判断好的心理辅导，相关但间接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n002",
+      "target": "s-b51edd68a992-c001:a008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲课程效果，target 讲孩子还小不必挽回，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a008",
+      "target": "s-b51edd68a992-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲课程效果，target 讲孩子还小不必挽回，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n002",
+      "target": "s-b51edd68a992-c001:a007",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲课程效果，target 讲孩子退缩时批评加重恐惧，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a007",
+      "target": "s-b51edd68a992-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲课程效果，target 讲孩子退缩时批评加重恐惧，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n002",
+      "target": "s-b51edd68a992-c001:a002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲课程效果，target 讲训练孩子勇敢，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a002",
+      "target": "s-b51edd68a992-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲课程效果，target 讲训练孩子勇敢，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n003",
+      "target": "s-b51edd68a992-c001:a011",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：判断好的心理辅导",
+      "reason": "源称好的心理辅导需从多方面判断，候选提出讲话不超过5%这一具体判断方面，两者都涉及如何评估心理辅导质量，但源未提及该指标，故仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a011",
+      "target": "s-b51edd68a992-c001:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：判断好的心理辅导",
+      "reason": "源称好的心理辅导需从多方面判断，候选提出讲话不超过5%这一具体判断方面，两者都涉及如何评估心理辅导质量，但源未提及该指标，故仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n003",
+      "target": "s-b51edd68a992-c001:a010",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：专业心理辅导",
+      "reason": "源讨论国内心理市场混乱，候选建议寻求专业心理辅导处理情绪阻塞，都涉及心理辅导但角度不同，源强调判断标准，候选强调求助，无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a010",
+      "target": "s-b51edd68a992-c001:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：专业心理辅导",
+      "reason": "源讨论国内心理市场混乱，候选建议寻求专业心理辅导处理情绪阻塞，都涉及心理辅导但角度不同，源强调判断标准，候选强调求助，无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n003",
+      "target": "s-b51edd68a992-c001:a012",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：识别糟糕心理辅导",
+      "reason": "源称好的心理辅导需多方面判断，候选列出糟糕辅导特征（给建议或开导），属于判断辅导质量的反面指标，但源未具体提及，仅为同主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a012",
+      "target": "s-b51edd68a992-c001:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：识别糟糕心理辅导",
+      "reason": "源称好的心理辅导需多方面判断，候选列出糟糕辅导特征（给建议或开导），属于判断辅导质量的反面指标，但源未具体提及，仅为同主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:v2-n003",
+      "target": "s-b51edd68a992-c001:a013",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：判断心理辅导专业性",
+      "reason": "源称心理市场混乱需多方面判断，候选指出不分青红皂白叫吃药不专业，属于专业判断的具体方面，但源未提及，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b51edd68a992-c001:a013",
+      "target": "s-b51edd68a992-c001:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：判断心理辅导专业性",
+      "reason": "源称心理市场混乱需多方面判断，候选指出不分青红皂白叫吃药不专业，属于专业判断的具体方面，但源未提及，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "规则与行动",
+      "when": "当孩子退缩时，通过设定稍加努力可完成的目标来训练勇敢",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a001",
+        "s-b51edd68a992-c001:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-b51edd68a992-c001:a002",
+          "limits": [
+            "伤害不能是大问题"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "理解情绪",
+      "when": "允许孩子经历轻微伤害后，孩子减少对困难事情的恐惧",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a002",
+        "s-b51edd68a992-c001:a004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-b51edd68a992-c001:a002",
+          "limits": [
+            "伤害不能是大问题"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "理解情绪",
+      "when": "通过正确称赞努力，培养勇敢品质，减少恐惧",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a005",
+        "s-b51edd68a992-c001:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "不挽回、建立界限，让孩子有安全感，减少恐惧",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "界限",
+      "when": "处理情绪阻塞后，才能建立界限",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a010",
+        "s-b51edd68a992-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-b51edd68a992-c001:a001",
+        "s-b51edd68a992-c001:a002"
+      ],
+      "description": "a001 认为三岁半以下儿童退缩是健康反应，迎难而上危险；a002 建议给孩子稍加努力可完成的目标训练勇敢，可能隐含鼓励迎难而上。两者可能矛盾，但 a002 未明确年龄，可能适用于更大孩子。",
+      "needed_evidence": "需要明确 a002 的适用年龄范围，以及训练勇敢是否与健康退缩冲突。"
+    }
+  ],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-b51edd68a992-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a001"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a002"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a003"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a004"
+      ],
+      "blocks": [
+        "b00010",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a005"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u006",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a006"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u007",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a007"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a008"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a009"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a010"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-b51edd68a992-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a011"
+      ],
+      "blocks": [
+        "b00018",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u013",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a012"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u014",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a013"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b51edd68a992-c001:a014"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b51edd68a992-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-b51edd68a992-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b51edd68a992-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "听众案例：两女儿妈妈因疲乏与情绪失控留下阴影并想挽回",
+      "atom_ids": [
+        "s-b51edd68a992-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b51edd68a992",
+          "blocks": [
+            "b00016"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "《打败焦虑并不难》课程预期效果",
+      "atom_ids": [
+        "s-b51edd68a992-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b51edd68a992",
+          "blocks": [
+            "b00022"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "claim"
+    },
+    {
+      "title": "国内心理市场非常混乱",
+      "atom_ids": [
+        "s-b51edd68a992-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b51edd68a992",
+          "blocks": [
+            "b00018"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "observation"
+    }
+  ]
+}

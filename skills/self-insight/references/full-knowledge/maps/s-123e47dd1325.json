@@ -1,0 +1,539 @@
+{
+  "concepts": [
+    {
+      "name": "毅力",
+      "definition": "一种心理品质，表现为面对困难、阻拦或需要调整时保持专注，不惧怕害怕，有决心战胜害怕，并能从失败中爬起来继续坚持。",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a001",
+        "s-123e47dd1325-c001:a006",
+        "s-123e47dd1325-c001:a007",
+        "s-123e47dd1325-c001:a010",
+        "s-123e47dd1325-c001:a012",
+        "s-123e47dd1325-c001:a014",
+        "s-123e47dd1325-c001:r003",
+        "s-123e47dd1325-c001:r006",
+        "s-123e47dd1325-c001:r007"
+      ]
+    },
+    {
+      "name": "专注力",
+      "definition": "做事情时集中注意力的能力，有毅力的人通常专注，热爱能自然带来专注。",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a001",
+        "s-123e47dd1325-c001:a003"
+      ]
+    },
+    {
+      "name": "激情",
+      "definition": "真正热爱、激情澎湃的兴趣，区别于单纯的喜欢，是培养毅力的基础。",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a002",
+        "s-123e47dd1325-c001:r001"
+      ]
+    },
+    {
+      "name": "舒适区",
+      "definition": "孩子习惯的、感到舒适的活动范围，培养毅力需要鼓励孩子尝试舒适区以外的事情。",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a005"
+      ]
+    },
+    {
+      "name": "开放性思维",
+      "definition": "愿意尝试不懂的事情，即使缺乏自信也去试，不怕尝试的心态。",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a006"
+      ]
+    },
+    {
+      "name": "负面情绪",
+      "definition": "失败后产生的生气、烦躁、气愤和恼怒等情绪，孩子需要经历这些情绪才能学会调整和坚持。",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a008",
+        "s-123e47dd1325-c001:a010",
+        "s-123e47dd1325-c001:r002",
+        "s-123e47dd1325-c001:r003"
+      ]
+    },
+    {
+      "name": "失败",
+      "definition": "在某方面不成功或遇到挫折，失败不等于失败者，不代表放弃生活或梦想，可以通过其他方法补足。",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a011",
+        "s-123e47dd1325-c001:a012",
+        "s-123e47dd1325-c001:a013",
+        "s-123e47dd1325-c001:r005",
+        "s-123e47dd1325-c001:r006",
+        "s-123e47dd1325-c001:r007"
+      ]
+    },
+    {
+      "name": "父母角色",
+      "definition": "父母在培养孩子毅力中的行为：允许孩子选择兴趣、鼓励尝试、允许负面情绪、分享失败经历、忍住不帮忙。",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a002",
+        "s-123e47dd1325-c001:a005",
+        "s-123e47dd1325-c001:a008",
+        "s-123e47dd1325-c001:a011",
+        "s-123e47dd1325-c001:r004"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-123e47dd1325-c001:a002",
+      "target": "s-123e47dd1325-c001:a003",
+      "kind": "causes",
+      "condition": "当孩子找到真正热爱的兴趣时",
+      "reason": "a002 提出帮助孩子找到兴趣，a003 说明热爱会带来专注力，因此找到兴趣是热爱带来专注的前提。"
+    },
+    {
+      "source": "s-123e47dd1325-c001:a002",
+      "target": "s-123e47dd1325-c001:r001",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "r001 强调激情而非喜欢，补充了 a002 中兴趣需要是激情澎湃的。"
+    },
+    {
+      "source": "s-123e47dd1325-c001:a005",
+      "target": "s-123e47dd1325-c001:a006",
+      "kind": "causes",
+      "condition": "当孩子不断尝试新事物时",
+      "reason": "a005 鼓励尝试舒适区以外的事情，a006 说明尝试新事物能培养开放性思维和毅力。"
+    },
+    {
+      "source": "s-123e47dd1325-c001:a008",
+      "target": "s-123e47dd1325-c001:a010",
+      "kind": "causes",
+      "condition": "当孩子经历失败和负面情绪时",
+      "reason": "a008 允许孩子经历负面情绪，a010 说明通过失败练习情绪调节和毅力。"
+    },
+    {
+      "source": "s-123e47dd1325-c001:a008",
+      "target": "s-123e47dd1325-c001:r002",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "r002 强调父母害怕负面情绪会阻碍毅力培养，补充了 a008 中允许负面情绪的必要性。"
+    },
+    {
+      "source": "s-123e47dd1325-c001:a011",
+      "target": "s-123e47dd1325-c001:a012",
+      "kind": "causes",
+      "condition": "当父母分享失败经历时",
+      "reason": "a011 建议父母分享失败经历，a012 说明让孩子知道失败不等于失败者，从而帮助学习毅力。"
+    },
+    {
+      "source": "s-123e47dd1325-c001:a011",
+      "target": "s-123e47dd1325-c001:r005",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "r005 强调分享一直失败的故事，补充了 a011 中分享失败经历的具体内容。"
+    },
+    {
+      "source": "s-123e47dd1325-c001:a012",
+      "target": "s-123e47dd1325-c001:r006",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "r006 进一步说明失败不代表放弃梦想，与 a012 观点一致。"
+    },
+    {
+      "source": "s-123e47dd1325-c001:a013",
+      "target": "s-123e47dd1325-c001:r007",
+      "kind": "example_of",
+      "condition": "讲师数学不好但追求心理学目标",
+      "reason": "a013 是讲师数学不好的案例，r007 提出换方法达到目标，a013 是 r007 的具体例证。"
+    },
+    {
+      "source": "s-123e47dd1325-c001:a009",
+      "target": "s-123e47dd1325-c001:r004",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "a009 用系鞋带案例说明父母需要忍心，r004 总结父母要忍心让孩子忍受痛苦。"
+    },
+    {
+      "source": "s-123e47dd1325-c001:a001",
+      "target": "s-123e47dd1325-c001:a003",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "a001 说毅力帮助专注力，a003 说热爱带来专注力，两者从不同角度说明专注力的来源。"
+    },
+    {
+      "source": "s-123e47dd1325-c001:v2-n001",
+      "target": "s-123e47dd1325-c001:r001",
+      "kind": "complements",
+      "condition": "培养毅力过程中对激情的理解",
+      "reason": "source 提出激情是培养毅力的内在动力，target 进一步区分喜欢与激情，强调必须激情澎湃而非仅仅喜欢，补充了 source 中'激情'的具体内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-123e47dd1325-c001:r001",
+      "target": "s-123e47dd1325-c001:v2-n001",
+      "kind": "complements",
+      "condition": "培养毅力过程中对激情的理解",
+      "reason": "source 提出激情是培养毅力的内在动力，target 进一步区分喜欢与激情，强调必须激情澎湃而非仅仅喜欢，补充了 source 中'激情'的具体内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-123e47dd1325-c001:v2-n001",
+      "target": "s-123e47dd1325-c001:a002",
+      "kind": "complements",
+      "condition": "培养毅力的第一步",
+      "reason": "source 说明为何需要激情（带来毅力），target 提供了帮助孩子找到真正热爱的具体步骤（允许自选、观察兴奋点、提问），理论与实践互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-123e47dd1325-c001:a002",
+      "target": "s-123e47dd1325-c001:v2-n001",
+      "kind": "complements",
+      "condition": "培养毅力的第一步",
+      "reason": "source 说明为何需要激情（带来毅力），target 提供了帮助孩子找到真正热爱的具体步骤（允许自选、观察兴奋点、提问），理论与实践互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-123e47dd1325-c001:v2-n001",
+      "target": "s-123e47dd1325-c001:a003",
+      "kind": "association",
+      "condition": "热爱/激情的作用",
+      "reason": "source 说激情带来毅力，target 说热爱带来专注力，两者都涉及内在热爱的驱动作用，但结果不同（毅力与专注力），不确定直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-123e47dd1325-c001:a003",
+      "target": "s-123e47dd1325-c001:v2-n001",
+      "kind": "association",
+      "condition": "热爱/激情的作用",
+      "reason": "source 说激情带来毅力，target 说热爱带来专注力，两者都涉及内在热爱的驱动作用，但结果不同（毅力与专注力），不确定直接关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-123e47dd1325-c001:a002",
+        "s-123e47dd1325-c001:r001"
+      ],
+      "reason": "两者都强调培养毅力需要找到激情而非喜欢，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-123e47dd1325-c001:a008",
+        "s-123e47dd1325-c001:r002"
+      ],
+      "reason": "两者都强调允许孩子经历负面情绪是培养毅力的必要条件，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-123e47dd1325-c001:a011",
+        "s-123e47dd1325-c001:r005"
+      ],
+      "reason": "两者都强调父母分享失败经历，特别是持续失败的故事，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-123e47dd1325-c001:a012",
+        "s-123e47dd1325-c001:r006"
+      ],
+      "reason": "两者都强调失败不等于放弃梦想，内容实质等价。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "培养孩子毅力的方法",
+      "steps": [
+        {
+          "action": "帮助孩子找到真正热爱的兴趣",
+          "atom_ids": [
+            "s-123e47dd1325-c001:a002",
+            "s-123e47dd1325-c001:r001"
+          ],
+          "condition": "父母允许孩子自己选择，观察孩子兴奋点，用提问帮助发现激情。"
+        },
+        {
+          "action": "鼓励孩子尝试舒适区以外的事情",
+          "atom_ids": [
+            "s-123e47dd1325-c001:a005",
+            "s-123e47dd1325-c001:a006"
+          ],
+          "condition": "家长识别孩子的舒适区，鼓励尝试有挑战性的事情，即使不擅长。"
+        },
+        {
+          "action": "允许孩子经历负面情绪",
+          "atom_ids": [
+            "s-123e47dd1325-c001:a008",
+            "s-123e47dd1325-c001:a009",
+            "s-123e47dd1325-c001:a010",
+            "s-123e47dd1325-c001:r002",
+            "s-123e47dd1325-c001:r003",
+            "s-123e47dd1325-c001:r004"
+          ],
+          "condition": "父母不立即哄或帮忙，让孩子自己面对失败和烦躁，练习情绪调节。"
+        },
+        {
+          "action": "父母分享失败经历",
+          "atom_ids": [
+            "s-123e47dd1325-c001:a011",
+            "s-123e47dd1325-c001:a012",
+            "s-123e47dd1325-c001:a013",
+            "s-123e47dd1325-c001:a014",
+            "s-123e47dd1325-c001:r005",
+            "s-123e47dd1325-c001:r006",
+            "s-123e47dd1325-c001:r007"
+          ],
+          "condition": "父母分享自己失败和持续失败的故事，让孩子知道失败不可怕，可以换方法达到目标。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-123e47dd1325-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a002"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-123e47dd1325-c001:r001"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-123e47dd1325-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a004"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u006",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a003"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a005"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a006"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u009",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a007"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a008"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-123e47dd1325-c001:r002"
+      ],
+      "blocks": [
+        "b00015",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-123e47dd1325-c001:r003"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a009"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-123e47dd1325-c001:r004"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u015",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a010"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a011"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u017",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-123e47dd1325-c001:r005"
+      ],
+      "blocks": [
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u018",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a012"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a013"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u020",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-123e47dd1325-c001:r007"
+      ],
+      "blocks": [
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-123e47dd1325-c001:u021",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-123e47dd1325-c001:a014"
+      ],
+      "blocks": [
+        "b00026"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "激情带来毅力",
+      "atom_ids": [
+        "s-123e47dd1325-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-123e47dd1325",
+          "blocks": [
+            "b00006"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    }
+  ]
+}

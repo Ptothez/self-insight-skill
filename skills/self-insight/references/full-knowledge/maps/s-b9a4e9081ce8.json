@@ -1,0 +1,415 @@
+{
+  "concepts": [
+    {
+      "name": "情绪平静后的引导开放状态",
+      "definition": "当孩子的情绪平静下来后，右脑平静，下丘脑恢复关闭状态，传递安全信息，孩子对引导开放。",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a001"
+      ]
+    },
+    {
+      "name": "左脑引导时避免话太多",
+      "definition": "对左脑引导时家长最容易犯的第一个错误是话说的太多。情绪连接成功后，父母通常不需要说太多话就可以实现引导。",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a002"
+      ]
+    },
+    {
+      "name": "孩子冷静后能自己判断对错",
+      "definition": "大多数时间当孩子冷静下来以后，其实是可以知道自己对错的。就算孩子确实不明白，也可以通过简单的几句话或几个问题帮助孩子了解。孩子越大，越不需要长篇大论地重复道理。",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a003"
+      ]
+    },
+    {
+      "name": "根据行为背后的原因选择不同引导方法",
+      "definition": "家长常犯的第二个错误是用同样的引导方法对待孩子同样的行为。即使行为相同，背后的原因和情绪可能不同，应使用不同的引导方式。",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a004"
+      ]
+    },
+    {
+      "name": "因大便被冲走而尖叫的引导案例",
+      "definition": "讲师家老大两岁左右时，因保姆冲走马桶里的大便，没来得及说再见而悲伤尖叫。情绪连接成功后，讲师使用转移注意的方法进行引导。",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a005"
+      ]
+    },
+    {
+      "name": "因乐高搭不起来而尖叫的引导案例",
+      "definition": "讲师家老大因无法搭建乐高而尖叫，情绪是沮丧和自我怀疑。情绪连接成功后，讲师使用了与上次不同的引导方法（具体方法未说明）。",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a006"
+      ]
+    },
+    {
+      "name": "与孩子说话时保持视线低于孩子水平线",
+      "definition": "与孩子说话时应蹲下来，眼睛低于他们的视线水平线。仰头听人说话会让身体累，大脑分散注意力处理压迫感，不舒服。保持低于视线水平线能让孩子感到安全，更可能接受引导。",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a007"
+      ]
+    },
+    {
+      "name": "引导时避免用力过猛",
+      "definition": "家长常犯的第四个错误是引导用力过猛。引导时可能加入自己的想象和理解，导致过度反应。应尽可能客观，警觉并排除干扰因素，客观分析孩子行为及其背后动机。",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a008"
+      ]
+    },
+    {
+      "name": "家长因自身经历对推人行为反应过度的假设案例",
+      "definition": "假设女儿在游乐场推了另一个孩子。如果大儿子曾因推人导致对方眼睛摔伤、赔钱惹官司，家长可能对女儿的行为感到恐惧和愤怒，引导更激烈。如果家长小时候被欺负过，可能用另一种方式解读女儿的行为。",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a009"
+      ]
+    },
+    {
+      "name": "情绪连接与溺爱的区别及溺爱类型",
+      "definition": "上一期节目讲到了情绪连接和溺爱的区别，并提到了溺爱的三种类型。",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:r001"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-b9a4e9081ce8-c001:a001",
+      "target": "s-b9a4e9081ce8-c001:a002",
+      "kind": "prerequisite",
+      "condition": "情绪平静后孩子对引导开放，此时进行左脑引导",
+      "reason": "a001说明情绪平静后孩子对引导开放，a002说明此时引导时避免话太多，因此情绪平静是引导的前提。"
+    },
+    {
+      "source": "s-b9a4e9081ce8-c001:a001",
+      "target": "s-b9a4e9081ce8-c001:a003",
+      "kind": "prerequisite",
+      "condition": "情绪平静后孩子能自己判断对错",
+      "reason": "a001说明情绪平静后孩子对引导开放，a003说明孩子冷静后能自己判断对错，因此情绪平静是孩子自我判断的前提。"
+    },
+    {
+      "source": "s-b9a4e9081ce8-c001:a004",
+      "target": "s-b9a4e9081ce8-c001:a005",
+      "kind": "example_of",
+      "condition": "孩子因大便被冲走而尖叫，情绪为悲伤，使用转移注意引导",
+      "reason": "a004提出根据行为背后的原因选择不同引导方法，a005是具体案例，展示因悲伤而尖叫时使用转移注意。"
+    },
+    {
+      "source": "s-b9a4e9081ce8-c001:a004",
+      "target": "s-b9a4e9081ce8-c001:a006",
+      "kind": "example_of",
+      "condition": "孩子因乐高搭不起来而尖叫，情绪为沮丧，使用不同引导方法",
+      "reason": "a004提出根据行为背后的原因选择不同引导方法，a006是具体案例，展示因沮丧而尖叫时使用不同方法。"
+    },
+    {
+      "source": "s-b9a4e9081ce8-c001:a005",
+      "target": "s-b9a4e9081ce8-c001:a006",
+      "kind": "contrasts",
+      "condition": "同样尖叫行为，但原因不同（悲伤 vs 沮丧），引导方法不同",
+      "reason": "a005和a006都是尖叫案例，但原因不同，引导方法不同，形成对比。"
+    },
+    {
+      "source": "s-b9a4e9081ce8-c001:a008",
+      "target": "s-b9a4e9081ce8-c001:a009",
+      "kind": "example_of",
+      "condition": "家长因自身经历对推人行为反应过度",
+      "reason": "a008提出引导时避免用力过猛，a009是假设案例，展示家长因自身经历可能过度反应。"
+    },
+    {
+      "source": "s-b9a4e9081ce8-c001:a002",
+      "target": "s-b9a4e9081ce8-c001:a003",
+      "kind": "supports",
+      "condition": "孩子冷静后能自己判断对错，所以不需要说太多话",
+      "reason": "a002说避免话太多，a003说孩子冷静后能自己判断对错，因此支持了避免话太多的观点。"
+    },
+    {
+      "source": "s-b9a4e9081ce8-c001:a007",
+      "target": "s-b9a4e9081ce8-c001:a001",
+      "kind": "supports",
+      "condition": "保持视线低于孩子水平线能让孩子感到安全，更可能接受引导",
+      "reason": "a007说保持视线低于水平线能让孩子感到安全，a001说情绪平静后孩子对引导开放，因此a007支持了引导的前提条件。"
+    },
+    {
+      "source": "s-b9a4e9081ce8-c001:v2-n001",
+      "target": "s-b9a4e9081ce8-c001:a004",
+      "kind": "complements",
+      "condition": "孩子出现推人等过激行为时",
+      "reason": "source 建议平和地告诉孩子用其他方式表达情绪；candidate 指出应根据行为背后的原因选择不同引导方法，补充了采用 source 方法时需先区分原因的前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b9a4e9081ce8-c001:a004",
+      "target": "s-b9a4e9081ce8-c001:v2-n001",
+      "kind": "complements",
+      "condition": "孩子出现推人等过激行为时",
+      "reason": "source 建议平和地告诉孩子用其他方式表达情绪；candidate 指出应根据行为背后的原因选择不同引导方法，补充了采用 source 方法时需先区分原因的前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b9a4e9081ce8-c001:v2-n001",
+      "target": "s-b9a4e9081ce8-c001:a002",
+      "kind": "complements",
+      "condition": "对孩子过激行为进行左脑引导时",
+      "reason": "source 建议简短平和地告诉孩子用其他方式；candidate 强调左脑引导时避免话太多，source 的做法体现了这一原则，candidate 补充了该原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b9a4e9081ce8-c001:a002",
+      "target": "s-b9a4e9081ce8-c001:v2-n001",
+      "kind": "complements",
+      "condition": "对孩子过激行为进行左脑引导时",
+      "reason": "source 建议简短平和地告诉孩子用其他方式；candidate 强调左脑引导时避免话太多，source 的做法体现了这一原则，candidate 补充了该原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b9a4e9081ce8-c001:v2-n001",
+      "target": "s-b9a4e9081ce8-c001:a008",
+      "kind": "complements",
+      "condition": "对孩子过激行为引导时",
+      "reason": "source 建议情绪平和地引导；candidate 指出引导时避免用力过猛，要客观，补充了引导力度和态度的要求。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b9a4e9081ce8-c001:a008",
+      "target": "s-b9a4e9081ce8-c001:v2-n001",
+      "kind": "complements",
+      "condition": "对孩子过激行为引导时",
+      "reason": "source 建议情绪平和地引导；candidate 指出引导时避免用力过猛，要客观，补充了引导力度和态度的要求。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b9a4e9081ce8-c001:v2-n001",
+      "target": "s-b9a4e9081ce8-c001:a007",
+      "kind": "complements",
+      "condition": "与孩子说话引导时",
+      "reason": "source 建议平和地告诉孩子用其他方式表达情绪；candidate 提供保持视线低于孩子水平线的具体身体姿态，有助于孩子接受引导，补充了执行细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b9a4e9081ce8-c001:a007",
+      "target": "s-b9a4e9081ce8-c001:v2-n001",
+      "kind": "complements",
+      "condition": "与孩子说话引导时",
+      "reason": "source 建议平和地告诉孩子用其他方式表达情绪；candidate 提供保持视线低于孩子水平线的具体身体姿态，有助于孩子接受引导，补充了执行细节。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "规则与行动",
+      "when": "孩子情绪平静后，进行左脑引导时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a001",
+        "s-b9a4e9081ce8-c001:a002",
+        "s-b9a4e9081ce8-c001:a003",
+        "s-b9a4e9081ce8-c001:a004",
+        "s-b9a4e9081ce8-c001:a005",
+        "s-b9a4e9081ce8-c001:a006",
+        "s-b9a4e9081ce8-c001:a007",
+        "s-b9a4e9081ce8-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "家长引导时避免用力过猛，需客观分析",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a008",
+        "s-b9a4e9081ce8-c001:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [
+    {
+      "name": "情绪连接后的引导方法",
+      "steps": [
+        {
+          "action": "等待孩子情绪平静，进入引导开放状态",
+          "atom_ids": [
+            "s-b9a4e9081ce8-c001:a001"
+          ],
+          "condition": "孩子情绪平静后"
+        },
+        {
+          "action": "进行左脑引导，避免话太多",
+          "atom_ids": [
+            "s-b9a4e9081ce8-c001:a002",
+            "s-b9a4e9081ce8-c001:a003"
+          ],
+          "condition": "孩子冷静后能自己判断对错，简单引导即可"
+        },
+        {
+          "action": "根据行为背后的原因选择不同引导方法",
+          "atom_ids": [
+            "s-b9a4e9081ce8-c001:a004",
+            "s-b9a4e9081ce8-c001:a005",
+            "s-b9a4e9081ce8-c001:a006"
+          ],
+          "condition": "行为相同但原因不同时"
+        },
+        {
+          "action": "保持视线低于孩子水平线",
+          "atom_ids": [
+            "s-b9a4e9081ce8-c001:a007"
+          ],
+          "condition": "与孩子说话时"
+        },
+        {
+          "action": "避免引导用力过猛，保持客观",
+          "atom_ids": [
+            "s-b9a4e9081ce8-c001:a008",
+            "s-b9a4e9081ce8-c001:a009"
+          ],
+          "condition": "引导时排除自身经历干扰"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "eda59a0d9f4c4c3996879b5711766265cba6ffceb5dadd0b3d2b8c330c518d31",
+  "recovered_from_response": "s-b9a4e9081ce8-relations-1793881917946514900.json",
+  "point_units": [
+    {
+      "id": "s-b9a4e9081ce8-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:r001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-b9a4e9081ce8-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-b9a4e9081ce8-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a002"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-b9a4e9081ce8-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a003"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-b9a4e9081ce8-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a004"
+      ],
+      "blocks": [
+        "b00012",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-b9a4e9081ce8-c001:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a005"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-b9a4e9081ce8-c001:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a006"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-b9a4e9081ce8-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a007"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-b9a4e9081ce8-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a008"
+      ],
+      "blocks": [
+        "b00018",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-b9a4e9081ce8-c001:u0010",
+      "kind": "case",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:a009"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-b9a4e9081ce8-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "平和引导孩子用其他方式表达情绪",
+      "atom_ids": [
+        "s-b9a4e9081ce8-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b9a4e9081ce8",
+          "blocks": [
+            "b00018"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

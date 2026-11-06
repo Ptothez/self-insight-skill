@@ -1,0 +1,340 @@
+{
+  "concepts": [
+    {
+      "name": "自控力像肌肉需要练习",
+      "definition": "孩子一旦有控制自己的能力，就应该一直控制自己的行为，但自控力像肌肉一样需要练习，父母应像健身教练一样鼓励、示范和手把手教，而不是责骂。",
+      "atom_ids": [
+        "s-999b3958d908-c001:a001"
+      ]
+    },
+    {
+      "name": "父母应像健身教练一样对待孩子失败",
+      "definition": "当孩子失败时，父母应像健身教练一样鼓励、手把手示范，而不是责骂或比较。例如，希望孩子有规律，可以买日程表并手把手教他计划时间。",
+      "atom_ids": [
+        "s-999b3958d908-c001:a002"
+      ]
+    },
+    {
+      "name": "健身教练式鼓励：关注进步并持续称赞",
+      "definition": "好的父母像健身教练一样，在孩子每次有进步时告诉他离目标更近了，并不断称赞任何一点改变；若孩子退步，则鼓励说上次做到了，以后会越来越多做到，给予满满鼓励。",
+      "atom_ids": [
+        "s-999b3958d908-c001:a003"
+      ]
+    },
+    {
+      "name": "反例：教练在孩子多次失败后责骂",
+      "definition": "如果健身教练在孩子第一次做到后，连续多次做不到时责骂“你怎么回事？不是做到过一次吗？”，孩子就不会想让他做教练。父母若如此，孩子无法更换父母，会想尽办法折磨和反抗，导致亲子关系糟糕。",
+      "atom_ids": [
+        "s-999b3958d908-c001:a004"
+      ]
+    },
+    {
+      "name": "错误期待：孩子长大后会明白",
+      "definition": "认为现在对孩子严格，孩子长大后会明白是错误的期待。即使孩子长大后明白，伤害仍然存在，可能成为一生遗憾，影响婚姻、育儿和自我认知。",
+      "atom_ids": [
+        "s-999b3958d908-c001:a005"
+      ]
+    },
+    {
+      "name": "案例：被母亲抛弃的孩子长大后明白但痛苦",
+      "definition": "一位来访者的母亲在他小时候将他留给家暴的父亲后离家出走。长大后他明白母亲当时因怕被打死且没钱带孩子而逃跑是正确选择，但内心仍痛苦无比，被抛弃的伤害已造成。",
+      "atom_ids": [
+        "s-999b3958d908-c001:a006"
+      ]
+    },
+    {
+      "name": "错误期待：批评打压能让孩子进步",
+      "definition": "认为经常提醒孩子不足、批评打压、不让他得意忘形就能进步是错误的期待。讲师以自身经历为例：小时候是学渣，母亲整天打压，老师冷嘲热讽，导致破罐子破摔。",
+      "atom_ids": [
+        "s-999b3958d908-c001:a007"
+      ]
+    },
+    {
+      "name": "案例：讲师因教授夸奖而爱上经济学",
+      "definition": "讲师在美国上经济学课时，全班无人回答出问题，教授大力夸奖他作为唯一外国学生回答出高难度词汇，从此他喜欢经济学，修完该教授所有经济学课程，并作为学校代表参加全美经济学大奖赛辩论赛，担任组长，最终获得第三名。",
+      "atom_ids": [
+        "s-999b3958d908-c001:a008"
+      ]
+    },
+    {
+      "name": "错误期待：孩子能感受到父母的爱",
+      "definition": "认为孩子能感受到父母的爱是错误的期待。讲师做青少年心理辅导十多年，发现很多孩子理性上相信父母爱自己，但心底深处感受不到。",
+      "atom_ids": [
+        "s-999b3958d908-c001:a009"
+      ]
+    },
+    {
+      "name": "错误期待：付出爱就必须接受",
+      "definition": "认为“我给你爱，你就要接受”是错误的期待。父母常强调自己付出很多，但孩子并未要求这些付出，也不应被要求回报。当父母期待孩子按自己要求做而孩子不做时，期待变得不正常。",
+      "atom_ids": [
+        "s-999b3958d908-c001:a010"
+      ]
+    },
+    {
+      "name": "错误期待：孩子至少要像其他孩子一样",
+      "definition": "认为孩子至少要像其他孩子一样是错误的期待。讲师母亲曾要求他至少像普通同学，但每个人能力不同，有些领域怎么努力也只能勉强及格，有些领域则轻松擅长。",
+      "atom_ids": [
+        "s-999b3958d908-c001:a011"
+      ]
+    },
+    {
+      "name": "错误期待：孩子长大后明白并感激",
+      "definition": "认为孩子长大后不仅会明白，还会感激父母当初的严格是错误的期待。讲师强调不要觉得孩子有一天会懂得并感激，因为伤害已经造成。",
+      "atom_ids": [
+        "s-999b3958d908-c001:r001"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-999b3958d908-c001:a001",
+      "target": "s-999b3958d908-c001:a002",
+      "kind": "supports",
+      "condition": "当孩子失败时",
+      "reason": "源命题提出父母应像健身教练一样鼓励、示范和手把手教；目标命题具体说明在孩子失败时应鼓励和示范而非责骂，源命题支持目标命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-999b3958d908-c001:a001",
+      "target": "s-999b3958d908-c001:a003",
+      "kind": "supports",
+      "condition": "当孩子有进步或退步时",
+      "reason": "源命题提出父母应像健身教练一样鼓励；目标命题具体说明关注进步、持续称赞及退步时鼓励，是源命题的细化，构成支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-999b3958d908-c001:a004",
+      "target": "s-999b3958d908-c001:a001",
+      "kind": "contrasts",
+      "condition": "当孩子多次失败时",
+      "reason": "源命题提供教练在孩子多次失败后责骂导致孩子拒绝的反例；目标命题主张父母应像健身教练一样鼓励而非责骂，二者形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-999b3958d908-c001:a005",
+      "target": "s-999b3958d908-c001:a006",
+      "kind": "association",
+      "condition": "",
+      "reason": "源命题是错误期待的一般观点；目标命题是被抛弃孩子长大后明白但痛苦的案例。案例是观点的例证，但原方向相反，在不改动源目标情况下，降级为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "正确关系应为案例 example_of 观点，方向需反转。"
+    },
+    {
+      "source": "s-999b3958d908-c001:a007",
+      "target": "s-999b3958d908-c001:a008",
+      "kind": "contrasts",
+      "condition": "批评打压与夸奖的不同效果",
+      "reason": "a007说明批评打压导致破罐子破摔，a008说明夸奖激发动机，两者形成对比。"
+    },
+    {
+      "source": "s-999b3958d908-c001:a005",
+      "target": "s-999b3958d908-c001:r001",
+      "kind": "association",
+      "condition": "",
+      "reason": "源命题指出期待孩子长大后会明白是错误的；目标命题指出期待孩子长大后会明白并感激是错误的。目标增加了“感激”内容，源命题不能直接证明感激期待错误，只能作为相关错误期待。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "降级为关联。"
+    },
+    {
+      "source": "s-999b3958d908-c001:a009",
+      "target": "s-999b3958d908-c001:a010",
+      "kind": "supports",
+      "condition": "孩子感受不到爱时",
+      "reason": "a009指出孩子可能感受不到父母的爱，a010进一步说明付出爱就必须接受是错误的期待，两者都涉及爱的感受与接受问题。"
+    },
+    {
+      "source": "s-999b3958d908-c001:a011",
+      "target": "s-999b3958d908-c001:a007",
+      "kind": "association",
+      "condition": "",
+      "reason": "源命题指出要求孩子至少像其他孩子一样是错误的期待；目标命题指出批评打压能让孩子进步是错误的期待。二者是并列的错误期待，彼此不构成支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "降级为关联。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "内在能力",
+      "to": "规则与行动",
+      "when": "当孩子需要练习自控力时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-999b3958d908-c001:a001",
+        "s-999b3958d908-c001:a002",
+        "s-999b3958d908-c001:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "当孩子长大后明白但伤害已造成时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-999b3958d908-c001:a005",
+        "s-999b3958d908-c001:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-999b3958d908-c001:a005",
+        "s-999b3958d908-c001:r001"
+      ],
+      "reason": "两者都表达“孩子长大后明白并感激是错误的期待，伤害已造成”的观点，内容实质等价。"
+    }
+  ],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-999b3958d908-c001:u01",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-999b3958d908-c001:a001"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-999b3958d908-c001:u02",
+      "kind": "method",
+      "atom_ids": [
+        "s-999b3958d908-c001:a002"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-999b3958d908-c001:u03",
+      "kind": "method",
+      "atom_ids": [
+        "s-999b3958d908-c001:a003"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-999b3958d908-c001:u04",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-999b3958d908-c001:a004"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-999b3958d908-c001:u05",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-999b3958d908-c001:a005"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-999b3958d908-c001:u06",
+      "kind": "case",
+      "atom_ids": [
+        "s-999b3958d908-c001:a006"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-999b3958d908-c001:u07",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-999b3958d908-c001:a007"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-999b3958d908-c001:u08",
+      "kind": "case",
+      "atom_ids": [
+        "s-999b3958d908-c001:a008"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-999b3958d908-c001:u09",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-999b3958d908-c001:a009"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-999b3958d908-c001:u10",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-999b3958d908-c001:a010"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-999b3958d908-c001:u11",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-999b3958d908-c001:a011"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-999b3958d908-c001:u12",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-999b3958d908-c001:r001"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

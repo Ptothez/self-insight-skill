@@ -1,0 +1,1486 @@
+{
+  "concepts": [
+    {
+      "name": "分清轻重缓急的能力",
+      "definition": "按照主次区分真正需要做的事情，而不是盲目排序。缺乏会导致忙碌却无法完成真正想做的事，长期紧绷。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a001"
+      ]
+    },
+    {
+      "name": "错误排序方式",
+      "definition": "每天从所有事情中分轻重缓急，导致被临时紧急事务干扰，重要但不紧急的事只能深夜完成，长期紧绷焦虑。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a002",
+        "s-073390e63b74-c001:r001",
+        "s-073390e63b74-c001:a022"
+      ]
+    },
+    {
+      "name": "正确排序方法",
+      "definition": "先建立象限框架，再放入事情，而不是先有一堆事情再分类。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a003"
+      ]
+    },
+    {
+      "name": "四象限分类",
+      "definition": "第一象限紧急且重要；第二象限重要但不紧急；第三象限紧急但不重要；第四象限不重要也不紧急。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a004"
+      ]
+    },
+    {
+      "name": "第一象限",
+      "definition": "紧急且重要，如家庭突发状况、有时限的缴费、危机事件。处理过多会让人烧干，导致危机事件增加。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a004",
+        "s-073390e63b74-c001:a005",
+        "s-073390e63b74-c001:r005"
+      ]
+    },
+    {
+      "name": "第二象限",
+      "definition": "重要但不紧急，如建立关系、发现新机会、做计划、读书。应占60%时间，投入越多第一象限危机越少。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a004",
+        "s-073390e63b74-c001:a007",
+        "s-073390e63b74-c001:a008",
+        "s-073390e63b74-c001:a020"
+      ]
+    },
+    {
+      "name": "第三象限",
+      "definition": "紧急但不重要，如换尿布、工作电话、买酱油。处理过多会变成讨好型人，注意力短暂，失去生活控制，关系肤浅。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a004",
+        "s-073390e63b74-c001:a005",
+        "s-073390e63b74-c001:r006"
+      ]
+    },
+    {
+      "name": "第四象限",
+      "definition": "不重要也不紧急，如扔垃圾、娱乐活动。过度关注会导致不负责任的生活，如啃老、沉迷游戏。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a004",
+        "s-073390e63b74-c001:a006",
+        "s-073390e63b74-c001:r007"
+      ]
+    },
+    {
+      "name": "时间分配比例",
+      "definition": "第二象限占60%，第一象限占15%，第三象限占剩余时间，第四象限尽量减少。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a007"
+      ]
+    },
+    {
+      "name": "资源有限性",
+      "definition": "资源是有限的，不是别人有的自己都一定要有。孩子需要明白资源有限，帮助思考资源获取。",
+      "atom_ids": [
+        "s-073390e63b74-c002:a001",
+        "s-073390e63b74-c002:a004"
+      ]
+    },
+    {
+      "name": "情绪接纳",
+      "definition": "当孩子因资源有限而难过时，父母应接纳情绪，不劝他们不要难过，因为难过是生活常态。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a011",
+        "s-073390e63b74-c002:a003"
+      ]
+    },
+    {
+      "name": "父母心态",
+      "definition": "父母不应因无法给孩子提供更好的经济、学业或生活环境而内疚自责，因为资源有限。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a012"
+      ]
+    },
+    {
+      "name": "儿童发展研究",
+      "definition": "约92.8%的10岁以下孩子很难指认一个月中重要的事情；15岁以下孩子中67%到72%无法指认。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a013",
+        "s-073390e63b74-c001:r003"
+      ]
+    },
+    {
+      "name": "时间审计方法",
+      "definition": "写下一天实际做的事情，与计划对比，发现计划中大部分没完成，只完成必须马上做的，反而做了很多琐碎小事。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a016"
+      ]
+    },
+    {
+      "name": "父母榜样作用",
+      "definition": "如果父母自己都不知道如何分清轻重缓急，就不可能让孩子有条理地打理生活。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a017",
+        "s-073390e63b74-c001:r004"
+      ]
+    },
+    {
+      "name": "象限重要性",
+      "definition": "第二象限最重要，第一象限不是最重要的。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a019",
+        "s-073390e63b74-c001:a020"
+      ]
+    },
+    {
+      "name": "能力效果",
+      "definition": "能够分清轻重缓急的人生活会放松很多，越能分清越不忙，日子越不紧迫。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a023"
+      ]
+    },
+    {
+      "name": "效率与精力",
+      "definition": "除了分清轻重缓急，工作效率高和精力充沛也是能完成很多事情的关键。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a024",
+        "s-073390e63b74-c001:r002"
+      ]
+    },
+    {
+      "name": "想要与需要",
+      "definition": "想要不等于需要。需要是离开了这个事情生活会受到影响；想要是没有它生活不会受到太大影响。",
+      "atom_ids": [
+        "s-073390e63b74-c002:a007",
+        "s-073390e63b74-c002:a014",
+        "s-073390e63b74-c002:a015"
+      ]
+    },
+    {
+      "name": "需要与紧急的关联",
+      "definition": "需要是紧急的，想要是不紧急的。",
+      "atom_ids": [
+        "s-073390e63b74-c002:a013"
+      ]
+    },
+    {
+      "name": "机会成本",
+      "definition": "有所失有所得。选择意味着放弃其他可能。",
+      "atom_ids": [
+        "s-073390e63b74-c002:a020",
+        "s-073390e63b74-c002:a022"
+      ]
+    },
+    {
+      "name": "收益与成本",
+      "definition": "收益是从自己的选择中可以享受的；成本是在选择A时放弃的B、C、D等。",
+      "atom_ids": [
+        "s-073390e63b74-c002:a024"
+      ]
+    },
+    {
+      "name": "延迟满足",
+      "definition": "训练孩子延迟满足的两个字：等和忍。延迟满足能力不足导致混乱。",
+      "atom_ids": [
+        "s-073390e63b74-c002:a028",
+        "s-073390e63b74-c002:a029"
+      ]
+    },
+    {
+      "name": "12种能力相通",
+      "definition": "12种能力不是独立的，而是相通、相辅相成的。建立一种能力后，其他事情也会通。",
+      "atom_ids": [
+        "s-073390e63b74-c002:a019"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-073390e63b74-c001:a002",
+      "target": "s-073390e63b74-c001:a001",
+      "kind": "causes",
+      "condition": "如果采用错误排序方式",
+      "reason": "错误排序方式导致长期紧绷焦虑，是缺乏分清轻重缓急能力的后果。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a003",
+      "target": "s-073390e63b74-c001:a002",
+      "kind": "contrasts",
+      "condition": "正确方法与错误方法对比",
+      "reason": "正确方法是先建立象限框架，错误方法是先有一堆事情再分类。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a004",
+      "target": "s-073390e63b74-c001:a003",
+      "kind": "step_of",
+      "condition": "四象限是框架的具体内容",
+      "reason": "正确方法需要先建立四象限框架。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a005",
+      "target": "s-073390e63b74-c001:a004",
+      "kind": "applies_to",
+      "condition": "第一象限和第三象限的区别",
+      "reason": "说明第一象限和第三象限的后果。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a006",
+      "target": "s-073390e63b74-c001:a004",
+      "kind": "applies_to",
+      "condition": "第四象限的后果",
+      "reason": "说明第四象限过度关注的后果。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a007",
+      "target": "s-073390e63b74-c001:a004",
+      "kind": "applies_to",
+      "condition": "时间分配比例",
+      "reason": "给出各象限的时间分配建议。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a008",
+      "target": "s-073390e63b74-c001:a004",
+      "kind": "supports",
+      "condition": "第二象限投入的长期效果",
+      "reason": "说明第二象限投入的长期效果。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a009",
+      "target": "s-073390e63b74-c001:a001",
+      "kind": "step_of",
+      "condition": "训练孩子分清轻重缓急的底层逻辑第一点",
+      "reason": "训练孩子评估自身状况是培养能力的方法。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a010",
+      "target": "s-073390e63b74-c001:a009",
+      "kind": "example_of",
+      "condition": "该案例展示了资源有限和父母不内疚的具体情境",
+      "reason": "案例中孩子想吃西瓜但已吃完，妈妈拒绝购买并允许孩子难过，具体演示了“训练孩子分清轻重缓急的底层逻辑”中关于资源有限和父母不因无法提供更多而内疚的方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c001:a011",
+      "target": "s-073390e63b74-c001:a010",
+      "kind": "association",
+      "condition": "案例中妈妈接纳孩子难过情绪，与接纳难过情绪概念相关，但方向相反",
+      "reason": "该关系与上一条重复且方向有误，原为概念支持案例，但实际应是案例演示概念；调整为关联关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c001:a012",
+      "target": "s-073390e63b74-c001:a009",
+      "kind": "supports",
+      "condition": "父母不应因资源有限而内疚",
+      "reason": "父母心态是训练孩子评估自身状况的一部分。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a013",
+      "target": "s-073390e63b74-c001:a014",
+      "kind": "causes",
+      "condition": "孩子无法指认重要事情的比例",
+      "reason": "孩子无法计划长期目标是因为缺乏分清轻重缓急的能力。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a015",
+      "target": "s-073390e63b74-c001:a016",
+      "kind": "example_of",
+      "condition": "斯坦福名校毕业学员的案例",
+      "reason": "案例说明通过记录对比发现时间分配问题。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a017",
+      "target": "s-073390e63b74-c001:a001",
+      "kind": "prerequisite",
+      "condition": "父母自己需要具备能力",
+      "reason": "父母无法给孩子自己没有的能力。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a019",
+      "target": "s-073390e63b74-c001:a018",
+      "kind": "contrasts",
+      "condition": "第一象限不是最重要的",
+      "reason": "与常见误区对比。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a020",
+      "target": "s-073390e63b74-c001:a019",
+      "kind": "contrasts",
+      "condition": "第二象限才是最重要的",
+      "reason": "与第一象限对比。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a021",
+      "target": "s-073390e63b74-c001:a009",
+      "kind": "supports",
+      "condition": "训练孩子的五个底层逻辑（仅第一点）",
+      "reason": "补充说明训练方法。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a022",
+      "target": "s-073390e63b74-c001:a002",
+      "kind": "example_of",
+      "condition": "常见错误排序方式的具体表现",
+      "reason": "举例说明错误排序方式。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a023",
+      "target": "s-073390e63b74-c001:a001",
+      "kind": "supports",
+      "condition": "能力带来的放松感",
+      "reason": "说明能力的效果。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a024",
+      "target": "s-073390e63b74-c001:a023",
+      "kind": "supports",
+      "condition": "工作效率和精力也是关键",
+      "reason": "补充说明完成事情的关键因素。"
+    },
+    {
+      "source": "s-073390e63b74-c001:r001",
+      "target": "s-073390e63b74-c001:a002",
+      "kind": "supports",
+      "condition": "错误排序方式导致长期紧绷的具体机制",
+      "reason": "详细解释错误排序方式的后果。"
+    },
+    {
+      "source": "s-073390e63b74-c001:r003",
+      "target": "s-073390e63b74-c001:a013",
+      "kind": "supports",
+      "condition": "孩子无法指认重要事情的比例与长期目标的关系",
+      "reason": "补充研究数据与长期目标的关系。"
+    },
+    {
+      "source": "s-073390e63b74-c001:r005",
+      "target": "s-073390e63b74-c001:a005",
+      "kind": "supports",
+      "condition": "第一象限处理过多导致危机事件增加",
+      "reason": "补充第一象限的后果。"
+    },
+    {
+      "source": "s-073390e63b74-c001:r006",
+      "target": "s-073390e63b74-c001:a005",
+      "kind": "supports",
+      "condition": "第三象限处理过多导致讨好型人格",
+      "reason": "补充第三象限的后果。"
+    },
+    {
+      "source": "s-073390e63b74-c001:r007",
+      "target": "s-073390e63b74-c001:a006",
+      "kind": "supports",
+      "condition": "第四象限处理过多导致不负责任的生活",
+      "reason": "补充第四象限的后果。"
+    },
+    {
+      "source": "s-073390e63b74-c001:r008",
+      "target": "s-073390e63b74-c001:a009",
+      "kind": "supports",
+      "condition": "具体方法补充了底层逻辑中关于资源有限的训练",
+      "reason": "该原子与上一条类似，补充了让孩子体验资源耗尽的具体方法，支持“训练孩子分清轻重缓急的底层逻辑”中关于资源有限和量力而为的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c001:a010",
+      "target": "s-073390e63b74-c001:a010",
+      "kind": "supports",
+      "condition": "西瓜吃完的案例（补充细节）",
+      "reason": "补充案例细节。"
+    },
+    {
+      "source": "s-073390e63b74-c001:a011",
+      "target": "s-073390e63b74-c001:a011",
+      "kind": "supports",
+      "condition": "接纳孩子因资源有限产生的难过情绪",
+      "reason": "补充情绪接纳的方法。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a001",
+      "target": "s-073390e63b74-c001:a009",
+      "kind": "supports",
+      "condition": "资源有限性",
+      "reason": "资源有限是训练孩子评估自身状况的基础。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a002",
+      "target": "s-073390e63b74-c001:a010",
+      "kind": "association",
+      "condition": "两个案例内容重复",
+      "reason": "两个案例原子描述同一事件，只是表达略有差异，不存在支持关系；调整为关联关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c002:a003",
+      "target": "s-073390e63b74-c001:a011",
+      "kind": "supports",
+      "condition": "难过是生活常态为接纳情绪提供理由",
+      "reason": "“难过是生活常态”直接说明了为什么父母不应劝孩子不要难过，支持“接纳孩子因资源有限产生的难过情绪”的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c002:a004",
+      "target": "s-073390e63b74-c002:a001",
+      "kind": "supports",
+      "condition": "资源有限帮助孩子思考资源获取",
+      "reason": "说明资源有限的作用。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a005",
+      "target": "s-073390e63b74-c002:a004",
+      "kind": "step_of",
+      "condition": "帮助孩子讨论资源与选择",
+      "reason": "具体方法。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a006",
+      "target": "s-073390e63b74-c002:a005",
+      "kind": "step_of",
+      "condition": "询问孩子是否有钱购买想要的东西",
+      "reason": "具体练习。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a007",
+      "target": "s-073390e63b74-c002:a001",
+      "kind": "supports",
+      "condition": "想要与需要的区别",
+      "reason": "资源有限帮助区分想要和需要。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a008",
+      "target": "s-073390e63b74-c002:a007",
+      "kind": "step_of",
+      "condition": "通过写愿望清单分辨想要和需要",
+      "reason": "具体方法。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a009",
+      "target": "s-073390e63b74-c002:a007",
+      "kind": "step_of",
+      "condition": "习惯性询问孩子某物是想要还是需要",
+      "reason": "具体练习。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a010",
+      "target": "s-073390e63b74-c002:a007",
+      "kind": "example_of",
+      "condition": "巧克力例子说明想要与需要的区别",
+      "reason": "“巧克力在不同场景下可能是想要或需要”通过低血糖和吃饱后想吃巧克力两种情况，具体演示了“想要与需要的区别”中的相对性，作为示例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c002:a011",
+      "target": "s-073390e63b74-c002:a007",
+      "kind": "example_of",
+      "condition": "电脑在不同用途下可能是想要或需要",
+      "reason": "举例说明。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a012",
+      "target": "s-073390e63b74-c002:a007",
+      "kind": "supports",
+      "condition": "帮助孩子区分紧急重要与不紧急不重要",
+      "reason": "区分想要和需要有助于四象限分类。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a013",
+      "target": "s-073390e63b74-c002:a007",
+      "kind": "supports",
+      "condition": "需要与紧急、想要与不紧急的关联",
+      "reason": "关联紧急程度。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a014",
+      "target": "s-073390e63b74-c002:a007",
+      "kind": "supports",
+      "condition": "需要的定义",
+      "reason": "定义需要。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a015",
+      "target": "s-073390e63b74-c002:a007",
+      "kind": "supports",
+      "condition": "想要的定义",
+      "reason": "定义想要。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a016",
+      "target": "s-073390e63b74-c002:a007",
+      "kind": "step_of",
+      "condition": "通过拿走玩具来分辨想要和需要",
+      "reason": "具体练习。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a017",
+      "target": "s-073390e63b74-c002:a016",
+      "kind": "example_of",
+      "condition": "孩子学会区分睡觉和玩玩具",
+      "reason": "案例说明训练效果。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a018",
+      "target": "s-073390e63b74-c002:a017",
+      "kind": "supports",
+      "condition": "能力建立后大脑清晰，亲子教育更容易",
+      "reason": "说明能力建立的效果。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a019",
+      "target": "s-073390e63b74-c002:a018",
+      "kind": "supports",
+      "condition": "12种能力相通相辅相成",
+      "reason": "说明能力相通。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a020",
+      "target": "s-073390e63b74-c002:a022",
+      "kind": "supports",
+      "condition": "机会成本定义支持选择意味着放弃其他可能",
+      "reason": "机会成本定义中的“有所失有所得”直接支持“选择意味着放弃其他可能”的命题，两者内容一致。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c002:a021",
+      "target": "s-073390e63b74-c002:a020",
+      "kind": "step_of",
+      "condition": "通过交换玩具是训练机会成本的一种方法",
+      "reason": "“通过交换玩具训练机会成本”提供了具体操作（拿一个玩具放回一个），是实现“机会成本的定义”中“有所失有所得”目标的步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c002:a022",
+      "target": "s-073390e63b74-c002:a020",
+      "kind": "supports",
+      "condition": "选择放弃其他可能说明机会成本",
+      "reason": "“选择意味着放弃其他可能”阐释了机会成本的核心含义，支持“机会成本的定义”。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c002:a023",
+      "target": "s-073390e63b74-c002:a022",
+      "kind": "supports",
+      "condition": "允许犯错帮助建立选择能力，从而支持理解放弃可能",
+      "reason": "“允许孩子犯错以建立智慧谨慎”说明了建立选择能力的途径，而“选择意味着放弃其他可能”提到能力建立后可理解放弃选择，因此提供支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c002:a024",
+      "target": "s-073390e63b74-c002:a020",
+      "kind": "supports",
+      "condition": "收益与成本定义是机会成本定义的基础",
+      "reason": "“收益与成本的定义”分解了选择的所得和所失，为“机会成本的定义”中“有所失有所得”提供基础支撑。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c002:a025",
+      "target": "s-073390e63b74-c002:a024",
+      "kind": "step_of",
+      "condition": "衡量成本与收益的方法运用了收益与成本定义",
+      "reason": "“衡量成本与收益的方法”具体说明如何比较选择A的享受与放弃的B、C、D，是“收益与成本的定义”的实际应用步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c002:a026",
+      "target": "s-073390e63b74-c002:a025",
+      "kind": "example_of",
+      "condition": "五一长假选择是衡量成本与收益方法的实例",
+      "reason": "“五一长假选择去海边还是奶奶家”具体展示了在互斥选择中权衡收益和成本，作为“衡量成本与收益的方法”的示例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c002:a027",
+      "target": "s-073390e63b74-c002:a025",
+      "kind": "supports",
+      "condition": "多方位比较有利于正确选择，支持衡量方法的价值",
+      "reason": "“多方位比较提高正确选择的可能性”说明了比较衡量对决策的积极作用，支持“衡量成本与收益的方法”所强调的比较选择。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c002:a028",
+      "target": "s-073390e63b74-c002:a029",
+      "kind": "causes",
+      "condition": "延迟满足能力不足导致混乱",
+      "reason": "延迟满足能力不足导致混乱，需要训练。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a029",
+      "target": "s-073390e63b74-c002:a028",
+      "kind": "supports",
+      "condition": "训练延迟满足：等和忍",
+      "reason": "训练方法。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a030",
+      "target": "s-073390e63b74-c002:a029",
+      "kind": "step_of",
+      "condition": "让孩子在大人说话时等待是训练“等”的方法",
+      "reason": "该原子描述了训练孩子等待的具体做法，对应“训练延迟满足：等和忍”中的“等”，属于具体步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c002:a031",
+      "target": "s-073390e63b74-c002:a029",
+      "kind": "step_of",
+      "condition": "训练等待：旅游计划提前告知",
+      "reason": "具体练习。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a032",
+      "target": "s-073390e63b74-c002:a029",
+      "kind": "step_of",
+      "condition": "糖果延迟满足是训练“忍”的方法",
+      "reason": "该原子通过半颗糖到一颗糖的延迟满足设计训练忍耐，对应“训练延迟满足：等和忍”中的“忍”，属于具体步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-073390e63b74-c002:a033",
+      "target": "s-073390e63b74-c002:a029",
+      "kind": "supports",
+      "condition": "延迟满足训练后思路理清",
+      "reason": "训练效果。"
+    },
+    {
+      "source": "s-073390e63b74-c002:a013",
+      "target": "s-073390e63b74-c002:a013",
+      "kind": "supports",
+      "condition": "需要与紧急、想要与不紧急的关联",
+      "reason": "重复强调。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "内在能力",
+      "to": "界限",
+      "when": "训练孩子评估自身状况时，需要让孩子明白资源有限，这涉及界限模块。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a009",
+        "s-073390e63b74-c002:a001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "内在能力",
+      "to": "理解情绪",
+      "when": "当孩子因资源有限而难过时，父母需要接纳情绪，这涉及理解情绪模块。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a011",
+        "s-073390e63b74-c002:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "内在能力",
+      "to": "自我修养",
+      "when": "父母需要自身具备分清轻重缓急的能力，并调整心态不内疚，这涉及自我修养模块。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a017",
+        "s-073390e63b74-c001:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "内在能力",
+      "to": "阶段与角色",
+      "when": "根据儿童发展阶段，孩子难以指认重要事情，需要从小培养能力，这涉及阶段与角色模块。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-073390e63b74-c001:a013",
+        "s-073390e63b74-c001:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "内在能力",
+      "to": "依赖与失控",
+      "when": "延迟满足能力不足导致混乱，需要训练，这涉及依赖与失控模块。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-073390e63b74-c002:a028"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-073390e63b74-c001:a010",
+        "s-073390e63b74-c002:a002"
+      ],
+      "reason": "三个记录描述同一个西瓜吃完的案例，内容实质相同。"
+    },
+    {
+      "atom_ids": [
+        "s-073390e63b74-c001:a011",
+        "s-073390e63b74-c002:a003"
+      ],
+      "reason": "三个记录都强调接纳孩子因资源有限产生的难过情绪，内容实质相同。"
+    },
+    {
+      "atom_ids": [
+        "s-073390e63b74-c001:a017",
+        "s-073390e63b74-c001:r004"
+      ],
+      "reason": "两个记录内容完全相同，都是父母无法给孩子自己没有的能力。"
+    },
+    {
+      "atom_ids": [
+        "s-073390e63b74-c001:a024",
+        "s-073390e63b74-c001:r002"
+      ],
+      "reason": "两个记录内容完全相同，都是讲师认为工作效率和精力也是关键。"
+    },
+    {
+      "atom_ids": [
+        "s-073390e63b74-c001:a013",
+        "s-073390e63b74-c001:r003"
+      ],
+      "reason": "两个记录内容基本相同，都是孩子无法指认重要事情的比例与长期目标的关系。"
+    },
+    {
+      "atom_ids": [
+        "s-073390e63b74-c002:a013"
+      ],
+      "reason": "两个记录内容完全相同，都是需要是紧急的，想要是不紧急的。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-073390e63b74-c001:a007",
+        "s-073390e63b74-c001:a019"
+      ],
+      "description": "时间分配比例中第一象限占15%，但第一象限不是最重要的，且处理过多会导致危机增加。需要明确15%是否合理，以及如何避免第一象限过多。",
+      "needed_evidence": "需要进一步说明第一象限的具体处理策略，以及15%比例的依据。"
+    },
+    {
+      "atom_ids": [
+        "s-073390e63b74-c001:a009",
+        "s-073390e63b74-c001:a012"
+      ],
+      "description": "训练孩子评估自身状况时，父母不应因无法提供更多而内疚，但父母可能面临社会压力或自身情感冲突，需要平衡。",
+      "needed_evidence": "需要提供父母如何调整心态的具体方法，以及社会压力下的应对策略。"
+    },
+    {
+      "atom_ids": [
+        "s-073390e63b74-c002:a028",
+        "s-073390e63b74-c002:a029"
+      ],
+      "description": "延迟满足能力不足导致混乱，但训练延迟满足需要等和忍，可能对孩子造成压力，需要明确训练强度和年龄适应性。",
+      "needed_evidence": "需要提供不同年龄段孩子延迟满足训练的适宜方法和强度。"
+    }
+  ],
+  "path": [
+    {
+      "name": "训练孩子分清轻重缓急的方法",
+      "steps": [
+        {
+          "action": "建立四象限框架",
+          "atom_ids": [
+            "s-073390e63b74-c001:a003",
+            "s-073390e63b74-c001:a004"
+          ],
+          "condition": "先建立框架，再放入事情"
+        },
+        {
+          "action": "让孩子明白资源有限",
+          "atom_ids": [
+            "s-073390e63b74-c001:a009",
+            "s-073390e63b74-c002:a001"
+          ],
+          "condition": "训练孩子评估自身状况"
+        },
+        {
+          "action": "区分想要和需要",
+          "atom_ids": [
+            "s-073390e63b74-c002:a007",
+            "s-073390e63b74-c002:a008",
+            "s-073390e63b74-c002:a009"
+          ],
+          "condition": "通过讨论、写愿望清单、询问等方式"
+        },
+        {
+          "action": "训练机会成本意识",
+          "atom_ids": [
+            "s-073390e63b74-c002:a020",
+            "s-073390e63b74-c002:a021",
+            "s-073390e63b74-c002:a022"
+          ],
+          "condition": "通过交换玩具等方式让孩子明白选择意味着放弃"
+        },
+        {
+          "action": "训练延迟满足",
+          "atom_ids": [
+            "s-073390e63b74-c002:a029",
+            "s-073390e63b74-c002:a030",
+            "s-073390e63b74-c002:a031",
+            "s-073390e63b74-c002:a032"
+          ],
+          "condition": "通过等待和忍耐的练习"
+        },
+        {
+          "action": "将大部分时间投入第二象限",
+          "atom_ids": [
+            "s-073390e63b74-c001:a007",
+            "s-073390e63b74-c001:a008",
+            "s-073390e63b74-c001:a020"
+          ],
+          "condition": "在能力建立后，自然将时间分配到重要但不紧急的事情上"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-073390e63b74-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-073390e63b74-c001:a022"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-073390e63b74-c001:a002",
+        "s-073390e63b74-c001:r001"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-073390e63b74-c001:a003"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c001:a004"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019",
+        "b00020",
+        "b00021",
+        "b00022",
+        "b00023",
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u006",
+      "kind": "question",
+      "atom_ids": [
+        "s-073390e63b74-c001:a018"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-073390e63b74-c001:a019",
+        "s-073390e63b74-c001:r005"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-073390e63b74-c001:a005",
+        "s-073390e63b74-c001:r006"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u009",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-073390e63b74-c001:a006",
+        "s-073390e63b74-c001:r007"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u010",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-073390e63b74-c001:a020"
+      ],
+      "blocks": [
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-073390e63b74-c001:a007"
+      ],
+      "blocks": [
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-073390e63b74-c001:a008"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-073390e63b74-c001:a009",
+        "s-073390e63b74-c001:a021"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u014",
+      "kind": "condition",
+      "atom_ids": [
+        "s-073390e63b74-c001:a012"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c001:r008"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-073390e63b74-c001:a010"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-073390e63b74-c001:a011"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c001:a013",
+        "s-073390e63b74-c001:r003"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c001:a014"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u020",
+      "kind": "case",
+      "atom_ids": [
+        "s-073390e63b74-c001:a015"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u021",
+      "kind": "method",
+      "atom_ids": [
+        "s-073390e63b74-c001:a016"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u022",
+      "kind": "condition",
+      "atom_ids": [
+        "s-073390e63b74-c001:a017",
+        "s-073390e63b74-c001:r004"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u023",
+      "kind": "case",
+      "atom_ids": [
+        "s-073390e63b74-c001:a023"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c001:u024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c001:a024",
+        "s-073390e63b74-c001:r002"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u1",
+      "kind": "case",
+      "atom_ids": [
+        "s-073390e63b74-c002:a002"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u2",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c002:a003"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u3",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c002:a001",
+        "s-073390e63b74-c002:a004"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u4",
+      "kind": "method",
+      "atom_ids": [
+        "s-073390e63b74-c002:a005"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u5",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-073390e63b74-c002:a006"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u6",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c002:a007"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u7",
+      "kind": "method",
+      "atom_ids": [
+        "s-073390e63b74-c002:a008"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u8",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-073390e63b74-c002:a009"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u9",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c002:a010",
+        "s-073390e63b74-c002:a011"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u10",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c002:a012"
+      ],
+      "blocks": [
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u11",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c002:a013"
+      ],
+      "blocks": [
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u12",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c002:a014",
+        "s-073390e63b74-c002:a015"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u13",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-073390e63b74-c002:a016"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u14",
+      "kind": "case",
+      "atom_ids": [
+        "s-073390e63b74-c002:a017"
+      ],
+      "blocks": [
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u15",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c002:a018"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u16",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c002:a019"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u17",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c002:a020"
+      ],
+      "blocks": [
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u18",
+      "kind": "method",
+      "atom_ids": [
+        "s-073390e63b74-c002:a021"
+      ],
+      "blocks": [
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u19",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c002:a022"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u20",
+      "kind": "method",
+      "atom_ids": [
+        "s-073390e63b74-c002:a023"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u21",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c002:a024"
+      ],
+      "blocks": [
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u22",
+      "kind": "method",
+      "atom_ids": [
+        "s-073390e63b74-c002:a025"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u23",
+      "kind": "case",
+      "atom_ids": [
+        "s-073390e63b74-c002:a026"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u24",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c002:a027"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u25",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c002:a028"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u26",
+      "kind": "method",
+      "atom_ids": [
+        "s-073390e63b74-c002:a029"
+      ],
+      "blocks": [
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u27",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-073390e63b74-c002:a030"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u28",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-073390e63b74-c002:a031"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u29",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-073390e63b74-c002:a032"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-073390e63b74-c002:u30",
+      "kind": "concept",
+      "atom_ids": [
+        "s-073390e63b74-c002:a033"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

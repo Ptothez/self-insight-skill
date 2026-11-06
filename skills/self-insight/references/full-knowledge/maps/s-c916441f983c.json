@@ -1,0 +1,220 @@
+{
+  "concepts": [
+    {
+      "name": "同理心",
+      "definition": "孩子最需要具备的能力之一，能够帮助孩子建立安全感以及与他人建立坚实关系的能力，使孩子处于随时随地可以学习的位置，鼓励孩子通过包容和接纳他人来获得开阔的视野和心胸，从而成为有领导力的人。",
+      "atom_ids": [
+        "s-c916441f983c-c001:a001"
+      ]
+    },
+    {
+      "name": "同理心的长期积极结果",
+      "definition": "富有同理心的孩子在成年后在社交和工作上更出色、成功，生活中更快乐；婚姻满足感高，离婚率低，更善于处理矛盾，更可能成为公司领导或专业精英，且患抑郁症、强迫症和自杀的几率更低。",
+      "atom_ids": [
+        "s-c916441f983c-c001:a002"
+      ]
+    },
+    {
+      "name": "培养同理心的两步法",
+      "definition": "第一步，帮助孩子认知自己的情绪并了解情绪产生的原因；第二步，与孩子讨论其他人的感受及原因，让孩子将自己的感觉与对方的感觉联系起来。",
+      "atom_ids": [
+        "s-c916441f983c-c001:a003"
+      ]
+    },
+    {
+      "name": "某位妈妈引导孩子认知姐姐情绪",
+      "definition": "美国妈妈某位妈妈带两个孩子去朋友家玩，老二捣乱导致老大生气，某位妈妈通过反复提问引导老二关注姐姐的感受，老二观察后说出“姐姐不高兴”，随后自己找玩具玩，不再打扰。",
+      "atom_ids": [
+        "s-c916441f983c-c001:a004"
+      ]
+    },
+    {
+      "name": "右脑与左脑的功能区分",
+      "definition": "右脑负责表达情绪，左脑负责管理和控制因情绪而产生的行为。表达情绪是好的，不应一味压制右脑，但需要帮助孩子在情绪激烈时让左脑也动起来，约束和管理行为。",
+      "atom_ids": [
+        "s-c916441f983c-c001:a005"
+      ]
+    },
+    {
+      "name": "通过提问引导左脑平衡情绪",
+      "definition": "通过提问帮助孩子思考如何帮助自己平衡情绪，可以练习运用左脑，使左右脑达到平衡状态。",
+      "atom_ids": [
+        "s-c916441f983c-c001:a006"
+      ]
+    },
+    {
+      "name": "同理心能力可在日常交往中建立",
+      "definition": "父母不需要花钱送孩子去外面学习领导能力或感知幸福的课程，只要父母做好引导，这些能力可以在与父母日复一日的日常生活交往中建立起来，且比补习班更自然、更坚实。",
+      "atom_ids": [
+        "s-c916441f983c-c001:a007"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-c916441f983c-c001:a003",
+      "target": "s-c916441f983c-c001:a004",
+      "kind": "example_of",
+      "condition": "案例体现了培养同理心两步法中的第二步。",
+      "reason": "某位妈妈引导孩子认知姐姐情绪的案例是培养同理心两步法中第二步的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向已修正为案例指向方法；原方向反了。"
+    },
+    {
+      "source": "s-c916441f983c-c001:a005",
+      "target": "s-c916441f983c-c001:a006",
+      "kind": "supports",
+      "condition": "a006的提问方法基于a005的左右脑功能区分，通过提问激活左脑来平衡情绪。",
+      "reason": "a005说明左脑负责管理行为，a006提出通过提问练习运用左脑，两者在机制上相关。"
+    },
+    {
+      "source": "s-c916441f983c-c001:a003",
+      "target": "s-c916441f983c-c001:a006",
+      "kind": "association",
+      "condition": "两者方法相关但无直接支持关系。",
+      "reason": "培养同理心的第一步帮助孩子认知情绪，而通过提问引导左脑平衡情绪可作为辅助手段，两者互补但不足以构成支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系改为关联；方法间关联而非证据支持。"
+    },
+    {
+      "source": "s-c916441f983c-c001:a001",
+      "target": "s-c916441f983c-c001:a002",
+      "kind": "supports",
+      "condition": "同理心的重要性由研究证据支撑。",
+      "reason": "关于同理心带来长期积极结果的研究支持了同理心有助于建立关系和领导力的主张。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "研究证据支持重要性主张，方向成立。"
+    },
+    {
+      "source": "s-c916441f983c-c001:a003",
+      "target": "s-c916441f983c-c001:a007",
+      "kind": "supports",
+      "condition": "具体培养步骤支持日常引导即可建立同理心的观点。",
+      "reason": "培养同理心的两步法提供了可操作的方法，支持了同理心能力可在日常交往中由父母引导建立的主张。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "方法作为证据支持日常培养途径，方向成立。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "理解情绪",
+      "when": "培养同理心时，需要先帮助孩子认知自己的情绪（右脑情绪连接），再引导孩子理解他人情绪，整个过程都在理解情绪模块内完成。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-c916441f983c-c001:a003",
+        "s-c916441f983c-c001:a004",
+        "s-c916441f983c-c001:a005",
+        "s-c916441f983c-c001:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "scope": "within_module",
+      "source_limits": []
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [
+    {
+      "name": "培养同理心的两步法",
+      "steps": [
+        {
+          "action": "帮助孩子认知自己的情绪并了解情绪产生的原因",
+          "atom_ids": [
+            "s-c916441f983c-c001:a003"
+          ],
+          "condition": "这一步在右脑情绪连接中已做到，是培养同理心的基础。"
+        },
+        {
+          "action": "与孩子讨论其他人的感受及原因",
+          "atom_ids": [
+            "s-c916441f983c-c001:a003",
+            "s-c916441f983c-c001:a004"
+          ],
+          "condition": "通过提问引导孩子关注他人感受，例如某位妈妈的案例中反复询问姐姐的心情。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-c916441f983c-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c916441f983c-c001:a001"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-c916441f983c-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c916441f983c-c001:a002"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-c916441f983c-c001:u003",
+      "kind": "method",
+      "atom_ids": [
+        "s-c916441f983c-c001:a003"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-c916441f983c-c001:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-c916441f983c-c001:a004"
+      ],
+      "blocks": [
+        "b00014",
+        "b00016",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-c916441f983c-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c916441f983c-c001:a005"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-c916441f983c-c001:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-c916441f983c-c001:a006"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-c916441f983c-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c916441f983c-c001:a007"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

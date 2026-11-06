@@ -1,0 +1,901 @@
+{
+  "concepts": [
+    {
+      "name": "专注力误区",
+      "definition": "家长对儿童专注力的错误认知，包括以成人标准预估作业时间、认为专注等于状态好、认为曾经专注过等于持续专注能力、与其他孩子比较等。",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a001",
+        "s-1e504fca2376-c001:a003",
+        "s-1e504fca2376-c001:a004",
+        "s-1e504fca2376-c001:a005",
+        "s-1e504fca2376-c001:a007",
+        "s-1e504fca2376-c001:a008",
+        "s-1e504fca2376-c001:r001",
+        "s-1e504fca2376-c001:r002",
+        "s-1e504fca2376-c001:r006",
+        "s-1e504fca2376-c001:xe002"
+      ]
+    },
+    {
+      "name": "儿童注意力特点",
+      "definition": "儿童注意力敏锐，能注意到细微变化和外界声音，容易发呆和想象，注意力长度因年龄而异且通常低于十分钟。",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a002",
+        "s-1e504fca2376-c001:r002",
+        "s-1e504fca2376-c001:r003",
+        "s-1e504fca2376-c001:r004",
+        "s-1e504fca2376-c001:r005"
+      ]
+    },
+    {
+      "name": "个体生长差异",
+      "definition": "每个孩子生长速度不同，有的像树长得快但有限，有的像竹子七年不长但之后快速生长，不能以当前表现定论。",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a005",
+        "s-1e504fca2376-c001:a006"
+      ]
+    },
+    {
+      "name": "亲子关系恶化",
+      "definition": "家长对专注力有误区时，容易勉强孩子做做不到的事，导致孩子挫败、罪恶感，家长也挫败，双方关系变糟糕、陌生、不亲密。",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a007"
+      ]
+    },
+    {
+      "name": "家长焦虑",
+      "definition": "家长因辅导作业焦虑，试过打骂、奖励、惩罚等方法无效，孩子听不进去，家庭关系紧张。",
+      "atom_ids": [
+        "s-1e504fca2376-c001:xe002",
+        "s-1e504fca2376-c001:xe003"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-1e504fca2376-c001:a001",
+      "target": "s-1e504fca2376-c001:r002",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "两者均指出孩子注意力长度因年龄而异且通常低于十分钟，前者指出家长误区，后者具体说明该结论及例外。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-1e504fca2376-c001:a002",
+      "target": "s-1e504fca2376-c001:r003",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00002 说明孩子注意力敏锐导致发呆和分心，k00011 解释发呆是因为注意力敏锐能注意到新事物并展开想象，两者一致。"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a002",
+      "target": "s-1e504fca2376-c001:r005",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00002 提到外界声音会立刻吸引孩子注意，k00013 具体说明孩子对外界声音敏感，两者一致。"
+    },
+    {
+      "source": "s-1e504fca2376-c001:r003",
+      "target": "s-1e504fca2376-c001:r004",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00011 说明孩子做作业时容易发呆，k00012 建议预留时间发呆和东摸西摸，两者相关。"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a003",
+      "target": "s-1e504fca2376-c001:r006",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00003 和 k00014 内容几乎相同，都说明专注不等于状态好，可能因情绪低落。"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a004",
+      "target": "s-1e504fca2376-c001:a004",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00004 和 k00015 内容几乎相同，都说明曾经专注过不等于持续专注能力。"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a005",
+      "target": "s-1e504fca2376-c001:a005",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00005 和 k00016 内容几乎相同，都说明不要与其他孩子比较，每个孩子生长速度不同。"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a006",
+      "target": "s-1e504fca2376-c001:a006",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00006 和 k00017 内容几乎相同，都是讲师个人成长案例，说明孩子生长速度不同。"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a007",
+      "target": "s-1e504fca2376-c001:a007",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00007 和 k00018 内容几乎相同，都说明误区导致亲子关系恶化。"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a008",
+      "target": "s-1e504fca2376-c001:a008",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00008 和 k00019 内容几乎相同，都是课程作业反思自己的专注力误区。"
+    },
+    {
+      "source": "s-1e504fca2376-c001:xe002",
+      "target": "s-1e504fca2376-c001:xe003",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00021 提到反复说教没有用，家庭关系紧张，k00022 具体案例说明家长焦虑和无效方法，两者相关。"
+    },
+    {
+      "source": "s-1e504fca2376-c001:r001",
+      "target": "s-1e504fca2376-c001:a001",
+      "kind": "causes",
+      "condition": "当家长用成人标准预估作业时间时",
+      "reason": "k00009 指出成人心理学与儿童心理学不同，不能用成人认知判断孩子行为，这导致 k00001 中的误区。"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a001",
+      "target": "s-1e504fca2376-c001:a007",
+      "kind": "causes",
+      "condition": "当家长坚持误区并勉强孩子时",
+      "reason": "k00001 的误区导致家长勉强孩子做做不到的事，进而造成 k00007 中的亲子关系恶化。"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a005",
+      "target": "s-1e504fca2376-c001:a007",
+      "kind": "causes",
+      "condition": "当家长与其他孩子比较并施加压力时",
+      "reason": "k00005 的比较误区可能导致家长勉强孩子，进而造成 k00007 中的亲子关系恶化。"
+    },
+    {
+      "source": "s-1e504fca2376-c001:xe002",
+      "target": "s-1e504fca2376-c001:a008",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "k00021 强调认识误区的重要性，k00008 是反思误区的作业，是认识误区的具体步骤。"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n001",
+      "target": "s-1e504fca2376-c001:a001",
+      "kind": "complements",
+      "condition": "当家长按成人标准预估作业时间时",
+      "reason": "source 指出家长认为孩子会知识就应快速完成，a001 进一步补充家长常以成人标准预估时间，并说明孩子注意力长度低于十分钟，补足了误区成因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a001",
+      "target": "s-1e504fca2376-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当家长按成人标准预估作业时间时",
+      "reason": "source 指出家长认为孩子会知识就应快速完成，a001 进一步补充家长常以成人标准预估时间，并说明孩子注意力长度低于十分钟，补足了误区成因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n001",
+      "target": "s-1e504fca2376-c001:a007",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 仅陈述误区本身，a007 描述误区导致亲子关系恶化，是误区的后果，但 source 未提及后果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a007",
+      "target": "s-1e504fca2376-c001:v2-n001",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 仅陈述误区本身，a007 描述误区导致亲子关系恶化，是误区的后果，但 source 未提及后果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n001",
+      "target": "s-1e504fca2376-c001:r003",
+      "kind": "complements",
+      "condition": "当孩子做作业发呆时",
+      "reason": "source 指出孩子做作业时容易发呆走神，r003 解释了发呆原因：孩子注意力敏锐并展开想象，补充了发呆的机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:r003",
+      "target": "s-1e504fca2376-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子做作业发呆时",
+      "reason": "source 指出孩子做作业时容易发呆走神，r003 解释了发呆原因：孩子注意力敏锐并展开想象，补充了发呆的机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n001",
+      "target": "s-1e504fca2376-c001:a003",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 讨论会知识不等于能专注，a003 提出偶尔专注不代表状态好，两者相关但角度不同，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a003",
+      "target": "s-1e504fca2376-c001:v2-n001",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 讨论会知识不等于能专注，a003 提出偶尔专注不代表状态好，两者相关但角度不同，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n001",
+      "target": "s-1e504fca2376-c001:r004",
+      "kind": "complements",
+      "condition": "当孩子做作业需要预留时间时",
+      "reason": "source 将发呆走神视为问题现象，r004 说明发呆和东摸西摸是孩子自然表现，需要预留时间，补充了该现象的正常性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:r004",
+      "target": "s-1e504fca2376-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子做作业需要预留时间时",
+      "reason": "source 将发呆走神视为问题现象，r004 说明发呆和东摸西摸是孩子自然表现，需要预留时间，补充了该现象的正常性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n001",
+      "target": "s-1e504fca2376-c001:a002",
+      "kind": "complements",
+      "condition": "当孩子因注意力敏锐而分心时",
+      "reason": "source 提到孩子做作业容易发呆走神，a002 具体解释孩子注意力敏锐导致注意新事物和想象，补充了分心的原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a002",
+      "target": "s-1e504fca2376-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子因注意力敏锐而分心时",
+      "reason": "source 提到孩子做作业容易发呆走神，a002 具体解释孩子注意力敏锐导致注意新事物和想象，补充了分心的原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n001",
+      "target": "s-1e504fca2376-c001:r006",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 未涉及状态好坏判断，r006 提出专注可能因情绪低落而非状态好，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:r006",
+      "target": "s-1e504fca2376-c001:v2-n001",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 未涉及状态好坏判断，r006 提出专注可能因情绪低落而非状态好，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n001",
+      "target": "s-1e504fca2376-c001:xe001",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 描述家长误区，xe001 是家长常见专注力困扰案例，案例可视为该误区可能导致的现实表现，但方向不构成 example_of，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:xe001",
+      "target": "s-1e504fca2376-c001:v2-n001",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 描述家长误区，xe001 是家长常见专注力困扰案例，案例可视为该误区可能导致的现实表现，但方向不构成 example_of，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n001",
+      "target": "s-1e504fca2376-c001:a005",
+      "kind": "complements",
+      "condition": "当家长比较孩子时",
+      "reason": "source 讨论一种专注力误区，a005 补充了另一种误区：家长拿别的孩子比较，两者都是专注力误区，补足了误区类型。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a005",
+      "target": "s-1e504fca2376-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当家长比较孩子时",
+      "reason": "source 讨论一种专注力误区，a005 补充了另一种误区：家长拿别的孩子比较，两者都是专注力误区，补足了误区类型。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n001",
+      "target": "s-1e504fca2376-c001:a004",
+      "kind": "complements",
+      "condition": "当孩子某次专注完成作业时",
+      "reason": "source 指出会知识不等于能快速专注完成，a004 补充曾经专注过不等于持续专注能力，两者都说明不能凭单次或已知能力推断持续表现，补足了这一观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a004",
+      "target": "s-1e504fca2376-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子某次专注完成作业时",
+      "reason": "source 指出会知识不等于能快速专注完成，a004 补充曾经专注过不等于持续专注能力，两者都说明不能凭单次或已知能力推断持续表现，补足了这一观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n001",
+      "target": "s-1e504fca2376-c001:r002",
+      "kind": "complements",
+      "condition": "在正常做作业等非高兴趣活动中",
+      "reason": "source 认为孩子会知识就应快速完成，r002 提供孩子注意力长度通常低于十分钟且因年龄而异，直接解释了为什么孩子无法长时间专注作业，补足了误区根源。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:r002",
+      "target": "s-1e504fca2376-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在正常做作业等非高兴趣活动中",
+      "reason": "source 认为孩子会知识就应快速完成，r002 提供孩子注意力长度通常低于十分钟且因年龄而异，直接解释了为什么孩子无法长时间专注作业，补足了误区根源。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n001",
+      "target": "s-1e504fca2376-c001:a008",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 陈述误区，a008 是要求父母反思自己误区的作业建议，两者相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a008",
+      "target": "s-1e504fca2376-c001:v2-n001",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 陈述误区，a008 是要求父母反思自己误区的作业建议，两者相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n002",
+      "target": "s-1e504fca2376-c001:r001",
+      "kind": "complements",
+      "condition": "当家长用成人标准判断孩子时",
+      "reason": "source 指出缺乏儿童心理学认知会造成伤害，r001 说明成人心理学与儿童心理学不同，不能用成人标准，补足了为何缺乏认知会导致误判。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:r001",
+      "target": "s-1e504fca2376-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当家长用成人标准判断孩子时",
+      "reason": "source 指出缺乏儿童心理学认知会造成伤害，r001 说明成人心理学与儿童心理学不同，不能用成人标准，补足了为何缺乏认知会导致误判。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n002",
+      "target": "s-1e504fca2376-c001:a007",
+      "kind": "complements",
+      "condition": "当家长因误区勉强孩子时",
+      "reason": "source 提出缺乏认知会造成很深伤害，a007 具体描述误区导致亲子关系恶化、孩子挫败等伤害表现，补充了伤害的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a007",
+      "target": "s-1e504fca2376-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当家长因误区勉强孩子时",
+      "reason": "source 提出缺乏认知会造成很深伤害，a007 具体描述误区导致亲子关系恶化、孩子挫败等伤害表现，补充了伤害的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n002",
+      "target": "s-1e504fca2376-c001:a005",
+      "kind": "complements",
+      "condition": "当家长拿别的孩子比较时",
+      "reason": "source 泛泛指缺乏认知造成伤害，a005 指出不要与其他孩子比较的误区，补足了具体误区之一。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a005",
+      "target": "s-1e504fca2376-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当家长拿别的孩子比较时",
+      "reason": "source 泛泛指缺乏认知造成伤害，a005 指出不要与其他孩子比较的误区，补足了具体误区之一。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n002",
+      "target": "s-1e504fca2376-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当家长缺乏儿童心理学认知时",
+      "reason": "source 强调缺乏儿童心理学认知会造成伤害，v2-n001 给出一个具体误区（孩子会知识不等于能专注完成作业），补足了认知缺乏的一个实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n001",
+      "target": "s-1e504fca2376-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当家长缺乏儿童心理学认知时",
+      "reason": "source 强调缺乏儿童心理学认知会造成伤害，v2-n001 给出一个具体误区（孩子会知识不等于能专注完成作业），补足了认知缺乏的一个实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n002",
+      "target": "s-1e504fca2376-c001:xe001",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 泛论伤害，xe001 是家长常见专注力困扰案例，案例可视为伤害的潜在现实场景，但非直接说明，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:xe001",
+      "target": "s-1e504fca2376-c001:v2-n002",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 泛论伤害，xe001 是家长常见专注力困扰案例，案例可视为伤害的潜在现实场景，但非直接说明，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n002",
+      "target": "s-1e504fca2376-c001:xe003",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 泛论伤害，xe003 是家长因辅导作业焦虑案例，展示困扰，但未直接指向伤害，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:xe003",
+      "target": "s-1e504fca2376-c001:v2-n002",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 泛论伤害，xe003 是家长因辅导作业焦虑案例，展示困扰，但未直接指向伤害，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n002",
+      "target": "s-1e504fca2376-c001:xe002",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 提出需要重新审视育儿方式，xe002 强调认识专注力误区的重要性，两者都关注认知误区，但角度不同，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:xe002",
+      "target": "s-1e504fca2376-c001:v2-n002",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 提出需要重新审视育儿方式，xe002 强调认识专注力误区的重要性，两者都关注认知误区，但角度不同，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n002",
+      "target": "s-1e504fca2376-c001:a001",
+      "kind": "complements",
+      "condition": "当家长以成人标准预估时间时",
+      "reason": "source 指出缺乏儿童心理学认知造成伤害，a001 具体展示一种误区（以成人标准预估作业时间），补足了认知缺乏的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a001",
+      "target": "s-1e504fca2376-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当家长以成人标准预估时间时",
+      "reason": "source 指出缺乏儿童心理学认知造成伤害，a001 具体展示一种误区（以成人标准预估作业时间），补足了认知缺乏的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n002",
+      "target": "s-1e504fca2376-c001:a008",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 建议重新审视育儿方式，a008 是具体作业要求反思误区，两者相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a008",
+      "target": "s-1e504fca2376-c001:v2-n002",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 建议重新审视育儿方式，a008 是具体作业要求反思误区，两者相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n002",
+      "target": "s-1e504fca2376-c001:r005",
+      "kind": "complements",
+      "condition": "当孩子对外界声音敏感时",
+      "reason": "source 强调缺乏儿童心理学认知，r005 提供孩子对外界声音敏感的知识，补足了儿童心理学认知的一个具体点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:r005",
+      "target": "s-1e504fca2376-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子对外界声音敏感时",
+      "reason": "source 强调缺乏儿童心理学认知，r005 提供孩子对外界声音敏感的知识，补足了儿童心理学认知的一个具体点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n002",
+      "target": "s-1e504fca2376-c001:a003",
+      "kind": "complements",
+      "condition": "当孩子偶尔专注时",
+      "reason": "source 泛论认知缺乏，a003 提供儿童心理学知识：专注不等于状态好，补足了认知内容以防止误判。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:a003",
+      "target": "s-1e504fca2376-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子偶尔专注时",
+      "reason": "source 泛论认知缺乏，a003 提供儿童心理学知识：专注不等于状态好，补足了认知内容以防止误判。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:v2-n002",
+      "target": "s-1e504fca2376-c001:r004",
+      "kind": "complements",
+      "condition": "当孩子发呆东摸西摸时",
+      "reason": "source 强调缺乏认知造成伤害，r004 说明孩子需要预留时间发呆是自然表现，补足了儿童心理学认知，避免家长误判伤害。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1e504fca2376-c001:r004",
+      "target": "s-1e504fca2376-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子发呆东摸西摸时",
+      "reason": "source 强调缺乏认知造成伤害，r004 说明孩子需要预留时间发呆是自然表现，补足了儿童心理学认知，避免家长误判伤害。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "专注力",
+      "to": "界限",
+      "when": "家长对专注力有误区时，容易勉强孩子做做不到的事，导致亲子关系恶化，界限模糊。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "专注力",
+      "to": "规则与行动",
+      "when": "家长因辅导作业焦虑，试过打骂、奖励、惩罚等方法无效，说明规则与行动需要调整。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1e504fca2376-c001:xe003",
+        "s-1e504fca2376-c001:r004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "专注力",
+      "to": "理解情绪",
+      "when": "孩子偶尔专注快速完成作业可能因心情低落，家长需要理解情绪而非单纯看专注表现。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a003",
+        "s-1e504fca2376-c001:r006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "专注力",
+      "to": "阶段与角色",
+      "when": "每个孩子生长速度不同，家长需要理解孩子所处阶段，不能与其他孩子比较。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a005",
+        "s-1e504fca2376-c001:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "专注力",
+      "to": "自我修养",
+      "when": "家长需要反思自己的专注力误区，提升自我修养，避免因误区导致亲子关系恶化。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a008",
+        "s-1e504fca2376-c001:xe002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-1e504fca2376-c001:a003",
+        "s-1e504fca2376-c001:r006"
+      ],
+      "reason": "内容完全一致，都说明专注不等于状态好，可能因情绪低落。"
+    },
+    {
+      "atom_ids": [
+        "s-1e504fca2376-c001:a004"
+      ],
+      "reason": "内容完全一致，都说明曾经专注过不等于持续专注能力。"
+    },
+    {
+      "atom_ids": [
+        "s-1e504fca2376-c001:a005"
+      ],
+      "reason": "内容完全一致，都说明不要与其他孩子比较，每个孩子生长速度不同。"
+    },
+    {
+      "atom_ids": [
+        "s-1e504fca2376-c001:a006"
+      ],
+      "reason": "内容完全一致，都是讲师个人成长案例，说明孩子生长速度不同。"
+    },
+    {
+      "atom_ids": [
+        "s-1e504fca2376-c001:a007"
+      ],
+      "reason": "内容完全一致，都说明误区导致亲子关系恶化。"
+    },
+    {
+      "atom_ids": [
+        "s-1e504fca2376-c001:a008"
+      ],
+      "reason": "内容完全一致，都是课程作业反思自己的专注力误区。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "认识专注力误区",
+      "steps": [
+        {
+          "action": "了解常见专注力误区",
+          "atom_ids": [
+            "s-1e504fca2376-c001:a001",
+            "s-1e504fca2376-c001:a003",
+            "s-1e504fca2376-c001:a004",
+            "s-1e504fca2376-c001:a005",
+            "s-1e504fca2376-c001:r001",
+            "s-1e504fca2376-c001:r002",
+            "s-1e504fca2376-c001:r006"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "理解儿童注意力特点",
+          "atom_ids": [
+            "s-1e504fca2376-c001:a002",
+            "s-1e504fca2376-c001:r002",
+            "s-1e504fca2376-c001:r003",
+            "s-1e504fca2376-c001:r004",
+            "s-1e504fca2376-c001:r005"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "反思自己的误区",
+          "atom_ids": [
+            "s-1e504fca2376-c001:a008"
+          ],
+          "condition": "无"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "3b4b4de16c25ea6b0e93e325570ccea1a00d8e34b0428a01f2bf70e8f5fee3b8",
+  "point_units": [
+    {
+      "id": "s-1e504fca2376-c001:u0001",
+      "kind": "reported_case",
+      "atom_ids": [
+        "s-1e504fca2376-c001:xe001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-1e504fca2376-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1e504fca2376-c001:xe002"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-1e504fca2376-c001:u0003",
+      "kind": "reported_case",
+      "atom_ids": [
+        "s-1e504fca2376-c001:xe003"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-1e504fca2376-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1e504fca2376-c001:r001"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-1e504fca2376-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a001",
+        "s-1e504fca2376-c001:r002"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-1e504fca2376-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a002",
+        "s-1e504fca2376-c001:r003",
+        "s-1e504fca2376-c001:r004",
+        "s-1e504fca2376-c001:r005"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00017",
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-1e504fca2376-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1e504fca2376-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-1e504fca2376-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a003",
+        "s-1e504fca2376-c001:r006"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-1e504fca2376-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a004"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-1e504fca2376-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a005"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-1e504fca2376-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1e504fca2376-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-1e504fca2376-c001:u0012",
+      "kind": "case",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a006"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-1e504fca2376-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a007"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-1e504fca2376-c001:u0014",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-1e504fca2376-c001:a008"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "误区：孩子会知识不等于能专注完成作业",
+      "atom_ids": [
+        "s-1e504fca2376-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1e504fca2376",
+          "blocks": [
+            "b00015"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "缺乏儿童心理学认知会造成不自知的深层伤害",
+      "atom_ids": [
+        "s-1e504fca2376-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1e504fca2376",
+          "blocks": [
+            "b00024"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    }
+  ]
+}

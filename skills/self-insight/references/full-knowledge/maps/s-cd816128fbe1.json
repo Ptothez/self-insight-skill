@@ -1,0 +1,2146 @@
+{
+  "concepts": [
+    {
+      "name": "界限与规矩的区别",
+      "definition": "规矩是规定行为但缺乏违反后的后果；界限是规定行为并附带必然承受的后果。",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:r001",
+        "s-cd816128fbe1-c003:a001",
+        "s-cd816128fbe1-c003:r001"
+      ]
+    },
+    {
+      "name": "限制游戏与预防上瘾",
+      "definition": "不能通过完全禁止接触游戏来预防上瘾，但应立界限限制游戏时间。",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a001",
+        "s-cd816128fbe1-c001:a003"
+      ]
+    },
+    {
+      "name": "替代游戏的含义",
+      "definition": "替代游戏不是父母完全替代游戏功能，而是让孩子觉得生命中不只有游戏有趣，淡化游戏的主导地位。",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a004"
+      ]
+    },
+    {
+      "name": "情绪韧性",
+      "definition": "孩子像弹簧一样能调整，像仙人掌一样在任何情况下绽放；缺乏情绪韧性则像草莓一压就烂。",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a012",
+        "s-cd816128fbe1-c001:a013"
+      ]
+    },
+    {
+      "name": "情绪任性",
+      "definition": "孩子一不喜欢就不上课、不做作业、不上学，无法适应环境，导致学业和职业失败。",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a011",
+        "s-cd816128fbe1-c001:r002"
+      ]
+    },
+    {
+      "name": "配偶影响与应对",
+      "definition": "配偶对孩子有影响，不能不理；应给配偶后果，让其知道行为有代价。",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a020",
+        "s-cd816128fbe1-c001:a021",
+        "s-cd816128fbe1-c001:a022",
+        "s-cd816128fbe1-c001:a023",
+        "s-cd816128fbe1-c001:a024",
+        "s-cd816128fbe1-c001:a025",
+        "s-cd816128fbe1-c001:a026"
+      ]
+    },
+    {
+      "name": "电视与手机的上瘾风险",
+      "definition": "电视不伤眼睛但易眼干，手机屏幕近距伤害大；电视最不易上瘾，手机更易上瘾。",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a027",
+        "s-cd816128fbe1-c001:a028",
+        "s-cd816128fbe1-c001:a029",
+        "s-cd816128fbe1-c001:a030",
+        "s-cd816128fbe1-c001:a035",
+        "s-cd816128fbe1-c002:a002"
+      ]
+    },
+    {
+      "name": "承认手机好玩与信任",
+      "definition": "应大方承认手机好玩，引导节制使用；骗孩子会伤害信任。",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a031",
+        "s-cd816128fbe1-c001:a032",
+        "s-cd816128fbe1-c001:a033",
+        "s-cd816128fbe1-c001:a034",
+        "s-cd816128fbe1-c002:a001"
+      ]
+    },
+    {
+      "name": "训练孩子自己停下来的能力",
+      "definition": "立界限让孩子自己决定何时停止游戏，观察其能否做到；做不到则收走自由一周，反复训练。",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a015",
+        "s-cd816128fbe1-c002:a016",
+        "s-cd816128fbe1-c002:a017",
+        "s-cd816128fbe1-c002:a018",
+        "s-cd816128fbe1-c002:a019",
+        "s-cd816128fbe1-c002:a020"
+      ]
+    },
+    {
+      "name": "身体界限与性教育",
+      "definition": "九岁孩子摸妈妈乳房可能寻求心理安慰，建议分床并温柔询问；应供应身体和性教育，避免过度反应。",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a007",
+        "s-cd816128fbe1-c002:a009",
+        "s-cd816128fbe1-c002:a010",
+        "s-cd816128fbe1-c002:a011"
+      ]
+    },
+    {
+      "name": "霸凌应对",
+      "definition": "家长应对霸凌：找学校处理，鼓励孩子不顺服，培养辩证思维，有理有据挑战权威。",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:a007",
+        "s-cd816128fbe1-c003:a008",
+        "s-cd816128fbe1-c003:a009",
+        "s-cd816128fbe1-c003:a010",
+        "s-cd816128fbe1-c003:r002"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-cd816128fbe1-c001:a001",
+      "target": "s-cd816128fbe1-c001:a003",
+      "kind": "causes",
+      "condition": "如果不限制游戏时间",
+      "reason": "不限制游戏会导致孩子无休止地玩，推向成瘾"
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a004",
+      "target": "s-cd816128fbe1-c001:a005",
+      "kind": "supports",
+      "condition": "平衡育儿",
+      "reason": "替代游戏和平衡育儿都强调让游戏成为有趣事情之一，而非完全禁止或放任"
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a006",
+      "target": "s-cd816128fbe1-c001:a007",
+      "kind": "supports",
+      "condition": "无法改变外部环境",
+      "reason": "老师性格影响孩子，但父母无法改变老师，因此需要培养孩子适应能力"
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a009",
+      "target": "s-cd816128fbe1-c001:a010",
+      "kind": "example_of",
+      "condition": "缺乏适应能力",
+      "reason": "粉丝儿子案例说明缺乏适应能力会导致学业和职业失败，从而例证培养孩子适应能力的重要性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a011",
+      "target": "s-cd816128fbe1-c001:a010",
+      "kind": "example_of",
+      "condition": "情绪任性",
+      "reason": "粉丝儿子案例说明情绪任性导致无法适应环境，造成学业和职业失败。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系 kind 为 causes，不在允许范围内，改为 example_of。"
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a012",
+      "target": "s-cd816128fbe1-c001:a013",
+      "kind": "contrasts",
+      "condition": "有无情绪韧性",
+      "reason": "弹簧和仙人掌比喻有韧性，草莓比喻无韧性"
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a020",
+      "target": "s-cd816128fbe1-c001:a021",
+      "kind": "supports",
+      "condition": "不理配偶",
+      "reason": "不能不理配偶的命题包含鸵鸟心态的定义，指出不理不能解决问题且配偶影响不会减少，支持鸵鸟心态的表述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a022",
+      "target": "s-cd816128fbe1-c001:a023",
+      "kind": "contrasts",
+      "condition": "是否给配偶后果",
+      "reason": "给配偶后果让其日子不好过，与不理配偶的后果形成对比：前者有后果，后者没有后果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a024",
+      "target": "s-cd816128fbe1-c001:a025",
+      "kind": "example_of",
+      "condition": "丈夫需要被要求",
+      "reason": "讲师与丈夫沟通案例说明丈夫需要被要求才能改变，例证“丈夫需要被要求”的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a026",
+      "target": "s-cd816128fbe1-c001:a022",
+      "kind": "supports",
+      "condition": "闹过与不理的对比",
+      "reason": "闹过与不理的对比表明找配偶闹过能带来配合，支持给配偶后果的做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a027",
+      "target": "s-cd816128fbe1-c001:a028",
+      "kind": "contrasts",
+      "condition": "电视与手机伤害",
+      "reason": "电视不伤眼睛但眼干，手机屏幕近距伤害大"
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a029",
+      "target": "s-cd816128fbe1-c001:a030",
+      "kind": "supports",
+      "condition": "鼓励看电视",
+      "reason": "鼓励看电视的命题主张电视更不易上瘾，支持用电视替代手机的建议。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a031",
+      "target": "s-cd816128fbe1-c001:a032",
+      "kind": "supports",
+      "condition": "承认手机好玩",
+      "reason": "否认手机好玩是胡说八道，应当大方承认手机好玩并有节制地玩，支持承认手机好玩并节制的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 contrasts 不成立，二者为支持关系。"
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a033",
+      "target": "s-cd816128fbe1-c001:a034",
+      "kind": "causes",
+      "condition": "骗孩子",
+      "reason": "孩子聪明会发现被骗，伤害信任"
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a035",
+      "target": "s-cd816128fbe1-c001:a030",
+      "kind": "supports",
+      "condition": "用电视替代手机",
+      "reason": "不允许在手机上看动画片、最好在电视上看的主张支持用电视替代手机的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a036",
+      "target": "s-cd816128fbe1-c001:a029",
+      "kind": "example_of",
+      "condition": "老师孩子自控好",
+      "reason": "老师孩子自控好且喜欢看电视，说明电视不易上瘾"
+    },
+    {
+      "source": "s-cd816128fbe1-c001:r002",
+      "target": "s-cd816128fbe1-c001:a011",
+      "kind": "supports",
+      "condition": "归因错误",
+      "reason": "遇到不顺心老师不是运气不好，而是情绪任性"
+    },
+    {
+      "source": "s-cd816128fbe1-c001:r003",
+      "target": "s-cd816128fbe1-c001:a011",
+      "kind": "example_of",
+      "condition": "不喜欢老师",
+      "reason": "孩子不喜欢物理老师导致不上学，是情绪任性后果"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a001",
+      "target": "s-cd816128fbe1-c001:a032",
+      "kind": "supports",
+      "condition": "承认手机好玩",
+      "reason": "承认手机好玩并引导节制以建立信任的命题支持承认手机好玩且可节制的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a002",
+      "target": "s-cd816128fbe1-c001:a029",
+      "kind": "supports",
+      "condition": "上瘾风险",
+      "reason": "电视最不易上瘾，手机更易上瘾"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a003",
+      "target": "s-cd816128fbe1-c001:a004",
+      "kind": "example_of",
+      "condition": "替代活动",
+      "reason": "用散步互动替代电子产品的案例说明淡化游戏主导地位，例证替代游戏的含义。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a004",
+      "target": "s-cd816128fbe1-c002:a005",
+      "kind": "example_of",
+      "condition": "情绪调节缺乏",
+      "reason": "青少年用手机逃避情绪的案例说明上瘾与情绪调节能力缺乏有关，例证该命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a006",
+      "target": "s-cd816128fbe1-c002:a015",
+      "kind": "supports",
+      "condition": "训练孩子自己停下来的能力",
+      "reason": "不上瘾的孩子课程后需要建立孩子自己调节情绪的能力，训练孩子自己停下来的能力正是这种基础能力。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 prerequisite 不准确，课程关系与具体能力训练之间更接近支持关系。"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a007",
+      "target": "s-cd816128fbe1-c002:a009",
+      "kind": "association",
+      "condition": "处理摸乳房问题",
+      "reason": "九岁孩子摸妈妈乳房睡觉案例涉及分床和温柔询问等处理建议，但案例本身未证明该建议有效。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不成立，案例与建议仅为问题与对策的关联。"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a009",
+      "target": "s-cd816128fbe1-c002:a010",
+      "kind": "supports",
+      "condition": "性教育",
+      "reason": "温柔询问孩子是否看过其他女性的乳房属于身体和性教育的一部分，支持身体和性教育重要性的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a011",
+      "target": "s-cd816128fbe1-c002:a009",
+      "kind": "contrasts",
+      "condition": "过度反应",
+      "reason": "拍开手或过度反应会让孩子更感兴趣，与温柔询问、不凶的处理建议形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a012",
+      "target": "s-cd816128fbe1-c002:a013",
+      "kind": "association",
+      "condition": "家庭规则",
+      "reason": "大声喊叫与尖叫的区别和砸床的界限都是家庭中关于情绪表达的规则，但两者相互独立，没有支持或对比关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 不成立，二者为并列的家庭规则。"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a014",
+      "target": "s-cd816128fbe1-c002:a015",
+      "kind": "supports",
+      "condition": "立界限与引导并行",
+      "reason": "需要同时立界限和引导的命题支持训练孩子自己停下来的能力这一目标。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a015",
+      "target": "s-cd816128fbe1-c002:a016",
+      "kind": "step_of",
+      "condition": "训练自控",
+      "reason": "人为创造后果训练自控是训练孩子自己停下来的能力的具体步骤，用于孩子做不到时收走自由。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a016",
+      "target": "s-cd816128fbe1-c002:a017",
+      "kind": "supports",
+      "condition": "失去自由",
+      "reason": "人为创造后果训练自控运用了失去已得自由比从未得到更痛苦的原理，为该原理提供实践支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a018",
+      "target": "s-cd816128fbe1-c002:a019",
+      "kind": "supports",
+      "condition": "训练大脑",
+      "reason": "训练大脑控制行为的命题支持抵御游戏的能力与坚强意志力的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a020",
+      "target": "s-cd816128fbe1-c002:a015",
+      "kind": "example_of",
+      "condition": "关电视案例",
+      "reason": "Daniel立即关电视的案例说明训练有效，例证训练孩子自己停下来的能力。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a021",
+      "target": "s-cd816128fbe1-c002:a022",
+      "kind": "association",
+      "condition": "家庭参与游戏",
+      "reason": "兄弟一起玩和称赞孩子游戏中的具体表现都是与孩子建立连接的做法，但彼此独立，没有支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 不成立，二者为并列建议。"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a023",
+      "target": "s-cd816128fbe1-c001:a004",
+      "kind": "supports",
+      "condition": "心理需要",
+      "reason": "电子产品不应成为心理需要的唯一来源的命题支持替代游戏淡化游戏主导地位的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a026",
+      "target": "s-cd816128fbe1-c002:a015",
+      "kind": "supports",
+      "condition": "内驱力",
+      "reason": "培养内驱力需要孩子自己遵守规则，训练孩子自己停下来的能力正是让孩子自己遵守规则防止上瘾的具体操作，因此培养内驱力支持训练孩子自己停下来。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a027",
+      "target": "s-cd816128fbe1-c002:a015",
+      "kind": "association",
+      "condition": "祖辈不遵守规则",
+      "reason": "应对祖辈不遵守规则的方法旨在与祖辈立界限并让孩子知道后果，训练孩子自己停下来的能力也涉及家长立界限，但前者针对祖辈执行规则，后者针对孩子自我控制，不能直接证明支持或因果关系，仅为同一界限议题下的关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind 为 applies_to，不在允许关系列表中，改为 association。"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:a001",
+      "target": "s-cd816128fbe1-c002:r001",
+      "kind": "supports",
+      "condition": "界限与规矩区别",
+      "reason": "两者都强调界限有后果，规矩无后果"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:a002",
+      "target": "s-cd816128fbe1-c003:a001",
+      "kind": "example_of",
+      "condition": "公司考勤",
+      "reason": "公司考勤界限示例"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:a003",
+      "target": "s-cd816128fbe1-c003:a001",
+      "kind": "supports",
+      "condition": "培养内驱力",
+      "reason": "培养内驱力需立界限而非仅立规矩"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:a007",
+      "target": "s-cd816128fbe1-c003:a008",
+      "kind": "example_of",
+      "condition": "霸凌案例",
+      "reason": "一位家长保护被霸凌孩子的案例展示了家长层面介入（冲去吓哭霸凌者），属于家长应对霸凌两个层面中的第一层面，可部分例证家长保护孩子，但未涵盖第二层面鼓励挑战权威。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c003:a008",
+      "target": "s-cd816128fbe1-c003:a009",
+      "kind": "supports",
+      "condition": "挑战权威",
+      "reason": "家长应对霸凌的两个层面中鼓励孩子不顺服、培养辩证思维、有理有据挑战权威，支持顺服与挑战平衡中关于孩子应经过思考有理有据提出质疑挑战权威的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cd816128fbe1-c003:a009",
+      "target": "s-cd816128fbe1-c003:a010",
+      "kind": "supports",
+      "condition": "辩证思维",
+      "reason": "辩证思维培养孩子区别"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n001",
+      "target": "s-cd816128fbe1-c002:r001",
+      "kind": "association",
+      "condition": "两者内容几乎一致，无新增实质点",
+      "reason": "候选是源的简要复述，同样说明规矩与界限的区别，未补充新信息，因此不能作为互补，仅作为同义表述关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:r001",
+      "target": "s-cd816128fbe1-c002:v2-n001",
+      "kind": "association",
+      "condition": "两者内容几乎一致，无新增实质点",
+      "reason": "候选是源的简要复述，同样说明规矩与界限的区别，未补充新信息，因此不能作为互补，仅作为同义表述关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n001",
+      "target": "s-cd816128fbe1-c003:a001",
+      "kind": "association",
+      "condition": "两者内容几乎一致，无新增实质点",
+      "reason": "候选同样表述界限与规矩的定义区别，与源核心一致，未补充实质内容，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:a001",
+      "target": "s-cd816128fbe1-c002:v2-n001",
+      "kind": "association",
+      "condition": "两者内容几乎一致，无新增实质点",
+      "reason": "候选同样表述界限与规矩的定义区别，与源核心一致，未补充实质内容，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n001",
+      "target": "s-cd816128fbe1-c003:r001",
+      "kind": "association",
+      "condition": "候选强调界限的必然承受后果，略有侧重",
+      "reason": "候选进一步区分界限与规矩，强调界限的后果必然承受，与源定义一致但侧重点略有不同，可视为对源的强调，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:r001",
+      "target": "s-cd816128fbe1-c002:v2-n001",
+      "kind": "association",
+      "condition": "候选强调界限的必然承受后果，略有侧重",
+      "reason": "候选进一步区分界限与规矩，强调界限的后果必然承受，与源定义一致但侧重点略有不同，可视为对源的强调，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n001",
+      "target": "s-cd816128fbe1-c003:a002",
+      "kind": "association",
+      "condition": "候选为源中例子的具体化",
+      "reason": "候选详述公司考勤界限示例，源中已提及同一例子，候选补充了员工第二次迟到会紧张等细节，但未改变界限定义，仅作为具体例证关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:a002",
+      "target": "s-cd816128fbe1-c002:v2-n001",
+      "kind": "association",
+      "condition": "候选为源中例子的具体化",
+      "reason": "候选详述公司考勤界限示例，源中已提及同一例子，候选补充了员工第二次迟到会紧张等细节，但未改变界限定义，仅作为具体例证关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n001",
+      "target": "s-cd816128fbe1-c003:a003",
+      "kind": "association",
+      "condition": "候选将界限概念应用于内驱力培养",
+      "reason": "候选说明培养内驱力需立界限而非仅立规矩，属于源定义的实际应用，但未直接引用源，可能基于源概念，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:a003",
+      "target": "s-cd816128fbe1-c002:v2-n001",
+      "kind": "association",
+      "condition": "候选将界限概念应用于内驱力培养",
+      "reason": "候选说明培养内驱力需立界限而非仅立规矩，属于源定义的实际应用，但未直接引用源，可能基于源概念，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n001",
+      "target": "s-cd816128fbe1-c002:a027",
+      "kind": "association",
+      "condition": "候选为源界限原则在祖辈场景中的应用",
+      "reason": "候选提出的与爷爷奶奶立界限的具体要求（不给手机、不端饭等）体现了源的界限定义，但候选未明确引用源，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a027",
+      "target": "s-cd816128fbe1-c002:v2-n001",
+      "kind": "association",
+      "condition": "候选为源界限原则在祖辈场景中的应用",
+      "reason": "候选提出的与爷爷奶奶立界限的具体要求（不给手机、不端饭等）体现了源的界限定义，但候选未明确引用源，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n001",
+      "target": "s-cd816128fbe1-c003:v2-n002",
+      "kind": "association",
+      "condition": "候选为源界限原则在祖辈场景中的应用，且步骤更详细",
+      "reason": "候选内容与候选6相似，同样应用源的界限原则处理祖辈问题，但候选7作为另一知识点存在，与源关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n002",
+      "target": "s-cd816128fbe1-c002:v2-n001",
+      "kind": "association",
+      "condition": "候选为源界限原则在祖辈场景中的应用，且步骤更详细",
+      "reason": "候选内容与候选6相似，同样应用源的界限原则处理祖辈问题，但候选7作为另一知识点存在，与源关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n001",
+      "target": "s-cd816128fbe1-c001:a022",
+      "kind": "association",
+      "condition": "候选将后果概念应用于配偶",
+      "reason": "候选给配偶制造后果的做法符合源中界限的“必有后果”原则，但对象不同（配偶而非孩子），关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a022",
+      "target": "s-cd816128fbe1-c002:v2-n001",
+      "kind": "association",
+      "condition": "候选将后果概念应用于配偶",
+      "reason": "候选给配偶制造后果的做法符合源中界限的“必有后果”原则，但对象不同（配偶而非孩子），关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n001",
+      "target": "s-cd816128fbe1-c002:a014",
+      "kind": "association",
+      "condition": "候选提出立界限与引导并行，与源相关但侧重点不同",
+      "reason": "候选强调管教时需同时立界限和引导，源仅定义界限，未提及引导，两者相关但不等同，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a014",
+      "target": "s-cd816128fbe1-c002:v2-n001",
+      "kind": "association",
+      "condition": "候选提出立界限与引导并行，与源相关但侧重点不同",
+      "reason": "候选强调管教时需同时立界限和引导，源仅定义界限，未提及引导，两者相关但不等同，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n001",
+      "target": "s-cd816128fbe1-c002:a016",
+      "kind": "association",
+      "condition": "候选是应用界限原则训练自控的具体方法",
+      "reason": "候选人为创造后果的做法体现了界限中“不遵守就有后果”的思想，但属于具体操作，与源的定义有关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a016",
+      "target": "s-cd816128fbe1-c002:v2-n001",
+      "kind": "association",
+      "condition": "候选是应用界限原则训练自控的具体方法",
+      "reason": "候选人为创造后果的做法体现了界限中“不遵守就有后果”的思想，但属于具体操作，与源的定义有关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n002",
+      "target": "s-cd816128fbe1-c002:a003",
+      "kind": "association",
+      "condition": "候选为源原则的具体应用案例",
+      "reason": "候选描述用散步游戏替代电子产品的案例，其中提到了红灯绿灯游戏，与源中提到的“小时候可以用红灯绿灯散步游戏”相呼应，候选是源原则的一个实例，但方向不能作 example_of，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a003",
+      "target": "s-cd816128fbe1-c002:v2-n002",
+      "kind": "association",
+      "condition": "候选为源原则的具体应用案例",
+      "reason": "候选描述用散步游戏替代电子产品的案例，其中提到了红灯绿灯游戏，与源中提到的“小时候可以用红灯绿灯散步游戏”相呼应，候选是源原则的一个实例，但方向不能作 example_of，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n002",
+      "target": "s-cd816128fbe1-c002:a004",
+      "kind": "association",
+      "condition": "两者都涉及情绪调节与上瘾预防",
+      "reason": "源强调通过情绪连接使孩子觉得好玩但不上瘾，候选指出上瘾源于情绪调节能力缺乏，两者共同关注情绪调节在预防上瘾中的作用，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a004",
+      "target": "s-cd816128fbe1-c002:v2-n002",
+      "kind": "association",
+      "condition": "两者都涉及情绪调节与上瘾预防",
+      "reason": "源强调通过情绪连接使孩子觉得好玩但不上瘾，候选指出上瘾源于情绪调节能力缺乏，两者共同关注情绪调节在预防上瘾中的作用，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n002",
+      "target": "s-cd816128fbe1-c001:a009",
+      "kind": "association",
+      "condition": "候选培养适应能力与源情绪连接有共同目标",
+      "reason": "候选提到培养孩子适应能力、训练情绪调节，与源维持情绪连接的目标相关，但未直接提及互动方式调整，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a009",
+      "target": "s-cd816128fbe1-c002:v2-n002",
+      "kind": "association",
+      "condition": "候选培养适应能力与源情绪连接有共同目标",
+      "reason": "候选提到培养孩子适应能力、训练情绪调节，与源维持情绪连接的目标相关，但未直接提及互动方式调整，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n002",
+      "target": "s-cd816128fbe1-c001:a004",
+      "kind": "association",
+      "condition": "候选替代游戏的含义与源寻找替代活动相关",
+      "reason": "源强调找到其他有趣活动，候选说明替代游戏不是完全替代游戏功能，而是让孩子觉得生命不只游戏有趣，两者都有替代思路，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a004",
+      "target": "s-cd816128fbe1-c002:v2-n002",
+      "kind": "association",
+      "condition": "候选替代游戏的含义与源寻找替代活动相关",
+      "reason": "源强调找到其他有趣活动，候选说明替代游戏不是完全替代游戏功能，而是让孩子觉得生命不只游戏有趣，两者都有替代思路，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n002",
+      "target": "s-cd816128fbe1-c002:a023",
+      "kind": "association",
+      "condition": "候选提出电子产品不应成为心理需要唯一来源，与源原则一致",
+      "reason": "源让孩子觉得好玩但不上瘾，候选强调心理需要不能只靠电子产品，两者都认为需多元满足，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a023",
+      "target": "s-cd816128fbe1-c002:v2-n002",
+      "kind": "association",
+      "condition": "候选提出电子产品不应成为心理需要唯一来源，与源原则一致",
+      "reason": "源让孩子觉得好玩但不上瘾，候选强调心理需要不能只靠电子产品，两者都认为需多元满足，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n002",
+      "target": "s-cd816128fbe1-c001:a030",
+      "kind": "association",
+      "condition": "候选用电视替代手机是调整媒介的具体建议，与源调整互动方式相关",
+      "reason": "源强调随年龄调整互动方式，候选建议用电视替代手机以减少上瘾，属于具体媒介调整，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c001:a030",
+      "target": "s-cd816128fbe1-c002:v2-n002",
+      "kind": "association",
+      "condition": "候选用电视替代手机是调整媒介的具体建议，与源调整互动方式相关",
+      "reason": "源强调随年龄调整互动方式，候选建议用电视替代手机以减少上瘾，属于具体媒介调整，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n001",
+      "target": "s-cd816128fbe1-c002:a026",
+      "kind": "association",
+      "condition": "两者内容几乎一致",
+      "reason": "候选与源都说明孩子只在家长面前遵守规则说明是外驱力，需培养内驱力，候选未补实质点，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a026",
+      "target": "s-cd816128fbe1-c003:v2-n001",
+      "kind": "association",
+      "condition": "两者内容几乎一致",
+      "reason": "候选与源都说明孩子只在家长面前遵守规则说明是外驱力，需培养内驱力，候选未补实质点，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n001",
+      "target": "s-cd816128fbe1-c003:v2-n002",
+      "kind": "association",
+      "condition": "候选是解决源所描述问题的暂时方法",
+      "reason": "候选针对孩子只在家长面前遵守规则的问题提出与爷爷奶奶立界限等措施，属于源问题的应对，但源不是候选的直接前提，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n002",
+      "target": "s-cd816128fbe1-c003:v2-n001",
+      "kind": "association",
+      "condition": "候选是解决源所描述问题的暂时方法",
+      "reason": "候选针对孩子只在家长面前遵守规则的问题提出与爷爷奶奶立界限等措施，属于源问题的应对，但源不是候选的直接前提，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n001",
+      "target": "s-cd816128fbe1-c002:a027",
+      "kind": "association",
+      "condition": "候选与上述候选类似，为解决方法",
+      "reason": "候选同样提供应对祖辈不遵守规则的方法，与源描述的问题相关，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a027",
+      "target": "s-cd816128fbe1-c003:v2-n001",
+      "kind": "association",
+      "condition": "候选与上述候选类似，为解决方法",
+      "reason": "候选同样提供应对祖辈不遵守规则的方法，与源描述的问题相关，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n001",
+      "target": "s-cd816128fbe1-c003:a003",
+      "kind": "association",
+      "condition": "候选提出立界限培养内驱力，是源问题的解决方向之一",
+      "reason": "源指出外驱力问题，候选认为培养内驱力需立界限，两者有关联，但候选未直接针对祖辈情境，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:a003",
+      "target": "s-cd816128fbe1-c003:v2-n001",
+      "kind": "association",
+      "condition": "候选提出立界限培养内驱力，是源问题的解决方向之一",
+      "reason": "源指出外驱力问题，候选认为培养内驱力需立界限，两者有关联，但候选未直接针对祖辈情境，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n002",
+      "target": "s-cd816128fbe1-c002:a027",
+      "kind": "association",
+      "condition": "两者内容几乎一致，无新增实质点",
+      "reason": "候选与源步骤相同，均涉及与爷爷奶奶立界限和让孩子知道后果，属于同义表述，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a027",
+      "target": "s-cd816128fbe1-c003:v2-n002",
+      "kind": "association",
+      "condition": "两者内容几乎一致，无新增实质点",
+      "reason": "候选与源步骤相同，均涉及与爷爷奶奶立界限和让孩子知道后果，属于同义表述，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n002",
+      "target": "s-cd816128fbe1-c003:a003",
+      "kind": "association",
+      "condition": "候选强调立界限培养内驱力，是源方法的核心理念",
+      "reason": "候选提出培养内驱力需立界限而非仅立规矩，与源“不要只立规矩而不给后果”一致，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:a003",
+      "target": "s-cd816128fbe1-c003:v2-n002",
+      "kind": "association",
+      "condition": "候选强调立界限培养内驱力，是源方法的核心理念",
+      "reason": "候选提出培养内驱力需立界限而非仅立规矩，与源“不要只立规矩而不给后果”一致，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n002",
+      "target": "s-cd816128fbe1-c002:a026",
+      "kind": "association",
+      "condition": "候选描述源所针对的问题背景",
+      "reason": "候选指出孩子只在家长面前遵守规则说明外驱力，源针对该问题提出暂时方法，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a026",
+      "target": "s-cd816128fbe1-c003:v2-n002",
+      "kind": "association",
+      "condition": "候选描述源所针对的问题背景",
+      "reason": "候选指出孩子只在家长面前遵守规则说明外驱力，源针对该问题提出暂时方法，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n002",
+      "target": "s-cd816128fbe1-c003:v2-n001",
+      "kind": "association",
+      "condition": "候选为源问题的理论概括",
+      "reason": "候选概括外驱力导致情境化遵守规则，源是具体解决方法，两者相关，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n001",
+      "target": "s-cd816128fbe1-c003:v2-n002",
+      "kind": "association",
+      "condition": "候选为源问题的理论概括",
+      "reason": "候选概括外驱力导致情境化遵守规则，源是具体解决方法，两者相关，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n002",
+      "target": "s-cd816128fbe1-c002:r001",
+      "kind": "association",
+      "condition": "候选定义界限与规矩，为源方法的基础概念",
+      "reason": "源方法涉及立界限，候选提供界限定义，可作为基础概念关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:r001",
+      "target": "s-cd816128fbe1-c003:v2-n002",
+      "kind": "association",
+      "condition": "候选定义界限与规矩，为源方法的基础概念",
+      "reason": "源方法涉及立界限，候选提供界限定义，可作为基础概念关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n002",
+      "target": "s-cd816128fbe1-c002:v2-n001",
+      "kind": "association",
+      "condition": "同上，候选定义界限与规矩",
+      "reason": "候选为界限定义的详细版本，源使用该概念，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:v2-n001",
+      "target": "s-cd816128fbe1-c003:v2-n002",
+      "kind": "association",
+      "condition": "同上，候选定义界限与规矩",
+      "reason": "候选为界限定义的详细版本，源使用该概念，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n002",
+      "target": "s-cd816128fbe1-c003:a001",
+      "kind": "association",
+      "condition": "同上，候选定义界限与规矩",
+      "reason": "候选同样定义界限与规矩，源应用了该概念，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:a001",
+      "target": "s-cd816128fbe1-c003:v2-n002",
+      "kind": "association",
+      "condition": "同上，候选定义界限与规矩",
+      "reason": "候选同样定义界限与规矩，源应用了该概念，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n002",
+      "target": "s-cd816128fbe1-c002:a016",
+      "kind": "association",
+      "condition": "候选为立界限的具体操作示例",
+      "reason": "候选人为创造后果训练自控，与源中立界限让孩子承担后果的思想一致，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c002:a016",
+      "target": "s-cd816128fbe1-c003:v2-n002",
+      "kind": "association",
+      "condition": "候选为立界限的具体操作示例",
+      "reason": "候选人为创造后果训练自控，与源中立界限让孩子承担后果的思想一致，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n002",
+      "target": "s-cd816128fbe1-c003:r001",
+      "kind": "association",
+      "condition": "候选强调界限的必然后果，与源要求一致",
+      "reason": "候选强调界限违反后必承受后果，源要求让孩子知道不遵守界限的后果，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:r001",
+      "target": "s-cd816128fbe1-c003:v2-n002",
+      "kind": "association",
+      "condition": "候选强调界限的必然后果，与源要求一致",
+      "reason": "候选强调界限违反后必承受后果，源要求让孩子知道不遵守界限的后果，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:v2-n002",
+      "target": "s-cd816128fbe1-c003:a002",
+      "kind": "association",
+      "condition": "候选提供公司考勤界限例子，与源界限方法类似",
+      "reason": "候选以公司考勤为例说明界限，源应用界限到家庭场景，关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cd816128fbe1-c003:a002",
+      "target": "s-cd816128fbe1-c003:v2-n002",
+      "kind": "association",
+      "condition": "候选提供公司考勤界限例子，与源界限方法类似",
+      "reason": "候选以公司考勤为例说明界限，源应用界限到家庭场景，关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "依赖与失控",
+      "when": "立界限限制游戏时间，预防上瘾",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a001",
+        "s-cd816128fbe1-c001:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "训练孩子自己停下来，培养情绪调节能力",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a015",
+        "s-cd816128fbe1-c002:a018"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "专注力",
+      "when": "用电视替代手机，减少上瘾风险",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a030",
+        "s-cd816128fbe1-c001:a035"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "依赖与失控",
+      "when": "缺乏情绪调节能力导致逃避到虚拟世界",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a004",
+        "s-cd816128fbe1-c002:a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c002:r001",
+        "s-cd816128fbe1-c003:a001",
+        "s-cd816128fbe1-c003:r001"
+      ],
+      "reason": "三者内容实质相同，均阐述界限与规矩的区别：界限有后果，规矩无后果。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a022"
+      ],
+      "reason": "内容完全相同，均为给配偶后果的具体方式。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a025"
+      ],
+      "reason": "内容完全相同，均为丈夫需要被要求。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a026"
+      ],
+      "reason": "内容完全相同，均为闹过与不理的对比。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a027"
+      ],
+      "reason": "内容完全相同，均为电视不伤眼睛但眼干。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a028"
+      ],
+      "reason": "内容完全相同，均为手机屏幕伤害。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a029"
+      ],
+      "reason": "内容完全相同，均为鼓励看电视。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a030"
+      ],
+      "reason": "内容完全相同，均为用电视替代手机。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a031"
+      ],
+      "reason": "内容完全相同，均为手机不好玩是胡说八道。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a032"
+      ],
+      "reason": "内容完全相同，均为承认手机好玩。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a033"
+      ],
+      "reason": "内容完全相同，均为骗孩子会伤害信任。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a034"
+      ],
+      "reason": "内容完全相同，均为孩子很聪明。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a035"
+      ],
+      "reason": "内容完全相同，均为用电视替代手机看动画片。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a036"
+      ],
+      "reason": "内容完全相同，均为老师孩子对电子产品自控好。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c003:a008",
+        "s-cd816128fbe1-c003:r002"
+      ],
+      "reason": "内容完全相同，均为家长应对霸凌的具体步骤。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a001",
+        "s-cd816128fbe1-c001:a003"
+      ],
+      "description": "a001说不能通过收手机等方式预防上瘾，但应限制时间；a003说如果不限制会推向成瘾。两者看似矛盾，但实际是限制方式不同：a001反对完全禁止，a003强调必须限制。需要明确限制的度。",
+      "needed_evidence": "需要明确限制游戏时间的具体方法和界限，以及完全禁止与限制的区别。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a027",
+        "s-cd816128fbe1-c001:a028"
+      ],
+      "description": "a027说电视不伤眼睛，a028说手机屏幕伤害。两者针对不同设备，但未提供科学依据，且电视不伤眼睛的说法可能过于绝对。",
+      "needed_evidence": "需要科学证据支持电视不伤眼睛和手机屏幕伤害的结论。"
+    },
+    {
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a007",
+        "s-cd816128fbe1-c002:a009"
+      ],
+      "description": "a007认为九岁孩子摸妈妈乳房是心理安慰，a009建议分床并询问是否看过其他女性乳房。两者处理方式可能冲突：a007未明确是否分床，a009直接建议分床。",
+      "needed_evidence": "需要明确九岁孩子摸乳房的心理原因及分床的必要性。"
+    }
+  ],
+  "path": [
+    {
+      "name": "预防游戏上瘾的实操步骤",
+      "steps": [
+        {
+          "action": "立界限限制游戏时间，而非完全禁止",
+          "atom_ids": [
+            "s-cd816128fbe1-c001:a001",
+            "s-cd816128fbe1-c001:a003"
+          ],
+          "condition": "孩子玩游戏"
+        },
+        {
+          "action": "用电视替代手机，减少上瘾风险",
+          "atom_ids": [
+            "s-cd816128fbe1-c001:a030",
+            "s-cd816128fbe1-c001:a035"
+          ],
+          "condition": "孩子看动画片"
+        },
+        {
+          "action": "承认手机好玩，建立信任",
+          "atom_ids": [
+            "s-cd816128fbe1-c001:a032",
+            "s-cd816128fbe1-c001:a033"
+          ],
+          "condition": "与孩子沟通手机使用"
+        },
+        {
+          "action": "训练孩子自己停下来，立界限并观察",
+          "atom_ids": [
+            "s-cd816128fbe1-c002:a015",
+            "s-cd816128fbe1-c002:a016"
+          ],
+          "condition": "孩子玩游戏时"
+        },
+        {
+          "action": "提供替代活动，淡化游戏主导地位",
+          "atom_ids": [
+            "s-cd816128fbe1-c001:a004",
+            "s-cd816128fbe1-c002:a003"
+          ],
+          "condition": "孩子想玩游戏时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "7c2dd167364b0580407af183f4b8bbf275de31c9cd2f2902c9de86769ed2ba8a",
+  "recovered_from_response": "s-cd816128fbe1-relations-1793880882271126800.json",
+  "point_units": [
+    {
+      "id": "s-cd816128fbe1-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a001"
+      ],
+      "blocks": [
+        "b00004",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a002"
+      ],
+      "blocks": [
+        "b00005",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a003"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a004"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a005"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a006"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a007"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a008"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a009"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a010"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a011"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a012"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a013"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a014"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a015"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a016"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a017"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a018"
+      ],
+      "blocks": [
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a019"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a020"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a021"
+      ],
+      "blocks": [
+        "b00029",
+        "b00031",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a022"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a023"
+      ],
+      "blocks": [
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u024",
+      "kind": "case",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a024"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034",
+        "b00035",
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a025"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a026"
+      ],
+      "blocks": [
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a027"
+      ],
+      "blocks": [
+        "b00040",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a028"
+      ],
+      "blocks": [
+        "b00040",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a029"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a030"
+      ],
+      "blocks": [
+        "b00041",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u031",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a031"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u032",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:r001"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u033",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:r002"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c001:u034",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:r003"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u001",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a001"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u002",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a034"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u003",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a035",
+        "s-cd816128fbe1-c002:a002"
+      ],
+      "blocks": [
+        "b00041",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-cd816128fbe1-c001:a036"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a003"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a004"
+      ],
+      "blocks": [
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a005"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a006"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a007"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u011",
+      "kind": "condition",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a008"
+      ],
+      "blocks": [
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a009"
+      ],
+      "blocks": [
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a010"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u014",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a011"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u015",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a012"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u016",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a013"
+      ],
+      "blocks": [
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a014"
+      ],
+      "blocks": [
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a015"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a016"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u020",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a017"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u021",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a018"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u022",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a019"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u023",
+      "kind": "case",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a020"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u024",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a021"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u025",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a022"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u026",
+      "kind": "condition",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a023"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u027",
+      "kind": "case",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a024"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u028",
+      "kind": "case",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a025"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079",
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u029",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a026"
+      ],
+      "blocks": [
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u030",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:a027"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c002:u031",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c003:u001",
+      "kind": "concept/distinction",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:r001",
+        "s-cd816128fbe1-c003:a001",
+        "s-cd816128fbe1-c003:r001"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c003:u002",
+      "kind": "example",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:a002"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c003:u003",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:a003"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c003:u004",
+      "kind": "claim",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:a004"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c003:u005",
+      "kind": "claim",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:a005"
+      ],
+      "blocks": [
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c003:u006",
+      "kind": "claim",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:a006"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c003:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:a007"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c003:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:a008",
+        "s-cd816128fbe1-c003:r002"
+      ],
+      "blocks": [
+        "b00089",
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c003:u010",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:a009"
+      ],
+      "blocks": [
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c003:u011",
+      "kind": "claim",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:a010"
+      ],
+      "blocks": [
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c003:u012",
+      "kind": "claim",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:a012"
+      ],
+      "blocks": [
+        "b00089",
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c003:u013",
+      "kind": "claim",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:a014"
+      ],
+      "blocks": [
+        "b00094",
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c003:u016",
+      "kind": "concept/distinction",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-cd816128fbe1-c003:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "界限与规矩的区别",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cd816128fbe1",
+          "blocks": [
+            "b00084",
+            "b00085"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "随年龄调整互动方式维持情绪连接",
+      "atom_ids": [
+        "s-cd816128fbe1-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cd816128fbe1",
+          "blocks": [
+            "b00047"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "外驱力导致情境化遵守规则",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cd816128fbe1",
+          "blocks": [
+            "b00082"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "让孩子在爷爷奶奶面前也遵守规则的暂时方法",
+      "atom_ids": [
+        "s-cd816128fbe1-c003:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cd816128fbe1",
+          "blocks": [
+            "b00082",
+            "b00083"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

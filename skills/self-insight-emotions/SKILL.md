@@ -40,6 +40,8 @@ description: 「孩子情绪不稳定、抓狂、难带怎么办」的咨询模�
 
 ## 知识底座
 
+下列原有知识与案例全部保留。另按 `../self-insight/references/full-knowledge/README.md` 检索全文库及课内关系，不能只用旧原子库；本模块索引为 `../self-insight/references/full-knowledge/module-index/理解情绪.json`。先核对记录条件与来源限制，跨模块仍交主入口编排，不一次加载全库。
+
 完整读取并按需引用：
 
 - `references/knowledge/理念框架.md`——六前提、五迷思、情绪vs感受、三角、情绪敏感性、发脾气vs崩溃、三大定律、情绪网、重塑六步骤、脑科学基础

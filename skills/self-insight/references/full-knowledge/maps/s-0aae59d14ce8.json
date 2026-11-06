@@ -1,0 +1,435 @@
+{
+  "concepts": [
+    {
+      "name": "左右脑功能区分",
+      "definition": "右脑负责情绪、冲动、情感、艺术、视觉和想象；左脑负责逻辑、理性、语言、数字、时间和线性条理。",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a001"
+      ]
+    },
+    {
+      "name": "视觉辅助时间概念",
+      "definition": "孩子左脑时间观念未发育好，右脑视觉已发育，用视觉工具（如计时器、彩色闹钟）帮助孩子理解时间，提升专注力。",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a003"
+      ]
+    },
+    {
+      "name": "视觉辅助语言理解",
+      "definition": "孩子语言（左脑）发育慢于情绪（右脑），用视觉工具（如情绪脸谱）帮助孩子表达和理解情绪，辅助语言发展。",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a005"
+      ]
+    },
+    {
+      "name": "情绪辅助逻辑理解",
+      "definition": "孩子左脑逻辑未发育好，难以理解抽象逻辑（如打人会痛），用饱满的情绪展示（如夸张的痛苦表情和哭泣）帮助孩子理解行为后果。",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a007"
+      ]
+    },
+    {
+      "name": "用右脑想象力提升记忆",
+      "definition": "发现孩子右脑想象力丰富，引导其将需要记忆的内容编成故事，用右脑想象力帮助左脑记忆。",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a004"
+      ]
+    },
+    {
+      "name": "视觉演示改变行为",
+      "definition": "通过展示视觉结构或画面，帮助理解抽象概念或行为后果，从而改变行为。",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a006",
+        "s-0aae59d14ce8-c001:a008"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-0aae59d14ce8-c001:a001",
+      "target": "s-0aae59d14ce8-c001:a003",
+      "kind": "supports",
+      "condition": "孩子左脑时间观念未发育好，右脑视觉已发育",
+      "reason": "“左右脑功能区分”指出左脑负责时间、右脑负责视觉；“用视觉辅助时间概念”基于孩子左脑时间观念未发育好、右脑视觉已发育，用视觉工具辅助时间理解。前者为后者提供神经功能依据，支持该方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不在允许类型，改为 supports。"
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:a001",
+      "target": "s-0aae59d14ce8-c001:a005",
+      "kind": "supports",
+      "condition": "孩子语言表达能力不足",
+      "reason": "“左右脑功能区分”指出右脑负责视觉、左脑负责语言；“用视觉辅助语言理解”提出用视觉工具辅助语言表达和理解。前者提供功能基础，支持后者方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不在允许类型，改为 supports。"
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:a001",
+      "target": "s-0aae59d14ce8-c001:a007",
+      "kind": "supports",
+      "condition": "孩子逻辑理解能力不足",
+      "reason": "“左右脑功能区分”指出右脑负责情绪、左脑负责逻辑；“用情绪辅助逻辑理解”提出用情绪展示帮助孩子理解行为后果。前者为后者提供脑功能依据，支持该方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不在允许类型，改为 supports。"
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:a001",
+      "target": "s-0aae59d14ce8-c001:a004",
+      "kind": "supports",
+      "condition": "孩子右脑想象力丰富",
+      "reason": "“左右脑功能区分”指出右脑负责想象、左脑负责记忆；“15岁男孩用右脑想象力提升历史成绩”案例用右脑想象力编故事辅助左脑记忆。前者理论支持后者的实践。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 不在允许类型，改为 supports。"
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:a003",
+      "target": "s-0aae59d14ce8-c001:a009",
+      "kind": "step_of",
+      "condition": "实践作业要求",
+      "reason": "“用视觉辅助时间概念”是三种方法之一；“一周实践作业：三种方法各用一次”要求在一周内对视觉辅助时间、视觉辅助语言、情绪辅助逻辑各使用一次。前者是完成作业的必要步骤之一。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:a005",
+      "target": "s-0aae59d14ce8-c001:a009",
+      "kind": "step_of",
+      "condition": "实践作业要求使用视觉辅助语言方法",
+      "reason": "“一周实践作业”明确要求实践视觉辅助语言，因此“用视觉辅助语言理解”是该作业的一个步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:a007",
+      "target": "s-0aae59d14ce8-c001:a009",
+      "kind": "step_of",
+      "condition": "实践作业要求",
+      "reason": "作业要求使用情绪辅助逻辑方法。"
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:a006",
+      "target": "s-0aae59d14ce8-c001:a008",
+      "kind": "association",
+      "condition": "语言提醒无效时，视觉或情绪展示有效",
+      "reason": "两则案例分别展示视觉演示和情绪展示在语言提醒无效时的效果，彼此独立但主题相关，故为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系不成立，改为关联"
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:v2-n001",
+      "target": "s-0aae59d14ce8-c001:a003",
+      "kind": "complements",
+      "condition": "需要实施视觉辅助时间方法时。",
+      "reason": "source 提出视觉辅助时间作为三种方法之一；候选 a003 补充了使用计时器、彩色闹钟等具体步骤和适用条件（孩子左脑时间观念未发育好）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:a003",
+      "target": "s-0aae59d14ce8-c001:v2-n001",
+      "kind": "complements",
+      "condition": "需要实施视觉辅助时间方法时。",
+      "reason": "source 提出视觉辅助时间作为三种方法之一；候选 a003 补充了使用计时器、彩色闹钟等具体步骤和适用条件（孩子左脑时间观念未发育好）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:v2-n001",
+      "target": "s-0aae59d14ce8-c001:a005",
+      "kind": "complements",
+      "condition": "需要实施视觉辅助语言方法时。",
+      "reason": "source 提出视觉辅助语言作为三种方法之一；候选 a005 补充了使用情绪脸谱、视觉演示等具体步骤和适用条件（孩子语言表达能力不足）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:a005",
+      "target": "s-0aae59d14ce8-c001:v2-n001",
+      "kind": "complements",
+      "condition": "需要实施视觉辅助语言方法时。",
+      "reason": "source 提出视觉辅助语言作为三种方法之一；候选 a005 补充了使用情绪脸谱、视觉演示等具体步骤和适用条件（孩子语言表达能力不足）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:v2-n001",
+      "target": "s-0aae59d14ce8-c001:a007",
+      "kind": "complements",
+      "condition": "需要实施情绪辅助逻辑方法时。",
+      "reason": "source 提出情绪辅助逻辑作为三种方法之一；候选 a007 补充了用夸张情绪展示后果的具体步骤和适用条件（孩子逻辑理解能力不足）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:a007",
+      "target": "s-0aae59d14ce8-c001:v2-n001",
+      "kind": "complements",
+      "condition": "需要实施情绪辅助逻辑方法时。",
+      "reason": "source 提出情绪辅助逻辑作为三种方法之一；候选 a007 补充了用夸张情绪展示后果的具体步骤和适用条件（孩子逻辑理解能力不足）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:v2-n001",
+      "target": "s-0aae59d14ce8-c001:a006",
+      "kind": "complements",
+      "condition": "当需要案例说明视觉辅助语言方法的有效性时。",
+      "reason": "source 提出视觉辅助语言方法；候选 a006 描述室友用视觉演示展示管道结构改变扔渣子习惯，补充了该方法在实际生活中的应用案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:a006",
+      "target": "s-0aae59d14ce8-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要案例说明视觉辅助语言方法的有效性时。",
+      "reason": "source 提出视觉辅助语言方法；候选 a006 描述室友用视觉演示展示管道结构改变扔渣子习惯，补充了该方法在实际生活中的应用案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:v2-n001",
+      "target": "s-0aae59d14ce8-c001:a008",
+      "kind": "complements",
+      "condition": "当需要案例说明情绪辅助逻辑方法的有效性时。",
+      "reason": "source 提出情绪辅助逻辑方法；候选 a008 描述母亲假装疼痛哭泣阻止孩子撞头，补充了该方法在实际育儿中的应用案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0aae59d14ce8-c001:a008",
+      "target": "s-0aae59d14ce8-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要案例说明情绪辅助逻辑方法的有效性时。",
+      "reason": "source 提出情绪辅助逻辑方法；候选 a008 描述母亲假装疼痛哭泣阻止孩子撞头，补充了该方法在实际育儿中的应用案例。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "专注力",
+      "when": "孩子左脑时间观念未发育好，需要视觉辅助理解时间以提升专注力",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "语言提醒无效时，用视觉或情绪展示帮助理解行为后果",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a006",
+        "s-0aae59d14ce8-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [
+    {
+      "name": "利用大脑发育提升专注力的方法",
+      "steps": [
+        {
+          "action": "了解左右脑功能区分",
+          "atom_ids": [
+            "s-0aae59d14ce8-c001:a001"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "识别孩子左右脑发育状况和优势",
+          "atom_ids": [
+            "s-0aae59d14ce8-c001:a002",
+            "s-0aae59d14ce8-c001:a004"
+          ],
+          "condition": "观察孩子年龄和表现"
+        },
+        {
+          "action": "应用视觉辅助时间概念",
+          "atom_ids": [
+            "s-0aae59d14ce8-c001:a003"
+          ],
+          "condition": "孩子左脑时间观念未发育好"
+        },
+        {
+          "action": "应用视觉辅助语言理解",
+          "atom_ids": [
+            "s-0aae59d14ce8-c001:a005"
+          ],
+          "condition": "孩子语言表达能力不足"
+        },
+        {
+          "action": "应用情绪辅助逻辑理解",
+          "atom_ids": [
+            "s-0aae59d14ce8-c001:a007"
+          ],
+          "condition": "孩子逻辑理解能力不足"
+        },
+        {
+          "action": "实践作业：三种方法各用一次",
+          "atom_ids": [
+            "s-0aae59d14ce8-c001:a009"
+          ],
+          "condition": "一周内"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-0aae59d14ce8-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-0aae59d14ce8-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a002"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-0aae59d14ce8-c001:u0003",
+      "kind": "method",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a003"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00007",
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-0aae59d14ce8-c001:u0004",
+      "kind": "case",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a004"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-0aae59d14ce8-c001:u0005",
+      "kind": "method",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a005"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-0aae59d14ce8-c001:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a006"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-0aae59d14ce8-c001:u0007",
+      "kind": "method",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a007"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022",
+        "b00023",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-0aae59d14ce8-c001:u0008",
+      "kind": "case",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a008"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-0aae59d14ce8-c001:u0009",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:a009"
+      ],
+      "blocks": [
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-0aae59d14ce8-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00027"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "三种方法提升理解力进而提升专注力",
+      "atom_ids": [
+        "s-0aae59d14ce8-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0aae59d14ce8",
+          "blocks": [
+            "b00027"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    }
+  ]
+}

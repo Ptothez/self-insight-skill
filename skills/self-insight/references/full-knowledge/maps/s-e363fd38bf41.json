@@ -1,0 +1,345 @@
+{
+  "concepts": [
+    {
+      "name": "13-18岁孩子接受爱的方式",
+      "definition": "13到18岁的孩子接受爱的方式是提供帮助。",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a001"
+      ]
+    },
+    {
+      "name": "提供帮助的原则",
+      "definition": "主动营造帮助的环境，但被动地提供帮助。让孩子知道任何时候需要帮助，父母都在身边，但父母不会主动强制性地给予帮助，孩子需要帮助时应主动邀请父母。",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a002"
+      ]
+    },
+    {
+      "name": "提供帮助的目的",
+      "definition": "在这个年龄阶段提供帮助的目的是empowering（赋能），即赋予孩子能力。",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a003"
+      ]
+    },
+    {
+      "name": "帮助中的恶性循环",
+      "definition": "如果父母与孩子关系不好，可能进入恶性循环：一边帮助孩子，一边打击、瞧不起、羞辱孩子。",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a004"
+      ]
+    },
+    {
+      "name": "帮助孩子时不可羞辱",
+      "definition": "帮助孩子的目的绝对不可以让孩子觉得因为需要帮助而导致被羞辱，否则关系会非常糟糕。",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a005"
+      ]
+    },
+    {
+      "name": "父母向孩子寻求帮助",
+      "definition": "在这个年龄阶段，父母一定要学习向孩子寻求帮助。因为孩子需要知道自己是有能力的，不是只能接受帮助的人，他们需要有机会帮助别人、服务别人。",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a006"
+      ]
+    },
+    {
+      "name": "向孩子寻求帮助的示例",
+      "definition": "父母可以问孩子手机怎么用、电脑怎么搞，或者说“妈妈老了，你能不能帮妈妈提一下这袋米”，即使自己提得动，也要有意向孩子寻求帮助。",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a007"
+      ]
+    },
+    {
+      "name": "聆听作为帮助",
+      "definition": "给予孩子全身心的关注和聆听也是一种帮助。这个年龄阶段的孩子很多时候需要父母听他讲，但不需要父母给建议。父母给孩子最大的帮助是让他的情绪有一个安全的出口，成为孩子安全的树洞。",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a008"
+      ]
+    },
+    {
+      "name": "18岁后爱的感知方式",
+      "definition": "如果孩子在18岁之前没有感受到爱，那么18岁过后他只能用大脑的理性来说服自己相信父母是爱他的；如果之前感受到了爱，他就感受到了。",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a009"
+      ]
+    },
+    {
+      "name": "阿德勒名言",
+      "definition": "著名的心理学家阿德勒曾说过：幸运的人用童年治愈一生，不幸的人却用一生治愈童年。",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a010"
+      ]
+    },
+    {
+      "name": "在童年时期提供正确的爱",
+      "definition": "鼓励所有人在孩子18岁之前好好爱孩子，让孩子在今后岁月中深深感知到父母的爱，知道自己被深深爱着。",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a011"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-e363fd38bf41-c001:a001",
+      "target": "s-e363fd38bf41-c001:a002",
+      "kind": "association",
+      "condition": "适用于13-18岁孩子",
+      "reason": "源命题指出13-18岁孩子接受爱的方式是提供帮助，目标命题给出提供帮助的第一个具体做法；二者关联但非步骤或支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e363fd38bf41-c001:a002",
+      "target": "s-e363fd38bf41-c001:a003",
+      "kind": "supports",
+      "condition": "适用于13-18岁孩子",
+      "reason": "a002描述提供帮助的方式，a003说明提供帮助的目的是赋能，两者共同构成提供帮助的完整内涵。"
+    },
+    {
+      "source": "s-e363fd38bf41-c001:a004",
+      "target": "s-e363fd38bf41-c001:a005",
+      "kind": "supports",
+      "condition": "父母与孩子关系不好时",
+      "reason": "a004描述恶性循环中羞辱孩子的行为，a005强调帮助孩子时不可羞辱，a005是对a004中问题的警示。"
+    },
+    {
+      "source": "s-e363fd38bf41-c001:a006",
+      "target": "s-e363fd38bf41-c001:a007",
+      "kind": "example_of",
+      "condition": "适用于13-18岁孩子",
+      "reason": "a007提供了父母向孩子寻求帮助的具体示例，是a006原则的实例。"
+    },
+    {
+      "source": "s-e363fd38bf41-c001:a008",
+      "target": "s-e363fd38bf41-c001:a001",
+      "kind": "supports",
+      "condition": "适用于13-18岁孩子",
+      "reason": "源命题提出聆听也是一种帮助，目标命题指出提供帮助是接受爱的方式，聆听帮助的形式支持目标命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e363fd38bf41-c001:a009",
+      "target": "s-e363fd38bf41-c001:a011",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "a009说明18岁前感受到爱的重要性，a011鼓励在18岁前好好爱孩子，a011是基于a009的呼吁。"
+    },
+    {
+      "source": "s-e363fd38bf41-c001:a010",
+      "target": "s-e363fd38bf41-c001:a011",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "a010引用阿德勒名言强调童年经历的重要性，a011鼓励在童年时期提供正确的爱，a010为a011提供理论支持。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "父母向13-18岁孩子提供帮助时，需要把握界限，主动营造环境但被动提供帮助，避免羞辱。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a001",
+        "s-e363fd38bf41-c001:a002",
+        "s-e363fd38bf41-c001:a004",
+        "s-e363fd38bf41-c001:a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "内在能力",
+      "when": "父母向13-18岁孩子寻求帮助，以增强孩子的能力感，实现赋能。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a001",
+        "s-e363fd38bf41-c001:a003",
+        "s-e363fd38bf41-c001:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "父母通过聆听给予13-18岁孩子情绪安全出口，作为帮助的一种形式。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a001",
+        "s-e363fd38bf41-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [
+    {
+      "name": "13-18岁孩子爱的表达方法",
+      "steps": [
+        {
+          "action": "主动营造帮助的环境，但被动提供帮助",
+          "atom_ids": [
+            "s-e363fd38bf41-c001:a002"
+          ],
+          "condition": "适用于13-18岁孩子"
+        },
+        {
+          "action": "帮助时避免羞辱，以赋能为目的",
+          "atom_ids": [
+            "s-e363fd38bf41-c001:a003",
+            "s-e363fd38bf41-c001:a004",
+            "s-e363fd38bf41-c001:a005"
+          ],
+          "condition": "父母与孩子关系不好时尤其注意"
+        },
+        {
+          "action": "父母向孩子寻求帮助，增强孩子能力感",
+          "atom_ids": [
+            "s-e363fd38bf41-c001:a006",
+            "s-e363fd38bf41-c001:a007"
+          ],
+          "condition": "适用于13-18岁孩子"
+        },
+        {
+          "action": "给予全身心关注和聆听，成为安全树洞",
+          "atom_ids": [
+            "s-e363fd38bf41-c001:a008"
+          ],
+          "condition": "适用于13-18岁孩子"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-e363fd38bf41-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a001"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-e363fd38bf41-c001:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a002"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-e363fd38bf41-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a003"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-e363fd38bf41-c001:u004",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a004"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-e363fd38bf41-c001:u005",
+      "kind": "principle",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a005"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-e363fd38bf41-c001:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a006"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-e363fd38bf41-c001:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a007"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-e363fd38bf41-c001:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a008"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-e363fd38bf41-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a009"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-e363fd38bf41-c001:u010",
+      "kind": "quote",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a010"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-e363fd38bf41-c001:u011",
+      "kind": "recommendation",
+      "atom_ids": [
+        "s-e363fd38bf41-c001:a011"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

@@ -1,0 +1,1620 @@
+{
+  "concepts": [
+    {
+      "name": "独立",
+      "definition": "孩子离开父母后，可以自己生活、思考、判断、做决定、付出行动，且这一切都可以与父母无关。",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a001"
+      ]
+    },
+    {
+      "name": "经济独立",
+      "definition": "经济独立不是指会挣钱，而是指一个人可以自主花钱，并且在任何情况下都能挣到钱。经济独立是独立的最后一步。",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a002",
+        "s-b34f8184f88c-c001:a033",
+        "s-b34f8184f88c-c001:r001",
+        "s-b34f8184f88c-c001:r002",
+        "s-b34f8184f88c-c002:a001"
+      ]
+    },
+    {
+      "name": "精神独立",
+      "definition": "一个人可以不被父母的道德、习惯、文化、习俗、认知甚至宗教所捆绑。",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a004",
+        "s-b34f8184f88c-c001:a009"
+      ]
+    },
+    {
+      "name": "心理独立",
+      "definition": "你是你，我是我，我们都有各自的生活。",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a021"
+      ]
+    },
+    {
+      "name": "情绪独立",
+      "definition": "遇到挫折、受伤时不会总是想到找妈妈，能够自己处理情绪。",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a011"
+      ]
+    },
+    {
+      "name": "认知独立",
+      "definition": "不会讨好别人，不需要别人处处肯定，不以别人对自己的评价作为标准。",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a016"
+      ]
+    },
+    {
+      "name": "独立思考",
+      "definition": "不仅思考现有的事情，还能思考尚未出现的事情，能够走一步想三步。",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a021"
+      ]
+    },
+    {
+      "name": "微管理",
+      "definition": "父母在所有事情上都管理孩子，例如叠被子只要叠整齐就好，不需要严格按照父母的方式。",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a008"
+      ]
+    },
+    {
+      "name": "白日梦",
+      "definition": "孩子在独处时间会做白日梦，任何年龄的孩子都会。做白日梦是他自己幻想将来、创造未来，非常重要。",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a017"
+      ]
+    },
+    {
+      "name": "发呆",
+      "definition": "发呆是精神休息，就是脑子开始睡觉。",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a018"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-b34f8184f88c-c001:a002",
+      "target": "s-b34f8184f88c-c001:a033",
+      "kind": "supports",
+      "condition": "经济独立是独立的最后一步，且经济独立不是指会挣钱",
+      "reason": "a002 指出经济独立是独立的最后一步，a033 进一步解释经济独立的定义，两者共同说明经济独立的完整含义。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a003",
+      "target": "s-b34f8184f88c-c001:a004",
+      "kind": "example_of",
+      "condition": "高知夫妇因父母反对放弃买学区房，说明能挣钱不一定精神独立",
+      "reason": "a003 案例展示了能挣钱但精神不独立的现象，a004 定义了精神独立，案例是定义的例证。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a005",
+      "target": "s-b34f8184f88c-c001:a009",
+      "kind": "example_of",
+      "condition": "讲师与母亲性格不同但精神独立",
+      "reason": "a005 案例中讲师与母亲性格不同但精神独立，a009 描述精神独立的表现，案例是表现的例证。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a006",
+      "target": "s-b34f8184f88c-c001:a007",
+      "kind": "contrasts",
+      "condition": "允许孩子怀疑父母认定的真理 vs 禁止孩子质疑信仰",
+      "reason": "a006 主张允许怀疑，a007 给出禁止质疑的反例，两者形成对比。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a008",
+      "target": "s-b34f8184f88c-c001:a014",
+      "kind": "supports",
+      "condition": "按正道教养孩子不会走偏，鼓励孩子质疑信仰",
+      "reason": "a008 认为按正道教养孩子不会走偏，a014 鼓励有信仰的父母让孩子质疑信仰，两者都支持精神独立。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a010",
+      "target": "s-b34f8184f88c-c001:a011",
+      "kind": "supports",
+      "condition": "父母要有开放思维，让孩子知道不同做法也可能对",
+      "reason": "a010 强调开放思维，a011 具体说明如何让孩子知道不同做法也可能对，后者是前者的具体化。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a012",
+      "target": "s-b34f8184f88c-c001:a013",
+      "kind": "contrasts",
+      "condition": "允许孩子真实 vs 孩子在父母面前伪装",
+      "reason": "a012 主张允许孩子真实，a013 给出孩子在父母面前伪装的反例，形成对比。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a015",
+      "target": "s-b34f8184f88c-c001:a014",
+      "kind": "supports",
+      "condition": "影响而非强迫孩子接受三观，鼓励孩子质疑信仰",
+      "reason": "a015 主张影响而非强迫，a014 鼓励质疑信仰，两者都强调让孩子自主选择。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a016",
+      "target": "s-b34f8184f88c-c001:a017",
+      "kind": "supports",
+      "condition": "给孩子独处时间，独处时做白日梦",
+      "reason": "a016 强调独处时间的重要性，a017 说明独处时做白日梦的重要性，后者是前者的具体益处。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a018",
+      "target": "s-b34f8184f88c-c001:a019",
+      "kind": "supports",
+      "condition": "发呆是精神休息，大脑放空才能精神独立",
+      "reason": "a018 说明发呆是精神休息，a019 指出大脑放空才能精神独立，两者相关。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a020",
+      "target": "s-b34f8184f88c-c001:a016",
+      "kind": "supports",
+      "condition": "给孩子自由时间，给孩子独处时间",
+      "reason": "a020 主张给孩子自由时间，a016 主张给孩子独处时间，两者都强调给孩子空间。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a022",
+      "target": "s-b34f8184f88c-c001:a021",
+      "kind": "contrasts",
+      "condition": "心理不独立与心理独立相对",
+      "reason": "“案例：妻子心理不独立导致婚姻问题”展示心理上与父母不独立，“心理独立的定义”提出心理独立是各自生活；案例与定义形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 不成立，案例不是定义的例证，而是心理不独立的反例。改 contrasts。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a023",
+      "target": "s-b34f8184f88c-c001:a024",
+      "kind": "contrasts",
+      "condition": "父母不要让孩子为自己买单 vs 父母把责任推给孩子",
+      "reason": "a023 主张父母不要让孩子为自己买单，a024 给出父母把责任推给孩子的反例，形成对比。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a025",
+      "target": "s-b34f8184f88c-c001:a026",
+      "kind": "step_of",
+      "condition": "让孩子独立做决定，睡前让孩子选择顺序",
+      "reason": "a025 提出让孩子独立做决定，a026 给出具体做法：睡前让孩子选择顺序，后者是前者的具体步骤。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a025",
+      "target": "s-b34f8184f88c-c001:a027",
+      "kind": "step_of",
+      "condition": "让孩子独立做决定，外出时让孩子参与计划",
+      "reason": "a025 提出让孩子独立做决定，a027 给出具体做法：外出时让孩子参与计划，后者是前者的具体步骤。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a028",
+      "target": "s-b34f8184f88c-c001:a029",
+      "kind": "causes",
+      "condition": "孩子犯错后父母的反应影响心理独立，心理不独立的表现",
+      "reason": "a028 指出孩子犯错后父母的反应很重要，a029 描述心理不独立的表现，两者有因果关系。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a030",
+      "target": "s-b34f8184f88c-c001:a031",
+      "kind": "example_of",
+      "condition": "父母指责但不告诉犯错原因，学员因父亲追问而心理不独立",
+      "reason": "a030 给出父母指责但不告诉犯错原因的反例，a031 给出具体案例，后者是前者的例证。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a032",
+      "target": "s-b34f8184f88c-c001:a028",
+      "kind": "supports",
+      "condition": "问孩子从错误中学到什么，孩子犯错后父母的反应",
+      "reason": "a032 提出问孩子从错误中学到什么，a028 强调孩子犯错后父母的反应重要，前者是后者的具体做法。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a034",
+      "target": "s-b34f8184f88c-c001:a035",
+      "kind": "example_of",
+      "condition": "父母要舍得让孩子吃苦，讲师13岁打工经历",
+      "reason": "a034 主张父母要舍得让孩子吃苦，a035 给出讲师13岁打工的案例，后者是前者的例证。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:r003",
+      "target": "s-b34f8184f88c-c001:a035",
+      "kind": "association",
+      "condition": "同一讲师的打工经历",
+      "reason": "“案例：讲师15岁后持续打工并经济独立”与“案例：讲师13岁打工经历”都是讲师不同阶段的打工经历，但不构成例证或支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 不成立；改为 association。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:r004",
+      "target": "s-b34f8184f88c-c002:a027",
+      "kind": "example_of",
+      "condition": "美国朋友不知如何赚钱",
+      "reason": "r004 和 a027 都提到美国朋友不会赚钱的案例，说明经济独立是能力。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a002",
+      "target": "s-b34f8184f88c-c002:a003",
+      "kind": "supports",
+      "condition": "培养经济独立需要独立行动，孩子不求父母不帮",
+      "reason": "“培养经济独立的方法：独立行动”提出原则，“孩子不求父母不帮”给出具体行动界限，后者支持前者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a004",
+      "target": "s-b34f8184f88c-c002:a003",
+      "kind": "example_of",
+      "condition": "孩子拿行李箱的案例",
+      "reason": "“孩子拿行李箱的案例”展示了孩子主动要求拿大行李箱，在尝试后主动求助，父亲再帮忙，符合“孩子不求父母不帮”的界限原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a005",
+      "target": "s-b34f8184f88c-c002:a006",
+      "kind": "example_of",
+      "condition": "鼓励孩子失败，孩子选择已有礼物的案例",
+      "reason": "a005 主张鼓励孩子失败，a006 给出孩子选择已有礼物的案例，后者是前者的例证。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a007",
+      "target": "s-b34f8184f88c-c002:a005",
+      "kind": "supports",
+      "condition": "微软的失败费，鼓励孩子失败",
+      "reason": "a007 给出微软的失败费案例，a005 主张鼓励孩子失败，前者是后者的例证。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a008",
+      "target": "s-b34f8184f88c-c002:a009",
+      "kind": "step_of",
+      "condition": "避免微管理，避免微管理的方法",
+      "reason": "a008 提出避免微管理，a009 给出具体方法，后者是前者的具体步骤。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a010",
+      "target": "s-b34f8184f88c-c002:a008",
+      "kind": "causes",
+      "condition": "微管理的危害，避免微管理",
+      "reason": "a010 说明微管理的危害，a008 提出避免微管理，两者有因果关系。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a012",
+      "target": "s-b34f8184f88c-c002:a011",
+      "kind": "example_of",
+      "condition": "新婚夫妻离婚案例，情绪独立的定义",
+      "reason": "a012 给出新婚夫妻离婚案例，a011 定义情绪独立，案例是定义的例证。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a013",
+      "target": "s-b34f8184f88c-c002:a011",
+      "kind": "contrasts",
+      "condition": "哈佛毕业生妈宝案例，情绪独立的定义",
+      "reason": "“哈佛毕业生妈宝案例”展示情绪不独立（依赖母亲），与“情绪独立的定义”所主张的独立处理情绪形成对照，而非例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系误将反例作为正例。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a014",
+      "target": "s-b34f8184f88c-c002:a015",
+      "kind": "contrasts",
+      "condition": "培养情绪独立的方法，孩子被孤立家长开派对案例",
+      "reason": "a014 提出培养情绪独立的方法，a015 给出反例，形成对比。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a017",
+      "target": "s-b34f8184f88c-c002:a016",
+      "kind": "example_of",
+      "condition": "创业者认知独立案例，认知独立的定义",
+      "reason": "“创业者认知独立案例”具体演示了不讨好、不以别人评价为标准的认知独立，是“认知独立的定义”的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a018",
+      "target": "s-b34f8184f88c-c002:a019",
+      "kind": "supports",
+      "condition": "培养认知独立的方法：立界限，不插足孩子后果",
+      "reason": "a018 提出立界限，a019 提出不插足孩子后果，两者都是培养认知独立的具体做法。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a020",
+      "target": "s-b34f8184f88c-c002:a018",
+      "kind": "supports",
+      "condition": "不对孩子做评价，培养认知独立的方法",
+      "reason": "a020 提出不对孩子做评价，a018 提出立界限，两者都是培养认知独立的具体做法。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a022",
+      "target": "s-b34f8184f88c-c002:a023",
+      "kind": "example_of",
+      "condition": "培养独立思考：不打扰孩子想法，孩子玩浇水玩具案例",
+      "reason": "a022 提出不打扰孩子想法，a023 给出孩子玩浇水玩具案例，后者是前者的例证。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a024",
+      "target": "s-b34f8184f88c-c002:a025",
+      "kind": "supports",
+      "condition": "引导孩子思考：提问，想象力与思考的关系",
+      "reason": "a024 提出通过提问引发想象力，a025 说明想象力与思考的关系，两者相关。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a026",
+      "target": "s-b34f8184f88c-c001:a035",
+      "kind": "association",
+      "condition": "同一事件",
+      "reason": "“讲师个人打工经历”与“案例：讲师13岁打工经历”描述同一事件，内容一致，但两者之间不存在支持关系，仅因叙述相同而关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系改为关联。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a027",
+      "target": "s-b34f8184f88c-c001:r004",
+      "kind": "supports",
+      "condition": "美国朋友不会赚钱案例",
+      "reason": "a027 和 r004 都提到美国朋友不会赚钱的案例，内容一致。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:r001",
+      "target": "s-b34f8184f88c-c002:a002",
+      "kind": "supports",
+      "condition": "经济独立培养的完整路径",
+      "reason": "r001 总结经济独立培养路径，a002 是其中一部分，两者相关。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:r002",
+      "target": "s-b34f8184f88c-c002:a009",
+      "kind": "supports",
+      "condition": "避免微管理的具体步骤",
+      "reason": "r002 和 a009 都给出避免微管理的具体步骤，内容一致。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:r003",
+      "target": "s-b34f8184f88c-c002:a014",
+      "kind": "supports",
+      "condition": "培养情绪独立的具体做法",
+      "reason": "r003 和 a014 都给出培养情绪独立的具体做法，内容一致。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:r004",
+      "target": "s-b34f8184f88c-c002:a018",
+      "kind": "supports",
+      "condition": "培养认知独立的具体做法",
+      "reason": "r004 和 a018 都给出培养认知独立的具体做法，内容一致。"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:r005",
+      "target": "s-b34f8184f88c-c002:a022",
+      "kind": "supports",
+      "condition": "培养独立思考的具体做法",
+      "reason": "r005 和 a022 都给出培养独立思考的具体做法，内容一致。"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:v2-n001",
+      "target": "s-b34f8184f88c-c001:a006",
+      "kind": "complements",
+      "condition": "两者均为培养精神独立的养育方式，适用于儿童及青少年",
+      "reason": "source 强调给孩子自由探索喜欢的事情，candidate 补充了允许孩子怀疑父母认定的真理这一具体自由，二者共同指向精神独立，形成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a006",
+      "target": "s-b34f8184f88c-c001:v2-n001",
+      "kind": "complements",
+      "condition": "两者均为培养精神独立的养育方式，适用于儿童及青少年",
+      "reason": "source 强调给孩子自由探索喜欢的事情，candidate 补充了允许孩子怀疑父母认定的真理这一具体自由，二者共同指向精神独立，形成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:v2-n001",
+      "target": "s-b34f8184f88c-c001:a020",
+      "kind": "association",
+      "condition": "无特定适用条件，均为给予孩子自主空间",
+      "reason": "source 讲给孩子自由去探索喜欢的事，candidate 讲给孩子自由时间、可独处，主题相关但未明确关联精神独立，不能推断为互补或因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a020",
+      "target": "s-b34f8184f88c-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定适用条件，均为给予孩子自主空间",
+      "reason": "source 讲给孩子自由去探索喜欢的事，candidate 讲给孩子自由时间、可独处，主题相关但未明确关联精神独立，不能推断为互补或因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:v2-n001",
+      "target": "s-b34f8184f88c-c001:a008",
+      "kind": "complements",
+      "condition": "在培养精神独立的前提下",
+      "reason": "candidate 补充了按正道教养孩子不会走偏但仍需给自由探索精神信仰的论述，与 source 的探索自由互为支撑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a008",
+      "target": "s-b34f8184f88c-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在培养精神独立的前提下",
+      "reason": "candidate 补充了按正道教养孩子不会走偏但仍需给自由探索精神信仰的论述，与 source 的探索自由互为支撑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:v2-n001",
+      "target": "s-b34f8184f88c-c001:a016",
+      "kind": "association",
+      "condition": "无特定适用条件",
+      "reason": "source 与 candidate 都涉及给孩子空间，但 source 侧重探索兴趣，candidate 侧重独处时间的重要性，缺乏直接因果或互补说明。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a016",
+      "target": "s-b34f8184f88c-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定适用条件",
+      "reason": "source 与 candidate 都涉及给孩子空间，但 source 侧重探索兴趣，candidate 侧重独处时间的重要性，缺乏直接因果或互补说明。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:v2-n001",
+      "target": "s-b34f8184f88c-c002:a014",
+      "kind": "association",
+      "condition": "独立维度不同",
+      "reason": "source 是精神独立，candidate 是情绪独立，两者主题相关但方法不同，不能混用；仅为独立培养的并列话题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a014",
+      "target": "s-b34f8184f88c-c001:v2-n001",
+      "kind": "association",
+      "condition": "独立维度不同",
+      "reason": "source 是精神独立，candidate 是情绪独立，两者主题相关但方法不同，不能混用；仅为独立培养的并列话题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:v2-n001",
+      "target": "s-b34f8184f88c-c002:r003",
+      "kind": "association",
+      "condition": "独立维度不同",
+      "reason": "与 c002:a014 内容重复，均讲情绪独立具体做法，与 source 的精神独立无直接关联，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:r003",
+      "target": "s-b34f8184f88c-c001:v2-n001",
+      "kind": "association",
+      "condition": "独立维度不同",
+      "reason": "与 c002:a014 内容重复，均讲情绪独立具体做法，与 source 的精神独立无直接关联，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:v2-n001",
+      "target": "s-b34f8184f88c-c001:a015",
+      "kind": "complements",
+      "condition": "培养精神独立时涉及三观传递",
+      "reason": "candidate 补充了不强迫孩子接受父母三观、让孩子自己测试选择，与 source 的探索自由在精神独立范畴内互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a015",
+      "target": "s-b34f8184f88c-c001:v2-n001",
+      "kind": "complements",
+      "condition": "培养精神独立时涉及三观传递",
+      "reason": "candidate 补充了不强迫孩子接受父母三观、让孩子自己测试选择，与 source 的探索自由在精神独立范畴内互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:v2-n001",
+      "target": "s-b34f8184f88c-c001:a012",
+      "kind": "association",
+      "condition": "无特定适用条件",
+      "reason": "source 强调探索自由，candidate 强调允许孩子真实分享挣扎，两者都关乎亲子关系中的接纳，但未构成直接互补或因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a012",
+      "target": "s-b34f8184f88c-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定适用条件",
+      "reason": "source 强调探索自由，candidate 强调允许孩子真实分享挣扎，两者都关乎亲子关系中的接纳，但未构成直接互补或因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:v2-n001",
+      "target": "s-b34f8184f88c-c001:a009",
+      "kind": "association",
+      "condition": "精神独立话题内",
+      "reason": "source 是培养精神独立的方法，candidate 是精神独立的表现，二者相关但一为手段一为结果，不宜视为互补或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a009",
+      "target": "s-b34f8184f88c-c001:v2-n001",
+      "kind": "association",
+      "condition": "精神独立话题内",
+      "reason": "source 是培养精神独立的方法，candidate 是精神独立的表现，二者相关但一为手段一为结果，不宜视为互补或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:v2-n001",
+      "target": "s-b34f8184f88c-c001:a005",
+      "kind": "association",
+      "condition": "无特定适用条件",
+      "reason": "candidate 是精神独立的案例，展示了独立表现，而 source 是培养方式，二者主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a005",
+      "target": "s-b34f8184f88c-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定适用条件",
+      "reason": "candidate 是精神独立的案例，展示了独立表现，而 source 是培养方式，二者主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:v2-n001",
+      "target": "s-b34f8184f88c-c001:a028",
+      "kind": "association",
+      "condition": "独立维度不同",
+      "reason": "source 讲探索自由促进精神独立，candidate 讲父母对犯错反应影响心理独立，涉及不同独立维度，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a028",
+      "target": "s-b34f8184f88c-c001:v2-n001",
+      "kind": "association",
+      "condition": "独立维度不同",
+      "reason": "source 讲探索自由促进精神独立，candidate 讲父母对犯错反应影响心理独立，涉及不同独立维度，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:v2-n001",
+      "target": "s-b34f8184f88c-c001:a024",
+      "kind": "association",
+      "condition": "反例情境",
+      "reason": "candidate 是父母推卸责任导致心理不独立的反例，与 source 的主张形成对照，但无直接因果或补充关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a024",
+      "target": "s-b34f8184f88c-c001:v2-n001",
+      "kind": "association",
+      "condition": "反例情境",
+      "reason": "candidate 是父母推卸责任导致心理不独立的反例，与 source 的主张形成对照，但无直接因果或补充关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:v2-n001",
+      "target": "s-b34f8184f88c-c002:a001",
+      "kind": "complements",
+      "condition": "界定经济独立的挣钱能力维度",
+      "reason": "source 给出两个维度，candidate 补充了经济独立不能只看是否有工作，而要看在任何情况下都能迅速找到挣钱办法，深化了第一维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a001",
+      "target": "s-b34f8184f88c-c002:v2-n001",
+      "kind": "complements",
+      "condition": "界定经济独立的挣钱能力维度",
+      "reason": "source 给出两个维度，candidate 补充了经济独立不能只看是否有工作，而要看在任何情况下都能迅速找到挣钱办法，深化了第一维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:v2-n001",
+      "target": "s-b34f8184f88c-c001:r001",
+      "kind": "complements",
+      "condition": "整体理解经济独立时",
+      "reason": "candidate 补充了经济独立不等于会挣钱，强调花钱自主，并用 ATM 比喻，与 source 两个维度形成完整阐述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:r001",
+      "target": "s-b34f8184f88c-c002:v2-n001",
+      "kind": "complements",
+      "condition": "整体理解经济独立时",
+      "reason": "candidate 补充了经济独立不等于会挣钱，强调花钱自主，并用 ATM 比喻，与 source 两个维度形成完整阐述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:v2-n001",
+      "target": "s-b34f8184f88c-c001:a033",
+      "kind": "complements",
+      "condition": "解释经济独立判断标准时",
+      "reason": "candidate 在 r001 基础上补充了具体例子（丢了工作靠自己还房贷），使第一维度更具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a033",
+      "target": "s-b34f8184f88c-c002:v2-n001",
+      "kind": "complements",
+      "condition": "解释经济独立判断标准时",
+      "reason": "candidate 在 r001 基础上补充了具体例子（丢了工作靠自己还房贷），使第一维度更具体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:v2-n001",
+      "target": "s-b34f8184f88c-c001:r002",
+      "kind": "complements",
+      "condition": "聚焦挣钱能力维度时",
+      "reason": "candidate 补充了具体判断标准（任何情况下能挣到钱，如丢工作还房贷），细化了 source 的第一维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:r002",
+      "target": "s-b34f8184f88c-c002:v2-n001",
+      "kind": "complements",
+      "condition": "聚焦挣钱能力维度时",
+      "reason": "candidate 补充了具体判断标准（任何情况下能挣到钱，如丢工作还房贷），细化了 source 的第一维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:v2-n001",
+      "target": "s-b34f8184f88c-c002:a002",
+      "kind": "association",
+      "condition": "培养经济独立环节",
+      "reason": "source 定义经济独立，candidate 讲独立行动是挣钱的基础，二者相关但来源是定义，不是培养方法的前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a002",
+      "target": "s-b34f8184f88c-c002:v2-n001",
+      "kind": "association",
+      "condition": "培养经济独立环节",
+      "reason": "source 定义经济独立，candidate 讲独立行动是挣钱的基础，二者相关但来源是定义，不是培养方法的前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:v2-n001",
+      "target": "s-b34f8184f88c-c001:a002",
+      "kind": "association",
+      "condition": "独立序列视角",
+      "reason": "source 定义经济独立维度，candidate 讲经济独立是独立的最后一步，角度不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a002",
+      "target": "s-b34f8184f88c-c002:v2-n001",
+      "kind": "association",
+      "condition": "独立序列视角",
+      "reason": "source 定义经济独立维度，candidate 讲经济独立是独立的最后一步，角度不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:v2-n001",
+      "target": "s-b34f8184f88c-c002:r001",
+      "kind": "association",
+      "condition": "培养路径视角",
+      "reason": "candidate 提供培养经济独立的完整路径（独立行动与承受失败），与 source 的定义属于不同层面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:r001",
+      "target": "s-b34f8184f88c-c002:v2-n001",
+      "kind": "association",
+      "condition": "培养路径视角",
+      "reason": "candidate 提供培养经济独立的完整路径（独立行动与承受失败），与 source 的定义属于不同层面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:v2-n001",
+      "target": "s-b34f8184f88c-c001:a034",
+      "kind": "association",
+      "condition": "培养要求",
+      "reason": "candidate 提出父母舍得让孩子吃苦是培养经济独立的要求，属于方法建议，与 source 定义无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:a034",
+      "target": "s-b34f8184f88c-c002:v2-n001",
+      "kind": "association",
+      "condition": "培养要求",
+      "reason": "candidate 提出父母舍得让孩子吃苦是培养经济独立的要求，属于方法建议，与 source 定义无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:v2-n001",
+      "target": "s-b34f8184f88c-c001:r003",
+      "kind": "association",
+      "condition": "案例展示",
+      "reason": "candidate 是讲师经济独立的个人案例，展现了两个维度，但与 source 概念定义之间不是直接的例子关系（source 不是 candidate 的例子）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c001:r003",
+      "target": "s-b34f8184f88c-c002:v2-n001",
+      "kind": "association",
+      "condition": "案例展示",
+      "reason": "candidate 是讲师经济独立的个人案例，展现了两个维度，但与 source 概念定义之间不是直接的例子关系（source 不是 candidate 的例子）。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:v2-n001",
+      "target": "s-b34f8184f88c-c002:a027",
+      "kind": "association",
+      "condition": "案例辅助",
+      "reason": "candidate 通过美国朋友案例说明经济独立是能力不是工作，与 source 挣钱维度相关，但非直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a027",
+      "target": "s-b34f8184f88c-c002:v2-n001",
+      "kind": "association",
+      "condition": "案例辅助",
+      "reason": "candidate 通过美国朋友案例说明经济独立是能力不是工作，与 source 挣钱维度相关，但非直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:v2-n001",
+      "target": "s-b34f8184f88c-c002:a010",
+      "kind": "complements",
+      "condition": "花钱独立维度",
+      "reason": "candidate 补充了微管理导致孩子无法经济自由独立、花钱也不独立的具体机制，与 source 第二维度互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a010",
+      "target": "s-b34f8184f88c-c002:v2-n001",
+      "kind": "complements",
+      "condition": "花钱独立维度",
+      "reason": "candidate 补充了微管理导致孩子无法经济自由独立、花钱也不独立的具体机制，与 source 第二维度互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:v2-n001",
+      "target": "s-b34f8184f88c-c002:a016",
+      "kind": "association",
+      "condition": "认知独立维度",
+      "reason": "candidate 定义认知独立，与 source 经济独立属于不同独立维度，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-b34f8184f88c-c002:a016",
+      "target": "s-b34f8184f88c-c002:v2-n001",
+      "kind": "association",
+      "condition": "认知独立维度",
+      "reason": "candidate 定义认知独立，与 source 经济独立属于不同独立维度，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a033",
+        "s-b34f8184f88c-c001:r001"
+      ],
+      "reason": "两者内容完全一致，都定义经济独立不是指会挣钱，而是自主花钱和任何情况下能挣钱。"
+    },
+    {
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a035",
+        "s-b34f8184f88c-c002:a026"
+      ],
+      "reason": "两者都描述讲师13岁打工经历，内容一致。"
+    },
+    {
+      "atom_ids": [
+        "s-b34f8184f88c-c001:r004",
+        "s-b34f8184f88c-c002:a027"
+      ],
+      "reason": "两者都描述美国朋友不会赚钱的案例，内容一致。"
+    },
+    {
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a009",
+        "s-b34f8184f88c-c002:r002"
+      ],
+      "reason": "两者都给出避免微管理的具体步骤，内容一致。"
+    },
+    {
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a014",
+        "s-b34f8184f88c-c002:r003"
+      ],
+      "reason": "两者都给出培养情绪独立的具体做法，内容一致。"
+    },
+    {
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a018",
+        "s-b34f8184f88c-c002:r004"
+      ],
+      "reason": "两者都给出培养认知独立的具体做法，内容一致。"
+    },
+    {
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a022",
+        "s-b34f8184f88c-c002:r005"
+      ],
+      "reason": "两者都给出培养独立思考的具体做法，内容一致。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "培养独立能力的方法",
+      "steps": [
+        {
+          "action": "培养精神独立：允许孩子怀疑父母认定的真理，鼓励质疑信仰，影响而非强迫，给孩子独处时间。",
+          "atom_ids": [
+            "s-b34f8184f88c-c001:a006",
+            "s-b34f8184f88c-c001:a014",
+            "s-b34f8184f88c-c001:a015",
+            "s-b34f8184f88c-c001:a016"
+          ],
+          "condition": "适用于有信仰的父母，视孩子年龄而定。"
+        },
+        {
+          "action": "培养心理独立：让孩子独立做决定，如睡前选择顺序、外出参与计划；孩子犯错后问学到了什么。",
+          "atom_ids": [
+            "s-b34f8184f88c-c001:a025",
+            "s-b34f8184f88c-c001:a026",
+            "s-b34f8184f88c-c001:a027",
+            "s-b34f8184f88c-c001:a032"
+          ],
+          "condition": "适用于日常场景。"
+        },
+        {
+          "action": "培养经济独立：让孩子独立行动，鼓励失败，舍得让孩子吃苦。",
+          "atom_ids": [
+            "s-b34f8184f88c-c002:a002",
+            "s-b34f8184f88c-c002:a005",
+            "s-b34f8184f88c-c001:a034"
+          ],
+          "condition": "适用于金钱相关的事情。"
+        },
+        {
+          "action": "培养情绪独立：让孩子自己处理情绪，不要过度保护。",
+          "atom_ids": [
+            "s-b34f8184f88c-c002:a014"
+          ],
+          "condition": "适用于孩子遇到挫折时。"
+        },
+        {
+          "action": "培养认知独立：立界限，不干涉隐私，不插足后果，不做评价。",
+          "atom_ids": [
+            "s-b34f8184f88c-c002:a018",
+            "s-b34f8184f88c-c002:a019",
+            "s-b34f8184f88c-c002:a020"
+          ],
+          "condition": "适用于日常互动。"
+        },
+        {
+          "action": "培养独立思考：不打扰孩子想法，引导思考，提问引发想象力。",
+          "atom_ids": [
+            "s-b34f8184f88c-c002:a022",
+            "s-b34f8184f88c-c002:a024"
+          ],
+          "condition": "适用于孩子玩耍和学习时。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-b34f8184f88c-c001:u001",
+      "kind": "definition",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a001"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u002",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u003",
+      "kind": "definition",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a004"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a003"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a005"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a006"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u008",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a007"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a008"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a009"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a010"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a011"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a012"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a013"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a014"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a015"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a016"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u018",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a017"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u019",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a018"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u020",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a019"
+      ],
+      "blocks": [
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u021",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a020"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u022",
+      "kind": "definition",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a021"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u023",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a022"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u024",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a023"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u025",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a024"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u026",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a025"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u027",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a026"
+      ],
+      "blocks": [
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u028",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a027"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u029",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a028"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a029"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u031",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a030"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u032",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a031"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u033",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a032"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u034",
+      "kind": "definition",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a033"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u035",
+      "kind": "method",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:a034"
+      ],
+      "blocks": [
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c001:u036",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a026"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0001",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a026"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0002",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:r003",
+        "s-b34f8184f88c-c002:a026"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0003",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:r004",
+        "s-b34f8184f88c-c002:a027"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a001"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a002",
+        "s-b34f8184f88c-c002:a003",
+        "s-b34f8184f88c-c002:r001"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a004"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a005",
+        "s-b34f8184f88c-c002:r001"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0009",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a006"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0010",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a007"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a008",
+        "s-b34f8184f88c-c002:a009",
+        "s-b34f8184f88c-c002:r002"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a010"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a011"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0015",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a012"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0016",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a013"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a014",
+        "s-b34f8184f88c-c002:r003"
+      ],
+      "blocks": [
+        "b00056",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0018",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a015"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a016"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0020",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a017"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a018",
+        "s-b34f8184f88c-c002:a019",
+        "s-b34f8184f88c-c002:a020",
+        "s-b34f8184f88c-c002:r004"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a021"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a022",
+        "s-b34f8184f88c-c002:r005"
+      ],
+      "blocks": [
+        "b00065",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0024",
+      "kind": "case",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a023"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a024",
+        "s-b34f8184f88c-c002:r005"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-b34f8184f88c-c002:u0026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:a025"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "给孩子自由去探索喜欢的事情",
+      "atom_ids": [
+        "s-b34f8184f88c-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b34f8184f88c",
+          "blocks": [
+            "b00010"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "经济独立的两个维度",
+      "atom_ids": [
+        "s-b34f8184f88c-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-b34f8184f88c",
+          "blocks": [
+            "b00050"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "definition"
+    }
+  ]
+}

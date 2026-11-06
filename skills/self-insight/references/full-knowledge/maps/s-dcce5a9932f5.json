@@ -1,0 +1,2451 @@
+{
+  "concepts": [
+    {
+      "name": "焦虑与正常压力的区分",
+      "definition": "许多青少年因学习压力重而分不清自己的情绪紧张是焦虑还是正常压力。很多青少年已经很焦虑，但自己和父母都不知道，一直以为这是正常的情绪，以为所有人都这样。但事实上并非所有人都有这种焦虑。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a001",
+        "s-dcce5a9932f5-c001:xe001"
+      ]
+    },
+    {
+      "name": "人与焦虑情绪的分离",
+      "definition": "学习管理焦虑时，要把自己与焦虑情绪分开。我们不是焦虑，而是可以看着焦虑情绪，以第三人称视角来管理它。自己本身没有问题，只是需要处理这些情绪。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a002",
+        "s-dcce5a9932f5-c001:xe002"
+      ]
+    },
+    {
+      "name": "焦虑的身体表征",
+      "definition": "焦虑时身体会出现多种表征：心率加快、呼吸短促、肌肉紧张、胃不舒服、肚子痛、冒汗、觉得热、身体轻轻颤抖、耳鸣、听不见、手出汗、一直吞口水、一直咳嗽、想上厕所等。这些生理反应是应对焦虑的正常表征。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a003",
+        "s-dcce5a9932f5-c001:xe003"
+      ]
+    },
+    {
+      "name": "呼吸短促的早期出现",
+      "definition": "呼吸短促在进入可能发生矛盾的场合时就已经开始，而不是在吵架中间或之后才出现。了解身体表征有助于及时发现焦虑。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a004",
+        "s-dcce5a9932f5-c001:xe004"
+      ]
+    },
+    {
+      "name": "通过身体表征发现焦虑",
+      "definition": "要管理焦虑情绪，首先要发现它。如果都没有发现自己开始有焦虑情绪，就无法管理它。因此要对自己的身体有一定了解，注意身体表征。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a005"
+      ]
+    },
+    {
+      "name": "焦虑的认知表征",
+      "definition": "焦虑时认知上会出现：害怕失去控制、注意力只能专注在焦虑的事情上而无法思考其他、对威胁高度警惕、害怕负面评价、总觉得别人在批评或嘲笑自己。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a006",
+        "s-dcce5a9932f5-c001:xe006"
+      ]
+    },
+    {
+      "name": "大脑核与威胁警惕",
+      "definition": "大脑中间有一个叫大脑核（杏仁核）的结构，平时被包围起来。遇到紧张时，大脑核会打开。长期处在焦虑中，大脑核是打开的，不是长期关闭状态，这对大脑损伤很大。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a007",
+        "s-dcce5a9932f5-c001:xe007"
+      ]
+    },
+    {
+      "name": "长期焦虑对大脑接收能力的影响",
+      "definition": "长期处于焦虑状态，大脑接收老师讲课的信号会变慢，接收能力变慢。例如一个长期焦虑的孩子，老师喊停笔后，他要过十秒钟才能停笔并看着老师。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a008",
+        "s-dcce5a9932f5-c001:xe008"
+      ]
+    },
+    {
+      "name": "高材生演讲焦虑案例",
+      "definition": "一个在美国常青藤学校读书的高材生，上去做报告时紧张焦虑到无法说话，把所有内容都忘记了，然后走下来，发现已经尿裤子了。后来他退学，转到一个普通大学，因为觉得压力太大。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a009",
+        "s-dcce5a9932f5-c001:xe009"
+      ]
+    },
+    {
+      "name": "长期焦虑儿童案例",
+      "definition": "一个十一二岁的美国男孩，长期看他爸爸喝醉后打他妈妈，也打他。他长期处于紧张焦虑状态，大脑接收语言信号变得很慢。老师喊停笔后，他要过十秒钟才能停笔并看着老师，老师认为他挑战权威，把他送到校长办公室。这种情况发生多次后，妈妈带他来做心理辅导。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a010",
+        "s-dcce5a9932f5-c001:xe010"
+      ]
+    },
+    {
+      "name": "焦虑的行为症状",
+      "definition": "焦虑的行为症状包括：禁止（freeze，不知道怎么办，不动了）、紧张呼吸、急促说话困难、结结巴巴、寻求安全和慰藉、避开危险的信号或情况、坐立不安。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a011",
+        "s-dcce5a9932f5-c001:xe011"
+      ]
+    },
+    {
+      "name": "健康与不健康的寻求慰藉方式",
+      "definition": "当与父母有良好沟通时，会用健康的方式寻求安全和慰藉；当与父母关系紧张时，会用不健康的方式，包括自我伤害（如割自己）。自我伤害不是安全健康的方法。鼓励父母和孩子建立良好的情绪连接和沟通，形成良性循环。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a012",
+        "s-dcce5a9932f5-c001:xe012"
+      ]
+    },
+    {
+      "name": "焦虑中的想象威胁与真实威胁",
+      "definition": "焦虑并不是因为真正看见了威胁，而是想象出很多威胁然后开始避开。很多情况下，情况并不是真正的威胁，而是被想象成威胁。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a013",
+        "s-dcce5a9932f5-c001:xe013"
+      ]
+    },
+    {
+      "name": "坐立不安与落荒而逃",
+      "definition": "有一定程度的焦虑时，坐立不安是正常的。但如果焦虑没有管理好，坐立不安会变成落荒而逃。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a014",
+        "s-dcce5a9932f5-c001:xe014"
+      ]
+    },
+    {
+      "name": "焦虑的情绪表征",
+      "definition": "焦虑的情绪表征包括：总是感到紧张、没有办法放松、总是感到恐惧、心神不宁、胆战心惊、脾气暴躁、情绪不好、不耐烦、容易懊恼和沮丧。这些情绪可能以不耐烦、急躁、暴躁的方式表达出来。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a015",
+        "s-dcce5a9932f5-c001:xe015"
+      ]
+    },
+    {
+      "name": "紧张与胆小的区分",
+      "definition": "总是感到紧张、不能放松，有时会被同学说胆小，但从临床经验上讲，这不是胆小，而是焦虑的表现。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a016",
+        "s-dcce5a9932f5-c001:xe016"
+      ]
+    },
+    {
+      "name": "3F反应：战斗、逃跑、冻结",
+      "definition": "3F指fight（战斗）、flight（逃跑）和freeze（冻结）。当遇到威胁时，大脑会做出选择：战斗、逃跑或冻结。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a017",
+        "s-dcce5a9932f5-c001:xe017"
+      ]
+    },
+    {
+      "name": "冻结反应的例子",
+      "definition": "例如，全班都在看自己时很紧张，做事情出错，全班开始笑，这时可能就freeze在那里冻结，不知道该怎么办。电影中主角看到车撞过来却不跑，也是冻结反应，因为焦虑时大脑处于这种状态。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a018",
+        "s-dcce5a9932f5-c001:xe018"
+      ]
+    },
+    {
+      "name": "大脑核的雷达功能",
+      "definition": "大脑核像一个雷达一样，一直在寻找是否安全。当看到威胁时，大脑核打开，处于需要战斗、逃跑或冻结的状态。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a019",
+        "s-dcce5a9932f5-c001:xe019"
+      ]
+    },
+    {
+      "name": "焦虑管理课程的目标与范围",
+      "definition": "在接下来的四天课程中，将用方法帮助学员学会管理情绪、行为、认知上对情绪的反应，以及从身体上控制焦虑、从认知上改变对焦虑事件的认知、从行为和情绪上学习管理。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:r001",
+        "s-dcce5a9932f5-c001:xe020"
+      ]
+    },
+    {
+      "name": "焦虑时大脑核的打开与威胁反应",
+      "definition": "当遇到威胁时，大脑核会打开，触发战斗、逃跑或冻结反应。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:r002",
+        "s-dcce5a9932f5-c001:xe021"
+      ]
+    },
+    {
+      "name": "焦虑时大脑的威胁评估机制",
+      "definition": "当人感到焦虑时，大脑会高速运转，像雷达一样持续扫描环境，不断评估是否安全。一旦侦测到危险，大脑会释放荷尔蒙，使身体进入高度压力紧张状态，并快速做出判断和决定。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a001"
+      ]
+    },
+    {
+      "name": "战斗-逃跑-冻结反应",
+      "definition": "面对危险时，大脑会在一瞬间做出选择：战斗（如捡石头打狗）、逃跑或冻结（呆住不动）。冻结是焦虑状态下的一种常见反应。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a002"
+      ]
+    },
+    {
+      "name": "电影英雄反应与真实焦虑反应的区别",
+      "definition": "电影中英雄（如007）能躲过子弹，但现实中人面对危险时往往会冻结，无法逃跑。电影特效不代表真实的人类焦虑反应。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a003"
+      ]
+    },
+    {
+      "name": "焦虑时身体反应是帮助应对而非无能",
+      "definition": "焦虑时身体出现出汗、发抖、心跳加速等反应，是身体在帮助应对压力和焦虑，而不是无能的标志。应告诉自己“太棒了，我的身体很给力”，而不是认为“糟了，我没用”。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a004",
+        "s-dcce5a9932f5-c002:r002"
+      ]
+    },
+    {
+      "name": "焦虑时视觉敏锐度提高",
+      "definition": "焦虑时大脑会使视觉变得特别敏锐，以便快速判断威胁（如跑过来的是狗、幽灵还是塑料袋）。这种敏锐度类似电影特效中的镜头推进。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a005"
+      ]
+    },
+    {
+      "name": "母亲快速反应救婴儿案例",
+      "definition": "视频中一位母亲在草地上与婴儿玩耍时，一条蛇靠近，母亲瞬间抱起婴儿并杀死蛇，然后迅速翻过高杆。平时她可能翻不过去，但那一刻动作极快，如同电影特效。此案例说明焦虑时身体反应能带来超常能力。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a006"
+      ]
+    },
+    {
+      "name": "焦虑时口干舌燥的原因",
+      "definition": "焦虑时身体所有液体会跑向四肢，导致口干舌燥。这是身体为应对危险而重新分配资源的表现。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a007"
+      ]
+    },
+    {
+      "name": "焦虑时呼吸急促的原因",
+      "definition": "焦虑时呼吸变得急而短促，是为了吸入更多氧气，为逃跑或战斗提供爆发力。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a008"
+      ]
+    },
+    {
+      "name": "焦虑时心跳加速的原因",
+      "definition": "焦虑时心跳加速是为了供应更多血液到肌肉，使肌肉更有力量。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a009"
+      ]
+    },
+    {
+      "name": "焦虑时力量增强",
+      "definition": "研究证明，人在紧张害怕焦虑时挥拳的力量约为平时的1.9倍（近两倍）。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a010"
+      ]
+    },
+    {
+      "name": "肾上腺素的作用",
+      "definition": "焦虑时肾上腺散发肾上腺素，迅速通知身体其他器官准备应对危险。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a011"
+      ]
+    },
+    {
+      "name": "焦虑时手掌变冷和出汗的原因",
+      "definition": "焦虑时手掌变冷，因为血液供应到肌肉；手心出汗是为了降低体温，使身体达到最佳工作状态（体温降低3.8-4.5度时身体机能最佳）。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a012"
+      ]
+    },
+    {
+      "name": "焦虑时大腿肌肉紧张和发抖",
+      "definition": "焦虑时大腿肌肉紧张，导致发抖。发抖是肌肉在准备行动，是身体有效工作的表现，不是胆小的标志。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a013"
+      ]
+    },
+    {
+      "name": "无身体反应可能不正常",
+      "definition": "如果一个人面对紧张时没有身体表征（如出汗、发抖），在心理辅导中往往被认为有问题，需要送医院检查，排除生理问题后进行心理干预。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a014"
+      ]
+    },
+    {
+      "name": "焦虑时膀胱肌肉松弛导致尿急",
+      "definition": "焦虑时膀胱肌肉松弛，因为身体不需要用膀胱来跑步，所以导致尿急。这是肾上腺素通知器官准备的结果。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a015"
+      ]
+    },
+    {
+      "name": "辩论赛前尿急案例",
+      "definition": "讲师分享自己代表马里兰州参加全国辩论赛，对手是斯坦福大学，上场前五分钟内反复去厕所，因为膀胱肌肉因焦虑松弛导致尿急。最终团队获得全国第三名，击败斯坦福大学。说明紧张并不一定导致表现差。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a016"
+      ]
+    },
+    {
+      "name": "适当焦虑与过度焦虑的区别",
+      "definition": "适当的焦虑有助于表现，但过多的焦虑会影响表现。紧张是正常反应，不必担心。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a017"
+      ]
+    },
+    {
+      "name": "SUDS焦虑量表",
+      "definition": "SUDS（主观痛苦感觉单位）是一个1-10的焦虑量表，用于每天评估自己的焦虑程度。1为完全放松，2为略有察觉但无压力，3-4为有少量压力，5-6为中度焦虑但仍能学习，7为压力较大开始影响学习和生活，8为非常焦虑无法集中注意力，9为极度焦虑身体无法正常运作，10为生死攸关的极度恐惧。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a018"
+      ]
+    },
+    {
+      "name": "焦虑评估降低焦虑的机制",
+      "definition": "焦虑往往源于对威胁的想象，而非事件本身。通过SUDS量表评估事件本身的焦虑值，可以让人专注于事实而非想象，从而降低焦虑。大脑对数字有特殊反应，数字能帮助人回到正常反应，避免漂浮的想象。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a019"
+      ]
+    },
+    {
+      "name": "SUDS量表练习",
+      "definition": "家庭作业：在一天中时刻评估自己的焦虑程度，使用SUDS量表。当感到焦虑时，闭上眼睛想象量表，将当前焦虑事件对应到数字上，专注于事件本身的焦虑值。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a020"
+      ]
+    },
+    {
+      "name": "焦虑时身体反应适用于非生命威胁情境",
+      "definition": "焦虑时的身体反应不仅出现在生命威胁（如狗追、车撞）时，也出现在演讲、比赛等社会评价情境中。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a021"
+      ]
+    },
+    {
+      "name": "焦虑时肌肉颤抖是准备状态",
+      "definition": "焦虑时肌肉因紧张而颤抖，是身体在准备行动。例如运动会起跑前肌肉微微颤抖，状态最佳，枪响后能迅速出发。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a022"
+      ]
+    },
+    {
+      "name": "短跑比赛肌肉颤抖案例",
+      "definition": "讲师分享自己短跑爆发力强，常跑第一。比赛起跑前肌肉微微颤抖，但状态最好，枪响后能迅速出发。说明焦虑时的肌肉颤抖是准备状态。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a023"
+      ]
+    },
+    {
+      "name": "焦虑时身体反应与心理评价的恶性循环",
+      "definition": "当人发现身体出现焦虑反应（如出汗、发抖）时，如果告诉自己“糟了，我没用”，会进一步加剧焦虑，形成恶性循环。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:r001"
+      ]
+    },
+    {
+      "name": "焦虑刻度表定位法",
+      "definition": "当感到焦虑时，将引发焦虑的具体事件在0到10的焦虑刻度表上评分，以帮助大脑专注于事实而非想象，从而回到正常反应。评分时只评估事件本身的焦虑程度。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a001"
+      ]
+    },
+    {
+      "name": "控焦深呼吸法",
+      "definition": "通过腹式呼吸控制焦虑：左手放在上胸部保持不动，右手放在腹部随呼吸起伏。吸气时腹部鼓起，呼气时腹部收回，胸部不动。呼吸节奏为吸气5秒、屏息3秒、呼气5秒，重复进行。该方法通过增加氧气供给使身体和大脑平静。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a002"
+      ]
+    },
+    {
+      "name": "深呼吸的错误方式",
+      "definition": "常见的深呼吸方式（如快速大口呼吸）会破坏身体反应，导致越呼吸越焦虑，甚至头晕。正确的深呼吸应缓慢、腹部起伏、胸部不动。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a003"
+      ]
+    },
+    {
+      "name": "渐进式肌肉放松法",
+      "definition": "通过依次紧张并放松身体各部位肌肉来控制焦虑。从头部开始，依次紧张头皮、眼睛、耳朵、脸部、脖子、肩膀、手臂、背部、前胸、腹部、腰部、臀部、大腿、小腿、脚板、脚趾、手指，保持全身紧张5秒后彻底放松。该方法通过肌肉紧张后的放松增加氧气吸收，向大脑传递放松信号，并将注意力从焦虑源转移到身体上。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a004"
+      ]
+    },
+    {
+      "name": "渐进式肌肉放松的作用机制",
+      "definition": "肌肉紧张后放松可最大化吸收氧气，帮助身体平静，并向大脑传递放松信号，使大脑关闭危险警报。同时，将注意力集中在身体上可分散对焦虑事件的专注，从而降低焦虑。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a005"
+      ]
+    },
+    {
+      "name": "焦虑管理方法的练习建议",
+      "definition": "焦虑刻度表法和控焦深呼吸法应多练习，可在日常生活中随时进行，如洗澡、刷牙时。熟练后可在学校或公共场合悄无声息地使用。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a006"
+      ]
+    },
+    {
+      "name": "焦虑管理方法的有效性",
+      "definition": "讲师声称这两种方法对焦虑非常有效，约90%的临床客人反馈能大幅降低焦虑，但并非完全消除或永久预防，而是帮助在焦虑瞬间快速控制。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a007"
+      ]
+    },
+    {
+      "name": "焦虑管理的阶段目标",
+      "definition": "当前学习的是在焦虑发生时立即控制和管理焦虑，后续将学习如何防止进入焦虑状态。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a008"
+      ]
+    },
+    {
+      "name": "数字锚定对大脑的作用",
+      "definition": "大脑对数字有特殊反应，将焦虑事件对应到刻度表数字上，能帮助人回到正常反应，避免进入漂浮的想象状态，从而专注于事实。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:r001"
+      ]
+    },
+    {
+      "name": "渐进式肌肉放松的快速版",
+      "definition": "在熟悉渐进式肌肉放松后，可进行快速版：调整呼吸，脚踩地，从头到脚快速紧张全身肌肉，保持5秒后彻底放松。",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:r002"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-dcce5a9932f5-c001:a001",
+      "target": "s-dcce5a9932f5-c001:xe001",
+      "kind": "supports",
+      "condition": "两者内容相同，均强调青少年分不清焦虑与正常压力，且父母也缺乏认知。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a002",
+      "target": "s-dcce5a9932f5-c001:xe002",
+      "kind": "supports",
+      "condition": "两者内容相同，均强调人与焦虑情绪分离，以第三人称视角管理。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a003",
+      "target": "s-dcce5a9932f5-c001:xe003",
+      "kind": "supports",
+      "condition": "两者内容相同，均列出焦虑的身体表征。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a004",
+      "target": "s-dcce5a9932f5-c001:xe004",
+      "kind": "supports",
+      "condition": "两者内容相同，均强调呼吸短促在矛盾发生前出现。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a005",
+      "target": "s-dcce5a9932f5-c001:a005",
+      "kind": "supports",
+      "condition": "两者内容相同，均强调通过身体表征发现焦虑是管理的前提。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a006",
+      "target": "s-dcce5a9932f5-c001:xe006",
+      "kind": "supports",
+      "condition": "焦虑的认知表征内容一致，源另有脱离感描述。",
+      "reason": "源列出焦虑的认知表征包括害怕失去控制、专注受限、高度警惕等，并含脱离感；目标列出相同核心表征，源包含目标所有内容，故支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a007",
+      "target": "s-dcce5a9932f5-c001:xe007",
+      "kind": "supports",
+      "condition": "两者内容相同，均描述大脑核（杏仁核）在焦虑时打开及长期影响。",
+      "reason": "源与目标均描述大脑核在紧张时打开及长期焦虑状态的影响，表述一致，因此互相支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a008",
+      "target": "s-dcce5a9932f5-c001:xe008",
+      "kind": "supports",
+      "condition": "两者内容相同，均描述长期焦虑导致大脑接收信号变慢。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a009",
+      "target": "s-dcce5a9932f5-c001:xe009",
+      "kind": "supports",
+      "condition": "两者内容相同，均为高材生演讲焦虑案例。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a010",
+      "target": "s-dcce5a9932f5-c001:xe010",
+      "kind": "supports",
+      "condition": "两者内容相同，均为长期焦虑儿童案例。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a011",
+      "target": "s-dcce5a9932f5-c001:xe011",
+      "kind": "supports",
+      "condition": "两者内容相同，均列出焦虑的行为症状。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a012",
+      "target": "s-dcce5a9932f5-c001:xe012",
+      "kind": "supports",
+      "condition": "两者内容相同，均描述健康与不健康的寻求慰藉方式。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a013",
+      "target": "s-dcce5a9932f5-c001:a013",
+      "kind": "supports",
+      "condition": "两者内容相同，均强调焦虑源于想象威胁而非真实威胁。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a013",
+      "target": "s-dcce5a9932f5-c001:xe013",
+      "kind": "supports",
+      "condition": "两者内容相同，均强调焦虑源于想象威胁而非真实威胁。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a013",
+      "target": "s-dcce5a9932f5-c001:xe013",
+      "kind": "supports",
+      "condition": "两者内容相同，均强调焦虑源于想象威胁而非真实威胁。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a014",
+      "target": "s-dcce5a9932f5-c001:xe014",
+      "kind": "supports",
+      "condition": "两者内容相同，均描述坐立不安可能发展为落荒而逃。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a015",
+      "target": "s-dcce5a9932f5-c001:xe015",
+      "kind": "supports",
+      "condition": "两者内容相同，均列出焦虑的情绪表征。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a016",
+      "target": "s-dcce5a9932f5-c001:xe016",
+      "kind": "supports",
+      "condition": "两者内容相同，均区分紧张与胆小。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a017",
+      "target": "s-dcce5a9932f5-c001:xe017",
+      "kind": "supports",
+      "condition": "两者内容相同，均描述3F反应。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a018",
+      "target": "s-dcce5a9932f5-c001:xe018",
+      "kind": "supports",
+      "condition": "两者内容相同，均为冻结反应的例子。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a019",
+      "target": "s-dcce5a9932f5-c001:xe019",
+      "kind": "supports",
+      "condition": "两者内容相同，均描述大脑核的雷达功能。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:r001",
+      "target": "s-dcce5a9932f5-c001:xe020",
+      "kind": "supports",
+      "condition": "两者内容相同，均描述课程目标与范围。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:r002",
+      "target": "s-dcce5a9932f5-c001:xe021",
+      "kind": "supports",
+      "condition": "两者内容相同，均描述大脑核打开与威胁反应。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a001",
+      "target": "s-dcce5a9932f5-c001:a019",
+      "kind": "supports",
+      "condition": "k00045描述大脑像雷达扫描威胁，k00019描述大脑核的雷达功能，两者一致。",
+      "reason": "两者均强调大脑的威胁扫描功能。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a001",
+      "target": "s-dcce5a9932f5-c001:xe019",
+      "kind": "supports",
+      "condition": "k00045描述大脑像雷达扫描威胁，k00041描述大脑核的雷达功能，两者一致。",
+      "reason": "两者均强调大脑的威胁扫描功能。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a002",
+      "target": "s-dcce5a9932f5-c001:a017",
+      "kind": "supports",
+      "condition": "k00046描述战斗-逃跑-冻结反应，k00017描述3F反应，两者一致。",
+      "reason": "两者均描述面对威胁时的三种反应。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a002",
+      "target": "s-dcce5a9932f5-c001:xe017",
+      "kind": "supports",
+      "condition": "k00046描述战斗-逃跑-冻结反应，k00039描述3F反应，两者一致。",
+      "reason": "两者均描述面对威胁时的三种反应。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a003",
+      "target": "s-dcce5a9932f5-c001:a018",
+      "kind": "supports",
+      "condition": "k00047强调现实中人面对危险会冻结，k00018提供冻结反应的例子，两者一致。",
+      "reason": "两者均说明冻结是真实焦虑反应。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a003",
+      "target": "s-dcce5a9932f5-c001:xe018",
+      "kind": "supports",
+      "condition": "k00047强调现实中人面对危险会冻结，k00040提供冻结反应的例子，两者一致。",
+      "reason": "两者均说明冻结是真实焦虑反应。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a004",
+      "target": "s-dcce5a9932f5-c002:r002",
+      "kind": "supports",
+      "condition": "两者内容相同，均强调身体反应是帮助应对而非无能。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a005",
+      "target": "s-dcce5a9932f5-c002:a005",
+      "kind": "supports",
+      "condition": "两者内容相同，均描述焦虑时视觉敏锐度提高。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a006",
+      "target": "s-dcce5a9932f5-c002:a010",
+      "kind": "supports",
+      "condition": "k00050案例说明焦虑时身体反应带来超常能力，k00054研究证明焦虑时力量增强，两者一致。",
+      "reason": "两者均说明焦虑时身体能力增强。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a007",
+      "target": "s-dcce5a9932f5-c002:a012",
+      "kind": "supports",
+      "condition": "k00051说明体液跑向四肢导致口干，k00056说明血液供应到肌肉导致手掌变冷，两者均描述体液重新分配。",
+      "reason": "两者均描述焦虑时身体资源重新分配。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a008",
+      "target": "s-dcce5a9932f5-c002:a009",
+      "kind": "supports",
+      "condition": "k00052说明呼吸急促为供氧，k00053说明心跳加速为供血，两者均描述身体为行动做准备。",
+      "reason": "两者均描述焦虑时身体为行动做准备。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a011",
+      "target": "s-dcce5a9932f5-c002:a015",
+      "kind": "supports",
+      "condition": "k00055说明肾上腺素通知器官准备，k00059说明膀胱松弛是肾上腺素通知的结果，两者一致。",
+      "reason": "两者均描述肾上腺素的作用。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a011",
+      "target": "s-dcce5a9932f5-c002:a015",
+      "kind": "supports",
+      "condition": "k00055说明肾上腺素通知器官准备，k00074说明膀胱松弛是肾上腺素通知的结果，两者一致。",
+      "reason": "两者均描述肾上腺素的作用。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a013",
+      "target": "s-dcce5a9932f5-c002:a022",
+      "kind": "supports",
+      "condition": "k00057说明大腿肌肉紧张导致发抖是准备行动，k00066说明肌肉颤抖是准备状态，两者一致。",
+      "reason": "两者均说明肌肉颤抖是准备状态。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a013",
+      "target": "s-dcce5a9932f5-c002:a022",
+      "kind": "supports",
+      "condition": "k00057说明大腿肌肉紧张导致发抖是准备行动，k00072说明肌肉颤抖是准备状态，两者一致。",
+      "reason": "两者均说明肌肉颤抖是准备状态。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a014",
+      "target": "s-dcce5a9932f5-c001:a003",
+      "kind": "contrasts",
+      "condition": "k00058指出无身体反应可能不正常，而k00003列出正常身体表征，形成对比。",
+      "reason": "两者分别描述正常与异常的身体反应。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a014",
+      "target": "s-dcce5a9932f5-c001:xe003",
+      "kind": "contrasts",
+      "condition": "k00058指出无身体反应可能不正常，而k00025列出正常身体表征，形成对比。",
+      "reason": "两者分别描述正常与异常的身体反应。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a016",
+      "target": "s-dcce5a9932f5-c002:a016",
+      "kind": "supports",
+      "condition": "两者内容相同，均为辩论赛前尿急案例。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a017",
+      "target": "s-dcce5a9932f5-c002:a017",
+      "kind": "supports",
+      "condition": "两者内容相同，均区分适当焦虑与过度焦虑。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a018",
+      "target": "s-dcce5a9932f5-c002:a018",
+      "kind": "supports",
+      "condition": "两者内容相同，均为SUDS焦虑量表。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a019",
+      "target": "s-dcce5a9932f5-c002:a019",
+      "kind": "supports",
+      "condition": "两者内容相同，均描述焦虑评估降低焦虑的机制。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a020",
+      "target": "s-dcce5a9932f5-c002:a020",
+      "kind": "supports",
+      "condition": "两者内容相同，均为SUDS量表练习。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a021",
+      "target": "s-dcce5a9932f5-c002:a021",
+      "kind": "supports",
+      "condition": "两者内容相同，均说明焦虑身体反应适用于非生命威胁情境。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a022",
+      "target": "s-dcce5a9932f5-c002:a022",
+      "kind": "supports",
+      "condition": "两者内容相同，均说明肌肉颤抖是准备状态。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a023",
+      "target": "s-dcce5a9932f5-c002:a023",
+      "kind": "supports",
+      "condition": "两者内容相同，均为短跑比赛肌肉颤抖案例。",
+      "reason": "两条记录表述一致，互为印证。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:r001",
+      "target": "s-dcce5a9932f5-c002:a004",
+      "kind": "contrasts",
+      "condition": "k00068描述负面评价导致恶性循环，k00048建议积极重构，两者形成对比。",
+      "reason": "两者分别描述负面与正面的认知评价。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:r001",
+      "target": "s-dcce5a9932f5-c002:r002",
+      "kind": "contrasts",
+      "condition": "k00068描述负面评价导致恶性循环，k00069建议积极重构，两者形成对比。",
+      "reason": "两者分别描述负面与正面的认知评价。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a001",
+      "target": "s-dcce5a9932f5-c002:a018",
+      "kind": "association",
+      "condition": "两者均使用0-10刻度评估焦虑。",
+      "reason": "源焦虑刻度表定位法使用0-10刻度为焦虑事件评分，目标SUDS量表提供1-10刻度并附例子；源方法以目标量表为工具，但源不构成目标的步骤，故降为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of方向不成立，改为association"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a001",
+      "target": "s-dcce5a9932f5-c002:a018",
+      "kind": "association",
+      "condition": "两者均使用0-10刻度评估焦虑。",
+      "reason": "源焦虑刻度表定位法使用0-10刻度为焦虑事件评分，目标SUDS量表提供1-10刻度并附例子；源方法以目标量表为工具，但源不构成目标的步骤，故降为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of方向不成立，改为association"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a002",
+      "target": "s-dcce5a9932f5-c003:a003",
+      "kind": "contrasts",
+      "condition": "控焦深呼吸法描述正确腹式呼吸，深呼吸的错误方式描述错误方式，两者形成对比。",
+      "reason": "源为正确的控焦深呼吸法，目标指出常见深呼吸方式的错误及正确要点，两者形成正误对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a004",
+      "target": "s-dcce5a9932f5-c003:a005",
+      "kind": "supports",
+      "condition": "渐进式肌肉放松法与其作用机制一致。",
+      "reason": "源描述渐进式肌肉放松法的具体步骤，目标解释肌肉紧张后放松增加氧气吸收并传递放松信号；目标机制支持源方法的合理性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a006",
+      "target": "s-dcce5a9932f5-c003:a001",
+      "kind": "supports",
+      "condition": "焦虑管理方法的练习建议涵盖焦虑刻度表法。",
+      "reason": "源建议焦虑刻度表法和控焦深呼吸法应多练习，目标为焦虑刻度表定位法，源明确包含目标，故支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原kind applies_to不在允许列表，改为supports"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a006",
+      "target": "s-dcce5a9932f5-c003:a002",
+      "kind": "supports",
+      "condition": "焦虑管理方法的练习建议涵盖控焦深呼吸法。",
+      "reason": "源建议焦虑刻度表法和控焦深呼吸法应多练习，目标为控焦深呼吸法，源明确包含目标，故支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原kind applies_to不在允许列表，改为supports"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a007",
+      "target": "s-dcce5a9932f5-c003:a001",
+      "kind": "supports",
+      "condition": "焦虑管理方法的有效性涵盖焦虑刻度表法。",
+      "reason": "源声称两种方法对焦虑非常有效，目标为焦虑刻度表定位法，源明确涉及目标，故支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原kind applies_to不在允许列表，改为supports"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a007",
+      "target": "s-dcce5a9932f5-c003:a002",
+      "kind": "supports",
+      "condition": "焦虑管理方法的有效性涵盖控焦深呼吸法。",
+      "reason": "源声称两种方法对焦虑非常有效，目标为控焦深呼吸法，源明确涉及目标，故支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原kind applies_to不在允许列表，改为supports"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a008",
+      "target": "s-dcce5a9932f5-c003:a001",
+      "kind": "supports",
+      "condition": "当前阶段学习焦虑发生时立即控制的方法，焦虑刻度表定位法是其中之一。",
+      "reason": "源指出当前学习控制焦虑的方法，目标为焦虑刻度表定位法，源为目标的当前应用提供背景支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of不准确，改为supports"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a008",
+      "target": "s-dcce5a9932f5-c003:a002",
+      "kind": "supports",
+      "condition": "当前阶段学习焦虑发生时立即控制的方法，控焦深呼吸法是其中之一。",
+      "reason": "源指出当前学习控制焦虑的方法，目标为控焦深呼吸法，源为目标的当前应用提供背景支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of不准确，改为supports"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:r001",
+      "target": "s-dcce5a9932f5-c002:a019",
+      "kind": "supports",
+      "condition": "k00088解释数字锚定对大脑的作用，k00063描述焦虑评估降低焦虑的机制，两者一致。",
+      "reason": "两者均强调数字帮助回到正常反应。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:r001",
+      "target": "s-dcce5a9932f5-c002:a019",
+      "kind": "supports",
+      "condition": "k00088解释数字锚定对大脑的作用，k00078描述焦虑评估降低焦虑的机制，两者一致。",
+      "reason": "两者均强调数字帮助回到正常反应。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:r002",
+      "target": "s-dcce5a9932f5-c003:a004",
+      "kind": "example_of",
+      "condition": "快速版是标准方法的变体",
+      "reason": "“渐进式肌肉放松的快速版”不是“渐进式肌肉放松法”的一个步骤，而是该方法的变体，属于实例关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 step_of，改为 example_of。"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:v2-n001",
+      "target": "s-dcce5a9932f5-c001:a001",
+      "kind": "complements",
+      "condition": "在青少年焦虑辅导中",
+      "reason": "source 主张当青少年需要专业心理帮助时家长也需要，a001 说明许多青少年已焦虑但自己和父母都不知道，说明父母缺乏识别能力，支持了家长需要专业帮助的必要性",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a001",
+      "target": "s-dcce5a9932f5-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在青少年焦虑辅导中",
+      "reason": "source 主张当青少年需要专业心理帮助时家长也需要，a001 说明许多青少年已焦虑但自己和父母都不知道，说明父母缺乏识别能力，支持了家长需要专业帮助的必要性",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:v2-n001",
+      "target": "s-dcce5a9932f5-c001:xe001",
+      "kind": "complements",
+      "condition": "在青少年焦虑辅导中",
+      "reason": "与 a001 内容相同，补充了家长需要专业帮助的原因",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:xe001",
+      "target": "s-dcce5a9932f5-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在青少年焦虑辅导中",
+      "reason": "与 a001 内容相同，补充了家长需要专业帮助的原因",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:v2-n001",
+      "target": "s-dcce5a9932f5-c001:xe002",
+      "kind": "association",
+      "condition": "在心理辅导情境下",
+      "reason": "source 强调家长参与辅导，xe002 介绍辅导中的具体技巧（人与焦虑分离），两者同属辅导过程但针对不同方面",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:xe002",
+      "target": "s-dcce5a9932f5-c001:v2-n001",
+      "kind": "association",
+      "condition": "在心理辅导情境下",
+      "reason": "source 强调家长参与辅导，xe002 介绍辅导中的具体技巧（人与焦虑分离），两者同属辅导过程但针对不同方面",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:v2-n001",
+      "target": "s-dcce5a9932f5-c001:a002",
+      "kind": "association",
+      "condition": "在心理辅导情境下",
+      "reason": "与 xe002 相同，均为焦虑管理技巧，与家长参与辅导无直接逻辑关系",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a002",
+      "target": "s-dcce5a9932f5-c001:v2-n001",
+      "kind": "association",
+      "condition": "在心理辅导情境下",
+      "reason": "与 xe002 相同，均为焦虑管理技巧，与家长参与辅导无直接逻辑关系",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:v2-n001",
+      "target": "s-dcce5a9932f5-c001:a010",
+      "kind": "association",
+      "condition": "在儿童焦虑辅导中",
+      "reason": "source 主张青少年辅导时家长也需要专业帮助，a010 案例中的儿童接受辅导但未提及家长参与，故仅为潜在关联",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a010",
+      "target": "s-dcce5a9932f5-c001:v2-n001",
+      "kind": "association",
+      "condition": "在儿童焦虑辅导中",
+      "reason": "source 主张青少年辅导时家长也需要专业帮助，a010 案例中的儿童接受辅导但未提及家长参与，故仅为潜在关联",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:v2-n001",
+      "target": "s-dcce5a9932f5-c001:xe010",
+      "kind": "association",
+      "condition": "在儿童焦虑辅导中",
+      "reason": "与 a010 相同，未体现家长参与",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:xe010",
+      "target": "s-dcce5a9932f5-c001:v2-n001",
+      "kind": "association",
+      "condition": "在儿童焦虑辅导中",
+      "reason": "与 a010 相同，未体现家长参与",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n001",
+      "target": "s-dcce5a9932f5-c003:a002",
+      "kind": "complements",
+      "condition": "当需要具体操作指导以实施深呼吸时",
+      "reason": "source 指出深呼吸有效但未给出具体做法，candidate 提供了详细的腹式呼吸步骤和要点，补充了深呼吸的具体操作这一实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a002",
+      "target": "s-dcce5a9932f5-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要具体操作指导以实施深呼吸时",
+      "reason": "source 指出深呼吸有效但未给出具体做法，candidate 提供了详细的腹式呼吸步骤和要点，补充了深呼吸的具体操作这一实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n001",
+      "target": "s-dcce5a9932f5-c002:v2-n002",
+      "kind": "example_of",
+      "condition": "在焦虑管理的身体维度框架下",
+      "reason": "candidate 提出管理焦虑可从身体、认知、行为、情绪四个维度入手，source 的深呼吸正是通过身体控制焦虑的一种方法，因此 source 是 candidate 身体维度的一个具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n002",
+      "target": "s-dcce5a9932f5-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "在焦虑管理的身体维度框架下",
+      "reason": "candidate 提出管理焦虑可从身体、认知、行为、情绪四个维度入手，source 的深呼吸正是通过身体控制焦虑的一种方法，因此 source 是 candidate 身体维度的一个具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n001",
+      "target": "s-dcce5a9932f5-c002:a008",
+      "kind": "complements",
+      "condition": "当需要理解焦虑时呼吸变化的生理原因时",
+      "reason": "source 提到焦虑时呼吸急促，candidate 解释了其原因是为逃跑或战斗吸入更多氧气，补充了焦虑呼吸变化的机制这一实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:a008",
+      "target": "s-dcce5a9932f5-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解焦虑时呼吸变化的生理原因时",
+      "reason": "source 提到焦虑时呼吸急促，candidate 解释了其原因是为逃跑或战斗吸入更多氧气，补充了焦虑呼吸变化的机制这一实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n001",
+      "target": "s-dcce5a9932f5-c003:a003",
+      "kind": "complements",
+      "condition": "当实施深呼吸并需避免常见错误时",
+      "reason": "candidate 指出常见错误方式会破坏效果并给出正确要点，补充了 source 关于深呼吸有效的论述中缺失的正确操作标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a003",
+      "target": "s-dcce5a9932f5-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当实施深呼吸并需避免常见错误时",
+      "reason": "candidate 指出常见错误方式会破坏效果并给出正确要点，补充了 source 关于深呼吸有效的论述中缺失的正确操作标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n001",
+      "target": "s-dcce5a9932f5-c001:r001",
+      "kind": "association",
+      "condition": "在焦虑管理课程整体目标的背景下",
+      "reason": "candidate 提到课程包括从身体上控制焦虑，source 是身体控制的一种具体方法，但 candidate 未涉及深呼吸细节，故仅为一般主题关联，不足以构成互补或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:r001",
+      "target": "s-dcce5a9932f5-c002:v2-n001",
+      "kind": "association",
+      "condition": "在焦虑管理课程整体目标的背景下",
+      "reason": "candidate 提到课程包括从身体上控制焦虑，source 是身体控制的一种具体方法，但 candidate 未涉及深呼吸细节，故仅为一般主题关联，不足以构成互补或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n001",
+      "target": "s-dcce5a9932f5-c001:xe020",
+      "kind": "association",
+      "condition": "在焦虑管理课程整体目标的背景下",
+      "reason": "与上一个候选内容相同，candidate 与 source 仅同属焦虑管理主题，无直接补充或前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:xe020",
+      "target": "s-dcce5a9932f5-c002:v2-n001",
+      "kind": "association",
+      "condition": "在焦虑管理课程整体目标的背景下",
+      "reason": "与上一个候选内容相同，candidate 与 source 仅同属焦虑管理主题，无直接补充或前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n001",
+      "target": "s-dcce5a9932f5-c003:a006",
+      "kind": "complements",
+      "condition": "当需要知道如何练习深呼吸时",
+      "reason": "candidate 补充了深呼吸法（控焦深呼吸法）的练习建议和熟练后的应用场景，完善了 source 关于深呼吸控制焦虑的实践指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a006",
+      "target": "s-dcce5a9932f5-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要知道如何练习深呼吸时",
+      "reason": "candidate 补充了深呼吸法（控焦深呼吸法）的练习建议和熟练后的应用场景，完善了 source 关于深呼吸控制焦虑的实践指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n001",
+      "target": "s-dcce5a9932f5-c003:a007",
+      "kind": "complements",
+      "condition": "当评估深呼吸方法的有效性时",
+      "reason": "candidate 提供了深呼吸法（与其他方法）有效性的临床反馈及局限，为 source 声称深呼吸有效提供了证据和边界。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a007",
+      "target": "s-dcce5a9932f5-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当评估深呼吸方法的有效性时",
+      "reason": "candidate 提供了深呼吸法（与其他方法）有效性的临床反馈及局限，为 source 声称深呼吸有效提供了证据和边界。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n001",
+      "target": "s-dcce5a9932f5-c003:a008",
+      "kind": "association",
+      "condition": "在理解焦虑管理的阶段目标时",
+      "reason": "candidate 指出当前阶段是立即控制焦虑，source 是这一阶段的一种方法，但 candidate 未特指深呼吸，故仅为主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a008",
+      "target": "s-dcce5a9932f5-c002:v2-n001",
+      "kind": "association",
+      "condition": "在理解焦虑管理的阶段目标时",
+      "reason": "candidate 指出当前阶段是立即控制焦虑，source 是这一阶段的一种方法，但 candidate 未特指深呼吸，故仅为主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n001",
+      "target": "s-dcce5a9932f5-c001:a005",
+      "kind": "association",
+      "condition": "在焦虑管理流程中",
+      "reason": "candidate 强调发现焦虑是管理的前提，source 是管理方法，但 source 不涉及发现身体表征，两者无直接逻辑关系，仅同属焦虑管理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a005",
+      "target": "s-dcce5a9932f5-c002:v2-n001",
+      "kind": "association",
+      "condition": "在焦虑管理流程中",
+      "reason": "candidate 强调发现焦虑是管理的前提，source 是管理方法，但 source 不涉及发现身体表征，两者无直接逻辑关系，仅同属焦虑管理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n001",
+      "target": "s-dcce5a9932f5-c003:a004",
+      "kind": "association",
+      "condition": "在身体控制焦虑的方法集合中",
+      "reason": "source 和 candidate 都是身体控制焦虑的方法，但一个呼吸一个肌肉，无直接补充或前提关系，仅为方法并列。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a004",
+      "target": "s-dcce5a9932f5-c002:v2-n001",
+      "kind": "association",
+      "condition": "在身体控制焦虑的方法集合中",
+      "reason": "source 和 candidate 都是身体控制焦虑的方法，但一个呼吸一个肌肉，无直接补充或前提关系，仅为方法并列。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n001",
+      "target": "s-dcce5a9932f5-c001:a003",
+      "kind": "association",
+      "condition": "在理解焦虑的身体反应时",
+      "reason": "candidate 全面列举焦虑身体表征，source 仅提及呼吸急促，但 candidate 不涉及控制方法，故无法建立互补或前提，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a003",
+      "target": "s-dcce5a9932f5-c002:v2-n001",
+      "kind": "association",
+      "condition": "在理解焦虑的身体反应时",
+      "reason": "candidate 全面列举焦虑身体表征，source 仅提及呼吸急促，但 candidate 不涉及控制方法，故无法建立互补或前提，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n002",
+      "target": "s-dcce5a9932f5-c001:r001",
+      "kind": "complements",
+      "condition": "在了解课程如何实施四维度管理时",
+      "reason": "candidate 将焦虑管理四维度纳入具体课程计划，补充了 source 框架在四天课程中的实施安排。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:r001",
+      "target": "s-dcce5a9932f5-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在了解课程如何实施四维度管理时",
+      "reason": "candidate 将焦虑管理四维度纳入具体课程计划，补充了 source 框架在四天课程中的实施安排。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n002",
+      "target": "s-dcce5a9932f5-c001:xe020",
+      "kind": "complements",
+      "condition": "在了解课程如何实施四维度管理时",
+      "reason": "candidate 内容与前一候选相同，将四维度纳入课程目标，补充了 source 框架的实施计划。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:xe020",
+      "target": "s-dcce5a9932f5-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在了解课程如何实施四维度管理时",
+      "reason": "candidate 内容与前一候选相同，将四维度纳入课程目标，补充了 source 框架的实施计划。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n002",
+      "target": "s-dcce5a9932f5-c001:a005",
+      "kind": "complements",
+      "condition": "在实施身体维度管理时",
+      "reason": "candidate 补充了身体维度管理的第一步——识别身体表征，完善了 source 身体维度的操作过程。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a005",
+      "target": "s-dcce5a9932f5-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在实施身体维度管理时",
+      "reason": "candidate 补充了身体维度管理的第一步——识别身体表征，完善了 source 身体维度的操作过程。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n002",
+      "target": "s-dcce5a9932f5-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要身体维度的具体方法时",
+      "reason": "candidate 提供了深呼吸这一具体身体控制方法，补充了 source 身体维度的实际操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n001",
+      "target": "s-dcce5a9932f5-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当需要身体维度的具体方法时",
+      "reason": "candidate 提供了深呼吸这一具体身体控制方法，补充了 source 身体维度的实际操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n002",
+      "target": "s-dcce5a9932f5-c003:a008",
+      "kind": "association",
+      "condition": "在理解焦虑管理的阶段安排时",
+      "reason": "candidate 提到当前阶段和后续阶段，source 仅给出四维度框架，未涉及时间阶段，两者无直接补充或前提，仅同属焦虑管理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c003:a008",
+      "target": "s-dcce5a9932f5-c002:v2-n002",
+      "kind": "association",
+      "condition": "在理解焦虑管理的阶段安排时",
+      "reason": "candidate 提到当前阶段和后续阶段，source 仅给出四维度框架，未涉及时间阶段，两者无直接补充或前提，仅同属焦虑管理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n002",
+      "target": "s-dcce5a9932f5-c001:xe002",
+      "kind": "complements",
+      "condition": "在认知或情绪维度的具体策略中",
+      "reason": "candidate 提供了人与焦虑分离的具体认知/情绪策略，补充了 source 中相关维度的操作内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:xe002",
+      "target": "s-dcce5a9932f5-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在认知或情绪维度的具体策略中",
+      "reason": "candidate 提供了人与焦虑分离的具体认知/情绪策略，补充了 source 中相关维度的操作内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n002",
+      "target": "s-dcce5a9932f5-c001:a002",
+      "kind": "complements",
+      "condition": "在认知或情绪维度的具体策略中",
+      "reason": "candidate 内容与前一候选相同，提供了人与焦虑分离的策略，补充了 source 的相关维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a002",
+      "target": "s-dcce5a9932f5-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在认知或情绪维度的具体策略中",
+      "reason": "candidate 内容与前一候选相同，提供了人与焦虑分离的策略，补充了 source 的相关维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n002",
+      "target": "s-dcce5a9932f5-c001:a003",
+      "kind": "complements",
+      "condition": "在识别身体维度的具体反应时",
+      "reason": "candidate 列举了焦虑的身体表征，补充了 source 身体维度中需要控制的身体反应的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:a003",
+      "target": "s-dcce5a9932f5-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在识别身体维度的具体反应时",
+      "reason": "candidate 列举了焦虑的身体表征，补充了 source 身体维度中需要控制的身体反应的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n002",
+      "target": "s-dcce5a9932f5-c001:xe003",
+      "kind": "complements",
+      "condition": "在识别身体维度的具体反应时",
+      "reason": "candidate 内容与前一候选相同，列举了身体表征，补充了 source 身体维度的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:xe003",
+      "target": "s-dcce5a9932f5-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在识别身体维度的具体反应时",
+      "reason": "candidate 内容与前一候选相同，列举了身体表征，补充了 source 身体维度的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n002",
+      "target": "s-dcce5a9932f5-c002:r001",
+      "kind": "complements",
+      "condition": "在理解身体与认知维度的交互时",
+      "reason": "candidate 说明了身体反应和负面认知评价之间的恶性循环，补充了 source 中维度间相互影响的关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:r001",
+      "target": "s-dcce5a9932f5-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在理解身体与认知维度的交互时",
+      "reason": "candidate 说明了身体反应和负面认知评价之间的恶性循环，补充了 source 中维度间相互影响的关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n002",
+      "target": "s-dcce5a9932f5-c002:r002",
+      "kind": "complements",
+      "condition": "在调整对身体反应的认知时",
+      "reason": "candidate 提供了对身体反应的积极认知框架，补充了 source 认知与身体维度结合应用的具体方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:r002",
+      "target": "s-dcce5a9932f5-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在调整对身体反应的认知时",
+      "reason": "candidate 提供了对身体反应的积极认知框架，补充了 source 认知与身体维度结合应用的具体方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c002:v2-n002",
+      "target": "s-dcce5a9932f5-c001:xe006",
+      "kind": "complements",
+      "condition": "在识别认知维度的表现时",
+      "reason": "candidate 列举了焦虑的认知表征，补充了 source 认知维度需要处理的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-dcce5a9932f5-c001:xe006",
+      "target": "s-dcce5a9932f5-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在识别认知维度的表现时",
+      "reason": "candidate 列举了焦虑的认知表征，补充了 source 认知维度需要处理的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a001",
+        "s-dcce5a9932f5-c001:xe001"
+      ],
+      "reason": "内容完全一致，均描述焦虑与正常压力的区分。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a002",
+        "s-dcce5a9932f5-c001:xe002"
+      ],
+      "reason": "内容完全一致，均描述人与焦虑情绪的分离。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a003",
+        "s-dcce5a9932f5-c001:xe003"
+      ],
+      "reason": "内容完全一致，均列出焦虑的身体表征。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a004",
+        "s-dcce5a9932f5-c001:xe004"
+      ],
+      "reason": "内容完全一致，均描述呼吸短促的早期出现。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a005"
+      ],
+      "reason": "内容完全一致，均描述通过身体表征发现焦虑。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a006",
+        "s-dcce5a9932f5-c001:xe006"
+      ],
+      "reason": "内容完全一致，均列出焦虑的认知表征。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a007",
+        "s-dcce5a9932f5-c001:xe007"
+      ],
+      "reason": "内容完全一致，均描述大脑核与威胁警惕。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a008",
+        "s-dcce5a9932f5-c001:xe008"
+      ],
+      "reason": "内容完全一致，均描述长期焦虑对大脑接收能力的影响。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a009",
+        "s-dcce5a9932f5-c001:xe009"
+      ],
+      "reason": "内容完全一致，均为高材生演讲焦虑案例。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a010",
+        "s-dcce5a9932f5-c001:xe010"
+      ],
+      "reason": "内容完全一致，均为长期焦虑儿童案例。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a011",
+        "s-dcce5a9932f5-c001:xe011"
+      ],
+      "reason": "内容完全一致，均列出焦虑的行为症状。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a012",
+        "s-dcce5a9932f5-c001:xe012"
+      ],
+      "reason": "内容完全一致，均描述健康与不健康的寻求慰藉方式。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a013",
+        "s-dcce5a9932f5-c001:xe013"
+      ],
+      "reason": "内容完全一致，均描述焦虑中的想象威胁与真实威胁。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a014",
+        "s-dcce5a9932f5-c001:xe014"
+      ],
+      "reason": "内容完全一致，均描述坐立不安与落荒而逃。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a015",
+        "s-dcce5a9932f5-c001:xe015"
+      ],
+      "reason": "内容完全一致，均列出焦虑的情绪表征。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a016",
+        "s-dcce5a9932f5-c001:xe016"
+      ],
+      "reason": "内容完全一致，均区分紧张与胆小。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a017",
+        "s-dcce5a9932f5-c001:xe017"
+      ],
+      "reason": "内容完全一致，均描述3F反应。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a018",
+        "s-dcce5a9932f5-c001:xe018"
+      ],
+      "reason": "内容完全一致，均为冻结反应的例子。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a019",
+        "s-dcce5a9932f5-c001:xe019"
+      ],
+      "reason": "内容完全一致，均描述大脑核的雷达功能。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:r001",
+        "s-dcce5a9932f5-c001:xe020"
+      ],
+      "reason": "内容完全一致，均描述焦虑管理课程的目标与范围。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:r002",
+        "s-dcce5a9932f5-c001:xe021"
+      ],
+      "reason": "内容完全一致，均描述焦虑时大脑核的打开与威胁反应。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a004",
+        "s-dcce5a9932f5-c002:r002"
+      ],
+      "reason": "内容完全一致，均描述焦虑时身体反应是帮助应对而非无能。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a005"
+      ],
+      "reason": "内容完全一致，均描述焦虑时视觉敏锐度提高。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a015"
+      ],
+      "reason": "内容完全一致，均描述焦虑时膀胱肌肉松弛导致尿急。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a016"
+      ],
+      "reason": "内容完全一致，均为辩论赛前尿急案例。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a017"
+      ],
+      "reason": "内容完全一致，均区分适当焦虑与过度焦虑。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a018"
+      ],
+      "reason": "内容完全一致，均为SUDS焦虑量表。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a019"
+      ],
+      "reason": "内容完全一致，均描述焦虑评估降低焦虑的机制。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a020"
+      ],
+      "reason": "内容完全一致，均为SUDS量表练习。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a021"
+      ],
+      "reason": "内容完全一致，均说明焦虑身体反应适用于非生命威胁情境。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a022"
+      ],
+      "reason": "内容完全一致，均说明肌肉颤抖是准备状态。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a023"
+      ],
+      "reason": "内容完全一致，均为短跑比赛肌肉颤抖案例。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a014",
+        "s-dcce5a9932f5-c001:a003"
+      ],
+      "description": "k00058指出无身体反应可能不正常，而k00003列出正常身体表征，但未说明无反应是否一定异常，两者可能存在矛盾。",
+      "needed_evidence": "需要更多临床证据说明无身体反应是否一定异常，以及正常身体表征的个体差异。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a014",
+        "s-dcce5a9932f5-c001:xe003"
+      ],
+      "description": "k00058指出无身体反应可能不正常，而k00025列出正常身体表征，但未说明无反应是否一定异常，两者可能存在矛盾。",
+      "needed_evidence": "需要更多临床证据说明无身体反应是否一定异常，以及正常身体表征的个体差异。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:r001",
+        "s-dcce5a9932f5-c002:a004"
+      ],
+      "description": "k00068描述负面评价导致恶性循环，k00048建议积极重构，两者对同一身体反应给出相反认知评价，但未说明适用条件。",
+      "needed_evidence": "需要明确在何种情况下应采用积极重构，以及负面评价的普遍性。"
+    },
+    {
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:r001",
+        "s-dcce5a9932f5-c002:r002"
+      ],
+      "description": "k00068描述负面评价导致恶性循环，k00069建议积极重构，两者对同一身体反应给出相反认知评价，但未说明适用条件。",
+      "needed_evidence": "需要明确在何种情况下应采用积极重构，以及负面评价的普遍性。"
+    }
+  ],
+  "path": [
+    {
+      "name": "焦虑管理方法",
+      "steps": [
+        {
+          "action": "识别焦虑：通过身体表征（如呼吸短促、心跳加速）和认知表征（如害怕负面评价）发现焦虑。",
+          "atom_ids": [
+            "s-dcce5a9932f5-c001:a003",
+            "s-dcce5a9932f5-c001:a004",
+            "s-dcce5a9932f5-c001:a005",
+            "s-dcce5a9932f5-c001:a006",
+            "s-dcce5a9932f5-c001:xe003",
+            "s-dcce5a9932f5-c001:xe004",
+            "s-dcce5a9932f5-c001:xe006"
+          ],
+          "condition": "当感到紧张或焦虑时。"
+        },
+        {
+          "action": "评估焦虑程度：使用SUDS量表或焦虑刻度表对当前焦虑事件评分（0-10），专注于事实而非想象。",
+          "atom_ids": [
+            "s-dcce5a9932f5-c002:a018",
+            "s-dcce5a9932f5-c002:a019",
+            "s-dcce5a9932f5-c002:a020",
+            "s-dcce5a9932f5-c003:a001",
+            "s-dcce5a9932f5-c003:r001"
+          ],
+          "condition": "识别焦虑后，需要量化焦虑程度。"
+        },
+        {
+          "action": "应用控焦深呼吸法：腹式呼吸，吸气5秒、屏息3秒、呼气5秒，重复进行。",
+          "atom_ids": [
+            "s-dcce5a9932f5-c003:a002",
+            "s-dcce5a9932f5-c003:a003",
+            "s-dcce5a9932f5-c003:a006"
+          ],
+          "condition": "评估后需要立即控制身体反应。"
+        },
+        {
+          "action": "应用渐进式肌肉放松法：依次紧张并放松全身肌肉，保持紧张5秒后放松。",
+          "atom_ids": [
+            "s-dcce5a9932f5-c003:a004",
+            "s-dcce5a9932f5-c003:a005",
+            "s-dcce5a9932f5-c003:r002"
+          ],
+          "condition": "需要更深度的身体放松，或已熟悉标准版后进行快速版。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "5416c95defa9b752a05f89273136f8353570293a3a1c39dfb3c621e7c1c0b640",
+  "point_units": [
+    {
+      "id": "s-dcce5a9932f5-c001:u001",
+      "kind": "区别",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a001",
+        "s-dcce5a9932f5-c001:xe001"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u002",
+      "kind": "区别",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a002",
+        "s-dcce5a9932f5-c001:xe002"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u003",
+      "kind": "主张",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u004",
+      "kind": "定义",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a003",
+        "s-dcce5a9932f5-c001:xe003"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u005",
+      "kind": "机制",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a004",
+        "s-dcce5a9932f5-c001:xe004"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u006",
+      "kind": "方法",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a005"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u007",
+      "kind": "定义",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a006",
+        "s-dcce5a9932f5-c001:xe006"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017",
+        "b00020",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u008",
+      "kind": "案例",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a009",
+        "s-dcce5a9932f5-c001:xe009"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u009",
+      "kind": "机制",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a007",
+        "s-dcce5a9932f5-c001:xe007",
+        "s-dcce5a9932f5-c001:r002",
+        "s-dcce5a9932f5-c001:xe021"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022",
+        "b00023",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u010",
+      "kind": "机制",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a008",
+        "s-dcce5a9932f5-c001:xe008"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u011",
+      "kind": "案例",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a010",
+        "s-dcce5a9932f5-c001:xe010"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u012",
+      "kind": "定义",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a011",
+        "s-dcce5a9932f5-c001:xe011"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00032",
+        "b00034",
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u013",
+      "kind": "区别",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a012",
+        "s-dcce5a9932f5-c001:xe012"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u014",
+      "kind": "区别",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a013",
+        "s-dcce5a9932f5-c001:xe013"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u015",
+      "kind": "机制",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a014",
+        "s-dcce5a9932f5-c001:xe014"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u016",
+      "kind": "定义",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a015",
+        "s-dcce5a9932f5-c001:xe015"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u017",
+      "kind": "区别",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a016",
+        "s-dcce5a9932f5-c001:xe016"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u018",
+      "kind": "机制",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a017",
+        "s-dcce5a9932f5-c001:xe017"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042",
+        "b00043",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u019",
+      "kind": "例子",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a018",
+        "s-dcce5a9932f5-c001:xe018"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c001:u020",
+      "kind": "目标",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:r001",
+        "s-dcce5a9932f5-c001:xe020"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a017"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:a018"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a003"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a001"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045",
+        "b00046",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a004"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:r001"
+      ],
+      "blocks": [
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a005"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0008",
+      "kind": "case",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a006"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a007"
+      ],
+      "blocks": [
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a008"
+      ],
+      "blocks": [
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a009"
+      ],
+      "blocks": [
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a010"
+      ],
+      "blocks": [
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a011"
+      ],
+      "blocks": [
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a021"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a012"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a013"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a022",
+        "s-dcce5a9932f5-c002:a023"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a014"
+      ],
+      "blocks": [
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a015"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0020",
+      "kind": "case",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a016"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a017"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a018"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074",
+        "b00075",
+        "b00076",
+        "b00077",
+        "b00078",
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a020"
+      ],
+      "blocks": [
+        "b00071",
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:a019"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082",
+        "b00083",
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c002:u0026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c003:u0001",
+      "kind": "method",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a001"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c003:u0002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:r001"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c003:u0003",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a003"
+      ],
+      "blocks": [
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c003:u0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a002"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087",
+        "b00088",
+        "b00089",
+        "b00090",
+        "b00091",
+        "b00092",
+        "b00093",
+        "b00094",
+        "b00095",
+        "b00096",
+        "b00097",
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c003:u0005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a002"
+      ],
+      "blocks": [
+        "b00094",
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c003:u0006",
+      "kind": "method",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a004"
+      ],
+      "blocks": [
+        "b00099",
+        "b00100",
+        "b00101",
+        "b00102",
+        "b00103",
+        "b00104",
+        "b00105",
+        "b00106",
+        "b00107",
+        "b00108"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c003:u0007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a005"
+      ],
+      "blocks": [
+        "b00109",
+        "b00110"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c003:u0008",
+      "kind": "effect",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a005"
+      ],
+      "blocks": [
+        "b00111"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c003:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:r002"
+      ],
+      "blocks": [
+        "b00112",
+        "b00113"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c003:u0010",
+      "kind": "effect",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a007"
+      ],
+      "blocks": [
+        "b00114"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c003:u0011",
+      "kind": "recommendation",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a006"
+      ],
+      "blocks": [
+        "b00115",
+        "b00116"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c003:u0012",
+      "kind": "claim",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a007"
+      ],
+      "blocks": [
+        "b00117"
+      ]
+    },
+    {
+      "id": "s-dcce5a9932f5-c003:u0013",
+      "kind": "stage",
+      "atom_ids": [
+        "s-dcce5a9932f5-c003:a008"
+      ],
+      "blocks": [
+        "b00115",
+        "b00117",
+        "b00118"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "家长也需要专业帮助",
+      "atom_ids": [
+        "s-dcce5a9932f5-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dcce5a9932f5",
+          "blocks": [
+            "b00010"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "claim"
+    },
+    {
+      "title": "深呼吸控制焦虑",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dcce5a9932f5",
+          "blocks": [
+            "b00086"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "焦虑管理的四个维度",
+      "atom_ids": [
+        "s-dcce5a9932f5-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-dcce5a9932f5",
+          "blocks": [
+            "b00041"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "strategy"
+    }
+  ]
+}

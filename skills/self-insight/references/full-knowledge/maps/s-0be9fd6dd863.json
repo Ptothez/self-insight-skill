@@ -1,0 +1,502 @@
+{
+  "concepts": [
+    {
+      "name": "随时学习的习惯",
+      "definition": "一种需要每天练习、通过关注身边、保持好奇和称赞别人来养成的学习习惯，使学习变得自然不成为负担。",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a001",
+        "s-0be9fd6dd863-c001:a002",
+        "s-0be9fd6dd863-c001:a006",
+        "s-0be9fd6dd863-c001:a007",
+        "s-0be9fd6dd863-c001:a017",
+        "s-0be9fd6dd863-c001:a026",
+        "s-0be9fd6dd863-c001:a027"
+      ]
+    },
+    {
+      "name": "好奇心",
+      "definition": "对周围事物充满好奇，使学习有趣、好玩，是保持生命活力和学习动力的重要因素。",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a007",
+        "s-0be9fd6dd863-c001:a009",
+        "s-0be9fd6dd863-c001:a012",
+        "s-0be9fd6dd863-c001:a014",
+        "s-0be9fd6dd863-c001:a015",
+        "s-0be9fd6dd863-c001:a016"
+      ]
+    },
+    {
+      "name": "称赞别人",
+      "definition": "习惯随时学习的人会及时回顾当天发生的人和事，找到接触的人身上的闪光点，并在称赞时思考原因，从而促进学习。",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a017",
+        "s-0be9fd6dd863-c001:a019",
+        "s-0be9fd6dd863-c001:a025"
+      ]
+    },
+    {
+      "name": "观察力与放松",
+      "definition": "单纯轻松的状态使观察更敏锐，可以通过香薰蜡烛等方式放松来提升观察力。",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a020",
+        "s-0be9fd6dd863-c001:a021",
+        "s-0be9fd6dd863-c001:a022",
+        "s-0be9fd6dd863-c001:a023",
+        "s-0be9fd6dd863-c001:a024"
+      ]
+    },
+    {
+      "name": "不学习的人",
+      "definition": "看谁都不好、又自卑又骄傲的人，从来不学习，拒绝听课，认为自己都会讲，根本不知道自己不知道。",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a018"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-0be9fd6dd863-c001:a002",
+      "target": "s-0be9fd6dd863-c001:a006",
+      "kind": "supports",
+      "condition": "脑子处于活跃状态",
+      "reason": "a002 提出关注身边发现知识，a006 进一步说明只要脑子在转，稍微关注身边事物就能发现可学习的东西，并养成习惯。"
+    },
+    {
+      "source": "s-0be9fd6dd863-c001:a003",
+      "target": "s-0be9fd6dd863-c001:a005",
+      "kind": "association",
+      "condition": "对羽绒服袖子可拆卸感到好奇",
+      "reason": "羽绒服袖子可拆卸的观察与探究引发了讲师对关税机制的查询和学习，两者有先后和因果关联，但不构成 step_of。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "将 step_of 改为 association。"
+    },
+    {
+      "source": "s-0be9fd6dd863-c001:a007",
+      "target": "s-0be9fd6dd863-c001:a009",
+      "kind": "contrasts",
+      "condition": "是否对周围事物好奇",
+      "reason": "a007 指出好奇使学习有趣，a009 指出不好奇学习会成为负担，形成对比。"
+    },
+    {
+      "source": "s-0be9fd6dd863-c001:a008",
+      "target": "s-0be9fd6dd863-c001:a014",
+      "kind": "example_of",
+      "condition": "对孩子好奇",
+      "reason": "a008 以对孩子游戏好奇为例，a014 列举好奇心驱动的学习行为包括对孩子好奇会想学习儿童心理学。"
+    },
+    {
+      "source": "s-0be9fd6dd863-c001:a010",
+      "target": "s-0be9fd6dd863-c001:a011",
+      "kind": "supports",
+      "condition": "学习心理学或写论文时",
+      "reason": "a010 说明心理学研究生淘汰率高，a011 以写论文痛苦但靠好奇支撑为例，共同支持好奇和兴趣对坚持学习的重要性。"
+    },
+    {
+      "source": "s-0be9fd6dd863-c001:a012",
+      "target": "s-0be9fd6dd863-c001:a013",
+      "kind": "supports",
+      "condition": "成功人士",
+      "reason": "a012 指出成功人士有强烈好奇心，a013 进一步说明他们利用身边机会发现不寻常事物。"
+    },
+    {
+      "source": "s-0be9fd6dd863-c001:a017",
+      "target": "s-0be9fd6dd863-c001:a019",
+      "kind": "supports",
+      "condition": "称赞别人",
+      "reason": "a017 提出称赞别人是保持学习习惯的方法，a019 说明称赞别人时自然而然在学习。"
+    },
+    {
+      "source": "s-0be9fd6dd863-c001:a018",
+      "target": "s-0be9fd6dd863-c001:a019",
+      "kind": "contrasts",
+      "condition": "是否称赞别人",
+      "reason": "a018 描述看谁都不好的人不学习，a019 描述称赞别人促进学习，形成对比。"
+    },
+    {
+      "source": "s-0be9fd6dd863-c001:a020",
+      "target": "s-0be9fd6dd863-c001:a021",
+      "kind": "causes",
+      "condition": "孩子观察力强",
+      "reason": "a020 描述孩子观察力强的案例，a021 解释原因是孩子脑子没装那么多事情，有闲情逸致观察。"
+    },
+    {
+      "source": "s-0be9fd6dd863-c001:a021",
+      "target": "s-0be9fd6dd863-c001:a022",
+      "kind": "supports",
+      "condition": "单纯轻松",
+      "reason": "a021 指出孩子因单纯轻松而观察敏锐，a022 推广到当我们单纯轻松时观察更敏锐。"
+    },
+    {
+      "source": "s-0be9fd6dd863-c001:a022",
+      "target": "s-0be9fd6dd863-c001:a023",
+      "kind": "applies_to",
+      "condition": "需要观察卡住的事情时",
+      "reason": "a022 提出放松提升观察力，a023 是讲师通过香薰蜡烛放松提升观察力的实践。"
+    },
+    {
+      "source": "s-0be9fd6dd863-c001:a023",
+      "target": "s-0be9fd6dd863-c001:a024",
+      "kind": "example_of",
+      "condition": "公司棘手事情",
+      "reason": "a023 提到讲师在需要观察时使用香薰蜡烛，a024 具体说明在公司棘手事情时使用该方法。"
+    },
+    {
+      "source": "s-0be9fd6dd863-c001:a025",
+      "target": "s-0be9fd6dd863-c001:a025",
+      "kind": "supports",
+      "condition": "称赞别人时",
+      "reason": "a025 和 r001 内容完全相同，均说明称赞别人时思考原因促进学习。"
+    },
+    {
+      "source": "s-0be9fd6dd863-c001:a026",
+      "target": "s-0be9fd6dd863-c001:a027",
+      "kind": "supports",
+      "condition": "习惯养成后",
+      "reason": "a026 提出习惯养成后学习不难，a027 举例说明习惯后行为变得自然。"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a025"
+      ],
+      "reason": "两条记录内容完全相同，均为“在称赞别人的时候，会不自觉去想他为什么可以这样做，这时就在不停学习。”"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "建立随时学习的习惯",
+      "steps": [
+        {
+          "action": "关注身边，发现知识",
+          "atom_ids": [
+            "s-0be9fd6dd863-c001:a002",
+            "s-0be9fd6dd863-c001:a003",
+            "s-0be9fd6dd863-c001:a004",
+            "s-0be9fd6dd863-c001:a005",
+            "s-0be9fd6dd863-c001:a006"
+          ],
+          "condition": "脑子处于活跃状态"
+        },
+        {
+          "action": "对周围事物充满好奇",
+          "atom_ids": [
+            "s-0be9fd6dd863-c001:a007",
+            "s-0be9fd6dd863-c001:a008",
+            "s-0be9fd6dd863-c001:a009",
+            "s-0be9fd6dd863-c001:a010",
+            "s-0be9fd6dd863-c001:a011",
+            "s-0be9fd6dd863-c001:a012",
+            "s-0be9fd6dd863-c001:a013",
+            "s-0be9fd6dd863-c001:a014",
+            "s-0be9fd6dd863-c001:a015",
+            "s-0be9fd6dd863-c001:a016"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "称赞别人",
+          "atom_ids": [
+            "s-0be9fd6dd863-c001:a017",
+            "s-0be9fd6dd863-c001:a018",
+            "s-0be9fd6dd863-c001:a019",
+            "s-0be9fd6dd863-c001:a025"
+          ],
+          "condition": "无"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-0be9fd6dd863-c001:u01",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u02",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a002"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u03",
+      "kind": "case",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a003"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u04",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a004"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u05",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a005"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u06",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a006"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u07",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a007"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u08",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a008"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u09",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a009"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u10",
+      "kind": "case",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a010"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u11",
+      "kind": "case",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a011"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u12",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a012"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u13",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a013"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u14",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a014"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u15",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a015"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u16",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a016"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u17",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a017"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u18",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a018"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u19",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a019"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u20",
+      "kind": "case",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a020"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u21",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a021"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u22",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a022"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u23",
+      "kind": "case",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a023"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u24",
+      "kind": "case",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a024"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u25",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a025"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u26",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a026"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-0be9fd6dd863-c001:u27",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0be9fd6dd863-c001:a027"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

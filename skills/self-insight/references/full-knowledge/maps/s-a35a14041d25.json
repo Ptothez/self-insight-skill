@@ -1,0 +1,540 @@
+{
+  "concepts": [
+    {
+      "name": "承认错误",
+      "definition": "父母愿意向孩子承认自己的错误，是优秀父母的重要习惯，需要培养，因为没有人天生喜欢认错。",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a001",
+        "s-a35a14041d25-c001:a002"
+      ]
+    },
+    {
+      "name": "害怕承认错误的原因",
+      "definition": "父母害怕向孩子承认错误，因为担心孩子认为自己糟糕、不再顺服，或认为孩子会因此不认错。",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a003"
+      ]
+    },
+    {
+      "name": "认错障碍",
+      "definition": "父母不知道如何认错，认为要么全错要么不认错，害怕影响管教；同时缺乏认错模式，因为自己的父母从未道歉。",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a004",
+        "s-a35a14041d25-c001:a005"
+      ]
+    },
+    {
+      "name": "代际反差",
+      "definition": "父母等待孩子说谢谢，孩子等待父母说对不起，因为父母不道歉。",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a006"
+      ]
+    },
+    {
+      "name": "传统思想阻碍",
+      "definition": "传统思想“天下无不是的父母”使父母不觉得应该道歉，也拉不下面子。",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a007"
+      ]
+    },
+    {
+      "name": "顺服与欺负",
+      "definition": "父母要求孩子顺服，即使自己错了也要顺服，这不是顺服而是欺负，因为父母仗着优势对孩子不公义。",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a008"
+      ]
+    },
+    {
+      "name": "不道歉的长期后果",
+      "definition": "父母不道歉，孩子小时候无奈，长大后拒绝父母参与重要决策，如考大学不商量。",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a009"
+      ]
+    },
+    {
+      "name": "顺服的前提",
+      "definition": "顺服需要先理顺关系，父母做错后要认错道歉，关系无隔阂，孩子才可能心服口服。",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a010"
+      ]
+    },
+    {
+      "name": "骄傲阻碍认错",
+      "definition": "父母的骄傲表现为认为自己经验丰富不会错，导致无法向孩子承认错误，也难以向孩子学习。",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a011",
+        "s-a35a14041d25-c001:a012",
+        "s-a35a14041d25-c001:a013"
+      ]
+    },
+    {
+      "name": "错误认错方式",
+      "definition": "父母用错误的方式承认错误，会对孩子造成二次伤害，使亲子关系更不好。",
+      "atom_ids": [
+        "s-a35a14041d25-c001:r001"
+      ]
+    },
+    {
+      "name": "挑战骄傲与面子",
+      "definition": "向孩子承认错误需要挑战父母的骄傲、面子和错误认知，养成健康习惯。",
+      "atom_ids": [
+        "s-a35a14041d25-c001:r002"
+      ]
+    },
+    {
+      "name": "积怨与逆反",
+      "definition": "父母不道歉，孩子表面顺服但内心积怨，长大后可能拒绝父母参与；内心逆反，拒绝父母参与生命。",
+      "atom_ids": [
+        "s-a35a14041d25-c001:r003",
+        "s-a35a14041d25-c001:r004"
+      ]
+    },
+    {
+      "name": "不道歉掩盖问题",
+      "definition": "父母不道歉可能掩盖自身的懦弱、骄傲和虚伪，而非真正为了管教。",
+      "atom_ids": [
+        "s-a35a14041d25-c001:r005"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-a35a14041d25-c001:a003",
+      "target": "s-a35a14041d25-c001:a004",
+      "kind": "supports",
+      "condition": "当父母害怕承认错误时",
+      "reason": "父母害怕承认错误的两个原因（害怕孩子不听话、害怕孩子忽略责任）支持了父母不认错导致管教困难这一命题，因为恐惧是父母不认错的原因之一。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原关系causes映射为supports。"
+    },
+    {
+      "source": "s-a35a14041d25-c001:a005",
+      "target": "s-a35a14041d25-c001:a004",
+      "kind": "supports",
+      "condition": "当父母缺乏认错模式时",
+      "reason": "父母不知道怎么认错的原因（大脑中没有认错模式）支持了父母不认错导致管教困难中关于不知道如何认错的表述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原causes映射为supports。"
+    },
+    {
+      "source": "s-a35a14041d25-c001:a007",
+      "target": "s-a35a14041d25-c001:a006",
+      "kind": "supports",
+      "condition": "当传统思想影响父母时",
+      "reason": "传统思想让父母不觉得应该道歉，导致父母不道歉，从而形成代际反差，支持了父母不道歉的代际反差这一命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原causes映射为supports。"
+    },
+    {
+      "source": "s-a35a14041d25-c001:a008",
+      "target": "s-a35a14041d25-c001:a009",
+      "kind": "causes",
+      "condition": "当父母要求顺服但不道歉时",
+      "reason": "父母不道歉，孩子小时候没办法，长大后拒绝父母参与，如考大学不商量。"
+    },
+    {
+      "source": "s-a35a14041d25-c001:a010",
+      "target": "s-a35a14041d25-c001:a009",
+      "kind": "contrasts",
+      "condition": "当父母理顺关系并道歉时",
+      "reason": "顺服需要先理顺关系，否则孩子不可能心服口服，可能导致长大后拒绝父母参与。"
+    },
+    {
+      "source": "s-a35a14041d25-c001:a011",
+      "target": "s-a35a14041d25-c001:a013",
+      "kind": "supports",
+      "condition": "当父母骄傲时",
+      "reason": "父母骄傲的表现为认为自己不会错，支持了骄傲导致无法承认不足并认错这一命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原causes映射为supports。"
+    },
+    {
+      "source": "s-a35a14041d25-c001:a012",
+      "target": "s-a35a14041d25-c001:a013",
+      "kind": "causes",
+      "condition": "当父母骄傲时",
+      "reason": "父母很少想到从孩子身上学习，源于骄傲，导致无法承认不足。"
+    },
+    {
+      "source": "s-a35a14041d25-c001:r001",
+      "target": "s-a35a14041d25-c001:a001",
+      "kind": "contrasts",
+      "condition": "当父母用错误方式承认错误时",
+      "reason": "错误方式会造成二次伤害，而正确承认错误是优秀父母习惯。"
+    },
+    {
+      "source": "s-a35a14041d25-c001:r002",
+      "target": "s-a35a14041d25-c001:a002",
+      "kind": "supports",
+      "condition": "当父母培养承认错误习惯时",
+      "reason": "承认错误需要挑战骄傲、面子和错误认知，养成健康习惯。"
+    },
+    {
+      "source": "s-a35a14041d25-c001:r003",
+      "target": "s-a35a14041d25-c001:a009",
+      "kind": "supports",
+      "condition": "当父母不道歉时",
+      "reason": "孩子表面顺服但内心积怨，长大后可能拒绝父母参与重要决策。"
+    },
+    {
+      "source": "s-a35a14041d25-c001:r004",
+      "target": "s-a35a14041d25-c001:a009",
+      "kind": "supports",
+      "condition": "当父母不道歉时",
+      "reason": "孩子内心逆反，拒绝父母参与生命，因为父母要求顺服但未先理顺关系。"
+    },
+    {
+      "source": "s-a35a14041d25-c001:r005",
+      "target": "s-a35a14041d25-c001:a004",
+      "kind": "contrasts",
+      "condition": "当父母不道歉时",
+      "reason": "父母不道歉可能掩盖自身的懦弱、骄傲和虚伪，而非真正为了管教，与父母不认错是因为担心无法管教孩子的解释形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原supports但实际为对比关系，修改为contrasts。"
+    },
+    {
+      "source": "s-a35a14041d25-c001:v2-n001",
+      "target": "s-a35a14041d25-c001:a007",
+      "kind": "complements",
+      "condition": "在传统观念影响下",
+      "reason": "source提出传统观念中向孩子承认错误不存在，target具体说明传统思想“天下无不是的父母”和面子观念阻碍父母道歉，补充了传统观念的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a35a14041d25-c001:a007",
+      "target": "s-a35a14041d25-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在传统观念影响下",
+      "reason": "source提出传统观念中向孩子承认错误不存在，target具体说明传统思想“天下无不是的父母”和面子观念阻碍父母道歉，补充了传统观念的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a35a14041d25-c001:v2-n001",
+      "target": "s-a35a14041d25-c001:r002",
+      "kind": "association",
+      "condition": "当父母尝试向孩子认错时",
+      "reason": "source指出传统观念中认错困难，target说明承认错误挑战父母的骄傲与面子，两者关联但未构成前提，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a35a14041d25-c001:r002",
+      "target": "s-a35a14041d25-c001:v2-n001",
+      "kind": "association",
+      "condition": "当父母尝试向孩子认错时",
+      "reason": "source指出传统观念中认错困难，target说明承认错误挑战父母的骄傲与面子，两者关联但未构成前提，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a35a14041d25-c001:v2-n001",
+      "target": "s-a35a14041d25-c001:a003",
+      "kind": "association",
+      "condition": "当父母考虑向孩子认错时",
+      "reason": "source指出传统观念中认错不存在，target列出父母害怕承认错误的两个原因，关联害怕认错的心理，但source未具体说明原因，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a35a14041d25-c001:a003",
+      "target": "s-a35a14041d25-c001:v2-n001",
+      "kind": "association",
+      "condition": "当父母考虑向孩子认错时",
+      "reason": "source指出传统观念中认错不存在，target列出父母害怕承认错误的两个原因，关联害怕认错的心理，但source未具体说明原因，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a35a14041d25-c001:v2-n001",
+      "target": "s-a35a14041d25-c001:a002",
+      "kind": "association",
+      "condition": "在看待承认错误习惯时",
+      "reason": "source指出传统观念中认错不存在，target说明承认错误需要培养，不是天生的，两者相关但无直接逻辑关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a35a14041d25-c001:a002",
+      "target": "s-a35a14041d25-c001:v2-n001",
+      "kind": "association",
+      "condition": "在看待承认错误习惯时",
+      "reason": "source指出传统观念中认错不存在，target说明承认错误需要培养，不是天生的，两者相关但无直接逻辑关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a35a14041d25-c001:v2-n001",
+      "target": "s-a35a14041d25-c001:a013",
+      "kind": "association",
+      "condition": "当父母骄傲时",
+      "reason": "source提到传统观念中认错困难，target具体说明骄傲导致无法承认不足，关联原因但source未提及骄傲，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a35a14041d25-c001:a013",
+      "target": "s-a35a14041d25-c001:v2-n001",
+      "kind": "association",
+      "condition": "当父母骄傲时",
+      "reason": "source提到传统观念中认错困难，target具体说明骄傲导致无法承认不足，关联原因但source未提及骄傲，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a35a14041d25-c001:v2-n001",
+      "target": "s-a35a14041d25-c001:a004",
+      "kind": "association",
+      "condition": "在父母不认错导致管教困难时",
+      "reason": "source指出认错不存在，target说明父母不认错导致管教困难，关联后果但source未涉及管教，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a35a14041d25-c001:a004",
+      "target": "s-a35a14041d25-c001:v2-n001",
+      "kind": "association",
+      "condition": "在父母不认错导致管教困难时",
+      "reason": "source指出认错不存在，target说明父母不认错导致管教困难，关联后果但source未涉及管教，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a35a14041d25-c001:v2-n001",
+      "target": "s-a35a14041d25-c001:a009",
+      "kind": "association",
+      "condition": "当孩子长大后",
+      "reason": "source指出传统观念中不认错，target案例展示父母不道歉导致孩子长大后拒绝父母参与，关联长期后果，但source未提及具体后果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a35a14041d25-c001:a009",
+      "target": "s-a35a14041d25-c001:v2-n001",
+      "kind": "association",
+      "condition": "当孩子长大后",
+      "reason": "source指出传统观念中不认错，target案例展示父母不道歉导致孩子长大后拒绝父母参与，关联长期后果，但source未提及具体后果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "自我修养",
+      "to": "界限",
+      "when": "当父母面对是否向孩子承认错误时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a001",
+        "s-a35a14041d25-c001:a008",
+        "s-a35a14041d25-c001:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-a35a14041d25-c001:u1",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u2",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:r002"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u3",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u4",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a002"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u5",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a003"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u6",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a004"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u7",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a005"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u8",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a006"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u9",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a007"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u10",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a008"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u11",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:r003"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u12",
+      "kind": "case",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a009"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u13",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:r004"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u14",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a010"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u15",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:r005"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u16",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a011"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u17",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a012"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-a35a14041d25-c001:u18",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a35a14041d25-c001:a013"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "向孩子承认错误在传统观念中不存在",
+      "atom_ids": [
+        "s-a35a14041d25-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a35a14041d25",
+          "blocks": [
+            "b00003"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "definition"
+    }
+  ]
+}

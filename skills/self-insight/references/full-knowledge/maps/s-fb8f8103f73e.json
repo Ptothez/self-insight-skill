@@ -1,0 +1,257 @@
+{
+  "concepts": [
+    {
+      "name": "转移注意方法",
+      "definition": "引导孩子左脑的第一个方法，用于在孩子情绪爆发时，通过提供选择或转移话题来帮助孩子启动左脑逻辑思考，从而控制情绪。",
+      "atom_ids": [
+        "s-fb8f8103f73e-c001:a002"
+      ]
+    },
+    {
+      "name": "转移注意方法的适用情况",
+      "definition": "通常在无法跟孩子解释清楚道理时使用转移注意方法，例如孩子太小无法明白道理，或当前情况没有条件说道理（如着急出门、赶飞机，孩子却不愿走而大哭）。此时只能通过快速转移注意来引导左脑，控制情绪爆发。",
+      "atom_ids": [
+        "s-fb8f8103f73e-c001:a005"
+      ]
+    },
+    {
+      "name": "提供选择空间的重要性",
+      "definition": "对孩子说“你可以选择继续生气，或者……”很重要，因为让孩子觉得有选择是重要的引导原则。提供选择空间会帮助左脑开始逻辑思考，孩子会想哪个选择对自己更好更有利，从而启动左脑运作。",
+      "atom_ids": [
+        "s-fb8f8103f73e-c001:a007"
+      ]
+    },
+    {
+      "name": "左脑运作与情绪管理的关系",
+      "definition": "一旦孩子负责控制情绪和逻辑思考的左脑开始运作，孩子就距离平衡左右脑、健康管理情绪更近一步。",
+      "atom_ids": [
+        "s-fb8f8103f73e-c001:a008"
+      ]
+    },
+    {
+      "name": "引导孩子左脑的三个原则",
+      "definition": "引导孩子左脑时有三个重要原则：第一，了解自己的原生背景，避免让自身经历和未解决的伤害影响对孩子行为的解读和引导程度；第二，在引导前先搞清楚孩子行为背后的原因，否则引导可能没有意义；第三，选择正确的方式引导孩子，因为说话方式会影响孩子对自己和父母的感知，孩子会从父母说话方式学习如何与他人交流，并影响当下对引导的回应。",
+      "atom_ids": [
+        "s-fb8f8103f73e-c001:a001"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-fb8f8103f73e-c001:a002",
+      "target": "s-fb8f8103f73e-c001:a005",
+      "kind": "association",
+      "condition": "当无法跟孩子解释清楚道理时",
+      "reason": "转移注意方法与使用转移注意方法的适用情况描述的是方法与其适用场景，现有关系类型中没有 applies_to，故用 association 表示两者关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系 kind 为 applies_to，不在允许列表中，已改为 association。"
+    },
+    {
+      "source": "s-fb8f8103f73e-c001:a007",
+      "target": "s-fb8f8103f73e-c001:a008",
+      "kind": "causes",
+      "condition": "当提供选择空间帮助左脑开始逻辑思考时",
+      "reason": "提供选择空间会启动左脑运作，从而帮助孩子平衡左右脑、健康管理情绪。"
+    },
+    {
+      "source": "s-fb8f8103f73e-c001:a002",
+      "target": "s-fb8f8103f73e-c001:a007",
+      "kind": "supports",
+      "condition": "转移注意方法中提供选择",
+      "reason": "提供选择空间的重要性说明了为什么在转移注意方法中提供选择是有效的，因此该重要性支持转移注意方法；原关系方向和类型有误，应为重要性支持方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 step_of 且方向错误，改为 supports 并反转方向。"
+    },
+    {
+      "source": "s-fb8f8103f73e-c001:a003",
+      "target": "s-fb8f8103f73e-c001:a002",
+      "kind": "example_of",
+      "condition": "孩子被拒绝吃第三个冰激凌后愤怒",
+      "reason": "案例中妈妈提出‘你可以继续生气，或者我们可以想一想今天晚上吃什么’，具体应用了转移注意方法，因此该案例是转移注意方法的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-fb8f8103f73e-c001:a004",
+      "target": "s-fb8f8103f73e-c001:a002",
+      "kind": "example_of",
+      "condition": "孩子在朋友家因拿不到玩具而大哭",
+      "reason": "该案例描述孩子在朋友家因拿不到玩具而大哭，在快速情绪联结后使用转移注意方法提供具体选项或话题，是转移注意方法的一个具体应用实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-fb8f8103f73e-c001:a006",
+      "target": "s-fb8f8103f73e-c001:a002",
+      "kind": "example_of",
+      "condition": "两岁孩子对大便被冲走愤怒",
+      "reason": "该案例展示两岁孩子无法理解大便被冲走的原因而愤怒，使用转移注意方法引导，是转移注意方法在幼儿情绪爆发时的应用实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-fb8f8103f73e-c001:a001",
+      "target": "s-fb8f8103f73e-c001:a002",
+      "kind": "prerequisite",
+      "condition": "引导孩子左脑前需遵循三个原则",
+      "reason": "引导孩子左脑的三个原则（了解原生背景、搞清楚原因、选择正确方式）是运用转移注意方法引导左脑前应遵循的前提，因此构成前提关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    }
+  ],
+  "module_links": [
+    {
+      "from": "自我修养",
+      "to": "理解情绪",
+      "when": "父母需先了解自身原生背景并搞清孩子行为原因，再使用转移注意等方法引导孩子左脑",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-fb8f8103f73e-c001:a001",
+        "s-fb8f8103f73e-c001:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [
+    {
+      "name": "引导孩子左脑的方法",
+      "steps": [
+        {
+          "action": "了解自己的原生背景，避免自身经历影响引导",
+          "atom_ids": [
+            "s-fb8f8103f73e-c001:a001"
+          ],
+          "condition": "引导前"
+        },
+        {
+          "action": "搞清楚孩子行为背后的原因",
+          "atom_ids": [
+            "s-fb8f8103f73e-c001:a001"
+          ],
+          "condition": "引导前"
+        },
+        {
+          "action": "选择正确的方式引导孩子",
+          "atom_ids": [
+            "s-fb8f8103f73e-c001:a001"
+          ],
+          "condition": "引导时"
+        },
+        {
+          "action": "使用转移注意方法，提供选择或转移话题",
+          "atom_ids": [
+            "s-fb8f8103f73e-c001:a002",
+            "s-fb8f8103f73e-c001:a007"
+          ],
+          "condition": "无法解释道理时"
+        },
+        {
+          "action": "孩子左脑开始运作，平衡左右脑",
+          "atom_ids": [
+            "s-fb8f8103f73e-c001:a008"
+          ],
+          "condition": "提供选择后"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-fb8f8103f73e-c001:u-0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fb8f8103f73e-c001:a001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-fb8f8103f73e-c001:u-0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fb8f8103f73e-c001:a002"
+      ],
+      "blocks": [
+        "b00008",
+        "b00010",
+        "b00012",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-fb8f8103f73e-c001:u-0003",
+      "kind": "case",
+      "atom_ids": [
+        "s-fb8f8103f73e-c001:a003"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-fb8f8103f73e-c001:u-0004",
+      "kind": "case",
+      "atom_ids": [
+        "s-fb8f8103f73e-c001:a004"
+      ],
+      "blocks": [
+        "b00010",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-fb8f8103f73e-c001:u-0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fb8f8103f73e-c001:a005"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-fb8f8103f73e-c001:u-0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-fb8f8103f73e-c001:a006"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-fb8f8103f73e-c001:u-0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fb8f8103f73e-c001:a007"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-fb8f8103f73e-c001:u-0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-fb8f8103f73e-c001:a008"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

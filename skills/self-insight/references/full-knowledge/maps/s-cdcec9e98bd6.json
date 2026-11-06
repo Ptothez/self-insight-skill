@@ -1,0 +1,1688 @@
+{
+  "concepts": [
+    {
+      "name": "认知三角",
+      "definition": "想法、情绪、行为三者相互影响的关系，事实不可控且不变，而想法、情绪、行为可变。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a001",
+        "s-cdcec9e98bd6-c001:a007"
+      ]
+    },
+    {
+      "name": "情绪影响行为",
+      "definition": "情绪严重影响行为，基本上最后做不做一件事情都是情绪决定的。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a003",
+        "s-cdcec9e98bd6-c001:a004",
+        "s-cdcec9e98bd6-c001:a005"
+      ]
+    },
+    {
+      "name": "想法影响情绪",
+      "definition": "情绪被想法（认知）影响，如何看待事情影响情绪。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a006"
+      ]
+    },
+    {
+      "name": "恶性循环",
+      "definition": "想法、情绪、行为相互影响形成的负面循环。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a008",
+        "s-cdcec9e98bd6-c001:a009",
+        "s-cdcec9e98bd6-c001:a011"
+      ]
+    },
+    {
+      "name": "情绪是信念的反射",
+      "definition": "情绪是对信念（belief）的反射，不解决根源只控制行为是治标不治本。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a010"
+      ]
+    },
+    {
+      "name": "改变恶性循环的切入点",
+      "definition": "在想法、情绪、行为三个点中，想法是最容易改变恶性循环的切入点。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a012",
+        "s-cdcec9e98bd6-c001:r001"
+      ]
+    },
+    {
+      "name": "改变想法练习",
+      "definition": "通过识别原想法、提出替代想法、评估新想法对情绪和行为的影响来改变认知。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a014",
+        "s-cdcec9e98bd6-c001:r002"
+      ]
+    },
+    {
+      "name": "认知改变影响情绪和行为",
+      "definition": "改变对事情的认知（想法）会改变情绪和行为。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a001"
+      ]
+    },
+    {
+      "name": "通过发言促进认知加工",
+      "definition": "在课堂上多发言（包括打字发言）可以促进大脑对事情的认知加工，使认知更加通透和透彻。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a002"
+      ]
+    },
+    {
+      "name": "非黑即白思维",
+      "definition": "一种畸形的思维方式，指看待事情只有两个极端，没有中间地带。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a003"
+      ]
+    },
+    {
+      "name": "心理过滤",
+      "definition": "一种畸形的思维方式，指只看到某一种类型的现象，忽略其他信息。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a004"
+      ]
+    },
+    {
+      "name": "应该/必须思维",
+      "definition": "一种畸形的思维方式，指经常对自己或他人使用“我应该……”“我必须……”的表述，导致负罪感或焦虑。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a005"
+      ]
+    },
+    {
+      "name": "否定正面",
+      "definition": "一种畸形的思维方式，指不承认自己的优点或正面特质，认为它们不算数，而只关注缺点。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a006",
+        "s-cdcec9e98bd6-c002:a007"
+      ]
+    },
+    {
+      "name": "情绪化推理",
+      "definition": "一种畸形的思维方式，指将自己的情绪当作事实。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a008",
+        "s-cdcec9e98bd6-c002:a009"
+      ]
+    },
+    {
+      "name": "过度概括",
+      "definition": "一种畸形的思维方式，指从单一事件推广到所有情况，使用“从来”“总是”“每次”等绝对化词语。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a010",
+        "s-cdcec9e98bd6-c002:a011"
+      ]
+    },
+    {
+      "name": "妄下结论",
+      "definition": "一种畸形的思维方式，指在没有充分事实依据的情况下做出结论，包括读心和预测未来。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a012"
+      ]
+    },
+    {
+      "name": "读心",
+      "definition": "妄下结论的一种形式，指在没有证据的情况下认为自己知道别人在想什么。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a013",
+        "s-cdcec9e98bd6-c003:a001"
+      ]
+    },
+    {
+      "name": "预测未来",
+      "definition": "妄下结论的一种形式，指在没有依据的情况下预测将来会发生不好的事情。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a014",
+        "s-cdcec9e98bd6-c003:a002"
+      ]
+    },
+    {
+      "name": "责任归因偏差",
+      "definition": "一种不健康的思维方式，表现为要么把错误全部归咎于自己，要么把错误全部归咎于他人。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a003"
+      ]
+    },
+    {
+      "name": "贴标签",
+      "definition": "一种不健康的思维方式，指用片面的负面评价来定义自己。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a004"
+      ]
+    },
+    {
+      "name": "夸大或缩小",
+      "definition": "一种不健康的思维方式，指对事情的重要性进行不合理的放大或缩小。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a005"
+      ]
+    },
+    {
+      "name": "十种不健康思维方式",
+      "definition": "包括读心、预测未来、责任归因偏差、贴标签、夸大或缩小等，80%以上的同学可能全部具备，至少占其中五种。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a006",
+        "s-cdcec9e98bd6-c003:a016"
+      ]
+    },
+    {
+      "name": "识别并挑战不健康思维方式",
+      "definition": "当产生一个想法时，验证它是否属于十种不健康思维方式之一，如果是则挑战该想法，进行逆向思考。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a007"
+      ]
+    },
+    {
+      "name": "像对朋友说话一样对自己说话",
+      "definition": "当感到焦虑时，想象如果朋友遇到同样的情况，自己会对朋友说什么，然后用同样的话对自己说。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a008"
+      ]
+    },
+    {
+      "name": "场景练习：改变认知以改变情绪和行为",
+      "definition": "通过具体场景练习，运用改变认知的方法来改变情绪和行为。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a009"
+      ]
+    },
+    {
+      "name": "持续练习的重要性",
+      "definition": "学习情绪管理方法后，必须不断练习，才能有效管理焦虑情绪。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a010"
+      ]
+    },
+    {
+      "name": "对自己说话与对朋友说话的差异",
+      "definition": "人们往往对自己说话时负面、苛刻，而对朋友说话时积极、鼓励、宽容。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a014"
+      ]
+    },
+    {
+      "name": "认知影响情绪和行为的机制",
+      "definition": "认知（想法）会影响情绪，情绪会影响行为。改变对事情的认知，可以改变情绪和行为。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a015"
+      ]
+    },
+    {
+      "name": "家长对孩子说话应像对朋友说话",
+      "definition": "家长在很多情况下，对孩子说话要像对朋友说话一样，注意自己对孩子说什么、怎么说。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a017"
+      ]
+    },
+    {
+      "name": "中国学生对自己过于严苛",
+      "definition": "中国学生对自己过于严苛，应该对自己宽容、温柔一些。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a018"
+      ]
+    },
+    {
+      "name": "通过书写梳理想法",
+      "definition": "将想法写下来，因为仅仅在脑子里想往往想不清楚，书写是一个梳理的过程。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a019"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-cdcec9e98bd6-c001:a001",
+      "target": "s-cdcec9e98bd6-c001:a007",
+      "kind": "supports",
+      "condition": "认知三角中三者相互影响，且是双向的",
+      "reason": "a001定义认知三角，a007进一步说明三者双向影响形成循环"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:a002",
+      "target": "s-cdcec9e98bd6-c001:a003",
+      "kind": "supports",
+      "condition": "行为背后的原因是情绪",
+      "reason": "任何行为背后都有原因是情绪导致的，支持情绪严重影响行为、最后做不做由情绪决定的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:a003",
+      "target": "s-cdcec9e98bd6-c001:a004",
+      "kind": "example_of",
+      "condition": "讲师吃冰淇淋的决策案例",
+      "reason": "a004是a003情绪影响行为的具体案例"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:a003",
+      "target": "s-cdcec9e98bd6-c001:a005",
+      "kind": "supports",
+      "condition": "广告利用情绪影响行为",
+      "reason": "a005从广告心理学角度支持情绪影响行为"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:a006",
+      "target": "s-cdcec9e98bd6-c001:a001",
+      "kind": "supports",
+      "condition": "想法影响情绪是认知三角的一部分",
+      "reason": "a006说明想法影响情绪，是认知三角中想法与情绪的关系"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:a007",
+      "target": "s-cdcec9e98bd6-c001:a008",
+      "kind": "example_of",
+      "condition": "吃冰淇淋后的恶性循环案例",
+      "reason": "a008是a007认知三角循环影响的负面案例"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:a008",
+      "target": "s-cdcec9e98bd6-c001:a009",
+      "kind": "supports",
+      "condition": "恶性循环的定义",
+      "reason": "a008是恶性循环的具体案例，a009给出恶性循环的定义"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:a009",
+      "target": "s-cdcec9e98bd6-c001:a011",
+      "kind": "supports",
+      "condition": "恶性循环可以逆转",
+      "reason": "a011指出恶性循环可以逆转，与a009的恶性循环概念相关"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:a010",
+      "target": "s-cdcec9e98bd6-c001:a009",
+      "kind": "supports",
+      "condition": "情绪是信念的反射，不解决根源会形成恶性循环",
+      "reason": "情绪是对信念的反射，不解决根源只控制行为会令情绪反复并爆发，支持想法、情绪、行为相互影响形成恶性循环的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:a011",
+      "target": "s-cdcec9e98bd6-c001:a012",
+      "kind": "step_of",
+      "condition": "逆转恶性循环需要找到切入点",
+      "reason": "a012指出想法是最容易改变的切入点，是逆转恶性循环的方法"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:a012",
+      "target": "s-cdcec9e98bd6-c001:a014",
+      "kind": "step_of",
+      "condition": "改变想法练习",
+      "reason": "a014是改变想法的具体练习，基于a012的想法切入点"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:a013",
+      "target": "s-cdcec9e98bd6-c001:a006",
+      "kind": "example_of",
+      "condition": "16岁孩子参加生日聚会的案例",
+      "reason": "a013是想法影响情绪和行为的具体案例"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:a014",
+      "target": "s-cdcec9e98bd6-c001:r002",
+      "kind": "supports",
+      "condition": "改变想法练习的步骤",
+      "reason": "r002是a014练习步骤的总结"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:r001",
+      "target": "s-cdcec9e98bd6-c001:a012",
+      "kind": "supports",
+      "condition": "改变恶性循环的切入点",
+      "reason": "r001与a012内容一致，都是想法是最容易改变的切入点"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:a001",
+      "target": "s-cdcec9e98bd6-c001:a006",
+      "kind": "supports",
+      "condition": "认知改变影响情绪和行为",
+      "reason": "改变对事情的认知会改变情绪和行为，其中包含想法影响情绪，支持情绪被想法影响的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:a002",
+      "target": "s-cdcec9e98bd6-c001:a014",
+      "kind": "supports",
+      "condition": "通过发言促进认知加工",
+      "reason": "c002:a002说明发言促进认知加工，与改变想法练习中鼓励发言相关"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:a003",
+      "target": "s-cdcec9e98bd6-c002:r002",
+      "kind": "supports",
+      "condition": "非黑即白是认知扭曲的一种",
+      "reason": "r002指出认知扭曲影响情绪，非黑即白是其中一种"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:a004",
+      "target": "s-cdcec9e98bd6-c002:r002",
+      "kind": "supports",
+      "condition": "心理过滤是认知扭曲的一种",
+      "reason": "心理过滤是畸形的思维方式，作为认知扭曲的一种，支持认知扭曲会影响想法进而影响情绪导致焦虑的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:a005",
+      "target": "s-cdcec9e98bd6-c002:r002",
+      "kind": "supports",
+      "condition": "应该/必须思维是认知扭曲的一种",
+      "reason": "r002指出认知扭曲影响情绪，应该/必须思维是其中一种"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:a006",
+      "target": "s-cdcec9e98bd6-c002:r002",
+      "kind": "supports",
+      "condition": "否定正面是认知扭曲的一种",
+      "reason": "r002指出认知扭曲影响情绪，否定正面是其中一种"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:a007",
+      "target": "s-cdcec9e98bd6-c002:a006",
+      "kind": "example_of",
+      "condition": "讲师童年被否定优点的案例",
+      "reason": "c002:a007是c002:a006否定正面的具体案例"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:a008",
+      "target": "s-cdcec9e98bd6-c002:r002",
+      "kind": "supports",
+      "condition": "情绪化推理是认知扭曲的一种",
+      "reason": "r002指出认知扭曲影响情绪，情绪化推理是其中一种"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:a009",
+      "target": "s-cdcec9e98bd6-c002:a008",
+      "kind": "example_of",
+      "condition": "上课睡觉被点名回答错误的案例",
+      "reason": "c002:a009是c002:a008情绪化推理的具体案例"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:a010",
+      "target": "s-cdcec9e98bd6-c002:r002",
+      "kind": "supports",
+      "condition": "过度概括是认知扭曲的一种",
+      "reason": "r002指出认知扭曲影响情绪，过度概括是其中一种"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:a011",
+      "target": "s-cdcec9e98bd6-c002:a010",
+      "kind": "example_of",
+      "condition": "总觉得自己赶火车迟到的案例",
+      "reason": "c002:a011是c002:a010过度概括的具体案例"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:a012",
+      "target": "s-cdcec9e98bd6-c002:r002",
+      "kind": "supports",
+      "condition": "妄下结论是认知扭曲的一种",
+      "reason": "妄下结论是畸形的思维方式，作为认知扭曲的一种，支持认知扭曲会影响想法进而影响情绪导致焦虑的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:a013",
+      "target": "s-cdcec9e98bd6-c002:a012",
+      "kind": "association",
+      "condition": "读心是妄下结论的一种形式",
+      "reason": "读心是妄下结论的一种形式，妄下结论包括读心和预测未来，二者为子类型与整体关系，不是过程步骤，故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind 为 step_of，语义不准确，改为 association。"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:a014",
+      "target": "s-cdcec9e98bd6-c002:a012",
+      "kind": "association",
+      "condition": "预测未来是妄下结论的一种形式",
+      "reason": "预测未来是妄下结论的一种形式，妄下结论包括读心和预测未来，二者为子类型与整体关系，不是过程步骤，故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind 为 step_of，语义不准确，改为 association。"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:r001",
+      "target": "s-cdcec9e98bd6-c002:a001",
+      "kind": "supports",
+      "condition": "认知改变练习的通用步骤",
+      "reason": "认知改变练习的通用步骤先识别想法、改变认知、观察情绪和行为变化，支持改变认知会改变情绪和行为的机制。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:r003",
+      "target": "s-cdcec9e98bd6-c002:a008",
+      "kind": "supports",
+      "condition": "挑战情绪化推理的方法",
+      "reason": "r003提供挑战情绪化推理的具体方法，与c002:a008情绪化推理相关"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:r004",
+      "target": "s-cdcec9e98bd6-c002:r002",
+      "kind": "supports",
+      "condition": "认知扭曲清单",
+      "reason": "r004列出十种畸形思维，是认知扭曲影响情绪的具体清单"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a001",
+      "target": "s-cdcec9e98bd6-c002:a013",
+      "kind": "supports",
+      "condition": "读心是不健康思维方式",
+      "reason": "c003:a001与c002:a013内容一致，都是读心的定义"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a002",
+      "target": "s-cdcec9e98bd6-c002:a014",
+      "kind": "supports",
+      "condition": "预测未来是不健康思维方式",
+      "reason": "c003:a002与c002:a014内容一致，都是预测未来的定义"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a003",
+      "target": "s-cdcec9e98bd6-c002:r004",
+      "kind": "supports",
+      "condition": "责任归因偏差是十种不健康思维方式之一",
+      "reason": "c003:a003是十种不健康思维方式中的一种"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a004",
+      "target": "s-cdcec9e98bd6-c002:r004",
+      "kind": "supports",
+      "condition": "贴标签是十种不健康思维方式之一",
+      "reason": "c003:a004是十种不健康思维方式中的一种"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a005",
+      "target": "s-cdcec9e98bd6-c002:r004",
+      "kind": "supports",
+      "condition": "夸大或缩小是十种不健康思维方式之一",
+      "reason": "c003:a005是十种不健康思维方式中的一种"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a006",
+      "target": "s-cdcec9e98bd6-c002:r004",
+      "kind": "supports",
+      "condition": "十种不健康思维方式",
+      "reason": "c003:a006总结十种不健康思维方式，与c002:r004清单一致"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a007",
+      "target": "s-cdcec9e98bd6-c003:a007",
+      "kind": "supports",
+      "condition": "识别并挑战不健康思维方式",
+      "reason": "c003:a007与c003:r001内容一致，都是识别并挑战不健康思维方式的步骤"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a008",
+      "target": "s-cdcec9e98bd6-c003:a014",
+      "kind": "supports",
+      "condition": "像对朋友说话一样对自己说话",
+      "reason": "c003:a008提出方法，c003:a014解释对自己和对朋友说话的差异"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a009",
+      "target": "s-cdcec9e98bd6-c003:a015",
+      "kind": "supports",
+      "condition": "场景练习：改变认知以改变情绪和行为",
+      "reason": "通过具体场景练习改变认知能改变情绪和行为，支持认知影响情绪和行为、改变认知可改变情绪和行为的机制。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a010",
+      "target": "s-cdcec9e98bd6-c003:a007",
+      "kind": "supports",
+      "condition": "持续练习的重要性",
+      "reason": "c003:a010强调练习，c003:a007是练习的具体方法"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a011",
+      "target": "s-cdcec9e98bd6-c003:a008",
+      "kind": "example_of",
+      "condition": "考试不及格后的自我对话与朋友对话对比",
+      "reason": "考试不及格后的自我对话与朋友对话对比案例展示了人们对自己苛刻、对朋友宽容，支持像对朋友说话一样对自己说话的方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a012",
+      "target": "s-cdcec9e98bd6-c003:a009",
+      "kind": "example_of",
+      "condition": "操场摔跤场景练习",
+      "reason": "c003:a012是c003:a009场景练习的具体案例"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a013",
+      "target": "s-cdcec9e98bd6-c003:a009",
+      "kind": "example_of",
+      "condition": "英文演讲场景练习",
+      "reason": "英文演讲场景练习是场景练习：改变认知以改变情绪和行为的具体案例，目标内容中明确包含英文演讲场景的反向认知与积极认知对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a017",
+      "target": "s-cdcec9e98bd6-c003:a008",
+      "kind": "applies_to",
+      "condition": "家长对孩子说话应像对朋友说话",
+      "reason": "c003:a017将像对朋友说话的方法应用于家长对孩子"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a018",
+      "target": "s-cdcec9e98bd6-c003:a008",
+      "kind": "supports",
+      "condition": "中国学生对自己过于严苛",
+      "reason": "c003:a018说明中国学生对自己严苛，需要像对朋友一样对自己宽容"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a019",
+      "target": "s-cdcec9e98bd6-c003:a007",
+      "kind": "supports",
+      "condition": "通过书写梳理想法",
+      "reason": "c003:a019建议书写梳理想法，有助于识别和挑战不健康思维"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:v2-n001",
+      "target": "s-cdcec9e98bd6-c003:a010",
+      "kind": "association",
+      "condition": "两者均涉及焦虑情绪管理方法；source主张可用身体技巧控制情绪，候选强调所有情绪管理方法（包括控制身体反应）都需持续练习。",
+      "reason": "source提出身体技巧可帮助控制情绪，候选指出练习的必要性，其中提到控制身体反应，但候选不专指身体技巧，且未提供具体身体技巧，故仅关联，不能视为补充或步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a010",
+      "target": "s-cdcec9e98bd6-c001:v2-n001",
+      "kind": "association",
+      "condition": "两者均涉及焦虑情绪管理方法；source主张可用身体技巧控制情绪，候选强调所有情绪管理方法（包括控制身体反应）都需持续练习。",
+      "reason": "source提出身体技巧可帮助控制情绪，候选指出练习的必要性，其中提到控制身体反应，但候选不专指身体技巧，且未提供具体身体技巧，故仅关联，不能视为补充或步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:v2-n005",
+      "target": "s-cdcec9e98bd6-c001:a002",
+      "kind": "association",
+      "condition": "source是通过回忆行为事件来体会行为背后的情绪原因的练习，候选是概念陈述。",
+      "reason": "source的练习旨在帮助学员发现行为背后的情绪原因，候选明确说明任何行为背后都有情绪原因，二者主题一致，但source是练习活动，候选是概念，故为关联而非从属或步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:a002",
+      "target": "s-cdcec9e98bd6-c001:v2-n005",
+      "kind": "association",
+      "condition": "source是通过回忆行为事件来体会行为背后的情绪原因的练习，候选是概念陈述。",
+      "reason": "source的练习旨在帮助学员发现行为背后的情绪原因，候选明确说明任何行为背后都有情绪原因，二者主题一致，但source是练习活动，候选是概念，故为关联而非从属或步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:v2-n005",
+      "target": "s-cdcec9e98bd6-c001:a003",
+      "kind": "association",
+      "condition": "source涉及行为与情绪的关系，候选指出情绪严重影响行为。",
+      "reason": "source的练习要求思考行为为何发生或未发生，背后有情绪原因，候选阐述情绪影响行为，相互支持，但source未强调情绪决定行为，且候选未涉及反思练习，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c001:a003",
+      "target": "s-cdcec9e98bd6-c001:v2-n005",
+      "kind": "association",
+      "condition": "source涉及行为与情绪的关系，候选指出情绪严重影响行为。",
+      "reason": "source的练习要求思考行为为何发生或未发生，背后有情绪原因，候选阐述情绪影响行为，相互支持，但source未强调情绪决定行为，且候选未涉及反思练习，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:v2-n001",
+      "target": "s-cdcec9e98bd6-c002:r002",
+      "kind": "example_of",
+      "condition": "当个体将少数迟到事件概括为总是迟到时",
+      "reason": "source 描述个体因迟到四次而声称'从来总是迟到'，并指出这会影响情绪引发焦虑，是认知扭曲影响情绪的具体表现，故是 r002 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:r002",
+      "target": "s-cdcec9e98bd6-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "当个体将少数迟到事件概括为总是迟到时",
+      "reason": "source 描述个体因迟到四次而声称'从来总是迟到'，并指出这会影响情绪引发焦虑，是认知扭曲影响情绪的具体表现，故是 r002 的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:v2-n001",
+      "target": "s-cdcec9e98bd6-c002:r004",
+      "kind": "example_of",
+      "condition": "当把个别迟到概括为普遍规律时",
+      "reason": "source 所述'把少数迟到夸大为总是迟到'正是 r004 清单中'过度概括'这种畸形思维的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:r004",
+      "target": "s-cdcec9e98bd6-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "当把个别迟到概括为普遍规律时",
+      "reason": "source 所述'把少数迟到夸大为总是迟到'正是 r004 清单中'过度概括'这种畸形思维的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:v2-n001",
+      "target": "s-cdcec9e98bd6-c002:a011",
+      "kind": "association",
+      "condition": "在同样的过度概括认知模式下",
+      "reason": "source 与 a011 描述高度相似的案例（约50天迟到4次却认为总是迟到），但 a011 明确提到过度概括，source 未指明具体思维名称，可相互印证但无法确定更强关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c002:a011",
+      "target": "s-cdcec9e98bd6-c003:v2-n001",
+      "kind": "association",
+      "condition": "在同样的过度概括认知模式下",
+      "reason": "source 与 a011 描述高度相似的案例（约50天迟到4次却认为总是迟到），但 a011 明确提到过度概括，source 未指明具体思维名称，可相互印证但无法确定更强关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:v2-n001",
+      "target": "s-cdcec9e98bd6-c003:a005",
+      "kind": "association",
+      "condition": "当将少数事件的重要性或频率放大时",
+      "reason": "source 的'把少数迟到夸大为总是迟到'与 a005 的'夸大'有部分重叠，但 source 更偏向过度概括而非单纯夸大重要性，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a005",
+      "target": "s-cdcec9e98bd6-c003:v2-n001",
+      "kind": "association",
+      "condition": "当将少数事件的重要性或频率放大时",
+      "reason": "source 的'把少数迟到夸大为总是迟到'与 a005 的'夸大'有部分重叠，但 source 更偏向过度概括而非单纯夸大重要性，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:v2-n001",
+      "target": "s-cdcec9e98bd6-c003:a006",
+      "kind": "association",
+      "condition": "当将 source 视为十种不健康思维中某种思维的具体表现时",
+      "reason": "source 属于不健康思维的一个实例，a006 列举了十种不健康思维，但未明确包含过度概括，因此无法直接归入，只能关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-cdcec9e98bd6-c003:a006",
+      "target": "s-cdcec9e98bd6-c003:v2-n001",
+      "kind": "association",
+      "condition": "当将 source 视为十种不健康思维中某种思维的具体表现时",
+      "reason": "source 属于不健康思维的一个实例，a006 列举了十种不健康思维，但未明确包含过度概括，因此无法直接归入，只能关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "自我认知",
+      "to": "理解情绪",
+      "when": "认知三角中想法影响情绪，改变想法可以改变情绪",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a001",
+        "s-cdcec9e98bd6-c001:a006",
+        "s-cdcec9e98bd6-c002:a001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我认知",
+      "when": "情绪影响行为，行为背后的情绪原因需要认知理解",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a002",
+        "s-cdcec9e98bd6-c001:a003",
+        "s-cdcec9e98bd6-c001:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "自我修养",
+      "when": "通过发言促进认知加工，书写梳理想法，像对朋友说话一样对自己说话",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a002",
+        "s-cdcec9e98bd6-c003:a008",
+        "s-cdcec9e98bd6-c003:a019"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "界限",
+      "when": "责任归因偏差与界限问题相关，家长对孩子说话注意界限",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a003",
+        "s-cdcec9e98bd6-c003:a017"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a012",
+        "s-cdcec9e98bd6-c001:r001"
+      ],
+      "reason": "内容完全一致，都是想法是最容易改变恶性循环的切入点"
+    },
+    {
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a014",
+        "s-cdcec9e98bd6-c001:r002"
+      ],
+      "reason": "内容完全一致，都是改变想法练习的步骤"
+    },
+    {
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a013",
+        "s-cdcec9e98bd6-c003:a001"
+      ],
+      "reason": "内容完全一致，都是读心的定义"
+    },
+    {
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a014",
+        "s-cdcec9e98bd6-c003:a002"
+      ],
+      "reason": "内容完全一致，都是预测未来的定义"
+    },
+    {
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a007"
+      ],
+      "reason": "内容完全一致，都是识别并挑战不健康思维方式的步骤"
+    },
+    {
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a019"
+      ],
+      "reason": "内容完全一致，都是通过书写梳理想法"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a010",
+        "s-cdcec9e98bd6-c001:a012"
+      ],
+      "description": "a010认为情绪是信念的反射，不解决根源只控制行为是治标不治本；a012认为想法是最容易改变恶性循环的切入点。两者可能矛盾：如果根源是信念，那么改变想法是否足够？",
+      "needed_evidence": "需要明确信念与想法的关系，以及改变想法是否能触及信念根源"
+    },
+    {
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a006",
+        "s-cdcec9e98bd6-c003:a016"
+      ],
+      "description": "a006声称80%以上的同学可能全部具备十种不健康思维方式，至少占其中五种；a016重复此说法。但缺乏数据支持，且可能夸大。",
+      "needed_evidence": "需要实证研究数据支持该比例"
+    }
+  ],
+  "path": [
+    {
+      "name": "认知行为疗法路径",
+      "steps": [
+        {
+          "action": "识别当前想法",
+          "atom_ids": [
+            "s-cdcec9e98bd6-c001:a014",
+            "s-cdcec9e98bd6-c002:r001",
+            "s-cdcec9e98bd6-c003:a007"
+          ],
+          "condition": "当感到焦虑或情绪困扰时"
+        },
+        {
+          "action": "验证想法是否属于不健康思维方式",
+          "atom_ids": [
+            "s-cdcec9e98bd6-c003:a007"
+          ],
+          "condition": "对照十种不健康思维方式"
+        },
+        {
+          "action": "挑战不健康想法，进行逆向思考",
+          "atom_ids": [
+            "s-cdcec9e98bd6-c003:a007"
+          ],
+          "condition": "如果属于不健康思维"
+        },
+        {
+          "action": "提出替代想法",
+          "atom_ids": [
+            "s-cdcec9e98bd6-c001:a014",
+            "s-cdcec9e98bd6-c001:r002"
+          ],
+          "condition": "改变对事情的认知"
+        },
+        {
+          "action": "评估新想法对情绪和行为的影响",
+          "atom_ids": [
+            "s-cdcec9e98bd6-c001:a014",
+            "s-cdcec9e98bd6-c001:r002"
+          ],
+          "condition": "观察情绪和行为的变化"
+        },
+        {
+          "action": "像对朋友说话一样对自己说话",
+          "atom_ids": [
+            "s-cdcec9e98bd6-c003:a008"
+          ],
+          "condition": "当自我对话负面苛刻时"
+        },
+        {
+          "action": "持续练习",
+          "atom_ids": [
+            "s-cdcec9e98bd6-c003:a010"
+          ],
+          "condition": "需要反复运用所学方法"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-cdcec9e98bd6-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a001"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u002",
+      "kind": "relation",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a002"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a003"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a004"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a005"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a006"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a007"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a008"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a009"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a010"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a011"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a012",
+        "s-cdcec9e98bd6-c001:r001"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a013"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035",
+        "b00036",
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:a014",
+        "s-cdcec9e98bd6-c001:r002"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:v2-n004"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:v2-n005"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a001"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00049",
+        "b00050",
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0002",
+      "kind": "method",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a002"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a003"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a004"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a005"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a006"
+      ],
+      "blocks": [
+        "b00063",
+        "b00069",
+        "b00070",
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a007"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065",
+        "b00066",
+        "b00067",
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a008"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0009",
+      "kind": "case",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a009"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076",
+        "b00077",
+        "b00078",
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0010",
+      "kind": "method",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:r003"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a010"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0012",
+      "kind": "case",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a011"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083",
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a012"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0014",
+      "kind": "method",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:r001"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0015",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:r002"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057",
+        "b00063",
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c002:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:r004"
+      ],
+      "blocks": [
+        "b00054",
+        "b00055",
+        "b00058",
+        "b00061",
+        "b00063",
+        "b00073",
+        "b00081",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a013",
+        "s-cdcec9e98bd6-c003:a001"
+      ],
+      "blocks": [
+        "b00087",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c002:a014",
+        "s-cdcec9e98bd6-c003:a002"
+      ],
+      "blocks": [
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a003"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a004"
+      ],
+      "blocks": [
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a005"
+      ],
+      "blocks": [
+        "b00091",
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a006",
+        "s-cdcec9e98bd6-c003:a016"
+      ],
+      "blocks": [
+        "b00093",
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a007"
+      ],
+      "blocks": [
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a008"
+      ],
+      "blocks": [
+        "b00106",
+        "b00107",
+        "b00109",
+        "b00110",
+        "b00111"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a017"
+      ],
+      "blocks": [
+        "b00107"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a018"
+      ],
+      "blocks": [
+        "b00108",
+        "b00109"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a019"
+      ],
+      "blocks": [
+        "b00113"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a015"
+      ],
+      "blocks": [
+        "b00117",
+        "b00118",
+        "b00126",
+        "b00116",
+        "b00125"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a009"
+      ],
+      "blocks": [
+        "b00111",
+        "b00112",
+        "b00126",
+        "b00118",
+        "b00119",
+        "b00125"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a011"
+      ],
+      "blocks": [
+        "b00096",
+        "b00097",
+        "b00098",
+        "b00099",
+        "b00100",
+        "b00101",
+        "b00102",
+        "b00103",
+        "b00104",
+        "b00105"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a012"
+      ],
+      "blocks": [
+        "b00111",
+        "b00112",
+        "b00113",
+        "b00114",
+        "b00115",
+        "b00116",
+        "b00117",
+        "b00118",
+        "b00119"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a013"
+      ],
+      "blocks": [
+        "b00120",
+        "b00121",
+        "b00122",
+        "b00123",
+        "b00124",
+        "b00125",
+        "b00126"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u017",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a014"
+      ],
+      "blocks": [
+        "b00105",
+        "b00106"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:a010"
+      ],
+      "blocks": [
+        "b00127"
+      ]
+    },
+    {
+      "id": "s-cdcec9e98bd6-c003:u019",
+      "kind": "anti_pattern",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "用身体技巧控制焦虑情绪",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cdcec9e98bd6",
+          "blocks": [
+            "b00003"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "情绪种类不仅喜怒哀乐",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cdcec9e98bd6",
+          "blocks": [
+            "b00003",
+            "b00004"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "definition"
+    },
+    {
+      "title": "区分压力与焦虑，焦虑时寻求专业辅导",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cdcec9e98bd6",
+          "blocks": [
+            "b00004"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "guideline"
+    },
+    {
+      "title": "与父母沟通：说出需要而不是只说不行",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cdcec9e98bd6",
+          "blocks": [
+            "b00004",
+            "b00005"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "行为背后的情绪反思练习",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c001:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cdcec9e98bd6",
+          "blocks": [
+            "b00008",
+            "b00009",
+            "b00010",
+            "b00012"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "exercise"
+    },
+    {
+      "title": "把少数迟到夸大为总是迟到",
+      "atom_ids": [
+        "s-cdcec9e98bd6-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-cdcec9e98bd6",
+          "blocks": [
+            "b00085"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "认知扭曲"
+    }
+  ]
+}

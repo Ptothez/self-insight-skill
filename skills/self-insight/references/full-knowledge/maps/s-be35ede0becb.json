@@ -1,0 +1,2250 @@
+{
+  "concepts": [
+    {
+      "name": "情绪连接",
+      "definition": "在孩子有情绪时，通过认可情绪、身体接触、分享真实经历等方式建立情感共鸣，帮助孩子感到被理解。",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a003",
+        "s-be35ede0becb-c001:a004",
+        "s-be35ede0becb-c001:a005",
+        "s-be35ede0becb-c001:a008"
+      ]
+    },
+    {
+      "name": "界限与后果",
+      "definition": "在关系中明确表达自己的立场，并告知对方继续越界的后果，以维护自身边界和促使对方承担责任。",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a016",
+        "s-be35ede0becb-c001:a018",
+        "s-be35ede0becb-c001:r008",
+        "s-be35ede0becb-c002:a003",
+        "s-be35ede0becb-c002:r001"
+      ]
+    },
+    {
+      "name": "情绪责任",
+      "definition": "个体对自己的情绪负责，不将情绪归因于他人；父母不应为孩子的情绪负责，孩子也不应要求父母为自己的情绪负责。",
+      "atom_ids": [
+        "s-be35ede0becb-c001:r004",
+        "s-be35ede0becb-c002:a001",
+        "s-be35ede0becb-c002:a002",
+        "s-be35ede0becb-c002:a003"
+      ]
+    },
+    {
+      "name": "尊重与选择权",
+      "definition": "尊重孩子意味着真正认可孩子有权利做出选择，并允许其承担自然后果；但涉及生命危险时不可民主，且尊重需基于孩子年龄和承受能力。",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a004",
+        "s-be35ede0becb-c002:a005",
+        "s-be35ede0becb-c002:a006",
+        "s-be35ede0becb-c002:r002",
+        "s-be35ede0becb-c002:r003"
+      ]
+    },
+    {
+      "name": "沟通中的注意力与等待",
+      "definition": "与孩子沟通时，先叫名字确保注意力，只说一次指令，并给予至少15秒思考时间，不催促。",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a012",
+        "s-be35ede0becb-c001:a014",
+        "s-be35ede0becb-c001:r005"
+      ]
+    },
+    {
+      "name": "年龄与思考时间",
+      "definition": "年龄越大的孩子对复杂问题思考时间越长，因为抽象思维发展；一般15秒足够，但复杂问题可能需要更长时间。",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a013",
+        "s-be35ede0becb-c001:r006"
+      ]
+    },
+    {
+      "name": "语言纠正方法",
+      "definition": "孩子语言表达错误时，不直接纠正，而是用正确说法重复，以确认理解。",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a015",
+        "s-be35ede0becb-c001:r007"
+      ]
+    },
+    {
+      "name": "危险情境下的保护优先",
+      "definition": "当孩子面临明显危险时，应优先保护孩子，立即处理危险源，然后再进行情绪连接。",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a006",
+        "s-be35ede0becb-c001:r001"
+      ]
+    },
+    {
+      "name": "兄弟冲突处理",
+      "definition": "兄弟间发生小冲突时，父母不应偏袒，应让弟弟自己解释道歉，父母不替孩子说话。",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a010",
+        "s-be35ede0becb-c001:r003"
+      ]
+    },
+    {
+      "name": "应对指责与造谣",
+      "definition": "面对群内暗指指责或造谣，可采取直接沟通、阴阳怪气回应、要求道歉或专注自我提升等策略。",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a010",
+        "s-be35ede0becb-c002:a011",
+        "s-be35ede0becb-c002:a012",
+        "s-be35ede0becb-c002:r005",
+        "s-be35ede0becb-c002:r006"
+      ]
+    },
+    {
+      "name": "营养与运动",
+      "definition": "七岁以下孩子维生素D需每天吃，但鱼油、钙片通常不需要；应多运动，而非依赖补充剂。",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a016",
+        "s-be35ede0becb-c003:a001",
+        "s-be35ede0becb-c003:a002"
+      ]
+    },
+    {
+      "name": "管教目标与方法",
+      "definition": "管教目标应基于意义而非表面行为，方法需灵活调整，不断尝试新方法以训练大脑灵活性。",
+      "atom_ids": [
+        "s-be35ede0becb-c003:a011",
+        "s-be35ede0becb-c003:a013",
+        "s-be35ede0becb-c003:a014"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-be35ede0becb-c001:a003",
+      "target": "s-be35ede0becb-c001:a004",
+      "kind": "step_of",
+      "condition": "孩子处于不同情绪（伤心或愤怒）时",
+      "reason": "两者都是情绪连接的具体步骤，分别针对伤心和愤怒情绪，属于同一流程的不同分支。"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a003",
+      "target": "s-be35ede0becb-c001:a005",
+      "kind": "supports",
+      "condition": "情绪连接过程中",
+      "reason": "k00005补充了情绪连接中可以通过分享真实经历建立共鸣，增强连接效果。"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a005",
+      "target": "s-be35ede0becb-c001:a008",
+      "kind": "supports",
+      "condition": "情绪连接时",
+      "reason": "“情绪连接中的自我暴露”强调分享自己小时候类似经历时必须真实，不能编造，这与“情绪连接需真实进入对方情绪”中强调真实进入和不要编造故事的要求一致，前者具体体现了后者的真实性原则，因此支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c001:a006",
+      "target": "s-be35ede0becb-c001:r001",
+      "kind": "supports",
+      "condition": "存在明显危险时",
+      "reason": "“危险情境下优先保护孩子”给出了处理危险源并保护孩子的步骤及顺序，而“危险情境下立即保护孩子的具体步骤”是这些步骤的详细展开，两者内容一致且互补，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c001:a006",
+      "target": "s-be35ede0becb-c001:a003",
+      "kind": "prerequisite",
+      "condition": "危险情境下",
+      "reason": "“危险情境下优先保护孩子”要求在情绪连接之前先处理危险源，而“孩子伤心时的情绪连接步骤”是情绪连接的具体做法，因此在危险情境下，保护孩子是进行情绪连接的前提，前者是后者的先决条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c001:a007",
+      "target": "s-be35ede0becb-c001:r002",
+      "kind": "supports",
+      "condition": "三岁八个月孩子说狠话时",
+      "reason": "两者都说明该年龄段孩子说狠话无需干预，只需认可情绪，k00021更详细地解释了原因。"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a009",
+      "target": "s-be35ede0becb-c001:a006",
+      "kind": "example_of",
+      "condition": "案例中孩子被石头扔",
+      "reason": "“三岁八个月女儿被石头扔后的处理案例”中母亲漏掉了保护步骤，讲师指出应先处理危险，这体现了“危险情境下优先保护孩子”的原则，因此该案例是该原则的一个具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c001:a010",
+      "target": "s-be35ede0becb-c001:r003",
+      "kind": "supports",
+      "condition": "兄弟冲突不严重时",
+      "reason": "k00022具体说明了弟弟应自己解释道歉，与k00010中父母不偏袒的原则一致。"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a011",
+      "target": "s-be35ede0becb-c001:a010",
+      "kind": "example_of",
+      "condition": "兄弟冲突案例",
+      "reason": "“七岁哥哥与四岁半弟弟冲突案例”中母亲偏袒弟弟造成兄弟对立，讲师批评该做法，这体现了“兄弟冲突中父母不应偏袒”的原则，因此案例是该原则的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c001:a012",
+      "target": "s-be35ede0becb-c001:a014",
+      "kind": "step_of",
+      "condition": "与孩子沟通时",
+      "reason": "k00014是k00012中“先叫孩子名字确保注意力”的具体操作步骤。"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a012",
+      "target": "s-be35ede0becb-c001:r005",
+      "kind": "supports",
+      "condition": "与孩子沟通时",
+      "reason": "k00024与k00012内容一致，都强调叫名字、确保注意力、只说一次指令。"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a013",
+      "target": "s-be35ede0becb-c001:r006",
+      "kind": "supports",
+      "condition": "复杂问题且孩子年龄较大时",
+      "reason": "两者都说明年龄越大思考时间越长，k00025更详细地解释了原因。"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a015",
+      "target": "s-be35ede0becb-c001:r007",
+      "kind": "supports",
+      "condition": "孩子语言表达错误时",
+      "reason": "两者内容一致，都建议用正确说法重复而非直接纠正。"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a016",
+      "target": "s-be35ede0becb-c001:r008",
+      "kind": "supports",
+      "condition": "理解他人但不认同时",
+      "reason": "“理解他人但不认同”提出理解但不接受、可以设立界限，而“理解他人但不认同并设立界限”在此基础上增加了告知后果的步骤，两者核心观点一致，前者为后者的扩展提供了基础，支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c001:a017",
+      "target": "s-be35ede0becb-c001:r008",
+      "kind": "example_of",
+      "condition": "离异女性与父亲冲突案例",
+      "reason": "“离异女性与父亲冲突案例”中讲师建议理解父亲观念但不认同，并设立界限告知后果，这直接体现了“理解他人但不认同并设立界限”的原则，因此案例是该原则的具体应用。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c001:a018",
+      "target": "s-be35ede0becb-c001:r008",
+      "kind": "supports",
+      "condition": "设立界限时",
+      "reason": "两者都强调明确立场并告知后果，k00027更完整地包含了理解但不认同的步骤。"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a019",
+      "target": "s-be35ede0becb-c001:a014",
+      "kind": "step_of",
+      "condition": "孩子不回应指令时",
+      "reason": "k00019建议先叫名字确保注意力，与k00014的步骤一致。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a001",
+      "target": "s-be35ede0becb-c001:r004",
+      "kind": "supports",
+      "condition": "孩子要求父母为情绪负责时",
+      "reason": "强者与弱者的真实互动模式表明，孩子要求妈妈先哄自己并非因为孩子是弱者，而是认为妈妈需要为他的情绪负责，这支持了父母不应为孩子的情绪负责、亲子冲突中没有弱者强者之分、不需要父母先下台阶哄孩子的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向颠倒：强者与弱者的真实互动模式是论据，支持父母不应为孩子的情绪负责的结论，而非相反。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a001",
+      "target": "s-be35ede0becb-c002:a002",
+      "kind": "supports",
+      "condition": "孩子要求妈妈先哄好自己才做事",
+      "reason": "“强者与弱者的真实互动模式”解释了孩子要求妈妈先哄好自己才做事的原因：孩子认为妈妈需要为他的情绪负责，而“孩子要求妈妈先哄好自己才做事的机制”正是总结了这一原因，因此前者作为解释性前提支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind 为 causes，不属于允许的关系类型，修订为 supports。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a002",
+      "target": "s-be35ede0becb-c002:a003",
+      "kind": "prerequisite",
+      "condition": "孩子认为妈妈需要为他的情绪负责时",
+      "reason": "“孩子要求妈妈先哄好自己才做事的机制”指出这种模式需要被扭转，而“立界限并给后果的方法”提供了扭转该模式的具体做法，先有需要扭转的模式，才有应对方法，因此前者是后者的前提条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind 为 step_of，但方向不当；该关系实为前者是后者应用的前提，修订为 prerequisite。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a004",
+      "target": "s-be35ede0becb-c002:r002",
+      "kind": "example_of",
+      "condition": "尊重孩子选择但内心生气",
+      "reason": "k00046是k00032中假尊重的具体案例，展示了口是心非的情况。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a005",
+      "target": "s-be35ede0becb-c002:r003",
+      "kind": "supports",
+      "condition": "十岁孩子冬天穿短裤案例",
+      "reason": "“十岁孩子冬天穿短裤的案例”中十岁孩子被允许自己选择，因为后果可以承受，这支持了“根据孩子年龄决定是否给予选择权”中十岁孩子真的可以选择、根据承受能力给予尝试的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c002:a006",
+      "target": "s-be35ede0becb-c002:r003",
+      "kind": "contrasts",
+      "condition": "生命危险时",
+      "reason": "“生命危险时不可民主”规定生命危险时不可让孩子选择，而“根据孩子年龄决定是否给予选择权”提出根据年龄和承受能力给予选择权，两者在生命危险这种不可承受伤害上形成对比，共同界定了选择权的边界。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c002:a007",
+      "target": "s-be35ede0becb-c002:a012",
+      "kind": "supports",
+      "condition": "面对指责或冲突时",
+      "reason": "k00035区分找好时机与讨好，k00040建议专注自我提升，两者都强调不陷入无谓争执。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a008",
+      "target": "s-be35ede0becb-c002:a008",
+      "kind": "supports",
+      "condition": "引导孩子表达时",
+      "reason": "两者内容一致，都强调根据年龄选择引导方法。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a009",
+      "target": "s-be35ede0becb-c002:a010",
+      "kind": "example_of",
+      "condition": "群内暗指指责案例",
+      "reason": "k00037是k00038所述应对方法的具体案例背景。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a010",
+      "target": "s-be35ede0becb-c002:r005",
+      "kind": "supports",
+      "condition": "对方在群里委婉指责时",
+      "reason": "k00049提供了k00038中阴阳怪气话术的具体例子。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a011",
+      "target": "s-be35ede0becb-c002:r006",
+      "kind": "supports",
+      "condition": "被造谣后要求道歉",
+      "reason": "k00050详细列出了k00039中要求道歉的具体步骤。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a012",
+      "target": "s-be35ede0becb-c002:a012",
+      "kind": "supports",
+      "condition": "面对被误会或指责时",
+      "reason": "两者内容一致，都建议专注自我提升，不纠缠。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a013",
+      "target": "s-be35ede0becb-c002:a013",
+      "kind": "supports",
+      "condition": "孩子说在学校孤单时",
+      "reason": "两者内容一致，都建议先共情再继续话题。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a014",
+      "target": "s-be35ede0becb-c002:a015",
+      "kind": "example_of",
+      "condition": "夫妻间界限问题",
+      "reason": "k00042是k00043所述界限问题的具体案例，展示了爸爸贴标签的行为。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a016",
+      "target": "s-be35ede0becb-c002:a016",
+      "kind": "supports",
+      "condition": "七岁以下孩子营养补充",
+      "reason": "两者内容一致，都建议维生素D，不推荐鱼油钙片。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a016",
+      "target": "s-be35ede0becb-c003:a001",
+      "kind": "supports",
+      "condition": "七岁以下孩子营养补充",
+      "reason": "“七岁以下孩子营养补充的建议”提出维生素D每天吃，鱼油钙片不太需要，并强调运动，这与“七岁以下儿童补充剂建议”中维生素D需要、鱼油钙片通常不需要的观点一致，因此前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c002:a016",
+      "target": "s-be35ede0becb-c003:a001",
+      "kind": "supports",
+      "condition": "七岁以下孩子营养补充",
+      "reason": "“七岁以下孩子营养补充的建议”和“七岁以下儿童补充剂建议”都强调维生素D需要补充、其他补充剂通常不需要，内容一致，前者可作为后者的支持性陈述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c003:a002",
+      "target": "s-be35ede0becb-c002:a016",
+      "kind": "association",
+      "condition": "儿童健康与营养补充",
+      "reason": "运动对儿童健康的重要性主张多运动并认为无需额外补充，七岁以下孩子营养补充的建议除多运动外还要求每日补充维生素D；源命题未区分必需与非必需补充剂，支持关系不充分。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "uncertain",
+      "review_notes": "原关系为 supports，仅能支持多运动部分。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:xe001",
+      "target": "s-be35ede0becb-c002:a003",
+      "kind": "example_of",
+      "condition": "八岁半男孩要求妈妈先哄好自己才做事",
+      "reason": "八岁半男孩要求妈妈先哄好自己并称妈妈造成其生气，属于当孩子认为妈妈需要为他的情绪负责的情形，是立界限并给后果方法的具体案例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c002:xe002",
+      "target": "s-be35ede0becb-c002:a001",
+      "kind": "supports",
+      "condition": "强者弱者理论在育儿中的适用性",
+      "reason": "k00055澄清了强者弱者理论的适用性，支持k00029中反驳孩子要求父母先哄自己的观点。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:xe003",
+      "target": "s-be35ede0becb-c002:a009",
+      "kind": "supports",
+      "condition": "群内暗指指责案例",
+      "reason": "k00056是k00037案例的详细描述，两者为同一案例。"
+    },
+    {
+      "source": "s-be35ede0becb-c002:xe004",
+      "target": "s-be35ede0becb-c002:a014",
+      "kind": "example_of",
+      "condition": "学员因孩子爸爸贴标签而紧张",
+      "reason": "k00057是k00042案例中妈妈情绪反应的补充。"
+    },
+    {
+      "source": "s-be35ede0becb-c003:a003",
+      "target": "s-be35ede0becb-c002:a015",
+      "kind": "supports",
+      "condition": "面对父亲的问题",
+      "reason": "k00060建议敢于硬杠表达立场，与k00043中夫妻间界限问题相关，都强调维护界限。"
+    },
+    {
+      "source": "s-be35ede0becb-c003:a004",
+      "target": "s-be35ede0becb-c003:a003",
+      "kind": "example_of",
+      "condition": "妻子主动提离婚后丈夫改变",
+      "reason": "妻子主动提离婚且不怕离婚后丈夫改变，体现敢于硬杠可能带来改变，是面对父亲问题需要硬杠的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c003:a005",
+      "target": "s-be35ede0becb-c003:a006",
+      "kind": "association",
+      "condition": "提高语言表达能力",
+      "reason": "提高语言表达能力的方法建议通过聊天和训练营练习精确表达，精确表达的标准定义好表达需精确传递信息；两者同属精确表达议题，但一方不能逻辑支持另一方具体主张。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 supports，改为 association。"
+    },
+    {
+      "source": "s-be35ede0becb-c003:a007",
+      "target": "s-be35ede0becb-c003:r001",
+      "kind": "supports",
+      "condition": "帮助孩子理解情绪",
+      "reason": "使用情绪轮可以掌握更多情绪词汇，为家长在孩子有情绪时用情绪词汇描述感受提供基础，支持帮助孩子理解情绪的方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c003:a008",
+      "target": "s-be35ede0becb-c003:r001",
+      "kind": "supports",
+      "condition": "对五岁以下孩子共情生气",
+      "reason": "两者都涉及用具体方式帮助孩子理解情绪，k00065针对父母生气时的表达，k00073针对孩子情绪时的共情。"
+    },
+    {
+      "source": "s-be35ede0becb-c003:a009",
+      "target": "s-be35ede0becb-c003:a010",
+      "kind": "example_of",
+      "condition": "睡眠训练中威胁孩子",
+      "reason": "三岁孩子独立入睡反复醒来的案例中家长说再叫就打人，正是对孩子说再这样我就要打人了威胁行为的具体表现，是威胁与攻击区别的实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c003:a010",
+      "target": "s-be35ede0becb-c003:a011",
+      "kind": "association",
+      "condition": "管教方法选择",
+      "reason": "威胁与攻击的区别仅分类威胁行为，未评价威胁不当；管教目标应基于意义而非表面行为强调目标导向，两者同属管教议题，但不能形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 contrasts，因源命题未包含负面评价，改为 association。"
+    },
+    {
+      "source": "s-be35ede0becb-c003:a011",
+      "target": "s-be35ede0becb-c003:a013",
+      "kind": "supports",
+      "condition": "管教目标设定",
+      "reason": "管教目标应基于意义而非表面行为的原则，支持目标决定管教方法中强调有意义目标是找到帮助孩子的方法的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c003:a012",
+      "target": "s-be35ede0becb-c003:a013",
+      "kind": "example_of",
+      "condition": "睡眠问题解决案例",
+      "reason": "讲师自己孩子睡眠问题的解决案例展示了以帮助孩子为目标而非仅追求独立睡觉，是目标决定管教方法的具体案例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-be35ede0becb-c003:a014",
+      "target": "s-be35ede0becb-c003:a012",
+      "kind": "association",
+      "condition": "方法无效时",
+      "reason": "灵活换方法训练大脑建议在方法无效时尝试新方法，讲师自己孩子睡眠问题的解决案例展示尝试多种方法后成功；但案例是原则的实例，不是原则支持案例，故为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 supports，改为 association。"
+    },
+    {
+      "source": "s-be35ede0becb-c003:a015",
+      "target": "s-be35ede0becb-c003:a005",
+      "kind": "association",
+      "condition": "提高沟通能力",
+      "reason": "育儿训练营的实操方法强调案例和实操练习，提高语言表达能力的方法建议参加沟通训练营练习精确表达；两者均重视实践训练，但涉及不同训练内容，不能直接支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 supports，改为 association。"
+    },
+    {
+      "source": "s-be35ede0becb-c001:v2-n001",
+      "target": "s-be35ede0becb-c001:a001",
+      "kind": "association",
+      "condition": "在提升父母沟通能力时",
+      "reason": "候选强调孩子能力与父母能力相关，父母需要提升表达能力，与 source 反对提前写稿练习不冲突，但都关注沟通能力，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a001",
+      "target": "s-be35ede0becb-c001:v2-n001",
+      "kind": "association",
+      "condition": "在提升父母沟通能力时",
+      "reason": "候选强调孩子能力与父母能力相关，父母需要提升表达能力，与 source 反对提前写稿练习不冲突，但都关注沟通能力，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:v2-n001",
+      "target": "s-be35ede0becb-c003:a005",
+      "kind": "complements",
+      "condition": "在寻求提升沟通方法时",
+      "reason": "候选提供提高语言表达能力的具体方法（多聊天、参加训练营），与 source 反对提前写稿练习互补：不用写稿，但可通过其他方式提升。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c003:a005",
+      "target": "s-be35ede0becb-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在寻求提升沟通方法时",
+      "reason": "候选提供提高语言表达能力的具体方法（多聊天、参加训练营），与 source 反对提前写稿练习互补：不用写稿，但可通过其他方式提升。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:v2-n001",
+      "target": "s-be35ede0becb-c001:a012",
+      "kind": "association",
+      "condition": "在日常沟通技巧中",
+      "reason": "候选给出给孩子 15 秒思考时间的技巧，与 source 关于自然沟通的观点属于同一沟通场景，但不直接涉及是否练习。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a012",
+      "target": "s-be35ede0becb-c001:v2-n001",
+      "kind": "association",
+      "condition": "在日常沟通技巧中",
+      "reason": "候选给出给孩子 15 秒思考时间的技巧，与 source 关于自然沟通的观点属于同一沟通场景，但不直接涉及是否练习。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:v2-n001",
+      "target": "s-be35ede0becb-c001:r005",
+      "kind": "association",
+      "condition": "同沟通场景",
+      "reason": "候选强调先叫名字确保注意力，是具体沟通步骤，与 source 不矛盾，但无直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:r005",
+      "target": "s-be35ede0becb-c001:v2-n001",
+      "kind": "association",
+      "condition": "同沟通场景",
+      "reason": "候选强调先叫名字确保注意力，是具体沟通步骤，与 source 不矛盾，但无直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:v2-n001",
+      "target": "s-be35ede0becb-c001:a014",
+      "kind": "association",
+      "condition": "同上",
+      "reason": "候选内容与 r005 相似，重复强调叫名字，同样弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a014",
+      "target": "s-be35ede0becb-c001:v2-n001",
+      "kind": "association",
+      "condition": "同上",
+      "reason": "候选内容与 r005 相似，重复强调叫名字，同样弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:v2-n003",
+      "target": "s-be35ede0becb-c001:r004",
+      "kind": "example_of",
+      "condition": "在该案例中，孩子要求母亲先哄，母亲情绪被孩子归因",
+      "reason": "source 案例是“父母不应为孩子情绪负责”原则的具体体现：孩子要求母亲先哄，但讲师指出生气是孩子自己的选择，故 source 是 target 的一个例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:r004",
+      "target": "s-be35ede0becb-c001:v2-n003",
+      "kind": "has_example",
+      "condition": "在该案例中，孩子要求母亲先哄，母亲情绪被孩子归因",
+      "reason": "source 案例是“父母不应为孩子情绪负责”原则的具体体现：孩子要求母亲先哄，但讲师指出生气是孩子自己的选择，故 source 是 target 的一个例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:v2-n003",
+      "target": "s-be35ede0becb-c002:xe001",
+      "kind": "complements",
+      "condition": "在描述同一案例时",
+      "reason": "候选提供更详细的案例背景（孩子原话、母亲反应），补充了 source 案例的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:xe001",
+      "target": "s-be35ede0becb-c001:v2-n003",
+      "kind": "complements",
+      "condition": "在描述同一案例时",
+      "reason": "候选提供更详细的案例背景（孩子原话、母亲反应），补充了 source 案例的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:v2-n003",
+      "target": "s-be35ede0becb-c002:a001",
+      "kind": "complements",
+      "condition": "在纠正错误理论时",
+      "reason": "候选指出真正强者不高兴时弱者会立即行动，补充了 source 中否定“强者先下台阶”的理论依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a001",
+      "target": "s-be35ede0becb-c001:v2-n003",
+      "kind": "complements",
+      "condition": "在纠正错误理论时",
+      "reason": "候选指出真正强者不高兴时弱者会立即行动，补充了 source 中否定“强者先下台阶”的理论依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:v2-n003",
+      "target": "s-be35ede0becb-c002:a002",
+      "kind": "complements",
+      "condition": "在解释孩子行为机制时",
+      "reason": "候选说明孩子要求先哄的机制是认为妈妈需要为他的情绪负责，补充了 source 中孩子行为背后的原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a002",
+      "target": "s-be35ede0becb-c001:v2-n003",
+      "kind": "complements",
+      "condition": "在解释孩子行为机制时",
+      "reason": "候选说明孩子要求先哄的机制是认为妈妈需要为他的情绪负责，补充了 source 中孩子行为背后的原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:v2-n003",
+      "target": "s-be35ede0becb-c002:xe002",
+      "kind": "complements",
+      "condition": "在进一步澄清强者弱者理论时",
+      "reason": "候选指出强者弱者理论并非完全不对，但孩子示弱方式错误，补充了 source 中讲师观点的细微差别。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:xe002",
+      "target": "s-be35ede0becb-c001:v2-n003",
+      "kind": "complements",
+      "condition": "在进一步澄清强者弱者理论时",
+      "reason": "候选指出强者弱者理论并非完全不对，但孩子示弱方式错误，补充了 source 中讲师观点的细微差别。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:v2-n003",
+      "target": "s-be35ede0becb-c002:a003",
+      "kind": "complements",
+      "condition": "在给出具体应对方法时",
+      "reason": "候选提供立界限并给后果的具体步骤，是 source 案例后的行动建议，补充了解决方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a003",
+      "target": "s-be35ede0becb-c001:v2-n003",
+      "kind": "complements",
+      "condition": "在给出具体应对方法时",
+      "reason": "候选提供立界限并给后果的具体步骤，是 source 案例后的行动建议，补充了解决方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:v2-n003",
+      "target": "s-be35ede0becb-c001:a019",
+      "kind": "association",
+      "condition": "在孩子不回应指令的一般处理中",
+      "reason": "候选概括了孩子不回应时的处理步骤（叫名字、只说一次、等待），与 source 中孩子多次催促才回应有关，但 source 焦点是情绪归因，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a019",
+      "target": "s-be35ede0becb-c001:v2-n003",
+      "kind": "association",
+      "condition": "在孩子不回应指令的一般处理中",
+      "reason": "候选概括了孩子不回应时的处理步骤（叫名字、只说一次、等待），与 source 中孩子多次催促才回应有关，但 source 焦点是情绪归因，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n001",
+      "target": "s-be35ede0becb-c002:r002",
+      "kind": "association",
+      "condition": "在实际执行尊重时",
+      "reason": "候选描述学员表面尊重但内心生气的案例，正是 source 中“尊重而不生闷气”的反面，关联直接但属于不同表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:r002",
+      "target": "s-be35ede0becb-c002:v2-n001",
+      "kind": "association",
+      "condition": "在实际执行尊重时",
+      "reason": "候选描述学员表面尊重但内心生气的案例，正是 source 中“尊重而不生闷气”的反面，关联直接但属于不同表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n001",
+      "target": "s-be35ede0becb-c002:a004",
+      "kind": "complements",
+      "condition": "在区分真假尊重时",
+      "reason": "候选明确尊重不是假装尊重，补充了 source 中“尊重而不生闷气”的内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a004",
+      "target": "s-be35ede0becb-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在区分真假尊重时",
+      "reason": "候选明确尊重不是假装尊重，补充了 source 中“尊重而不生闷气”的内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n001",
+      "target": "s-be35ede0becb-c002:r003",
+      "kind": "complements",
+      "condition": "在考虑孩子年龄和承受能力时",
+      "reason": "候选强调根据年龄决定是否给予选择权，补充了 source 中“孩子已有一定年龄和判断力”的条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:r003",
+      "target": "s-be35ede0becb-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在考虑孩子年龄和承受能力时",
+      "reason": "候选强调根据年龄决定是否给予选择权，补充了 source 中“孩子已有一定年龄和判断力”的条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n001",
+      "target": "s-be35ede0becb-c002:a005",
+      "kind": "complements",
+      "condition": "在十岁孩子穿衣选择的案例中",
+      "reason": "候选提供讲师孩子冬天穿短裤的具体案例，是 source 原则的实例，补充了实践细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a005",
+      "target": "s-be35ede0becb-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在十岁孩子穿衣选择的案例中",
+      "reason": "候选提供讲师孩子冬天穿短裤的具体案例，是 source 原则的实例，补充了实践细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n001",
+      "target": "s-be35ede0becb-c002:a006",
+      "kind": "complements",
+      "condition": "在涉及生命危险时",
+      "reason": "候选强调生命危险时不可民主，补充了 source 中“不涉及生命危险”的边界条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a006",
+      "target": "s-be35ede0becb-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在涉及生命危险时",
+      "reason": "候选强调生命危险时不可民主，补充了 source 中“不涉及生命危险”的边界条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n001",
+      "target": "s-be35ede0becb-c002:a008",
+      "kind": "association",
+      "condition": "在根据年龄调整引导方法时",
+      "reason": "候选指出表达引导需根据年龄，与 source 中根据年龄决定选择权相呼应，但主题不同，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a008",
+      "target": "s-be35ede0becb-c002:v2-n001",
+      "kind": "association",
+      "condition": "在根据年龄调整引导方法时",
+      "reason": "候选指出表达引导需根据年龄，与 source 中根据年龄决定选择权相呼应，但主题不同，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n002",
+      "target": "s-be35ede0becb-c002:a008",
+      "kind": "example_of",
+      "condition": "当孩子表达不清楚且父母尝试引导时",
+      "reason": "source 中讲师指出需要孩子年龄才能有效回答，小龄可给选择帮助表达，大龄不需要给选择；a008 正是这一原则的概括，source 是该原则的具体案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a008",
+      "target": "s-be35ede0becb-c002:v2-n002",
+      "kind": "has_example",
+      "condition": "当孩子表达不清楚且父母尝试引导时",
+      "reason": "source 中讲师指出需要孩子年龄才能有效回答，小龄可给选择帮助表达，大龄不需要给选择；a008 正是这一原则的概括，source 是该原则的具体案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n002",
+      "target": "s-be35ede0becb-c002:r003",
+      "kind": "association",
+      "condition": "不同场景：source 用于表达帮助，target 用于是否尊重孩子的自主选择（如穿衣）",
+      "reason": "两者都强调根据孩子年龄决定是否给予选择，但 source 针对表达不清时给选择，target 针对是否尊重孩子自己的决定，场景不同，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:r003",
+      "target": "s-be35ede0becb-c002:v2-n002",
+      "kind": "association",
+      "condition": "不同场景：source 用于表达帮助，target 用于是否尊重孩子的自主选择（如穿衣）",
+      "reason": "两者都强调根据孩子年龄决定是否给予选择，但 source 针对表达不清时给选择，target 针对是否尊重孩子自己的决定，场景不同，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n004",
+      "target": "s-be35ede0becb-c002:a014",
+      "kind": "association",
+      "condition": "当孩子有晕车、不喜欢洗头理发等症状时",
+      "reason": "source 以讲师自身经历说明严重晕车不代表感统不良，不能仅凭这些症状判断，是对 a014 中学员依据症状判断感统不良的提醒，但 a014 是案例且包含学员观点，非直接矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a014",
+      "target": "s-be35ede0becb-c002:v2-n004",
+      "kind": "association",
+      "condition": "当孩子有晕车、不喜欢洗头理发等症状时",
+      "reason": "source 以讲师自身经历说明严重晕车不代表感统不良，不能仅凭这些症状判断，是对 a014 中学员依据症状判断感统不良的提醒，但 a014 是案例且包含学员观点，非直接矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n005",
+      "target": "s-be35ede0becb-c002:a015",
+      "kind": "example_of",
+      "condition": "当妈妈想带孩子做测评而爸爸可能不同意时",
+      "reason": "source 中讲师反问暗示妈妈可以直接带孩子测评，不需要先获得爸爸同意，体现了 a015 中“妈妈不需要跟老公解释清楚才能获得同意”的原则，source 是该原则在具体情境中的应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a015",
+      "target": "s-be35ede0becb-c002:v2-n005",
+      "kind": "has_example",
+      "condition": "当妈妈想带孩子做测评而爸爸可能不同意时",
+      "reason": "source 中讲师反问暗示妈妈可以直接带孩子测评，不需要先获得爸爸同意，体现了 a015 中“妈妈不需要跟老公解释清楚才能获得同意”的原则，source 是该原则在具体情境中的应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n005",
+      "target": "s-be35ede0becb-c002:a014",
+      "kind": "association",
+      "condition": "在该案例讨论的上下文中",
+      "reason": "source 是在 a014 案例基础上提出的疑问，针对学员不敢测评的问题，但 source 未明确支持或反对测评，仅涉及决策权，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a014",
+      "target": "s-be35ede0becb-c002:v2-n005",
+      "kind": "association",
+      "condition": "在该案例讨论的上下文中",
+      "reason": "source 是在 a014 案例基础上提出的疑问，针对学员不敢测评的问题，但 source 未明确支持或反对测评，仅涉及决策权，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n006",
+      "target": "s-be35ede0becb-c002:a012",
+      "kind": "example_of",
+      "condition": "被误会或指责时",
+      "reason": "source 中讲师屏蔽对方、专注自己、做出成绩后回应，体现了 a012 中“不必停留，往前走，做到极致优秀”的策略，source 是该策略的具体案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a012",
+      "target": "s-be35ede0becb-c002:v2-n006",
+      "kind": "has_example",
+      "condition": "被误会或指责时",
+      "reason": "source 中讲师屏蔽对方、专注自己、做出成绩后回应，体现了 a012 中“不必停留，往前走，做到极致优秀”的策略，source 是该策略的具体案例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n006",
+      "target": "s-be35ede0becb-c002:a011",
+      "kind": "association",
+      "condition": "不同冲突类型：嘲讽 vs 造谣",
+      "reason": "source 与 a011 都是讲师应对他人攻击，但 a011 是要求道歉，source 是屏蔽后反击，方法不同但主题相关，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a011",
+      "target": "s-be35ede0becb-c002:v2-n006",
+      "kind": "association",
+      "condition": "不同冲突类型：嘲讽 vs 造谣",
+      "reason": "source 与 a011 都是讲师应对他人攻击，但 a011 是要求道歉，source 是屏蔽后反击，方法不同但主题相关，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n006",
+      "target": "s-be35ede0becb-c002:r006",
+      "kind": "association",
+      "condition": "同上",
+      "reason": "r006 是 a011 的具体步骤，与 source 的应对方式差异较大，但都涉及处理负面事件，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:r006",
+      "target": "s-be35ede0becb-c002:v2-n006",
+      "kind": "association",
+      "condition": "同上",
+      "reason": "r006 是 a011 的具体步骤，与 source 的应对方式差异较大，但都涉及处理负面事件，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n006",
+      "target": "s-be35ede0becb-c002:a009",
+      "kind": "association",
+      "condition": "不同主体：学员被合作伙伴暗指 vs 讲师被嘲讽",
+      "reason": "两者都涉及暗指/指责，但 source 是讲师本人经历且选择了反击，a009 是学员未回应，情况不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:a009",
+      "target": "s-be35ede0becb-c002:v2-n006",
+      "kind": "association",
+      "condition": "不同主体：学员被合作伙伴暗指 vs 讲师被嘲讽",
+      "reason": "两者都涉及暗指/指责，但 source 是讲师本人经历且选择了反击，a009 是学员未回应，情况不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n006",
+      "target": "s-be35ede0becb-c002:xe003",
+      "kind": "association",
+      "condition": "同上",
+      "reason": "xe003 是 a009 的详细版本，同属暗指指责情境，与 source 有相似性但主体和处理方式不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:xe003",
+      "target": "s-be35ede0becb-c002:v2-n006",
+      "kind": "association",
+      "condition": "同上",
+      "reason": "xe003 是 a009 的详细版本，同属暗指指责情境，与 source 有相似性但主体和处理方式不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n007",
+      "target": "s-be35ede0becb-c001:a018",
+      "kind": "example_of",
+      "condition": "父女关系冲突且父亲以关系要挟时",
+      "reason": "source 描述了在父女冲突中立界限并告知后果的具体做法，是 a018 通用方法在该情境下的应用，source 是 a018 的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a018",
+      "target": "s-be35ede0becb-c002:v2-n007",
+      "kind": "has_example",
+      "condition": "父女关系冲突且父亲以关系要挟时",
+      "reason": "source 描述了在父女冲突中立界限并告知后果的具体做法，是 a018 通用方法在该情境下的应用，source 是 a018 的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n007",
+      "target": "s-be35ede0becb-c001:a017",
+      "kind": "association",
+      "condition": "离异女性与父亲冲突的具体案例",
+      "reason": "a017 是具体案例，讲师建议理解但不认同，设立界限并告知后果；source 是概括性建议，两者一致但 a017 包含更多文化背景，关联直接但 kind 无完全匹配，故用 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a017",
+      "target": "s-be35ede0becb-c002:v2-n007",
+      "kind": "association",
+      "condition": "离异女性与父亲冲突的具体案例",
+      "reason": "a017 是具体案例，讲师建议理解但不认同，设立界限并告知后果；source 是概括性建议，两者一致但 a017 包含更多文化背景，关联直接但 kind 无完全匹配，故用 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n007",
+      "target": "s-be35ede0becb-c001:r008",
+      "kind": "association",
+      "condition": "理解但不认同并设立界限",
+      "reason": "r008 强调理解对方观点来源但不认同，source 只说“不必完全理解文化差异”但立界限，两者有重叠，但 source 未包含理解步骤，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:r008",
+      "target": "s-be35ede0becb-c002:v2-n007",
+      "kind": "association",
+      "condition": "理解但不认同并设立界限",
+      "reason": "r008 强调理解对方观点来源但不认同，source 只说“不必完全理解文化差异”但立界限，两者有重叠，但 source 未包含理解步骤，关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n007",
+      "target": "s-be35ede0becb-c001:a016",
+      "kind": "association",
+      "condition": "理解他人但不认同",
+      "reason": "a016 与 r008 相似，但未提及告知后果；source 包含告知后果，部分重叠，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c001:a016",
+      "target": "s-be35ede0becb-c002:v2-n007",
+      "kind": "association",
+      "condition": "理解他人但不认同",
+      "reason": "a016 与 r008 相似，但未提及告知后果；source 包含告知后果，部分重叠，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c002:v2-n007",
+      "target": "s-be35ede0becb-c003:a003",
+      "kind": "association",
+      "condition": "面对父亲问题，母亲需要硬杠",
+      "reason": "a003 强调敢于硬杠、表达立场，与 source 都涉及应对父亲，但 source 侧重步骤（立界限、讲后果），a003 侧重态度，关联不同侧面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-be35ede0becb-c003:a003",
+      "target": "s-be35ede0becb-c002:v2-n007",
+      "kind": "association",
+      "condition": "面对父亲问题，母亲需要硬杠",
+      "reason": "a003 强调敢于硬杠、表达立场，与 source 都涉及应对父亲，但 source 侧重步骤（立界限、讲后果），a003 侧重态度，关联不同侧面。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "孩子面临危险时，先保护（界限）再情绪连接（理解情绪）",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a006",
+        "s-be35ede0becb-c001:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "阶段与角色",
+      "when": "根据孩子年龄决定是否给予选择权（界限）",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-be35ede0becb-c002:r003",
+        "s-be35ede0becb-c002:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "阶段与角色",
+      "when": "引导孩子表达时根据年龄选择方法",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "面对指责或冲突时，设立界限并专注自我提升",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-be35ede0becb-c001:r008",
+        "s-be35ede0becb-c002:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "内在能力",
+      "when": "管教方法无效时，灵活换方法训练大脑灵活性",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-be35ede0becb-c003:a014",
+        "s-be35ede0becb-c003:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我修养",
+      "when": "使用情绪轮丰富情绪词汇，提升共情能力",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-be35ede0becb-c003:a007",
+        "s-be35ede0becb-c003:r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c001:a003",
+        "s-be35ede0becb-c001:a004"
+      ],
+      "reason": "两者都是情绪连接的具体步骤，但针对不同情绪（伤心和愤怒），步骤略有不同，并非完全等价，但核心方法一致。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c001:a006",
+        "s-be35ede0becb-c001:r001"
+      ],
+      "reason": "k00020是k00006的详细展开，内容完全一致，属于重复。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c001:a007",
+        "s-be35ede0becb-c001:r002"
+      ],
+      "reason": "两者内容完全一致，都说明三岁八个月孩子说狠话无需干预，只需认可情绪。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c001:a012",
+        "s-be35ede0becb-c001:r005"
+      ],
+      "reason": "两者内容完全一致，都强调叫名字、确保注意力、只说一次指令。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c001:a013",
+        "s-be35ede0becb-c001:r006"
+      ],
+      "reason": "两者内容一致，都说明年龄越大思考时间越长，k00025更详细。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c001:a015",
+        "s-be35ede0becb-c001:r007"
+      ],
+      "reason": "两者内容完全一致，都建议用正确说法重复。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c001:a016",
+        "s-be35ede0becb-c001:r008"
+      ],
+      "reason": "k00027是k00016的扩展，增加了告知后果，但核心一致。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c002:a008"
+      ],
+      "reason": "两者内容完全一致，都强调根据年龄选择引导方法。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c002:a012"
+      ],
+      "reason": "两者内容完全一致，都建议专注自我提升。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c002:a013"
+      ],
+      "reason": "两者内容完全一致，都建议先共情再继续话题。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c002:a016",
+        "s-be35ede0becb-c003:a001"
+      ],
+      "reason": "三者内容一致，都建议七岁以下孩子维生素D，不推荐鱼油钙片。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c002:a009",
+        "s-be35ede0becb-c002:xe003"
+      ],
+      "reason": "两者为同一案例，k00056是k00037的详细描述。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c002:a011",
+        "s-be35ede0becb-c002:r006"
+      ],
+      "reason": "两者为同一案例，k00050是k00039的详细步骤。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c001:a006",
+        "s-be35ede0becb-c001:a003"
+      ],
+      "description": "k00006强调危险时先保护再情绪连接，而k00003直接进行情绪连接，未提及危险情境，可能造成应用混淆。",
+      "needed_evidence": "需要明确在无危险时情绪连接的适用性，以及危险情境下如何平衡保护与情绪连接。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c002:a004",
+        "s-be35ede0becb-c002:r002"
+      ],
+      "description": "k00032定义尊重为内心真正认可，但k00046案例中妈妈表面尊重内心生气，两者存在矛盾，需要澄清如何达到真正尊重。",
+      "needed_evidence": "需要提供方法帮助父母调整内心态度，实现真正尊重。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c002:a006",
+        "s-be35ede0becb-c002:r003"
+      ],
+      "description": "k00034强调生命危险时不可民主，k00047根据年龄给予选择权，但未明确界定“生命危险”与“可承受风险”的边界。",
+      "needed_evidence": "需要具体标准判断何时可以让孩子自主选择。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c003:a003",
+        "s-be35ede0becb-c002:a015"
+      ],
+      "description": "k00060建议硬杠表达立场，但k00043强调界限问题，硬杠可能引发冲突，需要平衡。",
+      "needed_evidence": "需要指导如何在维护界限的同时避免激化矛盾。"
+    },
+    {
+      "atom_ids": [
+        "s-be35ede0becb-c003:a009",
+        "s-be35ede0becb-c003:a012"
+      ],
+      "description": "k00066案例中家长威胁孩子，k00069提供温和方法，但未说明如何从威胁转向温和方法。",
+      "needed_evidence": "需要提供具体步骤帮助家长改变管教方式。"
+    }
+  ],
+  "path": [
+    {
+      "name": "情绪连接流程",
+      "steps": [
+        {
+          "action": "确保安全：若存在危险，先保护孩子（如找对方父母警告）",
+          "atom_ids": [
+            "s-be35ede0becb-c001:a006",
+            "s-be35ede0becb-c001:r001"
+          ],
+          "condition": "存在明显危险时"
+        },
+        {
+          "action": "身体接触：抱着孩子",
+          "atom_ids": [
+            "s-be35ede0becb-c001:a003"
+          ],
+          "condition": "孩子伤心时"
+        },
+        {
+          "action": "认可情绪：说出孩子的情绪（如“你看起来很伤心”）",
+          "atom_ids": [
+            "s-be35ede0becb-c001:a003",
+            "s-be35ede0becb-c001:a004"
+          ],
+          "condition": "孩子有情绪时"
+        },
+        {
+          "action": "等待情绪稳定：等孩子哭完",
+          "atom_ids": [
+            "s-be35ede0becb-c001:a003"
+          ],
+          "condition": "孩子伤心时"
+        },
+        {
+          "action": "询问经过：问“你可以告诉我发生什么事情了吗？”",
+          "atom_ids": [
+            "s-be35ede0becb-c001:a003"
+          ],
+          "condition": "情绪稳定后"
+        },
+        {
+          "action": "分享真实经历：分享自己小时候类似经历和感受",
+          "atom_ids": [
+            "s-be35ede0becb-c001:a005"
+          ],
+          "condition": "有真实类似经历时"
+        }
+      ]
+    },
+    {
+      "name": "立界限与给后果流程",
+      "steps": [
+        {
+          "action": "明确表达立场：告诉孩子“我明白你生气，但生气不是我造成的”",
+          "atom_ids": [
+            "s-be35ede0becb-c002:a003"
+          ],
+          "condition": "孩子认为父母需为情绪负责时"
+        },
+        {
+          "action": "指出后果：说明如果孩子不做该做的事情，后果自己承担",
+          "atom_ids": [
+            "s-be35ede0becb-c002:a003"
+          ],
+          "condition": "孩子生气后不做该做的事"
+        },
+        {
+          "action": "给出具体后果：例如不去做作业的后果是课间补作业",
+          "atom_ids": [
+            "s-be35ede0becb-c002:a003"
+          ],
+          "condition": "需要具体化后果时"
+        }
+      ]
+    },
+    {
+      "name": "沟通中的注意力与等待流程",
+      "steps": [
+        {
+          "action": "叫孩子名字，走到面前，看着孩子",
+          "atom_ids": [
+            "s-be35ede0becb-c001:a014",
+            "s-be35ede0becb-c001:r005"
+          ],
+          "condition": "与孩子说话前"
+        },
+        {
+          "action": "只说一次指令或问题",
+          "atom_ids": [
+            "s-be35ede0becb-c001:a014",
+            "s-be35ede0becb-c001:r005"
+          ],
+          "condition": "确保注意力后"
+        },
+        {
+          "action": "观察眼神确认收到信息",
+          "atom_ids": [
+            "s-be35ede0becb-c001:a012"
+          ],
+          "condition": "发出指令后"
+        },
+        {
+          "action": "等待至少15秒，不催促",
+          "atom_ids": [
+            "s-be35ede0becb-c001:a012"
+          ],
+          "condition": "孩子思考时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "3cc71b673d659f93453d8935f153025f63f90772226f1d6137efb35b4e145a1c",
+  "point_units": [
+    {
+      "id": "s-be35ede0becb-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a002"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a003"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a004"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a005",
+        "s-be35ede0becb-c001:a008"
+      ],
+      "blocks": [
+        "b00008",
+        "b00014",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a006"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a007"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a009"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007",
+        "b00008",
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a010"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a011"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020",
+        "b00021",
+        "b00022",
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:r003"
+      ],
+      "blocks": [
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a012"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a013",
+        "s-be35ede0becb-c001:r006"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029",
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a014",
+        "s-be35ede0becb-c001:r005"
+      ],
+      "blocks": [
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a015",
+        "s-be35ede0becb-c001:r007"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a016",
+        "s-be35ede0becb-c001:a018",
+        "s-be35ede0becb-c001:r008"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039",
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a017"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c001:a019",
+        "s-be35ede0becb-c001:r004"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c001:u021",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u001",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c002:xe001"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a001"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a002"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a003"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c002:r001"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u006",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a004"
+      ],
+      "blocks": [
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c002:r002",
+        "s-be35ede0becb-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a005"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u009",
+      "kind": "condition",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a006"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u010",
+      "kind": "condition",
+      "atom_ids": [
+        "s-be35ede0becb-c002:r003"
+      ],
+      "blocks": [
+        "b00057",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u011",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a007"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a008",
+        "s-be35ede0becb-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c002:xe003"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a010"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c002:r006"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a012"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074",
+        "b00075",
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a013"
+      ],
+      "blocks": [
+        "b00071",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u018",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c002:v2-n006"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u019",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a015"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u020",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a014"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u021",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c002:v2-n004"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c002:v2-n005"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u023",
+      "kind": "condition",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a016"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u024",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c002:xe004"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u025",
+      "kind": "method",
+      "atom_ids": [
+        "s-be35ede0becb-c002:v2-n007"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c002:u026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c002:xe002"
+      ],
+      "blocks": [
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c003:unit-0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c002:a016",
+        "s-be35ede0becb-c003:a002"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c003:unit-0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-be35ede0becb-c003:a003"
+      ],
+      "blocks": [
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c003:unit-0003",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c003:a004"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c003:unit-0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-be35ede0becb-c003:a005"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c003:unit-0005",
+      "kind": "definition",
+      "atom_ids": [
+        "s-be35ede0becb-c003:a006"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c003:unit-0006",
+      "kind": "method",
+      "atom_ids": [
+        "s-be35ede0becb-c003:r001"
+      ],
+      "blocks": [
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c003:unit-0007",
+      "kind": "method",
+      "atom_ids": [
+        "s-be35ede0becb-c003:a007"
+      ],
+      "blocks": [
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c003:unit-0008",
+      "kind": "method",
+      "atom_ids": [
+        "s-be35ede0becb-c003:a008"
+      ],
+      "blocks": [
+        "b00092",
+        "b00093",
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c003:unit-0009",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c003:a009"
+      ],
+      "blocks": [
+        "b00094",
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c003:unit-0010",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-be35ede0becb-c003:a010"
+      ],
+      "blocks": [
+        "b00096"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c003:unit-0011",
+      "kind": "method",
+      "atom_ids": [
+        "s-be35ede0becb-c003:a011",
+        "s-be35ede0becb-c003:a013"
+      ],
+      "blocks": [
+        "b00096",
+        "b00097",
+        "b00104",
+        "b00105"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c003:unit-0012",
+      "kind": "case",
+      "atom_ids": [
+        "s-be35ede0becb-c003:a012"
+      ],
+      "blocks": [
+        "b00097",
+        "b00098",
+        "b00099",
+        "b00100",
+        "b00101",
+        "b00102",
+        "b00103",
+        "b00104"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c003:unit-0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-be35ede0becb-c003:a014"
+      ],
+      "blocks": [
+        "b00106",
+        "b00107"
+      ]
+    },
+    {
+      "id": "s-be35ede0becb-c003:unit-0014",
+      "kind": "method",
+      "atom_ids": [
+        "s-be35ede0becb-c003:a015"
+      ],
+      "blocks": [
+        "b00108"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "日常亲子沟通无需提前写稿练习",
+      "atom_ids": [
+        "s-be35ede0becb-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-be35ede0becb",
+          "blocks": [
+            "b00036"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "八岁半男孩要求母亲先哄案例",
+      "atom_ids": [
+        "s-be35ede0becb-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-be35ede0becb",
+          "blocks": [
+            "b00042",
+            "b00043",
+            "b00044"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "天气冷时建议孩子多穿但不替他决定",
+      "atom_ids": [
+        "s-be35ede0becb-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-be35ede0becb",
+          "blocks": [
+            "b00051",
+            "b00052"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "孩子说新玩具很酷但表达不清的案例",
+      "atom_ids": [
+        "s-be35ede0becb-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-be35ede0becb",
+          "blocks": [
+            "b00061",
+            "b00062",
+            "b00063"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "学员案例"
+    },
+    {
+      "title": "晕车严重不代表感觉统合不良",
+      "atom_ids": [
+        "s-be35ede0becb-c002:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-be35ede0becb",
+          "blocks": [
+            "b00083"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "妈妈可以自行带孩子测评的疑问",
+      "atom_ids": [
+        "s-be35ede0becb-c002:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-be35ede0becb",
+          "blocks": [
+            "b00084"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "uncertain"
+    },
+    {
+      "title": "讲师被同行暗暗嘲讽后屏蔽并三年后反击的案例",
+      "atom_ids": [
+        "s-be35ede0becb-c002:v2-n006"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-be35ede0becb",
+          "blocks": [
+            "b00073",
+            "b00074",
+            "b00075"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "讲师个案"
+    },
+    {
+      "title": "对父亲立界限并讲后果",
+      "atom_ids": [
+        "s-be35ede0becb-c002:v2-n007"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-be35ede0becb",
+          "blocks": [
+            "b00041"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

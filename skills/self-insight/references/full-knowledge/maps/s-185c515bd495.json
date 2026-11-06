@@ -1,0 +1,1671 @@
+{
+  "concepts": [
+    {
+      "name": "学校选择与孩子喜好",
+      "definition": "选择学校时经济条件是前提，若经济允许应支持孩子选择喜欢的学校；孩子不喜欢学校可能导致上瘾。",
+      "atom_ids": [
+        "s-185c515bd495-c001:a002",
+        "s-185c515bd495-c001:a003",
+        "s-185c515bd495-c001:a004"
+      ]
+    },
+    {
+      "name": "兄弟姐妹冲突与赋能",
+      "definition": "孩子因兄弟姐妹到来感到失去力量或关注而痛恨对方；赋能姐姐用语言警告弟弟而非打骂，并确保孩子不因弟妹到来失去应有之物。",
+      "atom_ids": [
+        "s-185c515bd495-c001:a006",
+        "s-185c515bd495-c001:a007",
+        "s-185c515bd495-c001:a008",
+        "s-185c515bd495-c001:a010",
+        "s-185c515bd495-c001:r002",
+        "s-185c515bd495-c001:r003"
+      ]
+    },
+    {
+      "name": "性教育原则",
+      "definition": "根据年龄调整谈性内容；不遮眼亲密镜头；正常行为也需干预；家长反应要强烈以建立身体界限；妈妈与儿子谈性强调尊重女性。",
+      "atom_ids": [
+        "s-185c515bd495-c001:a012",
+        "s-185c515bd495-c001:a013",
+        "s-185c515bd495-c002:a010",
+        "s-185c515bd495-c002:a011",
+        "s-185c515bd495-c002:a012",
+        "s-185c515bd495-c002:a013",
+        "s-185c515bd495-c002:a014",
+        "s-185c515bd495-c002:a016",
+        "s-185c515bd495-c002:a017",
+        "s-185c515bd495-c002:a019",
+        "s-185c515bd495-c002:a020",
+        "s-185c515bd495-c002:a024",
+        "s-185c515bd495-c002:a033",
+        "s-185c515bd495-c002:a035",
+        "s-185c515bd495-c003:a001"
+      ]
+    },
+    {
+      "name": "上瘾判断标准",
+      "definition": "判断上瘾看能否停下来和是否有固定模式；偶尔过度不必大惊小怪；色情上瘾与性无关，与接纳和力量感有关。",
+      "atom_ids": [
+        "s-185c515bd495-c001:a014",
+        "s-185c515bd495-c001:a015",
+        "s-185c515bd495-c001:r005",
+        "s-185c515bd495-c002:a018",
+        "s-185c515bd495-c003:a006"
+      ]
+    },
+    {
+      "name": "手机监管与隐私边界",
+      "definition": "给孩子手机前明确监管权；11岁孩子不应有手机隐私；可查看微信、APP，但不看日记；查配偶手机与童年被查无关。",
+      "atom_ids": [
+        "s-185c515bd495-c001:a017",
+        "s-185c515bd495-c001:a018",
+        "s-185c515bd495-c001:a019",
+        "s-185c515bd495-c001:a021",
+        "s-185c515bd495-c001:r006",
+        "s-185c515bd495-c002:a001"
+      ]
+    },
+    {
+      "name": "儿童性行为干预",
+      "definition": "正常不代表不干预；引导替代行为；观察状态警惕性侵；青春期摸生殖器看频率。",
+      "atom_ids": [
+        "s-185c515bd495-c002:a015",
+        "s-185c515bd495-c002:a016",
+        "s-185c515bd495-c002:a017",
+        "s-185c515bd495-c002:a018",
+        "s-185c515bd495-c002:a020",
+        "s-185c515bd495-c002:a021"
+      ]
+    },
+    {
+      "name": "孩子暴力行为应对",
+      "definition": "孩子失控砸东西、伤害家人时，家长必须报警或寻求法律帮助，让孩子知道后果。",
+      "atom_ids": [
+        "s-185c515bd495-c002:a027",
+        "s-185c515bd495-c002:a028",
+        "s-185c515bd495-c002:a029",
+        "s-185c515bd495-c002:a030"
+      ]
+    },
+    {
+      "name": "留守儿童性教育",
+      "definition": "留守儿童情感闭塞，易接触色情视频，对性有羞耻感；老师需承认欣赏并引导。",
+      "atom_ids": [
+        "s-185c515bd495-c002:a022",
+        "s-185c515bd495-c002:a023",
+        "s-185c515bd495-c002:a024",
+        "s-185c515bd495-c002:a025",
+        "s-185c515bd495-c002:a026"
+      ]
+    },
+    {
+      "name": "家长自我修养",
+      "definition": "家长焦虑需反思源头；食物恐惧源于焦虑；家长需维护尊严。",
+      "atom_ids": [
+        "s-185c515bd495-c002:a006",
+        "s-185c515bd495-c002:a009",
+        "s-185c515bd495-c002:a030"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-185c515bd495-c001:a002",
+      "target": "s-185c515bd495-c001:a004",
+      "kind": "prerequisite",
+      "condition": "经济条件允许",
+      "reason": "源指出选择学校时经济条件是前提，经济允许才能支持孩子选择喜欢的学校；目标主张在条件允许时支持孩子选择，二者构成前提关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-185c515bd495-c001:a003",
+      "target": "s-185c515bd495-c001:a004",
+      "kind": "causes",
+      "condition": "孩子不喜欢学校",
+      "reason": "孩子不喜欢学校可能导致上瘾，因此家长应支持孩子选择喜欢的学校以避免上瘾。"
+    },
+    {
+      "source": "s-185c515bd495-c001:a006",
+      "target": "s-185c515bd495-c001:a007",
+      "kind": "supports",
+      "condition": "姐姐因失去力量感而愤怒",
+      "reason": "源提出赋能姐姐教她用语言警告弟弟；目标解释姐姐打骂源于失去力量感，并指出帮助姐姐拿回力量可冷静，源为目标的赋能方案提供支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-185c515bd495-c001:a010",
+      "target": "s-185c515bd495-c001:a006",
+      "kind": "supports",
+      "condition": "当孩子感到失去东西时",
+      "reason": "源指出孩子痛恨兄弟姐妹是因为感到失去东西；目标提出赋能姐姐应对弟弟抢东西，源为赋能干预提供原因依据。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型为 causes，不符合允许类型；改为 supports。"
+    },
+    {
+      "source": "s-185c515bd495-c001:a012",
+      "target": "s-185c515bd495-c001:a013",
+      "kind": "supports",
+      "condition": "根据年龄谈性",
+      "reason": "根据年龄谈性包括不遮眼亲密镜头，避免负面联想。"
+    },
+    {
+      "source": "s-185c515bd495-c001:a014",
+      "target": "s-185c515bd495-c001:r005",
+      "kind": "supports",
+      "condition": "判断上瘾",
+      "reason": "两者都提到判断上瘾的标准：能否停下来和是否有固定模式。"
+    },
+    {
+      "source": "s-185c515bd495-c001:a017",
+      "target": "s-185c515bd495-c001:a019",
+      "kind": "supports",
+      "condition": "给孩子手机前",
+      "reason": "明确监管权是11岁孩子不应有手机隐私的前提。"
+    },
+    {
+      "source": "s-185c515bd495-c001:a021",
+      "target": "s-185c515bd495-c001:a017",
+      "kind": "supports",
+      "condition": "手机监管范围",
+      "reason": "明确查看范围是监管权的一部分。"
+    },
+    {
+      "source": "s-185c515bd495-c002:a010",
+      "target": "s-185c515bd495-c002:a011",
+      "kind": "step_of",
+      "condition": "处理偷亲事件",
+      "reason": "a011是处理偷亲事件的具体步骤。"
+    },
+    {
+      "source": "s-185c515bd495-c002:a011",
+      "target": "s-185c515bd495-c002:a013",
+      "kind": "supports",
+      "condition": "立即处理",
+      "reason": "a013强调立即处理，与a011的步骤一致。"
+    },
+    {
+      "source": "s-185c515bd495-c002:a012",
+      "target": "s-185c515bd495-c002:a014",
+      "kind": "causes",
+      "condition": "家长反应不够激烈",
+      "reason": "家长反应不够激烈会导致孩子形成错误认知，长期影响严重。"
+    },
+    {
+      "source": "s-185c515bd495-c002:a016",
+      "target": "s-185c515bd495-c002:a017",
+      "kind": "supports",
+      "condition": "正常行为也需干预",
+      "reason": "正常不代表不干预，因此妈妈没有教育是不对的。"
+    },
+    {
+      "source": "s-185c515bd495-c002:a018",
+      "target": "s-185c515bd495-c001:r005",
+      "kind": "applies_to",
+      "condition": "青春期摸生殖器",
+      "reason": "青春期摸生殖器判断上瘾也使用能否停下来的标准。"
+    },
+    {
+      "source": "s-185c515bd495-c002:a020",
+      "target": "s-185c515bd495-c002:a017",
+      "kind": "supports",
+      "condition": "干预方法",
+      "reason": "引导替代行为是干预的具体方法。"
+    },
+    {
+      "source": "s-185c515bd495-c002:a021",
+      "target": "s-185c515bd495-c002:a015",
+      "kind": "contrasts",
+      "condition": "观察状态",
+      "reason": "正常好奇与性侵迹象状态不同，需观察区分。"
+    },
+    {
+      "source": "s-185c515bd495-c002:a022",
+      "target": "s-185c515bd495-c002:a023",
+      "kind": "causes",
+      "condition": "留守儿童情感闭塞",
+      "reason": "情感闭塞导致男生写色情内容欣赏老师。"
+    },
+    {
+      "source": "s-185c515bd495-c002:a023",
+      "target": "s-185c515bd495-c002:a024",
+      "kind": "supports",
+      "condition": "与男生谈性",
+      "reason": "理解情感闭塞后，沟通步骤包括承认欣赏。"
+    },
+    {
+      "source": "s-185c515bd495-c002:a027",
+      "target": "s-185c515bd495-c002:a028",
+      "kind": "supports",
+      "condition": "当孩子失控并有暴力行为时",
+      "reason": "源呈现学员孩子失控砸东西的案例；目标提出家长应让孩子承担后果、必要时报警或送医，源为应对建议提供情境依据。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型为 causes，改为 supports。"
+    },
+    {
+      "source": "s-185c515bd495-c002:a029",
+      "target": "s-185c515bd495-c002:a028",
+      "kind": "supports",
+      "condition": "当孩子被惯坏而无后果时",
+      "reason": "源指出孩子被惯坏是因为一直没有后果；目标主张用报警、限制等后果收住孩子，源为后果措施提供原理。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型为 causes，改为 supports。"
+    },
+    {
+      "source": "s-185c515bd495-c002:a035",
+      "target": "s-185c515bd495-c003:a001",
+      "kind": "supports",
+      "condition": "妈妈与儿子谈性",
+      "reason": "源提出妈妈站在女性角度引导儿子尊重女性；目标细化女性妈妈与青少年儿子谈性的方法和步骤，源支持目标的方法主张。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-185c515bd495-c003:a005",
+      "target": "s-185c515bd495-c003:a002",
+      "kind": "supports",
+      "condition": "建立正确决定能力",
+      "reason": "树立正确价值观有助于孩子做正确决定。"
+    },
+    {
+      "source": "s-185c515bd495-c003:a006",
+      "target": "s-185c515bd495-c001:r005",
+      "kind": "contrasts",
+      "condition": "色情上瘾",
+      "reason": "色情上瘾与性无关，与接纳和力量感有关，不同于一般上瘾判断。"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n001",
+      "target": "s-185c515bd495-c001:a004",
+      "kind": "complements",
+      "condition": "孩子有明确学校偏好且经济条件允许",
+      "reason": "source 中家长只说两所学校都不错、选哪个都支持，候选补充指出应支持孩子选择喜欢的学校并说服另一方家长，否则孩子独自承担选择压力过大。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:a004",
+      "target": "s-185c515bd495-c001:v2-n001",
+      "kind": "complements",
+      "condition": "孩子有明确学校偏好且经济条件允许",
+      "reason": "source 中家长只说两所学校都不错、选哪个都支持，候选补充指出应支持孩子选择喜欢的学校并说服另一方家长，否则孩子独自承担选择压力过大。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n001",
+      "target": "s-185c515bd495-c001:a002",
+      "kind": "complements",
+      "condition": "选择学校涉及经济因素",
+      "reason": "候选补充了选择学校的决策前提：经济条件是基础，若允许应让孩子选择喜欢的学校；source 中父亲因公立不花学费而偏好公立，正好缺少该框架。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:a002",
+      "target": "s-185c515bd495-c001:v2-n001",
+      "kind": "complements",
+      "condition": "选择学校涉及经济因素",
+      "reason": "候选补充了选择学校的决策前提：经济条件是基础，若允许应让孩子选择喜欢的学校；source 中父亲因公立不花学费而偏好公立，正好缺少该框架。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n001",
+      "target": "s-185c515bd495-c001:a003",
+      "kind": "association",
+      "condition": "孩子可能因学校选择压力导致上瘾",
+      "reason": "source 中孩子因择校压力大，候选指出若去了不喜欢的学校可能会继续上瘾，两者相关但 source 未明确孩子现有上瘾与学校不喜欢之间的因果，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:a003",
+      "target": "s-185c515bd495-c001:v2-n001",
+      "kind": "association",
+      "condition": "孩子可能因学校选择压力导致上瘾",
+      "reason": "source 中孩子因择校压力大，候选指出若去了不喜欢的学校可能会继续上瘾，两者相关但 source 未明确孩子现有上瘾与学校不喜欢之间的因果，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n002",
+      "target": "s-185c515bd495-c002:a002",
+      "kind": "association",
+      "condition": "两者均涉及11岁女儿手机使用且讲师未直接回答具体问题",
+      "reason": "source 是家长偷看微信发现游戏充值，a002 是家长询问频繁看手机是否成瘾；具体问题不同，仅主题相近，故为弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c002:a002",
+      "target": "s-185c515bd495-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者均涉及11岁女儿手机使用且讲师未直接回答具体问题",
+      "reason": "source 是家长偷看微信发现游戏充值，a002 是家长询问频繁看手机是否成瘾；具体问题不同，仅主题相近，故为弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n002",
+      "target": "s-185c515bd495-c001:a021",
+      "kind": "example_of",
+      "condition": "在讨论11岁孩子手机监管原则时",
+      "reason": "source 中家长查看女儿微信聊天记录，属于 a021 所述家长可以查看微信聊天记录的范围，因此 source 是该原则的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:a021",
+      "target": "s-185c515bd495-c001:v2-n002",
+      "kind": "has_example",
+      "condition": "在讨论11岁孩子手机监管原则时",
+      "reason": "source 中家长查看女儿微信聊天记录，属于 a021 所述家长可以查看微信聊天记录的范围，因此 source 是该原则的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n002",
+      "target": "s-185c515bd495-c001:r006",
+      "kind": "example_of",
+      "condition": "在讨论11岁孩子手机监管原则时",
+      "reason": "r006 明确家长可查看微信聊天记录、APP及APP内聊天内容；source 中家长偷看微信发现游戏充值，属于该监管范围，因此是例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:r006",
+      "target": "s-185c515bd495-c001:v2-n002",
+      "kind": "has_example",
+      "condition": "在讨论11岁孩子手机监管原则时",
+      "reason": "r006 明确家长可查看微信聊天记录、APP及APP内聊天内容；source 中家长偷看微信发现游戏充值，属于该监管范围，因此是例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n002",
+      "target": "s-185c515bd495-c001:a019",
+      "kind": "example_of",
+      "condition": "在11岁孩子不应有手机隐私的原则下",
+      "reason": "a019 指出11岁孩子不应有手机隐私，聊天记录必须监管；source 中家长查看女儿微信聊天记录，正是该原则的应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:a019",
+      "target": "s-185c515bd495-c001:v2-n002",
+      "kind": "has_example",
+      "condition": "在11岁孩子不应有手机隐私的原则下",
+      "reason": "a019 指出11岁孩子不应有手机隐私，聊天记录必须监管；source 中家长查看女儿微信聊天记录，正是该原则的应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n002",
+      "target": "s-185c515bd495-c001:v2-n005",
+      "kind": "association",
+      "condition": "两者均为11岁孩子手机使用问题",
+      "reason": "v2-n005 是学员询问频繁看手机是否上瘾，讲师未直接判断；source 是家长偷看微信发现游戏充值，讲师未直接回答，具体问题不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n005",
+      "target": "s-185c515bd495-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者均为11岁孩子手机使用问题",
+      "reason": "v2-n005 是学员询问频繁看手机是否上瘾，讲师未直接判断；source 是家长偷看微信发现游戏充值，讲师未直接回答，具体问题不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n003",
+      "target": "s-185c515bd495-c002:a003",
+      "kind": "association",
+      "condition": "毕业期求职等待场景",
+      "reason": "候选与 source 内容几乎一致，均表述讲师认为毕业期反复等待更好工作与成瘾无关，因无新增信息，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c002:a003",
+      "target": "s-185c515bd495-c001:v2-n003",
+      "kind": "association",
+      "condition": "毕业期求职等待场景",
+      "reason": "候选与 source 内容几乎一致，均表述讲师认为毕业期反复等待更好工作与成瘾无关，因无新增信息，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n003",
+      "target": "s-185c515bd495-c001:r005",
+      "kind": "association",
+      "condition": "判断是否上瘾的一般标准",
+      "reason": "source 断定该行为与上瘾无关，候选提供判断上瘾的标准（能否停下来、是否有固定模式），但 source 并未引用这些标准，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:r005",
+      "target": "s-185c515bd495-c001:v2-n003",
+      "kind": "association",
+      "condition": "判断是否上瘾的一般标准",
+      "reason": "source 断定该行为与上瘾无关，候选提供判断上瘾的标准（能否停下来、是否有固定模式），但 source 并未引用这些标准，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n004",
+      "target": "s-185c515bd495-c001:r004",
+      "kind": "association",
+      "condition": "当需要了解如何区分性好奇与性上瘾时，讲师推荐该讲座",
+      "reason": "source 提到讲师推荐性教育讲座，r004 详细说明讲座内容及适用性，但 source 未给出判断标准，仅间接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:r004",
+      "target": "s-185c515bd495-c001:v2-n004",
+      "kind": "association",
+      "condition": "当需要了解如何区分性好奇与性上瘾时，讲师推荐该讲座",
+      "reason": "source 提到讲师推荐性教育讲座，r004 详细说明讲座内容及适用性，但 source 未给出判断标准，仅间接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n004",
+      "target": "s-185c515bd495-c003:r002",
+      "kind": "association",
+      "condition": "同样涉及通过讲座获取谈性方法",
+      "reason": "source 推荐讲座，r002 强调短期无法完整回答需听讲座，两者均涉及讲座途径，但未直接补充判断标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c003:r002",
+      "target": "s-185c515bd495-c001:v2-n004",
+      "kind": "association",
+      "condition": "同样涉及通过讲座获取谈性方法",
+      "reason": "source 推荐讲座，r002 强调短期无法完整回答需听讲座，两者均涉及讲座途径，但未直接补充判断标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n004",
+      "target": "s-185c515bd495-c001:v2-n005",
+      "kind": "association",
+      "condition": "同为关于上瘾的未回答提问",
+      "reason": "两者都属于讲师未直接判断的上瘾问题，主题相近但行为不同，不确定是否存在判断共通点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n005",
+      "target": "s-185c515bd495-c001:v2-n004",
+      "kind": "association",
+      "condition": "同为关于上瘾的未回答提问",
+      "reason": "两者都属于讲师未直接判断的上瘾问题，主题相近但行为不同，不确定是否存在判断共通点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n005",
+      "target": "s-185c515bd495-c002:a002",
+      "kind": "complements",
+      "condition": "当描述同一案例时",
+      "reason": "candidate 补充了 source 缺失的细节，如女儿也同意解约，以及讲师让自行参考判断标准的具体表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c002:a002",
+      "target": "s-185c515bd495-c001:v2-n005",
+      "kind": "complements",
+      "condition": "当描述同一案例时",
+      "reason": "candidate 补充了 source 缺失的细节，如女儿也同意解约，以及讲师让自行参考判断标准的具体表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n005",
+      "target": "s-185c515bd495-c001:r005",
+      "kind": "complements",
+      "condition": "在判断 11 岁孩子频繁看手机是否上瘾时",
+      "reason": "candidate 提供了判断上瘾的标准（能否停下来、是否有固定模式），而 source 中讲师未直接给出这些标准，只让参考之前讲过的内容，因此补充了实质判断依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:r005",
+      "target": "s-185c515bd495-c001:v2-n005",
+      "kind": "complements",
+      "condition": "在判断 11 岁孩子频繁看手机是否上瘾时",
+      "reason": "candidate 提供了判断上瘾的标准（能否停下来、是否有固定模式），而 source 中讲师未直接给出这些标准，只让参考之前讲过的内容，因此补充了实质判断依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n006",
+      "target": "s-185c515bd495-c002:a004",
+      "kind": "association",
+      "condition": "当换学校后出现躯体反应时",
+      "reason": "source 提问换学校后是否出现躯体反应，a004 解释没有情绪韧性时仍会出现，是对该问题的可能解释，但讲师并未直接确认。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c002:a004",
+      "target": "s-185c515bd495-c001:v2-n006",
+      "kind": "association",
+      "condition": "当换学校后出现躯体反应时",
+      "reason": "source 提问换学校后是否出现躯体反应，a004 解释没有情绪韧性时仍会出现，是对该问题的可能解释，但讲师并未直接确认。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n006",
+      "target": "s-185c515bd495-c002:a005",
+      "kind": "association",
+      "condition": "讨论换学校后反应的具体条件",
+      "reason": "source 问换学校后反应，a005 提供喜欢学校情况下可能身体还好，但除非一直喜欢否则问题仍会出现，是相关补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c002:a005",
+      "target": "s-185c515bd495-c001:v2-n006",
+      "kind": "association",
+      "condition": "讨论换学校后反应的具体条件",
+      "reason": "source 问换学校后反应，a005 提供喜欢学校情况下可能身体还好，但除非一直喜欢否则问题仍会出现，是相关补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:v2-n006",
+      "target": "s-185c515bd495-c001:a003",
+      "kind": "association",
+      "condition": "涉及孩子不喜欢学校导致的心理或行为后果",
+      "reason": "source 关于换校后躯体反应，a003 指出不喜欢学校可能导致上瘾，两者都涉及学校适应不良，但具体后果不同，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-185c515bd495-c001:a003",
+      "target": "s-185c515bd495-c001:v2-n006",
+      "kind": "association",
+      "condition": "涉及孩子不喜欢学校导致的心理或行为后果",
+      "reason": "source 关于换校后躯体反应，a003 指出不喜欢学校可能导致上瘾，两者都涉及学校适应不良，但具体后果不同，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "依赖与失控",
+      "when": "孩子不喜欢学校可能导致上瘾，因此家长应支持孩子选择喜欢的学校（界限模块）以避免上瘾（依赖与失控模块）。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-185c515bd495-c001:a002",
+        "s-185c515bd495-c001:a003",
+        "s-185c515bd495-c001:a004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-185c515bd495-c001:a004",
+          "limits": [
+            "经济条件不允许时，帮助孩子理解家庭情况"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "赋能姐姐应对弟弟抢东西（界限模块）基于理解姐姐失去力量感的情绪（理解情绪模块）。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-185c515bd495-c001:a006",
+        "s-185c515bd495-c001:a007",
+        "s-185c515bd495-c001:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "依赖与失控",
+      "when": "手机监管（界限模块）预防孩子网络成瘾（依赖与失控模块）。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-185c515bd495-c001:a017",
+        "s-185c515bd495-c001:a019",
+        "s-185c515bd495-c001:a021"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "根据年龄调整性教育内容（阶段与角色模块）指导具体界限设定（界限模块）。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-185c515bd495-c001:a012",
+        "s-185c515bd495-c002:a019"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-185c515bd495-c001:a021",
+        "s-185c515bd495-c001:r006",
+        "s-185c515bd495-c002:a001"
+      ],
+      "reason": "内容完全一致：家长可查看手机微信、APP，但不看日记和备忘录。"
+    },
+    {
+      "atom_ids": [
+        "s-185c515bd495-c002:a011"
+      ],
+      "reason": "内容完全一致：处理偷亲事件的步骤。"
+    },
+    {
+      "atom_ids": [
+        "s-185c515bd495-c002:a013"
+      ],
+      "reason": "内容完全一致：立即处理偷亲事件。"
+    },
+    {
+      "atom_ids": [
+        "s-185c515bd495-c002:a028"
+      ],
+      "reason": "内容完全一致：应对孩子暴力行为的建议。"
+    },
+    {
+      "atom_ids": [
+        "s-185c515bd495-c002:a035",
+        "s-185c515bd495-c003:a001"
+      ],
+      "reason": "内容完全一致：妈妈与儿子谈性的角度。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-185c515bd495-c001:a018",
+        "s-185c515bd495-c001:a019"
+      ],
+      "description": "a018认为查配偶手机与童年被查无关，而a019强调11岁孩子不应有手机隐私，两者可能隐含对隐私的不同态度，但未直接矛盾。",
+      "needed_evidence": "需要明确童年手机监管对成年后隐私观念的影响。"
+    },
+    {
+      "atom_ids": [
+        "s-185c515bd495-c002:a016",
+        "s-185c515bd495-c002:a017"
+      ],
+      "description": "a016说正常不代表不干预，a017说妈妈没有教育是不对的，但未明确干预程度，可能引起过度干预的担忧。",
+      "needed_evidence": "需要明确正常行为干预的界限和具体方法。"
+    },
+    {
+      "atom_ids": [
+        "s-185c515bd495-c002:a021",
+        "s-185c515bd495-c002:a018"
+      ],
+      "description": "a021提到性侵迹象判断基于经验，a018提到青春期摸生殖器频率判断，两者标准不同，可能造成混淆。",
+      "needed_evidence": "需要专业标准区分正常探索与性侵迹象。"
+    }
+  ],
+  "path": [
+    {
+      "name": "处理孩子被偷亲事件",
+      "steps": [
+        {
+          "action": "告诉孩子这是不OK的",
+          "atom_ids": [
+            "s-185c515bd495-c002:a011"
+          ],
+          "condition": "孩子被偷亲后"
+        },
+        {
+          "action": "到学校找到男同学",
+          "atom_ids": [
+            "s-185c515bd495-c002:a011"
+          ],
+          "condition": "第二天"
+        },
+        {
+          "action": "当着全班男同学的面告诉女儿和男生不可以偷亲",
+          "atom_ids": [
+            "s-185c515bd495-c002:a011"
+          ],
+          "condition": "在学校"
+        }
+      ]
+    },
+    {
+      "name": "应对孩子暴力行为",
+      "steps": [
+        {
+          "action": "让孩子知道行为有后果",
+          "atom_ids": [
+            "s-185c515bd495-c002:a028"
+          ],
+          "condition": "孩子砸东西或伤害家人"
+        },
+        {
+          "action": "报警",
+          "atom_ids": [
+            "s-185c515bd495-c002:a028"
+          ],
+          "condition": "如果砸东西或伤害家人"
+        },
+        {
+          "action": "寻求法律帮助",
+          "atom_ids": [
+            "s-185c515bd495-c002:a028"
+          ],
+          "condition": "如果无法控制孩子"
+        }
+      ]
+    },
+    {
+      "name": "赋能姐姐应对弟弟抢东西",
+      "steps": [
+        {
+          "action": "教姐姐用语言警告弟弟",
+          "atom_ids": [
+            "s-185c515bd495-c001:a006",
+            "s-185c515bd495-c001:r002"
+          ],
+          "condition": "姐姐年龄较大但仍是孩子"
+        },
+        {
+          "action": "让姐姐知道如何表达愤怒",
+          "atom_ids": [
+            "s-185c515bd495-c001:a006",
+            "s-185c515bd495-c001:r002"
+          ],
+          "condition": "姐姐感到愤怒时"
+        },
+        {
+          "action": "引导弟弟用正确方式请求",
+          "atom_ids": [
+            "s-185c515bd495-c001:a006",
+            "s-185c515bd495-c001:r002"
+          ],
+          "condition": "弟弟想要姐姐的东西时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "bfd766774424f6483d3c76cddb442d046f468cb29d2f800c41ebb864d4063925",
+  "recovered_from_response": "s-185c515bd495-relations-1793880817764854400.json",
+  "point_units": [
+    {
+      "id": "s-185c515bd495-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c001:a001"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c001:a002"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c001:a003"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-185c515bd495-c001:a004",
+        "s-185c515bd495-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-185c515bd495-c001:a005"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c001:r001"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-185c515bd495-c001:a006"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-185c515bd495-c001:a007"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c001:a008"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-185c515bd495-c001:a009"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-185c515bd495-c001:a010"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c001:a011"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-185c515bd495-c001:a012"
+      ],
+      "blocks": [
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-185c515bd495-c001:a013"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-185c515bd495-c001:r004"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-185c515bd495-c001:a014"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-185c515bd495-c001:r005"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u018",
+      "kind": "case",
+      "atom_ids": [
+        "s-185c515bd495-c001:a015"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-185c515bd495-c001:a016"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-185c515bd495-c001:a017"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034",
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u021",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-185c515bd495-c001:a018"
+      ],
+      "blocks": [
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c001:a019"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u023",
+      "kind": "case",
+      "atom_ids": [
+        "s-185c515bd495-c001:a020"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u024",
+      "kind": "method",
+      "atom_ids": [
+        "s-185c515bd495-c001:a021"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u025",
+      "kind": "case",
+      "atom_ids": [
+        "s-185c515bd495-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u026",
+      "kind": "question",
+      "atom_ids": [
+        "s-185c515bd495-c001:v2-n004"
+      ],
+      "blocks": [
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u027",
+      "kind": "question",
+      "atom_ids": [
+        "s-185c515bd495-c001:v2-n005"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u028",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-185c515bd495-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c001:u029",
+      "kind": "question",
+      "atom_ids": [
+        "s-185c515bd495-c001:v2-n006"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0001",
+      "kind": "case",
+      "atom_ids": [
+        "s-185c515bd495-c002:a002"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a003"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a004"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a005"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0005",
+      "kind": "case",
+      "atom_ids": [
+        "s-185c515bd495-c002:a006"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a007"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a008"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0008",
+      "kind": "case",
+      "atom_ids": [
+        "s-185c515bd495-c002:a009"
+      ],
+      "blocks": [
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0009",
+      "kind": "case",
+      "atom_ids": [
+        "s-185c515bd495-c002:a010"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a011"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a012"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a013"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a014"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0014",
+      "kind": "case",
+      "atom_ids": [
+        "s-185c515bd495-c002:a015"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a016"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a017"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a018"
+      ],
+      "blocks": [
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a019"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a020"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a021"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0021",
+      "kind": "case",
+      "atom_ids": [
+        "s-185c515bd495-c002:a022"
+      ],
+      "blocks": [
+        "b00068",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a023"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a024"
+      ],
+      "blocks": [
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a025"
+      ],
+      "blocks": [
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a026"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0026",
+      "kind": "case",
+      "atom_ids": [
+        "s-185c515bd495-c002:a027"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a028"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a029"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a030"
+      ],
+      "blocks": [
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0030",
+      "kind": "case",
+      "atom_ids": [
+        "s-185c515bd495-c002:a031"
+      ],
+      "blocks": [
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0031",
+      "kind": "case",
+      "atom_ids": [
+        "s-185c515bd495-c002:a032"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0032",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a033"
+      ],
+      "blocks": [
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0033",
+      "kind": "case",
+      "atom_ids": [
+        "s-185c515bd495-c002:a034"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c002:u0034",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c002:a035"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c003:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c003:a001"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c003:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c003:a002"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c003:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c003:a003"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c003:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c003:a004"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c003:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c003:a005"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c003:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c003:a006"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c003:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c003:a007"
+      ],
+      "blocks": [
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c003:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c003:r001"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-185c515bd495-c003:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-185c515bd495-c003:r002"
+      ],
+      "blocks": [
+        "b00090"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "家长孩子择校压力案例（公立与私立选择）",
+      "atom_ids": [
+        "s-185c515bd495-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-185c515bd495",
+          "blocks": [
+            "b00003",
+            "b00004"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "家长偷看女儿微信发现游戏充值案例",
+      "atom_ids": [
+        "s-185c515bd495-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-185c515bd495",
+          "blocks": [
+            "b00032",
+            "b00033"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "毕业期反复等待更好工作与上瘾无关",
+      "atom_ids": [
+        "s-185c515bd495-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-185c515bd495",
+          "blocks": [
+            "b00044"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "如何区分性好奇与性上瘾（讲师未回答）",
+      "atom_ids": [
+        "s-185c515bd495-c001:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-185c515bd495",
+          "blocks": [
+            "b00021"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "question"
+    },
+    {
+      "title": "11岁孩子频繁看手机是否上瘾（讲师未直接判断）",
+      "atom_ids": [
+        "s-185c515bd495-c001:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-185c515bd495",
+          "blocks": [
+            "b00043"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "question"
+    },
+    {
+      "title": "换学校后是否还会出现躯体反应（讲师未回答）",
+      "atom_ids": [
+        "s-185c515bd495-c001:v2-n006"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-185c515bd495",
+          "blocks": [
+            "b00044"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "question"
+    }
+  ]
+}

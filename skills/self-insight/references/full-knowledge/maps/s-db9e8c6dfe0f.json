@@ -1,0 +1,1369 @@
+{
+  "concepts": [
+    {
+      "name": "后果",
+      "definition": "后果是事先告知的、与行为有直接因果关系的自然结果，必须简单易懂、可执行且合理。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a001",
+        "s-db9e8c6dfe0f-c001:a002",
+        "s-db9e8c6dfe0f-c001:a003",
+        "s-db9e8c6dfe0f-c001:a017",
+        "s-db9e8c6dfe0f-c002:a001",
+        "s-db9e8c6dfe0f-c002:a018",
+        "s-db9e8c6dfe0f-c002:r001"
+      ]
+    },
+    {
+      "name": "惩罚",
+      "definition": "惩罚是未提前告知的、带有情绪的行为，与后果的区别在于是否事先告知和有无因果关系。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a004",
+        "s-db9e8c6dfe0f-c001:a017",
+        "s-db9e8c6dfe0f-c002:a001",
+        "s-db9e8c6dfe0f-c002:r001"
+      ]
+    },
+    {
+      "name": "界限",
+      "definition": "界限是设定行为标准并配套后果，需明确定义、可执行，且与行为有因果关系。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a008",
+        "s-db9e8c6dfe0f-c001:a009",
+        "s-db9e8c6dfe0f-c001:a012",
+        "s-db9e8c6dfe0f-c002:a003",
+        "s-db9e8c6dfe0f-c002:a004",
+        "s-db9e8c6dfe0f-c002:a008",
+        "s-db9e8c6dfe0f-c002:a014",
+        "s-db9e8c6dfe0f-c003:a003",
+        "s-db9e8c6dfe0f-c003:a005"
+      ]
+    },
+    {
+      "name": "恩典",
+      "definition": "恩典是额外给予的、本不在界限内的东西，不是义务，需在对方知错愿改或表现好时给予。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a006",
+        "s-db9e8c6dfe0f-c001:a016",
+        "s-db9e8c6dfe0f-c002:a016"
+      ]
+    },
+    {
+      "name": "自然后果",
+      "definition": "自然后果是行为自然导致的结果，必须与行为有直接因果关系，且基于明确事实而非模糊状态。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a015",
+        "s-db9e8c6dfe0f-c002:a017",
+        "s-db9e8c6dfe0f-c002:a021",
+        "s-db9e8c6dfe0f-c003:a001",
+        "s-db9e8c6dfe0f-c003:a002",
+        "s-db9e8c6dfe0f-c003:a004"
+      ]
+    },
+    {
+      "name": "人为后果",
+      "definition": "人为后果是父母设定的规则，如要求道歉，与自然后果相对。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a015",
+        "s-db9e8c6dfe0f-c003:r001"
+      ]
+    },
+    {
+      "name": "补偿计划",
+      "definition": "补偿计划是让对方通过补偿在事情上进步，适用于真心改变且努力进步的人，操作较麻烦。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:a007",
+        "s-db9e8c6dfe0f-c003:a008",
+        "s-db9e8c6dfe0f-c003:r003",
+        "s-db9e8c6dfe0f-c003:r004"
+      ]
+    },
+    {
+      "name": "亲子关系",
+      "definition": "亲子关系不是朋友关系，父母的主要责任是教养孩子，成年后才可成为朋友。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a012"
+      ]
+    },
+    {
+      "name": "伤害",
+      "definition": "伤害不是指孩子被管教后哭泣或害怕，而是指父母因害怕伤害关系而不履行教养责任。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a013"
+      ]
+    },
+    {
+      "name": "父母角色",
+      "definition": "父母不应做保姆或老板，而应在管教与爱之间平衡。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a015"
+      ]
+    },
+    {
+      "name": "被动后果",
+      "definition": "被动后果如不接电话，只有在非常肯定对方一定会主动联系时才有效。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a009"
+      ]
+    },
+    {
+      "name": "主动后果",
+      "definition": "主动后果是当被动后果不可靠时，改为自己主动施加的后果，并附加要求。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a011"
+      ]
+    },
+    {
+      "name": "立界限步骤",
+      "definition": "立界限的步骤是观察行为、提出明确要求、给出后果。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a009",
+        "s-db9e8c6dfe0f-c002:a004"
+      ]
+    },
+    {
+      "name": "大脑训练",
+      "definition": "通过立界限训练孩子大脑听指令，只说一次，要求孩子抬头看着妈妈。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a014",
+        "s-db9e8c6dfe0f-c001:r001"
+      ]
+    },
+    {
+      "name": "沟通漏洞",
+      "definition": "孩子钻漏洞时，若因沟通漏洞确实没搞清楚，不应执行后果；若漏洞明显，则仍执行。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a010"
+      ]
+    },
+    {
+      "name": "年龄与漏洞",
+      "definition": "年龄小的孩子立界限易有漏洞，主要是教；年龄大的孩子钻漏洞需更明确界限。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a011"
+      ]
+    },
+    {
+      "name": "规矩与后果",
+      "definition": "立规矩是设定行为标准，立后果是违反规矩后的惩罚，两者相辅相成。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a012"
+      ]
+    },
+    {
+      "name": "钻漏洞应对",
+      "definition": "应对孩子钻漏洞的方法：立刻再立界限或赋能孩子离开现场。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a013"
+      ]
+    },
+    {
+      "name": "特例与普遍原则",
+      "definition": "父亲因爱护母亲而打孩子是特例，普遍原则是未告知后果不能施加后果。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a007"
+      ]
+    },
+    {
+      "name": "极端情况",
+      "definition": "在极端情况下如孩子上瘾，父母不能民主，应坚持界限。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:a009",
+        "s-db9e8c6dfe0f-c003:a010",
+        "s-db9e8c6dfe0f-c003:r005"
+      ]
+    },
+    {
+      "name": "过程与终局",
+      "definition": "父母应关注终局而非过程，过程糟糕但终局好应坚持。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:a011",
+        "s-db9e8c6dfe0f-c003:r006"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-db9e8c6dfe0f-c001:a009",
+      "target": "s-db9e8c6dfe0f-c001:a008",
+      "kind": "supports",
+      "condition": "立界限时后果必须与界限同时给出",
+      "reason": "a009说明立界限步骤包括给出后果，a008说明只给后果不立界限导致孩子无法联系因果，因此立界限步骤支持了后果与界限同时给出的必要性。"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c001:a002",
+      "target": "s-db9e8c6dfe0f-c001:a005",
+      "kind": "example_of",
+      "condition": "不刷牙与甜食的因果关系",
+      "reason": "a002提出后果需与行为有直接因果关系，a005是不刷牙与甜食的因果关系实例，因此a005是a002的例证。"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c001:a003",
+      "target": "s-db9e8c6dfe0f-c002:a018",
+      "kind": "supports",
+      "condition": "后果必须可执行",
+      "reason": "a003强调后果必须可执行且合理，a018进一步说明不可执行的后果不要提，两者观点一致，a003支持a018。"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c001:a017",
+      "target": "s-db9e8c6dfe0f-c002:a001",
+      "kind": "supports",
+      "condition": "后果与惩罚的区别",
+      "reason": "a017和a002:a001都定义后果与惩罚的区别，内容一致，相互支持。"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c001:a016",
+      "target": "s-db9e8c6dfe0f-c002:a016",
+      "kind": "association",
+      "condition": "",
+      "reason": "两个关于给予恩典的条件的命题互补但不完全一致，都描述给予恩典需考虑对方表现或意愿，但不存在一个支持另一个的关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为supports，修订为关联"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c001:a015",
+      "target": "s-db9e8c6dfe0f-c002:a017",
+      "kind": "supports",
+      "condition": "自然后果的定义",
+      "reason": "a015和a002:a017都定义自然后果，强调因果关系，内容一致。"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c002:a003",
+      "target": "s-db9e8c6dfe0f-c002:a004",
+      "kind": "step_of",
+      "condition": "在必要时机立界限",
+      "reason": "a003说明矛盾爆发时是必要时机，a004给出在该时机立界限的具体方法，因此a004是a003的后续步骤。"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c002:a005",
+      "target": "s-db9e8c6dfe0f-c002:a006",
+      "kind": "supports",
+      "condition": "未告知后果不能施加后果",
+      "reason": "“未告知后果时不能施加后果”这一原则为该案例中父母不能突然施加后果的结论提供了依据，案例是这一原则的应用。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向为概念到案例，example_of 不成立，改为 supports。"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c002:a009",
+      "target": "s-db9e8c6dfe0f-c002:a011",
+      "kind": "contrasts",
+      "condition": "被动后果不可靠时改为主动后果",
+      "reason": "a009说明被动后果的适用条件，a011说明被动后果不可靠时改为主动后果，两者形成对比。"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c002:a012",
+      "target": "s-db9e8c6dfe0f-c002:a015",
+      "kind": "supports",
+      "condition": "父母角色定位",
+      "reason": "a012说明亲子关系不是朋友关系，父母主要责任是教养，a015进一步说明父母不应做保姆或老板，两者共同支持父母角色定位。"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c002:a013",
+      "target": "s-db9e8c6dfe0f-c002:a014",
+      "kind": "supports",
+      "condition": "伤害与界限的关系",
+      "reason": "“伤害的定义”将真正伤害界定为父母因害怕伤害关系而不履行教养责任，这直接支持“爱、管教与界限的关系”中关于父母不敢管教才是真正伤害的主张。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c002:a020",
+      "target": "s-db9e8c6dfe0f-c003:a001",
+      "kind": "supports",
+      "condition": "自然后果“惹怒对方”过于模糊",
+      "reason": "a020案例中“惹怒”未定义导致界限不合适，a003:a001进一步说明“惹怒”模糊不适合作为自然后果，两者观点一致。"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c002:a021",
+      "target": "s-db9e8c6dfe0f-c003:a002",
+      "kind": "supports",
+      "condition": "自然后果应基于明确事实",
+      "reason": "a021强调自然后果必须合理，基于明确行为，a003:a002进一步说明应基于明确事实而非模糊状态，两者一致。"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c003:a005",
+      "target": "s-db9e8c6dfe0f-c003:a006",
+      "kind": "step_of",
+      "condition": "执行离婚界限",
+      "reason": "a005说明界限后果必须可执行，a006给出执行离婚界限的具体步骤，因此a006是a005的后续步骤。"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c003:a007",
+      "target": "s-db9e8c6dfe0f-c003:r004",
+      "kind": "supports",
+      "condition": "补偿计划的原则",
+      "reason": "a007提出补偿计划的两个原则，r004进一步说明补偿计划适用于真心改变且努力进步的人，两者一致。"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c003:a009",
+      "target": "s-db9e8c6dfe0f-c003:a010",
+      "kind": "supports",
+      "condition": "极端情况下不能民主",
+      "reason": "a009说明孩子上瘾时沟通界限后果可能无效，a010进一步说明父母在极端情况下不能民主，两者相互支持。"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c003:a011",
+      "target": "s-db9e8c6dfe0f-c003:r006",
+      "kind": "supports",
+      "condition": "关注终局而非过程",
+      "reason": "“过程糟糕但终局好，应坚持界限”是“父母应关注终局而非过程”这一原则的具体体现，故支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c001:v2-n001",
+      "target": "s-db9e8c6dfe0f-c001:r002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 是 source 中早餐替代品原则的具体案例，补充了情境细节：孩子平时吃饭好，某天因头天晚上小插曲早上没吃好，提出在车上吃早餐，家长允许但最喜欢的汤不能带上车，得到替代品。这具体化了 source 的‘替代品原则’并说明恩典不是义务。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c001:r002",
+      "target": "s-db9e8c6dfe0f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 是 source 中早餐替代品原则的具体案例，补充了情境细节：孩子平时吃饭好，某天因头天晚上小插曲早上没吃好，提出在车上吃早餐，家长允许但最喜欢的汤不能带上车，得到替代品。这具体化了 source 的‘替代品原则’并说明恩典不是义务。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c001:v2-n001",
+      "target": "s-db9e8c6dfe0f-c001:a016",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 补充了给予恩典的具体条件：恩典不是义务、不能每次都给，要看孩子是否平时表现好偶尔犯错、或已经很努力在改但不小心犯错；若孩子又哭又闹从不配合则不给。这些条件帮助判断何时适用 source 的替代品原则，避免依赖。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c001:a016",
+      "target": "s-db9e8c6dfe0f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 补充了给予恩典的具体条件：恩典不是义务、不能每次都给，要看孩子是否平时表现好偶尔犯错、或已经很努力在改但不小心犯错；若孩子又哭又闹从不配合则不给。这些条件帮助判断何时适用 source 的替代品原则，避免依赖。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c001:v2-n001",
+      "target": "s-db9e8c6dfe0f-c001:a006",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 补充了恩典与食物的区别：鳕鱼肠本身属于食物，不算恩典；恩典是额外给予本不在界限内的东西。这界定了 source 中‘替代品’的性质——必须是额外恩典而非基本食物，防止误用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c001:a006",
+      "target": "s-db9e8c6dfe0f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 补充了恩典与食物的区别：鳕鱼肠本身属于食物，不算恩典；恩典是额外给予本不在界限内的东西。这界定了 source 中‘替代品’的性质——必须是额外恩典而非基本食物，防止误用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c001:v2-n001",
+      "target": "s-db9e8c6dfe0f-c002:a016",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 从另一角度补充给予恩典的条件：对方必须知道自己错了、愿意改变；若一贯不配合或刚立界限仍不配合则不给。这细化了 source 所述避免形成依赖的适用情境，与 source 共同构成恩典原则的完整条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c002:a016",
+      "target": "s-db9e8c6dfe0f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 从另一角度补充给予恩典的条件：对方必须知道自己错了、愿意改变；若一贯不配合或刚立界限仍不配合则不给。这细化了 source 所述避免形成依赖的适用情境，与 source 共同构成恩典原则的完整条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c003:v2-n001",
+      "target": "s-db9e8c6dfe0f-c003:r002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 与 source 基本一致，但补充了具体说明：界限一旦设立，在父母改变后果之前不能反悔；并举例‘惹怒姐姐后果自负’的界限，当孩子惹怒姐姐被打后，父母不能要求姐姐道歉，因为姐姐行为符合界限设定的自然后果。这强化了 source 的不可反悔原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c003:r002",
+      "target": "s-db9e8c6dfe0f-c003:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 与 source 基本一致，但补充了具体说明：界限一旦设立，在父母改变后果之前不能反悔；并举例‘惹怒姐姐后果自负’的界限，当孩子惹怒姐姐被打后，父母不能要求姐姐道歉，因为姐姐行为符合界限设定的自然后果。这强化了 source 的不可反悔原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c003:v2-n001",
+      "target": "s-db9e8c6dfe0f-c002:a018",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 补充了立界限前应考虑后果可执行性：如果后果自己做不到就不要提出。这作为预防性建议，帮助避免因后果不可执行导致反悔，与 source 的不可反悔原则形成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c002:a018",
+      "target": "s-db9e8c6dfe0f-c003:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 补充了立界限前应考虑后果可执行性：如果后果自己做不到就不要提出。这作为预防性建议，帮助避免因后果不可执行导致反悔，与 source 的不可反悔原则形成互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c003:v2-n001",
+      "target": "s-db9e8c6dfe0f-c002:a020",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 是具体案例，展示了家长立‘惹怒姐姐后后果自负’界限后，孩子惹怒姐姐被打，家长要求姐姐道歉但姐姐拒绝；讲师认为家长不能勉强姐姐道歉。这具体说明了 source 不可反悔原则在实际情境中的应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c002:a020",
+      "target": "s-db9e8c6dfe0f-c003:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 是具体案例，展示了家长立‘惹怒姐姐后后果自负’界限后，孩子惹怒姐姐被打，家长要求姐姐道歉但姐姐拒绝；讲师认为家长不能勉强姐姐道歉。这具体说明了 source 不可反悔原则在实际情境中的应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c003:v2-n001",
+      "target": "s-db9e8c6dfe0f-c003:a005",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 同样补充了后果必须可执行，否则不要立，举例‘累计十次就离婚’如果做不到就不要说。这进一步强调了立界限前对后果可行性的要求，与 source 的不可反悔形成补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c003:a005",
+      "target": "s-db9e8c6dfe0f-c003:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "candidate 同样补充了后果必须可执行，否则不要立，举例‘累计十次就离婚’如果做不到就不要说。这进一步强调了立界限前对后果可行性的要求，与 source 的不可反悔形成补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c003:v2-n001",
+      "target": "s-db9e8c6dfe0f-c003:a001",
+      "kind": "complements",
+      "condition": "在涉及‘惹怒对方’作为自然后果触发条件的界限讨论中",
+      "reason": "candidate 补充说明了‘惹怒对方’作为自然后果的触发条件不合适，因为‘惹怒’难以界定，若因此赋予打人权利会传递错误信息。这补充了 source 案例中界限可能存在的问题，使不可反悔原则在界限本身不清晰时仍需谨慎。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-db9e8c6dfe0f-c003:a001",
+      "target": "s-db9e8c6dfe0f-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在涉及‘惹怒对方’作为自然后果触发条件的界限讨论中",
+      "reason": "candidate 补充说明了‘惹怒对方’作为自然后果的触发条件不合适，因为‘惹怒’难以界定，若因此赋予打人权利会传递错误信息。这补充了 source 案例中界限可能存在的问题，使不可反悔原则在界限本身不清晰时仍需谨慎。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "阶段与角色",
+      "when": "父母在立界限时需明确自己的角色，避免做保姆或老板，平衡管教与爱。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a012",
+        "s-db9e8c6dfe0f-c002:a015"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a017",
+        "s-db9e8c6dfe0f-c002:a001",
+        "s-db9e8c6dfe0f-c002:r001"
+      ],
+      "reason": "三者内容完全一致，均定义后果与惩罚的区别，无年龄、角色等差异。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a014",
+        "s-db9e8c6dfe0f-c001:r001"
+      ],
+      "reason": "两者内容完全一致，均描述训练孩子大脑听指令的具体做法。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a003"
+      ],
+      "reason": "两者内容完全一致，均描述立界限的时机。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a004"
+      ],
+      "reason": "两者内容完全一致，均描述在必要时机立界限的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a005"
+      ],
+      "reason": "两者内容完全一致，均说明未告知后果时不能施加后果。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a006"
+      ],
+      "reason": "两者内容完全一致，均为孩子打同学未告知后果的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a007"
+      ],
+      "reason": "两者内容完全一致，均讨论特例与普遍原则。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a008"
+      ],
+      "reason": "两者内容完全一致，均说明定义界限中的模糊词汇。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a009"
+      ],
+      "reason": "两者内容完全一致，均说明被动后果的适用条件。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a010"
+      ],
+      "reason": "两者内容完全一致，均为与母亲立被动界限的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a011"
+      ],
+      "reason": "两者内容完全一致，均说明将被动后果改为主动后果。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a012"
+      ],
+      "reason": "两者内容完全一致，均说明亲子关系的本质。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a013"
+      ],
+      "reason": "两者内容完全一致，均定义伤害。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a014"
+      ],
+      "reason": "两者内容完全一致，均说明爱、管教与界限的关系。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a015"
+      ],
+      "reason": "两者内容完全一致，均说明父母角色与保姆、老板的区别。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a016"
+      ],
+      "reason": "两者内容完全一致，均说明给予恩典的条件。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a017"
+      ],
+      "reason": "两者内容完全一致，均定义自然后果。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a018"
+      ],
+      "reason": "两者内容完全一致，均说明不可执行的后果不要提。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a019",
+        "s-db9e8c6dfe0f-c002:r019"
+      ],
+      "reason": "两者内容完全一致，均为孩子尖叫后果不可执行的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a020"
+      ],
+      "reason": "两者内容完全一致，均为孩子惹怒姐姐后被打的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a021"
+      ],
+      "reason": "两者内容完全一致，均说明自然后果的合理性。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a022"
+      ],
+      "reason": "两者内容完全一致，均为关于后果类型选择的疑问。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:a011",
+        "s-db9e8c6dfe0f-c003:r006"
+      ],
+      "reason": "两者内容完全一致，均强调父母应关注终局而非过程。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a004",
+        "s-db9e8c6dfe0f-c001:a017"
+      ],
+      "description": "a004认为惩罚和后果有相似之处，不必担心给错；a017则严格区分后果与惩罚，强调后果需提前告知且有因果关系。两者对惩罚与后果关系的表述存在张力。",
+      "needed_evidence": "需要明确在何种情境下惩罚与后果的相似性可接受，以及严格区分的适用条件。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a016",
+        "s-db9e8c6dfe0f-c002:a016"
+      ],
+      "description": "a016给予恩典的条件是孩子平时表现好或努力改；a002:a016给予恩典的前提是对方知道自己错了并愿意改变。两者条件不完全一致，可能存在适用范围差异。",
+      "needed_evidence": "需要明确恩典给予条件是否因对象（孩子 vs 成人）或情境不同而有所区别。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a007",
+        "s-db9e8c6dfe0f-c002:a005"
+      ],
+      "description": "a007提到父亲因爱护母亲而打孩子可能让孩子感到安全的特例，但a005坚持未告知后果不能施加后果的普遍原则。特例与普遍原则之间存在张力。",
+      "needed_evidence": "需要证据支持特例是否真的无害，以及普遍原则是否应绝对化。"
+    },
+    {
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:a004",
+        "s-db9e8c6dfe0f-c002:a021"
+      ],
+      "description": "a004中父母对孩子说“如果先动手打人，对方怎么打都不管；如果对方先打，就使劲打回去”，这被视为自然后果；但a021强调自然后果必须合理，基于明确行为。a004的立场可能涉及暴力应对，与a021的合理性要求存在张力。",
+      "needed_evidence": "需要评估暴力应对作为自然后果的合理性和安全性，以及是否适合所有家庭。"
+    }
+  ],
+  "path": [
+    {
+      "name": "立界限",
+      "steps": [
+        {
+          "action": "观察孩子的行为",
+          "atom_ids": [
+            "s-db9e8c6dfe0f-c001:a009",
+            "s-db9e8c6dfe0f-c002:a004"
+          ],
+          "condition": "无特殊条件"
+        },
+        {
+          "action": "提出明确要求",
+          "atom_ids": [
+            "s-db9e8c6dfe0f-c001:a009",
+            "s-db9e8c6dfe0f-c002:a004"
+          ],
+          "condition": "要求需明确定义，避免模糊词汇"
+        },
+        {
+          "action": "给出后果",
+          "atom_ids": [
+            "s-db9e8c6dfe0f-c001:a009",
+            "s-db9e8c6dfe0f-c002:a004"
+          ],
+          "condition": "后果必须与行为有直接因果关系，且可执行"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "105acb7f3c015e85826d0e62686762b7ae2130196977d3443d98f6fec6c6ad36",
+  "recovered_from_response": "s-db9e8c6dfe0f-relations-1793881789232419300.json",
+  "point_units": [
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a002"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a003"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a004"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a005"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a006"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0007",
+      "kind": "method",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a007"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a008"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a009"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0010",
+      "kind": "condition",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a010"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0011",
+      "kind": "condition",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a011"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0012",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a012"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a013"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0014",
+      "kind": "method",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a014"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a015"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0016",
+      "kind": "condition",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a016"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0017",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a017"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0018",
+      "kind": "case",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:r002"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c001:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-001",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:a017",
+        "s-db9e8c6dfe0f-c002:a001",
+        "s-db9e8c6dfe0f-c002:r001"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044",
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-002",
+      "kind": "method",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a002",
+        "s-db9e8c6dfe0f-c002:r002"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-003",
+      "kind": "condition",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a003"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-004",
+      "kind": "method",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a004"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-005",
+      "kind": "condition",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a005"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051",
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-006",
+      "kind": "case",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a006"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a007"
+      ],
+      "blocks": [
+        "b00050",
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-008",
+      "kind": "method",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a008"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-009",
+      "kind": "condition",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a009"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-010",
+      "kind": "case",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a010"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-011",
+      "kind": "method",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a011"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-013",
+      "kind": "question",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a022"
+      ],
+      "blocks": [
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a012"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-015",
+      "kind": "definition",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a013"
+      ],
+      "blocks": [
+        "b00068",
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-016",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a014"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-017",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a015"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-018",
+      "kind": "condition",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a016"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00075",
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-019",
+      "kind": "definition",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a017"
+      ],
+      "blocks": [
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-020",
+      "kind": "condition",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a018"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-021",
+      "kind": "case",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a019",
+        "s-db9e8c6dfe0f-c002:r019"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-022",
+      "kind": "method",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:r002"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-023",
+      "kind": "case",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a020",
+        "s-db9e8c6dfe0f-c003:r001"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c002:U-024",
+      "kind": "condition",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c002:a021"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c003:u0001",
+      "kind": "evaluation",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:a001"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c003:u0002",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:a002"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c003:u0003",
+      "kind": "method",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:a003"
+      ],
+      "blocks": [
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c003:u0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:a004"
+      ],
+      "blocks": [
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c003:u0005",
+      "kind": "method",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:a005"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c003:u0006",
+      "kind": "method",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:a006"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c003:u0007",
+      "kind": "method",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:r003"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c003:u0008",
+      "kind": "condition",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:r004"
+      ],
+      "blocks": [
+        "b00089",
+        "b00090",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c003:u0009",
+      "kind": "condition",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:a009"
+      ],
+      "blocks": [
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c003:u0010",
+      "kind": "principle",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:r005"
+      ],
+      "blocks": [
+        "b00092",
+        "b00093",
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c003:u0011",
+      "kind": "principle",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:r006"
+      ],
+      "blocks": [
+        "b00094",
+        "b00095",
+        "b00096"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c003:u0012",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:r001"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-db9e8c6dfe0f-c003:u0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "恩典中的替代品原则",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-db9e8c6dfe0f",
+          "blocks": [
+            "b00039",
+            "b00040"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "界限一旦设立，父母不能单方面反悔",
+      "atom_ids": [
+        "s-db9e8c6dfe0f-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-db9e8c6dfe0f",
+          "blocks": [
+            "b00083"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

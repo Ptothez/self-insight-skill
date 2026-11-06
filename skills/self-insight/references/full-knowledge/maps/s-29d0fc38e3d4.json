@@ -1,0 +1,386 @@
+{
+  "concepts": [
+    {
+      "name": "为自己做开心的事",
+      "definition": "做与孩子无关、纯粹为了自己愉悦的事情，例如听到喜欢的歌就下载、做一道自己爱吃的菜。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a001"
+      ]
+    },
+    {
+      "name": "为自己做开心的事的日常性",
+      "definition": "为自己做开心的事应该是每天进行的常态，而非偶尔为之，且不需要很大或花钱，例如走一条没走过的路。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a002"
+      ]
+    },
+    {
+      "name": "为自己买冰淇淋的例子",
+      "definition": "为自己买冰淇淋是指特意绕路去给自己买，而不是为了孩子顺便买；对比了平时带孩子绕路去买他喜欢的冰淇淋的行为。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a003"
+      ]
+    },
+    {
+      "name": "独处时间",
+      "definition": "特地为自己留出的、不为了任何人的时间，可以什么都不做、做白日梦、自己跟自己对话或冥想。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a004"
+      ]
+    },
+    {
+      "name": "独处时间与陪伴孩子时间的区别",
+      "definition": "送孩子去学钢琴或游泳时一个人坐着等待，不算独处时间；独处时间必须是专门为自己安排的。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a005"
+      ]
+    },
+    {
+      "name": "做白日梦的例子",
+      "definition": "讲师分享自己经常做白日梦，想象孩子长大后去上大学，自己可以和丈夫环游世界。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a006"
+      ]
+    },
+    {
+      "name": "为了自己的需要拒绝孩子合理需要的能力",
+      "definition": "自我照顾的方法之一是能够为了自己的需要而拒绝孩子合理的需要，即认识到自己的需要同样合理，可以选择拒绝。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a007"
+      ]
+    },
+    {
+      "name": "生气时拒绝与平静时拒绝的区别",
+      "definition": "大部分情况下，父母在生孩子的气时会拒绝其合理需要，但这不是真正的自我照顾；真正的自我照顾是在没有生气时也能为了自己的需要而拒绝。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a008"
+      ]
+    },
+    {
+      "name": "拒绝孩子合理需要的例子",
+      "definition": "孩子想和妈妈一起看电影，妈妈有时间但想自己在家看电视或休息，可以选择拒绝，因为妈妈的需要（休息）也是合理的。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a009"
+      ]
+    },
+    {
+      "name": "社会对母亲牺牲的期望",
+      "definition": "社会传递的观念是母亲必须牺牲一切才是好妈妈，广告常描绘母亲操劳一生、为孩子付出的形象，这导致母亲不敢关注自己。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a010"
+      ]
+    },
+    {
+      "name": "母亲角色单一化的扭曲观点",
+      "definition": "社会将女人的角色和价值局限于母亲，忽略了其作为女人和妻子的身份，这是一种扭曲的观点。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a011"
+      ]
+    },
+    {
+      "name": "哺乳期减肥被劝阻的例子",
+      "definition": "哺乳期母亲想减肥，但周围人会劝阻，认为减肥会影响奶水，母亲应该为了孩子多吃，这反映了社会对母亲自我需求的忽视。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a012"
+      ]
+    },
+    {
+      "name": "选择权与能力的区别",
+      "definition": "在自我照顾中，区分“要不要这样做”（选择权）和“能不能这样做”（能力）以及“有没有权利不这样做”（权利）是重要的。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a013"
+      ]
+    },
+    {
+      "name": "自我关注被批评的现象",
+      "definition": "母亲如果关注自己、打扮漂亮，会被他人批评为自私、不照顾孩子，这种社会评论导致母亲不敢自我关注。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a014"
+      ]
+    },
+    {
+      "name": "独处时间与日常事务的区别",
+      "definition": "独处时间不是指做饭、洗澡、上课等日常事务中为自己留出的时间，除非这些活动让自己感到舒服；独处时间是自己与自己玩耍、单独相处、面对自己的时间。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:r001"
+      ]
+    },
+    {
+      "name": "自我照顾中拒绝的动机区分",
+      "definition": "在自我照顾中，拒绝孩子合理需要时，需要区分是否因生气而拒绝；真正的自我照顾是在没有生气时也能为了自己的需要而拒绝，而不是因情绪冲动。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:r002"
+      ]
+    },
+    {
+      "name": "社会对母亲自我关注的负面评价",
+      "definition": "母亲如果关注自己、打扮漂亮，会被他人批评为自私、不照顾孩子，这种社会评论导致母亲不敢自我关注。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a014"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-29d0fc38e3d4-c001:a001",
+      "target": "s-29d0fc38e3d4-c001:a002",
+      "kind": "association",
+      "condition": "",
+      "reason": "为自己做开心的事的定义与每天进行的频率要求属同一主题的不同方面，定义本身不能推出日常性，故为关联而非支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系过强，降为关联。"
+    },
+    {
+      "source": "s-29d0fc38e3d4-c001:a003",
+      "target": "s-29d0fc38e3d4-c001:a001",
+      "kind": "example_of",
+      "condition": "当为自己买冰淇淋是纯粹为了自己愉悦时",
+      "reason": "为自己买冰淇淋符合为自己做开心的事的定义，是其具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-29d0fc38e3d4-c001:a004",
+      "target": "s-29d0fc38e3d4-c001:a005",
+      "kind": "contrasts",
+      "condition": "当区分独处时间与陪伴孩子时间时",
+      "reason": "a004定义独处时间，a005说明什么不算独处时间，形成对比。"
+    },
+    {
+      "source": "s-29d0fc38e3d4-c001:a006",
+      "target": "s-29d0fc38e3d4-c001:a004",
+      "kind": "example_of",
+      "condition": "当做白日梦是独处时间的一种活动时",
+      "reason": "a006是a004中提到的做白日梦的具体例子。"
+    },
+    {
+      "source": "s-29d0fc38e3d4-c001:a007",
+      "target": "s-29d0fc38e3d4-c001:a008",
+      "kind": "association",
+      "condition": "",
+      "reason": "提出拒绝能力与区分生气/平静时的拒绝价值，两者相关；但后者是对前者的补充细化，而非直接对比或支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原contrasts不准确，改为association。"
+    },
+    {
+      "source": "s-29d0fc38e3d4-c001:a009",
+      "target": "s-29d0fc38e3d4-c001:a007",
+      "kind": "example_of",
+      "condition": "当妈妈为了休息而拒绝孩子看电影时",
+      "reason": "拒绝孩子合理需要的例子体现了为了自己需要而拒绝的能力。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-29d0fc38e3d4-c001:a010",
+      "target": "s-29d0fc38e3d4-c001:a011",
+      "kind": "supports",
+      "condition": "当社会期望导致母亲角色单一化时",
+      "reason": "社会传递母亲必须牺牲才是好妈妈的观念，导致母亲不敢关注自己，也强化了将女性价值局限于母亲角色的扭曲观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-29d0fc38e3d4-c001:a012",
+      "target": "s-29d0fc38e3d4-c001:a010",
+      "kind": "example_of",
+      "condition": "当哺乳期减肥被劝阻反映社会期望时",
+      "reason": "哺乳期减肥被劝阻体现了社会对母亲牺牲的期望，是具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-29d0fc38e3d4-c001:a013",
+      "target": "s-29d0fc38e3d4-c001:a007",
+      "kind": "supports",
+      "condition": "当区分选择权与能力有助于拒绝时",
+      "reason": "区分选择权、能力与权利，是理解并拥有'为需要拒绝孩子合理需要'能力的概念前提。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-29d0fc38e3d4-c001:a014",
+      "target": "s-29d0fc38e3d4-c001:a010",
+      "kind": "supports",
+      "condition": "当社会评论强化母亲牺牲期望时",
+      "reason": "a014的批评现象支持a010的社会期望。"
+    },
+    {
+      "source": "s-29d0fc38e3d4-c001:r001",
+      "target": "s-29d0fc38e3d4-c001:a004",
+      "kind": "contrasts",
+      "condition": "当区分独处时间与日常事务时",
+      "reason": "r001进一步澄清独处时间不包括日常事务，与a004的定义形成对比。"
+    },
+    {
+      "source": "s-29d0fc38e3d4-c001:r002",
+      "target": "s-29d0fc38e3d4-c001:a008",
+      "kind": "supports",
+      "condition": "当强调拒绝的动机区分时",
+      "reason": "r002与a008内容一致，支持生气与平静拒绝的区分。"
+    },
+    {
+      "source": "s-29d0fc38e3d4-c001:a014",
+      "target": "s-29d0fc38e3d4-c001:a014",
+      "kind": "supports",
+      "condition": "当社会负面评价导致母亲不敢自我关注时",
+      "reason": "r003与a014内容相同，支持社会评论的影响。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "自我修养",
+      "to": "界限",
+      "when": "当母亲为了自我照顾而需要拒绝孩子合理需要时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a007",
+        "s-29d0fc38e3d4-c001:a008",
+        "s-29d0fc38e3d4-c001:a009",
+        "s-29d0fc38e3d4-c001:r002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a014"
+      ],
+      "reason": "两条记录内容完全相同，都是关于母亲自我关注被批评的现象。"
+    }
+  ],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-29d0fc38e3d4-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-29d0fc38e3d4-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a002"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-29d0fc38e3d4-c001:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a003"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-29d0fc38e3d4-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a004",
+        "s-29d0fc38e3d4-c001:a005",
+        "s-29d0fc38e3d4-c001:r001"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-29d0fc38e3d4-c001:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a006"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-29d0fc38e3d4-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a007",
+        "s-29d0fc38e3d4-c001:a008",
+        "s-29d0fc38e3d4-c001:a009",
+        "s-29d0fc38e3d4-c001:r002"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-29d0fc38e3d4-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a010"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-29d0fc38e3d4-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a011"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-29d0fc38e3d4-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a012",
+        "s-29d0fc38e3d4-c001:a013"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-29d0fc38e3d4-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-29d0fc38e3d4-c001:a014"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

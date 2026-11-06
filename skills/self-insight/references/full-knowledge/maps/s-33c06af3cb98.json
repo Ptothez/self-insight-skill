@@ -1,0 +1,924 @@
+{
+  "concepts": [
+    {
+      "name": "完美主义",
+      "definition": "一种追求完美、不容许任何缺陷的思维和行为模式，导致个体永远觉得自己不够好，永远不满足，不断逼迫自己达到更高标准。",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a003",
+        "s-33c06af3cb98-c001:a017"
+      ]
+    },
+    {
+      "name": "完美主义对孩子的伤害",
+      "definition": "完美主义对孩子的各个方面都有极大的伤害，包括专注力，并可能导致焦虑症、抑郁症等心理健康问题。",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a001",
+        "s-33c06af3cb98-c001:r001"
+      ]
+    },
+    {
+      "name": "追求卓越而非完美",
+      "definition": "应该追求优秀、卓越，而不是完美；不能把卓越跟完美画上等号，但很多人错误地认为完美才等于卓越。",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a004"
+      ]
+    },
+    {
+      "name": "完美要求导致孩子不安全不自信",
+      "definition": "要求孩子完美会把孩子放在极度不安全、不自信的环境，因为孩子做不到，也不应该做到，但妈妈要求，做不到就要遭殃。",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a007"
+      ]
+    },
+    {
+      "name": "杏仁核与不安全状态对专注力的影响",
+      "definition": "杏仁核在人安全时被大脑包裹，不安全时会张开，非常不安全时张得很开，触发逃跑、战斗或僵住反应。长期处于不安全状态，杏仁核打开，会导致专注力、学习能力、接收新知识的能力缓慢下来，学习变慢。",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a010"
+      ]
+    },
+    {
+      "name": "接纳孩子缺点创造安全感",
+      "definition": "当父母欣然接受甚至拥抱孩子的缺点、错误、软弱，虽然心里不高兴或遗憾，但知道孩子无法在某些方面做好时，就给孩子创造了很大的安全感。孩子知道不管多糟糕、做错什么、有什么缺点，都被父母接纳，各方面技能会爆发，专注力和学习能力突飞猛进。",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a014"
+      ]
+    },
+    {
+      "name": "完美家长是新世纪最大的骗局",
+      "definition": "完美家长是新世纪最大的骗局，它告诉你你可以完美，你应该追求完美。但我们应该追求优秀、卓越，而不是完美。",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a016"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-33c06af3cb98-c001:a003",
+      "target": "s-33c06af3cb98-c001:a017",
+      "kind": "supports",
+      "condition": "两者表述相同，均强调完美主义导致永远不满足。",
+      "reason": "a003 和 a017 内容几乎一致，都说明完美主义让人永远觉得自己不够好，永远不满足，永远对自己有要求。"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a001",
+      "target": "s-33c06af3cb98-c001:r001",
+      "kind": "supports",
+      "condition": "r001 是 a001 的扩展，增加了心理健康问题的具体表现。",
+      "reason": "a001 指出完美主义对专注力有伤害，r001 进一步说明可能导致焦虑症、抑郁症等心理健康问题。"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a005",
+      "target": "s-33c06af3cb98-c001:a007",
+      "kind": "causes",
+      "condition": "要求孩子完美导致孩子处于不安全不自信的环境。",
+      "reason": "a005 说明要求完美等于给孩子必败任务，a007 说明这种要求导致孩子不安全不自信。"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a007",
+      "target": "s-33c06af3cb98-c001:a009",
+      "kind": "causes",
+      "condition": "不安全不自信的环境导致孩子挫败和注意力变差。",
+      "reason": "a007 指出完美要求导致孩子不安全不自信，a009 说明完美父母让孩子没有安全感和挫败，注意力越来越糟糕。"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a009",
+      "target": "s-33c06af3cb98-c001:a010",
+      "kind": "supports",
+      "condition": "a010 从神经科学角度解释不安全状态如何影响专注力。",
+      "reason": "a009 指出挫败感和不安全导致注意力变差，a010 解释杏仁核在不安全状态下打开，导致专注力和学习能力下降。"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a011",
+      "target": "s-33c06af3cb98-c001:a010",
+      "kind": "supports",
+      "condition": "高压家庭氛围导致杏仁核持续激活。",
+      "reason": "a011 描述高压家庭氛围让孩子如履薄冰，杏仁核一直在转，a010 解释杏仁核打开对专注力的影响。"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a012",
+      "target": "s-33c06af3cb98-c001:a020",
+      "kind": "supports",
+      "condition": "孩子无法满足要求时产生挫败感。",
+      "reason": "a012 提到孩子发现自己无法满足时产生挫败感，a020 进一步说明挫败感导致各方面机能下降。"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a013",
+      "target": "s-33c06af3cb98-c001:a014",
+      "kind": "step_of",
+      "condition": "a013 提供不做完美主义父母的方法，a014 说明接纳孩子缺点创造安全感。",
+      "reason": "a013 建议期待孩子犯错、有缺点、有弱点并欣然接受，a014 说明这种接纳会给孩子创造安全感，带来技能爆发。"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a015",
+      "target": "s-33c06af3cb98-c001:a013",
+      "kind": "step_of",
+      "condition": "a015 是作业，要求审视完美主义要求并道歉，a013 是具体方法。",
+      "reason": "a015 要求审视完美主义要求并改正，a013 提供具体的不做完美主义父母的方法。"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a018",
+      "target": "s-33c06af3cb98-c001:a003",
+      "kind": "supports",
+      "condition": "对孩子的完美期待反映内心焦灼，与完美主义导致不满足相关。",
+      "reason": "a018 指出对孩子的期待反射出自己内心的焦灼状态，想要完美，a003 说明完美主义让人永远不满足。"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a019",
+      "target": "s-33c06af3cb98-c001:a006",
+      "kind": "example_of",
+      "condition": "十分钟作业的完美期待是隐性完美要求的一个例子",
+      "reason": "'十分钟作业的完美期待'是'隐性完美要求的表现'的一个具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n001",
+      "target": "s-33c06af3cb98-c001:a001",
+      "kind": "complements",
+      "condition": "完美主义对儿童的影响",
+      "reason": "source 指出人们普遍追求完美，target 补充了完美主义对孩子的伤害（包括专注力），揭示了幻想的负面后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a001",
+      "target": "s-33c06af3cb98-c001:v2-n001",
+      "kind": "complements",
+      "condition": "完美主义对儿童的影响",
+      "reason": "source 指出人们普遍追求完美，target 补充了完美主义对孩子的伤害（包括专注力），揭示了幻想的负面后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n001",
+      "target": "s-33c06af3cb98-c001:r001",
+      "kind": "complements",
+      "condition": "完美主义对儿童心理健康的影响",
+      "reason": "source 指出普遍幻想，target 具体说明完美主义可导致孩子焦虑症、抑郁症等心理健康问题，是对 source 危害的具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:r001",
+      "target": "s-33c06af3cb98-c001:v2-n001",
+      "kind": "complements",
+      "condition": "完美主义对儿童心理健康的影响",
+      "reason": "source 指出普遍幻想，target 具体说明完美主义可导致孩子焦虑症、抑郁症等心理健康问题，是对 source 危害的具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n001",
+      "target": "s-33c06af3cb98-c001:a003",
+      "kind": "complements",
+      "condition": "完美主义的心理机制",
+      "reason": "source 描述人们追求完美，target 解释完美主义导致永远觉得自己不够好，补充了追求完美为何有害的内在心理原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a003",
+      "target": "s-33c06af3cb98-c001:v2-n001",
+      "kind": "complements",
+      "condition": "完美主义的心理机制",
+      "reason": "source 描述人们追求完美，target 解释完美主义导致永远觉得自己不够好，补充了追求完美为何有害的内在心理原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n001",
+      "target": "s-33c06af3cb98-c001:a013",
+      "kind": "complements",
+      "condition": "应对完美主义的方法",
+      "reason": "source 指出普遍幻想，target 提供了不做完美主义父母的具体方法（期待犯错、接受缺点弱点），为 source 提供了行动指引。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a013",
+      "target": "s-33c06af3cb98-c001:v2-n001",
+      "kind": "complements",
+      "condition": "应对完美主义的方法",
+      "reason": "source 指出普遍幻想，target 提供了不做完美主义父母的具体方法（期待犯错、接受缺点弱点），为 source 提供了行动指引。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n001",
+      "target": "s-33c06af3cb98-c001:a005",
+      "kind": "complements",
+      "condition": "完美要求的不可实现性",
+      "reason": "source 提到人们试图接近完美，target 补充说明要求孩子完美等于给必败任务，因为完美不可能达到，强化了 source 中'完美几乎不可能'的观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a005",
+      "target": "s-33c06af3cb98-c001:v2-n001",
+      "kind": "complements",
+      "condition": "完美要求的不可实现性",
+      "reason": "source 提到人们试图接近完美，target 补充说明要求孩子完美等于给必败任务，因为完美不可能达到，强化了 source 中'完美几乎不可能'的观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n001",
+      "target": "s-33c06af3cb98-c001:a017",
+      "kind": "complements",
+      "condition": "完美主义的心理后果",
+      "reason": "source 描述普遍追求完美，target 补充完美主义导致永远不满足、不断逼迫自己，进一步说明其危害机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a017",
+      "target": "s-33c06af3cb98-c001:v2-n001",
+      "kind": "complements",
+      "condition": "完美主义的心理后果",
+      "reason": "source 描述普遍追求完美，target 补充完美主义导致永远不满足、不断逼迫自己，进一步说明其危害机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n001",
+      "target": "s-33c06af3cb98-c001:a002",
+      "kind": "complements",
+      "condition": "完美主义危害的现实案例",
+      "reason": "source 提出普遍幻想，target 提供了高学历母亲要求完美导致孩子抑郁的具体案例，为 source 的普遍性论断提供了实例证据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a002",
+      "target": "s-33c06af3cb98-c001:v2-n001",
+      "kind": "complements",
+      "condition": "完美主义危害的现实案例",
+      "reason": "source 提出普遍幻想，target 提供了高学历母亲要求完美导致孩子抑郁的具体案例，为 source 的普遍性论断提供了实例证据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n001",
+      "target": "s-33c06af3cb98-c001:a006",
+      "kind": "complements",
+      "condition": "隐性完美要求的表现",
+      "reason": "source 指出人们追求完美，target 具体列举了隐性完美要求（如要求孩子有礼貌、懂事、成绩中等、情绪稳定等），补充了完美主义在家长中的日常表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a006",
+      "target": "s-33c06af3cb98-c001:v2-n001",
+      "kind": "complements",
+      "condition": "隐性完美要求的表现",
+      "reason": "source 指出人们追求完美，target 具体列举了隐性完美要求（如要求孩子有礼貌、懂事、成绩中等、情绪稳定等），补充了完美主义在家长中的日常表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n001",
+      "target": "s-33c06af3cb98-c001:a009",
+      "kind": "complements",
+      "condition": "完美期待对孩子的具体影响",
+      "reason": "source 描述完美幻想，target 补充了完美期待导致孩子没有安全感、挫败和注意力变差，具体化了对孩子的伤害。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a009",
+      "target": "s-33c06af3cb98-c001:v2-n001",
+      "kind": "complements",
+      "condition": "完美期待对孩子的具体影响",
+      "reason": "source 描述完美幻想，target 补充了完美期待导致孩子没有安全感、挫败和注意力变差，具体化了对孩子的伤害。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n001",
+      "target": "s-33c06af3cb98-c001:a018",
+      "kind": "complements",
+      "condition": "完美期待的心理根源",
+      "reason": "source 提到人们希望完美，target 补充对孩子的期待反映自己内心焦灼，揭示完美主义幻想的内在原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a018",
+      "target": "s-33c06af3cb98-c001:v2-n001",
+      "kind": "complements",
+      "condition": "完美期待的心理根源",
+      "reason": "source 提到人们希望完美，target 补充对孩子的期待反映自己内心焦灼，揭示完美主义幻想的内在原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n001",
+      "target": "s-33c06af3cb98-c001:a015",
+      "kind": "complements",
+      "condition": "完美主义的应对行动",
+      "reason": "source 指出普遍幻想，target 提供了审视完美主义、道歉和调整思维的具体作业步骤，将认知转化为行动。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a015",
+      "target": "s-33c06af3cb98-c001:v2-n001",
+      "kind": "complements",
+      "condition": "完美主义的应对行动",
+      "reason": "source 指出普遍幻想，target 提供了审视完美主义、道歉和调整思维的具体作业步骤，将认知转化为行动。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n001",
+      "target": "s-33c06af3cb98-c001:v2-n002",
+      "kind": "complements",
+      "condition": "高要求观念作为完美主义的表现",
+      "reason": "source 描述普遍完美幻想，target 展示了'求高得低'的高要求观念，是完美主义幻想在家长教育期望中的一种具体体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n002",
+      "target": "s-33c06af3cb98-c001:v2-n001",
+      "kind": "complements",
+      "condition": "高要求观念作为完美主义的表现",
+      "reason": "source 描述普遍完美幻想，target 展示了'求高得低'的高要求观念，是完美主义幻想在家长教育期望中的一种具体体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n002",
+      "target": "s-33c06af3cb98-c001:a001",
+      "kind": "association",
+      "condition": "无明确条件，仅为主题相关",
+      "reason": "source 认为高要求可得高结果，a001 指出完美主义对孩子有伤害，但 source 未提及伤害后果，无法建立直接因果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a001",
+      "target": "s-33c06af3cb98-c001:v2-n002",
+      "kind": "association",
+      "condition": "无明确条件，仅为主题相关",
+      "reason": "source 认为高要求可得高结果，a001 指出完美主义对孩子有伤害，但 source 未提及伤害后果，无法建立直接因果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n002",
+      "target": "s-33c06af3cb98-c001:a006",
+      "kind": "complements",
+      "condition": "当父母受‘求高得低’观念驱动对孩子提出高要求时",
+      "reason": "source 提出‘对孩子提出很高要求’，a006 具体列举了家长可能的要求如礼貌、懂事、成绩中等、情绪稳定等，补充了‘高要求’的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a006",
+      "target": "s-33c06af3cb98-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当父母受‘求高得低’观念驱动对孩子提出高要求时",
+      "reason": "source 提出‘对孩子提出很高要求’，a006 具体列举了家长可能的要求如礼貌、懂事、成绩中等、情绪稳定等，补充了‘高要求’的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n002",
+      "target": "s-33c06af3cb98-c001:a007",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 仅陈述观念，a007 描述完美要求导致孩子不安全不自信，但 source 未涉及后果，无法直接关联，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a007",
+      "target": "s-33c06af3cb98-c001:v2-n002",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 仅陈述观念，a007 描述完美要求导致孩子不安全不自信，但 source 未涉及后果，无法直接关联，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n002",
+      "target": "s-33c06af3cb98-c001:a013",
+      "kind": "conflict",
+      "condition": "当父母持‘求高得低’观念并因此要求孩子完美时",
+      "reason": "source 认为要求高可得高结果，a013 明确‘不要做完美主义父母，不要要求孩子完美’，两者在育儿取向上相反。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a013",
+      "target": "s-33c06af3cb98-c001:v2-n002",
+      "kind": "conflict",
+      "condition": "当父母持‘求高得低’观念并因此要求孩子完美时",
+      "reason": "source 认为要求高可得高结果，a013 明确‘不要做完美主义父母，不要要求孩子完美’，两者在育儿取向上相反。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n002",
+      "target": "s-33c06af3cb98-c001:a015",
+      "kind": "conflict",
+      "condition": "当父母持‘求高得低’观念并实施完美要求时",
+      "reason": "source 主张高要求以获取高结果，a015 要求父母审视完美主义要求并道歉改正，两者立场对立。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a015",
+      "target": "s-33c06af3cb98-c001:v2-n002",
+      "kind": "conflict",
+      "condition": "当父母持‘求高得低’观念并实施完美要求时",
+      "reason": "source 主张高要求以获取高结果，a015 要求父母审视完美主义要求并道歉改正，两者立场对立。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n002",
+      "target": "s-33c06af3cb98-c001:a012",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 关注父母高要求观念，a012 描述孩子面对无理要求时的反应和挫败感，但 source 未提及孩子反应，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a012",
+      "target": "s-33c06af3cb98-c001:v2-n002",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 关注父母高要求观念，a012 描述孩子面对无理要求时的反应和挫败感，但 source 未提及孩子反应，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n002",
+      "target": "s-33c06af3cb98-c001:a002",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 是高要求观念，a002 是母亲要求孩子完美的案例，展示了完美要求可能导致的后果，但 source 未直接说明该后果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a002",
+      "target": "s-33c06af3cb98-c001:v2-n002",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 是高要求观念，a002 是母亲要求孩子完美的案例，展示了完美要求可能导致的后果，但 source 未直接说明该后果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n002",
+      "target": "s-33c06af3cb98-c001:a005",
+      "kind": "association",
+      "condition": "无明确条件，潜在冲突但不够明确",
+      "reason": "source 认为高要求带来高结果，a005 认为要求完美等于必败任务，两者对结果的预测可能相反，但 source 未明确到完美程度，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a005",
+      "target": "s-33c06af3cb98-c001:v2-n002",
+      "kind": "association",
+      "condition": "无明确条件，潜在冲突但不够明确",
+      "reason": "source 认为高要求带来高结果，a005 认为要求完美等于必败任务，两者对结果的预测可能相反，但 source 未明确到完美程度，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n002",
+      "target": "s-33c06af3cb98-c001:r001",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 未涉及心理健康问题，r001 说明完美主义导致心理健康问题，无法直接因果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:r001",
+      "target": "s-33c06af3cb98-c001:v2-n002",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 未涉及心理健康问题，r001 说明完美主义导致心理健康问题，无法直接因果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n002",
+      "target": "s-33c06af3cb98-c001:a009",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 未涉及孩子情绪和注意力后果，a009 描述完美期待导致挫败和注意力变差，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a009",
+      "target": "s-33c06af3cb98-c001:v2-n002",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 未涉及孩子情绪和注意力后果，a009 描述完美期待导致挫败和注意力变差，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n002",
+      "target": "s-33c06af3cb98-c001:a020",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 未提及孩子感受，a020 描述孩子无法满足要求时产生挫败感，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:a020",
+      "target": "s-33c06af3cb98-c001:v2-n002",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 未提及孩子感受，a020 描述孩子无法满足要求时产生挫败感，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n002",
+      "target": "s-33c06af3cb98-c001:v2-n001",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 是具体的高要求观念，v2-n001 是普遍完美幻想，两者相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-33c06af3cb98-c001:v2-n001",
+      "target": "s-33c06af3cb98-c001:v2-n002",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 是具体的高要求观念，v2-n001 是普遍完美幻想，两者相关但无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "当父母对孩子有完美主义要求时，界限模块中的要求会引发理解情绪模块中的不安全感和挫败感。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a005",
+        "s-33c06af3cb98-c001:a007",
+        "s-33c06af3cb98-c001:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "专注力",
+      "when": "当孩子长期处于不安全感和挫败感中时，杏仁核打开，导致专注力下降。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a009",
+        "s-33c06af3cb98-c001:a010",
+        "s-33c06af3cb98-c001:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "理解情绪",
+      "when": "当父母调整自己的完美主义思维，接纳孩子的缺点时，会给孩子创造安全感。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a013",
+        "s-33c06af3cb98-c001:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a003",
+        "s-33c06af3cb98-c001:a017"
+      ],
+      "reason": "两条记录内容几乎完全一致，都描述完美主义导致永远觉得自己不够好、永远不满足、永远对自己有要求。"
+    },
+    {
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a001",
+        "s-33c06af3cb98-c001:r001"
+      ],
+      "reason": "r001 是 a001 的扩展，但核心内容相同，都指出完美主义对孩子的伤害包括专注力，r001 增加了心理健康问题的具体表现。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "不做完美主义父母的方法",
+      "steps": [
+        {
+          "action": "期待孩子会犯错，甚至犯大错",
+          "atom_ids": [
+            "s-33c06af3cb98-c001:a013"
+          ],
+          "condition": "父母需要调整心态，接受孩子犯错是正常的。"
+        },
+        {
+          "action": "期待孩子有缺点，包括永远改不掉的缺点",
+          "atom_ids": [
+            "s-33c06af3cb98-c001:a013"
+          ],
+          "condition": "父母需要认识到孩子不可能完美，有些缺点可能永远存在。"
+        },
+        {
+          "action": "期待孩子有弱点，需要花很大精力才能提升一点",
+          "atom_ids": [
+            "s-33c06af3cb98-c001:a013"
+          ],
+          "condition": "父母需要接受孩子在某些方面进步缓慢。"
+        },
+        {
+          "action": "欣然接受这些，而不是被迫接受",
+          "atom_ids": [
+            "s-33c06af3cb98-c001:a013"
+          ],
+          "condition": "父母需要从内心接纳孩子的缺点和错误，而不是勉强接受。"
+        },
+        {
+          "action": "审视自己在孩子的哪些方面有完美主义要求",
+          "atom_ids": [
+            "s-33c06af3cb98-c001:a015"
+          ],
+          "condition": "父母需要反思自己的要求是否过于完美。"
+        },
+        {
+          "action": "跟孩子道歉",
+          "atom_ids": [
+            "s-33c06af3cb98-c001:a015"
+          ],
+          "condition": "如果发现自己有完美主义要求，需要向孩子道歉。"
+        },
+        {
+          "action": "自己改过来，调整自己的思维",
+          "atom_ids": [
+            "s-33c06af3cb98-c001:a015"
+          ],
+          "condition": "父母需要改变自己的思维模式，不再追求完美。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-33c06af3cb98-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a001",
+        "s-33c06af3cb98-c001:r001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0003",
+      "kind": "case",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a002"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a002",
+        "s-33c06af3cb98-c001:a003"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a002"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a002"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a016"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a004"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a003",
+        "s-33c06af3cb98-c001:a017"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a005"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a006"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a007"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0014",
+      "kind": "case",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a008"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a019"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a018"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a009"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a010"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a011"
+      ],
+      "blocks": [
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a012",
+        "s-33c06af3cb98-c001:a020"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a013"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a014"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-33c06af3cb98-c001:u0023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:a015"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "完美主义的普遍幻想",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-33c06af3cb98",
+          "blocks": [
+            "b00002"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "definition"
+    },
+    {
+      "title": "高要求观念：求高得低",
+      "atom_ids": [
+        "s-33c06af3cb98-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-33c06af3cb98",
+          "blocks": [
+            "b00005"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "belief"
+    }
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "concepts": [
+    {
+      "name": "专注力的前提条件",
+      "definition": "专注力的前提条件被比喻为树的土壤，只有土壤肥沃，专注力这棵树才能长好。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a001"
+      ]
+    },
+    {
+      "name": "关键前提条件缺失导致努力前功尽弃",
+      "definition": "如果关键的前提条件没有做到，后面做的所有事情都会前功尽弃。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a002"
+      ]
+    },
+    {
+      "name": "孩子专注力糟糕的案例",
+      "definition": "一对夫妻的孩子专注力非常糟糕，上课不能全神贯注，眼睛盯着老师慢慢分神；做卷子时老师喊停，孩子会慢半拍，低头看老师笑一笑再继续做一阵才停。老师怀疑孩子智力有问题，父母带孩子测智力结果正常。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a003"
+      ]
+    },
+    {
+      "name": "17岁以下孩子心理辅导的前提条件",
+      "definition": "讲师做孩子心理辅导的习惯：17岁以下的孩子，如果父母希望帮助孩子，父母必须同时接受帮助。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a004"
+      ]
+    },
+    {
+      "name": "父母同时接受帮助的原因",
+      "definition": "孩子在家浸泡时间长，如果辅导50分钟后回家，父母继续用错误方式育儿，辅导会前功尽弃。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a005"
+      ]
+    },
+    {
+      "name": "家庭暴力案例",
+      "definition": "孩子小时候，父母经常打架吵架，孩子曾看到爸爸打妈妈、掐妈妈脖子，小女孩跳到爸爸身上打爸爸让他下来；妈妈报过警；最严重一次爸爸拿铁锅扔向妈妈，没扔到妈妈但差点伤到小女孩。孩子都看到并记住了。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a006"
+      ]
+    },
+    {
+      "name": "家庭暴力对孩子大脑发育的影响",
+      "definition": "讲师了解孩子大脑发育后，判断问题出在家庭暴力环境。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a007"
+      ]
+    },
+    {
+      "name": "家庭环境调整后专注力改善案例",
+      "definition": "对父母在家庭环境创造方面进行调整，经过约19个月（不到两年），孩子专注力越来越提高，家庭氛围也越来越好。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a008"
+      ]
+    },
+    {
+      "name": "专注力的三个前提条件",
+      "definition": "专注力的前提条件有三点：家庭条件、父母的婚姻、父母的认知。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a009"
+      ]
+    },
+    {
+      "name": "家庭条件的定义",
+      "definition": "家庭条件不是经济条件，而是家庭氛围中创造的条件，如颜色、声音、感觉等。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a010"
+      ]
+    },
+    {
+      "name": "想象自己成长家庭的画面",
+      "definition": "请大家想象自己长大的家庭画面：颜色是明亮还是暗沉？声音是争吵还是寂静？感觉是冰冷还是温暖？",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a011"
+      ]
+    },
+    {
+      "name": "家庭条件的具体内容",
+      "definition": "家庭条件是父母为家庭创造的条件，包括让人感到愉悦、被爱、温暖、被拥抱、被接纳，还是害怕、恐惧、冷冰冰、拒绝。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a012"
+      ]
+    },
+    {
+      "name": "父母创造家庭条件的方式",
+      "definition": "父母创造家庭条件的方式包括：父母是乐观还是悲观；是否相信外面的人；是否每天讲谁想害自己；是否喜欢尝试新鲜事物；周末是否带孩子到处走走。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a013"
+      ]
+    },
+    {
+      "name": "低成本创造家庭条件的例子",
+      "definition": "不一定要花费很高，比如带孩子蹲在路边看一朵野花，也是为家庭创造条件。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a014"
+      ]
+    },
+    {
+      "name": "家庭条件对专注力的影响",
+      "definition": "在温暖、被接纳、喜悦的家庭中，孩子需要专注时比长期处在恐怖、父母打架、被打的孩子专注力更好，因为心里没有恐惧时更能发挥优秀。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a015"
+      ]
+    },
+    {
+      "name": "父母婚姻的定义",
+      "definition": "父母的婚姻包括：是否经常吵架、是否爱对方、是否用讽刺嘲讽的话、是否在孩子面前讲对方不好、是否一起哈哈大笑、是否有亲密小动作、上街是否牵手还是各走各的。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a016"
+      ]
+    },
+    {
+      "name": "父母相爱对孩子大脑的刺激",
+      "definition": "孩子从零岁开始看见父母相爱，大脑会受到刺激，视觉带入信息，大脑释放荷尔蒙，让孩子得到极大快感。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a017"
+      ]
+    },
+    {
+      "name": "突触连接与协调能力",
+      "definition": "大脑中有很多连接点叫突触，经历幸福喜悦时突触会大量增加，协调能力快速连接，眼睛看到东西后大脑发出指令手去拿。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a018"
+      ]
+    },
+    {
+      "name": "突触连接好对专注力的影响",
+      "definition": "突触连接好，大脑发育更好，孩子更能在需要专注时专注下来。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a019"
+      ]
+    },
+    {
+      "name": "父母认知的定义",
+      "definition": "父母的认知不是指学历，而是育儿认知，包括是否懂儿童科学、是否知道如何正确教育孩子。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a020"
+      ]
+    },
+    {
+      "name": "术业有专攻",
+      "definition": "在一个领域研究很深是专家，不代表在另一个领域也是专家，育儿认知需要专门学习。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a021"
+      ]
+    },
+    {
+      "name": "父母育儿认知低下的表现",
+      "definition": "很多父母不愿意承认自己不懂育儿，不知道自己在儿童心理科学领域有漏洞和空白，不知道孩子几岁需要如何沟通，不知道如何赋能孩子。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a022"
+      ]
+    },
+    {
+      "name": "高学历父母育儿失败的案例",
+      "definition": "讲师见过很多高学历父母（教授、总裁、博士）的孩子自杀或伤害自己，父母很惊讶。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a023"
+      ]
+    },
+    {
+      "name": "提升父母育儿认知的方法",
+      "definition": "父母要有正确认知，知道如何正确管教孩子、如何赋能、如何创造更好的家庭条件来帮助孩子成功和专注。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a024"
+      ]
+    },
+    {
+      "name": "课后作业：自我反省三个改进点",
+      "definition": "从三个前提条件（家庭条件、父母婚姻、父母认知）中自我反省，列出三个需要改进的地方，并想到改进方法。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a025"
+      ]
+    },
+    {
+      "name": "家庭暴力对专注力的影响机制",
+      "definition": "长期处在恐怖、父母打架、被打环境中的孩子，在需要专注时专注力较差；而感觉愉悦、没有恐惧的孩子更能发挥优秀。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:r001"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-3163ba3cd835-c001:a001",
+      "target": "s-3163ba3cd835-c001:a009",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "a001将前提条件比喻为土壤，a009具体列出三个前提条件，后者是对前者的具体化。"
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a002",
+      "target": "s-3163ba3cd835-c001:a005",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "'父母同时接受帮助的原因'中的辅导例子体现了'关键前提条件缺失导致努力前功尽弃'的原理。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a003",
+      "target": "s-3163ba3cd835-c001:a006",
+      "kind": "association",
+      "condition": "无",
+      "reason": "'夫妻孩子专注力糟糕的案例'与'家庭暴力案例'同属一个家庭背景，但仅凭两端不能证明家庭暴力导致专注力问题，关联不明确。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型causes不属于允许类型，改为association。"
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a006",
+      "target": "s-3163ba3cd835-c001:a007",
+      "kind": "causes",
+      "condition": "无",
+      "reason": "a006描述家庭暴力事件，a007指出讲师判断问题出在家庭暴力环境。"
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a006",
+      "target": "s-3163ba3cd835-c001:a008",
+      "kind": "causes",
+      "condition": "无",
+      "reason": "a006家庭暴力导致问题，a008通过调整家庭环境改善专注力，说明家庭环境是原因。"
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a009",
+      "target": "s-3163ba3cd835-c001:a010",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "a009列出三个前提条件，a010定义第一个条件家庭条件。"
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a009",
+      "target": "s-3163ba3cd835-c001:a016",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "a009列出三个前提条件，a016定义第二个条件父母婚姻。"
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a009",
+      "target": "s-3163ba3cd835-c001:a020",
+      "kind": "association",
+      "condition": "无",
+      "reason": "'父母认知的定义'是对'专注力的三个前提条件'中第三个条件的解释，但两端并非步骤或支持关系，属同一议题的关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of不成立，改为association。"
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a010",
+      "target": "s-3163ba3cd835-c001:a012",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "a010定义家庭条件为氛围，a012具体说明家庭条件包括的情感内容。"
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a010",
+      "target": "s-3163ba3cd835-c001:a013",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "a010定义家庭条件，a013说明父母创造家庭条件的方式。"
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a012",
+      "target": "s-3163ba3cd835-c001:a015",
+      "kind": "causes",
+      "condition": "无",
+      "reason": "a012描述家庭条件的情感氛围，a015说明温暖氛围对专注力的积极影响。"
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a013",
+      "target": "s-3163ba3cd835-c001:a014",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "a013列出父母创造家庭条件的方式，a014给出低成本例子。"
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a016",
+      "target": "s-3163ba3cd835-c001:a017",
+      "kind": "causes",
+      "condition": "无",
+      "reason": "a016定义父母婚姻包括相爱，a017说明父母相爱对孩子大脑的刺激。"
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a017",
+      "target": "s-3163ba3cd835-c001:a018",
+      "kind": "causes",
+      "condition": "无",
+      "reason": "a017说明父母相爱释放荷尔蒙，a018说明幸福喜悦增加突触连接。"
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a018",
+      "target": "s-3163ba3cd835-c001:a019",
+      "kind": "causes",
+      "condition": "无",
+      "reason": "a018说明突触连接增加协调能力，a019说明突触连接好对专注力的影响。"
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a020",
+      "target": "s-3163ba3cd835-c001:a021",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "'术业有专攻'说明高学历不等于育儿认知，支持'父母认知的定义'中育儿认知需专门学习的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a020",
+      "target": "s-3163ba3cd835-c001:a022",
+      "kind": "contrasts",
+      "condition": "无",
+      "reason": "'父母育儿认知低下的表现'与'父母认知的定义'形成对比：前者是认知不足，后者是正确育儿认知。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a022",
+      "target": "s-3163ba3cd835-c001:a023",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "'高学历父母育儿失败的案例'是'父母育儿认知低下的表现'的具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a020",
+      "target": "s-3163ba3cd835-c001:a024",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "'提升父母育儿认知的方法'进一步说明正确认知对育儿的重要性，支持'父母认知的定义'。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a009",
+      "target": "s-3163ba3cd835-c001:a025",
+      "kind": "prerequisite",
+      "condition": "无",
+      "reason": "'课后作业：自我反省三个改进点'要求从三个前提条件中自我反省，因此需先明确'专注力的三个前提条件'所列内容。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原applies_to不属于允许类型，改为prerequisite。"
+    },
+    {
+      "source": "s-3163ba3cd835-c001:a015",
+      "target": "s-3163ba3cd835-c001:r001",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "a015和r001都说明家庭环境对专注力的影响，r001更具体描述机制。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "专注力",
+      "when": "家庭条件（如温暖、接纳）良好时，孩子专注力更好；家庭暴力等不良环境导致专注力差。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a015",
+        "s-3163ba3cd835-c001:r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "专注力",
+      "when": "父母相爱通过大脑发育（突触连接）影响专注力。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a017",
+        "s-3163ba3cd835-c001:a018",
+        "s-3163ba3cd835-c001:a019"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "专注力",
+      "when": "父母育儿认知正确时，能创造更好家庭条件帮助孩子专注。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a024"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a015",
+        "s-3163ba3cd835-c001:r001"
+      ],
+      "reason": "两者都描述家庭环境对专注力的影响，内容实质等价。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "改善孩子专注力的前提条件",
+      "steps": [
+        {
+          "action": "识别专注力的三个前提条件：家庭条件、父母婚姻、父母认知",
+          "atom_ids": [
+            "s-3163ba3cd835-c001:a009"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "评估家庭条件：检查家庭氛围是否温暖、接纳、愉悦",
+          "atom_ids": [
+            "s-3163ba3cd835-c001:a010",
+            "s-3163ba3cd835-c001:a012",
+            "s-3163ba3cd835-c001:a013"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "评估父母婚姻：检查是否相爱、是否经常吵架等",
+          "atom_ids": [
+            "s-3163ba3cd835-c001:a016"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "评估父母认知：检查育儿认知是否正确",
+          "atom_ids": [
+            "s-3163ba3cd835-c001:a020",
+            "s-3163ba3cd835-c001:a022"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "针对三个前提条件进行改进",
+          "atom_ids": [
+            "s-3163ba3cd835-c001:a024",
+            "s-3163ba3cd835-c001:a025"
+          ],
+          "condition": "无"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-3163ba3cd835-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a002"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a003"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a004"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a005"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a006"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a007"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a008"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a009"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u010",
+      "kind": "definition",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a010"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u011",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a011"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u012",
+      "kind": "definition",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a012"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a013"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u014",
+      "kind": "example",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a014"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u015",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a015",
+        "s-3163ba3cd835-c001:r001"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u016",
+      "kind": "definition",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a016"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u017",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a017"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u018",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a018"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u019",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a019"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u020",
+      "kind": "definition",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a020"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u021",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a021"
+      ],
+      "blocks": [
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u022",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a022"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u023",
+      "kind": "case",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a023"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u024",
+      "kind": "method",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a024"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-3163ba3cd835-c001:u025",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-3163ba3cd835-c001:a025"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026",
+        "b00027"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

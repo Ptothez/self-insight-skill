@@ -1,0 +1,1753 @@
+{
+  "concepts": [
+    {
+      "name": "赋能式管教",
+      "definition": "管教目标不应只是行为要求，而应赋能给孩子，让孩子明白行为对自己的伤害，从而自己做对的决定。",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a009",
+        "s-0fd758c071ac-c001:a010",
+        "s-0fd758c071ac-c001:a011",
+        "s-0fd758c071ac-c001:a014"
+      ]
+    },
+    {
+      "name": "自然后果",
+      "definition": "让孩子承受自己行为的自然结果，父母不应因保护孩子而破坏自然后果。",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a012",
+        "s-0fd758c071ac-c001:r001",
+        "s-0fd758c071ac-c002:a011"
+      ]
+    },
+    {
+      "name": "父母一致",
+      "definition": "父母在管教孩子时应保持一致，避免孩子操纵父母关系。",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a012",
+        "s-0fd758c071ac-c001:r001"
+      ]
+    },
+    {
+      "name": "游戏上瘾",
+      "definition": "孩子沉迷游戏是因为游戏提供了他们在现实生活中缺乏的东西，如趣味、轻松感、归属感和力量感。打游戏和游戏上瘾是两回事，目标是培养不上瘾的孩子。",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a005",
+        "s-0fd758c071ac-c002:a006"
+      ]
+    },
+    {
+      "name": "社交排斥处理",
+      "definition": "处理兄弟姐妹间社交排斥的方法，包括家长组织游戏、避免剥夺哥哥社交权利、为被排斥的孩子安排单独陪伴时间。",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a001",
+        "s-0fd758c071ac-c002:a002",
+        "s-0fd758c071ac-c002:a003",
+        "s-0fd758c071ac-c002:r001"
+      ]
+    },
+    {
+      "name": "奖励原则",
+      "definition": "奖励孩子时，不用物质奖励，不是每次必奖励，随机奖励是可以的，可以用精神奖励。",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a012",
+        "s-0fd758c071ac-c002:a013"
+      ]
+    },
+    {
+      "name": "家长力量",
+      "definition": "家长自身需要有力量，才能赋能给孩子，保护孩子免受伤害。",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a019",
+        "s-0fd758c071ac-c002:a024",
+        "s-0fd758c071ac-c002:a026"
+      ]
+    },
+    {
+      "name": "上学哭闹处理",
+      "definition": "当孩子上学哭闹时，家长应大大方方地告别，承诺下午接孩子，每天坚持，孩子会逐渐适应。",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a022",
+        "s-0fd758c071ac-c003:a001"
+      ]
+    },
+    {
+      "name": "挫折教育",
+      "definition": "当孩子因外部原因未得到想要的东西而伤心时，家长应陪伴安慰，但不要求道歉，让孩子明白不是每件事都能如愿。",
+      "atom_ids": [
+        "s-0fd758c071ac-c003:a003",
+        "s-0fd758c071ac-c003:a007"
+      ]
+    },
+    {
+      "name": "感受表达",
+      "definition": "当孩子关心家长时，家长应表达因为孩子的关心而感到开心，而不是对事情本身感到高兴。",
+      "atom_ids": [
+        "s-0fd758c071ac-c003:a002",
+        "s-0fd758c071ac-c003:a004"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-0fd758c071ac-c001:a009",
+      "target": "s-0fd758c071ac-c001:a010",
+      "kind": "supports",
+      "condition": "赋能式管教的具体方法",
+      "reason": "a009提出赋能目标，a010给出具体方法，后者支持前者。"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:a010",
+      "target": "s-0fd758c071ac-c001:a011",
+      "kind": "supports",
+      "condition": "孩子的错误不是行为本身",
+      "reason": "a010指出让孩子认识到错误是伤害自己，a011进一步解释错误不是行为本身，而是选择伤害自己。"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:a012",
+      "target": "s-0fd758c071ac-c001:r001",
+      "kind": "supports",
+      "condition": "处理孩子打爸爸的自然后果原则",
+      "reason": "a012是案例，r001是原则总结，两者一致。"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a005",
+      "target": "s-0fd758c071ac-c002:a006",
+      "kind": "supports",
+      "condition": "游戏上瘾的原因与区别",
+      "reason": "“孩子沉迷游戏的原因”解释沉迷根源，支持“打游戏与游戏上瘾的区别”中关于上瘾本质的理解。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a001",
+      "target": "s-0fd758c071ac-c002:a002",
+      "kind": "contrasts",
+      "condition": "处理社交排斥的不同方法",
+      "reason": "a001是家长组织游戏，a002是避免剥夺哥哥社交权利，两者是不同策略。"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a001",
+      "target": "s-0fd758c071ac-c002:a003",
+      "kind": "contrasts",
+      "condition": "处理社交排斥的不同方法",
+      "reason": "a001是家长组织游戏，a003是单独陪伴弟弟，两者是不同策略。"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a012",
+      "target": "s-0fd758c071ac-c002:a013",
+      "kind": "association",
+      "condition": "奖励原则与案例",
+      "reason": "“奖励孩子的原则”是原则，“用棒棒糖换奖励的案例”是其应用实例，但方向应为案例支持原则，原方向不成立，故为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 direction 不妥，改为关联"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a019",
+      "target": "s-0fd758c071ac-c002:a024",
+      "kind": "supports",
+      "condition": "家长力量不足无法赋能孩子",
+      "reason": "“家长自身力量不足无法赋能孩子”与“家长需先自我赋能才能赋能孩子”命题一致，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a022",
+      "target": "s-0fd758c071ac-c003:a001",
+      "kind": "supports",
+      "condition": "处理上学哭闹的方法",
+      "reason": "a022是简要方法，a003:a001是详细步骤，后者支持前者。"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:a003",
+      "target": "s-0fd758c071ac-c003:a007",
+      "kind": "association",
+      "condition": "孩子因工作人员失误未得到免费物品而伤心时",
+      "reason": "“处理孩子因失误未得到兔子而伤心的建议”包含不要求工作人员道歉，“不要求工作人员道歉的理由”解释原因；理由应支持建议，而非建议支持理由。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向颠倒。"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:a002",
+      "target": "s-0fd758c071ac-c003:a004",
+      "kind": "association",
+      "condition": "回应孩子关心时",
+      "reason": "“回应孩子关心时的感受表达”要求强调对孩子关心本身感到高兴，“区分对孩子的关心感到高兴与对事情本身感到高兴”说明该区别的重要性；两者高度重叠，但前者不直接支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向颠倒：应是对区别重要性的说明支持具体做法。"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:v2-n001",
+      "target": "s-0fd758c071ac-c001:a009",
+      "kind": "complements",
+      "condition": "管教目标选择时",
+      "reason": "源提出“行为目标若不赋能，就不是优先目标”，候选详细解释了赋能目标与行为目标的区别，补上了赋能目标的具体内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:a009",
+      "target": "s-0fd758c071ac-c001:v2-n001",
+      "kind": "complements",
+      "condition": "管教目标选择时",
+      "reason": "源提出“行为目标若不赋能，就不是优先目标”，候选详细解释了赋能目标与行为目标的区别，补上了赋能目标的具体内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:v2-n001",
+      "target": "s-0fd758c071ac-c002:a010",
+      "kind": "complements",
+      "condition": "存在多个管教目标时",
+      "reason": "源指出要确定优先次序，候选补充了需考虑主次和紧急程度，并强调需要训练分辨，补上了排序的具体维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a010",
+      "target": "s-0fd758c071ac-c001:v2-n001",
+      "kind": "complements",
+      "condition": "存在多个管教目标时",
+      "reason": "源指出要确定优先次序，候选补充了需考虑主次和紧急程度，并强调需要训练分辨，补上了排序的具体维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:v2-n001",
+      "target": "s-0fd758c071ac-c001:a010",
+      "kind": "complements",
+      "condition": "实施赋能式管教时",
+      "reason": "源强调赋能目标的重要性，候选给出了赋能式管教的具体三步方法：帮助孩子认识自己、选择做对的事、认识错误本质，补上了操作步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:a010",
+      "target": "s-0fd758c071ac-c001:v2-n001",
+      "kind": "complements",
+      "condition": "实施赋能式管教时",
+      "reason": "源强调赋能目标的重要性，候选给出了赋能式管教的具体三步方法：帮助孩子认识自己、选择做对的事、认识错误本质，补上了操作步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:v2-n001",
+      "target": "s-0fd758c071ac-c001:a014",
+      "kind": "complements",
+      "condition": "通过提问赋能孩子时",
+      "reason": "源提到赋能目标，候选补充了通过提问让孩子思考、增强自信的具体赋能手段，与赋能目标相结合。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:a014",
+      "target": "s-0fd758c071ac-c001:v2-n001",
+      "kind": "complements",
+      "condition": "通过提问赋能孩子时",
+      "reason": "源提到赋能目标，候选补充了通过提问让孩子思考、增强自信的具体赋能手段，与赋能目标相结合。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:v2-n001",
+      "target": "s-0fd758c071ac-c002:a024",
+      "kind": "complements",
+      "condition": "家长自身力量不足时",
+      "reason": "源涉及赋能孩子的目标，候选补充了实现赋能的前提：家长需先自我赋能，否则无法赋能孩子，补上了源未提及的前提条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a024",
+      "target": "s-0fd758c071ac-c001:v2-n001",
+      "kind": "complements",
+      "condition": "家长自身力量不足时",
+      "reason": "源涉及赋能孩子的目标，候选补充了实现赋能的前提：家长需先自我赋能，否则无法赋能孩子，补上了源未提及的前提条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:v2-n002",
+      "target": "s-0fd758c071ac-c001:a010",
+      "kind": "complements",
+      "condition": "适用于管教孩子时，需要引导其认识真正错误的情境",
+      "reason": "source 提出在管教中不否定孩子的轻狂特质，而应引导其认识真正错误；candidate 提供了赋能式管教的具体方法，包括让孩子认识到错误是伤害自己而非行为本身，补充了引导的具体步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:a010",
+      "target": "s-0fd758c071ac-c001:v2-n002",
+      "kind": "complements",
+      "condition": "适用于管教孩子时，需要引导其认识真正错误的情境",
+      "reason": "source 提出在管教中不否定孩子的轻狂特质，而应引导其认识真正错误；candidate 提供了赋能式管教的具体方法，包括让孩子认识到错误是伤害自己而非行为本身，补充了引导的具体步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:v2-n002",
+      "target": "s-0fd758c071ac-c001:a011",
+      "kind": "complements",
+      "condition": "适用于孩子有不当行为时，需要区分错误本质的情境",
+      "reason": "source 提出要引导孩子认识真正错误，但未说明错误是什么；candidate 明确指出错误不是行为本身，而是选择伤害自己，补充了这一实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:a011",
+      "target": "s-0fd758c071ac-c001:v2-n002",
+      "kind": "complements",
+      "condition": "适用于孩子有不当行为时，需要区分错误本质的情境",
+      "reason": "source 提出要引导孩子认识真正错误，但未说明错误是什么；candidate 明确指出错误不是行为本身，而是选择伤害自己，补充了这一实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:v2-n002",
+      "target": "s-0fd758c071ac-c001:a009",
+      "kind": "complements",
+      "condition": "适用于管教孩子时，尤其面对行为问题但需保护其自信心的情境",
+      "reason": "source 强调引导认识真正错误，candidate 进一步提出管教目标应赋能而非仅行为要求，让孩子明白行为对自己的伤害，补充了管教目标的原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:a009",
+      "target": "s-0fd758c071ac-c001:v2-n002",
+      "kind": "complements",
+      "condition": "适用于管教孩子时，尤其面对行为问题但需保护其自信心的情境",
+      "reason": "source 强调引导认识真正错误，candidate 进一步提出管教目标应赋能而非仅行为要求，让孩子明白行为对自己的伤害，补充了管教目标的原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:v2-n003",
+      "target": "s-0fd758c071ac-c002:a002",
+      "kind": "complements",
+      "condition": "适用于哥哥有自己喜欢的玩伴且弟弟处于排斥情境时",
+      "reason": "source 第二点建议不带哥哥去女孩那边以避免弟弟对比，但未说明如何平衡哥哥感受；candidate 补充了不应剥夺哥哥社交权利，需评估哥哥是否特别喜欢，若喜欢则不宜强行剥夺，从而在保护弟弟的同时兼顾哥哥公平。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a002",
+      "target": "s-0fd758c071ac-c001:v2-n003",
+      "kind": "complements",
+      "condition": "适用于哥哥有自己喜欢的玩伴且弟弟处于排斥情境时",
+      "reason": "source 第二点建议不带哥哥去女孩那边以避免弟弟对比，但未说明如何平衡哥哥感受；candidate 补充了不应剥夺哥哥社交权利，需评估哥哥是否特别喜欢，若喜欢则不宜强行剥夺，从而在保护弟弟的同时兼顾哥哥公平。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:v2-n003",
+      "target": "s-0fd758c071ac-c001:a015",
+      "kind": "association",
+      "condition": "适用于兄弟姐妹社交排斥时理解弟弟心理",
+      "reason": "source 提供介入方法，candidate 描述弟弟被排斥后的可能感受（觉得玩不到一起），两者相关但 source 不直接推导 candidate，且未提供因果证据，只能作为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c001:a015",
+      "target": "s-0fd758c071ac-c001:v2-n003",
+      "kind": "association",
+      "condition": "适用于兄弟姐妹社交排斥时理解弟弟心理",
+      "reason": "source 提供介入方法，candidate 描述弟弟被排斥后的可能感受（觉得玩不到一起），两者相关但 source 不直接推导 candidate，且未提供因果证据，只能作为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:v2-n001",
+      "target": "s-0fd758c071ac-c002:a007",
+      "kind": "complements",
+      "condition": "适用于孩子遭受家庭暴力后家长沟通的情境",
+      "reason": "source 描述孩子被爸爸打后妈妈的困惑，candidate 提供了具体沟通原则（避免将暴力与爱关联，帮助分析因果关系），补充了应对该案例的实际建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a007",
+      "target": "s-0fd758c071ac-c002:v2-n001",
+      "kind": "complements",
+      "condition": "适用于孩子遭受家庭暴力后家长沟通的情境",
+      "reason": "source 描述孩子被爸爸打后妈妈的困惑，candidate 提供了具体沟通原则（避免将暴力与爱关联，帮助分析因果关系），补充了应对该案例的实际建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:v2-n001",
+      "target": "s-0fd758c071ac-c003:a006",
+      "kind": "complements",
+      "condition": "适用于孩子遭受伤害后家长安慰陪伴的情境",
+      "reason": "source 中妈妈抱住孩子哭提供陪伴，candidate 明确家长可以陪伴但伤痛需孩子自己面对，不能代替，补充了陪伴时的边界。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:a006",
+      "target": "s-0fd758c071ac-c002:v2-n001",
+      "kind": "complements",
+      "condition": "适用于孩子遭受伤害后家长安慰陪伴的情境",
+      "reason": "source 中妈妈抱住孩子哭提供陪伴，candidate 明确家长可以陪伴但伤痛需孩子自己面对，不能代替，补充了陪伴时的边界。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:v2-n001",
+      "target": "s-0fd758c071ac-c002:v2-n002",
+      "kind": "association",
+      "condition": "均为家长求助案例但主题不同",
+      "reason": "两个案例同属家长提问，但一个问题是被打，一个是平板上瘾，无直接逻辑关联，仅作泛泛关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:v2-n002",
+      "target": "s-0fd758c071ac-c002:v2-n001",
+      "kind": "association",
+      "condition": "均为家长求助案例但主题不同",
+      "reason": "两个案例同属家长提问，但一个问题是被打，一个是平板上瘾，无直接逻辑关联，仅作泛泛关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:v2-n001",
+      "target": "s-0fd758c071ac-c002:a020",
+      "kind": "association",
+      "condition": "适用于保护孩子免受伤害但伤害来源不同",
+      "reason": "source 中爸爸打孩子，candidate 主要针对亲戚伤害，两者都涉及保护孩子但因伤害来源不同，无法直接等同，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a020",
+      "target": "s-0fd758c071ac-c002:v2-n001",
+      "kind": "association",
+      "condition": "适用于保护孩子免受伤害但伤害来源不同",
+      "reason": "source 中爸爸打孩子，candidate 主要针对亲戚伤害，两者都涉及保护孩子但因伤害来源不同，无法直接等同，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:v2-n001",
+      "target": "s-0fd758c071ac-c002:a021",
+      "kind": "association",
+      "condition": "适用于保护孩子免受伤害的场景",
+      "reason": "source 是孩子被爸爸打，candidate 是保护孩子免受公婆伤害，均有保护动机但具体情境不同，无直接逻辑，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a021",
+      "target": "s-0fd758c071ac-c002:v2-n001",
+      "kind": "association",
+      "condition": "适用于保护孩子免受伤害的场景",
+      "reason": "source 是孩子被爸爸打，candidate 是保护孩子免受公婆伤害，均有保护动机但具体情境不同，无直接逻辑，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:v2-n002",
+      "target": "s-0fd758c071ac-c002:a019",
+      "kind": "complements",
+      "condition": "适用于家长感到无力、孩子有依赖问题（如平板上瘾）的情境",
+      "reason": "source 中讲者建议先解决家长自身力量问题，candidate 给出了理由：家长没有力量就无法赋能孩子，补充了这一判断的理论依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a019",
+      "target": "s-0fd758c071ac-c002:v2-n002",
+      "kind": "complements",
+      "condition": "适用于家长感到无力、孩子有依赖问题（如平板上瘾）的情境",
+      "reason": "source 中讲者建议先解决家长自身力量问题，candidate 给出了理由：家长没有力量就无法赋能孩子，补充了这一判断的理论依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:v2-n002",
+      "target": "s-0fd758c071ac-c002:a005",
+      "kind": "complements",
+      "condition": "适用于分析孩子平板上瘾的成因",
+      "reason": "source 描述孩子平板上瘾但未深入分析原因，candidate 指出游戏提供了现实中缺乏的趣味、归属感、力量感，并提到父母陪伴不足等现实因素，补充了上瘾的成因解释。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a005",
+      "target": "s-0fd758c071ac-c002:v2-n002",
+      "kind": "complements",
+      "condition": "适用于分析孩子平板上瘾的成因",
+      "reason": "source 描述孩子平板上瘾但未深入分析原因，candidate 指出游戏提供了现实中缺乏的趣味、归属感、力量感，并提到父母陪伴不足等现实因素，补充了上瘾的成因解释。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:v2-n002",
+      "target": "s-0fd758c071ac-c002:a024",
+      "kind": "complements",
+      "condition": "适用于家长感到无力、需要赋能孩子的情境",
+      "reason": "source 中讲者回应应先解决家长自身力量问题，candidate 重复强调家长需先自我赋能，否则无法赋能孩子，补充了同一原则的另一种表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a024",
+      "target": "s-0fd758c071ac-c002:v2-n002",
+      "kind": "complements",
+      "condition": "适用于家长感到无力、需要赋能孩子的情境",
+      "reason": "source 中讲者回应应先解决家长自身力量问题，candidate 重复强调家长需先自我赋能，否则无法赋能孩子，补充了同一原则的另一种表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:v2-n002",
+      "target": "s-0fd758c071ac-c002:a004",
+      "kind": "association",
+      "condition": "适用于孩子游戏/平板上瘾时的管理建议",
+      "reason": "source 中孩子平板上瘾，candidate 建议给予合理游戏时间而非完全禁止；两者都涉及游戏管理，但 source 未明确提及该策略，证据不足，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a004",
+      "target": "s-0fd758c071ac-c002:v2-n002",
+      "kind": "association",
+      "condition": "适用于孩子游戏/平板上瘾时的管理建议",
+      "reason": "source 中孩子平板上瘾，candidate 建议给予合理游戏时间而非完全禁止；两者都涉及游戏管理，但 source 未明确提及该策略，证据不足，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:v2-n002",
+      "target": "s-0fd758c071ac-c002:a006",
+      "kind": "association",
+      "condition": "适用于区分游戏行为与成瘾",
+      "reason": "source 提到平板上瘾，candidate 区分打游戏与游戏上瘾并建议培养不上瘾而非禁止；但 source 未具体涉及该区分，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a006",
+      "target": "s-0fd758c071ac-c002:v2-n002",
+      "kind": "association",
+      "condition": "适用于区分游戏行为与成瘾",
+      "reason": "source 提到平板上瘾，candidate 区分打游戏与游戏上瘾并建议培养不上瘾而非禁止；但 source 未具体涉及该区分，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:v2-n002",
+      "target": "s-0fd758c071ac-c002:v2-n001",
+      "kind": "association",
+      "condition": "均为家长求助案例且主题不同",
+      "reason": "两个案例同属家长提问，但一个平板上瘾，一个被打，无直接逻辑关系，仅作泛泛关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:v2-n001",
+      "target": "s-0fd758c071ac-c002:v2-n002",
+      "kind": "association",
+      "condition": "均为家长求助案例且主题不同",
+      "reason": "两个案例同属家长提问，但一个平板上瘾，一个被打，无直接逻辑关系，仅作泛泛关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:v2-n002",
+      "target": "s-0fd758c071ac-c002:a020",
+      "kind": "association",
+      "condition": "适用于孩子沉迷游戏可能因缺乏保护的情境",
+      "reason": "candidate 提到孩子沉迷游戏是因为现实中缺乏保护、父母懦弱；source 中孩子平板上瘾且父母陪伴不足，有一定相关但来源不同，证据不足，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a020",
+      "target": "s-0fd758c071ac-c002:v2-n002",
+      "kind": "association",
+      "condition": "适用于孩子沉迷游戏可能因缺乏保护的情境",
+      "reason": "candidate 提到孩子沉迷游戏是因为现实中缺乏保护、父母懦弱；source 中孩子平板上瘾且父母陪伴不足，有一定相关但来源不同，证据不足，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n001",
+      "target": "s-0fd758c071ac-c003:v2-n002",
+      "kind": "example_of",
+      "condition": "适用于孩子受到他人错误对待时家长保护孩子的情境",
+      "reason": "source 描述讲者拍桌指脸要求对方承认错误以保护孩子，具体体现了 target 中‘家长应站起来保护孩子，为孩子争取正义’的原则，是 target 的一个例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n002",
+      "target": "s-0fd758c071ac-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "适用于孩子受到他人错误对待时家长保护孩子的情境",
+      "reason": "source 描述讲者拍桌指脸要求对方承认错误以保护孩子，具体体现了 target 中‘家长应站起来保护孩子，为孩子争取正义’的原则，是 target 的一个例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n001",
+      "target": "s-0fd758c071ac-c002:a021",
+      "kind": "association",
+      "condition": "无特定条件，内容高度重叠",
+      "reason": "source 与 target 描述的案例几乎相同（拍桌指脸要求承认错误），但 target 明确对象为公婆，source 未明确；因此仅为内容重复，无新增实质信息，关系不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a021",
+      "target": "s-0fd758c071ac-c003:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，内容高度重叠",
+      "reason": "source 与 target 描述的案例几乎相同（拍桌指脸要求承认错误），但 target 明确对象为公婆，source 未明确；因此仅为内容重复，无新增实质信息，关系不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n001",
+      "target": "s-0fd758c071ac-c002:a025",
+      "kind": "association",
+      "condition": "适用于孩子被亲戚伤害的情境",
+      "reason": "source 未明确对方身份，target 限定亲戚伤害；两者都涉及保护孩子但范围不同，无法直接等同，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a025",
+      "target": "s-0fd758c071ac-c003:v2-n001",
+      "kind": "association",
+      "condition": "适用于孩子被亲戚伤害的情境",
+      "reason": "source 未明确对方身份，target 限定亲戚伤害；两者都涉及保护孩子但范围不同，无法直接等同，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n001",
+      "target": "s-0fd758c071ac-c002:a024",
+      "kind": "association",
+      "condition": "适用于家长赋能孩子的前提",
+      "reason": "source 展示保护行为，target 说明家长需有力量才能赋能；两者相关但 source 未直接说明自身力量，无法确认因果，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a024",
+      "target": "s-0fd758c071ac-c003:v2-n001",
+      "kind": "association",
+      "condition": "适用于家长赋能孩子的前提",
+      "reason": "source 展示保护行为，target 说明家长需有力量才能赋能；两者相关但 source 未直接说明自身力量，无法确认因果，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n001",
+      "target": "s-0fd758c071ac-c002:a019",
+      "kind": "association",
+      "condition": "适用于家长感到无力的情况",
+      "reason": "source 是力量展示，target 是力量不足的后果；两者相对但未形成直接矛盾或因果，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a019",
+      "target": "s-0fd758c071ac-c003:v2-n001",
+      "kind": "association",
+      "condition": "适用于家长感到无力的情况",
+      "reason": "source 是力量展示，target 是力量不足的后果；两者相对但未形成直接矛盾或因果，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n001",
+      "target": "s-0fd758c071ac-c002:a020",
+      "kind": "association",
+      "condition": "适用于孩子被亲戚伤害且可能受游戏影响",
+      "reason": "source 未涉及游戏沉迷，target 提到不敢保护会导致孩子沉迷游戏；两者有保护主题关联但 source 无此信息，证据不足，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a020",
+      "target": "s-0fd758c071ac-c003:v2-n001",
+      "kind": "association",
+      "condition": "适用于孩子被亲戚伤害且可能受游戏影响",
+      "reason": "source 未涉及游戏沉迷，target 提到不敢保护会导致孩子沉迷游戏；两者有保护主题关联但 source 无此信息，证据不足，仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n002",
+      "target": "s-0fd758c071ac-c002:a025",
+      "kind": "complements",
+      "condition": "适用于孩子被亲戚伤害的情境",
+      "reason": "source 提出家长应保护孩子以赋能，但未说明具体对象和方式；candidate 明确针对亲戚伤害，补充了勇敢面对亲戚并指出错误的具体做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a025",
+      "target": "s-0fd758c071ac-c003:v2-n002",
+      "kind": "complements",
+      "condition": "适用于孩子被亲戚伤害的情境",
+      "reason": "source 提出家长应保护孩子以赋能，但未说明具体对象和方式；candidate 明确针对亲戚伤害，补充了勇敢面对亲戚并指出错误的具体做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n002",
+      "target": "s-0fd758c071ac-c002:a020",
+      "kind": "complements",
+      "condition": "适用于孩子被亲戚伤害且家长犹豫不决的情况",
+      "reason": "source 强调保护孩子以赋能，candidate 补充了不保护孩子（不敢面对）会导致孩子沉迷游戏，并指出具体保护方式（指出错误），强化了 source 的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a020",
+      "target": "s-0fd758c071ac-c003:v2-n002",
+      "kind": "complements",
+      "condition": "适用于孩子被亲戚伤害且家长犹豫不决的情况",
+      "reason": "source 强调保护孩子以赋能，candidate 补充了不保护孩子（不敢面对）会导致孩子沉迷游戏，并指出具体保护方式（指出错误），强化了 source 的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n002",
+      "target": "s-0fd758c071ac-c003:v2-n001",
+      "kind": "complements",
+      "condition": "适用于孩子受到他人错误对待时家长采取激烈方式保护的情境",
+      "reason": "source 提出保护孩子以赋能，candidate 提供了一个具体案例：拍桌指脸要求对方承认错误，补充了保护行动的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n001",
+      "target": "s-0fd758c071ac-c003:v2-n002",
+      "kind": "complements",
+      "condition": "适用于孩子受到他人错误对待时家长采取激烈方式保护的情境",
+      "reason": "source 提出保护孩子以赋能，candidate 提供了一个具体案例：拍桌指脸要求对方承认错误，补充了保护行动的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n002",
+      "target": "s-0fd758c071ac-c002:a024",
+      "kind": "complements",
+      "condition": "适用于家长感到无力、难以保护孩子的情境",
+      "reason": "source 提出家长应保护孩子以赋能，candidate 补充了实现保护的前提条件：家长自身需有力量，否则无法赋能孩子，补充了内在要求。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a024",
+      "target": "s-0fd758c071ac-c003:v2-n002",
+      "kind": "complements",
+      "condition": "适用于家长感到无力、难以保护孩子的情境",
+      "reason": "source 提出家长应保护孩子以赋能，candidate 补充了实现保护的前提条件：家长自身需有力量，否则无法赋能孩子，补充了内在要求。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n002",
+      "target": "s-0fd758c071ac-c002:a019",
+      "kind": "complements",
+      "condition": "适用于家长力量不足的情况",
+      "reason": "source 强调保护孩子，candidate 说明家长力量不足的后果（孩子寻求强者保护），补充了家长需有力量的另一面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a019",
+      "target": "s-0fd758c071ac-c003:v2-n002",
+      "kind": "complements",
+      "condition": "适用于家长力量不足的情况",
+      "reason": "source 强调保护孩子，candidate 说明家长力量不足的后果（孩子寻求强者保护），补充了家长需有力量的另一面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n002",
+      "target": "s-0fd758c071ac-c002:a026",
+      "kind": "complements",
+      "condition": "适用于家长感到无力、需要提升力量的情境",
+      "reason": "source 提出家长应保护孩子以赋能，但未说明如何具备力量；candidate 建议通过训练营提升自我力量，补充了具体行动途径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a026",
+      "target": "s-0fd758c071ac-c003:v2-n002",
+      "kind": "complements",
+      "condition": "适用于家长感到无力、需要提升力量的情境",
+      "reason": "source 提出家长应保护孩子以赋能，但未说明如何具备力量；candidate 建议通过训练营提升自我力量，补充了具体行动途径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n002",
+      "target": "s-0fd758c071ac-c002:a008",
+      "kind": "complements",
+      "condition": "适用于家长因保护孩子与老师沟通后孩子感到受伤的情况",
+      "reason": "source 提出家长应保护孩子以赋能，candidate 给出了具体场景中的原则：家长与老师沟通后不向孩子道歉，坚持保护立场，补充了保护行为在特定冲突中的处理细则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a008",
+      "target": "s-0fd758c071ac-c003:v2-n002",
+      "kind": "complements",
+      "condition": "适用于家长因保护孩子与老师沟通后孩子感到受伤的情况",
+      "reason": "source 提出家长应保护孩子以赋能，candidate 给出了具体场景中的原则：家长与老师沟通后不向孩子道歉，坚持保护立场，补充了保护行为在特定冲突中的处理细则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c003:v2-n002",
+      "target": "s-0fd758c071ac-c002:a021",
+      "kind": "complements",
+      "condition": "适用于孩子被亲戚伤害时家长保护的实际操作",
+      "reason": "source 提出保护孩子以赋能，candidate 给出了具体案例：讲师拍桌指脸要求公婆承认错误，展示了保护行为的具体方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0fd758c071ac-c002:a021",
+      "target": "s-0fd758c071ac-c003:v2-n002",
+      "kind": "complements",
+      "condition": "适用于孩子被亲戚伤害时家长保护的实际操作",
+      "reason": "source 提出保护孩子以赋能，candidate 给出了具体案例：讲师拍桌指脸要求公婆承认错误，展示了保护行为的具体方式。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "处理孩子打爸爸时，需要父母一致并让孩子承受自然后果",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a012",
+        "s-0fd758c071ac-c001:r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "处理孩子被爸爸打后的沟通，避免将暴力与爱关联",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "依赖与失控",
+      "when": "处理孩子游戏上瘾，需要设定游戏时间并理解上瘾原因",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a004",
+        "s-0fd758c071ac-c002:a005",
+        "s-0fd758c071ac-c002:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-0fd758c071ac-c002:a004",
+          "limits": [
+            "如果完全取消游戏时间，孩子可能偷偷玩更长时间"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "阶段与角色",
+      "when": "根据孩子年龄给予适当的力量，避免过度民主导致骄纵",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a015",
+        "s-0fd758c071ac-c002:a016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "界限",
+      "when": "家长自身力量不足时，无法赋能孩子，需要先自我赋能",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a019",
+        "s-0fd758c071ac-c002:a024",
+        "s-0fd758c071ac-c002:a026"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a019",
+        "s-0fd758c071ac-c002:a024"
+      ],
+      "reason": "内容完全相同，都是关于家长自身力量不足无法赋能孩子。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a020",
+        "s-0fd758c071ac-c002:a025"
+      ],
+      "reason": "内容完全相同，都是关于保护孩子免受亲戚伤害。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a001",
+        "s-0fd758c071ac-c002:r001"
+      ],
+      "reason": "内容完全相同，都是家长组织游戏需持续在场。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a002"
+      ],
+      "reason": "内容完全相同，都是避免剥夺哥哥社交权利的处理方式。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a003"
+      ],
+      "reason": "内容完全相同，都是为被排斥的孩子安排单独陪伴时间。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a004"
+      ],
+      "reason": "内容完全相同，都是给予孩子游戏时间的必要性。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a005"
+      ],
+      "reason": "内容完全相同，都是孩子沉迷游戏的原因。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a006"
+      ],
+      "reason": "内容完全相同，都是打游戏与游戏上瘾的区别。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a007"
+      ],
+      "reason": "内容完全相同，都是处理孩子被打后的沟通方式。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a008"
+      ],
+      "reason": "内容完全相同，都是家长与老师沟通后不向孩子道歉的原则。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a009"
+      ],
+      "reason": "内容完全相同，都是家庭需要优先于孩子需要。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a010"
+      ],
+      "reason": "内容完全相同，都是管教目标的主次和紧急程度。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a011"
+      ],
+      "reason": "内容完全相同，都是设定睡觉时间并允许孩子承担后果。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a012"
+      ],
+      "reason": "内容完全相同，都是奖励孩子的原则。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a013"
+      ],
+      "reason": "内容完全相同，都是用棒棒糖换奖励的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a014"
+      ],
+      "reason": "内容完全相同，都是强迫孩子上已报名的课程。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a015"
+      ],
+      "reason": "内容完全相同，都是根据年龄给予孩子适当的力量。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a016"
+      ],
+      "reason": "内容完全相同，都是过度民主导致孩子骄纵。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a017"
+      ],
+      "reason": "内容完全相同，都是严格与轻松并存的管教方式。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a018"
+      ],
+      "reason": "内容完全相同，都是强迫孩子上跆拳道课的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a020"
+      ],
+      "reason": "内容完全相同，都是保护孩子免受亲戚伤害。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a021"
+      ],
+      "reason": "内容完全相同，都是讲师与公婆冲突保护孩子的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a022"
+      ],
+      "reason": "内容完全相同，都是处理孩子上学哭闹的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a023"
+      ],
+      "reason": "内容完全相同，都是家长应克制溺爱倾向。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a026"
+      ],
+      "reason": "内容完全相同，都是家长应通过训练营提升自我力量。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a012",
+        "s-0fd758c071ac-c002:a007"
+      ],
+      "description": "a012建议妈妈与爸爸站在同一战线，让孩子承受自然后果；a007建议不要对孩子说“爸爸打你是不对的，但爸爸仍然爱你”，因为会让孩子误以为被打是爱的表现。两者都涉及家庭暴力，但a012可能让孩子承受爸爸的生气，而a007强调避免将暴力与爱关联，存在潜在矛盾。",
+      "needed_evidence": "需要明确在家庭暴力情况下，如何平衡父母一致与保护孩子免受伤害。"
+    },
+    {
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a014",
+        "s-0fd758c071ac-c002:a018"
+      ],
+      "description": "a014建议强迫孩子上已报名的课程，要求孩子还钱；a018是强迫孩子上跆拳道课的案例，即使哭着也要进去学完。两者都涉及强迫，但未考虑孩子的意愿和心理健康，可能引发争议。",
+      "needed_evidence": "需要评估强迫孩子上课的长期影响，以及是否有更温和的方法。"
+    }
+  ],
+  "path": [
+    {
+      "name": "赋能式管教流程",
+      "steps": [
+        {
+          "action": "帮助孩子认识自己：指出有能力控制行为但故意选择",
+          "atom_ids": [
+            "s-0fd758c071ac-c001:a010"
+          ],
+          "condition": "孩子出现不当行为时"
+        },
+        {
+          "action": "让孩子选择做对的事还是伤害自己的事",
+          "atom_ids": [
+            "s-0fd758c071ac-c001:a010"
+          ],
+          "condition": "孩子认识到自己的选择后"
+        },
+        {
+          "action": "让孩子认识到错误：错误是伤害自己，而非行为本身",
+          "atom_ids": [
+            "s-0fd758c071ac-c001:a010",
+            "s-0fd758c071ac-c001:a011"
+          ],
+          "condition": "孩子做出选择后"
+        },
+        {
+          "action": "通过提问赋能孩子：问孩子学到什么功课，下次可以做什么",
+          "atom_ids": [
+            "s-0fd758c071ac-c001:a014"
+          ],
+          "condition": "孩子犯错后"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-0fd758c071ac-c001:u01",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a001"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u02",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a002"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u03",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a003"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u04",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a004"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u05",
+      "kind": "case",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a005"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u06",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a006"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u07",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a007"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u08",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a008"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017",
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u09",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a009"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023",
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u10",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a010"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035",
+        "b00036",
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u11",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a011"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u12",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u13",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00024",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u14",
+      "kind": "case",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a012",
+        "s-0fd758c071ac-c001:r001"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045",
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00049",
+        "b00050",
+        "b00051",
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u15",
+      "kind": "condition",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a013"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u16",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a014"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u17a",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:a015"
+      ],
+      "blocks": [
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c001:u17b",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0001",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a001"
+      ],
+      "blocks": [
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0002",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a003"
+      ],
+      "blocks": [
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0003",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a002"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a004"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069",
+        "b00070",
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a005"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071",
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0006",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a006"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0008",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a007"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079",
+        "b00080",
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a008"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085",
+        "b00086",
+        "b00087",
+        "b00088",
+        "b00089",
+        "b00090",
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0010",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a009"
+      ],
+      "blocks": [
+        "b00093",
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0011",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a010"
+      ],
+      "blocks": [
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0012",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a011"
+      ],
+      "blocks": [
+        "b00096",
+        "b00097",
+        "b00098",
+        "b00099"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a012"
+      ],
+      "blocks": [
+        "b00100",
+        "b00101"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0014",
+      "kind": "case",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a013"
+      ],
+      "blocks": [
+        "b00102",
+        "b00103",
+        "b00104",
+        "b00105",
+        "b00106"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0015",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a014"
+      ],
+      "blocks": [
+        "b00107",
+        "b00108",
+        "b00109",
+        "b00113",
+        "b00114",
+        "b00118"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0016",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a015"
+      ],
+      "blocks": [
+        "b00109",
+        "b00110",
+        "b00111"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0017",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a016"
+      ],
+      "blocks": [
+        "b00111",
+        "b00112"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0018",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a017"
+      ],
+      "blocks": [
+        "b00115",
+        "b00116"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0019",
+      "kind": "case",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a018"
+      ],
+      "blocks": [
+        "b00116",
+        "b00117"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0020",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a019"
+      ],
+      "blocks": [
+        "b00122",
+        "b00123",
+        "b00124"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0021",
+      "kind": "case",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00121",
+        "b00122"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0022",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a020"
+      ],
+      "blocks": [
+        "b00125",
+        "b00126",
+        "b00127",
+        "b00129"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0023",
+      "kind": "case",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a021"
+      ],
+      "blocks": [
+        "b00127",
+        "b00128"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0024",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a023"
+      ],
+      "blocks": [
+        "b00118",
+        "b00119",
+        "b00120"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c002:u0025",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:a026"
+      ],
+      "blocks": [
+        "b00129"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c003:u1",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c003:a001"
+      ],
+      "blocks": [
+        "b00130",
+        "b00131",
+        "b00132"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c003:u2",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c003:a002",
+        "s-0fd758c071ac-c003:a004"
+      ],
+      "blocks": [
+        "b00133",
+        "b00134",
+        "b00135"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c003:u3",
+      "kind": "method",
+      "atom_ids": [
+        "s-0fd758c071ac-c003:a003",
+        "s-0fd758c071ac-c003:a005",
+        "s-0fd758c071ac-c003:a006",
+        "s-0fd758c071ac-c003:a007"
+      ],
+      "blocks": [
+        "b00137",
+        "b00138",
+        "b00139",
+        "b00140",
+        "b00141",
+        "b00142",
+        "b00143",
+        "b00144",
+        "b00145",
+        "b00146"
+      ]
+    },
+    {
+      "id": "s-0fd758c071ac-c003:u4",
+      "kind": "case_method",
+      "atom_ids": [
+        "s-0fd758c071ac-c003:v2-n001",
+        "s-0fd758c071ac-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00128",
+        "b00129"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "管教目标需确定优先次序",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0fd758c071ac",
+          "blocks": [
+            "b00024",
+            "b00057"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "孩子的年少轻狂是优良品质",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0fd758c071ac",
+          "blocks": [
+            "b00037"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "处理兄弟姐妹社交排斥的介入方法",
+      "atom_ids": [
+        "s-0fd758c071ac-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0fd758c071ac",
+          "blocks": [
+            "b00064",
+            "b00065"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "婷婷被爸爸打后妈妈抱住哭的案例",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0fd758c071ac",
+          "blocks": [
+            "b00077"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "侯彩玲孩子平板上瘾与父母陪伴不足的案例",
+      "atom_ids": [
+        "s-0fd758c071ac-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0fd758c071ac",
+          "blocks": [
+            "b00121",
+            "b00122"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "讲者分享保护孩子的激烈方式：拍桌指脸要求承认错误",
+      "atom_ids": [
+        "s-0fd758c071ac-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0fd758c071ac",
+          "blocks": [
+            "b00128",
+            "b00129"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "家长应保护孩子以赋能",
+      "atom_ids": [
+        "s-0fd758c071ac-c003:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0fd758c071ac",
+          "blocks": [
+            "b00128",
+            "b00129"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

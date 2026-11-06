@@ -1,0 +1,1076 @@
+{
+  "concepts": [
+    {
+      "name": "HD（多动/冲动）",
+      "definition": "ADHD 中的多动/冲动部分，表现为持续地动和冲动性行为。",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a001"
+      ]
+    },
+    {
+      "name": "HD 与普通好动的区别",
+      "definition": "HD 孩子的多动带有强迫性和冲动性，无法控制，不做不行；普通孩子的好动是出于好奇和贪玩，可以自我调节。",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a002",
+        "s-443c411c50a2-c001:a010",
+        "s-443c411c50a2-c001:r001",
+        "s-443c411c50a2-c001:r002"
+      ]
+    },
+    {
+      "name": "HD 行为表征",
+      "definition": "包括坐立不安、要求坐着时站起来、不合适环境奔跑攀爬、停不下来带强迫性等。",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a003",
+        "s-443c411c50a2-c001:a007",
+        "s-443c411c50a2-c001:a008",
+        "s-443c411c50a2-c001:a010",
+        "s-443c411c50a2-c001:r002"
+      ]
+    },
+    {
+      "name": "HD 语言表征",
+      "definition": "包括说话快且跳跃、打断别人说话、抢答问题等。",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a012",
+        "s-443c411c50a2-c001:a014",
+        "s-443c411c50a2-c001:a015"
+      ]
+    },
+    {
+      "name": "ADHD 诊断条件",
+      "definition": "症状在12岁前出现、出现在两个以上环境、严重影响社交生活学习或工作、排除其他精神或身体原因。",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a016",
+        "s-443c411c50a2-c001:a017",
+        "s-443c411c50a2-c001:a018",
+        "s-443c411c50a2-c001:a019"
+      ]
+    },
+    {
+      "name": "判断孩子是否有多动症的方法",
+      "definition": "根据 HD 的行为表征和 ADHD 诊断条件来判断。",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a020"
+      ]
+    },
+    {
+      "name": "不要随意贴多动症标签",
+      "definition": "标签会给孩子带来心理压力，即使孩子调皮也不应贴标签。",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a022"
+      ]
+    },
+    {
+      "name": "精力旺盛孩子的成长优势",
+      "definition": "精力旺盛的孩子在接纳和鼓励下长大，会有更充沛的精力，对学习和事业带来祝福。",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a023"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-443c411c50a2-c001:a001",
+      "target": "s-443c411c50a2-c001:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "HD 的定义中强调持续地动和冲动性行为，而 a002 进一步说明这种多动带有强迫性和冲动性，无法控制，与普通好动区别。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a002",
+      "target": "s-443c411c50a2-c001:a003",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a003 描述 HD 孩子坐立不安，是 a002 中 HD 多动强迫性和冲动性的具体行为表现。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a002",
+      "target": "s-443c411c50a2-c001:a007",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a007 描述 HD 孩子要求坐着时会站起来，是 a002 中 HD 多动无法控制的具体行为表现。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a002",
+      "target": "s-443c411c50a2-c001:a008",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a008 描述 HD 孩子在不合适环境奔跑攀爬，是 a002 中 HD 多动冲动性的具体行为表现。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a002",
+      "target": "s-443c411c50a2-c001:a012",
+      "kind": "example_of",
+      "condition": "HD 孩子说话快且跳跃是 HD 冲动性的具体表现",
+      "reason": "'HD 语言表征：说话快且跳跃'体现了'HD 与普通好动的区别'中 HD 冲动性无法控制的特点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-443c411c50a2-c001:a002",
+      "target": "s-443c411c50a2-c001:a014",
+      "kind": "example_of",
+      "condition": "HD 孩子打断别人说话是 HD 冲动性的具体表现",
+      "reason": "'HD 语言表征：打断别人说话'体现了'HD 与普通好动的区别'中 HD 冲动性无法控制的特点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-443c411c50a2-c001:a002",
+      "target": "s-443c411c50a2-c001:a015",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a015 描述 HD 孩子抢答问题，是 a002 中 HD 冲动性在语言上的具体表现。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a003",
+      "target": "s-443c411c50a2-c001:a004",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "a004 案例中 ADHD 孩子看电视时无法安静，是 a003 中 HD 孩子坐立不安的具体实例。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a004",
+      "target": "s-443c411c50a2-c001:a005",
+      "kind": "association",
+      "condition": "无",
+      "reason": "'案例：ADHD 孩子看电视时无法安静'和'不能用看电视作为评判多动症的唯一标准'均涉及看电视与多动症判断，但案例不能直接支持该判断标准不可靠。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原supports不成立，改为association。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a005",
+      "target": "s-443c411c50a2-c001:a006",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“不能用看电视作为评判多动症的唯一标准”强调不能仅凭看电视安静判断，需观察乐高、画画等其他活动；这支持“排除病理性多动症的标准：在其他活动中能安静”所依赖的观察维度。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-443c411c50a2-c001:a006",
+      "target": "s-443c411c50a2-c001:a020",
+      "kind": "association",
+      "condition": "",
+      "reason": "“排除病理性多动症的标准：在其他活动中能安静”与“判断孩子是否有多动症的方法”均涉及多动症判断，但前者不是后者步骤之一，不能作为 step_of。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不成立，因排除标准未出现在判断方法的步骤中，改为 association。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a008",
+      "target": "s-443c411c50a2-c001:a009",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "“HD 行为表征：在不合适的环境奔跑或攀爬”描述行为表现，“案例：10-11岁孩子攀爬书架和沙发背”是其具体实例，但原关系方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向应反转为案例指向概念。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a010",
+      "target": "s-443c411c50a2-c001:a011",
+      "kind": "supports",
+      "condition": null,
+      "reason": "a011 指出父母应能判断孩子是否冲动性多动，基于 a010 中 HD 与普通好动的区别。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a012",
+      "target": "s-443c411c50a2-c001:a014",
+      "kind": "association",
+      "condition": "",
+      "reason": "“HD 语言表征：说话快且跳跃”与“HD 语言表征：打断别人说话”均为语言表征的不同表现，不存在一者支持另一者的关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 过高，改为 association 表示并列关联。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a012",
+      "target": "s-443c411c50a2-c001:a015",
+      "kind": "association",
+      "condition": "",
+      "reason": "“HD 语言表征：说话快且跳跃”与“HD 语言表征：抢答问题”均为 HD 语言表征的不同表现，不能相互支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 过高，改为 association。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a014",
+      "target": "s-443c411c50a2-c001:a015",
+      "kind": "association",
+      "condition": "",
+      "reason": "“HD 语言表征：打断别人说话”与“HD 语言表征：抢答问题”同为冲动性语言表现，但不存在证明或支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 过高，改为 association。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a016",
+      "target": "s-443c411c50a2-c001:a020",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "a020 的判断方法中包括检查症状是否在12岁前出现，对应 a016 的诊断条件。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a017",
+      "target": "s-443c411c50a2-c001:a020",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "a020 的判断方法中包括检查症状是否出现在两个以上环境，对应 a017 的诊断条件。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a018",
+      "target": "s-443c411c50a2-c001:a020",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "a020 的判断方法中包括检查症状是否严重影响功能，对应 a018 的诊断条件。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a019",
+      "target": "s-443c411c50a2-c001:a020",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "a020 的判断方法中包括排除其他精神或身体原因，对应 a019 的诊断条件。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a020",
+      "target": "s-443c411c50a2-c001:a021",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "a021 是作业，要求按照 a020 的方法练习判断孩子是否有多动症。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a021",
+      "target": "s-443c411c50a2-c001:a022",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“作业：判断孩子是否有多动症”指出练习后可能发现孩子只是好动而非多动症，支持“不要随意给孩子贴多动症标签”的提醒。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-443c411c50a2-c001:a022",
+      "target": "s-443c411c50a2-c001:a023",
+      "kind": "association",
+      "condition": "",
+      "reason": "“不要随意给孩子贴多动症标签”与“精力旺盛的孩子在接纳和鼓励下长大有优势”都涉及接纳孩子，但前者不能直接证明后者所述优势。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 不充分，改为 association。"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n001",
+      "target": "s-443c411c50a2-c001:r002",
+      "kind": "complements",
+      "condition": "当描述 HD 停不下来特征时",
+      "reason": "source 指出 HD 冲动知险犯险，r002 补充 HD 停不下来且带有强迫性，补足了 HD 行为表征的另一面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:r002",
+      "target": "s-443c411c50a2-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当描述 HD 停不下来特征时",
+      "reason": "source 指出 HD 冲动知险犯险，r002 补充 HD 停不下来且带有强迫性，补足了 HD 行为表征的另一面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n001",
+      "target": "s-443c411c50a2-c001:a001",
+      "kind": "complements",
+      "condition": "当需要理解 HD 背景时",
+      "reason": "source 是 HD 的一个具体表征，a001 给出 HD 的定义（多动/冲动部分），补足了概念背景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a001",
+      "target": "s-443c411c50a2-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解 HD 背景时",
+      "reason": "source 是 HD 的一个具体表征，a001 给出 HD 的定义（多动/冲动部分），补足了概念背景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n001",
+      "target": "s-443c411c50a2-c001:a008",
+      "kind": "complements",
+      "condition": "当孩子在不合适环境奔跑攀爬时",
+      "reason": "source 描述知险犯险，a008 补充另一冲动行为：在不合适环境奔跑攀爬，补足了冲动行为的类型。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a008",
+      "target": "s-443c411c50a2-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子在不合适环境奔跑攀爬时",
+      "reason": "source 描述知险犯险，a008 补充另一冲动行为：在不合适环境奔跑攀爬，补足了冲动行为的类型。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n001",
+      "target": "s-443c411c50a2-c001:r001",
+      "kind": "complements",
+      "condition": "当区分 HD 与普通好动时",
+      "reason": "source 强调 HD 知险犯险不同于贪玩，r001 直接补充 HD 与普通好动的区别在于冲动性无法控制，补足了区分标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:r001",
+      "target": "s-443c411c50a2-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当区分 HD 与普通好动时",
+      "reason": "source 强调 HD 知险犯险不同于贪玩，r001 直接补充 HD 与普通好动的区别在于冲动性无法控制，补足了区分标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n001",
+      "target": "s-443c411c50a2-c001:a003",
+      "kind": "complements",
+      "condition": "当孩子坐立不安时",
+      "reason": "source 描述冲动行为，a003 补充坐立不安表征，补足了 HD 行为表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a003",
+      "target": "s-443c411c50a2-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子坐立不安时",
+      "reason": "source 描述冲动行为，a003 补充坐立不安表征，补足了 HD 行为表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n001",
+      "target": "s-443c411c50a2-c001:a007",
+      "kind": "complements",
+      "condition": "当要求孩子坐着时",
+      "reason": "source 描述冲动行为，a007 补充另一表征：要求坐着时会站起来，补足了 HD 应对规则时的表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a007",
+      "target": "s-443c411c50a2-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当要求孩子坐着时",
+      "reason": "source 描述冲动行为，a007 补充另一表征：要求坐着时会站起来，补足了 HD 应对规则时的表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n001",
+      "target": "s-443c411c50a2-c001:a015",
+      "kind": "complements",
+      "condition": "当孩子抢答问题时",
+      "reason": "source 描述冲动性行为，a015 补充语言上的冲动表现：抢答问题，补足了冲动在语言方面的体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a015",
+      "target": "s-443c411c50a2-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子抢答问题时",
+      "reason": "source 描述冲动性行为，a015 补充语言上的冲动表现：抢答问题，补足了冲动在语言方面的体现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n001",
+      "target": "s-443c411c50a2-c001:a002",
+      "kind": "complements",
+      "condition": "当区分 HD 与普通好动时",
+      "reason": "source 涉及 HD 与贪玩的区别，a002 全面补充 HD 与普通好动的区别（强迫性、冲动性 vs 好奇贪玩可调节），补足了区分要点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a002",
+      "target": "s-443c411c50a2-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当区分 HD 与普通好动时",
+      "reason": "source 涉及 HD 与贪玩的区别，a002 全面补充 HD 与普通好动的区别（强迫性、冲动性 vs 好奇贪玩可调节），补足了区分要点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n001",
+      "target": "s-443c411c50a2-c001:a010",
+      "kind": "complements",
+      "condition": "当描述 HD 停不下来时",
+      "reason": "source 描述冲动行为，a010 补充停不下来带有强迫性，与 r002 类似，补足了 HD 行为的强迫性特征。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a010",
+      "target": "s-443c411c50a2-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当描述 HD 停不下来时",
+      "reason": "source 描述冲动行为，a010 补充停不下来带有强迫性，与 r002 类似，补足了 HD 行为的强迫性特征。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n001",
+      "target": "s-443c411c50a2-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当考虑 ADHD 共病时",
+      "reason": "source 讨论 HD 冲动行为，v2-n002 说明 AD 与 HD 可同时存在，补充了 HD 可能伴随其他问题的信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n002",
+      "target": "s-443c411c50a2-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当考虑 ADHD 共病时",
+      "reason": "source 讨论 HD 冲动行为，v2-n002 说明 AD 与 HD 可同时存在，补充了 HD 可能伴随其他问题的信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n001",
+      "target": "s-443c411c50a2-c001:a011",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 描述 HD 行为，a011 是父母判断孩子是否冲动性多动的建议，两者相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a011",
+      "target": "s-443c411c50a2-c001:v2-n001",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 描述 HD 行为，a011 是父母判断孩子是否冲动性多动的建议，两者相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n001",
+      "target": "s-443c411c50a2-c001:a013",
+      "kind": "complements",
+      "condition": "当排队情境比较时",
+      "reason": "source 强调 HD 冲动与贪玩不同，a013 具体比较排队时 HD 孩子与普通孩子行为差异，补足了情境化区别。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a013",
+      "target": "s-443c411c50a2-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当排队情境比较时",
+      "reason": "source 强调 HD 冲动与贪玩不同，a013 具体比较排队时 HD 孩子与普通孩子行为差异，补足了情境化区别。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n002",
+      "target": "s-443c411c50a2-c001:a001",
+      "kind": "complements",
+      "condition": "当需要定义 HD 时",
+      "reason": "source 提及 HD，a001 给出 HD 定义，补足了概念背景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a001",
+      "target": "s-443c411c50a2-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要定义 HD 时",
+      "reason": "source 提及 HD，a001 给出 HD 定义，补足了概念背景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n002",
+      "target": "s-443c411c50a2-c001:a015",
+      "kind": "complements",
+      "condition": "当 HD 孩子抢答时",
+      "reason": "source 涉及 HD 表征，a015 补充语言冲动表征：抢答问题，补足了 HD 表现之一。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a015",
+      "target": "s-443c411c50a2-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当 HD 孩子抢答时",
+      "reason": "source 涉及 HD 表征，a015 补充语言冲动表征：抢答问题，补足了 HD 表现之一。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n002",
+      "target": "s-443c411c50a2-c001:r001",
+      "kind": "complements",
+      "condition": "当区分 HD 与普通好动时",
+      "reason": "source 提及 HD，r001 补充 HD 与普通好动在冲动性上的区别，补足了 HD 鉴别要点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:r001",
+      "target": "s-443c411c50a2-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当区分 HD 与普通好动时",
+      "reason": "source 提及 HD，r001 补充 HD 与普通好动在冲动性上的区别，补足了 HD 鉴别要点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n002",
+      "target": "s-443c411c50a2-c001:a002",
+      "kind": "complements",
+      "condition": "当区分 HD 与普通好动时",
+      "reason": "source 提及 HD，a002 全面补充 HD 与普通好动的区别，补足了鉴别信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a002",
+      "target": "s-443c411c50a2-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当区分 HD 与普通好动时",
+      "reason": "source 提及 HD，a002 全面补充 HD 与普通好动的区别，补足了鉴别信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n002",
+      "target": "s-443c411c50a2-c001:r002",
+      "kind": "complements",
+      "condition": "当描述 HD 停不下来时",
+      "reason": "source 涉及 HD 表征，r002 补充停不下来且带强迫性，补足了 HD 行为特征。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:r002",
+      "target": "s-443c411c50a2-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当描述 HD 停不下来时",
+      "reason": "source 涉及 HD 表征，r002 补充停不下来且带强迫性，补足了 HD 行为特征。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n002",
+      "target": "s-443c411c50a2-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当示范 HD 冲动行为时",
+      "reason": "source 说明 AD 与 HD 可共存，v2-n001 提供 HD 冲动知险犯险的具体表征，补足了 HD 表现示例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n001",
+      "target": "s-443c411c50a2-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当示范 HD 冲动行为时",
+      "reason": "source 说明 AD 与 HD 可共存，v2-n001 提供 HD 冲动知险犯险的具体表征，补足了 HD 表现示例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n002",
+      "target": "s-443c411c50a2-c001:a021",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 说明共病，a021 是作业建议判断孩子是否有多动症，两者相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a021",
+      "target": "s-443c411c50a2-c001:v2-n002",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 说明共病，a021 是作业建议判断孩子是否有多动症，两者相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n002",
+      "target": "s-443c411c50a2-c001:a010",
+      "kind": "complements",
+      "condition": "当描述 HD 停不下来时",
+      "reason": "source 涉及 HD，a010 补充停不下来带强迫性，补足了 HD 特征。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a010",
+      "target": "s-443c411c50a2-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当描述 HD 停不下来时",
+      "reason": "source 涉及 HD，a010 补充停不下来带强迫性，补足了 HD 特征。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n002",
+      "target": "s-443c411c50a2-c001:a020",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 说明共病，a020 是判断是否有多动症的方法，相关但无直接逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a020",
+      "target": "s-443c411c50a2-c001:v2-n002",
+      "kind": "association",
+      "condition": "无明确条件",
+      "reason": "source 说明共病，a020 是判断是否有多动症的方法，相关但无直接逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n002",
+      "target": "s-443c411c50a2-c001:a007",
+      "kind": "complements",
+      "condition": "当要求 HD 孩子坐着时",
+      "reason": "source 提及 HD 表征，a007 补充要求坐着时会站起来，补足了 HD 行为表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a007",
+      "target": "s-443c411c50a2-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当要求 HD 孩子坐着时",
+      "reason": "source 提及 HD 表征，a007 补充要求坐着时会站起来，补足了 HD 行为表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n002",
+      "target": "s-443c411c50a2-c001:a013",
+      "kind": "complements",
+      "condition": "当排队情境比较时",
+      "reason": "source 涉及 HD，a013 补充排队时 HD 与普通孩子区别，补足了情境化表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a013",
+      "target": "s-443c411c50a2-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当排队情境比较时",
+      "reason": "source 涉及 HD，a013 补充排队时 HD 与普通孩子区别，补足了情境化表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:v2-n002",
+      "target": "s-443c411c50a2-c001:a012",
+      "kind": "complements",
+      "condition": "当 HD 孩子说话时",
+      "reason": "source 提及 HD，a012 补充语言表征：说话快且跳跃，补足了 HD 语言特征。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-443c411c50a2-c001:a012",
+      "target": "s-443c411c50a2-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当 HD 孩子说话时",
+      "reason": "source 提及 HD，a012 补充语言表征：说话快且跳跃，补足了 HD 语言特征。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-443c411c50a2-c001:a002",
+        "s-443c411c50a2-c001:a010",
+        "s-443c411c50a2-c001:r001",
+        "s-443c411c50a2-c001:r002"
+      ],
+      "reason": "这些记录内容完全等价，都描述 HD 与普通好动的区别，强调 HD 多动带有强迫性和冲动性，无法控制，而普通好动出于好奇和贪玩，可以自我调节。"
+    },
+    {
+      "atom_ids": [
+        "s-443c411c50a2-c001:a012"
+      ],
+      "reason": "内容完全等价，都描述 HD 孩子说话语速快、跳跃、思维跳跃。"
+    },
+    {
+      "atom_ids": [
+        "s-443c411c50a2-c001:a014"
+      ],
+      "reason": "内容完全等价，都描述 HD 孩子打断别人说话，且普通孩子经提醒能停而 HD 孩子很难。"
+    },
+    {
+      "atom_ids": [
+        "s-443c411c50a2-c001:a015"
+      ],
+      "reason": "内容完全等价，都描述 HD 孩子抢答问题，与冲动有关。"
+    },
+    {
+      "atom_ids": [
+        "s-443c411c50a2-c001:a016"
+      ],
+      "reason": "内容完全等价，都描述 ADHD 症状必须在12岁前出现。"
+    },
+    {
+      "atom_ids": [
+        "s-443c411c50a2-c001:a017"
+      ],
+      "reason": "内容完全等价，都描述 ADHD 症状必须出现在两个以上环境。"
+    },
+    {
+      "atom_ids": [
+        "s-443c411c50a2-c001:a018"
+      ],
+      "reason": "内容完全等价，都描述 ADHD 症状必须严重影响社交、生活、学习或工作。"
+    },
+    {
+      "atom_ids": [
+        "s-443c411c50a2-c001:a019"
+      ],
+      "reason": "内容完全等价，都描述 ADHD 症状不能由其他精神或身体原因解释。"
+    },
+    {
+      "atom_ids": [
+        "s-443c411c50a2-c001:a020"
+      ],
+      "reason": "内容完全等价，都描述判断孩子是否有多动症的方法，包括行为表征和诊断条件。"
+    },
+    {
+      "atom_ids": [
+        "s-443c411c50a2-c001:a021"
+      ],
+      "reason": "内容完全等价，都描述作业要求练习判断孩子是否有多动症。"
+    },
+    {
+      "atom_ids": [
+        "s-443c411c50a2-c001:a022"
+      ],
+      "reason": "内容完全等价，都提醒不要随意给孩子贴多动症标签。"
+    },
+    {
+      "atom_ids": [
+        "s-443c411c50a2-c001:a023"
+      ],
+      "reason": "内容完全等价，都描述精力旺盛孩子在接纳鼓励下长大有优势。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "判断孩子是否有多动症",
+      "steps": [
+        {
+          "action": "观察孩子是否有坐立不安、要求坐着时站起来、不合适环境奔跑攀爬等行为",
+          "atom_ids": [
+            "s-443c411c50a2-c001:a003",
+            "s-443c411c50a2-c001:a007",
+            "s-443c411c50a2-c001:a008"
+          ],
+          "condition": null
+        },
+        {
+          "action": "观察孩子是否停不下来且带有强迫性",
+          "atom_ids": [
+            "s-443c411c50a2-c001:a010"
+          ],
+          "condition": null
+        },
+        {
+          "action": "观察孩子是否说话快跳跃、打断别人、抢答",
+          "atom_ids": [
+            "s-443c411c50a2-c001:a012",
+            "s-443c411c50a2-c001:a014",
+            "s-443c411c50a2-c001:a015"
+          ],
+          "condition": null
+        },
+        {
+          "action": "检查症状是否在12岁前出现",
+          "atom_ids": [
+            "s-443c411c50a2-c001:a016"
+          ],
+          "condition": null
+        },
+        {
+          "action": "检查症状是否出现在两个以上环境",
+          "atom_ids": [
+            "s-443c411c50a2-c001:a017"
+          ],
+          "condition": null
+        },
+        {
+          "action": "检查症状是否严重影响社交、生活、学习或工作",
+          "atom_ids": [
+            "s-443c411c50a2-c001:a018"
+          ],
+          "condition": null
+        },
+        {
+          "action": "排除其他精神或身体原因",
+          "atom_ids": [
+            "s-443c411c50a2-c001:a019"
+          ],
+          "condition": null
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "e5fc722dbbd09296c4011dd836f8452058ca502873a389d86808c3c2f4791651",
+  "recovered_from_response": "s-443c411c50a2-relations-1793881275659068200.json",
+  "point_units": [
+    {
+      "id": "s-443c411c50a2-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a003",
+        "s-443c411c50a2-c001:a004"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a005",
+        "s-443c411c50a2-c001:a006"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007",
+        "b00008",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a007"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a008"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a009"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a010"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a011"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a012"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a013"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a014"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a015"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a022"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0016",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a021"
+      ],
+      "blocks": [
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a023"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a016"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a017"
+      ],
+      "blocks": [
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a018"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a019"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-443c411c50a2-c001:u0022",
+      "kind": "method",
+      "atom_ids": [
+        "s-443c411c50a2-c001:a020"
+      ],
+      "blocks": [
+        "b00020",
+        "b00023",
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "HD 冲动性行为：知险犯险",
+      "atom_ids": [
+        "s-443c411c50a2-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-443c411c50a2",
+          "blocks": [
+            "b00003"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "condition"
+    },
+    {
+      "title": "AD 与 HD 可同时存在",
+      "atom_ids": [
+        "s-443c411c50a2-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-443c411c50a2",
+          "blocks": [
+            "b00020"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "relation"
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "concepts": [
+    {
+      "name": "家庭用餐作为沟通时机",
+      "definition": "家庭用餐是重要的沟通时机，因为用餐时大家情绪放松、不忙，可以放松下来交流。应有计划地安排每周几次家庭共餐，让晚餐变得有趣，孩子们喜欢聊天分享学校发生的事情。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r001"
+      ]
+    },
+    {
+      "name": "用餐时的沟通规则",
+      "definition": "用餐时不要一直催促孩子快吃饭，也不要一听孩子讲点什么就批评他，让孩子多讲话。让每个人参与准备和清洗晚餐，一起忙事情有助于关系亲密和连接。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r002"
+      ]
+    },
+    {
+      "name": "用餐时收起手机",
+      "definition": "用餐时要把手机放好，例如放在篮子里反过来扣住，提醒大家没有在看手机，好好利用晚餐时间。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r003"
+      ]
+    },
+    {
+      "name": "该年龄段孩子不应需要哄睡",
+      "definition": "这个年龄的孩子应该不需要再哄睡了，如果还需要哄睡，那是很大的问题。孩子的睡眠绝对比他这个时候多做几页作业更重要。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r004"
+      ]
+    },
+    {
+      "name": "固定睡觉时间前与孩子聊天",
+      "definition": "孩子有固定睡觉时间时，可以在睡觉时间之前跟孩子聊天，一起读书，回顾今天的亮点。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r005"
+      ]
+    },
+    {
+      "name": "因作业晚导致沟通时间被挤压",
+      "definition": "常见问题是孩子做作业到很晚，吃饭时被催促快吃去做作业，睡觉时也匆忙，导致吃饭和睡前都没有时间聊天。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r006"
+      ]
+    },
+    {
+      "name": "每晚三个问题总结一天",
+      "definition": "每天晚上问孩子三个问题：今天最开心的事情是什么？今天最不开心的事情是什么？今天最期待明天发生的事情是什么？以此给孩子的一天做总结，促进沟通。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r007"
+      ]
+    },
+    {
+      "name": "开车时作为沟通时机",
+      "definition": "开车送孩子上学放学或去其他地方时，是沟通的好时机。因为眼睛望着前方，可以避免尴尬，孩子更倾向于说一些让他感到困扰、尴尬或羞耻的事情。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r008"
+      ]
+    },
+    {
+      "name": "避免眼神交流降低沟通压力",
+      "definition": "开车时因为不能眼神交流，反而让孩子更轻松自在，缓解不适感，更愿意开口。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r009"
+      ]
+    },
+    {
+      "name": "开车时避免打电话和开收音机",
+      "definition": "开车时不要打电话或一开车就打开收音机，要给孩子一些空间，看看他是否想说一些平时不太好开口的事情。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r010"
+      ]
+    },
+    {
+      "name": "通过共同活动分享日常",
+      "definition": "分享日常生活，找一些可以一起做的事情，如一起遛狗、跑步、洗车、烤饼干，在做事情的过程中有一句没一句地聊天，给孩子谈论自己想法的机会。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r011"
+      ]
+    },
+    {
+      "name": "做事情时思想放松更易表达真实想法",
+      "definition": "在做事情时，孩子的思想更加放松，更能够告诉你他们内心真实的想法。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r012"
+      ]
+    },
+    {
+      "name": "向孩子表达爱的重要性",
+      "definition": "在这个阶段，很多父母忽略向孩子表达爱，但表达爱非常有价值，会让孩子感到安全和被爱，并展示积极健康的情感表达方式。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r013"
+      ]
+    },
+    {
+      "name": "公共场合孩子可能抗拒亲密表达",
+      "definition": "孩子开始懂事，在公共场合可能对父母表达爱更加抗拒、不自然，例如每天上学亲吻可能被拒绝。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r014"
+      ]
+    },
+    {
+      "name": "尊重孩子的情感表达方式",
+      "definition": "当孩子对亲密表达感到不自在时，要尊重他，可以改用挥手、拍拍背等方式表达爱，不一定要用以前的方法。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r015"
+      ]
+    },
+    {
+      "name": "向孩子发出赞叹",
+      "definition": "父母应该足够了解孩子，看到他的长项、天赋、素质人品和能力，经常不断地向孩子说出来，发出赞叹。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r016"
+      ]
+    },
+    {
+      "name": "赞叹孩子踢球的具体例子",
+      "definition": "例如对孩子说：你今天踢球脚好快，虽然你没有别人高，但翻脚翻得很快。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r017"
+      ]
+    },
+    {
+      "name": "中国父母认为称赞会让孩子骄傲",
+      "definition": "很多中国父母秉承孩子不能称赞的思想，认为称赞了就会骄傲。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r018"
+      ]
+    },
+    {
+      "name": "母亲称赞跑步像小豹子",
+      "definition": "讲师回忆自己母亲曾称赞她跑步像一头小豹子，气势无人能争，这个称赞让她至今记得，感到骄傲自豪，豹也成为她最喜欢的动物之一。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r019"
+      ]
+    },
+    {
+      "name": "父母称赞对孩子影响深远",
+      "definition": "父母在称赞孩子时，可以带给孩子很大的影响，即使看似无关紧要的称赞也可能深深留在孩子心中。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r020"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-4f8c28d59810-c001:r001",
+      "target": "s-4f8c28d59810-c001:r002",
+      "kind": "supports",
+      "condition": "在家庭用餐时",
+      "reason": "r001提出家庭用餐是沟通时机，r002给出用餐时的具体沟通规则，两者共同构成用餐沟通技巧。"
+    },
+    {
+      "source": "s-4f8c28d59810-c001:r001",
+      "target": "s-4f8c28d59810-c001:r003",
+      "kind": "supports",
+      "condition": "在家庭用餐时",
+      "reason": "r001提出家庭用餐是沟通时机，r003建议收起手机以利用晚餐时间，是支持该时机的具体做法。"
+    },
+    {
+      "source": "s-4f8c28d59810-c001:r004",
+      "target": "s-4f8c28d59810-c001:r005",
+      "kind": "supports",
+      "condition": "孩子有固定睡觉时间时",
+      "reason": "r004强调该年龄段孩子不应需要哄睡，r005建议在固定睡觉时间前与孩子聊天，两者都涉及睡前沟通。"
+    },
+    {
+      "source": "s-4f8c28d59810-c001:r006",
+      "target": "s-4f8c28d59810-c001:r001",
+      "kind": "contrasts",
+      "condition": "当孩子作业晚时",
+      "reason": "r006指出作业晚导致吃饭和睡前没有时间聊天，与r001提倡的家庭用餐沟通形成对比。"
+    },
+    {
+      "source": "s-4f8c28d59810-c001:r006",
+      "target": "s-4f8c28d59810-c001:r005",
+      "kind": "contrasts",
+      "condition": "当孩子作业晚时",
+      "reason": "r006指出作业晚导致睡前匆忙，与r005建议的睡前聊天形成对比。"
+    },
+    {
+      "source": "s-4f8c28d59810-c001:r007",
+      "target": "s-4f8c28d59810-c001:r005",
+      "kind": "supports",
+      "condition": "在睡前",
+      "reason": "“每晚三个问题总结一天”提供了三个具体问题，可作为“固定睡觉时间前与孩子聊天”的实现方式，支持睡前沟通的建议。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持成立。"
+    },
+    {
+      "source": "s-4f8c28d59810-c001:r008",
+      "target": "s-4f8c28d59810-c001:r009",
+      "kind": "causes",
+      "condition": "开车时",
+      "reason": "r008指出开车时是沟通好时机，因为眼睛望前方避免尴尬；r009解释避免眼神交流降低沟通压力，是原因。"
+    },
+    {
+      "source": "s-4f8c28d59810-c001:r008",
+      "target": "s-4f8c28d59810-c001:r010",
+      "kind": "supports",
+      "condition": "开车时",
+      "reason": "r008提出开车是沟通时机，r010建议避免打电话和开收音机以给孩子空间，是支持该时机的做法。"
+    },
+    {
+      "source": "s-4f8c28d59810-c001:r011",
+      "target": "s-4f8c28d59810-c001:r012",
+      "kind": "causes",
+      "condition": "一起做事情时",
+      "reason": "r011建议通过共同活动分享日常，r012解释做事情时思想放松更易表达真实想法，是原因。"
+    },
+    {
+      "source": "s-4f8c28d59810-c001:r013",
+      "target": "s-4f8c28d59810-c001:r014",
+      "kind": "contrasts",
+      "condition": "在公共场合",
+      "reason": "r013强调表达爱的重要性，r014指出公共场合孩子可能抗拒亲密表达，两者形成对比。"
+    },
+    {
+      "source": "s-4f8c28d59810-c001:r014",
+      "target": "s-4f8c28d59810-c001:r015",
+      "kind": "supports",
+      "condition": "当孩子对亲密表达不自在时",
+      "reason": "r014指出孩子可能抗拒亲密表达，r015建议尊重孩子并改用其他方式，是应对方法。"
+    },
+    {
+      "source": "s-4f8c28d59810-c001:r016",
+      "target": "s-4f8c28d59810-c001:r017",
+      "kind": "example_of",
+      "condition": "赞叹孩子时",
+      "reason": "r016建议向孩子发出赞叹，r017给出赞叹孩子踢球的具体例子。"
+    },
+    {
+      "source": "s-4f8c28d59810-c001:r016",
+      "target": "s-4f8c28d59810-c001:r018",
+      "kind": "contrasts",
+      "condition": "关于称赞的观念",
+      "reason": "r016建议称赞孩子，r018指出中国父母认为称赞会让孩子骄傲，两者观念相反。"
+    },
+    {
+      "source": "s-4f8c28d59810-c001:r016",
+      "target": "s-4f8c28d59810-c001:r019",
+      "kind": "example_of",
+      "condition": "称赞孩子时",
+      "reason": "“母亲称赞跑步像小豹子”是“向孩子发出赞叹”的具体实例，母亲称赞孩子跑步，是发出赞叹的表现。原方向应反转。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向应反转。"
+    },
+    {
+      "source": "s-4f8c28d59810-c001:r016",
+      "target": "s-4f8c28d59810-c001:r020",
+      "kind": "supports",
+      "condition": "称赞孩子时",
+      "reason": "r016建议称赞孩子，r020说明称赞对孩子影响深远，支持称赞的重要性。"
+    },
+    {
+      "source": "s-4f8c28d59810-c001:r019",
+      "target": "s-4f8c28d59810-c001:r020",
+      "kind": "example_of",
+      "condition": "称赞的影响",
+      "reason": "“母亲称赞跑步像小豹子”这一案例中，讲者至今记得并感到自豪，是“父母称赞对孩子影响深远”的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "方向正确。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "在家庭用餐和开车等沟通时机中",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r001",
+        "s-4f8c28d59810-c001:r002",
+        "s-4f8c28d59810-c001:r003",
+        "s-4f8c28d59810-c001:r008",
+        "s-4f8c28d59810-c001:r010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "在开车和共同活动中",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r008",
+        "s-4f8c28d59810-c001:r009",
+        "s-4f8c28d59810-c001:r011",
+        "s-4f8c28d59810-c001:r012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "内在能力",
+      "when": "在表达爱和称赞孩子时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r013",
+        "s-4f8c28d59810-c001:r016",
+        "s-4f8c28d59810-c001:r017",
+        "s-4f8c28d59810-c001:r019",
+        "s-4f8c28d59810-c001:r020"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "在开车时避免干扰以降低沟通压力",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r010",
+        "s-4f8c28d59810-c001:r009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "内在能力",
+      "when": "在尊重孩子情感表达方式时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r014",
+        "s-4f8c28d59810-c001:r015",
+        "s-4f8c28d59810-c001:r013"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "内在能力",
+      "when": "在称赞孩子时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r018",
+        "s-4f8c28d59810-c001:r016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r004",
+        "s-4f8c28d59810-c001:r006"
+      ],
+      "description": "r004强调睡眠比作业更重要，暗示不应因作业牺牲睡眠；r006指出常见问题是孩子做作业到很晚，导致吃饭和睡前没有时间聊天。两者存在潜在矛盾：如果作业晚是常见问题，那么如何保证睡眠优先？",
+      "needed_evidence": "需要明确在作业晚的情况下，如何平衡睡眠和作业，以及是否有具体策略避免作业晚。"
+    },
+    {
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r013",
+        "s-4f8c28d59810-c001:r014"
+      ],
+      "description": "r013强调表达爱的重要性，r014指出公共场合孩子可能抗拒亲密表达。两者存在张力：父母需要表达爱，但孩子可能不接受，如何平衡？",
+      "needed_evidence": "需要明确在不同场合下表达爱的具体策略，以及如何尊重孩子的同时保持爱的表达。"
+    },
+    {
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r016",
+        "s-4f8c28d59810-c001:r018"
+      ],
+      "description": "r016建议称赞孩子，r018指出中国父母认为称赞会让孩子骄傲。两者观念冲突，需要明确称赞的适用条件和潜在风险。",
+      "needed_evidence": "需要研究称赞对孩子的影响，以及如何避免骄傲等负面效果。"
+    }
+  ],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-4f8c28d59810-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r003"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0004",
+      "kind": "condition",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r004"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r005"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0006",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r006"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r007"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r008"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0009",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r009"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r010"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r011"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r012"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r013"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0014",
+      "kind": "condition",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r014"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r015"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r016"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r017"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0018",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r018"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0019",
+      "kind": "case",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r019"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-4f8c28d59810-c001:u0020",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-4f8c28d59810-c001:r020"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

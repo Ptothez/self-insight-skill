@@ -1,0 +1,2069 @@
+{
+  "concepts": [
+    {
+      "name": "界限与惩罚的区别",
+      "definition": "界限不等于惩罚，界限的目的是建立品格而非控制或惩罚。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a002",
+        "s-1f6558c9c3b0-c001:a003"
+      ]
+    },
+    {
+      "name": "立界限的目的",
+      "definition": "为孩子立界限的目的是帮助孩子建立品格，让孩子更有力量、自信和安全感，而不是控制行为。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a003",
+        "s-1f6558c9c3b0-c001:a005"
+      ]
+    },
+    {
+      "name": "控制引发反抗",
+      "definition": "当人感到被控制时，第一反应是反着来；若界限目的是控制，孩子会想方设法攻破界限。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a004"
+      ]
+    },
+    {
+      "name": "界限提供安全感",
+      "definition": "界限能给孩子安全感，就像固定的睡眠时间、健康饮食和可预见的家庭作息一样。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a006",
+        "s-1f6558c9c3b0-c002:a007"
+      ]
+    },
+    {
+      "name": "力量天平随年龄变化",
+      "definition": "家庭中父母与孩子的力量天平应随孩子年龄增长而趋于平衡；放任会导致天平滑向孩子，造成焦虑和被动。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a007",
+        "s-1f6558c9c3b0-c001:a008"
+      ]
+    },
+    {
+      "name": "孩子操控父母导致焦虑",
+      "definition": "当孩子感到自己能操控父母时，会觉得自己比父母更有力量，但控制原本应更有力量的人会产生极大焦虑和威胁。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a009"
+      ]
+    },
+    {
+      "name": "自尊心与自恋的区别",
+      "definition": "自尊心是自我尊重，自恋是缺乏界限导致的扭曲自我意识，使孩子将周围人和事物视为满足自己需要的工具。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a010"
+      ]
+    },
+    {
+      "name": "缺乏界限导致暴躁情绪",
+      "definition": "没有界限或纪律的孩子在无法得到想要的东西时，情绪会变得暴躁，可能对父母粗暴、打人、砸东西。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a011"
+      ]
+    },
+    {
+      "name": "界限减少吵架和顶嘴",
+      "definition": "设立界限能减少吵架、顶嘴和坚持己见，因为孩子清楚界限后不再试图说服父母或磨蹭。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a013"
+      ]
+    },
+    {
+      "name": "界限内化为自我管理",
+      "definition": "坚持界限并正确应对越界，孩子会逐渐减少越界行为，最终内化界限感，能够自我管理行为。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a014",
+        "s-1f6558c9c3b0-c001:r002"
+      ]
+    },
+    {
+      "name": "按年龄立界限的原则",
+      "definition": "为孩子立界限必须按年龄进行，不同年龄段侧重点不同。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a015"
+      ]
+    },
+    {
+      "name": "0-4岁立界限强调行为",
+      "definition": "0-4岁孩子立界限应强调行为，不讲大道理，主要通过身体限制来设立界限。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a016"
+      ]
+    },
+    {
+      "name": "0-4岁界限强调后果",
+      "definition": "0-4岁孩子立界限必须通过反复告知后果来实现，后果要可测量、可感官，不能抽象。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a018",
+        "s-1f6558c9c3b0-c001:r003",
+        "s-1f6558c9c3b0-c002:a001"
+      ]
+    },
+    {
+      "name": "控制型界限导致孩子依赖",
+      "definition": "如果父母立界限的目的是控制孩子，孩子长大后本应越来越独立，却会越来越软弱、不独立。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a020"
+      ]
+    },
+    {
+      "name": "立界限像肌肉训练的不适感",
+      "definition": "正确立界限时孩子可能不高兴，但这种不适类似健身时肌肉酸痛，是变得更强壮的过程。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:r001"
+      ]
+    },
+    {
+      "name": "确认孩子理解界限",
+      "definition": "立界限后要确认孩子是否真正理解，通过询问可以澄清孩子的理解。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a002",
+        "s-1f6558c9c3b0-c002:a012"
+      ]
+    },
+    {
+      "name": "使用视觉或听觉工具辅助界限",
+      "definition": "对于低龄儿童，可以借助视觉或听觉工具（如闹钟）来明确界限。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a003",
+        "s-1f6558c9c3b0-c002:a031",
+        "s-1f6558c9c3b0-c002:r002",
+        "s-1f6558c9c3b0-c002:r003"
+      ]
+    },
+    {
+      "name": "5-8岁：看见界限并说明期待",
+      "definition": "5-8岁孩子需要看见界限，将界限写下来或画出来，并说明界限中父母看重的品质和期待。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a004",
+        "s-1f6558c9c3b0-c002:a019",
+        "s-1f6558c9c3b0-c002:a020",
+        "s-1f6558c9c3b0-c002:a021"
+      ]
+    },
+    {
+      "name": "9-13岁：给孩子力量，专注奖励",
+      "definition": "9-13岁孩子需要力量，应给予重来的机会，专注奖励而非惩罚，并可与孩子协商界限。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a005",
+        "s-1f6558c9c3b0-c002:a016",
+        "s-1f6558c9c3b0-c002:a017",
+        "s-1f6558c9c3b0-c002:a018",
+        "s-1f6558c9c3b0-c002:a032",
+        "s-1f6558c9c3b0-c002:a033",
+        "s-1f6558c9c3b0-c002:a034"
+      ]
+    },
+    {
+      "name": "14-18岁：从大局出发，避免权力斗争",
+      "definition": "14-18岁孩子叛逆是为了通过挑战权威获得力量，父母应有意识给孩子力量，非原则性问题可以允许，但需设定界限并坚定持续执行，夫妻双方要像网一样提供安全感。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a006",
+        "s-1f6558c9c3b0-c002:a015",
+        "s-1f6558c9c3b0-c002:a027",
+        "s-1f6558c9c3b0-c002:a028",
+        "s-1f6558c9c3b0-c002:a029",
+        "s-1f6558c9c3b0-c002:a035"
+      ]
+    },
+    {
+      "name": "孩子不接受界限的原因：不习惯",
+      "definition": "孩子不接受界限可能因为不习惯，以前家里没有界限。应对方法是每次少给界限（约三条），等孩子适应后再增加，并解释界限的好处和动机。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a009",
+        "s-1f6558c9c3b0-c002:a022",
+        "s-1f6558c9c3b0-c002:a023"
+      ]
+    },
+    {
+      "name": "孩子不接受界限的原因：关系疏远",
+      "definition": "孩子不接受界限可能因为亲子关系疏远，孩子感受不到爱。界限和爱缺一不可。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a010",
+        "s-1f6558c9c3b0-c002:a013",
+        "s-1f6558c9c3b0-c002:a045",
+        "s-1f6558c9c3b0-c003:a001"
+      ]
+    },
+    {
+      "name": "用对爱的语言",
+      "definition": "父母要用孩子的爱的语言表达爱，而不是自己的。爱的语言包括肯定言辞、礼物、服务行为、精心的时刻、身体接触。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a011",
+        "s-1f6558c9c3b0-c002:a024",
+        "s-1f6558c9c3b0-c002:a025",
+        "s-1f6558c9c3b0-c002:a040",
+        "s-1f6558c9c3b0-c002:a041",
+        "s-1f6558c9c3b0-c002:a042",
+        "s-1f6558c9c3b0-c002:a043",
+        "s-1f6558c9c3b0-c002:a044"
+      ]
+    },
+    {
+      "name": "解释界限的动机",
+      "definition": "向孩子解释立界限不是为了控制或找麻烦，而是为了建立好的东西，对孩子有帮助。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a014",
+        "s-1f6558c9c3b0-c002:a038"
+      ]
+    },
+    {
+      "name": "孩子潜意识需要管教",
+      "definition": "孩子意识层面讨厌父母管教，但潜意识里需要父母立界限，如果父母不管，孩子会害怕。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a030",
+        "s-1f6558c9c3b0-c002:a036"
+      ]
+    },
+    {
+      "name": "孩子不尊重父母的原因",
+      "definition": "孩子不尊重父母有两个原因：第一，父母自己没有界限，经常越界；第二，父母知错不认，孩子因此也不认错。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a005",
+        "s-1f6558c9c3b0-c003:a006",
+        "s-1f6558c9c3b0-c003:a007"
+      ]
+    },
+    {
+      "name": "父母应对孩子不尊重的建议",
+      "definition": "遇到孩子不尊重的情况，父母应给自己立界限，学习在生活各个层面立好界限，并处理好夫妻关系和其他人际关系。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a008",
+        "s-1f6558c9c3b0-c003:r001"
+      ]
+    },
+    {
+      "name": "父母认错赢得孩子尊重",
+      "definition": "父母认错比不认错更能得到孩子的尊重。孩子尊重父母不是因为父母不犯错，而是因为父母敢于承认错误。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a009",
+        "s-1f6558c9c3b0-c003:r002"
+      ]
+    },
+    {
+      "name": "父母向孩子认错道歉",
+      "definition": "父母如果错了，应向孩子认错道歉，这并不丢人，承认自己不会，会给孩子心里很大的安慰。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a010"
+      ]
+    },
+    {
+      "name": "家长学习育儿知识感动孩子",
+      "definition": "孩子看到父母在学习科学的儿童心理学和育儿知识，感到安慰和感动，感受到被爱。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a011"
+      ]
+    },
+    {
+      "name": "孩子能感知父母的行为",
+      "definition": "孩子能感知父母是否在努力学习和改变，即使父母不说，孩子也看在眼里。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a012"
+      ]
+    },
+    {
+      "name": "立界限的长期影响",
+      "definition": "给孩子立界限虽然孩子会挣扎，但能为他们的人生打下重要基础，传递界限的意识和模型。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a014"
+      ]
+    },
+    {
+      "name": "网络上瘾的原因",
+      "definition": "孩子网络上瘾是因为他在网络世界中得到了在外面得不到的东西，例如在游戏中获得接纳、归宿感和成就感。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a003"
+      ]
+    },
+    {
+      "name": "用爱的语言与界限结合",
+      "definition": "在设立界限时，要将爱和界限绑在一起，让孩子在感受到界限的同时也感受到爱。具体做法是在界限的后果上给予更多的恩赐和弥补机会。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a004"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-1f6558c9c3b0-c001:a002",
+      "target": "s-1f6558c9c3b0-c001:a003",
+      "kind": "supports",
+      "condition": "界限不等于惩罚，目的是建立品格",
+      "reason": "“界限与惩罚的区别”说明界限不等于惩罚且目的是建立品格，“立界限的正确目的”详细阐述该目的，支持前者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:a003",
+      "target": "s-1f6558c9c3b0-c001:a004",
+      "kind": "association",
+      "condition": "",
+      "reason": "“立界限的正确目的”提到控制会引发反抗，“控制引发反抗的心理机制”具体解释该机制，但原方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原causes类型无效，改为关联。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:a003",
+      "target": "s-1f6558c9c3b0-c001:a005",
+      "kind": "association",
+      "condition": "",
+      "reason": "“立界限的正确目的”与“立界限让孩子更有力量”并列阐述立界限的目的，未形成支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "改为关联。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:a005",
+      "target": "s-1f6558c9c3b0-c001:a006",
+      "kind": "association",
+      "condition": "",
+      "reason": "“立界限让孩子更有力量”提到安全感，“界限提供安全感的机制”具体解释安全感机制，但原方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向错误，改为关联。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:a007",
+      "target": "s-1f6558c9c3b0-c001:a008",
+      "kind": "example_of",
+      "condition": "放任教育导致力量天平滑向孩子",
+      "reason": "a008是a007中放任导致天平失衡的具体案例。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:a007",
+      "target": "s-1f6558c9c3b0-c001:a009",
+      "kind": "causes",
+      "condition": "孩子操控父母",
+      "reason": "a007提到放任导致天平滑向孩子，a009解释孩子操控父母导致焦虑。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:a010",
+      "target": "s-1f6558c9c3b0-c001:a011",
+      "kind": "association",
+      "condition": "",
+      "reason": "“自尊心与自恋的区别”和“缺乏界限导致暴躁情绪”均为缺乏界限的后果，彼此并列而非因果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原causes类型无效，改为关联。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:a013",
+      "target": "s-1f6558c9c3b0-c001:a014",
+      "kind": "supports",
+      "condition": "界限效果",
+      "reason": "“界限减少吵架和顶嘴”说明界限的短期效果，“界限内化为自我管理”说明长期效果，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:a015",
+      "target": "s-1f6558c9c3b0-c001:a016",
+      "kind": "step_of",
+      "condition": "按年龄立界限",
+      "reason": "a015提出按年龄立界限的原则，a016是0-4岁的具体做法。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:a016",
+      "target": "s-1f6558c9c3b0-c001:a018",
+      "kind": "supports",
+      "condition": "0-4岁立界限",
+      "reason": "a016强调行为，a018强调后果，两者都是0-4岁立界限的要点。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:a018",
+      "target": "s-1f6558c9c3b0-c001:r003",
+      "kind": "supports",
+      "condition": "后果需可测量可感官",
+      "reason": "0-4岁界限强调后果，与0-4岁界限后果需可测量可感官的命题一致，后者细化前者的要求。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:a020",
+      "target": "s-1f6558c9c3b0-c001:a003",
+      "kind": "contrasts",
+      "condition": "控制型界限 vs 建立品格",
+      "reason": "“控制型界限导致孩子依赖”与“立界限的正确目的”形成对比：前者是控制型界限的恶果，后者强调建立品格。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:r001",
+      "target": "s-1f6558c9c3b0-c001:a005",
+      "kind": "supports",
+      "condition": "立界限让孩子更有力量",
+      "reason": "“立界限像肌肉训练的不适感”比喻肌肉酸痛是变强过程，支持“立界限让孩子更有力量”的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:r002",
+      "target": "s-1f6558c9c3b0-c001:a014",
+      "kind": "supports",
+      "condition": "界限感传递",
+      "reason": "父母将界限感传递给孩子，是孩子内化界限感并实现自我管理的先行条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a001",
+      "target": "s-1f6558c9c3b0-c001:a018",
+      "kind": "supports",
+      "condition": "0-4岁后果需可测量可感官",
+      "reason": "c002:a001进一步解释可测量可感官的后果，并给出具体例子。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a002",
+      "target": "s-1f6558c9c3b0-c002:a012",
+      "kind": "example_of",
+      "condition": "确认孩子理解界限",
+      "reason": "a012是a002中确认理解的具体案例。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a003",
+      "target": "s-1f6558c9c3b0-c002:a031",
+      "kind": "supports",
+      "condition": "使用闹钟设定界限",
+      "reason": "a003和a031都提到使用闹钟作为听觉工具。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a004",
+      "target": "s-1f6558c9c3b0-c002:a019",
+      "kind": "supports",
+      "condition": "5-8岁看见界限",
+      "reason": "a004提到看见界限，a019具体说明写下或画出界限。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a004",
+      "target": "s-1f6558c9c3b0-c002:a020",
+      "kind": "supports",
+      "condition": "5-8岁说明期待",
+      "reason": "a004提到说明期待，a020具体说明期待内容。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a004",
+      "target": "s-1f6558c9c3b0-c002:a021",
+      "kind": "supports",
+      "condition": "5-8岁告知行为",
+      "reason": "a004提到告知符合期待的行为，a021具体说明。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a005",
+      "target": "s-1f6558c9c3b0-c002:a018",
+      "kind": "supports",
+      "condition": "9-13岁给予重来机会",
+      "reason": "a005提到给予重来机会，a018具体说明。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a005",
+      "target": "s-1f6558c9c3b0-c002:a017",
+      "kind": "supports",
+      "condition": "9-13岁专注奖励",
+      "reason": "a005提到专注奖励，a017具体说明奖励代替惩罚。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a005",
+      "target": "s-1f6558c9c3b0-c002:a016",
+      "kind": "supports",
+      "condition": "9-13岁协商界限",
+      "reason": "a005提到与孩子协商界限，a016具体说明协商方法。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a006",
+      "target": "s-1f6558c9c3b0-c002:a015",
+      "kind": "supports",
+      "condition": "14-18岁夫妻一致",
+      "reason": "a006提到夫妻双方要像网一样提供安全感，a015具体说明夫妻一致。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a006",
+      "target": "s-1f6558c9c3b0-c002:a028",
+      "kind": "supports",
+      "condition": "14-18岁非原则性问题允许",
+      "reason": "a006提到非原则性问题可以允许，a028具体说明。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a006",
+      "target": "s-1f6558c9c3b0-c002:a029",
+      "kind": "supports",
+      "condition": "14-18岁坚定持续",
+      "reason": "a006提到坚定持续执行，a029具体说明。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a009",
+      "target": "s-1f6558c9c3b0-c002:a022",
+      "kind": "supports",
+      "condition": "孩子不习惯界限时少给界限",
+      "reason": "a009提到少给界限，a022具体说明每次约三条。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a009",
+      "target": "s-1f6558c9c3b0-c002:a023",
+      "kind": "supports",
+      "condition": "解释界限好处",
+      "reason": "a009提到解释界限好处，a023具体说明使用比喻。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a010",
+      "target": "s-1f6558c9c3b0-c002:a013",
+      "kind": "supports",
+      "condition": "界限和爱缺一不可",
+      "reason": "a010指出关系疏远导致不接受界限，a013总结界限和爱缺一不可。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a010",
+      "target": "s-1f6558c9c3b0-c002:a045",
+      "kind": "supports",
+      "condition": "孩子感受不到爱则无法接受界限",
+      "reason": "a010和a045都说明感受不到爱就无法接受界限。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a011",
+      "target": "s-1f6558c9c3b0-c002:a024",
+      "kind": "supports",
+      "condition": "测试爱的语言",
+      "reason": "a011提到测试爱的语言，a024具体说明测试方法。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a011",
+      "target": "s-1f6558c9c3b0-c002:a025",
+      "kind": "supports",
+      "condition": "爱的语言类型",
+      "reason": "a011提到爱的语言类型，a025具体列出。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a014",
+      "target": "s-1f6558c9c3b0-c002:a038",
+      "kind": "supports",
+      "condition": "解释界限动机",
+      "reason": "a014和a038都强调解释不是控制。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a030",
+      "target": "s-1f6558c9c3b0-c002:a036",
+      "kind": "supports",
+      "condition": "孩子需要管教",
+      "reason": "a030和a036都说明孩子潜意识需要管教。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a001",
+      "target": "s-1f6558c9c3b0-c002:a045",
+      "kind": "supports",
+      "condition": "孩子感受不到爱则无法接受界限",
+      "reason": "c003:a001和c002:a045表达相同观点。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a002",
+      "target": "s-1f6558c9c3b0-c002:a046",
+      "kind": "supports",
+      "condition": "孩子愿意听别人的原因",
+      "reason": "c003:a002和c002:a046都说明别人用了孩子爱的语言。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a003",
+      "target": "s-1f6558c9c3b0-c003:a004",
+      "kind": "causes",
+      "condition": "网络上瘾与爱的缺失",
+      "reason": "a003指出网络上瘾是因为在家庭中缺失接纳和成就感，a004提出用爱的语言与界限结合来弥补。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a005",
+      "target": "s-1f6558c9c3b0-c003:a006",
+      "kind": "supports",
+      "condition": "父母没有界限导致孩子不信任",
+      "reason": "a005指出父母没有界限是孩子不尊重的原因之一，a006具体说明导致不信任。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a005",
+      "target": "s-1f6558c9c3b0-c003:a007",
+      "kind": "supports",
+      "condition": "父母知错不认导致孩子不认错",
+      "reason": "a005指出父母知错不认是孩子不尊重的原因之一，a007具体说明。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a008",
+      "target": "s-1f6558c9c3b0-c003:r001",
+      "kind": "supports",
+      "condition": "父母自我立界限",
+      "reason": "a008和r001都建议父母给自己立界限。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a009",
+      "target": "s-1f6558c9c3b0-c003:r002",
+      "kind": "supports",
+      "condition": "父母认错赢得尊重",
+      "reason": "a009和r002表达相同观点。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a010",
+      "target": "s-1f6558c9c3b0-c003:a010",
+      "kind": "supports",
+      "condition": "父母向孩子认错道歉",
+      "reason": "a010和r003内容相同。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a011",
+      "target": "s-1f6558c9c3b0-c003:a011",
+      "kind": "supports",
+      "condition": "家长学习育儿知识感动孩子",
+      "reason": "a011和r004是同一案例。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a012",
+      "target": "s-1f6558c9c3b0-c003:a012",
+      "kind": "supports",
+      "condition": "孩子能感知父母的行为",
+      "reason": "a012和r005表达相同观点。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a014",
+      "target": "s-1f6558c9c3b0-c003:a014",
+      "kind": "supports",
+      "condition": "立界限的长期影响",
+      "reason": "a014和r007表达相同观点。"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n001",
+      "target": "s-1f6558c9c3b0-c003:a003",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源提出及早预防，目标知识解释了孩子网络成瘾的心理原因（在网络中获得现实缺失的接纳和成就感），为预防提供了依据，补充了预防的针对性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a003",
+      "target": "s-1f6558c9c3b0-c003:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源提出及早预防，目标知识解释了孩子网络成瘾的心理原因（在网络中获得现实缺失的接纳和成就感），为预防提供了依据，补充了预防的针对性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n002",
+      "target": "s-1f6558c9c3b0-c003:a001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源指出满足爱的需要提升接受度；目标知识从反面补充了感受不到爱则无法接受界限，两者共同构成完整条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a001",
+      "target": "s-1f6558c9c3b0-c003:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源指出满足爱的需要提升接受度；目标知识从反面补充了感受不到爱则无法接受界限，两者共同构成完整条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n002",
+      "target": "s-1f6558c9c3b0-c003:v2-n003",
+      "kind": "complements",
+      "condition": "孩子缺乏爱时",
+      "reason": "来源强调满足心灵需要提升接受度；目标知识进一步补充了在缺乏爱的情况下应采用正面界限（恩赐、弥补机会、附加合约）的具体策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n003",
+      "target": "s-1f6558c9c3b0-c003:v2-n002",
+      "kind": "complements",
+      "condition": "孩子缺乏爱时",
+      "reason": "来源强调满足心灵需要提升接受度；目标知识进一步补充了在缺乏爱的情况下应采用正面界限（恩赐、弥补机会、附加合约）的具体策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n002",
+      "target": "s-1f6558c9c3b0-c002:a043",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "目标知识说明精心的时刻是爱的语言之一，为来源中提到的爱的语言提供了例子，但未直接涉及界限接受度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a043",
+      "target": "s-1f6558c9c3b0-c003:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "目标知识说明精心的时刻是爱的语言之一，为来源中提到的爱的语言提供了例子，但未直接涉及界限接受度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n002",
+      "target": "s-1f6558c9c3b0-c002:a040",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源要求用孩子爱的语言，目标知识补充了必须使用孩子的爱的语言而非自己的方式，是执行基础。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a040",
+      "target": "s-1f6558c9c3b0-c003:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源要求用孩子爱的语言，目标知识补充了必须使用孩子的爱的语言而非自己的方式，是执行基础。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n002",
+      "target": "s-1f6558c9c3b0-c003:a004",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源提出用爱的语言与界限结合，目标知识给出了具体步骤：设立界限后在特殊情况下给予恩赐、签订附加合约、要求弥补，补充了操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a004",
+      "target": "s-1f6558c9c3b0-c003:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源提出用爱的语言与界限结合，目标知识给出了具体步骤：设立界限后在特殊情况下给予恩赐、签订附加合约、要求弥补，补充了操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n002",
+      "target": "s-1f6558c9c3b0-c002:a011",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "目标知识补充了通过测试了解孩子爱的语言的方法，是来源执行“用孩子爱的语言”的具体手段。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a011",
+      "target": "s-1f6558c9c3b0-c003:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "目标知识补充了通过测试了解孩子爱的语言的方法，是来源执行“用孩子爱的语言”的具体手段。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n002",
+      "target": "s-1f6558c9c3b0-c002:a041",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "目标知识强调避免只用自己的爱的语言，补充了来源中隐含的注意事项。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a041",
+      "target": "s-1f6558c9c3b0-c003:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "目标知识强调避免只用自己的爱的语言，补充了来源中隐含的注意事项。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n003",
+      "target": "s-1f6558c9c3b0-c003:a004",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源提出采用正面界限，目标知识具体展示了用爱的语言与界限结合的操作步骤（给予恩赐、附加合约、弥补），补充了实施细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a004",
+      "target": "s-1f6558c9c3b0-c003:v2-n003",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源提出采用正面界限，目标知识具体展示了用爱的语言与界限结合的操作步骤（给予恩赐、附加合约、弥补），补充了实施细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n003",
+      "target": "s-1f6558c9c3b0-c003:a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "目标知识解释孩子感受不到爱时无法接受界限，是来源策略的背景原因，关联但未提供补充方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a001",
+      "target": "s-1f6558c9c3b0-c003:v2-n003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "目标知识解释孩子感受不到爱时无法接受界限，是来源策略的背景原因，关联但未提供补充方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n003",
+      "target": "s-1f6558c9c3b0-c003:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源针对缺乏爱的情况提出正面界限；目标知识从满足爱的角度提升界限接受度，两者互补，共同促进界限生效。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n002",
+      "target": "s-1f6558c9c3b0-c003:v2-n003",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "来源针对缺乏爱的情况提出正面界限；目标知识从满足爱的角度提升界限接受度，两者互补，共同促进界限生效。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n003",
+      "target": "s-1f6558c9c3b0-c002:a040",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "目标知识强调使用孩子爱的语言，为来源中正面界限的具体表达方式之一提供支持。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a040",
+      "target": "s-1f6558c9c3b0-c003:v2-n003",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "目标知识强调使用孩子爱的语言，为来源中正面界限的具体表达方式之一提供支持。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n004",
+      "target": "s-1f6558c9c3b0-c001:a011",
+      "kind": "complements",
+      "condition": "当父母没有给孩子设立界限时",
+      "reason": "source 指出孩子可能因恐惧暂时服从，target 补充在同样的界限缺失条件下，孩子还可能情绪暴躁、打人，两者是界限缺失的不同行为后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:a011",
+      "target": "s-1f6558c9c3b0-c003:v2-n004",
+      "kind": "complements",
+      "condition": "当父母没有给孩子设立界限时",
+      "reason": "source 指出孩子可能因恐惧暂时服从，target 补充在同样的界限缺失条件下，孩子还可能情绪暴躁、打人，两者是界限缺失的不同行为后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n004",
+      "target": "s-1f6558c9c3b0-c003:a006",
+      "kind": "complements",
+      "condition": "当父母自身界限缺失时",
+      "reason": "source 指出孩子可能因恐惧暂时服从但会反抗，target 补充了在此条件下孩子还会不信任父母，不允许父母立界限，两者共同说明父母缺乏界限的多重负面后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a006",
+      "target": "s-1f6558c9c3b0-c003:v2-n004",
+      "kind": "complements",
+      "condition": "当父母自身界限缺失时",
+      "reason": "source 指出孩子可能因恐惧暂时服从但会反抗，target 补充了在此条件下孩子还会不信任父母，不允许父母立界限，两者共同说明父母缺乏界限的多重负面后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n004",
+      "target": "s-1f6558c9c3b0-c001:r001",
+      "kind": "conditional_difference",
+      "condition": "比较父母自身界限缺失 vs 正确立界限方法",
+      "reason": "source 描述在父母自身缺乏界限时孩子因恐惧服从不持久；target 说明用正确方法立界限时孩子不会反抗，只是暂时不适，两者区分了不同条件下的孩子反应。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:r001",
+      "target": "s-1f6558c9c3b0-c003:v2-n004",
+      "kind": "conditional_difference",
+      "condition": "比较父母自身界限缺失 vs 正确立界限方法",
+      "reason": "source 描述在父母自身缺乏界限时孩子因恐惧服从不持久；target 说明用正确方法立界限时孩子不会反抗，只是暂时不适，两者区分了不同条件下的孩子反应。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n004",
+      "target": "s-1f6558c9c3b0-c002:a010",
+      "kind": "association",
+      "condition": "注意原因不同：source 为父母界限缺失导致恐惧，target 为亲子关系疏远",
+      "reason": "source 强调恐惧导致服从不持久，target 指出关系疏远导致孩子不接受界限，两者都解释孩子不接受界限，但具体原因不同，不确定可直接替代或因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a010",
+      "target": "s-1f6558c9c3b0-c003:v2-n004",
+      "kind": "association",
+      "condition": "注意原因不同：source 为父母界限缺失导致恐惧，target 为亲子关系疏远",
+      "reason": "source 强调恐惧导致服从不持久，target 指出关系疏远导致孩子不接受界限，两者都解释孩子不接受界限，但具体原因不同，不确定可直接替代或因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n004",
+      "target": "s-1f6558c9c3b0-c002:a007",
+      "kind": "conditional_difference",
+      "condition": "比较父母界限缺失 vs 界限坚固",
+      "reason": "source 在父母缺乏界限时孩子因恐惧暂时服从但不持久；target 说明当界限坚固推不倒时孩子获得安全感，两者形成条件差异，不能混用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a007",
+      "target": "s-1f6558c9c3b0-c003:v2-n004",
+      "kind": "conditional_difference",
+      "condition": "比较父母界限缺失 vs 界限坚固",
+      "reason": "source 在父母缺乏界限时孩子因恐惧暂时服从但不持久；target 说明当界限坚固推不倒时孩子获得安全感，两者形成条件差异，不能混用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n004",
+      "target": "s-1f6558c9c3b0-c002:a009",
+      "kind": "association",
+      "condition": "原因不同：source 为恐惧，target 为不习惯",
+      "reason": "source 描述因恐惧而暂时服从后反抗，target 描述因不习惯新界限而不接受，两者是不同的原因，不能混用，但都属于孩子不接受界限的原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a009",
+      "target": "s-1f6558c9c3b0-c003:v2-n004",
+      "kind": "association",
+      "condition": "原因不同：source 为恐惧，target 为不习惯",
+      "reason": "source 描述因恐惧而暂时服从后反抗，target 描述因不习惯新界限而不接受，两者是不同的原因，不能混用，但都属于孩子不接受界限的原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n004",
+      "target": "s-1f6558c9c3b0-c002:a045",
+      "kind": "association",
+      "condition": "原因不同：source 为恐惧，target 为感受不到爱",
+      "reason": "source 侧重恐惧驱动的服从不持久，target 侧重缺乏爱导致无法接受界限，两者原因不同，不能等同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a045",
+      "target": "s-1f6558c9c3b0-c003:v2-n004",
+      "kind": "association",
+      "condition": "原因不同：source 为恐惧，target 为感受不到爱",
+      "reason": "source 侧重恐惧驱动的服从不持久，target 侧重缺乏爱导致无法接受界限，两者原因不同，不能等同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n004",
+      "target": "s-1f6558c9c3b0-c002:a030",
+      "kind": "conditional_difference",
+      "condition": "区分父母自身界限缺失导致的恐惧 vs 孩子潜意识对界限的安全需求",
+      "reason": "source 的恐惧服从源于父母自身无界限，不持久；target 的害怕来自父母不立界限，是孩子对安全感的正常需要，二者恐惧性质不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c002:a030",
+      "target": "s-1f6558c9c3b0-c003:v2-n004",
+      "kind": "conditional_difference",
+      "condition": "区分父母自身界限缺失导致的恐惧 vs 孩子潜意识对界限的安全需求",
+      "reason": "source 的恐惧服从源于父母自身无界限，不持久；target 的害怕来自父母不立界限，是孩子对安全感的正常需要，二者恐惧性质不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n004",
+      "target": "s-1f6558c9c3b0-c001:a020",
+      "kind": "association",
+      "condition": "source 为父母界限缺失，target 为控制型界限",
+      "reason": "source 讨论父母缺乏界限时恐惧服从不持久；target 讨论界限目的是控制时导致依赖，两者针对不同问题，仅因同属界限主题关联，不确定因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:a020",
+      "target": "s-1f6558c9c3b0-c003:v2-n004",
+      "kind": "association",
+      "condition": "source 为父母界限缺失，target 为控制型界限",
+      "reason": "source 讨论父母缺乏界限时恐惧服从不持久；target 讨论界限目的是控制时导致依赖，两者针对不同问题，仅因同属界限主题关联，不确定因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n004",
+      "target": "s-1f6558c9c3b0-c003:v2-n003",
+      "kind": "association",
+      "condition": "source 为父母界限缺失，target 为孩子缺乏爱",
+      "reason": "source 未涉及孩子是否缺乏爱，仅谈恐惧服从；target 针对孩子缺乏爱时采用正面界限，两者条件不同，不宜推断关联，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n003",
+      "target": "s-1f6558c9c3b0-c003:v2-n004",
+      "kind": "association",
+      "condition": "source 为父母界限缺失，target 为孩子缺乏爱",
+      "reason": "source 未涉及孩子是否缺乏爱，仅谈恐惧服从；target 针对孩子缺乏爱时采用正面界限，两者条件不同，不宜推断关联，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n004",
+      "target": "s-1f6558c9c3b0-c003:a005",
+      "kind": "complements",
+      "condition": "当父母自身没有界限且经常越界时",
+      "reason": "source 指出孩子可能因恐惧暂时服从但会反抗；target 补充父母无界限还会导致家庭关系混乱和孩子不尊重父母，是界限缺失的另一后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a005",
+      "target": "s-1f6558c9c3b0-c003:v2-n004",
+      "kind": "complements",
+      "condition": "当父母自身没有界限且经常越界时",
+      "reason": "source 指出孩子可能因恐惧暂时服从但会反抗；target 补充父母无界限还会导致家庭关系混乱和孩子不尊重父母，是界限缺失的另一后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n005",
+      "target": "s-1f6558c9c3b0-c003:a012",
+      "kind": "complements",
+      "condition": "孩子具有非语言感知能力",
+      "reason": "source 指出孩子能感知家庭界限混乱，target 补充孩子也能感知父母是否在努力学习和改变，共同说明孩子感知能力的广泛性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a012",
+      "target": "s-1f6558c9c3b0-c003:v2-n005",
+      "kind": "complements",
+      "condition": "孩子具有非语言感知能力",
+      "reason": "source 指出孩子能感知家庭界限混乱，target 补充孩子也能感知父母是否在努力学习和改变，共同说明孩子感知能力的广泛性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n005",
+      "target": "s-1f6558c9c3b0-c003:a006",
+      "kind": "association",
+      "condition": "父母自身没有界限时",
+      "reason": "source 强调孩子能感知到家庭界限混乱，target 指出父母没有界限导致孩子不信任，暗示感知可能是不信任的基础，但 source 未明说不信任，故关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a006",
+      "target": "s-1f6558c9c3b0-c003:v2-n005",
+      "kind": "association",
+      "condition": "父母自身没有界限时",
+      "reason": "source 强调孩子能感知到家庭界限混乱，target 指出父母没有界限导致孩子不信任，暗示感知可能是不信任的基础，但 source 未明说不信任，故关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n005",
+      "target": "s-1f6558c9c3b0-c003:a005",
+      "kind": "association",
+      "condition": "父母没有界限时",
+      "reason": "source 说孩子能感知家庭界限混乱，target 说父母没有界限导致家庭关系混乱和孩子不尊重，两者都涉及父母无界限的后果，但 source 侧重感知，target 侧重结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a005",
+      "target": "s-1f6558c9c3b0-c003:v2-n005",
+      "kind": "association",
+      "condition": "父母没有界限时",
+      "reason": "source 说孩子能感知家庭界限混乱，target 说父母没有界限导致家庭关系混乱和孩子不尊重，两者都涉及父母无界限的后果，但 source 侧重感知，target 侧重结果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n005",
+      "target": "s-1f6558c9c3b0-c001:r002",
+      "kind": "prerequisite",
+      "condition": "父母通过立界限传递界限感时，孩子需具备感知能力",
+      "reason": "source 表明孩子能感知家庭中的界限状态，这是 target 中界限感得以传递给孩子的基础，因此 source 是 target 的前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c001:r002",
+      "target": "s-1f6558c9c3b0-c003:v2-n005",
+      "kind": "requires",
+      "condition": "父母通过立界限传递界限感时，孩子需具备感知能力",
+      "reason": "source 表明孩子能感知家庭中的界限状态，这是 target 中界限感得以传递给孩子的基础，因此 source 是 target 的前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n005",
+      "target": "s-1f6558c9c3b0-c003:a007",
+      "kind": "association",
+      "condition": "父母行为被孩子感知时",
+      "reason": "source 指出孩子能感知家庭界限混乱，target 指出父母知错不认导致孩子也不认错，孩子对父母行为的感知是模仿的前提，但 target 未明确感知过程，故关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:a007",
+      "target": "s-1f6558c9c3b0-c003:v2-n005",
+      "kind": "association",
+      "condition": "父母行为被孩子感知时",
+      "reason": "source 指出孩子能感知家庭界限混乱，target 指出父母知错不认导致孩子也不认错，孩子对父母行为的感知是模仿的前提，但 target 未明确感知过程，故关联不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:v2-n005",
+      "target": "s-1f6558c9c3b0-c003:r001",
+      "kind": "association",
+      "condition": "孩子感知能力存在",
+      "reason": "source 说孩子能感知家庭界限混乱，target 建议父母先自我立界限，暗示孩子能感知父母是否立界限，但 target 未直接提及感知，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-1f6558c9c3b0-c003:r001",
+      "target": "s-1f6558c9c3b0-c003:v2-n005",
+      "kind": "association",
+      "condition": "孩子感知能力存在",
+      "reason": "source 说孩子能感知家庭界限混乱，target 建议父母先自我立界限，暗示孩子能感知父母是否立界限，但 target 未直接提及感知，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "依赖与失控",
+      "when": "当孩子缺乏界限时，可能产生网络上瘾等依赖行为。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a018",
+        "s-1f6558c9c3b0-c001:r003",
+        "s-1f6558c9c3b0-c002:a001"
+      ],
+      "reason": "三者都强调0-4岁后果需可测量、可感官，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a010",
+        "s-1f6558c9c3b0-c002:a013",
+        "s-1f6558c9c3b0-c002:a045",
+        "s-1f6558c9c3b0-c003:a001"
+      ],
+      "reason": "都表达孩子感受不到爱就无法接受界限，界限和爱缺一不可。"
+    },
+    {
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a030",
+        "s-1f6558c9c3b0-c002:a036"
+      ],
+      "reason": "都表达孩子潜意识需要管教，即使表面反抗。"
+    },
+    {
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a009",
+        "s-1f6558c9c3b0-c003:r002"
+      ],
+      "reason": "内容完全相同，都说明父母认错比不认错更能得到孩子尊重。"
+    },
+    {
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a010"
+      ],
+      "reason": "内容完全相同，都建议父母向孩子认错道歉。"
+    },
+    {
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a011"
+      ],
+      "reason": "同一案例，内容完全相同。"
+    },
+    {
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a012"
+      ],
+      "reason": "内容完全相同，都说明孩子能感知父母的行为。"
+    },
+    {
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a014"
+      ],
+      "reason": "内容完全相同，都说明立界限的长期影响。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "按年龄立界限的方法",
+      "steps": [
+        {
+          "action": "0-4岁：强调行为，通过身体限制设立界限，后果需可测量、可感官。",
+          "atom_ids": [
+            "s-1f6558c9c3b0-c001:a016",
+            "s-1f6558c9c3b0-c001:a018",
+            "s-1f6558c9c3b0-c001:r003",
+            "s-1f6558c9c3b0-c002:a001"
+          ],
+          "condition": "适用于0-4岁孩子"
+        },
+        {
+          "action": "5-8岁：看见界限（写或画），说明期待和符合期待的行为。",
+          "atom_ids": [
+            "s-1f6558c9c3b0-c002:a004",
+            "s-1f6558c9c3b0-c002:a019",
+            "s-1f6558c9c3b0-c002:a020",
+            "s-1f6558c9c3b0-c002:a021"
+          ],
+          "condition": "适用于5-8岁孩子"
+        },
+        {
+          "action": "9-13岁：给予重来机会，专注奖励，解释原因，与孩子协商界限。",
+          "atom_ids": [
+            "s-1f6558c9c3b0-c002:a005",
+            "s-1f6558c9c3b0-c002:a016",
+            "s-1f6558c9c3b0-c002:a017",
+            "s-1f6558c9c3b0-c002:a018",
+            "s-1f6558c9c3b0-c002:a032",
+            "s-1f6558c9c3b0-c002:a033",
+            "s-1f6558c9c3b0-c002:a034"
+          ],
+          "condition": "适用于9-13岁孩子"
+        },
+        {
+          "action": "14-18岁：非原则性问题允许，设定界限并坚定持续执行，夫妻一致提供安全感。",
+          "atom_ids": [
+            "s-1f6558c9c3b0-c002:a006",
+            "s-1f6558c9c3b0-c002:a015",
+            "s-1f6558c9c3b0-c002:a028",
+            "s-1f6558c9c3b0-c002:a029",
+            "s-1f6558c9c3b0-c002:a035"
+          ],
+          "condition": "适用于14-18岁孩子"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-1f6558c9c3b0-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002",
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a002"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a003"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a004"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a005"
+      ],
+      "blocks": [
+        "b00011",
+        "b00013",
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a006"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a007"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u008",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a008"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a009"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a010"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a011"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a012"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a013"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a014"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:r002"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a015"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a016"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a017"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a018",
+        "s-1f6558c9c3b0-c001:r003"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u020",
+      "kind": "example",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a019"
+      ],
+      "blocks": [
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:a020"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c001:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:r001"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u1",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:r003",
+        "s-1f6558c9c3b0-c002:a001",
+        "s-1f6558c9c3b0-c002:r001"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u2",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c001:r004"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u3",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a002",
+        "s-1f6558c9c3b0-c002:a012"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u4",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a003",
+        "s-1f6558c9c3b0-c002:a031",
+        "s-1f6558c9c3b0-c002:r002",
+        "s-1f6558c9c3b0-c002:r003",
+        "s-1f6558c9c3b0-c002:r004"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u5",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a004",
+        "s-1f6558c9c3b0-c002:a019",
+        "s-1f6558c9c3b0-c002:r005"
+      ],
+      "blocks": [
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u6",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a004",
+        "s-1f6558c9c3b0-c002:a020",
+        "s-1f6558c9c3b0-c002:r006"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u7",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a004",
+        "s-1f6558c9c3b0-c002:a021",
+        "s-1f6558c9c3b0-c002:r007"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u8",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a005",
+        "s-1f6558c9c3b0-c002:a018"
+      ],
+      "blocks": [
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u9",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a005",
+        "s-1f6558c9c3b0-c002:a017"
+      ],
+      "blocks": [
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u10",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a005",
+        "s-1f6558c9c3b0-c002:a032",
+        "s-1f6558c9c3b0-c002:a033"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u11",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a005",
+        "s-1f6558c9c3b0-c002:a016",
+        "s-1f6558c9c3b0-c002:a034"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u12",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a006",
+        "s-1f6558c9c3b0-c002:a027"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u13",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a006",
+        "s-1f6558c9c3b0-c002:a028"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u14",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a006",
+        "s-1f6558c9c3b0-c002:a007",
+        "s-1f6558c9c3b0-c002:a015",
+        "s-1f6558c9c3b0-c002:a029",
+        "s-1f6558c9c3b0-c002:a030",
+        "s-1f6558c9c3b0-c002:a035",
+        "s-1f6558c9c3b0-c002:a036"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u15",
+      "kind": "case",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a008"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u16",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a037"
+      ],
+      "blocks": [
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u17",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a009",
+        "s-1f6558c9c3b0-c002:a022"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u18",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a009",
+        "s-1f6558c9c3b0-c002:a014",
+        "s-1f6558c9c3b0-c002:a023",
+        "s-1f6558c9c3b0-c002:a038"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u19",
+      "kind": "condition",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a010",
+        "s-1f6558c9c3b0-c002:a013"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u20",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a010",
+        "s-1f6558c9c3b0-c002:a011",
+        "s-1f6558c9c3b0-c002:a039"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u21",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a011",
+        "s-1f6558c9c3b0-c002:a024",
+        "s-1f6558c9c3b0-c002:a025",
+        "s-1f6558c9c3b0-c002:a040",
+        "s-1f6558c9c3b0-c002:a041"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c002:u22",
+      "kind": "case",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a011",
+        "s-1f6558c9c3b0-c002:a025",
+        "s-1f6558c9c3b0-c002:a026",
+        "s-1f6558c9c3b0-c002:a042"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079",
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a044"
+      ],
+      "blocks": [
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a045"
+      ],
+      "blocks": [
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c002:a046"
+      ],
+      "blocks": [
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a003"
+      ],
+      "blocks": [
+        "b00082",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u006",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a004"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086",
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u008",
+      "kind": "principle",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:v2-n003"
+      ],
+      "blocks": [
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a005"
+      ],
+      "blocks": [
+        "b00089",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u010",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a006"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a007"
+      ],
+      "blocks": [
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a008"
+      ],
+      "blocks": [
+        "b00090",
+        "b00092",
+        "b00093",
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u013",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:v2-n004"
+      ],
+      "blocks": [
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:v2-n005"
+      ],
+      "blocks": [
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u015",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a009"
+      ],
+      "blocks": [
+        "b00095",
+        "b00096"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a010"
+      ],
+      "blocks": [
+        "b00096",
+        "b00097"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a011"
+      ],
+      "blocks": [
+        "b00097",
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u018",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a012"
+      ],
+      "blocks": [
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a013"
+      ],
+      "blocks": [
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-1f6558c9c3b0-c003:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:a014"
+      ],
+      "blocks": [
+        "b00098",
+        "b00099"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "及早预防网络游戏与色情成瘾",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1f6558c9c3b0",
+          "blocks": [
+            "b00082",
+            "b00083"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "满足孩子心灵需要提升界限接受度",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1f6558c9c3b0",
+          "blocks": [
+            "b00085"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "缺乏爱的孩子需要更多正面界限",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1f6558c9c3b0",
+          "blocks": [
+            "b00088"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "恐惧驱动的服从不持久",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1f6558c9c3b0",
+          "blocks": [
+            "b00092",
+            "b00093"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "孩子能感知家庭界限混乱",
+      "atom_ids": [
+        "s-1f6558c9c3b0-c003:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-1f6558c9c3b0",
+          "blocks": [
+            "b00094"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    }
+  ]
+}

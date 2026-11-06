@@ -1,0 +1,576 @@
+{
+  "concepts": [
+    {
+      "name": "Time out 管教方式",
+      "definition": "一种在高级知识分子中流行的管教方式：当孩子发脾气时，让孩子回自己房间面壁思过，父母不与其交流，直到孩子情绪平复后才重新接纳。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a001"
+      ]
+    },
+    {
+      "name": "Time out 对儿童心理的影响",
+      "definition": "Time out 让孩子形成认知：做错事时父母不与自己在一起，父母只爱自己好的一面；当自己发脾气时会被关进小屋，只有控制好脾气、不发脾气时父母才会重新接纳自己。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a002"
+      ]
+    },
+    {
+      "name": "惩罚传达的接纳条件",
+      "definition": "惩罚让孩子知道：只有在表现良好时才被接纳，表现不好时不被接纳。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a003"
+      ]
+    },
+    {
+      "name": "惩罚导致安全感丧失与信任破裂",
+      "definition": "惩罚使孩子对父母失去最深层的安全感，不再相信父母的爱。孩子头脑中知道父母爱自己，但心里不相信；他们相信父母只爱自己的优点，不爱自己的缺点。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a004"
+      ]
+    },
+    {
+      "name": "说教式管教",
+      "definition": "说教式管教指父母不打孩子，但喜欢讲道理，进行机会教育，随时随地抓住各种情况对孩子进行教育。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a005"
+      ]
+    },
+    {
+      "name": "母亲机会教育的个人经历",
+      "definition": "讲师回忆自己母亲善于机会教育：看电视时，无论看到什么内容都能联系到自己身上进行教育。例如看到牛奶广告中奶牛吃草挤奶，母亲教育讲师要像奶牛一样对社会有贡献。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a006"
+      ]
+    },
+    {
+      "name": "机会教育导致孩子不愿与父母相处",
+      "definition": "频繁的机会教育让孩子感到厌烦，不愿与父母一起做事，因为不知道街上看到什么就会被拿来教育自己。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a007"
+      ]
+    },
+    {
+      "name": "讲道理式说教的问题",
+      "definition": "父母喜欢跟孩子讲道理，因为成年人左脑发育好，但孩子的道理与成年人不同，讲道理讲不通。应先进行情绪连接，而不是一上来就讲道理。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a008"
+      ]
+    },
+    {
+      "name": "说教式管教导致青春期孩子拒绝沟通",
+      "definition": "说教式父母的孩子长大后可能放学回家关门，不愿与父母交流，餐桌上只简单回应。因为孩子知道父母会说教，像唐僧一样念念念。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a009"
+      ]
+    },
+    {
+      "name": "14岁孩子对父母说教的感受",
+      "definition": "一个14岁孩子在心理咨询室说：爸妈天天跟我念，就是那几句老生常谈，我都背得下来，不知道为什么他们每天都要跟我念。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a010"
+      ]
+    },
+    {
+      "name": "罪恶式管教",
+      "definition": "罪恶式管教也叫捆绑式管教，通过强调父母的牺牲和付出，引发孩子的内疚和罪恶感，从而操控孩子。例如说“我为你牺牲这么多，你对得起我吗？”",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a011"
+      ]
+    },
+    {
+      "name": "羞辱式管教",
+      "definition": "羞辱式管教是通过羞辱来试图改变和操控一个人，在中国文化中常见。例如用羞耻感让孩子停止哭泣，或通过排名等方式羞辱孩子。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a012"
+      ]
+    },
+    {
+      "name": "长辈用羞耻制止孩子哭泣的案例",
+      "definition": "讲师真实看到：一个孩子摔跤大哭，带孩子的长辈（奶奶或外婆）说：“不要再哭了，你看所有人都在看你羞不羞？”用羞耻让孩子停止哭泣。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a013"
+      ]
+    },
+    {
+      "name": "羞辱式管教对自我认知的破坏",
+      "definition": "用羞耻让一个人改变，孩子可能行为良好，但自我认知会被毁掉。长大后会有很多不应该的羞耻，别人可以用羞耻来操控他，自我认知起不来。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a014"
+      ]
+    },
+    {
+      "name": "放任式管教",
+      "definition": "放任式管教指父母不要求孩子学习好或才艺，只要求孩子快乐开心，认为只要开心就好，不给孩子压力。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a015"
+      ]
+    },
+    {
+      "name": "放任式管教导致孩子自杀未遂的案例",
+      "definition": "讲师的朋友家境富裕，认为只要孩子快乐开心就好，不要求学习或才艺。四五年后，朋友的孩子在美国读书时第二次自杀未遂，被学校要求退学。朋友深夜打电话求助。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a016"
+      ]
+    },
+    {
+      "name": "放任式管教缺乏目的导致孩子无快乐能力",
+      "definition": "如果管教没有目的和意义，只让孩子开心，孩子反而没有快乐的能力。因为父母只是用物质满足让孩子暂时开心，一旦进入社会，别人不会让他开心，孩子无法应对不开心。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a017"
+      ]
+    },
+    {
+      "name": "管教应带有意义和目的",
+      "definition": "对孩子的管教一定要带有意义和目的，方向要对。父母应系统学习育儿，才能清晰目标和方向，建立育儿体系。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a018"
+      ]
+    },
+    {
+      "name": "文化中羞耻与面子观念的体现",
+      "definition": "中国文化中根深蒂固地将羞耻与面子联系在一起，如光耀门楣、让家人蒙羞等观念。讲师出国时母亲郑重告诫：你代表中国，要注意形象，不要丢国人的脸。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a019"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-d6db075af35f-c001:a001",
+      "target": "s-d6db075af35f-c001:a002",
+      "kind": "causes",
+      "condition": "当孩子发脾气时，父母采用Time out方式",
+      "reason": "Time out让孩子形成认知：做错事时父母不与自己在一起，父母只爱自己好的一面；当自己发脾气时会被关进小屋，只有控制好脾气、不发脾气时父母才会重新接纳自己。"
+    },
+    {
+      "source": "s-d6db075af35f-c001:a002",
+      "target": "s-d6db075af35f-c001:a003",
+      "kind": "supports",
+      "condition": "Time out作为一种惩罚方式",
+      "reason": "Time out让孩子形成认知：做错事时父母不与自己在一起，父母只爱自己好的一面；当自己发脾气时会被关进小屋，只有控制好脾气、不发脾气时父母才会重新接纳自己。这支持了惩罚传达的接纳条件：只有在表现良好时才被接纳，表现不好时不被接纳。"
+    },
+    {
+      "source": "s-d6db075af35f-c001:a003",
+      "target": "s-d6db075af35f-c001:a004",
+      "kind": "causes",
+      "condition": "当孩子经历惩罚时",
+      "reason": "惩罚让孩子知道：只有在表现良好时才被接纳，表现不好时不被接纳。这导致孩子对父母失去最深层的安全感，不再相信父母的爱。"
+    },
+    {
+      "source": "s-d6db075af35f-c001:a005",
+      "target": "s-d6db075af35f-c001:a006",
+      "kind": "example_of",
+      "condition": "说教式管教中的机会教育",
+      "reason": "说教式管教的定义包含父母随时随地抓住机会讲道理进行教育；母亲机会教育的个人经历具体体现了这一特点，是该定义的实例。但原边方向有误，应反过来。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向概念→案例，应改为案例→概念。"
+    },
+    {
+      "source": "s-d6db075af35f-c001:a005",
+      "target": "s-d6db075af35f-c001:a007",
+      "kind": "association",
+      "condition": "当父母频繁进行机会教育时",
+      "reason": "说教式管教包含机会教育，频繁的机会教育可能让孩子不愿与父母相处；两者均涉及机会教育，但由定义到结果并非直接因果，而是相关现象。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 改为 association。"
+    },
+    {
+      "source": "s-d6db075af35f-c001:a005",
+      "target": "s-d6db075af35f-c001:a008",
+      "kind": "supports",
+      "condition": "说教式管教中讲道理的方式",
+      "reason": "说教式管教的定义指出父母喜欢讲道理；讲道理式说教的问题进一步说明成年人讲道理与孩子理解不同，应先情绪连接，前者为后者提供背景支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-d6db075af35f-c001:a005",
+      "target": "s-d6db075af35f-c001:a009",
+      "kind": "association",
+      "condition": "当孩子长期接受说教式管教时",
+      "reason": "说教式管教的定义包含讲道理；说教式管教导致青春期孩子拒绝沟通描述长期说教带来的后果，两者相关但由定义到结果不是直接因果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 改为 association。"
+    },
+    {
+      "source": "s-d6db075af35f-c001:a009",
+      "target": "s-d6db075af35f-c001:a010",
+      "kind": "example_of",
+      "condition": "青春期孩子对父母说教的感受",
+      "reason": "说教式管教导致青春期孩子拒绝沟通。一个14岁孩子在心理咨询室说：爸妈天天跟我念，就是那几句老生常谈，我都背得下来，不知道为什么他们每天都要跟我念。"
+    },
+    {
+      "source": "s-d6db075af35f-c001:a011",
+      "target": "s-d6db075af35f-c001:a012",
+      "kind": "contrasts",
+      "condition": "罪恶式管教与羞辱式管教是两种不同的管教方式",
+      "reason": "罪恶式管教通过强调父母的牺牲和付出，引发孩子的内疚和罪恶感，从而操控孩子。羞辱式管教是通过羞辱来试图改变和操控一个人。两者机制不同。"
+    },
+    {
+      "source": "s-d6db075af35f-c001:a012",
+      "target": "s-d6db075af35f-c001:a013",
+      "kind": "example_of",
+      "condition": "羞辱式管教的具体案例",
+      "reason": "羞辱式管教是通过羞辱来试图改变和操控一个人。讲师真实看到：一个孩子摔跤大哭，带孩子的长辈说：“不要再哭了，你看所有人都在看你羞不羞？”用羞耻让孩子停止哭泣。"
+    },
+    {
+      "source": "s-d6db075af35f-c001:a012",
+      "target": "s-d6db075af35f-c001:a014",
+      "kind": "causes",
+      "condition": "当孩子长期接受羞辱式管教时",
+      "reason": "羞辱式管教是通过羞辱来试图改变和操控一个人。用羞耻让一个人改变，孩子可能行为良好，但自我认知会被毁掉。"
+    },
+    {
+      "source": "s-d6db075af35f-c001:a015",
+      "target": "s-d6db075af35f-c001:a016",
+      "kind": "example_of",
+      "condition": "放任式管教的具体案例",
+      "reason": "放任式管教导致孩子自杀未遂的案例具体体现了放任式管教的定义中只要求快乐开心、不给孩子压力的特点；原边方向有误，应反过来。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向概念→案例，应改为案例→概念。"
+    },
+    {
+      "source": "s-d6db075af35f-c001:a015",
+      "target": "s-d6db075af35f-c001:a017",
+      "kind": "causes",
+      "condition": "当父母采用放任式管教时",
+      "reason": "放任式管教指父母不要求孩子学习好或才艺，只要求孩子快乐开心。如果管教没有目的和意义，只让孩子开心，孩子反而没有快乐的能力。"
+    },
+    {
+      "source": "s-d6db075af35f-c001:a017",
+      "target": "s-d6db075af35f-c001:a018",
+      "kind": "supports",
+      "condition": "放任式管教缺乏目的导致孩子无快乐能力",
+      "reason": "如果管教没有目的和意义，只让孩子开心，孩子反而没有快乐的能力。因此对孩子的管教一定要带有意义和目的，方向要对。"
+    },
+    {
+      "source": "s-d6db075af35f-c001:a012",
+      "target": "s-d6db075af35f-c001:a019",
+      "kind": "supports",
+      "condition": "羞辱式管教在中国文化中常见",
+      "reason": "羞辱式管教是通过羞辱来试图改变和操控一个人，在中国文化中常见。中国文化中根深蒂固地将羞耻与面子联系在一起，如光耀门楣、让家人蒙羞等观念。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "规则与行动",
+      "to": "理解情绪",
+      "when": "当父母采用Time out管教方式时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a001",
+        "s-d6db075af35f-c001:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "界限",
+      "when": "当父母采用惩罚管教方式时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a003",
+        "s-d6db075af35f-c001:a004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "理解情绪",
+      "when": "当父母采用说教式管教时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a005",
+        "s-d6db075af35f-c001:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "阶段与角色",
+      "when": "当孩子进入青春期时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a009",
+        "s-d6db075af35f-c001:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "自我认知",
+      "when": "当父母采用羞辱式管教时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a012",
+        "s-d6db075af35f-c001:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "依赖与失控",
+      "when": "当父母采用放任式管教时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a015",
+        "s-d6db075af35f-c001:a016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "规则与行动",
+      "to": "内在能力",
+      "when": "当父母采用放任式管教时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a015",
+        "s-d6db075af35f-c001:a017"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-d6db075af35f-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a001"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a003"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a004"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a005"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a006"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a007"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a008"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a009"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0010",
+      "kind": "case",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a010"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a011"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a012"
+      ],
+      "blocks": [
+        "b00018",
+        "b00020",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0013",
+      "kind": "case",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a013"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a014"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a015"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0016",
+      "kind": "case",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a016"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a017"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a018"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-d6db075af35f-c001:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d6db075af35f-c001:a019"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

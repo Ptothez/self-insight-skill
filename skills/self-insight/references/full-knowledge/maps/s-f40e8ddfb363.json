@@ -1,0 +1,3540 @@
+{
+  "concepts": [
+    {
+      "name": "情绪连接",
+      "definition": "父母从孩子的话语中进入孩子的情绪层面，与孩子建立情感上的连接，而不仅仅是在孩子发脾气或不高兴时才进行。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a001",
+        "s-f40e8ddfb363-c001:a002",
+        "s-f40e8ddfb363-c001:a018",
+        "s-f40e8ddfb363-c002:a001",
+        "s-f40e8ddfb363-c002:a002"
+      ]
+    },
+    {
+      "name": "原则",
+      "definition": "不是指具体生活事务的原则，而是整个人生所持有的原则，是指导行为的根本准则。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a004"
+      ]
+    },
+    {
+      "name": "长远规划",
+      "definition": "孩子无法做长远规划可能有多种原因：父母提供的生活过于安逸，孩子没有动力；孩子觉得自己做不到；父母从小替孩子做好规划，导致孩子缺乏自主调整能力；亲子关系不好，孩子故意对抗。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a005",
+        "s-f40e8ddfb363-c001:r001",
+        "s-f40e8ddfb363-c001:xe002"
+      ]
+    },
+    {
+      "name": "四象限时间管理法",
+      "definition": "四象限时间管理法只适用于个人，不能代表全家人进行分配，因为每个人的紧急和重要事项不同。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a007",
+        "s-f40e8ddfb363-c001:a008",
+        "s-f40e8ddfb363-c001:xe003",
+        "s-f40e8ddfb363-c002:a003"
+      ]
+    },
+    {
+      "name": "开放心态",
+      "definition": "培养孩子开放心态（open mind）需要父母先做到开放心态，通过家庭社交活动提供练习机会，并在孩子对他人有负面看法时引导孩子发现对方的优点。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a009",
+        "s-f40e8ddfb363-c001:r002",
+        "s-f40e8ddfb363-c001:xe004",
+        "s-f40e8ddfb363-c001:xe006"
+      ]
+    },
+    {
+      "name": "轻重缓急",
+      "definition": "孩子在学习上能分清主次，但在生活中缺乏轻重缓急，可能是因为父母包办了大部分生活事务，孩子认为生活不用自己管理。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a010",
+        "s-f40e8ddfb363-c001:a011",
+        "s-f40e8ddfb363-c001:xe005"
+      ]
+    },
+    {
+      "name": "拖延",
+      "definition": "有些人性格上需要在时间紧迫时才能集中注意力，如果时间充裕反而效率低下，因此拖延不一定是问题，关键看结果。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a012",
+        "s-f40e8ddfb363-c001:a013",
+        "s-f40e8ddfb363-c001:a014",
+        "s-f40e8ddfb363-c001:r003"
+      ]
+    },
+    {
+      "name": "学习风格",
+      "definition": "每个孩子有不同的学习风格，父母需要了解孩子的学习风格才能有效帮助孩子，而不是按照自己认为好的方式。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a015",
+        "s-f40e8ddfb363-c001:a016",
+        "s-f40e8ddfb363-c001:r004"
+      ]
+    },
+    {
+      "name": "如厕训练",
+      "definition": "如厕训练是重要但不紧急的事情。不能把它当成紧急重要的事情，否则过早强迫孩子学会独立上厕所会伤害孩子心理。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a004",
+        "s-f40e8ddfb363-c002:a005",
+        "s-f40e8ddfb363-c002:a006"
+      ]
+    },
+    {
+      "name": "攒钱",
+      "definition": "孩子对攒钱的理解与成人不同。对孩子来说，把钱放进存钱罐就是攒钱；攒了五块钱或一块钱去买棒棒糖，也算攒钱。家长觉得孩子不理解攒钱，是因为用成人的标准衡量。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a009",
+        "s-f40e8ddfb363-c002:a010",
+        "s-f40e8ddfb363-c002:a011"
+      ]
+    },
+    {
+      "name": "需要与想要",
+      "definition": "需要是基本需求，如吃饭；想要是额外欲望，如特定好吃的菜。当需要的物品（如菜）吃完时，可以用其他菜替代，孩子仍然满足需要，但想要的东西不一定有。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a015",
+        "s-f40e8ddfb363-c002:a016",
+        "s-f40e8ddfb363-c002:a017",
+        "s-f40e8ddfb363-c002:a020",
+        "s-f40e8ddfb363-c002:a021",
+        "s-f40e8ddfb363-c002:a022",
+        "s-f40e8ddfb363-c003:a005"
+      ]
+    },
+    {
+      "name": "富足感与资源有限性",
+      "definition": "富足感是指让孩子在大体上感到家庭不缺基本需要，不会缺乏，不用慌张；资源有限性是指具体物品可能暂时用完，需要等待或替代。两者并不矛盾，前者建立安全感，后者让孩子认识现实。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a003",
+        "s-f40e8ddfb363-c003:a004",
+        "s-f40e8ddfb363-c003:a006",
+        "s-f40e8ddfb363-c003:r001"
+      ]
+    },
+    {
+      "name": "家务分工",
+      "definition": "如果配偶对家务（如收纳、洗碗）有高标准并嫌弃对方，被嫌弃的一方可以明确表示自己不擅长或不愿意做，并让配偶自己来做。如果配偶不做，就不要在旁边指手画脚。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a007",
+        "s-f40e8ddfb363-c003:a008"
+      ]
+    },
+    {
+      "name": "情绪管理",
+      "definition": "在处理事情之前先管理好自己和孩子的情绪，情绪好了，事情就能平静安稳地做顺。但前提是情绪处理方法必须有效，否则会浪费大量时间在情绪上，影响其他事务。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a009",
+        "s-f40e8ddfb363-c003:a010"
+      ]
+    },
+    {
+      "name": "原生家庭影响",
+      "definition": "即使不在一起，原生家庭带来的负面影响和错误标签仍会通过记忆和回忆控制人，使人被无形的想法带回去。需要通过自我认知提升来摆脱。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a011",
+        "s-f40e8ddfb363-c003:a012"
+      ]
+    },
+    {
+      "name": "年龄阶段与父母角色",
+      "definition": "孩子在不同年龄阶段，父母应扮演不同角色，批评和引导方式也不同。需要仔细搞清楚孩子每个年龄阶段的特点，才能正确引导。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a015"
+      ]
+    },
+    {
+      "name": "挑食应对",
+      "definition": "当孩子对桌上每道菜都表示不喜欢时，家长可以明确告知今晚只有这些菜，要吃就吃，不吃就饿着，不提供替代食物。如果孩子至少吃一口后往往会吃很多，说明桌上菜太多，孩子面对过多选择反而容易挑食。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a025",
+        "s-f40e8ddfb363-c002:a026",
+        "s-f40e8ddfb363-c002:a027",
+        "s-f40e8ddfb363-c002:a028",
+        "s-f40e8ddfb363-c002:a029",
+        "s-f40e8ddfb363-c003:a001",
+        "s-f40e8ddfb363-c003:a002"
+      ]
+    },
+    {
+      "name": "浪费文具处理",
+      "definition": "对于浪费文具的行为，不是用延迟满足，而是用界限和自然后果。如果孩子浪费本子（如撕掉、空白不用），就不给买新的。孩子可能说没法做作业，但这是孩子需要自己承担的后果。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a019",
+        "s-f40e8ddfb363-c002:a020",
+        "s-f40e8ddfb363-c002:a021",
+        "s-f40e8ddfb363-c002:a022",
+        "s-f40e8ddfb363-c002:a023",
+        "s-f40e8ddfb363-c002:a024"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-f40e8ddfb363-c001:a001",
+      "target": "s-f40e8ddfb363-c001:a002",
+      "kind": "supports",
+      "condition": "当孩子因比较而产生情绪时",
+      "reason": "情绪连接的定义支持了孩子问为什么别人有玩具而我没有时的应对方法，因为该方法要求先进行情绪连接。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原kind applies_to不允许，改为supports。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a002",
+      "target": "s-f40e8ddfb363-c002:a001",
+      "kind": "supports",
+      "condition": "引导孩子做出选择前",
+      "reason": "孩子问为什么别人有玩具而我没有时的应对方法体现了情绪连接是引导孩子做出选择的前提这一原则，前者具体应用了后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原prerequisite方向有误，改为supports。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a003",
+      "target": "s-f40e8ddfb363-c001:a002",
+      "kind": "contrasts",
+      "condition": "父母用抽象计划回答孩子具体问题时",
+      "reason": "用抽象计划回答孩子具体问题的反例与先进行情绪连接的应对方法形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a005",
+      "target": "s-f40e8ddfb363-c001:r001",
+      "kind": "supports",
+      "condition": "当孩子无法做长远规划时",
+      "reason": "孩子无法做长远规划的可能原因支持了引导思路中先搞清楚原因再引导的建议。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a006",
+      "target": "s-f40e8ddfb363-c001:a005",
+      "kind": "example_of",
+      "condition": "父母从小替孩子做好规划导致孩子缺乏自主调整能力",
+      "reason": "k00006 是婚姻辅导中太太无法调整的案例，其原因是父母包办，与 k00005 中列出的原因之一相符。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a007",
+      "target": "s-f40e8ddfb363-c001:a008",
+      "kind": "supports",
+      "condition": "个人愿望与家庭需求无法平衡时",
+      "reason": "k00007 说明四象限只适用于个人，k00008 进一步说明个人与家庭需求无法平衡时必须选择，两者共同支持时间管理的观点。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a009",
+      "target": "s-f40e8ddfb363-c001:r002",
+      "kind": "supports",
+      "condition": "当孩子对他人有负面看法时",
+      "reason": "培养孩子开放心态的方法支持了具体引导话术，因为话术体现了方法中引导孩子发现优点的步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原step_of不准确，改为supports。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a010",
+      "target": "s-f40e8ddfb363-c001:a011",
+      "kind": "causes",
+      "condition": "孩子生活中缺乏轻重缓急时",
+      "reason": "k00010 指出原因是父母包办，k00011 提出让孩子参与挣钱来训练，因此 k00010 是 k00011 的原因。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a012",
+      "target": "s-f40e8ddfb363-c001:a013",
+      "kind": "association",
+      "condition": "无",
+      "reason": "时间压力激发效率的命题与讲师本科学习风格案例相关，案例是命题的实例但原方向有误，故改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原direction反了，改为association。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a012",
+      "target": "s-f40e8ddfb363-c001:a014",
+      "kind": "supports",
+      "condition": "判断孩子拖延是否需要干预时",
+      "reason": "拖延不一定是问题的观点支持了基于结果判断是否需要干预的标准。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a015",
+      "target": "s-f40e8ddfb363-c001:r004",
+      "kind": "supports",
+      "condition": "了解孩子学习风格时",
+      "reason": "k00015 强调了解学习风格的重要性，k00022 提供了具体方法，两者相互支持。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a016",
+      "target": "s-f40e8ddfb363-c001:a015",
+      "kind": "example_of",
+      "condition": "安静环境不一定适合所有孩子",
+      "reason": "k00016 是讲师母亲关掉声音导致学习效率低的案例，说明个体差异，支持 k00015 的观点。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a018",
+      "target": "s-f40e8ddfb363-c001:a002",
+      "kind": "contrasts",
+      "condition": "孩子哭闹时",
+      "reason": "孩子哭闹时不理睬的反例与先进行情绪连接的应对方法形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:xe001",
+      "target": "s-f40e8ddfb363-c001:a002",
+      "kind": "association",
+      "condition": "孩子问为什么别人有玩具而我没有时",
+      "reason": "该案例只是提出了孩子问为什么别人有玩具的问题，未应用先情绪连接再处理的应对方法，因此不是目标方法的示例；两者仅在议题上关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 example_of，但案例未展示方法应用，改为 association。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:xe002",
+      "target": "s-f40e8ddfb363-c001:r001",
+      "kind": "association",
+      "condition": "14岁初三孩子无法做长远规划时",
+      "reason": "该案例提出了14岁初三孩子无法规划的问题，未体现引导思路中分析原因和针对性引导的应用，因此不是引导思路的示例，只是同一议题的关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 example_of，但案例未应用方法，改为 association。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:xe003",
+      "target": "s-f40e8ddfb363-c001:a008",
+      "kind": "example_of",
+      "condition": "个人灵修与家人需求无法平衡时",
+      "reason": "k00025 是家长提出的具体问题，k00008 指出必须做出选择，因此 k00025 是 k00008 的应用实例。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:xe004",
+      "target": "s-f40e8ddfb363-c001:a009",
+      "kind": "association",
+      "condition": "16岁孩子对不喜欢的人排斥时",
+      "reason": "该案例提问如何引导孩子开放心态，并未实际展示培养开放心态的方法或引导话术，因此不是目标方法的示例，仅保持关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 example_of，但案例未体现方法应用，改为 association。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:xe005",
+      "target": "s-f40e8ddfb363-c001:a010",
+      "kind": "example_of",
+      "condition": "16岁孩子学业分清主次但生活缺乏轻重缓急时",
+      "reason": "k00027 是具体案例，k00010 分析了可能原因，因此 k00027 是 k00010 的应用实例。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:xe006",
+      "target": "s-f40e8ddfb363-c001:a009",
+      "kind": "step_of",
+      "condition": "通过家庭社交活动培养开放心态时",
+      "reason": "该具体做法提供了培养开放心态方法中家庭社交活动和引导发现优点的步骤，属于方法的细化步骤，构成步骤关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a002",
+      "target": "s-f40e8ddfb363-c001:a001",
+      "kind": "supports",
+      "condition": "日常生活中",
+      "reason": "k00030 强调情绪连接在日常每件事上都可以进行，扩展了 k00001 的定义。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a003",
+      "target": "s-f40e8ddfb363-c001:a007",
+      "kind": "supports",
+      "condition": "时间管理时",
+      "reason": "k00031 解释了平均60%时间用于重要不紧急事情的含义，是对四象限时间管理法的补充。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a004",
+      "target": "s-f40e8ddfb363-c002:a005",
+      "kind": "step_of",
+      "condition": "如厕训练时",
+      "reason": "k00032 指出如厕训练是重要不紧急的事情，k00033 提供了具体方法，两者是步骤关系。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a006",
+      "target": "s-f40e8ddfb363-c002:a005",
+      "kind": "prerequisite",
+      "condition": "开始如厕训练前",
+      "reason": "k00034 说明了开始如厕训练的时机，是 k00033 方法的前提。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a007",
+      "target": "s-f40e8ddfb363-c002:a008",
+      "kind": "example_of",
+      "condition": "孩子想买东西时",
+      "reason": "k00036 是讲师家老二想买乐高但没钱大哭的案例，是 k00035 回应方式的应用实例。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a009",
+      "target": "s-f40e8ddfb363-c002:a010",
+      "kind": "supports",
+      "condition": "孩子不理解攒钱时",
+      "reason": "k00037 提出通过引导让孩子理解攒钱，k00038 解释了孩子对攒钱的理解与成人不同，两者相互支持。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a010",
+      "target": "s-f40e8ddfb363-c002:a011",
+      "kind": "supports",
+      "condition": "孩子能理解攒钱时",
+      "reason": "k00039 强调孩子能理解攒钱，只要引导，与 k00038 的观点一致。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a012",
+      "target": "s-f40e8ddfb363-c002:r001",
+      "kind": "applies_to",
+      "condition": "学员提问不具体时",
+      "reason": "k00040 强调提问要具体明确，k00058 中学员提问不具体，讲师要求澄清，因此 k00040 是 k00058 中讲师行为的原则。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a013",
+      "target": "s-f40e8ddfb363-c001:a007",
+      "kind": "supports",
+      "condition": "时间管理时",
+      "reason": "k00041 提出外包家务是合理的，是四象限时间管理法的应用。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a014",
+      "target": "s-f40e8ddfb363-c003:a007",
+      "kind": "supports",
+      "condition": "处理配偶嫌弃家务时",
+      "reason": "不想做某事时直接表达、不欺骗的一般原则支持了处理配偶嫌弃家务时明确表达不擅长或不愿意做的标准，后者是一般原则在具体情境中的应用。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a015",
+      "target": "s-f40e8ddfb363-c002:a016",
+      "kind": "example_of",
+      "condition": "区分生理需要和心理需要时",
+      "reason": "k00044 是买除湿机做面食的案例，说明心理需要，是 k00043 分类的应用实例。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a016",
+      "target": "s-f40e8ddfb363-c002:a017",
+      "kind": "supports",
+      "condition": "心理需要无法用其他东西代替时",
+      "reason": "k00045 进一步解释了心理需要的不可替代性，支持 k00044 的分析。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a018",
+      "target": "s-f40e8ddfb363-c002:a016",
+      "kind": "supports",
+      "condition": "家庭主妇花钱时",
+      "reason": "k00046 强调家庭主妇有权理直气壮花家里的钱，支持 k00044 中心理需要应该满足的观点。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a019",
+      "target": "s-f40e8ddfb363-c002:a023",
+      "kind": "example_of",
+      "condition": "孩子浪费文具时",
+      "reason": "k00047 是具体案例，k00051 提供了处理方法，因此 k00047 是 k00051 的应用实例。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a020",
+      "target": "s-f40e8ddfb363-c002:a023",
+      "kind": "supports",
+      "condition": "判断浪费文具时",
+      "reason": "k00048 指出浪费文具属于想要，k00051 提出用界限和自然后果处理，两者相关。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a021",
+      "target": "s-f40e8ddfb363-c002:a020",
+      "kind": "exception",
+      "condition": "老师要求一张纸只写一句话时",
+      "reason": "k00049 指出特定情境下不是浪费，是 k00048 的例外情况。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a022",
+      "target": "s-f40e8ddfb363-c002:a020",
+      "kind": "supports",
+      "condition": "吃饭时",
+      "reason": "k00050 用吃饭的例子说明需要和想要可以同时存在，支持 k00048 的观点。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a023",
+      "target": "s-f40e8ddfb363-c002:a024",
+      "kind": "step_of",
+      "condition": "处理浪费文具时",
+      "reason": "k00052 强调提前告知后果，是 k00051 中界限方法的具体步骤。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a025",
+      "target": "s-f40e8ddfb363-c002:a026",
+      "kind": "example_of",
+      "condition": "孩子不吃胡萝卜时",
+      "reason": "k00054 是讲师家孩子不吃胡萝卜的处理案例，是 k00053 中原则的应用实例。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a027",
+      "target": "s-f40e8ddfb363-c002:a025",
+      "kind": "supports",
+      "condition": "育儿平衡时",
+      "reason": "k00055 强调育儿需要平衡，支持 k00053 中允许孩子有不喜欢吃的菜但不能每样只吃一口的观点。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a028",
+      "target": "s-f40e8ddfb363-c002:a029",
+      "kind": "example_of",
+      "condition": "孩子抱怨菜不好吃时",
+      "reason": "孩子因菜少大哭的案例具体体现了孩子抱怨菜不好吃时的回应方式，因此案例是回应方法的实例；原关系方向反了，应将该案例作为方法的示例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系方向有误，实际应为案例指向回应方法。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a001",
+      "target": "s-f40e8ddfb363-c003:a002",
+      "kind": "causes",
+      "condition": "孩子挑食时",
+      "reason": "k00059 提出减少菜品数量可以改善挑食，k00060 解释了过多选择导致挑食的原因，因此 k00060 是 k00059 的原因。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a003",
+      "target": "s-f40e8ddfb363-c003:a004",
+      "kind": "example_of",
+      "condition": "资源有限时",
+      "reason": "k00062 是冰西瓜吃完的例子，说明资源有限性，是 k00061 中资源有限性的实例。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a005",
+      "target": "s-f40e8ddfb363-c003:a003",
+      "kind": "supports",
+      "condition": "需要与想要的区别时",
+      "reason": "k00063 解释了需要与想要的区别，支持 k00061 中富足感与资源有限性不矛盾的观点。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a006",
+      "target": "s-f40e8ddfb363-c003:a003",
+      "kind": "supports",
+      "condition": "避免用匮乏语言时",
+      "reason": "k00064 强调避免用匮乏语言，支持 k00061 中建立富足感的观点。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a007",
+      "target": "s-f40e8ddfb363-c003:a008",
+      "kind": "example_of",
+      "condition": "处理配偶嫌弃洗碗时",
+      "reason": "学员处理配偶嫌弃洗碗的案例具体应用了处理配偶嫌弃家务的标准，因此该案例是标准的实例；原关系方向反了，应为案例指向标准。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系方向有误，实际应为案例指向标准。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a009",
+      "target": "s-f40e8ddfb363-c003:a010",
+      "kind": "causes",
+      "condition": "情绪管理无效时",
+      "reason": "k00067 指出情绪管理优先，但前提是方法有效，k00068 说明无效会导致时间浪费，因此 k00068 是 k00067 中前提不满足的后果。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a011",
+      "target": "s-f40e8ddfb363-c003:a012",
+      "kind": "causes",
+      "condition": "摆脱原生家庭影响时",
+      "reason": "k00069 指出原生家庭影响通过记忆控制人，k00070 提出通过自我认知提升摆脱，因此 k00069 是 k00070 的原因。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a013",
+      "target": "s-f40e8ddfb363-c001:a002",
+      "kind": "association",
+      "condition": "四岁女儿超市选择玩具或糖果时",
+      "reason": "四岁女儿超市选择玩具或糖果的案例与孩子问为什么别人有玩具而我没有时的应对方法都涉及选择和界限，但案例没有孩子因比较而产生情绪、也没有问别人有玩具我没有的情境，不符合目标方法的条件，不能作为示例，仅保持关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系为 example_of，但情境不匹配目标条件，改为 association。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a014",
+      "target": "s-f40e8ddfb363-c003:a015",
+      "kind": "example_of",
+      "condition": "四岁女儿占有欲强时",
+      "reason": "k00072 是具体案例，k00073 强调根据年龄阶段调整引导方式，因此 k00072 是 k00073 的应用实例。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:r001",
+      "target": "s-f40e8ddfb363-c003:a003",
+      "kind": "duplicate",
+      "condition": "富足感与资源有限性不矛盾",
+      "reason": "k00074 与 k00061 内容完全相同，是重复记录。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a005",
+      "target": "s-f40e8ddfb363-c003:a005",
+      "kind": "duplicate",
+      "condition": "需要与想要的区别",
+      "reason": "k00075 与 k00063 内容完全相同，是重复记录。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a006",
+      "target": "s-f40e8ddfb363-c003:a006",
+      "kind": "duplicate",
+      "condition": "避免用匮乏语言与孩子沟通",
+      "reason": "k00076 与 k00064 内容完全相同，是重复记录。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a007",
+      "target": "s-f40e8ddfb363-c003:a007",
+      "kind": "duplicate",
+      "condition": "处理配偶嫌弃家务的标准",
+      "reason": "k00077 与 k00065 内容完全相同，是重复记录。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a008",
+      "target": "s-f40e8ddfb363-c003:a008",
+      "kind": "duplicate",
+      "condition": "学员处理配偶嫌弃洗碗的案例",
+      "reason": "k00078 与 k00066 内容完全相同，是重复记录。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a009",
+      "target": "s-f40e8ddfb363-c003:a009",
+      "kind": "duplicate",
+      "condition": "情绪管理优先于事务处理",
+      "reason": "k00079 与 k00067 内容完全相同，是重复记录。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a010",
+      "target": "s-f40e8ddfb363-c003:a010",
+      "kind": "duplicate",
+      "condition": "无效情绪管理导致时间浪费",
+      "reason": "k00080 与 k00068 内容完全相同，是重复记录。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a011",
+      "target": "s-f40e8ddfb363-c003:a011",
+      "kind": "duplicate",
+      "condition": "原生家庭影响通过记忆和回忆控制人",
+      "reason": "k00081 与 k00069 内容完全相同，是重复记录。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a012",
+      "target": "s-f40e8ddfb363-c003:a012",
+      "kind": "duplicate",
+      "condition": "通过自我认知提升摆脱原生家庭影响",
+      "reason": "k00082 与 k00070 内容完全相同，是重复记录。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a013",
+      "target": "s-f40e8ddfb363-c003:a013",
+      "kind": "duplicate",
+      "condition": "四岁女儿超市选择玩具或糖果的案例",
+      "reason": "k00083 与 k00071 内容完全相同，是重复记录。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a014",
+      "target": "s-f40e8ddfb363-c003:a014",
+      "kind": "duplicate",
+      "condition": "四岁女儿占有欲强的案例",
+      "reason": "k00084 与 k00072 内容完全相同，是重复记录。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a015",
+      "target": "s-f40e8ddfb363-c003:a015",
+      "kind": "duplicate",
+      "condition": "根据孩子年龄阶段调整父母角色和引导方式",
+      "reason": "k00085 与 k00073 内容完全相同，是重复记录。"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n001",
+      "target": "s-f40e8ddfb363-c001:a003",
+      "kind": "complements",
+      "condition": "适用条件：当父母用抽象话语回应孩子具体问题时。",
+      "reason": "源要求每句话针对核心，候选给出一个未说到点子上的具体反例（用抽象计划回答孩子玩具问题），并说明后果是孩子不愿沟通，补充了源原则的反面实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a003",
+      "target": "s-f40e8ddfb363-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用条件：当父母用抽象话语回应孩子具体问题时。",
+      "reason": "源要求每句话针对核心，候选给出一个未说到点子上的具体反例（用抽象计划回答孩子玩具问题），并说明后果是孩子不愿沟通，补充了源原则的反面实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n001",
+      "target": "s-f40e8ddfb363-c001:a001",
+      "kind": "association",
+      "condition": "情绪连接定义与源关于语言聚焦不同。",
+      "reason": "源关于交流要说到点子上，候选定义情绪连接，两者都涉及亲子交流但角度不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a001",
+      "target": "s-f40e8ddfb363-c001:v2-n001",
+      "kind": "association",
+      "condition": "情绪连接定义与源关于语言聚焦不同。",
+      "reason": "源关于交流要说到点子上，候选定义情绪连接，两者都涉及亲子交流但角度不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n001",
+      "target": "s-f40e8ddfb363-c003:a006",
+      "kind": "association",
+      "condition": "匮乏语言与空洞语言不同。",
+      "reason": "源反对无效空泛的话，候选反对传递匮乏感的话，两者均为沟通注意事项，但具体关注点不同，无直接补充或矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a006",
+      "target": "s-f40e8ddfb363-c001:v2-n001",
+      "kind": "association",
+      "condition": "匮乏语言与空洞语言不同。",
+      "reason": "源反对无效空泛的话，候选反对传递匮乏感的话，两者均为沟通注意事项，但具体关注点不同，无直接补充或矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n001",
+      "target": "s-f40e8ddfb363-c001:a005",
+      "kind": "association",
+      "condition": "长远规划原因与语言聚焦无关。",
+      "reason": "源关于交流要点，候选关于孩子无法做长远规划的可能原因，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a005",
+      "target": "s-f40e8ddfb363-c001:v2-n001",
+      "kind": "association",
+      "condition": "长远规划原因与语言聚焦无关。",
+      "reason": "源关于交流要点，候选关于孩子无法做长远规划的可能原因，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n001",
+      "target": "s-f40e8ddfb363-c002:a014",
+      "kind": "association",
+      "condition": "直接表达不想做事与源不同。",
+      "reason": "源关于沟通要核心，候选关于不想做某事时直接表达不欺骗，两者均属沟通诚实，但具体情境不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a014",
+      "target": "s-f40e8ddfb363-c001:v2-n001",
+      "kind": "association",
+      "condition": "直接表达不想做事与源不同。",
+      "reason": "源关于沟通要核心，候选关于不想做某事时直接表达不欺骗，两者均属沟通诚实，但具体情境不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n001",
+      "target": "s-f40e8ddfb363-c002:v2-n003",
+      "kind": "association",
+      "condition": "餐桌信号与语言聚焦无关。",
+      "reason": "源关于交流要点，候选关于餐桌菜太多传递不良信号，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n003",
+      "target": "s-f40e8ddfb363-c001:v2-n001",
+      "kind": "association",
+      "condition": "餐桌信号与语言聚焦无关。",
+      "reason": "源关于交流要点，候选关于餐桌菜太多传递不良信号，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n001",
+      "target": "s-f40e8ddfb363-c001:r001",
+      "kind": "association",
+      "condition": "长远规划引导与语言聚焦无关。",
+      "reason": "源关于交流核心，候选关于孩子无法做长远规划时的引导思路，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:r001",
+      "target": "s-f40e8ddfb363-c001:v2-n001",
+      "kind": "association",
+      "condition": "长远规划引导与语言聚焦无关。",
+      "reason": "源关于交流核心，候选关于孩子无法做长远规划时的引导思路，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n001",
+      "target": "s-f40e8ddfb363-c001:a009",
+      "kind": "association",
+      "condition": "开放心态培养与语言聚焦不同。",
+      "reason": "源关于交流要点，候选关于培养孩子开放心态的方法，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a009",
+      "target": "s-f40e8ddfb363-c001:v2-n001",
+      "kind": "association",
+      "condition": "开放心态培养与语言聚焦不同。",
+      "reason": "源关于交流要点，候选关于培养孩子开放心态的方法，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n001",
+      "target": "s-f40e8ddfb363-c001:a015",
+      "kind": "association",
+      "condition": "学习风格与语言聚焦无关。",
+      "reason": "源关于交流核心，候选关于学习风格的重要性，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a015",
+      "target": "s-f40e8ddfb363-c001:v2-n001",
+      "kind": "association",
+      "condition": "学习风格与语言聚焦无关。",
+      "reason": "源关于交流核心，候选关于学习风格的重要性，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n001",
+      "target": "s-f40e8ddfb363-c001:a018",
+      "kind": "association",
+      "condition": "哭闹处理与语言聚焦不同。",
+      "reason": "源关于每句话要点，候选关于孩子哭闹时不理睬的反例，两者均属亲子互动但方面不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a018",
+      "target": "s-f40e8ddfb363-c001:v2-n001",
+      "kind": "association",
+      "condition": "哭闹处理与语言聚焦不同。",
+      "reason": "源关于每句话要点，候选关于孩子哭闹时不理睬的反例，两者均属亲子互动但方面不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n001",
+      "target": "s-f40e8ddfb363-c001:a010",
+      "kind": "association",
+      "condition": "轻重缓急与语言聚焦无关。",
+      "reason": "源关于交流要点，候选关于孩子生活中缺乏轻重缓急的原因，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a010",
+      "target": "s-f40e8ddfb363-c001:v2-n001",
+      "kind": "association",
+      "condition": "轻重缓急与语言聚焦无关。",
+      "reason": "源关于交流要点，候选关于孩子生活中缺乏轻重缓急的原因，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n001",
+      "target": "s-f40e8ddfb363-c002:v2-n004",
+      "kind": "complements",
+      "condition": "适用条件：在提问或交流时需针对真实问题，避免包装。",
+      "reason": "源要求每句话针对核心，候选补充提问应直接针对真实问题（如配偶分歧不要包装成育儿问题），是对源原则在提问场景的具体延伸，补足了如何做到“说到点子上”的一个要点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n004",
+      "target": "s-f40e8ddfb363-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用条件：在提问或交流时需针对真实问题，避免包装。",
+      "reason": "源要求每句话针对核心，候选补充提问应直接针对真实问题（如配偶分歧不要包装成育儿问题），是对源原则在提问场景的具体延伸，补足了如何做到“说到点子上”的一个要点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n002",
+      "target": "s-f40e8ddfb363-c001:a009",
+      "kind": "complements",
+      "condition": "适用条件：若希望孩子开放心态，父母需先接纳不同观点，并采取后续社交引导。",
+      "reason": "源指出不接纳不同观点会导致孩子不接纳他人，候选提供培养开放心态的方法（父母自我反思、邀请朋友、引导优点），并强调父母无法给孩子自己不具备的特质；两者共同构成开放心态培养的因果与行动，候选补足了从问题到解决的具体路径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a009",
+      "target": "s-f40e8ddfb363-c001:v2-n002",
+      "kind": "complements",
+      "condition": "适用条件：若希望孩子开放心态，父母需先接纳不同观点，并采取后续社交引导。",
+      "reason": "源指出不接纳不同观点会导致孩子不接纳他人，候选提供培养开放心态的方法（父母自我反思、邀请朋友、引导优点），并强调父母无法给孩子自己不具备的特质；两者共同构成开放心态培养的因果与行动，候选补足了从问题到解决的具体路径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n002",
+      "target": "s-f40e8ddfb363-c001:xe006",
+      "kind": "association",
+      "condition": "候选为开放心态培养的具体活动，与源的一般原因相关但不直接。",
+      "reason": "源讨论不接纳后果，候选提供家庭社交活动具体做法；候选是开放心态方法的一部分，但未直接涉及源中的不接纳问题，故为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:xe006",
+      "target": "s-f40e8ddfb363-c001:v2-n002",
+      "kind": "association",
+      "condition": "候选为开放心态培养的具体活动，与源的一般原因相关但不直接。",
+      "reason": "源讨论不接纳后果，候选提供家庭社交活动具体做法；候选是开放心态方法的一部分，但未直接涉及源中的不接纳问题，故为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n002",
+      "target": "s-f40e8ddfb363-c001:r002",
+      "kind": "association",
+      "condition": "候选为具体引导话术，与源的原因不直接。",
+      "reason": "源关于不接纳导致的问题，候选是引导孩子发现优点的具体话术；两者相关但源未涉及话术，故为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:r002",
+      "target": "s-f40e8ddfb363-c001:v2-n002",
+      "kind": "association",
+      "condition": "候选为具体引导话术，与源的原因不直接。",
+      "reason": "源关于不接纳导致的问题，候选是引导孩子发现优点的具体话术；两者相关但源未涉及话术，故为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n002",
+      "target": "s-f40e8ddfb363-c001:a005",
+      "kind": "association",
+      "condition": "长远规划原因与开放心态无关。",
+      "reason": "源关于接纳不同观点与开放心态，候选关于孩子无法做长远规划的可能原因，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a005",
+      "target": "s-f40e8ddfb363-c001:v2-n002",
+      "kind": "association",
+      "condition": "长远规划原因与开放心态无关。",
+      "reason": "源关于接纳不同观点与开放心态，候选关于孩子无法做长远规划的可能原因，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n002",
+      "target": "s-f40e8ddfb363-c001:a003",
+      "kind": "association",
+      "condition": "抽象回答反例与接纳观点不同。",
+      "reason": "源关于不接纳观点，候选关于用抽象计划回答具体问题的反例，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a003",
+      "target": "s-f40e8ddfb363-c001:v2-n002",
+      "kind": "association",
+      "condition": "抽象回答反例与接纳观点不同。",
+      "reason": "源关于不接纳观点，候选关于用抽象计划回答具体问题的反例，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n002",
+      "target": "s-f40e8ddfb363-c001:a015",
+      "kind": "association",
+      "condition": "学习风格与开放心态无关。",
+      "reason": "源关于开放心态，候选关于学习风格的重要性，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a015",
+      "target": "s-f40e8ddfb363-c001:v2-n002",
+      "kind": "association",
+      "condition": "学习风格与开放心态无关。",
+      "reason": "源关于开放心态，候选关于学习风格的重要性，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n002",
+      "target": "s-f40e8ddfb363-c003:a015",
+      "kind": "association",
+      "condition": "年龄阶段调整与开放心态具体原因不同。",
+      "reason": "源关于不接纳观点的影响，候选关于根据年龄阶段调整角色和引导方式，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a015",
+      "target": "s-f40e8ddfb363-c001:v2-n002",
+      "kind": "association",
+      "condition": "年龄阶段调整与开放心态具体原因不同。",
+      "reason": "源关于不接纳观点的影响，候选关于根据年龄阶段调整角色和引导方式，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n002",
+      "target": "s-f40e8ddfb363-c001:xe004",
+      "kind": "association",
+      "condition": "16岁案例与源的一般原理相关，但年龄不同。",
+      "reason": "源关于父母不接纳导致孩子不接纳，候选是16岁孩子排斥他人的案例背景，展示了开放心态问题，但案例年龄特定，不能直接等同于一般因果，故为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:xe004",
+      "target": "s-f40e8ddfb363-c001:v2-n002",
+      "kind": "association",
+      "condition": "16岁案例与源的一般原理相关，但年龄不同。",
+      "reason": "源关于父母不接纳导致孩子不接纳，候选是16岁孩子排斥他人的案例背景，展示了开放心态问题，但案例年龄特定，不能直接等同于一般因果，故为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n002",
+      "target": "s-f40e8ddfb363-c002:a026",
+      "kind": "association",
+      "condition": "挑食案例与开放心态无关。",
+      "reason": "源关于开放心态，候选关于孩子不吃胡萝卜的处理案例，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a026",
+      "target": "s-f40e8ddfb363-c001:v2-n002",
+      "kind": "association",
+      "condition": "挑食案例与开放心态无关。",
+      "reason": "源关于开放心态，候选关于孩子不吃胡萝卜的处理案例，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n002",
+      "target": "s-f40e8ddfb363-c001:r001",
+      "kind": "association",
+      "condition": "长远规划引导与开放心态无关。",
+      "reason": "源关于接纳观点，候选关于孩子无法做长远规划时的引导思路，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:r001",
+      "target": "s-f40e8ddfb363-c001:v2-n002",
+      "kind": "association",
+      "condition": "长远规划引导与开放心态无关。",
+      "reason": "源关于接纳观点，候选关于孩子无法做长远规划时的引导思路，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n002",
+      "target": "s-f40e8ddfb363-c002:a007",
+      "kind": "association",
+      "condition": "金钱回应与开放心态无关。",
+      "reason": "源关于开放心态，候选关于孩子想买东西时问“你有钱吗”的回应，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a007",
+      "target": "s-f40e8ddfb363-c001:v2-n002",
+      "kind": "association",
+      "condition": "金钱回应与开放心态无关。",
+      "reason": "源关于开放心态，候选关于孩子想买东西时问“你有钱吗”的回应，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n002",
+      "target": "s-f40e8ddfb363-c002:a010",
+      "kind": "association",
+      "condition": "攒钱理解与开放心态无关。",
+      "reason": "源关于开放心态，候选关于孩子对攒钱的理解与成人不同，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a010",
+      "target": "s-f40e8ddfb363-c001:v2-n002",
+      "kind": "association",
+      "condition": "攒钱理解与开放心态无关。",
+      "reason": "源关于开放心态，候选关于孩子对攒钱的理解与成人不同，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n003",
+      "target": "s-f40e8ddfb363-c003:a015",
+      "kind": "complements",
+      "condition": "适用条件：在孩子不同成长阶段，父母需调整角色和引导方式。",
+      "reason": "源指出孩子状态随成长变化不可视为永久，候选据此提出父母应根据年龄阶段调整角色和引导方式；两者共同支持动态养育观，候选补足了源原则在实践中的行动方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a015",
+      "target": "s-f40e8ddfb363-c001:v2-n003",
+      "kind": "complements",
+      "condition": "适用条件：在孩子不同成长阶段，父母需调整角色和引导方式。",
+      "reason": "源指出孩子状态随成长变化不可视为永久，候选据此提出父母应根据年龄阶段调整角色和引导方式；两者共同支持动态养育观，候选补足了源原则在实践中的行动方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n003",
+      "target": "s-f40e8ddfb363-c001:a002",
+      "kind": "association",
+      "condition": "具体沟通场景与状态变化主题不同。",
+      "reason": "源关于状态随成长变化，候选关于孩子问为什么别人有玩具时的应对方法，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a002",
+      "target": "s-f40e8ddfb363-c001:v2-n003",
+      "kind": "association",
+      "condition": "具体沟通场景与状态变化主题不同。",
+      "reason": "源关于状态随成长变化，候选关于孩子问为什么别人有玩具时的应对方法，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n003",
+      "target": "s-f40e8ddfb363-c001:a010",
+      "kind": "association",
+      "condition": "轻重缓急原因与状态变化无关。",
+      "reason": "源关于状态变化，候选关于孩子生活中缺乏轻重缓急的原因，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a010",
+      "target": "s-f40e8ddfb363-c001:v2-n003",
+      "kind": "association",
+      "condition": "轻重缓急原因与状态变化无关。",
+      "reason": "源关于状态变化，候选关于孩子生活中缺乏轻重缓急的原因，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n003",
+      "target": "s-f40e8ddfb363-c001:a015",
+      "kind": "association",
+      "condition": "学习风格与状态变化无关。",
+      "reason": "源关于状态变化，候选关于学习风格的重要性，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a015",
+      "target": "s-f40e8ddfb363-c001:v2-n003",
+      "kind": "association",
+      "condition": "学习风格与状态变化无关。",
+      "reason": "源关于状态变化，候选关于学习风格的重要性，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n003",
+      "target": "s-f40e8ddfb363-c001:a018",
+      "kind": "association",
+      "condition": "哭闹处理与状态变化无关。",
+      "reason": "源关于状态变化，候选关于孩子哭闹时不理睬的反例，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a018",
+      "target": "s-f40e8ddfb363-c001:v2-n003",
+      "kind": "association",
+      "condition": "哭闹处理与状态变化无关。",
+      "reason": "源关于状态变化，候选关于孩子哭闹时不理睬的反例，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n003",
+      "target": "s-f40e8ddfb363-c001:a001",
+      "kind": "association",
+      "condition": "情绪连接定义与状态变化无关。",
+      "reason": "源关于状态变化，候选关于情绪连接的定义，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a001",
+      "target": "s-f40e8ddfb363-c001:v2-n003",
+      "kind": "association",
+      "condition": "情绪连接定义与状态变化无关。",
+      "reason": "源关于状态变化，候选关于情绪连接的定义，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n003",
+      "target": "s-f40e8ddfb363-c001:r004",
+      "kind": "association",
+      "condition": "学习风格方法与状态变化无关。",
+      "reason": "源关于状态变化，候选关于了解孩子学习风格的方法，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:r004",
+      "target": "s-f40e8ddfb363-c001:v2-n003",
+      "kind": "association",
+      "condition": "学习风格方法与状态变化无关。",
+      "reason": "源关于状态变化，候选关于了解孩子学习风格的方法，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n003",
+      "target": "s-f40e8ddfb363-c003:a006",
+      "kind": "association",
+      "condition": "匮乏语言与状态变化无关。",
+      "reason": "源关于状态变化，候选关于避免用匮乏语言与孩子沟通，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a006",
+      "target": "s-f40e8ddfb363-c001:v2-n003",
+      "kind": "association",
+      "condition": "匮乏语言与状态变化无关。",
+      "reason": "源关于状态变化，候选关于避免用匮乏语言与孩子沟通，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n003",
+      "target": "s-f40e8ddfb363-c002:a009",
+      "kind": "association",
+      "condition": "攒钱理解与状态变化无关。",
+      "reason": "源关于状态变化，候选关于三岁孩子不理解攒钱是因为缺乏引导，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a009",
+      "target": "s-f40e8ddfb363-c001:v2-n003",
+      "kind": "association",
+      "condition": "攒钱理解与状态变化无关。",
+      "reason": "源关于状态变化，候选关于三岁孩子不理解攒钱是因为缺乏引导，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n003",
+      "target": "s-f40e8ddfb363-c002:a004",
+      "kind": "association",
+      "condition": "如厕训练与状态变化不同。",
+      "reason": "源关于状态变化不可固定，候选关于四岁和两岁孩子如厕训练是重要不紧急事情，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a004",
+      "target": "s-f40e8ddfb363-c001:v2-n003",
+      "kind": "association",
+      "condition": "如厕训练与状态变化不同。",
+      "reason": "源关于状态变化不可固定，候选关于四岁和两岁孩子如厕训练是重要不紧急事情，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n003",
+      "target": "s-f40e8ddfb363-c002:a023",
+      "kind": "association",
+      "condition": "浪费文具处理与状态变化无关。",
+      "reason": "源关于状态变化，候选关于浪费文具的处理，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a023",
+      "target": "s-f40e8ddfb363-c001:v2-n003",
+      "kind": "association",
+      "condition": "浪费文具处理与状态变化无关。",
+      "reason": "源关于状态变化，候选关于浪费文具的处理，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n003",
+      "target": "s-f40e8ddfb363-c001:v2-n002",
+      "kind": "association",
+      "condition": "接纳观点与状态变化不同。",
+      "reason": "源关于状态变化，候选关于父母不接纳孩子不同观点的影响，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n002",
+      "target": "s-f40e8ddfb363-c001:v2-n003",
+      "kind": "association",
+      "condition": "接纳观点与状态变化不同。",
+      "reason": "源关于状态变化，候选关于父母不接纳孩子不同观点的影响，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n004",
+      "target": "s-f40e8ddfb363-c002:a004",
+      "kind": "complements",
+      "condition": "针对四岁和两岁孩子的阶段",
+      "reason": "source 中家长请求举例重要不紧急事务，candidate 提供了如厕训练作为具体实例，补充了 source 中缺失的答案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a004",
+      "target": "s-f40e8ddfb363-c001:v2-n004",
+      "kind": "complements",
+      "condition": "针对四岁和两岁孩子的阶段",
+      "reason": "source 中家长请求举例重要不紧急事务，candidate 提供了如厕训练作为具体实例，补充了 source 中缺失的答案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n004",
+      "target": "s-f40e8ddfb363-c002:a003",
+      "kind": "complements",
+      "condition": "在解释四象限时间管理时",
+      "reason": "source 提到讲师仅重复“平均每天60%”，candidate 详细解释了 60% 是长期平均而非严格每天，补充了该含义。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a003",
+      "target": "s-f40e8ddfb363-c001:v2-n004",
+      "kind": "complements",
+      "condition": "在解释四象限时间管理时",
+      "reason": "source 提到讲师仅重复“平均每天60%”，candidate 详细解释了 60% 是长期平均而非严格每天，补充了该含义。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n004",
+      "target": "s-f40e8ddfb363-c001:v2-n005",
+      "kind": "association",
+      "condition": "同为家长应用四象限法的困惑",
+      "reason": "candidate 询问不会分类，与 source 的请求举例问题相关但具体不同，无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n005",
+      "target": "s-f40e8ddfb363-c001:v2-n004",
+      "kind": "association",
+      "condition": "同为家长应用四象限法的困惑",
+      "reason": "candidate 询问不会分类，与 source 的请求举例问题相关但具体不同，无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n004",
+      "target": "s-f40e8ddfb363-c002:r001",
+      "kind": "association",
+      "condition": "同为询问重要不紧急实例",
+      "reason": "source 问孩子的重要不紧急例子，candidate 也问生活中有没有重要不紧急的，但 candidate 未提供明确答案，属平行提问。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:r001",
+      "target": "s-f40e8ddfb363-c001:v2-n004",
+      "kind": "association",
+      "condition": "同为询问重要不紧急实例",
+      "reason": "source 问孩子的重要不紧急例子，candidate 也问生活中有没有重要不紧急的，但 candidate 未提供明确答案，属平行提问。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n005",
+      "target": "s-f40e8ddfb363-c001:a007",
+      "kind": "complements",
+      "condition": "当家长试图为全家分配事务时",
+      "reason": "source 中家长要照顾大宝小宝等，可能涉及家庭任务，candidate 指出四象限只适用于个人，不能代表全家，补充了重要前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a007",
+      "target": "s-f40e8ddfb363-c001:v2-n005",
+      "kind": "complements",
+      "condition": "当家长试图为全家分配事务时",
+      "reason": "source 中家长要照顾大宝小宝等，可能涉及家庭任务，candidate 指出四象限只适用于个人，不能代表全家，补充了重要前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n005",
+      "target": "s-f40e8ddfb363-c002:v2-n001",
+      "kind": "complements",
+      "condition": "学习新技能时",
+      "reason": "source 中老师回应需要实操反复练习，candidate 阐明学习需要反复实操的理论，为回应提供依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n001",
+      "target": "s-f40e8ddfb363-c001:v2-n005",
+      "kind": "complements",
+      "condition": "学习新技能时",
+      "reason": "source 中老师回应需要实操反复练习，candidate 阐明学习需要反复实操的理论，为回应提供依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n005",
+      "target": "s-f40e8ddfb363-c001:v2-n004",
+      "kind": "association",
+      "condition": "同为家长应用象限法的困惑",
+      "reason": "candidate 询问重要不紧急例子，与 source 的不会分类问题相关但具体不同，无直接逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n004",
+      "target": "s-f40e8ddfb363-c001:v2-n005",
+      "kind": "association",
+      "condition": "同为家长应用象限法的困惑",
+      "reason": "candidate 询问重要不紧急例子，与 source 的不会分类问题相关但具体不同，无直接逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n005",
+      "target": "s-f40e8ddfb363-c001:xe003",
+      "kind": "association",
+      "condition": "同为四象限分配困惑",
+      "reason": "candidate 问平衡个人灵修与家人需求，与 source 的分类困难主题相近但不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:xe003",
+      "target": "s-f40e8ddfb363-c001:v2-n005",
+      "kind": "association",
+      "condition": "同为四象限分配困惑",
+      "reason": "candidate 问平衡个人灵修与家人需求，与 source 的分类困难主题相近但不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n005",
+      "target": "s-f40e8ddfb363-c001:v2-n006",
+      "kind": "association",
+      "condition": "同涉轻重缓急",
+      "reason": "candidate 关于孩子拖延，与 source 家长分类困难均涉及时间管理，但主体和问题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n006",
+      "target": "s-f40e8ddfb363-c001:v2-n005",
+      "kind": "association",
+      "condition": "同涉轻重缓急",
+      "reason": "candidate 关于孩子拖延，与 source 家长分类困难均涉及时间管理，但主体和问题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n006",
+      "target": "s-f40e8ddfb363-c001:r003",
+      "kind": "complements",
+      "condition": "判断孩子拖延是否需要干预时",
+      "reason": "source 中家长不确定孩子拖延的原因，r003 提供观察结果来判断是否干预的具体操作，补充了决策依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:r003",
+      "target": "s-f40e8ddfb363-c001:v2-n006",
+      "kind": "complements",
+      "condition": "判断孩子拖延是否需要干预时",
+      "reason": "source 中家长不确定孩子拖延的原因，r003 提供观察结果来判断是否干预的具体操作，补充了决策依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n006",
+      "target": "s-f40e8ddfb363-c001:a014",
+      "kind": "complements",
+      "condition": "判断孩子拖延是否需要干预时",
+      "reason": "source 中家长需要判断拖延是否问题，a014 给出标准：结果良好无需干预，结果不佳则调整，补充了判断标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a014",
+      "target": "s-f40e8ddfb363-c001:v2-n006",
+      "kind": "complements",
+      "condition": "判断孩子拖延是否需要干预时",
+      "reason": "source 中家长需要判断拖延是否问题，a014 给出标准：结果良好无需干预，结果不佳则调整，补充了判断标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n006",
+      "target": "s-f40e8ddfb363-c001:a010",
+      "kind": "association",
+      "condition": "不同角度",
+      "reason": "a010 解释生活缺乏轻重缓急的原因，source 是拖延作业，两者可能相关但未证实，证据不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a010",
+      "target": "s-f40e8ddfb363-c001:v2-n006",
+      "kind": "association",
+      "condition": "不同角度",
+      "reason": "a010 解释生活缺乏轻重缓急的原因，source 是拖延作业，两者可能相关但未证实，证据不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n006",
+      "target": "s-f40e8ddfb363-c001:xe005",
+      "kind": "association",
+      "condition": "不同年龄对象",
+      "reason": "candidate 关于16岁孩子生活缺乏轻重缓急，source 可能涉及学龄儿童拖延，年龄不同，不能混用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:xe005",
+      "target": "s-f40e8ddfb363-c001:v2-n006",
+      "kind": "association",
+      "condition": "不同年龄对象",
+      "reason": "candidate 关于16岁孩子生活缺乏轻重缓急，source 可能涉及学龄儿童拖延，年龄不同，不能混用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n001",
+      "target": "s-f40e8ddfb363-c001:a017",
+      "kind": "complements",
+      "condition": "学习任何知识时",
+      "reason": "source 提出学习需要反复实操，a017 补充了具体步骤（反复听课、多次实操练习），细化了原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a017",
+      "target": "s-f40e8ddfb363-c002:v2-n001",
+      "kind": "complements",
+      "condition": "学习任何知识时",
+      "reason": "source 提出学习需要反复实操，a017 补充了具体步骤（反复听课、多次实操练习），细化了原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n001",
+      "target": "s-f40e8ddfb363-c001:v2-n005",
+      "kind": "association",
+      "condition": "作为案例佐证",
+      "reason": "v2-n005 中家长学完象限图仍不会分类，老师回应需要实操，体现了 source 的观点，但属案例支持概念，非直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n005",
+      "target": "s-f40e8ddfb363-c002:v2-n001",
+      "kind": "association",
+      "condition": "作为案例佐证",
+      "reason": "v2-n005 中家长学完象限图仍不会分类，老师回应需要实操，体现了 source 的观点，但属案例支持概念，非直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n002",
+      "target": "s-f40e8ddfb363-c002:a012",
+      "kind": "complements",
+      "condition": "在改进提问时",
+      "reason": "source 中讲师指出学员提问不够具体，未提供例子，a012 提供了提问应具体明确、给出方向或例子的要求，补充了改进标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a012",
+      "target": "s-f40e8ddfb363-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在改进提问时",
+      "reason": "source 中讲师指出学员提问不够具体，未提供例子，a012 提供了提问应具体明确、给出方向或例子的要求，补充了改进标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n002",
+      "target": "s-f40e8ddfb363-c001:v2-n004",
+      "kind": "association",
+      "condition": "同为请求具体例子",
+      "reason": "source 中学员请求第三象限例子未获具体回答，v2-n004 请求重要不紧急例子也未获具体回答，两者都体现提问具体性不足，但具体主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n004",
+      "target": "s-f40e8ddfb363-c002:v2-n002",
+      "kind": "association",
+      "condition": "同为请求具体例子",
+      "reason": "source 中学员请求第三象限例子未获具体回答，v2-n004 请求重要不紧急例子也未获具体回答，两者都体现提问具体性不足，但具体主题不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n002",
+      "target": "s-f40e8ddfb363-c002:v2-n004",
+      "kind": "association",
+      "condition": "同为提问技巧",
+      "reason": "candidate 指出提问要针对真实问题，source 指出提问不够具体，两者相关但角度不同，无直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n004",
+      "target": "s-f40e8ddfb363-c002:v2-n002",
+      "kind": "association",
+      "condition": "同为提问技巧",
+      "reason": "candidate 指出提问要针对真实问题，source 指出提问不够具体，两者相关但角度不同，无直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n003",
+      "target": "s-f40e8ddfb363-c003:a002",
+      "kind": "complements",
+      "condition": "当餐桌上菜品过多时",
+      "reason": "source 提出菜太多传递不良信号，a002 进一步说明过多选择导致孩子挑食，并补充减少菜品数可改善，充实了机制和对策。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a002",
+      "target": "s-f40e8ddfb363-c002:v2-n003",
+      "kind": "complements",
+      "condition": "当餐桌上菜品过多时",
+      "reason": "source 提出菜太多传递不良信号，a002 进一步说明过多选择导致孩子挑食，并补充减少菜品数可改善，充实了机制和对策。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n003",
+      "target": "s-f40e8ddfb363-c003:a001",
+      "kind": "complements",
+      "condition": "当孩子对每道菜都表示不喜欢时",
+      "reason": "source 指出菜太多不良信号，a001 提供了具体应对步骤（告知只有这些菜、要求至少吃一口、观察、减少菜品），补充了操作方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a001",
+      "target": "s-f40e8ddfb363-c002:v2-n003",
+      "kind": "complements",
+      "condition": "当孩子对每道菜都表示不喜欢时",
+      "reason": "source 指出菜太多不良信号，a001 提供了具体应对步骤（告知只有这些菜、要求至少吃一口、观察、减少菜品），补充了操作方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n003",
+      "target": "s-f40e8ddfb363-c002:a025",
+      "kind": "complements",
+      "condition": "涉及孩子食物选择时",
+      "reason": "source 提到孩子每样只吃一点，a025 明确孩子有选择权但不能每样只吃一口，澄清了界限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a025",
+      "target": "s-f40e8ddfb363-c002:v2-n003",
+      "kind": "complements",
+      "condition": "涉及孩子食物选择时",
+      "reason": "source 提到孩子每样只吃一点，a025 明确孩子有选择权但不能每样只吃一口，澄清了界限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n003",
+      "target": "s-f40e8ddfb363-c002:a028",
+      "kind": "complements",
+      "condition": "当孩子抱怨菜不好吃时",
+      "reason": "source 提到菜太多传递不良信号，a028 提供了父母具体回应的话术（只有这些菜，不吃拉倒等），补充了应对策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a028",
+      "target": "s-f40e8ddfb363-c002:v2-n003",
+      "kind": "complements",
+      "condition": "当孩子抱怨菜不好吃时",
+      "reason": "source 提到菜太多传递不良信号，a028 提供了父母具体回应的话术（只有这些菜，不吃拉倒等），补充了应对策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n003",
+      "target": "s-f40e8ddfb363-c002:a029",
+      "kind": "association",
+      "condition": "作为案例支持",
+      "reason": "a029 是孩子因菜少大哭的具体案例，说明菜太多导致问题，支持 source 概念，但属具体个案，非直接逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a029",
+      "target": "s-f40e8ddfb363-c002:v2-n003",
+      "kind": "association",
+      "condition": "作为案例支持",
+      "reason": "a029 是孩子因菜少大哭的具体案例，说明菜太多导致问题，支持 source 概念，但属具体个案，非直接逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n003",
+      "target": "s-f40e8ddfb363-c002:a026",
+      "kind": "association",
+      "condition": "作为类似界限应用",
+      "reason": "a026 是孩子不吃胡萝卜的处理案例，与 source 都涉及坚持界限，但具体情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a026",
+      "target": "s-f40e8ddfb363-c002:v2-n003",
+      "kind": "association",
+      "condition": "作为类似界限应用",
+      "reason": "a026 是孩子不吃胡萝卜的处理案例，与 source 都涉及坚持界限，但具体情境不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n003",
+      "target": "s-f40e8ddfb363-c002:a027",
+      "kind": "association",
+      "condition": "育儿平衡原则",
+      "reason": "a027 提出育儿需平衡，与 source 关于信号传递的注意相关，但更宏观，非直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a027",
+      "target": "s-f40e8ddfb363-c002:v2-n003",
+      "kind": "association",
+      "condition": "育儿平衡原则",
+      "reason": "a027 提出育儿需平衡，与 source 关于信号传递的注意相关，但更宏观，非直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n004",
+      "target": "s-f40e8ddfb363-c002:v2-n002",
+      "kind": "association",
+      "condition": "在讨论提问质量的上下文中比较，source 强调问题实质，candidate 强调具体性。",
+      "reason": "source 指出提问应针对真实问题，candidate 指出学员提问不够具体，两者都是提问质量的要求，但侧重点不同，未构成互补或因果，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n002",
+      "target": "s-f40e8ddfb363-c002:v2-n004",
+      "kind": "association",
+      "condition": "在讨论提问质量的上下文中比较，source 强调问题实质，candidate 强调具体性。",
+      "reason": "source 指出提问应针对真实问题，candidate 指出学员提问不够具体，两者都是提问质量的要求，但侧重点不同，未构成互补或因果，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n004",
+      "target": "s-f40e8ddfb363-c002:a012",
+      "kind": "association",
+      "condition": "在有效提问的要求中比较，source 关注真实问题，candidate 提供具体明确的操作。",
+      "reason": "source 强调提问要针对真实问题，candidate 提出提问要具体明确并给出步骤，两者同属提问技巧但角度不同，不形成直接补充或前提关系，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:a012",
+      "target": "s-f40e8ddfb363-c002:v2-n004",
+      "kind": "association",
+      "condition": "在有效提问的要求中比较，source 关注真实问题，candidate 提供具体明确的操作。",
+      "reason": "source 强调提问要针对真实问题，candidate 提出提问要具体明确并给出步骤，两者同属提问技巧但角度不同，不形成直接补充或前提关系，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n004",
+      "target": "s-f40e8ddfb363-c001:v2-n004",
+      "kind": "association",
+      "condition": "在提问场景的比较中，source 是讲师对提问的点评，candidate 是家长提问的案例。",
+      "reason": "source 指出提问不应包装真实问题，candidate 是家长请求举例但讲师未能给出，两者都涉及提问与回答的困难，但具体问题不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n004",
+      "target": "s-f40e8ddfb363-c002:v2-n004",
+      "kind": "association",
+      "condition": "在提问场景的比较中，source 是讲师对提问的点评，candidate 是家长提问的案例。",
+      "reason": "source 指出提问不应包装真实问题，candidate 是家长请求举例但讲师未能给出，两者都涉及提问与回答的困难，但具体问题不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n004",
+      "target": "s-f40e8ddfb363-c002:r001",
+      "kind": "association",
+      "condition": "在提问需要澄清的场景中比较，source 点评问题实质，candidate 学员提问信息量大需澄清。",
+      "reason": "source 强调直接针对真实问题，candidate 中学员描述生活细节但未明确问题，讲师要求澄清，两者都与提问清晰度相关，但 source 侧重包装，candidate 侧重信息过载，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:r001",
+      "target": "s-f40e8ddfb363-c002:v2-n004",
+      "kind": "association",
+      "condition": "在提问需要澄清的场景中比较，source 点评问题实质，candidate 学员提问信息量大需澄清。",
+      "reason": "source 强调直接针对真实问题，candidate 中学员描述生活细节但未明确问题，讲师要求澄清，两者都与提问清晰度相关，但 source 侧重包装，candidate 侧重信息过载，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n004",
+      "target": "s-f40e8ddfb363-c003:v2-n001",
+      "kind": "association",
+      "condition": "在婚姻问题与育儿问题交叉的上下文中比较，source 是提问行为，candidate 是关系理论。",
+      "reason": "source 指出学员将配偶分歧包装成育儿问题，candidate 说明婚姻问题会影响育儿，两者都涉及婚姻与育儿的关联，但 source 侧重提问方式，candidate 侧重关系本身，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:v2-n001",
+      "target": "s-f40e8ddfb363-c002:v2-n004",
+      "kind": "association",
+      "condition": "在婚姻问题与育儿问题交叉的上下文中比较，source 是提问行为，candidate 是关系理论。",
+      "reason": "source 指出学员将配偶分歧包装成育儿问题，candidate 说明婚姻问题会影响育儿，两者都涉及婚姻与育儿的关联，但 source 侧重提问方式，candidate 侧重关系本身，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n004",
+      "target": "s-f40e8ddfb363-c001:v2-n001",
+      "kind": "association",
+      "condition": "比较不同角色：source 为学员向讲师提问，candidate 为父母与孩子交流。",
+      "reason": "source 强调提问要针对真实问题，candidate 强调父母每句话要说到点子上，两者核心相似但角色不同，不能等同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:v2-n001",
+      "target": "s-f40e8ddfb363-c002:v2-n004",
+      "kind": "association",
+      "condition": "比较不同角色：source 为学员向讲师提问，candidate 为父母与孩子交流。",
+      "reason": "source 强调提问要针对真实问题，candidate 强调父母每句话要说到点子上，两者核心相似但角色不同，不能等同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n004",
+      "target": "s-f40e8ddfb363-c001:a003",
+      "kind": "association",
+      "condition": "比较沟通双方：source 是提问者，candidate 是回答者，但都涉及避免偏离核心。",
+      "reason": "source 指出提问应针对真实问题，candidate 反例中父母用抽象计划回答孩子具体问题导致孩子不被理解，两者都强调沟通要具体，但角色不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c001:a003",
+      "target": "s-f40e8ddfb363-c002:v2-n004",
+      "kind": "association",
+      "condition": "比较沟通双方：source 是提问者，candidate 是回答者，但都涉及避免偏离核心。",
+      "reason": "source 指出提问应针对真实问题，candidate 反例中父母用抽象计划回答孩子具体问题导致孩子不被理解，两者都强调沟通要具体，但角色不同，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:v2-n001",
+      "target": "s-f40e8ddfb363-c003:a007",
+      "kind": "association",
+      "condition": "在应对配偶嫌弃家务的策略上，source 提供宏观原则，candidate 提供具体做法。",
+      "reason": "source 指出配偶嫌弃家务反映婚姻问题并应从婚姻角度处理，candidate 给出了具体处理标准（明确表达、让配偶自己做），两者相关但 candidate 未涉及深层婚姻问题，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a007",
+      "target": "s-f40e8ddfb363-c003:v2-n001",
+      "kind": "association",
+      "condition": "在应对配偶嫌弃家务的策略上，source 提供宏观原则，candidate 提供具体做法。",
+      "reason": "source 指出配偶嫌弃家务反映婚姻问题并应从婚姻角度处理，candidate 给出了具体处理标准（明确表达、让配偶自己做），两者相关但 candidate 未涉及深层婚姻问题，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:v2-n001",
+      "target": "s-f40e8ddfb363-c003:a008",
+      "kind": "association",
+      "condition": "在配偶嫌弃家务的情境中，source 是理论，candidate 是案例。",
+      "reason": "source 阐述婚姻问题影响育儿，candidate 是学员处理丈夫嫌弃洗碗的案例，案例中未体现婚姻问题处理，只解决分工，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:a008",
+      "target": "s-f40e8ddfb363-c003:v2-n001",
+      "kind": "association",
+      "condition": "在配偶嫌弃家务的情境中，source 是理论，candidate 是案例。",
+      "reason": "source 阐述婚姻问题影响育儿，candidate 是学员处理丈夫嫌弃洗碗的案例，案例中未体现婚姻问题处理，只解决分工，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c003:v2-n001",
+      "target": "s-f40e8ddfb363-c002:v2-n004",
+      "kind": "association",
+      "condition": "在婚姻与育儿问题关联的讨论中比较，source 强调从婚姻角度处理，candidate 强调不要用育儿问题包装。",
+      "reason": "source 指出婚姻问题会影响育儿，candidate 指出提问应直接针对配偶分歧而非包装成育儿问题，两者角度互补但无直接因果，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f40e8ddfb363-c002:v2-n004",
+      "target": "s-f40e8ddfb363-c003:v2-n001",
+      "kind": "association",
+      "condition": "在婚姻与育儿问题关联的讨论中比较，source 强调从婚姻角度处理，candidate 强调不要用育儿问题包装。",
+      "reason": "source 指出婚姻问题会影响育儿，candidate 指出提问应直接针对配偶分歧而非包装成育儿问题，两者角度互补但无直接因果，故 association。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "当孩子因比较而产生情绪时，先进行情绪连接，再引导孩子做出选择。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a002",
+        "s-f40e8ddfb363-c002:a001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "当孩子无法做长远规划时，需要先分析原因（可能涉及父母包办、亲子关系等），再针对原因进行引导。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a005",
+        "s-f40e8ddfb363-c001:r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "界限",
+      "when": "当个人愿望与家庭需求无法平衡时，需要做出选择，而不是试图平衡。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a008",
+        "s-f40e8ddfb363-c001:xe003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "内在能力",
+      "when": "当培养孩子开放心态时，父母需要先做到开放心态，并通过家庭社交活动提供练习机会。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a009",
+        "s-f40e8ddfb363-c001:xe006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "内在能力",
+      "when": "当孩子生活中缺乏轻重缓急时，可能是因为父母包办，需要让孩子参与挣钱等事务来训练。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a010",
+        "s-f40e8ddfb363-c001:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "专注力",
+      "to": "阶段与角色",
+      "when": "当判断孩子拖延是否需要干预时，需要观察结果，而不是一概而论。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a012",
+        "s-f40e8ddfb363-c001:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "专注力",
+      "to": "自我修养",
+      "when": "当了解孩子学习风格时，父母需要观察和了解，而不是按照自己认为好的方式强加。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a015",
+        "s-f40e8ddfb363-c001:r004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "自我修养",
+      "when": "当进行如厕训练时，需要认识到这是重要不紧急的事情，不能强迫。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a004",
+        "s-f40e8ddfb363-c002:a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "内在能力",
+      "when": "当孩子想买东西时，可以问“你有钱吗”，引导孩子自己攒钱。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a007",
+        "s-f40e8ddfb363-c002:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "界限",
+      "when": "当区分需要与想要时，需要认识到生理需要和心理需要的区别。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a015",
+        "s-f40e8ddfb363-c002:a016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "当处理配偶嫌弃家务时，需要明确表达自己的界限，而不是默默忍受。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a007",
+        "s-f40e8ddfb363-c002:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-f40e8ddfb363-c003:a007",
+          "limits": [
+            "原文未提及此方法是否适用于所有家庭关系"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我修养",
+      "when": "当处理事情之前，需要先管理好自己和孩子的情绪，确保情绪处理方法有效。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a009",
+        "s-f40e8ddfb363-c003:a010"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-f40e8ddfb363-c003:a009",
+          "limits": [
+            "原文未提供具体有效的情绪处理方法"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "自我修养",
+      "when": "当摆脱原生家庭影响时，需要进行自我认知提升，梳理记忆和回忆。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a011",
+        "s-f40e8ddfb363-c003:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-f40e8ddfb363-c003:a012",
+          "limits": [
+            "原文未详细说明自我认知提升的具体方法"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "当孩子在不同年龄阶段时，父母应扮演不同角色，批评和引导方式也不同。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a015"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-f40e8ddfb363-c003:a015",
+          "limits": [
+            "原文未提供具体年龄阶段划分和对应方法"
+          ]
+        },
+        {
+          "atom_id": "s-f40e8ddfb363-c003:a015",
+          "limits": [
+            "原文未提供具体年龄阶段划分和对应方法"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a003",
+        "s-f40e8ddfb363-c003:r001"
+      ],
+      "reason": "内容完全相同，都是关于富足感与资源有限性不矛盾。"
+    },
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a005"
+      ],
+      "reason": "内容完全相同，都是关于需要与想要的区别。"
+    },
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a006"
+      ],
+      "reason": "内容完全相同，都是关于避免用匮乏语言与孩子沟通。"
+    },
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a007"
+      ],
+      "reason": "内容完全相同，都是关于处理配偶嫌弃家务的标准。"
+    },
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a008"
+      ],
+      "reason": "内容完全相同，都是学员处理配偶嫌弃洗碗的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a009"
+      ],
+      "reason": "内容完全相同，都是关于情绪管理优先于事务处理。"
+    },
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a010"
+      ],
+      "reason": "内容完全相同，都是关于无效情绪管理导致时间浪费。"
+    },
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a011"
+      ],
+      "reason": "内容完全相同，都是关于原生家庭影响通过记忆和回忆控制人。"
+    },
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a012"
+      ],
+      "reason": "内容完全相同，都是关于通过自我认知提升摆脱原生家庭影响。"
+    },
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a013"
+      ],
+      "reason": "内容完全相同，都是四岁女儿超市选择玩具或糖果的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a014"
+      ],
+      "reason": "内容完全相同，都是四岁女儿占有欲强的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a015"
+      ],
+      "reason": "内容完全相同，都是关于根据孩子年龄阶段调整父母角色和引导方式。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a012",
+        "s-f40e8ddfb363-c001:a014"
+      ],
+      "description": "k00012 认为拖延不一定是问题，关键看结果；k00014 也提出如果结果良好则无需干预。两者没有矛盾，但缺少对“结果良好”的具体定义，可能导致不同家长判断标准不一。",
+      "needed_evidence": "需要明确“结果良好”的具体标准，例如成绩达到什么水平、任务完成质量等。"
+    },
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a004",
+        "s-f40e8ddfb363-c002:a005"
+      ],
+      "description": "k00032 强调如厕训练是重要不紧急的事情，不能强迫；k00033 提出每天多次询问或设置闹钟提醒。两者没有矛盾，但缺少对孩子年龄和个体差异的考虑，可能对某些孩子造成压力。",
+      "needed_evidence": "需要提供不同年龄和性格孩子的如厕训练具体建议，以及如何判断孩子是否准备好。"
+    },
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a025",
+        "s-f40e8ddfb363-c002:a028"
+      ],
+      "description": "k00053 允许孩子有不喜欢吃的菜，但不能每样只吃一口；k00056 提出如果孩子抱怨每道菜都不好吃，可以回应“不吃拉倒”。两者没有矛盾，但缺少对营养均衡的考虑，可能导致孩子营养不良。",
+      "needed_evidence": "需要提供在坚持原则的同时保证营养均衡的具体方法。"
+    },
+    {
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a007",
+        "s-f40e8ddfb363-c003:a008"
+      ],
+      "description": "k00065 提出处理配偶嫌弃家务的标准是让配偶自己来做；k00066 的案例中，学员最终让丈夫既做饭又洗碗。两者没有矛盾，但缺少对夫妻关系长期影响的考虑，可能导致关系紧张。",
+      "needed_evidence": "需要提供在坚持界限的同时维护夫妻关系的具体建议。"
+    }
+  ],
+  "path": [
+    {
+      "name": "情绪连接与引导选择",
+      "steps": [
+        {
+          "action": "识别孩子提问背后的情绪需求",
+          "atom_ids": [
+            "s-f40e8ddfb363-c001:a002"
+          ],
+          "condition": "当孩子因比较而产生情绪时"
+        },
+        {
+          "action": "进行情绪连接，表达理解和共情",
+          "atom_ids": [
+            "s-f40e8ddfb363-c001:a001",
+            "s-f40e8ddfb363-c001:a002",
+            "s-f40e8ddfb363-c002:a002"
+          ],
+          "condition": "日常生活中每件事情上都可以进行"
+        },
+        {
+          "action": "在情绪连接基础上引导孩子做出选择",
+          "atom_ids": [
+            "s-f40e8ddfb363-c001:a002",
+            "s-f40e8ddfb363-c002:a001"
+          ],
+          "condition": "情绪连接已建立"
+        }
+      ]
+    },
+    {
+      "name": "培养开放心态",
+      "steps": [
+        {
+          "action": "父母自我反思，成为开放心态的榜样",
+          "atom_ids": [
+            "s-f40e8ddfb363-c001:a009"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "邀请朋友到家里，提供孩子与不同人交流的机会",
+          "atom_ids": [
+            "s-f40e8ddfb363-c001:a009",
+            "s-f40e8ddfb363-c001:xe006"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "当孩子排斥某人时，引导孩子发现对方的优点",
+          "atom_ids": [
+            "s-f40e8ddfb363-c001:a009",
+            "s-f40e8ddfb363-c001:r002",
+            "s-f40e8ddfb363-c001:xe006"
+          ],
+          "condition": "孩子对他人有负面看法时"
+        }
+      ]
+    },
+    {
+      "name": "训练孩子生活轻重缓急",
+      "steps": [
+        {
+          "action": "让孩子参与挣钱",
+          "atom_ids": [
+            "s-f40e8ddfb363-c001:a011"
+          ],
+          "condition": "孩子生活中缺乏轻重缓急时"
+        },
+        {
+          "action": "引导孩子平衡生活事务",
+          "atom_ids": [
+            "s-f40e8ddfb363-c001:a011"
+          ],
+          "condition": "无"
+        }
+      ]
+    },
+    {
+      "name": "判断孩子拖延是否需要干预",
+      "steps": [
+        {
+          "action": "观察孩子拖延后的结果",
+          "atom_ids": [
+            "s-f40e8ddfb363-c001:a014",
+            "s-f40e8ddfb363-c001:r003"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "如果结果满意，不干预",
+          "atom_ids": [
+            "s-f40e8ddfb363-c001:a014",
+            "s-f40e8ddfb363-c001:r003"
+          ],
+          "condition": "结果令人满意"
+        },
+        {
+          "action": "如果结果不满意，进行调整",
+          "atom_ids": [
+            "s-f40e8ddfb363-c001:a014",
+            "s-f40e8ddfb363-c001:r003"
+          ],
+          "condition": "结果不佳"
+        }
+      ]
+    },
+    {
+      "name": "如厕训练",
+      "steps": [
+        {
+          "action": "观察孩子是否表现出对马桶的兴趣",
+          "atom_ids": [
+            "s-f40e8ddfb363-c002:a006"
+          ],
+          "condition": "孩子表现出对马桶的兴趣"
+        },
+        {
+          "action": "每天多次询问孩子是否需要上厕所，或设置闹钟定时提醒",
+          "atom_ids": [
+            "s-f40e8ddfb363-c002:a005"
+          ],
+          "condition": "孩子未准备好时不强迫"
+        }
+      ]
+    },
+    {
+      "name": "处理浪费文具",
+      "steps": [
+        {
+          "action": "提前告知后果",
+          "atom_ids": [
+            "s-f40e8ddfb363-c002:a024"
+          ],
+          "condition": "孩子浪费文具前"
+        },
+        {
+          "action": "让孩子自己选择是否继续浪费",
+          "atom_ids": [
+            "s-f40e8ddfb363-c002:a024"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "如果孩子继续浪费，不给买新的，让孩子承担自然后果",
+          "atom_ids": [
+            "s-f40e8ddfb363-c002:a023"
+          ],
+          "condition": "孩子浪费本子等文具"
+        }
+      ]
+    },
+    {
+      "name": "应对孩子挑食",
+      "steps": [
+        {
+          "action": "明确告知孩子今晚只有这些菜，没有其他选择",
+          "atom_ids": [
+            "s-f40e8ddfb363-c002:a028",
+            "s-f40e8ddfb363-c003:a001"
+          ],
+          "condition": "孩子对每道菜都表示不喜欢"
+        },
+        {
+          "action": "要求孩子至少吃一口",
+          "atom_ids": [
+            "s-f40e8ddfb363-c003:a001"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "观察孩子吃一口后的反应，若吃很多则说明菜品过多",
+          "atom_ids": [
+            "s-f40e8ddfb363-c003:a001"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "后续减少菜品数量",
+          "atom_ids": [
+            "s-f40e8ddfb363-c003:a001"
+          ],
+          "condition": "孩子吃一口后吃很多"
+        }
+      ]
+    },
+    {
+      "name": "处理配偶嫌弃家务",
+      "steps": [
+        {
+          "action": "明确表达自己不擅长或不愿意做该家务",
+          "atom_ids": [
+            "s-f40e8ddfb363-c003:a007"
+          ],
+          "condition": "配偶对家务有高标准并嫌弃对方"
+        },
+        {
+          "action": "让配偶自己来做",
+          "atom_ids": [
+            "s-f40e8ddfb363-c003:a007"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "如果配偶不做，要求其不要批评",
+          "atom_ids": [
+            "s-f40e8ddfb363-c003:a007"
+          ],
+          "condition": "配偶不做"
+        }
+      ]
+    },
+    {
+      "name": "情绪管理优先",
+      "steps": [
+        {
+          "action": "识别并管理自己和孩子的情绪",
+          "atom_ids": [
+            "s-f40e8ddfb363-c003:a009"
+          ],
+          "condition": "处理事情之前"
+        },
+        {
+          "action": "确保情绪处理方法有效",
+          "atom_ids": [
+            "s-f40e8ddfb363-c003:a009"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "情绪平稳后再处理事务",
+          "atom_ids": [
+            "s-f40e8ddfb363-c003:a009"
+          ],
+          "condition": "情绪平稳"
+        }
+      ]
+    },
+    {
+      "name": "摆脱原生家庭影响",
+      "steps": [
+        {
+          "action": "进行自我认知提升",
+          "atom_ids": [
+            "s-f40e8ddfb363-c003:a012"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "梳理记忆和回忆",
+          "atom_ids": [
+            "s-f40e8ddfb363-c003:a012"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "可参加相关训练营",
+          "atom_ids": [
+            "s-f40e8ddfb363-c003:a012"
+          ],
+          "condition": "无"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "98a71d5b4206d0f507ab76ae22cb2996760c4d836ad7c23206551ac602f892b4",
+  "point_units": [
+    {
+      "id": "s-f40e8ddfb363-c001:u0001",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:xe001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0002",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a003"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0003",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a002"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0005",
+      "kind": "definition",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a001"
+      ],
+      "blocks": [
+        "b00007",
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0006",
+      "kind": "definition",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a004"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:xe002"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a005"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0009",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a005"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0010",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a006"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0011",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a006"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a005"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:r001"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0014",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:xe003"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0015",
+      "kind": "definition",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a007"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0016",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a008"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0017",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:xe004"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0018",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:xe005"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0019",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0020",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a009"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0021",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0022",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a009"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0023",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:xe006",
+        "s-f40e8ddfb363-c001:a009"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0024",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:r002"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0025",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a010"
+      ],
+      "blocks": [
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0026",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a011"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0027",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:v2-n006"
+      ],
+      "blocks": [
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0028",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a012"
+      ],
+      "blocks": [
+        "b00027",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0029",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a013"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028",
+        "b00029",
+        "b00030",
+        "b00031",
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0030",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a014",
+        "s-f40e8ddfb363-c001:r003"
+      ],
+      "blocks": [
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0031",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a014"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0032",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a015",
+        "s-f40e8ddfb363-c001:r004"
+      ],
+      "blocks": [
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0033",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a016"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0034",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a017"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0035",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:v2-n005"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0036",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a018"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0037",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a002"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c001:u0038",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:v2-n004"
+      ],
+      "blocks": [
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u002",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:a018"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a001"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a002"
+      ],
+      "blocks": [
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a003"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a004"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a005"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a006"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:r001"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a007"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a008"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a009"
+      ],
+      "blocks": [
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a010"
+      ],
+      "blocks": [
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a011"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a012"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a013"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a014"
+      ],
+      "blocks": [
+        "b00054",
+        "b00055",
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u020",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a016"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a015"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a017"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a018"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u024",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a019"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a020"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a021"
+      ],
+      "blocks": [
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a022"
+      ],
+      "blocks": [
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a023"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a024"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a025"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u031",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a026"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u032",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a027"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u033",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a028"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u034",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:a029"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u035",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c002:u037",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:v2-n004"
+      ],
+      "blocks": [
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a001"
+      ],
+      "blocks": [
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a002"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a003"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080",
+        "b00081",
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a004"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u005",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a005"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a006"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a007"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085",
+        "b00086",
+        "b00087",
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u008",
+      "kind": "relation",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a008"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a009"
+      ],
+      "blocks": [
+        "b00089",
+        "b00090",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a010"
+      ],
+      "blocks": [
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a011"
+      ],
+      "blocks": [
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a012"
+      ],
+      "blocks": [
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a013"
+      ],
+      "blocks": [
+        "b00093",
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a014"
+      ],
+      "blocks": [
+        "b00094",
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-f40e8ddfb363-c003:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:a015"
+      ],
+      "blocks": [
+        "b00095",
+        "b00096"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "亲子交流每句话要说到点子上",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f40e8ddfb363",
+          "blocks": [
+            "b00003",
+            "b00004",
+            "b00005"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "父母不接纳孩子不同观点会导致孩子不接纳他人不同观点",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f40e8ddfb363",
+          "blocks": [
+            "b00021"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "孩子的状态随成长变化，不会固定维持",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f40e8ddfb363",
+          "blocks": [
+            "b00019"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "家长询问四岁和两岁孩子的重要不紧急事务举例",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f40e8ddfb363",
+          "blocks": [
+            "b00039"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "家长学完象限图仍不会分类的案例提问",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f40e8ddfb363",
+          "blocks": [
+            "b00035",
+            "b00036"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "家长询问孩子拖延作业是拖延还是分不清轻重",
+      "atom_ids": [
+        "s-f40e8ddfb363-c001:v2-n006"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f40e8ddfb363",
+          "blocks": [
+            "b00026"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "reported_case"
+    },
+    {
+      "title": "学习不是一学就会，需反复实操",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f40e8ddfb363",
+          "blocks": [
+            "b00036",
+            "b00037"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "definition"
+    },
+    {
+      "title": "第三象限与讨好型人格关系的提问",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f40e8ddfb363",
+          "blocks": [
+            "b00050"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "question"
+    },
+    {
+      "title": "餐桌上菜太多传递不良信号",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f40e8ddfb363",
+          "blocks": [
+            "b00078"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "提问要针对真实问题，不用育儿问题包装",
+      "atom_ids": [
+        "s-f40e8ddfb363-c002:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f40e8ddfb363",
+          "blocks": [
+            "b00058"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "condition"
+    },
+    {
+      "title": "配偶嫌弃家务反映婚姻问题并影响育儿",
+      "atom_ids": [
+        "s-f40e8ddfb363-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f40e8ddfb363",
+          "blocks": [
+            "b00085",
+            "b00086"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    }
+  ]
+}

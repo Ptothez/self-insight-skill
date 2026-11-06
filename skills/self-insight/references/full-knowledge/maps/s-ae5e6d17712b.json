@@ -1,0 +1,556 @@
+{
+  "concepts": [
+    {
+      "name": "右脑释放情绪",
+      "definition": "右脑负责发泄情绪，孩子大哭大闹、大叫愤怒时是右脑在释放情绪，这是健康自然的现象。",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a001",
+        "s-ae5e6d17712b-c001:a002",
+        "s-ae5e6d17712b-c001:a007"
+      ]
+    },
+    {
+      "name": "左脑工作",
+      "definition": "左脑负责理性控制，当孩子慢慢停止哭泣时是左脑开始工作；但强迫使用左脑控制情绪不健康。",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a001",
+        "s-ae5e6d17712b-c001:a004",
+        "s-ae5e6d17712b-c001:a005"
+      ]
+    },
+    {
+      "name": "负面情绪压抑的危害",
+      "definition": "家长急于扑灭孩子负面情绪不健康，会导致孩子压抑情绪，长大后易患情绪疾病；强迫左脑控制右脑情绪会导致心理问题。",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a003",
+        "s-ae5e6d17712b-c001:a006",
+        "s-ae5e6d17712b-c001:a013"
+      ]
+    },
+    {
+      "name": "情绪排泄与健康",
+      "definition": "负面情绪需要排泄，抹眼泪、发脾气是有效减压方法；会哭和表达负面情绪是情绪健康的象征。",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a008",
+        "s-ae5e6d17712b-c001:a011",
+        "s-ae5e6d17712b-c001:r001"
+      ]
+    },
+    {
+      "name": "哭泣作为心理辅导指标",
+      "definition": "心理辅导中以是否会哭泣作为严重情况指标；童年被性侵犯的孩子常被警告不允许表达情绪，导致不会哭泣。",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a009",
+        "s-ae5e6d17712b-c001:a010"
+      ]
+    },
+    {
+      "name": "强迫停止哭泣的案例",
+      "definition": "四岁男孩被父亲数123强迫停止哭泣，讲师认为这是强迫使用左脑终止右脑情绪宣泄，对孩子造成不可逆不安全感。",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a005",
+        "s-ae5e6d17712b-c001:a006"
+      ]
+    },
+    {
+      "name": "健康引导情绪的方法",
+      "definition": "后续课程将讲解如何与右脑连接并引导左脑在健康自然情况下管理情绪。",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a015"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-ae5e6d17712b-c001:a001",
+      "target": "s-ae5e6d17712b-c001:a002",
+      "kind": "supports",
+      "condition": "当孩子大哭大闹时",
+      "reason": "a001指出右脑释放情绪，a002说明右脑发泄情绪是健康的，两者共同支持右脑情绪释放的健康性。"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:a003",
+      "target": "s-ae5e6d17712b-c001:a006",
+      "kind": "supports",
+      "condition": "家长急于扑灭负面情绪并强迫孩子压制情绪表达",
+      "reason": "家长急于扑灭孩子负面情绪的做法不健康指出，扑灭负面情绪会让孩子压抑情绪并易患情绪疾病；强迫用左脑控制情绪会导致心理问题具体说明通过数123强迫关闭情绪会导致抑郁症、焦虑、上瘾等后果，两者方向一致且相互支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 不在允许关系类型中，改为 supports；因果方向成立。"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:a005",
+      "target": "s-ae5e6d17712b-c001:a006",
+      "kind": "example_of",
+      "condition": "父亲数123强迫四岁孩子停止哭泣",
+      "reason": "四岁男孩被父亲数123强迫停止哭泣的案例中，父亲用数123的方式让孩子立刻停止哭泣，正是强迫用左脑控制情绪会导致心理问题所描述的通过数123关掉四岁孩子情绪的具体情境。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立，案例展示了该做法的具体表现。"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:a007",
+      "target": "s-ae5e6d17712b-c001:a008",
+      "kind": "supports",
+      "condition": "孩子发怒哭泣时",
+      "reason": "a007将发怒哭泣比作生理排泄，a008说明抹眼泪发脾气是减压方法，两者共同支持情绪排泄的健康性。"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:a009",
+      "target": "s-ae5e6d17712b-c001:a010",
+      "kind": "association",
+      "condition": "以是否会哭泣评估心理辅导严重情况，在个案中表现为不会哭泣",
+      "reason": "以是否会哭泣作为心理辅导严重情况的指标提出不会哭泣可表示情况严重；童年被性侵犯的年轻客人不会哭泣的案例中，客人因童年创伤无法表达情绪而不会哭，正是该指标的具体体现。但概念本身不是案例的实例，方向应为案例→概念，故仅作关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了，改为 association。"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:a010",
+      "target": "s-ae5e6d17712b-c001:a012",
+      "kind": "step_of",
+      "condition": "心理辅导过程中，从不会哭泣到能够哭泣并逐渐好转",
+      "reason": "童年被性侵犯的年轻客人不会哭泣的案例描述客人最初无法哭泣，经过辅导后终于嚎啕大哭；客人通过哭泣逐渐好转进一步描述此后每次辅导都大哭，抑郁症逐渐好转，二者是同一辅导历程中的前后阶段。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立，属于治疗过程的步骤。"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:a013",
+      "target": "s-ae5e6d17712b-c001:a006",
+      "kind": "supports",
+      "condition": "长时间强迫左脑控制右脑情绪并抑制情绪表达",
+      "reason": "长时间强迫左脑控制右脑情绪会导致情绪问题作为一般性论断，支持强迫用左脑控制情绪会导致心理问题这一更具体的后果描述，两者在因果方向上一致。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立，重复边也支持。"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:a014",
+      "target": "s-ae5e6d17712b-c001:a015",
+      "kind": "step_of",
+      "condition": "家长面对孩子发脾气时",
+      "reason": "a014提出问题，a015预告后续课程将提供解决方法，是问题到解决方案的步骤。"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:v2-n001",
+      "target": "s-ae5e6d17712b-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者均为对上一期课程内容的提及，但主题不同（拖延 vs 左右脑补充短板），无实质知识关联。",
+      "reason": "来源标题为“上一期内容：解决孩子做作业拖延”，目标标题为“上一期内容：用左右脑长项补充短板”，两者都仅是回顾性描述，内容无交叉。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:v2-n002",
+      "target": "s-ae5e6d17712b-c001:v2-n001",
+      "kind": "association",
+      "condition": "两者均为对上一期课程内容的提及，但主题不同（拖延 vs 左右脑补充短板），无实质知识关联。",
+      "reason": "来源标题为“上一期内容：解决孩子做作业拖延”，目标标题为“上一期内容：用左右脑长项补充短板”，两者都仅是回顾性描述，内容无交叉。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:v2-n002",
+      "target": "s-ae5e6d17712b-c001:v2-n001",
+      "kind": "association",
+      "condition": "两者均为对上一期课程内容的提及，但主题不同（左右脑补充短板 vs 拖延），无实质知识关联。",
+      "reason": "来源与目标同属上一期内容回顾，但主题各异，目标针对做作业拖延，来源针对左右脑补充短板，内容无直接交叉。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:v2-n001",
+      "target": "s-ae5e6d17712b-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者均为对上一期课程内容的提及，但主题不同（左右脑补充短板 vs 拖延），无实质知识关联。",
+      "reason": "来源与目标同属上一期内容回顾，但主题各异，目标针对做作业拖延，来源针对左右脑补充短板，内容无直接交叉。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:v2-n002",
+      "target": "s-ae5e6d17712b-c001:a004",
+      "kind": "complements",
+      "condition": "在运用左右脑长项补充短板时，须采用健康引导方式，不可强迫。",
+      "reason": "来源提到用左右脑长项补充短板，但未说明具体操作；目标明确指出“一定不要强迫孩子在非健康引导的情况下使用他们的左脑”，补充了该方法必须遵循的健康引导前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:a004",
+      "target": "s-ae5e6d17712b-c001:v2-n002",
+      "kind": "complements",
+      "condition": "在运用左右脑长项补充短板时，须采用健康引导方式，不可强迫。",
+      "reason": "来源提到用左右脑长项补充短板，但未说明具体操作；目标明确指出“一定不要强迫孩子在非健康引导的情况下使用他们的左脑”，补充了该方法必须遵循的健康引导前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:v2-n002",
+      "target": "s-ae5e6d17712b-c001:a006",
+      "kind": "complements",
+      "condition": "若违反健康引导原则，强迫左脑控制情绪，将导致严重后果。",
+      "reason": "来源提出用左右脑长项补充短板，但未提及风险；目标详细描述了强迫左脑控制情绪会导致抑郁症、焦虑、上瘾行为等心理问题，补充了该方法的禁忌与后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:a006",
+      "target": "s-ae5e6d17712b-c001:v2-n002",
+      "kind": "complements",
+      "condition": "若违反健康引导原则，强迫左脑控制情绪，将导致严重后果。",
+      "reason": "来源提出用左右脑长项补充短板，但未提及风险；目标详细描述了强迫左脑控制情绪会导致抑郁症、焦虑、上瘾行为等心理问题，补充了该方法的禁忌与后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:v2-n002",
+      "target": "s-ae5e6d17712b-c001:a013",
+      "kind": "association",
+      "condition": "涉及左右脑互动与情绪管理，但具体情境不同。",
+      "reason": "来源与目标都涉及左右脑在情绪调节中的作用，但来源是补充短板，目标是强迫控制导致问题，关系不确定，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:a013",
+      "target": "s-ae5e6d17712b-c001:v2-n002",
+      "kind": "association",
+      "condition": "涉及左右脑互动与情绪管理，但具体情境不同。",
+      "reason": "来源与目标都涉及左右脑在情绪调节中的作用，但来源是补充短板，目标是强迫控制导致问题，关系不确定，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:v2-n002",
+      "target": "s-ae5e6d17712b-c001:a001",
+      "kind": "association",
+      "condition": "提供左右脑功能的基本表现，可能作为背景知识。",
+      "reason": "来源提及左右脑长项，而目标描述了右脑释放情绪、左脑工作的表现，可能有助于理解左右脑分工，但未直接说明补充短板的方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:a001",
+      "target": "s-ae5e6d17712b-c001:v2-n002",
+      "kind": "association",
+      "condition": "提供左右脑功能的基本表现，可能作为背景知识。",
+      "reason": "来源提及左右脑长项，而目标描述了右脑释放情绪、左脑工作的表现，可能有助于理解左右脑分工，但未直接说明补充短板的方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:v2-n002",
+      "target": "s-ae5e6d17712b-c001:a002",
+      "kind": "association",
+      "condition": "提到右脑发泄情绪的健康性，可能与右脑长项相关。",
+      "reason": "来源提及用左右脑长项补充短板，目标认为右脑负责发泄情绪是健康的事情，两者均涉及右脑功能，但未形成明确互补或因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:a002",
+      "target": "s-ae5e6d17712b-c001:v2-n002",
+      "kind": "association",
+      "condition": "提到右脑发泄情绪的健康性，可能与右脑长项相关。",
+      "reason": "来源提及用左右脑长项补充短板，目标认为右脑负责发泄情绪是健康的事情，两者均涉及右脑功能，但未形成明确互补或因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:v2-n002",
+      "target": "s-ae5e6d17712b-c001:a005",
+      "kind": "association",
+      "condition": "案例展示了强迫左脑控制右脑情绪的具体情境，可作为反面参照。",
+      "reason": "来源提倡用左右脑长项补充短板，目标案例中父亲强迫孩子停止哭泣，是未健康引导的反例，但来源未提及具体情境，关系不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:a005",
+      "target": "s-ae5e6d17712b-c001:v2-n002",
+      "kind": "association",
+      "condition": "案例展示了强迫左脑控制右脑情绪的具体情境，可作为反面参照。",
+      "reason": "来源提倡用左右脑长项补充短板，目标案例中父亲强迫孩子停止哭泣，是未健康引导的反例，但来源未提及具体情境，关系不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:v2-n002",
+      "target": "s-ae5e6d17712b-c001:a003",
+      "kind": "association",
+      "condition": "反模式涉及家长急于扑灭负面情绪，与健康引导原则相悖。",
+      "reason": "来源未提及负面情绪处理，但目标作为反模式，提示了压制情绪的不健康做法，可能间接关联到左右脑互补需避免的误区。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:a003",
+      "target": "s-ae5e6d17712b-c001:v2-n002",
+      "kind": "association",
+      "condition": "反模式涉及家长急于扑灭负面情绪，与健康引导原则相悖。",
+      "reason": "来源未提及负面情绪处理，但目标作为反模式，提示了压制情绪的不健康做法，可能间接关联到左右脑互补需避免的误区。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:v2-n002",
+      "target": "s-ae5e6d17712b-c001:a015",
+      "kind": "association",
+      "condition": "来源为上一期内容，目标为后续课程，可能有顺序关联，但内容衔接不明确。",
+      "reason": "来源是上一期用左右脑长项补充短板，目标是后续讲解如何连接右脑引导左脑管理情绪，两者可能属于同一课程体系，但来源未提供足够细节确认前提关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-ae5e6d17712b-c001:a015",
+      "target": "s-ae5e6d17712b-c001:v2-n002",
+      "kind": "association",
+      "condition": "来源为上一期内容，目标为后续课程，可能有顺序关联，但内容衔接不明确。",
+      "reason": "来源是上一期用左右脑长项补充短板，目标是后续讲解如何连接右脑引导左脑管理情绪，两者可能属于同一课程体系，但来源未提供足够细节确认前提关系。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "当孩子发泄情绪时，家长需要理解情绪并设立界限，避免强迫停止。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a003",
+        "s-ae5e6d17712b-c001:a004",
+        "s-ae5e6d17712b-c001:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "依赖与失控",
+      "when": "当家长强迫孩子用左脑控制情绪时，可能导致孩子未来出现依赖与失控行为。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a006",
+        "s-ae5e6d17712b-c001:a013"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a008",
+        "s-ae5e6d17712b-c001:r001"
+      ],
+      "reason": "两者都表达负面情绪需要排泄，且用生理排泄作比喻，实质等价。"
+    }
+  ],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-ae5e6d17712b-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a001"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0004",
+      "kind": "definition",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a002"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0005",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a003"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0006",
+      "kind": "condition",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a004"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a005"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a006"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0009",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a007"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0010",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:r001"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0011",
+      "kind": "method",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a008"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0012",
+      "kind": "method",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a009"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0013",
+      "kind": "case",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a010"
+      ],
+      "blocks": [
+        "b00018",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a011"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0015",
+      "kind": "case",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a012"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0016",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a013"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0017",
+      "kind": "question",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a014"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-ae5e6d17712b-c001:u0018",
+      "kind": "method",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:a015"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "上一期内容：解决孩子做作业拖延",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-ae5e6d17712b",
+          "blocks": [
+            "b00006"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "summary"
+    },
+    {
+      "title": "上一期内容：用左右脑长项补充短板",
+      "atom_ids": [
+        "s-ae5e6d17712b-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-ae5e6d17712b",
+          "blocks": [
+            "b00006"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "summary"
+    }
+  ]
+}

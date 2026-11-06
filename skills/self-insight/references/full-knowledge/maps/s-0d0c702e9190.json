@@ -1,0 +1,2258 @@
+{
+  "concepts": [
+    {
+      "name": "讨价还价",
+      "definition": "双方通过协商，各自获得想要的东西，彼此都要付出，不是单方面让步或争赢。",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a001",
+        "s-0d0c702e9190-c001:a006",
+        "s-0d0c702e9190-c001:a007",
+        "s-0d0c702e9190-c001:a008",
+        "s-0d0c702e9190-c003:a002",
+        "s-0d0c702e9190-c003:a005",
+        "s-0d0c702e9190-c003:a006"
+      ]
+    },
+    {
+      "name": "共赢",
+      "definition": "双方都心甘情愿、高高兴兴地接受结果，而不是一方满意另一方不满。",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a001",
+        "s-0d0c702e9190-c001:a006",
+        "s-0d0c702e9190-c003:a001",
+        "s-0d0c702e9190-c003:a004"
+      ]
+    },
+    {
+      "name": "妥协",
+      "definition": "讨价还价中双方都需要妥协，但妥协程度可以不同且需轮流；妥协是否导致自我丧失取决于是否心甘情愿。",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a001",
+        "s-0d0c702e9190-c001:a002",
+        "s-0d0c702e9190-c002:a003",
+        "s-0d0c702e9190-c002:xe001"
+      ]
+    },
+    {
+      "name": "共情",
+      "definition": "走进他人的内心去感受别人，按照别人真正的需要去给予，不一定需要说话或给予东西；与同情、怜悯不同，共情是前提。",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a011",
+        "s-0d0c702e9190-c001:a012",
+        "s-0d0c702e9190-c001:a013",
+        "s-0d0c702e9190-c001:a014",
+        "s-0d0c702e9190-c001:a020",
+        "s-0d0c702e9190-c001:r001",
+        "s-0d0c702e9190-c001:r002",
+        "s-0d0c702e9190-c001:r005",
+        "s-0d0c702e9190-c002:a004",
+        "s-0d0c702e9190-c002:a005",
+        "s-0d0c702e9190-c002:r001"
+      ]
+    },
+    {
+      "name": "求同存异",
+      "definition": "解决矛盾时找到共同点，区分原则性问题与非原则性问题，原则性问题不能妥协，非原则性问题可以存异。",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a021",
+        "s-0d0c702e9190-c001:a022",
+        "s-0d0c702e9190-c001:a023",
+        "s-0d0c702e9190-c001:r006",
+        "s-0d0c702e9190-c002:a001",
+        "s-0d0c702e9190-c002:a002"
+      ]
+    },
+    {
+      "name": "讨好型人格",
+      "definition": "自己输、对方赢，没有共赢概念，有错误的愧疚感和缺乏正确自我认知，导致不敢享受应得的东西。",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a017",
+        "s-0d0c702e9190-c001:a019",
+        "s-0d0c702e9190-c001:a025",
+        "s-0d0c702e9190-c001:r003",
+        "s-0d0c702e9190-c002:r003"
+      ]
+    },
+    {
+      "name": "领导力",
+      "definition": "不是让一群人都听自己的，而是当有人需要帮助时去帮助他，具有服侍的心态，帮助所有人一起变好。",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a008",
+        "s-0d0c702e9190-c002:a009",
+        "s-0d0c702e9190-c002:a010",
+        "s-0d0c702e9190-c002:a011"
+      ]
+    },
+    {
+      "name": "辩论",
+      "definition": "允许孩子在不吼叫的前提下吵架，以训练逻辑和表达能力；辩论不是界限、共情或I statement。",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a009",
+        "s-0d0c702e9190-c003:a010"
+      ]
+    },
+    {
+      "name": "情绪绑架",
+      "definition": "利用过去的事情或道德压力让对方屈服，不是双赢，与讨价还价不同。",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a015",
+        "s-0d0c702e9190-c002:r004"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-0d0c702e9190-c001:a001",
+      "target": "s-0d0c702e9190-c001:a006",
+      "kind": "supports",
+      "condition": "双方都需要妥协，但讨价还价是交换而非争赢",
+      "reason": "k00001强调双方妥协，k00006强调交换和付出，共同支持讨价还价的定义"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a001",
+      "target": "s-0d0c702e9190-c001:a002",
+      "kind": "supports",
+      "condition": "妥协程度可以不同但需轮流",
+      "reason": "k00002补充了妥协的公平性，支持k00001的双方妥协原则"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a006",
+      "target": "s-0d0c702e9190-c001:a007",
+      "kind": "step_of",
+      "condition": "讨价还价的具体方法",
+      "reason": "k00007提供了讨价还价的具体方法示例，是k00006定义的实践步骤"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a007",
+      "target": "s-0d0c702e9190-c001:a008",
+      "kind": "causes",
+      "condition": "讨价还价失败时",
+      "reason": "k00008说明讨价还价失败让孩子甘愿，因为孩子知道是自己不愿付出代价"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a010",
+      "target": "s-0d0c702e9190-c003:a008",
+      "kind": "supports",
+      "condition": "父母缺乏能力无法传递给孩子",
+      "reason": "父母自己没有讨价还价共赢的能力就无法教给孩子，这直接支持家长在协商共赢方面欠缺就无法教给孩子的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "两者命题一致。"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a011",
+      "target": "s-0d0c702e9190-c001:a012",
+      "kind": "supports",
+      "condition": "共情不等于给予",
+      "reason": "k00012补充共情不一定给予东西，支持k00011的共情定义"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a011",
+      "target": "s-0d0c702e9190-c001:r001",
+      "kind": "supports",
+      "condition": "共情与同情的区别",
+      "reason": "共情是走进他人内心去感受别人，这支持共情与同情的区别中关于共情本质的阐述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a013",
+      "target": "s-0d0c702e9190-c001:a014",
+      "kind": "example_of",
+      "condition": "共情的案例",
+      "reason": "两个案例都展示了共情的实践，k00013是朋友陪伴，k00014是阿姨丧子"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a015",
+      "target": "s-0d0c702e9190-c001:a016",
+      "kind": "supports",
+      "condition": "育儿需全面平衡，单一训练交换会导致功利",
+      "reason": "育儿需全面平衡，不能只训练交换，这支持单一训练交换会导致功利的观点，因为单一训练不符合全面平衡原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a017",
+      "target": "s-0d0c702e9190-c001:a024",
+      "kind": "causes",
+      "condition": "孩子缺的不是道理而是情绪连接",
+      "reason": "k00024指出案例中孩子需要情绪连接而非道理，是k00017案例的深层原因"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a017",
+      "target": "s-0d0c702e9190-c001:a025",
+      "kind": "example_of",
+      "condition": "讨好型人格的深层问题",
+      "reason": "初三孩子班费买礼物的案例是讨好型人格深层问题的一个具体表现，孩子不敢享受成绩所得、想分礼物给同学，体现了错误愧疚感和讨好型人格。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 改为 example_of。"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a019",
+      "target": "s-0d0c702e9190-c002:r003",
+      "kind": "supports",
+      "condition": "讨好型人格与共赢的区别",
+      "reason": "两者都说明讨好型人格无法共赢，k00049进一步对比"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a020",
+      "target": "s-0d0c702e9190-c001:r005",
+      "kind": "supports",
+      "condition": "允许孩子沉浸在痛苦中与同理心的区别",
+      "reason": "两者内容相同，强调区别"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a021",
+      "target": "s-0d0c702e9190-c001:a022",
+      "kind": "association",
+      "condition": "求同存异的方法",
+      "reason": "求同存异的功用与求同存异的方法探讨同一概念的不同侧面，但前者不直接支持后者，也无步骤关系，故用关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind step_of 不成立，改为 association。"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a022",
+      "target": "s-0d0c702e9190-c001:r006",
+      "kind": "supports",
+      "condition": "求同存异的具体步骤",
+      "reason": "求同存异的方法（找共同点）与求同存异的具体步骤内容一致，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a023",
+      "target": "s-0d0c702e9190-c002:a002",
+      "kind": "supports",
+      "condition": "原则性问题与非原则性问题的区分",
+      "reason": "k00033详细解释了原则性与非原则性问题的区分，支持k00023"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a024",
+      "target": "s-0d0c702e9190-c001:r004",
+      "kind": "step_of",
+      "condition": "处理讨好型人格问题的步骤",
+      "reason": "k00029提供了处理讨好型人格的步骤，包括情绪连接，与k00024一致"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a025",
+      "target": "s-0d0c702e9190-c001:r003",
+      "kind": "supports",
+      "condition": "讨好型人格的深层心理需求",
+      "reason": "讨好型人格的深层问题与深层心理需求内容一致，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:r001",
+      "target": "s-0d0c702e9190-c002:a005",
+      "kind": "supports",
+      "condition": "共情与同情、怜悯的区别",
+      "reason": "共情与同情的区别（鹿熊比喻）支持共情与同情、怜悯的区别的阐述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:r002",
+      "target": "s-0d0c702e9190-c002:a004",
+      "kind": "supports",
+      "condition": "共情的非言语本质",
+      "reason": "k00035强调共情不一定需要说话，支持k00027的语言同理有时足够"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a003",
+      "target": "s-0d0c702e9190-c002:xe001",
+      "kind": "supports",
+      "condition": "妥协与自我丧失的关系",
+      "reason": "两者内容相同，强调心甘情愿的重要性"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a004",
+      "target": "s-0d0c702e9190-c002:a004",
+      "kind": "supports",
+      "condition": "共情的非言语本质",
+      "reason": "两者内容相同，强调非言语陪伴"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a005",
+      "target": "s-0d0c702e9190-c002:r001",
+      "kind": "supports",
+      "condition": "共情与同情、怜悯的先后关系",
+      "reason": "共情与同情、怜悯的区别中明确提出共情是前提，支持共情与同情、怜悯的先后关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a007",
+      "target": "s-0d0c702e9190-c002:a008",
+      "kind": "causes",
+      "condition": "避免孩子被负面环境影响的策略",
+      "reason": "k00039提供了应对k00038案例中问题的策略"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a008",
+      "target": "s-0d0c702e9190-c002:a009",
+      "kind": "example_of",
+      "condition": "领导力的案例",
+      "reason": "k00040是k00039策略的具体案例"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a009",
+      "target": "s-0d0c702e9190-c002:a010",
+      "kind": "step_of",
+      "condition": "帮助被孤立同学的具体步骤",
+      "reason": "k00041提供了帮助被孤立同学的具体步骤，是k00040案例的延伸"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a010",
+      "target": "s-0d0c702e9190-c002:a011",
+      "kind": "supports",
+      "condition": "领导力的真正含义",
+      "reason": "k00042定义领导力，支持k00041中的领导力行为"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a012",
+      "target": "s-0d0c702e9190-c002:a012",
+      "kind": "supports",
+      "condition": "夫妻吵架中保持沟通的方法",
+      "reason": "两者内容相同"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a013",
+      "target": "s-0d0c702e9190-c002:r002",
+      "kind": "supports",
+      "condition": "通过提问引导孩子沟通",
+      "reason": "两者内容相同"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a015",
+      "target": "s-0d0c702e9190-c002:r004",
+      "kind": "contrasts",
+      "condition": "讨价还价与情绪绑架的区别",
+      "reason": "k00045案例是情绪绑架，k00050定义区别"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a017",
+      "target": "s-0d0c702e9190-c003:a003",
+      "kind": "example_of",
+      "condition": "姐弟轮流选电影案例",
+      "reason": "两个孩子为看影片争执的案例与姐弟轮流选电影案例描述同一事件，前者是后者的具体叙述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a017",
+      "target": "s-0d0c702e9190-c002:r005",
+      "kind": "supports",
+      "condition": "共赢与轮流妥协的区别",
+      "reason": "k00051解释轮流妥协不是共赢，支持k00046案例的分析"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:r003",
+      "target": "s-0d0c702e9190-c002:r003",
+      "kind": "supports",
+      "condition": "讨好型人与共赢的区别",
+      "reason": "两者内容相同"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:r004",
+      "target": "s-0d0c702e9190-c002:r005",
+      "kind": "supports",
+      "condition": "共赢与轮流妥协的区别",
+      "reason": "k00051进一步区分共赢与轮流妥协，支持k00050"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a001",
+      "target": "s-0d0c702e9190-c003:a004",
+      "kind": "supports",
+      "condition": "共赢与讨价还价的区别",
+      "reason": "k00060区分共赢与讨价还价，支持k00057的定义"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a002",
+      "target": "s-0d0c702e9190-c003:a005",
+      "kind": "step_of",
+      "condition": "讨价还价的具体方法",
+      "reason": "k00061提供了讨价还价的具体协商步骤，是k00058定义的实践"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a005",
+      "target": "s-0d0c702e9190-c003:a006",
+      "kind": "association",
+      "condition": "姐弟讨价还价成功案例",
+      "reason": "讨价还价的具体方法与姐弟讨价还价成功案例相关，案例体现了方法的应用，但原方向为方法到案例，无法用 example_of，故用关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向错误，改为 association 并说明。"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a007",
+      "target": "s-0d0c702e9190-c003:a003",
+      "kind": "supports",
+      "condition": "轮流选择不是讨价还价",
+      "reason": "轮流选择不是讨价还价这一观点，支持对姐弟轮流选电影案例的分析，说明该案例中没有共赢。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a009",
+      "target": "s-0d0c702e9190-c003:a009",
+      "kind": "supports",
+      "condition": "辩论与界限、共情、I statement的区别",
+      "reason": "两者内容相同"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a010",
+      "target": "s-0d0c702e9190-c003:a010",
+      "kind": "supports",
+      "condition": "训练孩子辩论的方法",
+      "reason": "两者内容相同"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a011",
+      "target": "s-0d0c702e9190-c003:a011",
+      "kind": "supports",
+      "condition": "讲师个人辩论经历",
+      "reason": "两者内容相同"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a012",
+      "target": "s-0d0c702e9190-c003:a012",
+      "kind": "supports",
+      "condition": "家长阻挡孩子能力发展",
+      "reason": "两者内容相同"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a013",
+      "target": "s-0d0c702e9190-c003:a013",
+      "kind": "supports",
+      "condition": "心理力量训练营学员案例",
+      "reason": "两者内容相同"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a014",
+      "target": "s-0d0c702e9190-c003:a014",
+      "kind": "supports",
+      "condition": "讲师辩论赛经历",
+      "reason": "两者内容相同"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n001",
+      "target": "s-0d0c702e9190-c001:a010",
+      "kind": "association",
+      "condition": "父母自身能力是前提",
+      "reason": "a010 指出父母缺乏协商能力就无法教给孩子，这解释了 source 中培养孩子能力的一个前提条件，但方向为 source 需要 a010 作为前提，故用 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a010",
+      "target": "s-0d0c702e9190-c001:v2-n001",
+      "kind": "association",
+      "condition": "父母自身能力是前提",
+      "reason": "a010 指出父母缺乏协商能力就无法教给孩子，这解释了 source 中培养孩子能力的一个前提条件，但方向为 source 需要 a010 作为前提，故用 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n001",
+      "target": "s-0d0c702e9190-c003:a008",
+      "kind": "association",
+      "condition": "同上",
+      "reason": "a008 与 a010 类似，强调家长无法给孩子自己没有的能力，与 source 的培养目标相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a008",
+      "target": "s-0d0c702e9190-c001:v2-n001",
+      "kind": "association",
+      "condition": "同上",
+      "reason": "a008 与 a010 类似，强调家长无法给孩子自己没有的能力，与 source 的培养目标相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n001",
+      "target": "s-0d0c702e9190-c003:a012",
+      "kind": "association",
+      "condition": "家长阻挡能力发展的反面情况",
+      "reason": "a012 指出家长阻挡孩子能力发展（如不允许吵架），从反面说明 source 强调父母不应阻挡而应培养孩子能力。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a012",
+      "target": "s-0d0c702e9190-c001:v2-n001",
+      "kind": "association",
+      "condition": "家长阻挡能力发展的反面情况",
+      "reason": "a012 指出家长阻挡孩子能力发展（如不允许吵架），从反面说明 source 强调父母不应阻挡而应培养孩子能力。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n001",
+      "target": "s-0d0c702e9190-c003:a010",
+      "kind": "association",
+      "condition": "训练孩子辩论能力的具体方法",
+      "reason": "a010 提出允许孩子在不吼叫前提下吵架以训练辩论，可作为实现 source 中协商能力的一种训练方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a010",
+      "target": "s-0d0c702e9190-c001:v2-n001",
+      "kind": "association",
+      "condition": "训练孩子辩论能力的具体方法",
+      "reason": "a010 提出允许孩子在不吼叫前提下吵架以训练辩论，可作为实现 source 中协商能力的一种训练方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n001",
+      "target": "s-0d0c702e9190-c001:a005",
+      "kind": "association",
+      "condition": "妈妈介入调解的反面示例",
+      "reason": "a005 指出妈妈替孩子调解会阻碍建立孩子能力，与 source 中孩子自己解决、无需父母参与形成对比。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a005",
+      "target": "s-0d0c702e9190-c001:v2-n001",
+      "kind": "association",
+      "condition": "妈妈介入调解的反面示例",
+      "reason": "a005 指出妈妈替孩子调解会阻碍建立孩子能力，与 source 中孩子自己解决、无需父母参与形成对比。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n001",
+      "target": "s-0d0c702e9190-c001:a021",
+      "kind": "association",
+      "condition": "求同存异是解决方法之一",
+      "reason": "a021 说明求同存异的功用，可视为孩子想出的多种解决方法之一，与 source 相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a021",
+      "target": "s-0d0c702e9190-c001:v2-n001",
+      "kind": "association",
+      "condition": "求同存异是解决方法之一",
+      "reason": "a021 说明求同存异的功用，可视为孩子想出的多种解决方法之一，与 source 相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n001",
+      "target": "s-0d0c702e9190-c001:r006",
+      "kind": "association",
+      "condition": "求同存异的具体步骤",
+      "reason": "r006 提供求同存异的步骤，是 source 中解决方案的具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:r006",
+      "target": "s-0d0c702e9190-c001:v2-n001",
+      "kind": "association",
+      "condition": "求同存异的具体步骤",
+      "reason": "r006 提供求同存异的步骤，是 source 中解决方案的具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n001",
+      "target": "s-0d0c702e9190-c003:v2-n001",
+      "kind": "association",
+      "condition": "学员询问如何训练五岁七岁孩子辩论",
+      "reason": "该案例涉及训练孩子辩论能力，与 source 中培养协商能力的目标一致，但 source 未具体到辩论，关联间接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:v2-n001",
+      "target": "s-0d0c702e9190-c001:v2-n001",
+      "kind": "association",
+      "condition": "学员询问如何训练五岁七岁孩子辩论",
+      "reason": "该案例涉及训练孩子辩论能力，与 source 中培养协商能力的目标一致，但 source 未具体到辩论，关联间接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n002",
+      "target": "s-0d0c702e9190-c002:a013",
+      "kind": "association",
+      "condition": "适用条件：家长意图通过提问了解孩子情绪或沟通时，与交换训练无关。",
+      "reason": "源内容是关于要求孩子付出交换，候选内容是通过追问引导孩子表达更多信息；两者均为亲子沟通技巧，但针对不同问题和目标，无直接因果或步骤关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a013",
+      "target": "s-0d0c702e9190-c001:v2-n002",
+      "kind": "association",
+      "condition": "适用条件：家长意图通过提问了解孩子情绪或沟通时，与交换训练无关。",
+      "reason": "源内容是关于要求孩子付出交换，候选内容是通过追问引导孩子表达更多信息；两者均为亲子沟通技巧，但针对不同问题和目标，无直接因果或步骤关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n002",
+      "target": "s-0d0c702e9190-c002:r002",
+      "kind": "association",
+      "condition": "适用条件：同上，候选为重复内容。",
+      "reason": "候选与前一候选内容相同，关系同前，均为提问引导沟通，与交换无直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:r002",
+      "target": "s-0d0c702e9190-c001:v2-n002",
+      "kind": "association",
+      "condition": "适用条件：同上，候选为重复内容。",
+      "reason": "候选与前一候选内容相同，关系同前，均为提问引导沟通，与交换无直接关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n002",
+      "target": "s-0d0c702e9190-c003:a012",
+      "kind": "association",
+      "condition": "适用条件：家长限制孩子吵架等能力发展的场景；源不涉及。",
+      "reason": "源讨论交换帮助，候选讨论家长阻挡能力发展（如不允许吵架），两者都涉及家长行为对孩子能力的影响，但具体行为不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a012",
+      "target": "s-0d0c702e9190-c001:v2-n002",
+      "kind": "association",
+      "condition": "适用条件：家长限制孩子吵架等能力发展的场景；源不涉及。",
+      "reason": "源讨论交换帮助，候选讨论家长阻挡能力发展（如不允许吵架），两者都涉及家长行为对孩子能力的影响，但具体行为不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n002",
+      "target": "s-0d0c702e9190-c003:a008",
+      "kind": "association",
+      "condition": "若将交换视为协商能力的一部分，家长需具备协商能力，但源未明示此前提。",
+      "reason": "源是引导孩子付出交换，候选指出家长无法给孩子自己没有的能力（如协商共赢）；潜在相关但不构成直接前提，因为源未要求家长自身能力，仅指引导行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a008",
+      "target": "s-0d0c702e9190-c001:v2-n002",
+      "kind": "association",
+      "condition": "若将交换视为协商能力的一部分，家长需具备协商能力，但源未明示此前提。",
+      "reason": "源是引导孩子付出交换，候选指出家长无法给孩子自己没有的能力（如协商共赢）；潜在相关但不构成直接前提，因为源未要求家长自身能力，仅指引导行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n002",
+      "target": "s-0d0c702e9190-c001:a024",
+      "kind": "association",
+      "condition": "适用场景：孩子需要情绪连接时，与交换训练场景不同。",
+      "reason": "源关注交换意识，候选关注情绪连接；两者为不同育儿策略，无直接支持或矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a024",
+      "target": "s-0d0c702e9190-c001:v2-n002",
+      "kind": "association",
+      "condition": "适用场景：孩子需要情绪连接时，与交换训练场景不同。",
+      "reason": "源关注交换意识，候选关注情绪连接；两者为不同育儿策略，无直接支持或矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n002",
+      "target": "s-0d0c702e9190-c001:a016",
+      "kind": "complements",
+      "condition": "适用条件：在运用交换方法时，需同时给予足够安全感和爱。",
+      "reason": "源提出用交换引导孩子付出；候选补充说明若单一使用交换会导致孩子功利，但配合安全感和爱则不会，从而为源方法提供了重要边界和配套条件，补足了避免负面后果的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a016",
+      "target": "s-0d0c702e9190-c001:v2-n002",
+      "kind": "complements",
+      "condition": "适用条件：在运用交换方法时，需同时给予足够安全感和爱。",
+      "reason": "源提出用交换引导孩子付出；候选补充说明若单一使用交换会导致孩子功利，但配合安全感和爱则不会，从而为源方法提供了重要边界和配套条件，补足了避免负面后果的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n002",
+      "target": "s-0d0c702e9190-c003:v2-n001",
+      "kind": "association",
+      "condition": "不同能力领域：辩论训练 vs 交换意识。",
+      "reason": "源关于交换帮助，候选关于辩论训练，均属家长培养孩子能力的不同方面，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:v2-n001",
+      "target": "s-0d0c702e9190-c001:v2-n002",
+      "kind": "association",
+      "condition": "不同能力领域：辩论训练 vs 交换意识。",
+      "reason": "源关于交换帮助，候选关于辩论训练，均属家长培养孩子能力的不同方面，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n002",
+      "target": "s-0d0c702e9190-c002:a011",
+      "kind": "association",
+      "condition": "领导力主题与交换主题不同。",
+      "reason": "源讨论交换帮助，候选讨论领导力含义（服侍心态），两者无关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a011",
+      "target": "s-0d0c702e9190-c001:v2-n002",
+      "kind": "association",
+      "condition": "领导力主题与交换主题不同。",
+      "reason": "源讨论交换帮助，候选讨论领导力含义（服侍心态），两者无关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n002",
+      "target": "s-0d0c702e9190-c001:a008",
+      "kind": "complements",
+      "condition": "适用条件：当孩子不愿付出更大代价导致讨价还价不成立时。",
+      "reason": "源引导孩子思考交换，候选说明讨价还价失败时孩子因不愿付代价而感到甘愿，补充了交换方法带来的心理效果（接受结果而不委屈），支持源方法的有效性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a008",
+      "target": "s-0d0c702e9190-c001:v2-n002",
+      "kind": "complements",
+      "condition": "适用条件：当孩子不愿付出更大代价导致讨价还价不成立时。",
+      "reason": "源引导孩子思考交换，候选说明讨价还价失败时孩子因不愿付代价而感到甘愿，补充了交换方法带来的心理效果（接受结果而不委屈），支持源方法的有效性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n002",
+      "target": "s-0d0c702e9190-c001:a020",
+      "kind": "association",
+      "condition": "情绪处理话题与交换训练话题不同。",
+      "reason": "源关于交换，候选关于允许痛苦与同理心的区别，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a020",
+      "target": "s-0d0c702e9190-c001:v2-n002",
+      "kind": "association",
+      "condition": "情绪处理话题与交换训练话题不同。",
+      "reason": "源关于交换，候选关于允许痛苦与同理心的区别，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n002",
+      "target": "s-0d0c702e9190-c001:r005",
+      "kind": "association",
+      "condition": "同上。",
+      "reason": "候选为同内容重复，关系同前。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:r005",
+      "target": "s-0d0c702e9190-c001:v2-n002",
+      "kind": "association",
+      "condition": "同上。",
+      "reason": "候选为同内容重复，关系同前。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:v2-n001",
+      "target": "s-0d0c702e9190-c001:a024",
+      "kind": "association",
+      "condition": "适用场景：孩子需要情绪连接而非道理时，源是评估共情能力。",
+      "reason": "源强调被动社交不等于共情缺失，但关键看能否共情；候选强调情绪连接比道理重要。两者都重视情绪连接，但具体情境不同，无直接互补或矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a024",
+      "target": "s-0d0c702e9190-c002:v2-n001",
+      "kind": "association",
+      "condition": "适用场景：孩子需要情绪连接而非道理时，源是评估共情能力。",
+      "reason": "源强调被动社交不等于共情缺失，但关键看能否共情；候选强调情绪连接比道理重要。两者都重视情绪连接，但具体情境不同，无直接互补或矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:v2-n001",
+      "target": "s-0d0c702e9190-c001:r004",
+      "kind": "association",
+      "condition": "适用条件：处理讨好型人格时，源是评估共情能力。",
+      "reason": "源关注被动社交与共情判断，候选给出处理讨好型人格的步骤（先情绪连接），两者均以情绪连接为先，但目标不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:r004",
+      "target": "s-0d0c702e9190-c002:v2-n001",
+      "kind": "association",
+      "condition": "适用条件：处理讨好型人格时，源是评估共情能力。",
+      "reason": "源关注被动社交与共情判断，候选给出处理讨好型人格的步骤（先情绪连接），两者均以情绪连接为先，但目标不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:v2-n001",
+      "target": "s-0d0c702e9190-c002:a004",
+      "kind": "complements",
+      "condition": "适用条件：在评估孩子共情能力时，需先明确共情定义。",
+      "reason": "源提出被动社交不等于共情缺失，候选定义共情的本质是进入对方世界；候选为源的判断提供了共情的准确定义，补充了评估共情能力的实质标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a004",
+      "target": "s-0d0c702e9190-c002:v2-n001",
+      "kind": "complements",
+      "condition": "适用条件：在评估孩子共情能力时，需先明确共情定义。",
+      "reason": "源提出被动社交不等于共情缺失，候选定义共情的本质是进入对方世界；候选为源的判断提供了共情的准确定义，补充了评估共情能力的实质标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:v2-n001",
+      "target": "s-0d0c702e9190-c003:a009",
+      "kind": "association",
+      "condition": "辩论与共情等技能的区别话题，与源关于共情评估不同。",
+      "reason": "源讨论共情与社交的关系，候选比较辩论、界限、共情与I statement的区别，两者都提及共情但焦点不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a009",
+      "target": "s-0d0c702e9190-c002:v2-n001",
+      "kind": "association",
+      "condition": "辩论与共情等技能的区别话题，与源关于共情评估不同。",
+      "reason": "源讨论共情与社交的关系，候选比较辩论、界限、共情与I statement的区别，两者都提及共情但焦点不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:v2-n001",
+      "target": "s-0d0c702e9190-c001:r001",
+      "kind": "complements",
+      "condition": "适用条件：当判断孩子是否共情时，需区分同情与共情。",
+      "reason": "源指出共情需看孩子能否在他人主动时共情，候选区分了共情与同情，明确共情是走进内心；这帮助避免将同情误认为共情，补充了共情的判断标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:r001",
+      "target": "s-0d0c702e9190-c002:v2-n001",
+      "kind": "complements",
+      "condition": "适用条件：当判断孩子是否共情时，需区分同情与共情。",
+      "reason": "源指出共情需看孩子能否在他人主动时共情，候选区分了共情与同情，明确共情是走进内心；这帮助避免将同情误认为共情，补充了共情的判断标准。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:v2-n001",
+      "target": "s-0d0c702e9190-c003:v2-n001",
+      "kind": "association",
+      "condition": "辩论训练案例与共情评估无直接关联。",
+      "reason": "源关于被动社交与共情，候选关于辩论训练，两者主题不同，无关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:v2-n001",
+      "target": "s-0d0c702e9190-c002:v2-n001",
+      "kind": "association",
+      "condition": "辩论训练案例与共情评估无直接关联。",
+      "reason": "源关于被动社交与共情，候选关于辩论训练，两者主题不同，无关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:v2-n001",
+      "target": "s-0d0c702e9190-c001:a011",
+      "kind": "complements",
+      "condition": "适用条件：在确认共情定义时。",
+      "reason": "源判断共情能力，候选定义共情是走进他人内心，补充了共情的核心含义，支持源的评估前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a011",
+      "target": "s-0d0c702e9190-c002:v2-n001",
+      "kind": "complements",
+      "condition": "适用条件：在确认共情定义时。",
+      "reason": "源判断共情能力，候选定义共情是走进他人内心，补充了共情的核心含义，支持源的评估前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:v2-n001",
+      "target": "s-0d0c702e9190-c001:a012",
+      "kind": "complements",
+      "condition": "适用条件：评估共情时，避免将给予行为误认为共情。",
+      "reason": "源说被动社交不代表共情缺失，候选澄清共情不等于给予物质，而是体会感受；这进一步明确了共情的内涵，帮助区分表面行为与真实共情。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a012",
+      "target": "s-0d0c702e9190-c002:v2-n001",
+      "kind": "complements",
+      "condition": "适用条件：评估共情时，避免将给予行为误认为共情。",
+      "reason": "源说被动社交不代表共情缺失，候选澄清共情不等于给予物质，而是体会感受；这进一步明确了共情的内涵，帮助区分表面行为与真实共情。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:v2-n001",
+      "target": "s-0d0c702e9190-c001:a005",
+      "kind": "association",
+      "condition": "冲突调解话题与共情评估不同。",
+      "reason": "源关于共情与社交，候选关于妈妈介入调解未建立孩子能力，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a005",
+      "target": "s-0d0c702e9190-c002:v2-n001",
+      "kind": "association",
+      "condition": "冲突调解话题与共情评估不同。",
+      "reason": "源关于共情与社交，候选关于妈妈介入调解未建立孩子能力，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:v2-n001",
+      "target": "s-0d0c702e9190-c001:a020",
+      "kind": "association",
+      "condition": "允许痛苦与同理心的区别，与共情评估相关但不直接。",
+      "reason": "源评估孩子在他人主动时能否共情，候选辨析允许孩子沉浸在痛苦中与同理心的区别；两者都涉及共情但角度不同，无直接互补或矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a020",
+      "target": "s-0d0c702e9190-c002:v2-n001",
+      "kind": "association",
+      "condition": "允许痛苦与同理心的区别，与共情评估相关但不直接。",
+      "reason": "源评估孩子在他人主动时能否共情，候选辨析允许孩子沉浸在痛苦中与同理心的区别；两者都涉及共情但角度不同，无直接互补或矛盾。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:v2-n001",
+      "target": "s-0d0c702e9190-c001:r005",
+      "kind": "association",
+      "condition": "同上。",
+      "reason": "候选为同内容重复，关系同前。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:r005",
+      "target": "s-0d0c702e9190-c002:v2-n001",
+      "kind": "association",
+      "condition": "同上。",
+      "reason": "候选为同内容重复，关系同前。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:v2-n001",
+      "target": "s-0d0c702e9190-c001:v2-n002",
+      "kind": "association",
+      "condition": "交换训练与共情评估主题不同。",
+      "reason": "源关于被动社交与共情，候选关于家长要求孩子付出交换帮助，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n002",
+      "target": "s-0d0c702e9190-c002:v2-n001",
+      "kind": "association",
+      "condition": "交换训练与共情评估主题不同。",
+      "reason": "源关于被动社交与共情，候选关于家长要求孩子付出交换帮助，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:v2-n001",
+      "target": "s-0d0c702e9190-c003:a009",
+      "kind": "example_of",
+      "condition": "适用条件：在学员提问五岁七岁孩子如何训练辩论的场景中。",
+      "reason": "源记录了学员提问和讲师回应（提到界限、共情、I statement但都不是辩论，应允许吵架），候选概括了辩论与这些技能的区别以及允许吵架的方法；源是该概念的一个具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a009",
+      "target": "s-0d0c702e9190-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "适用条件：在学员提问五岁七岁孩子如何训练辩论的场景中。",
+      "reason": "源记录了学员提问和讲师回应（提到界限、共情、I statement但都不是辩论，应允许吵架），候选概括了辩论与这些技能的区别以及允许吵架的方法；源是该概念的一个具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:v2-n001",
+      "target": "s-0d0c702e9190-c003:a010",
+      "kind": "complements",
+      "condition": "适用条件：在训练辩论时，需允许不吼叫的吵架。",
+      "reason": "源指出辩论应允许吵架，候选补充了具体操作方式（允许孩子吵架、排除吼叫式吵架、让孩子在吵架中锻炼逻辑和表达），使源的方法具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a010",
+      "target": "s-0d0c702e9190-c003:v2-n001",
+      "kind": "complements",
+      "condition": "适用条件：在训练辩论时，需允许不吼叫的吵架。",
+      "reason": "源指出辩论应允许吵架，候选补充了具体操作方式（允许孩子吵架、排除吼叫式吵架、让孩子在吵架中锻炼逻辑和表达），使源的方法具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:v2-n001",
+      "target": "s-0d0c702e9190-c003:a012",
+      "kind": "complements",
+      "condition": "适用条件：当家长限制孩子吵架时，应认识到其负面后果。",
+      "reason": "源主张允许吵架以训练辩论能力，候选说明家长不允许吵架会导致孩子长大后无法表达自己，为源的方法提供了必要性依据，补充了不这么做的后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a012",
+      "target": "s-0d0c702e9190-c003:v2-n001",
+      "kind": "complements",
+      "condition": "适用条件：当家长限制孩子吵架时，应认识到其负面后果。",
+      "reason": "源主张允许吵架以训练辩论能力，候选说明家长不允许吵架会导致孩子长大后无法表达自己，为源的方法提供了必要性依据，补充了不这么做的后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:v2-n001",
+      "target": "s-0d0c702e9190-c001:a020",
+      "kind": "association",
+      "condition": "情绪处理话题与辩论训练不同。",
+      "reason": "源关于辩论训练，候选关于允许痛苦与同理心的区别，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a020",
+      "target": "s-0d0c702e9190-c003:v2-n001",
+      "kind": "association",
+      "condition": "情绪处理话题与辩论训练不同。",
+      "reason": "源关于辩论训练，候选关于允许痛苦与同理心的区别，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:v2-n001",
+      "target": "s-0d0c702e9190-c001:r005",
+      "kind": "association",
+      "condition": "同上。",
+      "reason": "候选为同内容重复，关系同前。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:r005",
+      "target": "s-0d0c702e9190-c003:v2-n001",
+      "kind": "association",
+      "condition": "同上。",
+      "reason": "候选为同内容重复，关系同前。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:v2-n001",
+      "target": "s-0d0c702e9190-c001:v2-n002",
+      "kind": "association",
+      "condition": "交换训练与辩论训练主题不同。",
+      "reason": "源关于辩论训练，候选关于家长要求孩子付出交换帮助，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n002",
+      "target": "s-0d0c702e9190-c003:v2-n001",
+      "kind": "association",
+      "condition": "交换训练与辩论训练主题不同。",
+      "reason": "源关于辩论训练，候选关于家长要求孩子付出交换帮助，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:v2-n001",
+      "target": "s-0d0c702e9190-c003:a013",
+      "kind": "association",
+      "condition": "候选涉及成年后回顾，不直接适用于5-7岁儿童。",
+      "reason": "源讨论儿童辩论训练，候选是心理力量训练营学员案例（从小不被允许吵架，长大后有理说不出，训练后改善）；虽支持允许吵架的必要性，但为成人经历，不能直接套用于儿童，故为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a013",
+      "target": "s-0d0c702e9190-c003:v2-n001",
+      "kind": "association",
+      "condition": "候选涉及成年后回顾，不直接适用于5-7岁儿童。",
+      "reason": "源讨论儿童辩论训练，候选是心理力量训练营学员案例（从小不被允许吵架，长大后有理说不出，训练后改善）；虽支持允许吵架的必要性，但为成人经历，不能直接套用于儿童，故为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:v2-n001",
+      "target": "s-0d0c702e9190-c002:v2-n001",
+      "kind": "association",
+      "condition": "共情评估与辩论训练主题不同。",
+      "reason": "源关于辩论，候选关于被动社交与共情能力，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:v2-n001",
+      "target": "s-0d0c702e9190-c003:v2-n001",
+      "kind": "association",
+      "condition": "共情评估与辩论训练主题不同。",
+      "reason": "源关于辩论，候选关于被动社交与共情能力，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:v2-n001",
+      "target": "s-0d0c702e9190-c003:a011",
+      "kind": "association",
+      "condition": "候选为讲师个人经历，不直接适用于儿童。",
+      "reason": "源讨论儿童辩论训练方法，候选是讲师因与母亲吵架而锻炼逻辑的个人经历；可作为背景参考，但不能直接作为儿童训练证据，故为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:a011",
+      "target": "s-0d0c702e9190-c003:v2-n001",
+      "kind": "association",
+      "condition": "候选为讲师个人经历，不直接适用于儿童。",
+      "reason": "源讨论儿童辩论训练方法，候选是讲师因与母亲吵架而锻炼逻辑的个人经历；可作为背景参考，但不能直接作为儿童训练证据，故为不确定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:v2-n001",
+      "target": "s-0d0c702e9190-c001:v2-n001",
+      "kind": "association",
+      "condition": "冲突解决方法与辩论训练不同。",
+      "reason": "源关于辩论训练，候选关于孩子可有三到五种解决方法，两者均涉及能力培养但方向不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:v2-n001",
+      "target": "s-0d0c702e9190-c003:v2-n001",
+      "kind": "association",
+      "condition": "冲突解决方法与辩论训练不同。",
+      "reason": "源关于辩论训练，候选关于孩子可有三到五种解决方法，两者均涉及能力培养但方向不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:v2-n001",
+      "target": "s-0d0c702e9190-c001:a012",
+      "kind": "association",
+      "condition": "共情与辩论主题不同。",
+      "reason": "源关于辩论，候选关于共情不等于给予，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c001:a012",
+      "target": "s-0d0c702e9190-c003:v2-n001",
+      "kind": "association",
+      "condition": "共情与辩论主题不同。",
+      "reason": "源关于辩论，候选关于共情不等于给予，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c003:v2-n001",
+      "target": "s-0d0c702e9190-c002:a013",
+      "kind": "association",
+      "condition": "提问引导沟通与辩论训练不同。",
+      "reason": "源关于辩论训练，候选关于通过提问引导孩子沟通，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-0d0c702e9190-c002:a013",
+      "target": "s-0d0c702e9190-c003:v2-n001",
+      "kind": "association",
+      "condition": "提问引导沟通与辩论训练不同。",
+      "reason": "源关于辩论训练，候选关于通过提问引导孩子沟通，两者无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "在讨价还价和求同存异中需要共情，理解对方需求",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a001",
+        "s-0d0c702e9190-c001:a006",
+        "s-0d0c702e9190-c001:a011",
+        "s-0d0c702e9190-c001:a021",
+        "s-0d0c702e9190-c001:a022"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我认知",
+      "when": "讨好型人格影响共赢能力，需要处理深层自我认知",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a017",
+        "s-0d0c702e9190-c001:a019",
+        "s-0d0c702e9190-c001:a025",
+        "s-0d0c702e9190-c002:r003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "内在能力",
+      "to": "界限",
+      "when": "父母缺乏讨价还价能力时无法教给孩子界限",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a010",
+        "s-0d0c702e9190-c003:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "内在能力",
+      "to": "自我修养",
+      "when": "家长需要学习和操练协商共赢能力",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我认知",
+      "when": "处理讨好型人格问题时需要先情绪连接再处理深层问题",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a024",
+        "s-0d0c702e9190-c001:r004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a020",
+        "s-0d0c702e9190-c001:r005"
+      ],
+      "reason": "内容完全相同，都是关于允许孩子沉浸在痛苦中与同理心的区别"
+    },
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a025",
+        "s-0d0c702e9190-c001:r003"
+      ],
+      "reason": "内容几乎相同，都是关于讨好型人格的深层心理需求"
+    },
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a003",
+        "s-0d0c702e9190-c002:xe001"
+      ],
+      "reason": "内容完全相同，都是关于妥协与自我丧失的关系"
+    },
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a004"
+      ],
+      "reason": "内容完全相同，都是关于共情的非言语本质"
+    },
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a012"
+      ],
+      "reason": "内容完全相同，都是关于夫妻吵架中保持沟通的方法"
+    },
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a013",
+        "s-0d0c702e9190-c002:r002"
+      ],
+      "reason": "内容完全相同，都是关于通过提问引导孩子沟通"
+    },
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c002:r003"
+      ],
+      "reason": "内容完全相同，都是关于讨好型人与共赢的区别"
+    },
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a009"
+      ],
+      "reason": "内容完全相同，都是关于辩论与界限、共情、I statement的区别"
+    },
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a010"
+      ],
+      "reason": "内容完全相同，都是关于训练孩子辩论的方法"
+    },
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a011"
+      ],
+      "reason": "内容完全相同，都是关于讲师个人辩论经历"
+    },
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a012"
+      ],
+      "reason": "内容完全相同，都是关于家长阻挡孩子能力发展"
+    },
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a013"
+      ],
+      "reason": "内容完全相同，都是关于心理力量训练营学员案例"
+    },
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a014"
+      ],
+      "reason": "内容完全相同，都是关于讲师辩论赛经历"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a003",
+        "s-0d0c702e9190-c002:a003"
+      ],
+      "description": "k00003认为孩子需要受委屈是正常观念，而k00034认为妥协是否导致自我丧失取决于是否心甘情愿，若被逼迫则失去自我。两者在“受委屈”与“自我丧失”的关系上存在潜在矛盾，需要明确受委屈是否等同于被逼迫的妥协。",
+      "needed_evidence": "需要明确“受委屈”的具体情境和孩子的心理感受，以及如何区分正常委屈与被迫妥协。"
+    },
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a016",
+        "s-0d0c702e9190-c001:a003"
+      ],
+      "description": "k00016强调给予足够安全感和爱，孩子不会因交换训练而功利；k00003则主张灌输孩子需要受委屈的观念。两者在育儿理念上可能冲突：一个强调安全感，一个强调接受委屈。",
+      "needed_evidence": "需要研究安全感和接受委屈如何平衡，以及不同情境下的适用性。"
+    },
+    {
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a007",
+        "s-0d0c702e9190-c002:a008"
+      ],
+      "description": "k00038案例中母亲引导孩子找优点，孩子回答带有贬低意味（“有了他的存在，我更觉得自己好了”），而k00039建议鼓励孩子成为正面影响力。两者在引导方式上可能存在张力：前者可能强化比较，后者强调帮助。",
+      "needed_evidence": "需要更具体的引导方法，避免孩子形成贬低他人的心态。"
+    }
+  ],
+  "path": [
+    {
+      "name": "讨价还价与共赢",
+      "steps": [
+        {
+          "action": "识别冲突，明确双方需求",
+          "atom_ids": [
+            "s-0d0c702e9190-c001:a001",
+            "s-0d0c702e9190-c001:a006"
+          ],
+          "condition": "双方有共同目标或可交换的资源"
+        },
+        {
+          "action": "提出交换提议，一方提出，另一方拒绝并说明理由",
+          "atom_ids": [
+            "s-0d0c702e9190-c001:a007",
+            "s-0d0c702e9190-c003:a005"
+          ],
+          "condition": "需要家长引导孩子思考"
+        },
+        {
+          "action": "拒绝方提出新提议，重复协商直到双方满意",
+          "atom_ids": [
+            "s-0d0c702e9190-c003:a005",
+            "s-0d0c702e9190-c003:a006"
+          ],
+          "condition": "双方愿意协商"
+        },
+        {
+          "action": "达成共赢，双方都心甘情愿接受结果",
+          "atom_ids": [
+            "s-0d0c702e9190-c003:a001",
+            "s-0d0c702e9190-c003:a004"
+          ],
+          "condition": "双方都获得想要的东西"
+        }
+      ]
+    },
+    {
+      "name": "求同存异",
+      "steps": [
+        {
+          "action": "找到共同点",
+          "atom_ids": [
+            "s-0d0c702e9190-c001:a022",
+            "s-0d0c702e9190-c001:r006",
+            "s-0d0c702e9190-c002:a001"
+          ],
+          "condition": "冲突双方有共同目标"
+        },
+        {
+          "action": "区分原则性问题与非原则性问题",
+          "atom_ids": [
+            "s-0d0c702e9190-c001:a023",
+            "s-0d0c702e9190-c002:a002"
+          ],
+          "condition": "存在可妥协的非原则性差异"
+        },
+        {
+          "action": "对非原则性问题允许存异，原则性问题坚持",
+          "atom_ids": [
+            "s-0d0c702e9190-c001:a021",
+            "s-0d0c702e9190-c002:a001"
+          ],
+          "condition": "原则性问题不能妥协"
+        }
+      ]
+    },
+    {
+      "name": "处理讨好型人格问题",
+      "steps": [
+        {
+          "action": "进行情绪连接",
+          "atom_ids": [
+            "s-0d0c702e9190-c001:a024",
+            "s-0d0c702e9190-c001:r004"
+          ],
+          "condition": "孩子有情绪困扰"
+        },
+        {
+          "action": "询问孩子为什么会有这样的感觉",
+          "atom_ids": [
+            "s-0d0c702e9190-c001:r004"
+          ],
+          "condition": "孩子愿意表达"
+        },
+        {
+          "action": "处理更深层的问题（如错误愧疚感、自我认知）",
+          "atom_ids": [
+            "s-0d0c702e9190-c001:a025",
+            "s-0d0c702e9190-c001:r003",
+            "s-0d0c702e9190-c001:r004"
+          ],
+          "condition": "识别出深层心理需求"
+        }
+      ]
+    },
+    {
+      "name": "帮助被孤立同学",
+      "steps": [
+        {
+          "action": "不孤立对方",
+          "atom_ids": [
+            "s-0d0c702e9190-c002:a010"
+          ],
+          "condition": "孩子有勇气"
+        },
+        {
+          "action": "主动接近并指出问题",
+          "atom_ids": [
+            "s-0d0c702e9190-c002:a010"
+          ],
+          "condition": "孩子有领导力"
+        },
+        {
+          "action": "设立界限并给出选择",
+          "atom_ids": [
+            "s-0d0c702e9190-c002:a010"
+          ],
+          "condition": "对方愿意改变"
+        },
+        {
+          "action": "根据对方反应决定是否继续帮助",
+          "atom_ids": [
+            "s-0d0c702e9190-c002:a010"
+          ],
+          "condition": "对方拒绝改变则停止帮助"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "6db40a3014ded2643cfb6aafcf9e9d0a729fb90713c548d3b7eb91ef44afffca",
+  "point_units": [
+    {
+      "id": "s-0d0c702e9190-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a002"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a003"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a004"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u005",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a005"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a006"
+      ],
+      "blocks": [
+        "b00008",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a007"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a010"
+      ],
+      "blocks": [
+        "b00010",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a008"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u011",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a009"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a011"
+      ],
+      "blocks": [
+        "b00016",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:r001"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:r002"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a013"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a012"
+      ],
+      "blocks": [
+        "b00021",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a014"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a018"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a015"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a016"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u022",
+      "kind": "case",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a017"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028",
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a024"
+      ],
+      "blocks": [
+        "b00030",
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a025"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u025",
+      "kind": "method",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:r004"
+      ],
+      "blocks": [
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a019"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a020"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a023"
+      ],
+      "blocks": [
+        "b00037",
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a021"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c001:u030",
+      "kind": "method",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a022"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a023",
+        "s-0d0c702e9190-c001:r006",
+        "s-0d0c702e9190-c002:a001",
+        "s-0d0c702e9190-c002:a002"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a003",
+        "s-0d0c702e9190-c002:xe001"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045",
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a004"
+      ],
+      "blocks": [
+        "b00046",
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a005",
+        "s-0d0c702e9190-c002:r001"
+      ],
+      "blocks": [
+        "b00047",
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a006"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a007"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a008"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a009"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055",
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a010"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a011"
+      ],
+      "blocks": [
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a012"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a012"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064",
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a013",
+        "s-0d0c702e9190-c002:r002"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069",
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:r003"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a015",
+        "s-0d0c702e9190-c002:r004"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077",
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:a017",
+        "s-0d0c702e9190-c002:r005"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082",
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c002:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:a023"
+      ],
+      "blocks": [
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u001",
+      "kind": "case",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a003"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a001"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a002"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u004",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a004",
+        "s-0d0c702e9190-c003:a007"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a005"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a006"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a007"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a008"
+      ],
+      "blocks": [
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u010",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a009"
+      ],
+      "blocks": [
+        "b00091",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a010"
+      ],
+      "blocks": [
+        "b00093",
+        "b00094",
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a011"
+      ],
+      "blocks": [
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u013",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a012"
+      ],
+      "blocks": [
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a013"
+      ],
+      "blocks": [
+        "b00095",
+        "b00096"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a014"
+      ],
+      "blocks": [
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-0d0c702e9190-c003:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:a004"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "孩子可有三到五种解决方法",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0d0c702e9190",
+          "blocks": [
+            "b00009",
+            "b00010"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "家长要求孩子付出交换帮助",
+      "atom_ids": [
+        "s-0d0c702e9190-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0d0c702e9190",
+          "blocks": [
+            "b00023"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "condition"
+    },
+    {
+      "title": "孩子被动社交与共情能力的关系",
+      "atom_ids": [
+        "s-0d0c702e9190-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0d0c702e9190",
+          "blocks": [
+            "b00072",
+            "b00073",
+            "b00074"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "学员提问：五岁七岁孩子如何训练辩论",
+      "atom_ids": [
+        "s-0d0c702e9190-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-0d0c702e9190",
+          "blocks": [
+            "b00090",
+            "b00091",
+            "b00093"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "question"
+    }
+  ]
+}

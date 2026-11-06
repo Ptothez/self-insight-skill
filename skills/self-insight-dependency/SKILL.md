@@ -41,6 +41,8 @@ description: 「孩子上瘾（网络/游戏/色情/毒品）怎么预防与破�
 
 ## 知识底座
 
+下列原有知识与案例全部保留。另按 `../self-insight/references/full-knowledge/README.md` 检索全文库及课内关系，不能只用旧原子库；本模块索引为 `../self-insight/references/full-knowledge/module-index/依赖与失控.json`。先核对记录条件与来源限制，跨模块仍交主入口编排，不一次加载全库。
+
 完整读取并按需引用：
 
 - `references/knowledge/理念框架.md`——定义与判断、核心逻辑、四类分型、家庭因果、预防三层面

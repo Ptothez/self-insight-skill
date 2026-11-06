@@ -1,0 +1,2496 @@
+{
+  "concepts": [
+    {
+      "name": "提问行为与理解程度的关系",
+      "definition": "越不容易提问的学员，越可能没听懂；越是听明白了的，越好提问。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a001"
+      ]
+    },
+    {
+      "name": "提升作业思考程度的方法",
+      "definition": "讲师通过设计作业问题来让学员的思考越来越多，倾向于思考。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a002"
+      ]
+    },
+    {
+      "name": "21个月男宝睡眠训练中下床的处理",
+      "definition": "案例：21个月男宝，睡眠训练中，如果妈妈离开房间，宝宝有时会自己下床。妈妈问应该用什么自然后果处理。讲师回应：不能用手把宝宝固定在床上，那样会变成陪睡。宝宝自己下床是21个月大很正常的事情。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a003"
+      ]
+    },
+    {
+      "name": "通过监控观察并引导宝宝回床",
+      "definition": "对于宝宝自己下床，可以在监控里观察。如果宝宝可以自己上床，可以通过监控告诉宝宝回到自己的床上去。如果宝宝肯听，给他一些时间让他回去。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a004"
+      ]
+    },
+    {
+      "name": "孩子需要适应自己上下床的感觉",
+      "definition": "孩子需要自己适应可以自己下床、自己上床的感觉，这是睡眠中很重要的一个感觉。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a005"
+      ]
+    },
+    {
+      "name": "自然后果使用的谨慎性",
+      "definition": "使用自然后果时要小心，需要考虑是否需要给后果。如果宝宝下床后开始玩起来了，就需要放一个界限。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a006"
+      ]
+    },
+    {
+      "name": "通过拿走玩具设立界限",
+      "definition": "如果宝宝下床后开始玩，可以告诉他：如果你玩什么，我们就会拿走什么。如果他要玩，就只能把房间搬空，这就是后果。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a007"
+      ]
+    },
+    {
+      "name": "孩子玩监控并模仿说睡觉",
+      "definition": "案例：学员的孩子长期从监控里听到妈妈的声音，现在孩子玩监控时，会按着说“睡觉”，因为妈妈经常在监控里叫睡觉。孩子在自己的房间看到妈妈时，会拿着监控说“睡一觉”，很可爱。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a008"
+      ]
+    },
+    {
+      "name": "宝宝半夜醒来摸妈妈脸的行为分析",
+      "definition": "案例：宝宝和妈妈在一个房间分床睡，有时半夜醒来溜达到妈妈床边，摸摸妈妈的脸。妈妈会把他放回小床继续睡。妈妈问这是否说明宝宝没有安全感。讲师回应：不是的，这说明宝宝很好奇。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a009"
+      ]
+    },
+    {
+      "name": "孩子半夜醒来的正常性判断",
+      "definition": "正常情况，孩子半夜不应该会醒过来。如果孩子半夜会醒，不属于正常现象。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a010"
+      ]
+    },
+    {
+      "name": "通过提前睡觉时间改善半夜醒来",
+      "definition": "如果孩子半夜会醒，建议稍微提前孩子睡觉的时间。如果孩子睡得晚，可能半夜比较容易醒；如果睡得早，睡眠充足，半夜应该不会醒。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a011"
+      ]
+    },
+    {
+      "name": "孩子共性与个体差异的辩证关系",
+      "definition": "每个孩子都不同，但孩子有共性。作为人，人是有共性的：孩子伤心就哭，高兴就笑，饿了要吃饭，累了要睡觉。这些共性不因家庭背景而改变。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a012"
+      ]
+    },
+    {
+      "name": "孩子不吃饭和睡不着的共性解释",
+      "definition": "孩子饿了就要吃饭，所以如果孩子不吃饭，他就是不够饿。孩子累了就要睡觉，所以如果孩子不够累，他就会睡不着；如果人累过了，也会睡不着。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a013"
+      ]
+    },
+    {
+      "name": "科学基于人的共性",
+      "definition": "生理医学和心理科学都是从人的共性中找出来的。例如，每个孩子发烧感冒症状不一样，但都会发烧感冒。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a014"
+      ]
+    },
+    {
+      "name": "以“每个孩子不一样”为借口逃避科学育儿",
+      "definition": "讲师警告：不要被市面上“每一个孩子不一样”这句话所影响和误导，觉得不需要用科学的方法应对。很多时候说每个孩子不一样，其实是给自己偷懒，因为这样就不需要用艰难但科学的方法教孩子。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a015"
+      ]
+    },
+    {
+      "name": "两个孩子睡眠训练结果对比",
+      "definition": "案例：讲师认识一个人，其孩子与讲师孩子相差17个小时出生。讲师通过科学方法把孩子训练成睡霸；对方孩子直到今天睡觉都睡不好。每次讲师讲科学方法，对方都说“孩子跟孩子之间就是不同，你们家孩子就是天使，我们家孩子就是个睡渣”。讲师从不反驳，因为无法叫醒装睡的人。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a016"
+      ]
+    },
+    {
+      "name": "相信医学与相信孩子共性的关联",
+      "definition": "只要相信医学，孩子生病了会带他去医院，就说明相信不管孩子多么不同，基本上有人的共性。因此鼓励父母学习科学的儿童心理学和育儿，不要说“我的孩子不一样”。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a017"
+      ]
+    },
+    {
+      "name": "孩子性格不同但需求相同",
+      "definition": "孩子的性格不一样，但很多需求是一样的。孩子的需求都是一样的。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a018"
+      ]
+    },
+    {
+      "name": "安全感与陪睡的关系",
+      "definition": "孩子不会因为父母没有陪他睡觉而失去安全感。如果孩子因为父母没有陪他睡觉就失去安全感，说明他本来就没有安全感。如果一个孩子的安全感需要陪睡才能建立，那是不合理的。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a019"
+      ]
+    },
+    {
+      "name": "感到安全与安全感的区别",
+      "definition": "孩子感到安全和有安全感是两个完全不同的东西。例如，孩子晚上看了动画片觉得害怕，感觉不安全，但这和他有没有安全感没有关系。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a020"
+      ]
+    },
+    {
+      "name": "6岁儿子用威胁表达不满",
+      "definition": "案例：学员的6岁儿子，当妈妈拒绝他的要求时，他会生气，说“我不要妈妈了”“我走了”来威胁。有时着急带他回家，他倔着不走。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a021"
+      ]
+    },
+    {
+      "name": "对6岁孩子威胁行为的处理",
+      "definition": "对于6岁孩子威胁，非常容易：告诉他后果，然后走开。例如，如果孩子不走，就告诉他“妈妈要走了，我希望你可以跟上来”，然后往前走。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a022"
+      ]
+    },
+    {
+      "name": "讲师丈夫与孩子刷牙的无效互动",
+      "definition": "案例：讲师丈夫叫孩子刷牙，孩子不理，在冰箱上画画。丈夫数到三，孩子还是不来，丈夫很生气但做无用功。讲师直接关掉厨房灯，说“我们上楼了”，然后走开。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a023"
+      ]
+    },
+    {
+      "name": "用行动设立界限而非反复说教",
+      "definition": "当孩子不配合时，不要反复说教或数数，而是直接采取行动，如关灯、走开，并告知孩子自己的行动。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a024"
+      ]
+    },
+    {
+      "name": "后果必须是孩子真正在意的",
+      "definition": "父母给的后果必须是孩子真正认为是后果的后果。如果孩子不认为是后果，那么后果无效。例如，把孩子关房间，孩子可能很开心，因为可以不用听妈妈念。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a025"
+      ]
+    },
+    {
+      "name": "早上出门孩子拖延的处理",
+      "definition": "案例：早上出门，孩子装睡觉得好玩。以前妈妈说“时间到了，你再不准备好，你就要一个人呆在家里，没有午饭吃”，但孩子无所谓。讲师建议：后果应该是时间到了，孩子需要在幼儿园待满八小时，如果晚去，就要晚点待在幼儿园。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a026"
+      ]
+    },
+    {
+      "name": "用补时间作为迟到后果",
+      "definition": "如果孩子早上拖延导致迟到，可以告诉孩子：今天需要在幼儿园多待相应时间。例如，最后五分钟准备，如果五分钟过后还没准备好，到了幼儿园要多待20分钟。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a027"
+      ]
+    },
+    {
+      "name": "找到孩子真正在意的后果",
+      "definition": "要找到对孩子来说是后果的后果。例如，如果孩子晚接，可能需要罚钱，就让孩子待在幼儿园，小伙伴都走了，他一个人孤零零的。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a028"
+      ]
+    },
+    {
+      "name": "讲师用行动设立刷牙界限",
+      "definition": "案例：讲师的孩子在玩，讲师直接走上楼，关掉厨房灯，一边走一边告诉孩子：如果我走到刷牙的地方，你们还没有到我跟前，我就不要帮你们刷牙了。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a029"
+      ]
+    },
+    {
+      "name": "孩子不配合是因为父母更着急",
+      "definition": "孩子不配合（如不刷牙）是因为孩子知道父母比他更着急。父母越着急，孩子越无所谓。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a030"
+      ]
+    },
+    {
+      "name": "父母替孩子过生活的后果",
+      "definition": "如果父母从小替孩子过生活（如守着做作业、想方设法让孩子刷牙），孩子就会认为这些是父母的事，将来可以跟父母僵持。父母要把孩子的生活还给孩子。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a031"
+      ]
+    },
+    {
+      "name": "中国70%孩子的生活被父母包办",
+      "definition": "讲师声称：中国起码有70%的孩子，他们的日子是父母在帮他们过的，例如忘记带作业、吃饭要特定方式、睡觉要爸妈陪。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a032"
+      ]
+    },
+    {
+      "name": "用真实后果教育孩子刷牙",
+      "definition": "如果孩子不刷牙，可以带他去看牙齿烂掉的图片，或带到牙医那里看医生怎么拔牙，然后告诉他：不刷牙，一个月后就是这个下场。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a033"
+      ]
+    },
+    {
+      "name": "父母不要替孩子过生活",
+      "definition": "不要替孩子过他的生活，如果替他过了，以后就得求着他过你想他过的生活。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a034"
+      ]
+    },
+    {
+      "name": "17岁儿子拍女生屁股事件",
+      "definition": "案例：学员17岁的儿子在学校饭堂打饭时，无意识地拍了女生的屁股。事后没有及时道歉，女生来找时道歉敷衍。后来家长找来，在班主任带领下写了检讨并道歉。老师反映孩子处理过程中很退缩、被动，检讨是在反复催促下写的。后来孩子主动跟妈妈说了此事。妈妈问他为什么这样做，他说不知道。但妈妈认为他做前做后都知道不对，所以是故意拍的，但不知道为什么要故意拍。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a035"
+      ]
+    },
+    {
+      "name": "主动告知与被动追问的区别",
+      "definition": "如果孩子主动把事情告诉父母，说明是主动告知；如果是父母追着问出来的，就不是主动告知。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a036"
+      ]
+    },
+    {
+      "name": "孩子不愿谈论拍屁股事件",
+      "definition": "案例：孩子谈这件事时表现得很烦躁，不愿意谈。妈妈没有指责他，只想讨论以后遇到不好的事情怎样紧急处理，但孩子很不愿意谈。妈妈问为什么谈这个事那么痛苦，是否碰触了内心深处不愿碰触的东西。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a037"
+      ]
+    },
+    {
+      "name": "内疚与羞耻的区别",
+      "definition": "内疚会让人主动去修复；羞耻会让人隔离起来，主动跟人隔离。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a038"
+      ]
+    },
+    {
+      "name": "孩子拍屁股可能的原因推测",
+      "definition": "讲师推测：孩子大概率有色情上瘾或色情方面的问题。如果他是无意识但有意去打女生屁股，可能与此有关。色情上瘾对孩子大脑和将来婚姻不好。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a039"
+      ]
+    },
+    {
+      "name": "通过开诚布公谈论消除羞耻",
+      "definition": "孩子表现明显有羞耻，需要把羞耻打掉。打掉羞耻最直接快速的方法是跟她谈论让她感到羞耻的事情。例如，如果她对女生身体好奇感到羞耻，觉得脏，以至于忍不住去打屁股，需要开诚布公地谈。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a040"
+      ]
+    },
+    {
+      "name": "17岁孩子洗澡泡泡粘墙的处理",
+      "definition": "案例：17岁孩子自己洗澡，泡泡粘到墙壁上，妈妈提醒他冲，他很不耐烦。妈妈告诉他：以后出现这种情况，我不提醒你冲，我帮你冲洗干净，你付五块钱给我，直接从饭钱里扣。孩子表现得很不想搭理。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a041"
+      ]
+    },
+    {
+      "name": "用经济后果处理青少年家务问题",
+      "definition": "对于青少年不配合家务（如不冲掉泡泡），可以设立经济后果：父母帮忙处理，但孩子需要付费。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a042"
+      ]
+    },
+    {
+      "name": "孩子年龄不同导致父母角色不同",
+      "definition": "课程主题强调：孩子年龄不同，父母应扮演不同角色。例如，17岁的孩子和7岁的孩子不一样，父母应对方式也不同。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:r001"
+      ]
+    },
+    {
+      "name": "孩子越界后情绪处理的原则",
+      "definition": "当孩子越界被给后果后，如果孩子表现焦虑易怒，应让孩子自己处理自己的情绪，但父母可以解释为什么这样做。父母用对的方法立界限后，孩子的情绪反应与父母无关。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:r002"
+      ]
+    },
+    {
+      "name": "两岁七个月男孩模仿比较性语言",
+      "definition": "案例：小M，两岁七个月男孩，听老师课后，经常自己说一些比较性语言，如“你看别的孩子玩的多好，做的多好，我也一起来做，看看爸爸做到了，我们也像爸爸一样”。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:r003"
+      ]
+    },
+    {
+      "name": "17岁孩子越界后情绪处理原则",
+      "definition": "当17岁孩子越界被给后果后表现出焦虑易怒时，应让孩子自己处理自己的情绪，但父母需向孩子解释清楚为什么这样做，让孩子明白他需要为自己的行为负责。父母用对的方法立了对的界限后，孩子的焦躁烦躁与父母无关，是孩子需要处理的事情。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a001"
+      ]
+    },
+    {
+      "name": "比较孩子的危害",
+      "definition": "将孩子与兄弟姐妹或他人比较，如同把刀剑放在他们手中让他们自相残杀。这会导致兄弟间一个读书好另一个读书不好，因为比不过的孩子会在其他方面寻求优势，这种比较非常有毒。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a002"
+      ]
+    },
+    {
+      "name": "情绪连接的方法：单方面表达陪伴",
+      "definition": "当孩子哭闹说让妈妈走但内心并不想妈妈走时，可以单方面做情绪连接，例如说“妈妈不走，妈妈陪着你，妈妈爱你”。情绪连接不局限于坐下来询问感受，有很多种方法，可以在任何场景进行。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a003"
+      ]
+    },
+    {
+      "name": "0-1.5岁焦虑问题的可弥补性",
+      "definition": "0-1.5岁期间经历不安全（如大人吵架打架）导致的焦虑问题，在1.5岁以后用大量爱和高质量陪伴可以弥补回来，但会比较难。焦虑问题不会永久沉入，但弥补过程更困难。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a004"
+      ]
+    },
+    {
+      "name": "奖励与贿赂的区别",
+      "definition": "奖励是孩子完成应做之事后给予的正面反馈，如吃完营养餐后奖励零食；贿赂是让孩子做他不想做的事，预先或事后给予好处作为交换，如“如果你按时上学，下午给你买甜品”或“你吃了这个，必须去学游泳”。用甜品奖励背古诗也属于贿赂。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a005"
+      ]
+    },
+    {
+      "name": "每个孩子都有特长",
+      "definition": "每个孩子都有特长，只是有些特长不被家长认为是特长。例如爬门爬高、语言表达丰富、织毛衣等都可以是特长。家长不应只认可跑得快、读书好、数学好、会唱歌等传统特长。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a006"
+      ]
+    },
+    {
+      "name": "朋友女儿织毛衣的特长案例",
+      "definition": "讲师的朋友有三个孩子，两个儿子和一个女儿，全部进入世界名校。朋友最骄傲的不是女儿考进名校或拿全额奖学金，而是女儿很会织毛衣，能织出3D图形，给家人织毛衣。这被用作例子说明特长不一定是传统学术或才艺。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a007"
+      ]
+    },
+    {
+      "name": "面对孩子犯错的态度",
+      "definition": "面对孩子犯错，家长应保持轻松自然的态度，告诉孩子犯错很正常。可以和孩子讨论下次类似事情该怎么做，或者立刻给孩子一个犯错弥补的机会。避免说教和口头禅“我早就跟你说过”。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a008"
+      ]
+    },
+    {
+      "name": "威胁与立界限的区别",
+      "definition": "立界限是给予后果，但并非所有给予后果都是立界限，有些后果是威胁。威胁的例子包括“你若不做，我要打你”或“下次我就不买了”（如果做不到）。立界限的后果是真实会执行的，如“玩具不收拾，下次我就扫掉”。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a009"
+      ]
+    },
+    {
+      "name": "只聊教育话题的后果",
+      "definition": "如果家长只和孩子聊具有教育意义的话题，不聊轻松话题，孩子长大后就不想再和家长聊天，会觉得家长烦，甚至进房间听到家长讲话就翻白眼。这会导致亲子关系疏远。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a010"
+      ]
+    },
+    {
+      "name": "学会享受生活的方法",
+      "definition": "家长要学会享受生活，不需要复杂，可以给自己买冰淇淋、蛋糕，在非生日时买小蛋糕和伴侣一起用勺子挖着吃，感到幸福。也可以在做家务时把它变成好玩的事情，如漆油漆很治愈。对世界保持好奇，如坐车时看到路边花或店就下车看看，最多补张票。这样孩子才喜欢和家长在一起，家长也能和孩子聊轻松话题。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a011"
+      ]
+    },
+    {
+      "name": "讲师享受生活的个人案例",
+      "definition": "讲师喜欢在非生日时给自己买精美小蛋糕，和丈夫趁孩子不在家时直接用勺子挖着吃，感到幸福。讲师还分享粉丝来访时一起漆油漆，粉丝感叹讲师很会玩，把家务变成好玩的事情，因此状态放松、精力好。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a012"
+      ]
+    },
+    {
+      "name": "让孩子自己做决定的年龄范围",
+      "definition": "让孩子自己做决定的年龄范围是4-6岁，这个年龄段孩子处于主动或内疚阶段，需要给孩子机会自己判断什么事情可以做，什么事情不可以做。但有一些前提：有的情况孩子绝对不可以做，有的情况可以让孩子自己判断。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a013"
+      ]
+    },
+    {
+      "name": "厨房火炉安全界限的传递",
+      "definition": "当4-6岁孩子在做饭时想摸锅，不应让孩子自己判断，因为可能被火烧到。家长应传递信息：不允许摸炉子上面的任何东西，不允许靠近炉子区域。即使小火熬汤也不让孩子摸锅，因为要养成习惯，让孩子知道有些区域绝对不能靠近。如果孩子靠近，家长应身体挡过去说走开，或立刻关火。传递的信息比告诉孩子什么更重要。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a014"
+      ]
+    },
+    {
+      "name": "煮完饭后灶台判断的允许",
+      "definition": "刚煮完饭，火已关掉，孩子想摸灶台时，可以让孩子自己判断要不要摸，因为灶台可能还烫，但风险可控。家长可以告诉孩子灶台很烫会烫伤手，让孩子自己判断。但炉子区域在做饭时不允许靠近，火关后可以靠近，如拿饼干。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a015"
+      ]
+    },
+    {
+      "name": "孩子说让妈妈走时的情绪连接方法",
+      "definition": "当孩子哭闹说让妈妈走但内心并不想妈妈走时，可以单方面做情绪连接，例如说“妈妈不走，妈妈陪着你，妈妈爱你”。情绪连接不局限于坐下来询问感受，有很多种方法，可以在任何场景进行。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a003"
+      ]
+    },
+    {
+      "name": "家长学会享受生活以促进亲子关系",
+      "definition": "家长要学会享受生活，不需要复杂，可以给自己买冰淇淋、蛋糕，在非生日时买小蛋糕和伴侣一起用勺子挖着吃，感到幸福。也可以在做家务时把它变成好玩的事情，如漆油漆很治愈。对世界保持好奇，如坐车时看到路边花或店就下车看看，最多补张票。这样孩子才喜欢和家长在一起，家长也能和孩子聊轻松话题。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a011"
+      ]
+    },
+    {
+      "name": "讲师享受生活的个人案例",
+      "definition": "讲师喜欢在非生日时给自己买精美小蛋糕，和丈夫趁孩子不在家时直接用勺子挖着吃，感到幸福。讲师还分享粉丝来访时一起漆油漆，粉丝感叹讲师很会玩，把家务变成好玩的事情，因此状态放松、精力好。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a012"
+      ]
+    },
+    {
+      "name": "煮完饭后灶台判断的允许",
+      "definition": "刚煮完饭，火已关掉，孩子想摸灶台时，可以让孩子自己判断要不要摸，因为灶台可能还烫，但风险可控。家长可以告诉孩子灶台很烫会烫伤手，让孩子自己判断。但炉子区域在做饭时不允许靠近，火关后可以靠近，如拿饼干。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a015"
+      ]
+    },
+    {
+      "name": "炉子区域与灶台区域的安全规则区分",
+      "definition": "在做饭时，炉子区域（火开着）不允许孩子靠近；但火关掉后，灶台区域可以让孩子靠近，例如拿取放在炉子上的饼干。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a001"
+      ]
+    },
+    {
+      "name": "通过身体阻挡和语言传递安全信息",
+      "definition": "当孩子靠近正在做饭的炉子时，用身体挡过去并说“走开，现在我在做饭”，如果孩子有紧急情况则立刻关火，以此传递“火炉开着时不能靠近”的信息。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a002"
+      ]
+    },
+    {
+      "name": "玻璃杯与塑料杯扔地上的安全判断标准",
+      "definition": "判断是否允许孩子扔杯子，不在于杯子是否要用的或里面是否装东西，而在于安全系数。玻璃杯扔地上可能飞溅伤人，不允许；塑料杯（即使装奶）扔地上最多奶洒掉，可以允许孩子自己判断，但需告知后果。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a003"
+      ]
+    },
+    {
+      "name": "允许孩子在安全环境下尝试扔东西",
+      "definition": "对于安全系数高的物品（如塑料杯），可以让孩子自己判断是否扔，但需告知后果（如奶洒掉就没有奶了）。对于玻璃杯，不允许孩子扔，但可以带孩子去安全的地方（如院子）砸一个不用的酒瓶来体验。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a004"
+      ]
+    },
+    {
+      "name": "允许孩子自己判断的条件",
+      "definition": "允许孩子自己判断的条件是安全系数高，且家长需告知后果。例如塑料杯扔地上可以，玻璃杯不可以。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a005"
+      ]
+    },
+    {
+      "name": "作业要求：认真完成并写感悟",
+      "definition": "作业包括烧脑的题目，特别是最后一道题很 tricky。要求学员认真做作业，特别是感悟部分，讲师通过作业了解学员育儿情况。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a006"
+      ]
+    },
+    {
+      "name": "互动提问：孩子想把玻璃水杯往地上扔，是否让孩子自己判断？",
+      "definition": "讲师提问：孩子想把玻璃水杯往地上扔，是否让孩子自己判断？学员回答不一，讲师引导思考安全系数。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a007"
+      ]
+    },
+    {
+      "name": "互动提问：孩子想把装奶的塑料杯子往地上扔，是否让孩子自己判断？",
+      "definition": "讲师提问：孩子想把装奶的塑料杯子往地上扔，是否让孩子自己判断？讲师认为可以，因为安全系数高。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a008"
+      ]
+    },
+    {
+      "name": "传递信息比告诉孩子更重要",
+      "definition": "讲师强调传递的信息胜于告诉孩子什么，例如通过行动让孩子知道火炉开着时不能靠近。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a009"
+      ]
+    },
+    {
+      "name": "煮完饭的定义",
+      "definition": "煮完饭指火已关掉，饭菜已盛到盘子里放到桌上，而不是刚关火但食物还在锅里。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a010"
+      ]
+    },
+    {
+      "name": "安全替代体验：去安全地方砸不用的酒瓶",
+      "definition": "对于想扔玻璃杯的孩子，可以带他去安全的地方（如院子）砸一个不用的酒瓶，让他体验玻璃破碎的感觉。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a011"
+      ]
+    },
+    {
+      "name": "玻璃杯不允许孩子自己扔的原因",
+      "definition": "玻璃杯扔地上可能玻璃飞溅伤人，所以不允许孩子自己扔，家长需保护孩子。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a012"
+      ]
+    },
+    {
+      "name": "告知后果并允许孩子自己决定",
+      "definition": "对于安全系数高的行为（如扔塑料杯），家长告知后果（如奶洒掉就没有奶了），然后允许孩子自己决定是否做。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a013"
+      ]
+    },
+    {
+      "name": "安全系数是判断是否允许孩子行为的关键",
+      "definition": "判断是否允许孩子做某件事，关键在于安全系数，而不是物品用途或是否装东西。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a014"
+      ]
+    },
+    {
+      "name": "通过作业了解学员育儿情况",
+      "definition": "讲师通过学员的作业，特别是感悟部分，来了解学员的育儿情况。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a015"
+      ]
+    },
+    {
+      "name": "提供连麦提问渠道",
+      "definition": "学员如果有育儿问题，可以找助理，在直播时连麦提问。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a016"
+      ]
+    },
+    {
+      "name": "安全规则传递的信息一致性",
+      "definition": "讲师强调，在做饭时孩子靠近炉子，家长通过身体阻挡和语言传递的信息是“火炉开着时不能靠近”，这一信息需要保持一致，以帮助孩子养成习惯。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:r001"
+      ]
+    },
+    {
+      "name": "通过安全替代体验满足孩子探索需求",
+      "definition": "对于孩子想扔玻璃杯的探索需求，讲师建议带孩子去安全的地方（如院子）砸一个不用的酒瓶，让孩子体验玻璃破碎的感觉，同时避免危险。",
+      "atom_ids": [
+        "s-58976debe8c1-c003:r002"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-58976debe8c1-c001:a003",
+      "target": "s-58976debe8c1-c001:a004",
+      "kind": "step_of",
+      "condition": "宝宝自己下床后，如果宝宝可以自己上床",
+      "reason": "a003提到宝宝自己下床是正常现象，a004给出通过监控引导宝宝回床的具体步骤，是处理该情况的后续步骤。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a004",
+      "target": "s-58976debe8c1-c001:a005",
+      "kind": "supports",
+      "condition": "宝宝需要适应自己上下床的感觉",
+      "reason": "a004通过监控引导宝宝回床，a005强调孩子需要适应自己上下床的感觉，a004的做法有助于实现a005的目标。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a006",
+      "target": "s-58976debe8c1-c001:a007",
+      "kind": "step_of",
+      "condition": "宝宝下床后开始玩起来",
+      "reason": "a006指出如果宝宝下床后开始玩就需要放界限，a007给出具体界限方法：拿走玩具。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a010",
+      "target": "s-58976debe8c1-c001:a011",
+      "kind": "causes",
+      "condition": "孩子半夜会醒",
+      "reason": "a010指出孩子半夜醒不正常，a011建议提前睡觉时间改善，因为睡得晚可能导致半夜醒。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a012",
+      "target": "s-58976debe8c1-c001:a013",
+      "kind": "supports",
+      "condition": "孩子有共性",
+      "reason": "a012提出孩子有共性，a013用不吃饭和睡不着解释共性，支持a012的观点。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a012",
+      "target": "s-58976debe8c1-c001:a014",
+      "kind": "supports",
+      "condition": "科学基于人的共性",
+      "reason": "a012提出孩子有共性，a014说明科学从共性中找出来，支持a012。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a015",
+      "target": "s-58976debe8c1-c001:a016",
+      "kind": "example_of",
+      "condition": "以“每个孩子不一样”为借口",
+      "reason": "“两个孩子睡眠训练结果对比”是“以‘每个孩子不一样’为借口逃避科学育儿”的具体实例，对方以孩子不同为借口拒绝科学方法。原方向应反转。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向应反转。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a017",
+      "target": "s-58976debe8c1-c001:a018",
+      "kind": "supports",
+      "condition": "相信医学与相信孩子共性",
+      "reason": "a017指出相信医学说明相信孩子有共性，a018进一步说明孩子性格不同但需求相同，支持共性观点。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a019",
+      "target": "s-58976debe8c1-c001:a020",
+      "kind": "supports",
+      "condition": "安全感与陪睡的关系",
+      "reason": "a019说明孩子不会因不陪睡失去安全感，a020区分感到安全和有安全感，支持a019的观点。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a021",
+      "target": "s-58976debe8c1-c001:a022",
+      "kind": "example_of",
+      "condition": "6岁孩子用威胁表达不满",
+      "reason": "6岁儿子用威胁表达不满的案例，是对“对6岁孩子威胁行为的处理”（告诉后果然后走开）所适用情境的例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind step_of 不准确，改为 example_of；案例未展示处理步骤。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a023",
+      "target": "s-58976debe8c1-c001:a024",
+      "kind": "example_of",
+      "condition": "孩子不配合刷牙",
+      "reason": "a023是丈夫无效互动的案例，a024提出用行动设立界限，a023是a024的反面例子。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a024",
+      "target": "s-58976debe8c1-c001:a029",
+      "kind": "example_of",
+      "condition": "用行动设立界限",
+      "reason": "a024提出用行动设立界限，a029是讲师用行动设立刷牙界限的具体案例。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a025",
+      "target": "s-58976debe8c1-c001:a026",
+      "kind": "contrasts",
+      "condition": "孩子对原后果无所谓",
+      "reason": "孩子对“一个人待在家里没有午饭吃”无所谓，与“后果必须是孩子真正在意的”原则形成对比，展示无效后果的反例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 与实际反例不符，改为 contrasts。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a026",
+      "target": "s-58976debe8c1-c001:a027",
+      "kind": "step_of",
+      "condition": "早上出门孩子拖延",
+      "reason": "a026是拖延案例，a027给出用补时间作为迟到后果的具体方法。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a027",
+      "target": "s-58976debe8c1-c001:a028",
+      "kind": "supports",
+      "condition": "找到孩子真正在意的后果",
+      "reason": "a027给出补时间后果，a028强调要找到孩子真正在意的后果，a027是a028的一个例子。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a030",
+      "target": "s-58976debe8c1-c001:a031",
+      "kind": "causes",
+      "condition": "父母替孩子过生活",
+      "reason": "a030指出孩子不配合是因为父母更着急，a031说明父母替孩子过生活导致孩子认为这些是父母的事，a030是a031的结果。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a031",
+      "target": "s-58976debe8c1-c001:a034",
+      "kind": "supports",
+      "condition": "父母不要替孩子过生活",
+      "reason": "a031说明替孩子过生活的后果，a034重申不要替孩子过生活，a031支持a034。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a033",
+      "target": "s-58976debe8c1-c001:a024",
+      "kind": "applies_to",
+      "condition": "孩子不刷牙",
+      "reason": "a033给出用真实后果教育孩子刷牙，a024是用行动设立界限，a033是a024在刷牙问题上的应用。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a035",
+      "target": "s-58976debe8c1-c001:a036",
+      "kind": "supports",
+      "condition": "主动告知与被动追问",
+      "reason": "a035案例中孩子主动告诉妈妈，a036区分主动告知和被动追问，a035是a036的例子。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a035",
+      "target": "s-58976debe8c1-c001:a037",
+      "kind": "step_of",
+      "condition": "孩子不愿谈论事件",
+      "reason": "a035描述事件，a037描述孩子不愿谈论，是事件后续。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a037",
+      "target": "s-58976debe8c1-c001:a038",
+      "kind": "supports",
+      "condition": "内疚与羞耻的区别",
+      "reason": "a037孩子不愿谈可能因羞耻，a038解释羞耻导致隔离，支持a037的分析。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a038",
+      "target": "s-58976debe8c1-c001:a040",
+      "kind": "causes",
+      "condition": "孩子有羞耻表现",
+      "reason": "a038说明羞耻导致隔离，a040提出通过开诚布公谈论消除羞耻，a038是a040的原因。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a039",
+      "target": "s-58976debe8c1-c001:a040",
+      "kind": "supports",
+      "condition": "孩子可能有色情上瘾",
+      "reason": "a039推测孩子有色情上瘾，a040建议开诚布公谈论性话题，a039支持a040的必要性。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a041",
+      "target": "s-58976debe8c1-c001:a042",
+      "kind": "example_of",
+      "condition": "17岁孩子不配合家务（不冲掉泡泡）",
+      "reason": "17岁孩子洗澡泡泡粘墙的案例，展示了用经济后果（帮忙冲洗并扣五块钱）处理青少年不配合家务的做法，是概念的例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-58976debe8c1-c001:r001",
+      "target": "s-58976debe8c1-c001:a035",
+      "kind": "applies_to",
+      "condition": "17岁孩子",
+      "reason": "r001强调年龄不同角色不同，a035是17岁孩子案例，说明年龄差异。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:r002",
+      "target": "s-58976debe8c1-c002:a001",
+      "kind": "supports",
+      "condition": "17岁孩子越界后情绪处理",
+      "reason": "孩子越界后情绪处理的原则与17岁孩子越界后情绪处理原则内容一致，后者具体化并支持前者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-58976debe8c1-c002:a002",
+      "target": "s-58976debe8c1-c001:r003",
+      "kind": "association",
+      "condition": "比较性语言",
+      "reason": "概念讨论比较孩子的危害，案例描述孩子模仿比较性语言，两者同属比较性语言议题，但案例未体现比较导致的危害结果，不足以作为危害概念的例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 过度，改为 association。"
+    },
+    {
+      "source": "s-58976debe8c1-c002:a003",
+      "target": "s-58976debe8c1-c002:a003",
+      "kind": "duplicate",
+      "condition": "情绪连接方法",
+      "reason": "c002:a003和c002:r001内容完全相同，是重复记录。"
+    },
+    {
+      "source": "s-58976debe8c1-c002:a004",
+      "target": "s-58976debe8c1-c001:a019",
+      "kind": "association",
+      "condition": "安全感与早期经历",
+      "reason": "两者都涉及安全感和早期经历：一个讨论焦虑问题的可弥补性，另一个讨论安全感不依赖陪睡；但没有直接支持或因果关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 过度，改为 association。"
+    },
+    {
+      "source": "s-58976debe8c1-c002:a005",
+      "target": "s-58976debe8c1-c002:a009",
+      "kind": "association",
+      "condition": "行为管理中的概念区分",
+      "reason": "两者都是行为管理中的概念区分，但分别讨论奖励与贿赂、威胁与立界限，相互独立，不存在直接支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 过度，改为 association。"
+    },
+    {
+      "source": "s-58976debe8c1-c002:a006",
+      "target": "s-58976debe8c1-c002:a007",
+      "kind": "example_of",
+      "condition": "每个孩子都有特长",
+      "reason": "c002:a006提出每个孩子都有特长，c002:a007是朋友女儿织毛衣的特长案例。"
+    },
+    {
+      "source": "s-58976debe8c1-c002:a008",
+      "target": "s-58976debe8c1-c002:a010",
+      "kind": "contrasts",
+      "condition": "面对孩子犯错的态度与只聊教育话题",
+      "reason": "面对孩子犯错应保持轻松自然，与只聊教育话题导致亲子疏远形成对比，体现两种不同的亲子沟通方式。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-58976debe8c1-c002:a011",
+      "target": "s-58976debe8c1-c002:a012",
+      "kind": "example_of",
+      "condition": "学会享受生活",
+      "reason": "c002:a011提出学会享受生活的方法，c002:a012是讲师个人案例。"
+    },
+    {
+      "source": "s-58976debe8c1-c002:a013",
+      "target": "s-58976debe8c1-c002:a014",
+      "kind": "example_of",
+      "condition": "4-6岁孩子在某些情况下不能自己判断",
+      "reason": "让孩子自己做决定的年龄范围原则包含“有的情况孩子绝对不可以做”的前提，厨房火炉安全界限正是这种绝对不可以做情况的具体例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 applies_to 改为 example_of，因 target 是 source 原则的具体例子。"
+    },
+    {
+      "source": "s-58976debe8c1-c002:a014",
+      "target": "s-58976debe8c1-c002:a015",
+      "kind": "contrasts",
+      "condition": "炉子区域与灶台区域",
+      "reason": "做饭时炉子区域不允许靠近与煮完饭后灶台区域可让孩子判断形成对比，区分不同安全等级。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-58976debe8c1-c002:a015",
+      "target": "s-58976debe8c1-c002:a015",
+      "kind": "duplicate",
+      "condition": "煮完饭后灶台判断",
+      "reason": "c002:a015和c002:r004内容完全相同，是重复记录。"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a001",
+      "target": "s-58976debe8c1-c002:a014",
+      "kind": "supports",
+      "condition": "做饭时炉子区域安全规则",
+      "reason": "炉子区域与灶台区域的安全规则区分支持厨房火炉安全界限的传递，两者一致。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-58976debe8c1-c003:a002",
+      "target": "s-58976debe8c1-c002:a014",
+      "kind": "supports",
+      "condition": "通过身体阻挡传递安全信息",
+      "reason": "通过身体阻挡和语言传递安全信息的具体做法，支持厨房火炉安全界限传递中提到的动作步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-58976debe8c1-c003:a003",
+      "target": "s-58976debe8c1-c003:a004",
+      "kind": "step_of",
+      "condition": "玻璃杯与塑料杯扔地上",
+      "reason": "c003:a003给出安全判断标准，c003:a004给出具体处理：塑料杯允许，玻璃杯禁止但提供替代体验。"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a003",
+      "target": "s-58976debe8c1-c003:a005",
+      "kind": "supports",
+      "condition": "允许孩子自己判断的条件",
+      "reason": "c003:a003说明安全系数是关键，c003:a005总结允许孩子自己判断的条件是安全系数高且告知后果。"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a004",
+      "target": "s-58976debe8c1-c003:a011",
+      "kind": "step_of",
+      "condition": "玻璃杯不允许扔",
+      "reason": "c003:a004提到可以带孩子去安全地方砸酒瓶，c003:a011给出具体步骤。"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a006",
+      "target": "s-58976debe8c1-c003:a015",
+      "kind": "supports",
+      "condition": "认真完成作业并写感悟",
+      "reason": "作业要求认真完成并写感悟，支持讲师通过作业了解学员育儿情况的说法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-58976debe8c1-c003:a007",
+      "target": "s-58976debe8c1-c003:a008",
+      "kind": "contrasts",
+      "condition": "玻璃杯与塑料杯",
+      "reason": "玻璃杯不允许扔与塑料杯可让孩子自己判断形成对比，说明安全系数不同的判断标准。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-58976debe8c1-c003:a009",
+      "target": "s-58976debe8c1-c002:a014",
+      "kind": "supports",
+      "condition": "传递信息比告诉孩子更重要",
+      "reason": "传递信息比告诉孩子更重要的原则，支持通过行动传递火炉安全界限的做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-58976debe8c1-c003:a010",
+      "target": "s-58976debe8c1-c002:a015",
+      "kind": "supports",
+      "condition": "煮完饭的定义",
+      "reason": "c003:a010定义煮完饭，c002:a015提到煮完饭后灶台判断，c003:a010澄清c002:a015的条件。"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a012",
+      "target": "s-58976debe8c1-c003:a003",
+      "kind": "supports",
+      "condition": "玻璃杯可能飞溅伤人",
+      "reason": "玻璃杯扔地上可能飞溅伤人的原因，支持以安全系数判断是否让孩子扔杯子的标准。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-58976debe8c1-c003:a013",
+      "target": "s-58976debe8c1-c003:a005",
+      "kind": "supports",
+      "condition": "告知后果并允许孩子自己决定",
+      "reason": "c003:a013给出具体做法，c003:a005总结条件，c003:a013是c003:a005的例子。"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a014",
+      "target": "s-58976debe8c1-c003:a003",
+      "kind": "supports",
+      "condition": "安全系数是关键",
+      "reason": "c003:a014强调安全系数是关键，c003:a003以玻璃杯和塑料杯为例说明。"
+    },
+    {
+      "source": "s-58976debe8c1-c003:r001",
+      "target": "s-58976debe8c1-c003:a002",
+      "kind": "supports",
+      "condition": "安全规则传递的信息一致性",
+      "reason": "c003:r001强调信息一致性，c003:a002给出传递信息的具体方法，c003:r001支持c003:a002。"
+    },
+    {
+      "source": "s-58976debe8c1-c003:r002",
+      "target": "s-58976debe8c1-c003:a011",
+      "kind": "duplicate",
+      "condition": "安全替代体验",
+      "reason": "c003:r002和c003:a011内容相同，都是带孩子去安全地方砸酒瓶。"
+    },
+    {
+      "source": "s-58976debe8c1-c001:v2-n001",
+      "target": "s-58976debe8c1-c002:a001",
+      "kind": "association",
+      "condition": "17岁孩子越界被给后果后表现焦虑易怒时",
+      "reason": "candidate 与 source 内容几乎一致，但更简洁，未补充新点，仅高度重叠。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c002:a001",
+      "target": "s-58976debe8c1-c001:v2-n001",
+      "kind": "association",
+      "condition": "17岁孩子越界被给后果后表现焦虑易怒时",
+      "reason": "candidate 与 source 内容几乎一致，但更简洁，未补充新点，仅高度重叠。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:v2-n001",
+      "target": "s-58976debe8c1-c001:r002",
+      "kind": "association",
+      "condition": "17岁孩子越界被给后果后表现焦虑易怒时",
+      "reason": "candidate 与 source 高度一致，未补充新点，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:r002",
+      "target": "s-58976debe8c1-c001:v2-n001",
+      "kind": "association",
+      "condition": "17岁孩子越界被给后果后表现焦虑易怒时",
+      "reason": "candidate 与 source 高度一致，未补充新点，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:v2-n001",
+      "target": "s-58976debe8c1-c002:v2-n001",
+      "kind": "complements",
+      "condition": "17岁孩子洗澡泡泡粘墙立界限案例",
+      "reason": "source 是后续情绪处理原则，candidate 提供具体立界限案例，补足了立界限的具体情境和步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c002:v2-n001",
+      "target": "s-58976debe8c1-c001:v2-n001",
+      "kind": "complements",
+      "condition": "17岁孩子洗澡泡泡粘墙立界限案例",
+      "reason": "source 是后续情绪处理原则，candidate 提供具体立界限案例，补足了立界限的具体情境和步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:v2-n001",
+      "target": "s-58976debe8c1-c001:a041",
+      "kind": "complements",
+      "condition": "17岁孩子洗澡泡泡粘墙处理",
+      "reason": "candidate 与 c002:v2-n001 类似的案例，补足立界限细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a041",
+      "target": "s-58976debe8c1-c001:v2-n001",
+      "kind": "complements",
+      "condition": "17岁孩子洗澡泡泡粘墙处理",
+      "reason": "candidate 与 c002:v2-n001 类似的案例，补足立界限细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:v2-n001",
+      "target": "s-58976debe8c1-c001:a024",
+      "kind": "complements",
+      "condition": "孩子不配合指令时",
+      "reason": "source 以立界限为前提，candidate 补充了设立界限时用行动而非反复说教的方法，有助于理解 source 中界限的建立。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a024",
+      "target": "s-58976debe8c1-c001:v2-n001",
+      "kind": "complements",
+      "condition": "孩子不配合指令时",
+      "reason": "source 以立界限为前提，candidate 补充了设立界限时用行动而非反复说教的方法，有助于理解 source 中界限的建立。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:v2-n001",
+      "target": "s-58976debe8c1-c001:a025",
+      "kind": "complements",
+      "condition": "给予后果时",
+      "reason": "source 中孩子得到后果后出现情绪；candidate 强调后果必须是孩子真正在意的，补充了保证后果有效性的条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a025",
+      "target": "s-58976debe8c1-c001:v2-n001",
+      "kind": "complements",
+      "condition": "给予后果时",
+      "reason": "source 中孩子得到后果后出现情绪；candidate 强调后果必须是孩子真正在意的，补充了保证后果有效性的条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:v2-n001",
+      "target": "s-58976debe8c1-c001:a028",
+      "kind": "complements",
+      "condition": "选择后果时",
+      "reason": "candidate 补充如何找到孩子真正在意的后果，与 source 的界限有效性相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a028",
+      "target": "s-58976debe8c1-c001:v2-n001",
+      "kind": "complements",
+      "condition": "选择后果时",
+      "reason": "candidate 补充如何找到孩子真正在意的后果，与 source 的界限有效性相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:v2-n001",
+      "target": "s-58976debe8c1-c002:a013",
+      "kind": "association",
+      "condition": "4-6岁",
+      "reason": "年龄阶段不同（4-6岁 vs 17岁），仅因让孩子做决定话题关联，不能混用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c002:a013",
+      "target": "s-58976debe8c1-c001:v2-n001",
+      "kind": "association",
+      "condition": "4-6岁",
+      "reason": "年龄阶段不同（4-6岁 vs 17岁），仅因让孩子做决定话题关联，不能混用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:v2-n001",
+      "target": "s-58976debe8c1-c002:a014",
+      "kind": "association",
+      "condition": "4-6岁",
+      "reason": "年龄不同，安全界限与17岁情绪处理不直接相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c002:a014",
+      "target": "s-58976debe8c1-c001:v2-n001",
+      "kind": "association",
+      "condition": "4-6岁",
+      "reason": "年龄不同，安全界限与17岁情绪处理不直接相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:v2-n001",
+      "target": "s-58976debe8c1-c003:a007",
+      "kind": "association",
+      "condition": "4-6岁",
+      "reason": "年龄不同，互动提问针对幼儿安全界限，与17岁无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a007",
+      "target": "s-58976debe8c1-c001:v2-n001",
+      "kind": "association",
+      "condition": "4-6岁",
+      "reason": "年龄不同，互动提问针对幼儿安全界限，与17岁无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c002:v2-n001",
+      "target": "s-58976debe8c1-c001:a041",
+      "kind": "association",
+      "condition": "相同案例",
+      "reason": "candidate 与 source 几乎相同案例，仅表述略有差异，高度重复，无新信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a041",
+      "target": "s-58976debe8c1-c002:v2-n001",
+      "kind": "association",
+      "condition": "相同案例",
+      "reason": "candidate 与 source 几乎相同案例，仅表述略有差异，高度重复，无新信息。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c002:v2-n001",
+      "target": "s-58976debe8c1-c001:a042",
+      "kind": "example_of",
+      "condition": "孩子不配合家务时",
+      "reason": "source 是17岁孩子洗澡泡泡粘墙后用扣5元饭钱作为后果的具体案例，是 a042 所述用经济后果处理青少年家务问题的一个例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a042",
+      "target": "s-58976debe8c1-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "孩子不配合家务时",
+      "reason": "source 是17岁孩子洗澡泡泡粘墙后用扣5元饭钱作为后果的具体案例，是 a042 所述用经济后果处理青少年家务问题的一个例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c002:v2-n001",
+      "target": "s-58976debe8c1-c001:a024",
+      "kind": "example_of",
+      "condition": "孩子不配合指令时",
+      "reason": "source 中家长停止反复提醒，直接告知以后帮冲并扣钱，体现了 a024 用行动设立界限而非反复说教，是该方法的一个例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a024",
+      "target": "s-58976debe8c1-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "孩子不配合指令时",
+      "reason": "source 中家长停止反复提醒，直接告知以后帮冲并扣钱，体现了 a024 用行动设立界限而非反复说教，是该方法的一个例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c002:v2-n001",
+      "target": "s-58976debe8c1-c001:a025",
+      "kind": "association",
+      "condition": "选择扣钱作为后果时",
+      "reason": "candidate 强调后果必须是孩子真正在意的，source 未说明孩子是否在意扣钱，无法确认有效性，仅因选择后果关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a025",
+      "target": "s-58976debe8c1-c002:v2-n001",
+      "kind": "association",
+      "condition": "选择扣钱作为后果时",
+      "reason": "candidate 强调后果必须是孩子真正在意的，source 未说明孩子是否在意扣钱，无法确认有效性，仅因选择后果关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c002:v2-n001",
+      "target": "s-58976debe8c1-c001:a028",
+      "kind": "association",
+      "condition": "寻找孩子在意后果时",
+      "reason": "candidate 提供方法，source 未体现寻找过程，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:a028",
+      "target": "s-58976debe8c1-c002:v2-n001",
+      "kind": "association",
+      "condition": "寻找孩子在意后果时",
+      "reason": "candidate 提供方法，source 未体现寻找过程，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c002:v2-n001",
+      "target": "s-58976debe8c1-c001:v2-n001",
+      "kind": "association",
+      "condition": "17岁孩子立界限后情绪处理",
+      "reason": "source 案例提供了立界限场景，candidate 是后续情绪处理原则，两者可以先后关联，但 source 未涉及情绪，仅潜在。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:v2-n001",
+      "target": "s-58976debe8c1-c002:v2-n001",
+      "kind": "association",
+      "condition": "17岁孩子立界限后情绪处理",
+      "reason": "source 案例提供了立界限场景，candidate 是后续情绪处理原则，两者可以先后关联，但 source 未涉及情绪，仅潜在。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c002:v2-n001",
+      "target": "s-58976debe8c1-c002:a001",
+      "kind": "association",
+      "condition": "17岁孩子越界后情绪处理",
+      "reason": "candidate 是原则，source 是案例，无法确认直接应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c002:a001",
+      "target": "s-58976debe8c1-c002:v2-n001",
+      "kind": "association",
+      "condition": "17岁孩子越界后情绪处理",
+      "reason": "candidate 是原则，source 是案例，无法确认直接应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c002:v2-n001",
+      "target": "s-58976debe8c1-c001:r002",
+      "kind": "association",
+      "condition": "17岁孩子越界后情绪处理",
+      "reason": "类似原则关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c001:r002",
+      "target": "s-58976debe8c1-c002:v2-n001",
+      "kind": "association",
+      "condition": "17岁孩子越界后情绪处理",
+      "reason": "类似原则关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:v2-n001",
+      "target": "s-58976debe8c1-c003:r002",
+      "kind": "complements",
+      "condition": "当孩子有探索需求（如想扔玻璃杯）时",
+      "reason": "source 规定不让孩子碰玻璃器皿；candidate 补充了在禁止直接接触玻璃杯时，可通过带孩子去安全地方砸不用的酒瓶来满足探索需求，补充了安全替代体验这一点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:r002",
+      "target": "s-58976debe8c1-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子有探索需求（如想扔玻璃杯）时",
+      "reason": "source 规定不让孩子碰玻璃器皿；candidate 补充了在禁止直接接触玻璃杯时，可通过带孩子去安全地方砸不用的酒瓶来满足探索需求，补充了安全替代体验这一点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:v2-n001",
+      "target": "s-58976debe8c1-c003:a007",
+      "kind": "complements",
+      "condition": "当孩子想把玻璃水杯往地上扔时",
+      "reason": "source 禁止孩子碰玻璃器皿；candidate 通过互动提问明确结论：不允许孩子自己判断是否扔玻璃杯，必须由家长禁止，补充了具体情境下的执行。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a007",
+      "target": "s-58976debe8c1-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子想把玻璃水杯往地上扔时",
+      "reason": "source 禁止孩子碰玻璃器皿；candidate 通过互动提问明确结论：不允许孩子自己判断是否扔玻璃杯，必须由家长禁止，补充了具体情境下的执行。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:v2-n001",
+      "target": "s-58976debe8c1-c003:a012",
+      "kind": "complements",
+      "condition": "涉及玻璃杯等易碎危险品时",
+      "reason": "source 只说不让碰玻璃器皿；candidate 补充了禁止的原因：玻璃杯扔地上可能玻璃飞溅伤人，所以不允许孩子自己扔，补充了安全理由。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a012",
+      "target": "s-58976debe8c1-c003:v2-n001",
+      "kind": "complements",
+      "condition": "涉及玻璃杯等易碎危险品时",
+      "reason": "source 只说不让碰玻璃器皿；candidate 补充了禁止的原因：玻璃杯扔地上可能玻璃飞溅伤人，所以不允许孩子自己扔，补充了安全理由。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:v2-n001",
+      "target": "s-58976debe8c1-c002:a014",
+      "kind": "association",
+      "condition": "均为家庭安全界限范畴",
+      "reason": "source 涉及玻璃和菜刀，candidate 涉及厨房火炉安全，两者同属安全界限但针对不同物品，无直接补充或差异关系，仅主题关联，不确定具体关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c002:a014",
+      "target": "s-58976debe8c1-c003:v2-n001",
+      "kind": "association",
+      "condition": "均为家庭安全界限范畴",
+      "reason": "source 涉及玻璃和菜刀，candidate 涉及厨房火炉安全，两者同属安全界限但针对不同物品，无直接补充或差异关系，仅主题关联，不确定具体关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:v2-n001",
+      "target": "s-58976debe8c1-c003:a004",
+      "kind": "complements",
+      "condition": "当孩子想扔东西时，根据物品安全系数判断",
+      "reason": "source 禁止玻璃器皿；candidate 补充了判断标准：安全系数高的物品如塑料杯可允许孩子自己判断，危险物品如玻璃杯不允许，并可提供安全替代体验，补充了安全系数判断原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a004",
+      "target": "s-58976debe8c1-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子想扔东西时，根据物品安全系数判断",
+      "reason": "source 禁止玻璃器皿；candidate 补充了判断标准：安全系数高的物品如塑料杯可允许孩子自己判断，危险物品如玻璃杯不允许，并可提供安全替代体验，补充了安全系数判断原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:v2-n001",
+      "target": "s-58976debe8c1-c003:a008",
+      "kind": "conditional_difference",
+      "condition": "当物品为塑料杯（安全系数高）而非玻璃杯时",
+      "reason": "source 禁止孩子碰玻璃器皿；candidate 针对塑料杯，认为可以让孩子自己判断，因为安全系数高，二者在物品安全性不同的条件下处理不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a008",
+      "target": "s-58976debe8c1-c003:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "当物品为塑料杯（安全系数高）而非玻璃杯时",
+      "reason": "source 禁止孩子碰玻璃器皿；candidate 针对塑料杯，认为可以让孩子自己判断，因为安全系数高，二者在物品安全性不同的条件下处理不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:v2-n001",
+      "target": "s-58976debe8c1-c003:r001",
+      "kind": "association",
+      "condition": "均为安全规则传递",
+      "reason": "source 关于玻璃和菜刀禁止触碰；candidate 关于火炉靠近时信息一致性，两者主题同为安全规则传递，但具体领域不同，无直接关系，不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:r001",
+      "target": "s-58976debe8c1-c003:v2-n001",
+      "kind": "association",
+      "condition": "均为安全规则传递",
+      "reason": "source 关于玻璃和菜刀禁止触碰；candidate 关于火炉靠近时信息一致性，两者主题同为安全规则传递，但具体领域不同，无直接关系，不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:v2-n001",
+      "target": "s-58976debe8c1-c003:a001",
+      "kind": "association",
+      "condition": "均为厨房安全规则",
+      "reason": "source 禁止玻璃和菜刀；candidate 区分炉子区域和灶台区域安全规则，涉及火炉，不同物品，无直接补充，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a001",
+      "target": "s-58976debe8c1-c003:v2-n001",
+      "kind": "association",
+      "condition": "均为厨房安全规则",
+      "reason": "source 禁止玻璃和菜刀；candidate 区分炉子区域和灶台区域安全规则，涉及火炉，不同物品，无直接补充，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:v2-n001",
+      "target": "s-58976debe8c1-c003:a003",
+      "kind": "complements",
+      "condition": "判断是否允许孩子扔杯子时",
+      "reason": "source 禁止玻璃器皿；candidate 直接补充了判断标准：安全系数是依据，玻璃杯飞溅伤人故不允许，塑料杯安全系数高可允许，补充了 source 未明说的判别准则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a003",
+      "target": "s-58976debe8c1-c003:v2-n001",
+      "kind": "complements",
+      "condition": "判断是否允许孩子扔杯子时",
+      "reason": "source 禁止玻璃器皿；candidate 直接补充了判断标准：安全系数是依据，玻璃杯飞溅伤人故不允许，塑料杯安全系数高可允许，补充了 source 未明说的判别准则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:v2-n001",
+      "target": "s-58976debe8c1-c003:a002",
+      "kind": "association",
+      "condition": "均为安全信息传递",
+      "reason": "source 禁止玻璃和菜刀；candidate 讲述通过身体阻挡和语言传递火炉安全信息，不同场景，无直接关系，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a002",
+      "target": "s-58976debe8c1-c003:v2-n001",
+      "kind": "association",
+      "condition": "均为安全信息传递",
+      "reason": "source 禁止玻璃和菜刀；candidate 讲述通过身体阻挡和语言传递火炉安全信息，不同场景，无直接关系，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:v2-n001",
+      "target": "s-58976debe8c1-c003:a005",
+      "kind": "complements",
+      "condition": "当考虑让孩子自己判断时",
+      "reason": "source 禁止危险物品；candidate 补充了允许孩子自己判断的条件：安全系数高且家长告知后果，这与 source 的禁止形成互补，说明了何时可放宽。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a005",
+      "target": "s-58976debe8c1-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当考虑让孩子自己判断时",
+      "reason": "source 禁止危险物品；candidate 补充了允许孩子自己判断的条件：安全系数高且家长告知后果，这与 source 的禁止形成互补，说明了何时可放宽。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:v2-n001",
+      "target": "s-58976debe8c1-c003:a009",
+      "kind": "association",
+      "condition": "均为安全信息传递原则",
+      "reason": "source 禁止玻璃和菜刀；candidate 强调传递信息比告诉孩子更重要，举火炉例子，两者主题相关但针对不同内容，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-58976debe8c1-c003:a009",
+      "target": "s-58976debe8c1-c003:v2-n001",
+      "kind": "association",
+      "condition": "均为安全信息传递原则",
+      "reason": "source 禁止玻璃和菜刀；candidate 强调传递信息比告诉孩子更重要，举火炉例子，两者主题相关但针对不同内容，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "阶段与角色",
+      "when": "针对不同年龄孩子设立界限时，需要考虑年龄阶段。例如，21个月宝宝下床、6岁孩子威胁、17岁青少年家务问题，界限方法不同。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a003",
+        "s-58976debe8c1-c001:a021",
+        "s-58976debe8c1-c001:a041",
+        "s-58976debe8c1-c001:r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "孩子越界后出现情绪反应时，需要理解情绪并处理。例如，孩子被给后果后焦虑易怒，父母解释原因并让孩子自己处理情绪。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:r002",
+        "s-58976debe8c1-c002:a001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "设立界限需要区分威胁与立界限，以及奖励与贿赂，确保后果真实有效。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a005",
+        "s-58976debe8c1-c002:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "不同年龄阶段的孩子情绪表达不同，需要理解。例如，6岁孩子威胁、17岁孩子羞耻，处理方式不同。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a021",
+        "s-58976debe8c1-c001:a035",
+        "s-58976debe8c1-c001:a037"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "自我修养",
+      "when": "父母需要根据孩子年龄调整角色，同时自我修养（如享受生活）影响亲子关系。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:r001",
+        "s-58976debe8c1-c002:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "理解情绪",
+      "when": "父母自我修养（如享受生活）有助于建立良好亲子关系，从而更好地理解孩子情绪。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a011",
+        "s-58976debe8c1-c002:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "父母设立界限时需要自我修养，如避免替孩子过生活，保持冷静。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a031",
+        "s-58976debe8c1-c001:a034"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-58976debe8c1-c002:a003"
+      ],
+      "reason": "内容完全相同，都是关于情绪连接的方法：单方面表达陪伴。"
+    },
+    {
+      "atom_ids": [
+        "s-58976debe8c1-c002:a015"
+      ],
+      "reason": "内容完全相同，都是关于煮完饭后灶台判断的允许。"
+    },
+    {
+      "atom_ids": [
+        "s-58976debe8c1-c003:a011",
+        "s-58976debe8c1-c003:r002"
+      ],
+      "reason": "内容完全相同，都是关于安全替代体验：去安全地方砸不用的酒瓶。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-58976debe8c1-c001:a010",
+        "s-58976debe8c1-c001:a009"
+      ],
+      "description": "a010声称正常情况孩子半夜不应该醒，但a009案例中宝宝半夜醒来摸妈妈脸，讲师解释为好奇，未提及不正常。可能存在矛盾：a010认为半夜醒不正常，但a009案例中宝宝半夜醒被解释为好奇，未指出不正常。",
+      "needed_evidence": "需要明确孩子半夜醒来的正常性标准，以及好奇行为是否属于正常范围。"
+    },
+    {
+      "atom_ids": [
+        "s-58976debe8c1-c001:a019",
+        "s-58976debe8c1-c002:a004"
+      ],
+      "description": "a019声称孩子不会因父母不陪睡失去安全感，如果失去说明本来就没有安全感；c002:a004声称0-1.5岁经历不安全导致的焦虑问题可以弥补，但弥补过程困难。两者可能矛盾：a019认为安全感不依赖陪睡，c002:a004认为早期不安全经历影响安全感，但未直接涉及陪睡。",
+      "needed_evidence": "需要明确安全感建立的关键因素，以及陪睡在安全感形成中的作用。"
+    },
+    {
+      "atom_ids": [
+        "s-58976debe8c1-c001:a035",
+        "s-58976debe8c1-c001:a039"
+      ],
+      "description": "a035案例中孩子主动告知拍屁股事件，但a039讲师推测孩子有色情上瘾，未经专业诊断。推测可能不准确，且涉及敏感话题。",
+      "needed_evidence": "需要专业评估孩子行为背后的原因，避免误判。"
+    }
+  ],
+  "path": [
+    {
+      "name": "设立界限的主要方法",
+      "steps": [
+        {
+          "action": "识别孩子越界行为",
+          "atom_ids": [
+            "s-58976debe8c1-c001:a006",
+            "s-58976debe8c1-c001:a021",
+            "s-58976debe8c1-c001:a041"
+          ],
+          "condition": "孩子出现不当行为，如玩玩具、威胁、不配合家务"
+        },
+        {
+          "action": "确定后果（必须是孩子真正在意的）",
+          "atom_ids": [
+            "s-58976debe8c1-c001:a025",
+            "s-58976debe8c1-c001:a028"
+          ],
+          "condition": "后果需对孩子有效，否则无效"
+        },
+        {
+          "action": "用行动设立界限，而非说教",
+          "atom_ids": [
+            "s-58976debe8c1-c001:a024",
+            "s-58976debe8c1-c001:a029"
+          ],
+          "condition": "孩子不配合时，直接采取行动并告知"
+        },
+        {
+          "action": "执行后果并保持一致性",
+          "atom_ids": [
+            "s-58976debe8c1-c001:a007",
+            "s-58976debe8c1-c001:a027",
+            "s-58976debe8c1-c001:a042"
+          ],
+          "condition": "后果需真实执行，不能是威胁"
+        },
+        {
+          "action": "处理孩子情绪反应",
+          "atom_ids": [
+            "s-58976debe8c1-c001:r002",
+            "s-58976debe8c1-c002:a001"
+          ],
+          "condition": "孩子被给后果后出现焦虑易怒，让孩子自己处理情绪，父母解释原因"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-58976debe8c1-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a002"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0003",
+      "kind": "case",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a003"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a004"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a005"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a006"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a007"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0008",
+      "kind": "case",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a008"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0009",
+      "kind": "case",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a009"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a010"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a011"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a012"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a013"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a014"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0015",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a015"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0016",
+      "kind": "case",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a016"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a017"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a018"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a019"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a020"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0021",
+      "kind": "case",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a021"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a022"
+      ],
+      "blocks": [
+        "b00021",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0023",
+      "kind": "case",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a023"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a024"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a025"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0026",
+      "kind": "case",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a026"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a027"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a028"
+      ],
+      "blocks": [
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0029",
+      "kind": "case",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a029"
+      ],
+      "blocks": [
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a030"
+      ],
+      "blocks": [
+        "b00029",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0031",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a031"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0032",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a032"
+      ],
+      "blocks": [
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0033",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a033"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0034",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a034"
+      ],
+      "blocks": [
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0035",
+      "kind": "case",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a035"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0036",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a036"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0037",
+      "kind": "case",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a037"
+      ],
+      "blocks": [
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0038",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a038"
+      ],
+      "blocks": [
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0039",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a039"
+      ],
+      "blocks": [
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0040",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a040"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0041",
+      "kind": "case",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a041"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0042",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:a042"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0043",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:r001"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c001:u0044",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c002:u01",
+      "kind": "method",
+      "atom_ids": [
+        "s-58976debe8c1-c001:r002",
+        "s-58976debe8c1-c002:a001"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c002:u02",
+      "kind": "case",
+      "atom_ids": [
+        "s-58976debe8c1-c001:r003"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c002:u03",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a002"
+      ],
+      "blocks": [
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c002:u04",
+      "kind": "method",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a003"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047",
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c002:u05",
+      "kind": "condition",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a004"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c002:u06",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a005"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c002:u07",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a006",
+        "s-58976debe8c1-c002:a007"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054",
+        "b00055",
+        "b00056",
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c002:u08",
+      "kind": "method",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a008"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c002:u09",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a009"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c002:u10",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a010"
+      ],
+      "blocks": [
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c002:u11",
+      "kind": "method",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a011",
+        "s-58976debe8c1-c002:a012"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066",
+        "b00067",
+        "b00068",
+        "b00069",
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c002:u12",
+      "kind": "condition",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a013"
+      ],
+      "blocks": [
+        "b00073",
+        "b00074",
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c002:u13",
+      "kind": "method",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a014",
+        "s-58976debe8c1-c003:a002",
+        "s-58976debe8c1-c003:a009"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077",
+        "b00078",
+        "b00079",
+        "b00080",
+        "b00081",
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c002:u14",
+      "kind": "method",
+      "atom_ids": [
+        "s-58976debe8c1-c002:a015"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c002:u15",
+      "kind": "case",
+      "atom_ids": [
+        "s-58976debe8c1-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c003:u0001",
+      "kind": "method",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a002"
+      ],
+      "blocks": [
+        "b00082",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c003:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a009"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c003:u0003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a001",
+        "s-58976debe8c1-c003:r001"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084",
+        "b00085",
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c003:u0004",
+      "kind": "condition",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a010"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c003:u0005",
+      "kind": "question",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a007"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c003:u0006",
+      "kind": "rule",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a003",
+        "s-58976debe8c1-c003:a012"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091",
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c003:u0007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a014"
+      ],
+      "blocks": [
+        "b00091",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c003:u0008",
+      "kind": "method",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a008",
+        "s-58976debe8c1-c003:a013",
+        "s-58976debe8c1-c003:a003"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c003:u0009",
+      "kind": "method",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a011",
+        "s-58976debe8c1-c003:r002",
+        "s-58976debe8c1-c003:a004"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c003:u0010",
+      "kind": "rule",
+      "atom_ids": [
+        "s-58976debe8c1-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-58976debe8c1-c003:u0011",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-58976debe8c1-c003:a006",
+        "s-58976debe8c1-c003:a015",
+        "s-58976debe8c1-c003:a016"
+      ],
+      "blocks": [
+        "b00093",
+        "b00094"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "对17岁孩子立界限后情绪处理",
+      "atom_ids": [
+        "s-58976debe8c1-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-58976debe8c1",
+          "blocks": [
+            "b00042"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "17岁孩子洗澡后泡泡粘墙壁的立界限案例",
+      "atom_ids": [
+        "s-58976debe8c1-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-58976debe8c1",
+          "blocks": [
+            "b00040",
+            "b00041"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "家中不让孩子碰玻璃和菜刀",
+      "atom_ids": [
+        "s-58976debe8c1-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-58976debe8c1",
+          "blocks": [
+            "b00090"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "rule"
+    }
+  ]
+}

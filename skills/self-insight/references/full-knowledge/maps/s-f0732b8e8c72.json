@@ -1,0 +1,641 @@
+{
+  "concepts": [
+    {
+      "name": "右脑",
+      "definition": "孩子大脑中负责感觉、视觉、想象力、直觉、韵律、整体思维、情绪和艺术的部分，从出生就相对成熟，情绪表达直接不隐藏。",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a003",
+        "s-f0732b8e8c72-c001:a005",
+        "s-f0732b8e8c72-c001:a006",
+        "s-f0732b8e8c72-c001:a011",
+        "s-f0732b8e8c72-c001:a012"
+      ]
+    },
+    {
+      "name": "左脑",
+      "definition": "孩子大脑中负责严谨、冷静、有条理的部分，比喻为办公室，具体功能将在后续介绍。",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a004",
+        "s-f0732b8e8c72-c001:a013"
+      ]
+    },
+    {
+      "name": "情绪联结",
+      "definition": "与孩子建立良好情绪连接的原则和根本，需要理解孩子大脑，以便在任何情况下举一反三。",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a001",
+        "s-f0732b8e8c72-c001:a002"
+      ]
+    },
+    {
+      "name": "直觉",
+      "definition": "右脑功能之一，孩子能通过直觉感知父母的情绪和家庭关系，即使没有直接表达。",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a008",
+        "s-f0732b8e8c72-c001:a009"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-f0732b8e8c72-c001:a002",
+      "target": "s-f0732b8e8c72-c001:a001",
+      "kind": "prerequisite",
+      "condition": "要理解情绪联结的原则和根本，首先需要认识孩子的大脑。",
+      "reason": "记录a002指出认识孩子大脑是情绪联结的第一步，而a001强调理解情绪联结原则的重要性。"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a005",
+      "target": "s-f0732b8e8c72-c001:a003",
+      "kind": "supports",
+      "condition": "右脑负责感觉、视觉、想象力、直觉、韵律、整体思维、情绪和艺术，因此比喻为活泼明快的青草地。",
+      "reason": "a003用青草地比喻右脑，a005列出右脑功能，两者相互印证。"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a006",
+      "target": "s-f0732b8e8c72-c001:a011",
+      "kind": "supports",
+      "condition": "右脑从出生就相对成熟，所以孩子从小就有情绪表达。",
+      "reason": "a006说明右脑发育成熟，a011列举从出生到青少年期的情绪表现，支持右脑情绪功能。"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a008",
+      "target": "s-f0732b8e8c72-c001:a009",
+      "kind": "example_of",
+      "condition": "九岁孩子感知父母婚姻问题是孩子通过直觉感知父母焦虑的一个具体案例。",
+      "reason": "a008提到孩子能感知父母焦虑，a009给出具体案例，是例证关系。"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a005",
+      "target": "s-f0732b8e8c72-c001:a007",
+      "kind": "supports",
+      "condition": "右脑负责视觉，因此孩子对颜色敏感。",
+      "reason": "a005列出右脑功能包括视觉，a007说明孩子视觉发育好、对颜色敏感，支持右脑视觉功能。"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a005",
+      "target": "s-f0732b8e8c72-c001:a010",
+      "kind": "supports",
+      "condition": "右脑负责韵律和艺术，因此孩子对韵律和艺术敏感。",
+      "reason": "a005列出右脑功能包括韵律和艺术，a010给出孩子听到音乐跳舞的例子，支持该功能。"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a004",
+      "target": "s-f0732b8e8c72-c001:a013",
+      "kind": "step_of",
+      "condition": "左脑的比喻和功能将在下一期介绍，是认识孩子大脑的后续步骤。",
+      "reason": "a004给出左脑比喻，a013预告下一期介绍左脑功能，是连续步骤。"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n001",
+      "target": "s-f0732b8e8c72-c001:a003",
+      "kind": "complements",
+      "condition": "适用场景：理解右脑比喻的用途",
+      "reason": "源指出记住右脑如青草地的画面能帮助看清右脑分工，补充了该比喻（a003）在理解左右脑分工中的实际用途。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a003",
+      "target": "s-f0732b8e8c72-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用场景：理解右脑比喻的用途",
+      "reason": "源指出记住右脑如青草地的画面能帮助看清右脑分工，补充了该比喻（a003）在理解左右脑分工中的实际用途。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n001",
+      "target": "s-f0732b8e8c72-c001:a004",
+      "kind": "complements",
+      "condition": "适用场景：理解左脑比喻的用途",
+      "reason": "源指出记住左脑如办公室的画面能帮助看清左脑分工，补充了该比喻（a004）在理解左右脑分工中的实际用途。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a004",
+      "target": "s-f0732b8e8c72-c001:v2-n001",
+      "kind": "complements",
+      "condition": "适用场景：理解左脑比喻的用途",
+      "reason": "源指出记住左脑如办公室的画面能帮助看清左脑分工，补充了该比喻（a004）在理解左右脑分工中的实际用途。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n001",
+      "target": "s-f0732b8e8c72-c001:a002",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：左右脑分工",
+      "reason": "源强调记住两幅图画帮助看清分工，候选指出认识孩子大脑是情绪联结第一步，两者都涉及左右脑认识，但源未提情绪联结，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a002",
+      "target": "s-f0732b8e8c72-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：左右脑分工",
+      "reason": "源强调记住两幅图画帮助看清分工，候选指出认识孩子大脑是情绪联结第一步，两者都涉及左右脑认识，但源未提情绪联结，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n001",
+      "target": "s-f0732b8e8c72-c001:a005",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑功能",
+      "reason": "源说记住图画帮助看清分工，候选列出右脑负责的功能，属于分工内容，但源未具体列举，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a005",
+      "target": "s-f0732b8e8c72-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑功能",
+      "reason": "源说记住图画帮助看清分工，候选列出右脑负责的功能，属于分工内容，但源未具体列举，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n001",
+      "target": "s-f0732b8e8c72-c001:a006",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑发育",
+      "reason": "源谈左右脑分工记忆，候选说明右脑发育成熟，两者都涉及右脑特性，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a006",
+      "target": "s-f0732b8e8c72-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑发育",
+      "reason": "源谈左右脑分工记忆，候选说明右脑发育成熟，两者都涉及右脑特性，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n001",
+      "target": "s-f0732b8e8c72-c001:a012",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑情绪",
+      "reason": "源谈左右脑分工，候选说孩子情绪不隐藏，属于右脑特点，但源未提及，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a012",
+      "target": "s-f0732b8e8c72-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑情绪",
+      "reason": "源谈左右脑分工，候选说孩子情绪不隐藏，属于右脑特点，但源未提及，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n001",
+      "target": "s-f0732b8e8c72-c001:a011",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑情绪表现",
+      "reason": "源谈左右脑分工，候选描述右脑情绪表现，相关但源未具体提及，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a011",
+      "target": "s-f0732b8e8c72-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑情绪表现",
+      "reason": "源谈左右脑分工，候选描述右脑情绪表现，相关但源未具体提及，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n001",
+      "target": "s-f0732b8e8c72-c001:a007",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑视觉",
+      "reason": "源谈左右脑分工，候选指出孩子对颜色敏感，属于右脑视觉功能，但源未提及，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a007",
+      "target": "s-f0732b8e8c72-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑视觉",
+      "reason": "源谈左右脑分工，候选指出孩子对颜色敏感，属于右脑视觉功能，但源未提及，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n001",
+      "target": "s-f0732b8e8c72-c001:a013",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：左右脑分工介绍",
+      "reason": "源谈记住图画帮助看清分工，候选为下一期预告介绍左脑，两者都是左右脑分工话题，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a013",
+      "target": "s-f0732b8e8c72-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：左右脑分工介绍",
+      "reason": "源谈记住图画帮助看清分工，候选为下一期预告介绍左脑，两者都是左右脑分工话题，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n001",
+      "target": "s-f0732b8e8c72-c001:a001",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：情绪联结原则",
+      "reason": "源谈左右脑分工记忆，候选谈情绪联结根本原则，均属课程内容，但直接关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a001",
+      "target": "s-f0732b8e8c72-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：情绪联结原则",
+      "reason": "源谈左右脑分工记忆，候选谈情绪联结根本原则，均属课程内容，但直接关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n001",
+      "target": "s-f0732b8e8c72-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑直觉",
+      "reason": "源谈左右脑分工，候选说孩子凭直觉感知父母情感，涉及右脑直觉功能，但源未提及，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n002",
+      "target": "s-f0732b8e8c72-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑直觉",
+      "reason": "源谈左右脑分工，候选说孩子凭直觉感知父母情感，涉及右脑直觉功能，但源未提及，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n002",
+      "target": "s-f0732b8e8c72-c001:a008",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：孩子直觉感知父母情感",
+      "reason": "源说孩子凭直觉感知父母掩饰的情感状态，候选具体指出孩子能感知父母的焦虑，属于源所述能力的具体情形，但方向为源到候选，不构成 example_of，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a008",
+      "target": "s-f0732b8e8c72-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：孩子直觉感知父母情感",
+      "reason": "源说孩子凭直觉感知父母掩饰的情感状态，候选具体指出孩子能感知父母的焦虑，属于源所述能力的具体情形，但方向为源到候选，不构成 example_of，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n002",
+      "target": "s-f0732b8e8c72-c001:a009",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：孩子直觉感知父母婚姻问题",
+      "reason": "源说孩子凭直觉感知父母掩饰的关系问题，候选给出九岁孩子感知父母婚姻问题的案例，是源所述现象的具体例证，但方向不对，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a009",
+      "target": "s-f0732b8e8c72-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：孩子直觉感知父母婚姻问题",
+      "reason": "源说孩子凭直觉感知父母掩饰的关系问题，候选给出九岁孩子感知父母婚姻问题的案例，是源所述现象的具体例证，但方向不对，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n002",
+      "target": "s-f0732b8e8c72-c001:a006",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑直觉能力基础",
+      "reason": "源说孩子凭直觉感知，候选指出右脑发育成熟，可为直觉能力提供生理基础，但源未提及，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a006",
+      "target": "s-f0732b8e8c72-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑直觉能力基础",
+      "reason": "源说孩子凭直觉感知，候选指出右脑发育成熟，可为直觉能力提供生理基础，但源未提及，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n002",
+      "target": "s-f0732b8e8c72-c001:a005",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑负责直觉",
+      "reason": "源说孩子凭直觉感知，候选列出右脑负责直觉功能，与源能力来源相关，但源未明确归因，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a005",
+      "target": "s-f0732b8e8c72-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑负责直觉",
+      "reason": "源说孩子凭直觉感知，候选列出右脑负责直觉功能，与源能力来源相关，但源未明确归因，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n002",
+      "target": "s-f0732b8e8c72-c001:a012",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：孩子情绪表达",
+      "reason": "源说孩子能感知父母情感，候选说孩子情绪不隐藏，都涉及孩子情感特性，但角度不同，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a012",
+      "target": "s-f0732b8e8c72-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：孩子情绪表达",
+      "reason": "源说孩子能感知父母情感，候选说孩子情绪不隐藏，都涉及孩子情感特性，但角度不同，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n002",
+      "target": "s-f0732b8e8c72-c001:a001",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：情绪联结原则",
+      "reason": "源涉及孩子感知父母情感，候选谈情绪联结根本原则，可能相关但源未提原则，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a001",
+      "target": "s-f0732b8e8c72-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：情绪联结原则",
+      "reason": "源涉及孩子感知父母情感，候选谈情绪联结根本原则，可能相关但源未提原则，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n002",
+      "target": "s-f0732b8e8c72-c001:a002",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：认识大脑",
+      "reason": "源涉及直觉感知，候选指出认识大脑是情绪联结第一步，两者均属情绪联结与大脑基础，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a002",
+      "target": "s-f0732b8e8c72-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：认识大脑",
+      "reason": "源涉及直觉感知，候选指出认识大脑是情绪联结第一步，两者均属情绪联结与大脑基础，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n002",
+      "target": "s-f0732b8e8c72-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：左右脑图画",
+      "reason": "源涉及右脑直觉，候选建议记住左右脑图画帮助看清分工，两者都涉及左右脑功能，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n001",
+      "target": "s-f0732b8e8c72-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：左右脑图画",
+      "reason": "源涉及右脑直觉，候选建议记住左右脑图画帮助看清分工，两者都涉及左右脑功能，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:v2-n002",
+      "target": "s-f0732b8e8c72-c001:a011",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑情绪",
+      "reason": "源涉及直觉感知，候选描述右脑情绪表现，相关但源未提及，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f0732b8e8c72-c001:a011",
+      "target": "s-f0732b8e8c72-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件，仅同主题：右脑情绪",
+      "reason": "源涉及直觉感知，候选描述右脑情绪表现，相关但源未提及，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "理解情绪",
+      "when": "本课内容全部属于理解情绪模块，内部通过左右脑功能与情绪联结原则相互关联。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a001",
+        "s-f0732b8e8c72-c001:a002",
+        "s-f0732b8e8c72-c001:a003",
+        "s-f0732b8e8c72-c001:a004",
+        "s-f0732b8e8c72-c001:a005",
+        "s-f0732b8e8c72-c001:a006",
+        "s-f0732b8e8c72-c001:a007",
+        "s-f0732b8e8c72-c001:a008",
+        "s-f0732b8e8c72-c001:a009",
+        "s-f0732b8e8c72-c001:a010",
+        "s-f0732b8e8c72-c001:a011",
+        "s-f0732b8e8c72-c001:a012",
+        "s-f0732b8e8c72-c001:a013",
+        "s-f0732b8e8c72-c001:r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "scope": "within_module",
+      "source_limits": []
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-f0732b8e8c72-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-f0732b8e8c72-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a002"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-f0732b8e8c72-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a003"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-f0732b8e8c72-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a004"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-f0732b8e8c72-c001:u0005",
+      "kind": "method",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-f0732b8e8c72-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a005"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-f0732b8e8c72-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a006"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-f0732b8e8c72-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a007"
+      ],
+      "blocks": [
+        "b00010",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-f0732b8e8c72-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a008"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-f0732b8e8c72-c001:u0010",
+      "kind": "method",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:r001"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-f0732b8e8c72-c001:u0011",
+      "kind": "case",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a009"
+      ],
+      "blocks": [
+        "b00014",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-f0732b8e8c72-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a010"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-f0732b8e8c72-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-f0732b8e8c72-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a011"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-f0732b8e8c72-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a012"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-f0732b8e8c72-c001:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:a013"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "记住左右脑两幅图画的用途",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f0732b8e8c72",
+          "blocks": [
+            "b00008"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "mnemonic"
+    },
+    {
+      "title": "孩子能凭直觉感知父母掩饰的情感状态",
+      "atom_ids": [
+        "s-f0732b8e8c72-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f0732b8e8c72",
+          "blocks": [
+            "b00016"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "mechanism"
+    }
+  ]
+}

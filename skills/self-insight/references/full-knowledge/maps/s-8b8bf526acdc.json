@@ -1,0 +1,374 @@
+{
+  "concepts": [
+    {
+      "name": "父母行为控制削弱孩子自信",
+      "definition": "父母替孩子控制一切、规划道路，使孩子几乎没有失败和犯错机会，导致孩子对自己能力不自信。",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a001",
+        "s-8b8bf526acdc-c001:a003"
+      ]
+    },
+    {
+      "name": "从未经历失败导致不自信",
+      "definition": "讲师认为最失败的人生是从来没有经历过失败，因为这样的人一定不自信。",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a002"
+      ]
+    },
+    {
+      "name": "不自信男孩的伴侣选择倾向",
+      "definition": "不自信的男孩很可能喜欢找比自己大很多的女性做女朋友或老婆。",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a004"
+      ]
+    },
+    {
+      "name": "不自信女孩的伴侣选择倾向",
+      "definition": "不自信的女孩基本上会找一个非常强势、甚至有暴力倾向的人来强迫她、压着她，或者对她很粗暴地说话，这是因为她内心极度不自信。",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a005"
+      ]
+    },
+    {
+      "name": "父母过度帮助导致孩子自我怀疑",
+      "definition": "孩子做事时父母过多帮助或打断，会让孩子对自己的能力感到深深怀疑，不确定自己行不行。",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a006",
+        "s-8b8bf526acdc-c001:a007"
+      ]
+    },
+    {
+      "name": "被控制导致自尊心低和敏感",
+      "definition": "被控制的人自我调节能力较差，自尊心在高压统治下形成，所以自尊心很低、很敏感。",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a008"
+      ]
+    },
+    {
+      "name": "自卑又自尊心强导致难以相处",
+      "definition": "这种人既自卑又自尊心很强，很难相处，别人说话要小心翼翼，因为一不小心就会碰到他的自尊心。",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a009"
+      ]
+    },
+    {
+      "name": "内部控制导致讨好型人格",
+      "definition": "内部控制的父母使用操纵等手段，可能导致孩子小时候对父母过度忠诚、遵守权威，成为很听话、不反抗父母的孩子；这种孩子到社会上会习惯性通过讨好别人来获得认同感和安全感。",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a010",
+        "s-8b8bf526acdc-c001:a011"
+      ]
+    },
+    {
+      "name": "顺从为避免内疚或失去爱导致怨恨和越界控制",
+      "definition": "如果孩子的顺从是为了避免感到内疚或失去父母的爱，那么当他们被父母拒绝时就会感到怨恨，因此被控制的孩子会想要越界去控制自己的父母。",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a012",
+        "s-8b8bf526acdc-c001:a013"
+      ]
+    },
+    {
+      "name": "父母打破孩子界限导致孩子没有界限感",
+      "definition": "孩子的生活环境中界限不断被父母打破、穿越，孩子慢慢也变成没有界限的人，会随意打乱别人的界限。",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a014"
+      ]
+    },
+    {
+      "name": "被控制导致心理问题和内心矛盾",
+      "definition": "被控制的孩子对父母有矛盾混合的感觉：既想顺服父母获得认同，又极度抵御被控制的感觉和独立的需要，这种矛盾造成内心紧张和张力，长期心理紧张会导致焦虑、抑郁甚至反社会行为。",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a015",
+        "s-8b8bf526acdc-c001:a016"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-8b8bf526acdc-c001:a001",
+      "target": "s-8b8bf526acdc-c001:a002",
+      "kind": "supports",
+      "condition": "当父母控制一切导致孩子没有失败机会时，孩子不自信；而从未经历失败的人一定不自信，因此支持该观点。",
+      "reason": "a001指出控制导致没有失败机会从而不自信，a002指出从未经历失败导致不自信，两者逻辑一致。"
+    },
+    {
+      "source": "s-8b8bf526acdc-c001:a001",
+      "target": "s-8b8bf526acdc-c001:a003",
+      "kind": "example_of",
+      "condition": "a003是a001所述机制的具体案例：父母能力强且安排一切，导致孩子极度不自信。",
+      "reason": "a003描述父母有能力、有钱、社会地位高并安排好一切，孩子极度不自信，是a001的实例。"
+    },
+    {
+      "source": "s-8b8bf526acdc-c001:a001",
+      "target": "s-8b8bf526acdc-c001:a006",
+      "kind": "causes",
+      "condition": "父母替孩子控制一切包括过多帮助或打断孩子解决问题，导致孩子自我怀疑。",
+      "reason": "a001提到父母替孩子控制一切，a006具体说明过多帮助或打断导致自我怀疑，是控制的一种表现。"
+    },
+    {
+      "source": "s-8b8bf526acdc-c001:a006",
+      "target": "s-8b8bf526acdc-c001:a007",
+      "kind": "causes",
+      "condition": "父母插手帮助导致孩子将成功归因于父母帮助，从而自我怀疑。",
+      "reason": "a006指出过多帮助导致自我怀疑，a007解释机制：孩子将成功归因于父母帮助，因此自我怀疑。"
+    },
+    {
+      "source": "s-8b8bf526acdc-c001:a001",
+      "target": "s-8b8bf526acdc-c001:a008",
+      "kind": "causes",
+      "condition": "父母控制导致孩子自尊心低和敏感。",
+      "reason": "a001指出控制削弱自信，a008指出被控制导致自尊心低和敏感，自信与自尊相关。"
+    },
+    {
+      "source": "s-8b8bf526acdc-c001:a008",
+      "target": "s-8b8bf526acdc-c001:a009",
+      "kind": "causes",
+      "condition": "自尊心低且敏感的人可能既自卑又自尊心强，导致难以相处。",
+      "reason": "a008指出自尊心低和敏感，a009指出自卑又自尊心强导致难以相处，两者相关。"
+    },
+    {
+      "source": "s-8b8bf526acdc-c001:a001",
+      "target": "s-8b8bf526acdc-c001:a010",
+      "kind": "causes",
+      "condition": "父母控制（尤其是内部控制）可能导致孩子讨好型人格。",
+      "reason": "a001指出控制削弱自信，a010指出内部控制导致讨好型人格，控制是共同因素。"
+    },
+    {
+      "source": "s-8b8bf526acdc-c001:a010",
+      "target": "s-8b8bf526acdc-c001:a011",
+      "kind": "causes",
+      "condition": "在家讨好父母的行为会泛化到社会，导致在社会讨好他人。",
+      "reason": "a010指出孩子在家讨好父母，a011指出到社会上也会讨好他人，是行为泛化。"
+    },
+    {
+      "source": "s-8b8bf526acdc-c001:a001",
+      "target": "s-8b8bf526acdc-c001:a012",
+      "kind": "causes",
+      "condition": "父母控制导致孩子顺从以避免内疚或失去爱，进而产生怨恨和越界控制。",
+      "reason": "a001指出控制，a012指出被控制的孩子顺从以避免内疚或失去爱，被拒绝时怨恨并想越界控制父母。"
+    },
+    {
+      "source": "s-8b8bf526acdc-c001:a012",
+      "target": "s-8b8bf526acdc-c001:a013",
+      "kind": "association",
+      "condition": "孩子试图控制父母买房决策是越界控制的具体案例",
+      "reason": "顺从为避免内疚或失去爱导致怨恨和越界控制的概念描述被控制的孩子可能越界控制父母，而孩子试图控制父母买房决策是具体案例，两者内容相关，但原方向为概念到实例，不符合示例关系，改为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8b8bf526acdc-c001:a001",
+      "target": "s-8b8bf526acdc-c001:a014",
+      "kind": "causes",
+      "condition": "父母控制打破孩子界限，导致孩子没有界限感。",
+      "reason": "a001指出父母控制，a014指出父母打破界限导致孩子没有界限感。"
+    },
+    {
+      "source": "s-8b8bf526acdc-c001:a001",
+      "target": "s-8b8bf526acdc-c001:a015",
+      "kind": "causes",
+      "condition": "父母控制导致孩子内心矛盾和心理问题。",
+      "reason": "a001指出控制，a015指出被控制的孩子有矛盾混合感觉，导致心理紧张和问题。"
+    },
+    {
+      "source": "s-8b8bf526acdc-c001:a015",
+      "target": "s-8b8bf526acdc-c001:a016",
+      "kind": "causes",
+      "condition": "极度控制型父母导致孩子心理问题。",
+      "reason": "a015指出被控制导致心理问题，a016明确指出极度控制型父母导致孩子心理问题。"
+    },
+    {
+      "source": "s-8b8bf526acdc-c001:a001",
+      "target": "s-8b8bf526acdc-c001:a004",
+      "kind": "causes",
+      "condition": "父母控制导致孩子不自信，不自信男孩倾向于找年长女性伴侣。",
+      "reason": "a001指出控制导致不自信，a004指出不自信男孩的伴侣选择倾向。"
+    },
+    {
+      "source": "s-8b8bf526acdc-c001:a001",
+      "target": "s-8b8bf526acdc-c001:a005",
+      "kind": "causes",
+      "condition": "父母控制导致孩子不自信，不自信女孩倾向于找强势或有暴力倾向的伴侣。",
+      "reason": "a001指出控制导致不自信，a005指出不自信女孩的伴侣选择倾向。"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a001",
+        "s-8b8bf526acdc-c001:a003"
+      ],
+      "reason": "两者都描述父母控制一切导致孩子不自信，a003是a001的具体案例，但实质等价。"
+    }
+  ],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-8b8bf526acdc-c001:u0001",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-8b8bf526acdc-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a002"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-8b8bf526acdc-c001:u0003",
+      "kind": "case",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a003"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-8b8bf526acdc-c001:u0004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a004"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-8b8bf526acdc-c001:u0005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a005"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-8b8bf526acdc-c001:u0006",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a006"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-8b8bf526acdc-c001:u0007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a007"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-8b8bf526acdc-c001:u0008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a008"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-8b8bf526acdc-c001:u0009",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a009"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-8b8bf526acdc-c001:u0010",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a010"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-8b8bf526acdc-c001:u0011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a011"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-8b8bf526acdc-c001:u0012",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a012"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-8b8bf526acdc-c001:u0013",
+      "kind": "case",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a013"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-8b8bf526acdc-c001:u0014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a014"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-8b8bf526acdc-c001:u0015",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a015"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-8b8bf526acdc-c001:u0016",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8b8bf526acdc-c001:a016"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

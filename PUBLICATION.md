@@ -1,9 +1,13 @@
 # Package contents / 包内容
 
-This package contains the router and all nine modules, including their methods, knowledge, cases and 477 atoms. Skill resource files total 88. Existing anonymized cases are retained. Private identities and source-file locations are replaced in attribution and historical records only.
+The complete router and nine modules contain 600 runtime files. The original 477 atoms, 54 knowledge and case files, and dialogue methods remain intact. The expanded library adds 13,044 structured records, with conditions, limits, source references and links to the original knowledge. Record counts are not counts of unique concepts.
 
-本包包含主入口与九个模块，保留方法、知识、案例及 477 条原子，共 88 个 Skill 资源文件。已匿名化的案例完整保留；只替换来源与历史记录中的私人身份和文件位置。
+完整主入口与九模块包含 600 个运行文件。原有 477 条原子、54 个知识与案例文件及咨询方法完整保留；补充库包含 13,044 条结构化记录，附适用条件、限制、来源定位及新旧知识关联。记录数量不等于独立概念数量。
 
-The package does not require the maintainer's original course files or workspace. It uses its included knowledge and information supplied by the user. Historical test notes describe their original scope, not clinical effectiveness or a new evaluation.
+Publication changes attribution, residual private locations and installation paths, not knowledge or case bodies. Original course transcripts, private notes, identity mappings, credentials, internal audits and evaluation answers are excluded. The approved bilingual diagram is retained.
 
-本包不依赖维护者的课程原文或工作区。它使用内置知识和使用者提供的信息。历史验证记录只代表原有验证范围，不代表临床效果或本次新增验证。
+发布适配只处理来源标注、残留私人位置与安装路径，不删减知识或案例正文。课程原文、私人笔记、身份映射、凭据、内部审计及测试答案不发布。已确认的中英文介绍图保留。
+
+The package uses its bundled knowledge and information voluntarily supplied by the user. It does not require the maintainer's private workspace or source courses. Local retrieval uses Python 3 standard libraries without an API; Markdown indexes provide a fallback. Historical test notes retain their original scope. Engineering checks and de-identification are not clinical validation or a copyright license.
+
+使用时依靠内置知识及使用者自愿提供的信息，不依赖维护者的私人工作区或课程文件。本地检索仅用 Python 3 标准库，不需要 API；也可按 Markdown 索引查阅。历史验证记录保留当时范围。工程检查与匿名处理不等于临床效果验证或版权授权。

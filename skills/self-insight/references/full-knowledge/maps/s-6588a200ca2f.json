@@ -1,0 +1,764 @@
+{
+  "concepts": [
+    {
+      "name": "13-18岁沟通的前提条件",
+      "definition": "在13-18岁阶段，与孩子沟通的必要条件包括：拥有良好亲子关系、对孩子大脑发育有认知、父母愿意挑战自己、父母愿意承认自己不足。",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a001",
+        "s-6588a200ca2f-c001:a002",
+        "s-6588a200ca2f-c001:a003",
+        "s-6588a200ca2f-c001:a004"
+      ]
+    },
+    {
+      "name": "13-18岁沟通方法",
+      "definition": "在13-18岁阶段，沟通方法包括：保持参与、倾听多于解决问题、不当独裁者并解释规则、一起做事情。",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a005",
+        "s-6588a200ca2f-c001:a007",
+        "s-6588a200ca2f-c001:a008",
+        "s-6588a200ca2f-c001:a009"
+      ]
+    },
+    {
+      "name": "19-25岁沟通方法",
+      "definition": "在19-25岁阶段，沟通方法包括：礼貌、重新学习孩子、支持而非评价、尊重孩子的拒绝、保持界限。",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a010",
+        "s-6588a200ca2f-c001:a011",
+        "s-6588a200ca2f-c001:a012",
+        "s-6588a200ca2f-c001:a013",
+        "s-6588a200ca2f-c001:a014"
+      ]
+    },
+    {
+      "name": "参与式沟通案例",
+      "definition": "母亲训练女儿参加选美比赛，通过实际参与帮助女儿，成为女儿愿意沟通的关键。",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a006"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-6588a200ca2f-c001:a005",
+      "target": "s-6588a200ca2f-c001:a006",
+      "kind": "example_of",
+      "condition": "当父母实际参与孩子的活动（如训练走台步）时，孩子会感受到帮助，从而促进沟通。",
+      "reason": "a006是a005中'保持参与'方法的具体案例，母亲通过训练女儿走台步实际参与，女儿因此愿意沟通。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a001",
+      "target": "s-6588a200ca2f-c001:a002",
+      "kind": "association",
+      "condition": "均为13-18岁沟通的前提条件",
+      "reason": "“13-18岁沟通的前提条件：良好亲子关系”和“13-18岁沟通的前提条件：对孩子大脑发育有认知”是两个并列的必要条件，两者共同为沟通提供基础，但内容并未显示相互支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 关系过度，改为 association"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a001",
+      "target": "s-6588a200ca2f-c001:a003",
+      "kind": "supports",
+      "condition": "良好亲子关系和愿意挑战自己都是13-18岁沟通的前提条件，共同支持沟通。",
+      "reason": "两者都是必要条件，相互支持。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a001",
+      "target": "s-6588a200ca2f-c001:a004",
+      "kind": "supports",
+      "condition": "良好亲子关系和愿意承认自己不足都是13-18岁沟通的前提条件，共同支持沟通。",
+      "reason": "两者都是必要条件，相互支持。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a002",
+      "target": "s-6588a200ca2f-c001:a003",
+      "kind": "association",
+      "condition": "均为13-18岁沟通的前提条件",
+      "reason": "“13-18岁沟通的前提条件：对孩子大脑发育有认知”和“13-18岁沟通的前提条件：愿意挑战自己”是两个并列的必要条件，未显示一方支持另一方。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 关系过度，改为 association"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a002",
+      "target": "s-6588a200ca2f-c001:a004",
+      "kind": "association",
+      "condition": "均为13-18岁沟通的前提条件",
+      "reason": "“13-18岁沟通的前提条件：对孩子大脑发育有认知”和“13-18岁沟通的前提条件：愿意承认自己不足”是两个并列的必要条件，未显示一方支持另一方。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 关系过度，改为 association"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a003",
+      "target": "s-6588a200ca2f-c001:a004",
+      "kind": "supports",
+      "condition": "愿意挑战自己和愿意承认自己不足都是13-18岁沟通的前提条件，共同支持沟通。",
+      "reason": "两者都是必要条件，相互支持。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a005",
+      "target": "s-6588a200ca2f-c001:a007",
+      "kind": "supports",
+      "condition": "保持参与和倾听多于解决问题都是13-18岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a005",
+      "target": "s-6588a200ca2f-c001:a008",
+      "kind": "supports",
+      "condition": "保持参与和不当独裁者解释规则都是13-18岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a005",
+      "target": "s-6588a200ca2f-c001:a009",
+      "kind": "supports",
+      "condition": "保持参与和一起做事情都是13-18岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a007",
+      "target": "s-6588a200ca2f-c001:a008",
+      "kind": "supports",
+      "condition": "倾听多于解决问题和不当独裁者解释规则都是13-18岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a007",
+      "target": "s-6588a200ca2f-c001:a009",
+      "kind": "supports",
+      "condition": "倾听多于解决问题和一起做事情都是13-18岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a008",
+      "target": "s-6588a200ca2f-c001:a009",
+      "kind": "supports",
+      "condition": "不当独裁者解释规则和一起做事情都是13-18岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a010",
+      "target": "s-6588a200ca2f-c001:a011",
+      "kind": "supports",
+      "condition": "礼貌和重新学习孩子都是19-25岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a010",
+      "target": "s-6588a200ca2f-c001:a012",
+      "kind": "supports",
+      "condition": "礼貌和支持而非评价都是19-25岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a010",
+      "target": "s-6588a200ca2f-c001:a013",
+      "kind": "supports",
+      "condition": "礼貌和尊重孩子的拒绝都是19-25岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a010",
+      "target": "s-6588a200ca2f-c001:a014",
+      "kind": "supports",
+      "condition": "礼貌和保持界限都是19-25岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a011",
+      "target": "s-6588a200ca2f-c001:a012",
+      "kind": "supports",
+      "condition": "重新学习孩子和支持而非评价都是19-25岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a011",
+      "target": "s-6588a200ca2f-c001:a013",
+      "kind": "supports",
+      "condition": "重新学习孩子和尊重孩子的拒绝都是19-25岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a011",
+      "target": "s-6588a200ca2f-c001:a014",
+      "kind": "supports",
+      "condition": "重新学习孩子和保持界限都是19-25岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a012",
+      "target": "s-6588a200ca2f-c001:a013",
+      "kind": "supports",
+      "condition": "支持而非评价和尊重孩子的拒绝都是19-25岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a012",
+      "target": "s-6588a200ca2f-c001:a014",
+      "kind": "supports",
+      "condition": "支持而非评价和保持界限都是19-25岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a013",
+      "target": "s-6588a200ca2f-c001:a014",
+      "kind": "supports",
+      "condition": "尊重孩子的拒绝和保持界限都是19-25岁沟通方法，可以结合使用。",
+      "reason": "两者都是沟通方法，相互补充。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a001",
+      "target": "s-6588a200ca2f-c001:a005",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，良好亲子关系是保持参与等沟通方法的前提。",
+      "reason": "a001指出良好亲子关系是沟通的必要条件，a005是沟通方法，因此前提条件支持方法。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a002",
+      "target": "s-6588a200ca2f-c001:a005",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，对孩子大脑发育有认知是保持参与等沟通方法的前提",
+      "reason": "“13-18岁沟通的前提条件：对孩子大脑发育有认知”指出该认知是保持沟通的必要条件，而“13-18岁沟通方法：保持参与”是具体沟通方法，前者构成后者的先决条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原关系成立"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a003",
+      "target": "s-6588a200ca2f-c001:a005",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，愿意挑战自己是保持参与等沟通方法的前提。",
+      "reason": "a003指出愿意挑战自己是沟通的必要条件，a005是沟通方法。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a004",
+      "target": "s-6588a200ca2f-c001:a005",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，愿意承认自己不足是保持参与等沟通方法的前提。",
+      "reason": "a004指出愿意承认自己不足是沟通的必要条件，a005是沟通方法。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a001",
+      "target": "s-6588a200ca2f-c001:a007",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，良好亲子关系是倾听多于解决问题等沟通方法的前提。",
+      "reason": "a001指出良好亲子关系是沟通的必要条件，a007是沟通方法。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a002",
+      "target": "s-6588a200ca2f-c001:a007",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，对孩子大脑发育有认知是倾听多于解决问题等沟通方法的前提",
+      "reason": "“13-18岁沟通的前提条件：对孩子大脑发育有认知”指出该认知是保持沟通的必要条件，而“13-18岁沟通方法：倾听多于解决问题”是具体沟通方法，前者构成后者的先决条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原关系成立"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a003",
+      "target": "s-6588a200ca2f-c001:a007",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，愿意挑战自己是倾听多于解决问题等沟通方法的前提。",
+      "reason": "a003指出愿意挑战自己是沟通的必要条件，a007是沟通方法。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a004",
+      "target": "s-6588a200ca2f-c001:a007",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，愿意承认自己不足是倾听多于解决问题等沟通方法的前提。",
+      "reason": "a004指出愿意承认自己不足是沟通的必要条件，a007是沟通方法。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a001",
+      "target": "s-6588a200ca2f-c001:a008",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，良好亲子关系是不当独裁者解释规则等沟通方法的前提。",
+      "reason": "a001指出良好亲子关系是沟通的必要条件，a008是沟通方法。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a002",
+      "target": "s-6588a200ca2f-c001:a008",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，对孩子大脑发育有认知是不当独裁者解释规则等沟通方法的前提",
+      "reason": "“13-18岁沟通的前提条件：对孩子大脑发育有认知”指出该认知是保持沟通的必要条件，而“13-18岁沟通方法：不当独裁者，解释规则”是具体沟通方法，前者构成后者的先决条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原关系成立"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a003",
+      "target": "s-6588a200ca2f-c001:a008",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，愿意挑战自己是不当独裁者解释规则等沟通方法的前提。",
+      "reason": "a003指出愿意挑战自己是沟通的必要条件，a008是沟通方法。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a004",
+      "target": "s-6588a200ca2f-c001:a008",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，愿意承认自己不足是不当独裁者解释规则等沟通方法的前提。",
+      "reason": "a004指出愿意承认自己不足是沟通的必要条件，a008是沟通方法。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a001",
+      "target": "s-6588a200ca2f-c001:a009",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，良好亲子关系是一起做事情等沟通方法的前提。",
+      "reason": "a001指出良好亲子关系是沟通的必要条件，a009是沟通方法。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a002",
+      "target": "s-6588a200ca2f-c001:a009",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，对孩子大脑发育有认知是一起做事情等沟通方法的前提",
+      "reason": "“13-18岁沟通的前提条件：对孩子大脑发育有认知”指出该认知是保持沟通的必要条件，而“13-18岁沟通方法：一起做事情”是具体沟通方法，前者构成后者的先决条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "原关系成立"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a003",
+      "target": "s-6588a200ca2f-c001:a009",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，愿意挑战自己是一起做事情等沟通方法的前提。",
+      "reason": "a003指出愿意挑战自己是沟通的必要条件，a009是沟通方法。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a004",
+      "target": "s-6588a200ca2f-c001:a009",
+      "kind": "prerequisite",
+      "condition": "在13-18岁阶段，愿意承认自己不足是一起做事情等沟通方法的前提。",
+      "reason": "a004指出愿意承认自己不足是沟通的必要条件，a009是沟通方法。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a010",
+      "target": "s-6588a200ca2f-c001:a011",
+      "kind": "prerequisite",
+      "condition": "在19-25岁阶段，礼貌是重新学习孩子等沟通方法的前提。",
+      "reason": "a010指出礼貌是沟通的关键词，a011是沟通方法，因此礼貌是前提。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a010",
+      "target": "s-6588a200ca2f-c001:a012",
+      "kind": "prerequisite",
+      "condition": "在19-25岁阶段，礼貌是支持而非评价等沟通方法的前提。",
+      "reason": "a010指出礼貌是沟通的关键词，a012是沟通方法。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a010",
+      "target": "s-6588a200ca2f-c001:a013",
+      "kind": "prerequisite",
+      "condition": "在19-25岁阶段，礼貌是尊重孩子的拒绝等沟通方法的前提。",
+      "reason": "a010指出礼貌是沟通的关键词，a013是沟通方法。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a010",
+      "target": "s-6588a200ca2f-c001:a014",
+      "kind": "prerequisite",
+      "condition": "在19-25岁阶段，礼貌是保持界限等沟通方法的前提。",
+      "reason": "a010指出礼貌是沟通的关键词，a014是沟通方法。"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:v2-n001",
+      "target": "s-6588a200ca2f-c001:a009",
+      "kind": "complements",
+      "condition": "13-18岁沟通时",
+      "reason": "source 未说明具体方法，candidate 补充了沟通方法之一“一起做事情”，通过共同活动促进沟通，补充了实现开放的具体途径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a009",
+      "target": "s-6588a200ca2f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "13-18岁沟通时",
+      "reason": "source 未说明具体方法，candidate 补充了沟通方法之一“一起做事情”，通过共同活动促进沟通，补充了实现开放的具体途径。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:v2-n001",
+      "target": "s-6588a200ca2f-c001:a003",
+      "kind": "complements",
+      "condition": "13-18岁沟通时",
+      "reason": "candidate 补充了前提条件：父母愿意挑战自己，避免把挑战视为不尊敬，这有助于开放沟通。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a003",
+      "target": "s-6588a200ca2f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "13-18岁沟通时",
+      "reason": "candidate 补充了前提条件：父母愿意挑战自己，避免把挑战视为不尊敬，这有助于开放沟通。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:v2-n001",
+      "target": "s-6588a200ca2f-c001:a004",
+      "kind": "complements",
+      "condition": "13-18岁沟通时",
+      "reason": "candidate 补充前提条件：父母愿意承认自己不足，否则孩子会关闭沟通，补充了开放的前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a004",
+      "target": "s-6588a200ca2f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "13-18岁沟通时",
+      "reason": "candidate 补充前提条件：父母愿意承认自己不足，否则孩子会关闭沟通，补充了开放的前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:v2-n001",
+      "target": "s-6588a200ca2f-c001:a001",
+      "kind": "complements",
+      "condition": "13-18岁且父母曾有不当行为时",
+      "reason": "candidate 补充前提条件：良好亲子关系，孩子必须尊重父母，否则沟通受阻，补充了开放的基石。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a001",
+      "target": "s-6588a200ca2f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "13-18岁且父母曾有不当行为时",
+      "reason": "candidate 补充前提条件：良好亲子关系，孩子必须尊重父母，否则沟通受阻，补充了开放的基石。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:v2-n001",
+      "target": "s-6588a200ca2f-c001:a002",
+      "kind": "complements",
+      "condition": "13-18岁沟通时",
+      "reason": "candidate 补充前提条件：对孩子大脑发育有认知，提醒父母坚持沟通，补充了开放的必要认知。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a002",
+      "target": "s-6588a200ca2f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "13-18岁沟通时",
+      "reason": "candidate 补充前提条件：对孩子大脑发育有认知，提醒父母坚持沟通，补充了开放的必要认知。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:v2-n001",
+      "target": "s-6588a200ca2f-c001:a007",
+      "kind": "complements",
+      "condition": "13-18岁沟通时",
+      "reason": "candidate 补充沟通方法：倾听多于解决问题，通过倾听了解孩子，补充了开放的具体做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a007",
+      "target": "s-6588a200ca2f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "13-18岁沟通时",
+      "reason": "candidate 补充沟通方法：倾听多于解决问题，通过倾听了解孩子，补充了开放的具体做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:v2-n001",
+      "target": "s-6588a200ca2f-c001:a005",
+      "kind": "complements",
+      "condition": "13-18岁沟通时",
+      "reason": "candidate 补充沟通方法：保持参与，实际投入孩子活动，补充了开放的行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a005",
+      "target": "s-6588a200ca2f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "13-18岁沟通时",
+      "reason": "candidate 补充沟通方法：保持参与，实际投入孩子活动，补充了开放的行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:v2-n001",
+      "target": "s-6588a200ca2f-c001:a008",
+      "kind": "complements",
+      "condition": "13-18岁沟通时",
+      "reason": "candidate 补充沟通方法：不当独裁者，解释规则，允许孩子不高兴，补充了开放的沟通方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a008",
+      "target": "s-6588a200ca2f-c001:v2-n001",
+      "kind": "complements",
+      "condition": "13-18岁沟通时",
+      "reason": "candidate 补充沟通方法：不当独裁者，解释规则，允许孩子不高兴，补充了开放的沟通方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:v2-n001",
+      "target": "s-6588a200ca2f-c001:a010",
+      "kind": "conditional_difference",
+      "condition": "19-25岁孩子时",
+      "reason": "source 指出 13-18 关键词是开放，candidate 指出 19-25 关键词是礼貌，不同年龄条件下沟通关键词不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a010",
+      "target": "s-6588a200ca2f-c001:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "19-25岁孩子时",
+      "reason": "source 指出 13-18 关键词是开放，candidate 指出 19-25 关键词是礼貌，不同年龄条件下沟通关键词不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:v2-n001",
+      "target": "s-6588a200ca2f-c001:a014",
+      "kind": "association",
+      "condition": "19-25岁沟通方法",
+      "reason": "年龄不同，candidate 是 19-25 保持界限，与 source 的开放无直接关系，仅同属沟通主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a014",
+      "target": "s-6588a200ca2f-c001:v2-n001",
+      "kind": "association",
+      "condition": "19-25岁沟通方法",
+      "reason": "年龄不同，candidate 是 19-25 保持界限，与 source 的开放无直接关系，仅同属沟通主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:v2-n001",
+      "target": "s-6588a200ca2f-c001:a011",
+      "kind": "association",
+      "condition": "19-25岁沟通方法",
+      "reason": "年龄不同，内容无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a011",
+      "target": "s-6588a200ca2f-c001:v2-n001",
+      "kind": "association",
+      "condition": "19-25岁沟通方法",
+      "reason": "年龄不同，内容无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:v2-n001",
+      "target": "s-6588a200ca2f-c001:a013",
+      "kind": "association",
+      "condition": "19-25岁沟通方法",
+      "reason": "年龄不同，内容无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-6588a200ca2f-c001:a013",
+      "target": "s-6588a200ca2f-c001:v2-n001",
+      "kind": "association",
+      "condition": "19-25岁沟通方法",
+      "reason": "年龄不同，内容无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "在13-18岁阶段，父母制定规则并解释原因，允许孩子不高兴；在19-25岁阶段，父母尊重孩子的拒绝并保持界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a008",
+        "s-6588a200ca2f-c001:a013",
+        "s-6588a200ca2f-c001:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-6588a200ca2f-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-6588a200ca2f-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a002"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-6588a200ca2f-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a003"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-6588a200ca2f-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a004"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-6588a200ca2f-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a005"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-6588a200ca2f-c001:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a006"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-6588a200ca2f-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a007"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-6588a200ca2f-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a008"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-6588a200ca2f-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a009"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-6588a200ca2f-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a010"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-6588a200ca2f-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a011"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-6588a200ca2f-c001:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a012"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-6588a200ca2f-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a013"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-6588a200ca2f-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:a014"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-6588a200ca2f-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "13-18岁沟通的关键：开放",
+      "atom_ids": [
+        "s-6588a200ca2f-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-6588a200ca2f",
+          "blocks": [
+            "b00001"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "key_point"
+    }
+  ]
+}

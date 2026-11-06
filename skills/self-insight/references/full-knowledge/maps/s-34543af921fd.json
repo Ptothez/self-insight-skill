@@ -1,0 +1,510 @@
+{
+  "concepts": [
+    {
+      "name": "左脑引导方法",
+      "definition": "引导孩子左脑的四种方法：转移注意、延伸引导、同理心和诠释。",
+      "atom_ids": [
+        "s-34543af921fd-c001:a001"
+      ]
+    },
+    {
+      "name": "左脑引导方法的练习过程",
+      "definition": "开始使用左脑引导方法时可能不习惯、别扭、忘记使用，通过多练习、反复思考能逐渐自然熟练运用。",
+      "atom_ids": [
+        "s-34543af921fd-c001:a002",
+        "s-34543af921fd-c001:a003"
+      ]
+    },
+    {
+      "name": "每天15分钟高质量陪伴方法",
+      "definition": "以孩子为中心陪他玩，适用于任何年龄（3岁、10岁、16岁），只要孩子愿意被陪伴。",
+      "atom_ids": [
+        "s-34543af921fd-c001:a004",
+        "s-34543af921fd-c001:r001"
+      ]
+    },
+    {
+      "name": "全职父母的时间焦虑与内疚",
+      "definition": "全职父母常因没有足够时间陪伴孩子而感到亏欠、内疚，并处于焦虑和矛盾状态。",
+      "atom_ids": [
+        "s-34543af921fd-c001:a005"
+      ]
+    },
+    {
+      "name": "错误陪伴方式案例",
+      "definition": "父母主导玩乐高，要求孩子递积木；或提问颜色并纠正，导致陪伴质量不高。",
+      "atom_ids": [
+        "s-34543af921fd-c001:a006",
+        "s-34543af921fd-c001:a007"
+      ]
+    },
+    {
+      "name": "高质量陪伴的三个不原则",
+      "definition": "不提问、不纠正、不引导。不提问指不突然问颜色或英文名称；不纠正指15分钟内不纠正孩子的错误；不引导指不引导孩子如何玩玩具。",
+      "atom_ids": [
+        "s-34543af921fd-c001:a008"
+      ]
+    },
+    {
+      "name": "年龄较大孩子的陪伴时间调整",
+      "definition": "对于年龄稍大的孩子，同样遵循三个不原则，但陪伴时间可能需要加长。",
+      "atom_ids": [
+        "s-34543af921fd-c001:a009"
+      ]
+    },
+    {
+      "name": "高质量陪伴中的具体做法",
+      "definition": "叙述孩子当前正在做的事情、表达惊叹、以孩子为中心玩他想玩的、想他所想的、感受他所感受的。",
+      "atom_ids": [
+        "s-34543af921fd-c001:a010",
+        "s-34543af921fd-c001:r002"
+      ]
+    },
+    {
+      "name": "高质量陪伴与情绪联结",
+      "definition": "以孩子为中心、玩他想玩的、想他所想的、感受他所感受的陪伴，是带有情绪联结的高质量陪伴。",
+      "atom_ids": [
+        "s-34543af921fd-c001:a011"
+      ]
+    },
+    {
+      "name": "每天15分钟陪伴的充分性",
+      "definition": "每天15分钟的高质量陪伴就完全足够。",
+      "atom_ids": [
+        "s-34543af921fd-c001:a012"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-34543af921fd-c001:a002",
+      "target": "s-34543af921fd-c001:a003",
+      "kind": "step_of",
+      "condition": "通过多练习、反复思考",
+      "reason": "“练习左脑引导方法的初期困难”描述开始时不熟练、易忘记，“通过练习掌握左脑引导方法”说明经由多练习和反复思考可变得自然熟练；后者是前者的后续阶段，构成练习过程步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-34543af921fd-c001:a006",
+      "target": "s-34543af921fd-c001:a008",
+      "kind": "contrasts",
+      "condition": "错误陪伴方式违反三个不原则",
+      "reason": "a006是父母主导玩乐高，违反不引导原则；a008提出三个不原则，形成对比。"
+    },
+    {
+      "source": "s-34543af921fd-c001:a007",
+      "target": "s-34543af921fd-c001:a008",
+      "kind": "contrasts",
+      "condition": "错误陪伴方式违反三个不原则",
+      "reason": "a007是提问和纠正颜色，违反不提问和不纠正原则；a008提出三个不原则，形成对比。"
+    },
+    {
+      "source": "s-34543af921fd-c001:a008",
+      "target": "s-34543af921fd-c001:a010",
+      "kind": "supports",
+      "condition": "三个不原则指导具体做法",
+      "reason": "“高质量陪伴的三个不原则”规定不提问、不纠正、不引导，“高质量陪伴中的具体做法”以叙述、惊叹和以孩子为中心回应；原则为具体做法提供边界与依据。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-34543af921fd-c001:a010",
+      "target": "s-34543af921fd-c001:a011",
+      "kind": "supports",
+      "condition": "具体做法实现情绪联结",
+      "reason": "“高质量陪伴中的具体做法”包括以孩子为中心、玩他想玩的、感受他所感受的，“高质量陪伴与情绪联结”说明这些做法构成带有情绪联结的高质量陪伴；前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-34543af921fd-c001:a004",
+      "target": "s-34543af921fd-c001:a012",
+      "kind": "supports",
+      "condition": "方法适用且时间足够",
+      "reason": "a004定义每天15分钟高质量陪伴方法，a012声称该时间足够，后者支持前者的充分性。"
+    },
+    {
+      "source": "s-34543af921fd-c001:a004",
+      "target": "s-34543af921fd-c001:a009",
+      "kind": "applies_to",
+      "condition": "年龄稍大的孩子",
+      "reason": "a004说明方法适用于任何年龄，a009针对年龄稍大孩子调整陪伴时间，是方法的具体应用。"
+    },
+    {
+      "source": "s-34543af921fd-c001:v2-n001",
+      "target": "s-34543af921fd-c001:a007",
+      "kind": "complements",
+      "condition": "当父母采用错误陪伴方法时",
+      "reason": "source 指出父母陪伴方式普遍错误，target 展示具体错误方式（提问和纠正颜色），补充了错误方法的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:a007",
+      "target": "s-34543af921fd-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当父母采用错误陪伴方法时",
+      "reason": "source 指出父母陪伴方式普遍错误，target 展示具体错误方式（提问和纠正颜色），补充了错误方法的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:v2-n001",
+      "target": "s-34543af921fd-c001:r001",
+      "kind": "complements",
+      "condition": "当讨论高质量陪伴方法时",
+      "reason": "source 提出错误陪伴现象，target 给出高质量陪伴的适用年龄范围，补充了正确做法的适用条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:r001",
+      "target": "s-34543af921fd-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论高质量陪伴方法时",
+      "reason": "source 提出错误陪伴现象，target 给出高质量陪伴的适用年龄范围，补充了正确做法的适用条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:v2-n001",
+      "target": "s-34543af921fd-c001:a006",
+      "kind": "complements",
+      "condition": "当父母采用错误陪伴方法时",
+      "reason": "source 指出错误陪伴现象，target 展示具体错误方式（父母主导玩乐高），补充了错误方法的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:a006",
+      "target": "s-34543af921fd-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当父母采用错误陪伴方法时",
+      "reason": "source 指出错误陪伴现象，target 展示具体错误方式（父母主导玩乐高），补充了错误方法的具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:v2-n001",
+      "target": "s-34543af921fd-c001:a004",
+      "kind": "complements",
+      "condition": "当需要解决错误陪伴问题时",
+      "reason": "source 描述错误陪伴导致的问题，target 提出每天15分钟高质量陪伴方法，补充了正确做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:a004",
+      "target": "s-34543af921fd-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要解决错误陪伴问题时",
+      "reason": "source 描述错误陪伴导致的问题，target 提出每天15分钟高质量陪伴方法，补充了正确做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:v2-n001",
+      "target": "s-34543af921fd-c001:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 提及全职妈妈陪伴错误，target 讲全职父母的时间焦虑与内疚，主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:a005",
+      "target": "s-34543af921fd-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 提及全职妈妈陪伴错误，target 讲全职父母的时间焦虑与内疚，主题相关但无直接逻辑关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:v2-n001",
+      "target": "s-34543af921fd-c001:a011",
+      "kind": "complements",
+      "condition": "当需要提升陪伴质量时",
+      "reason": "source 指出错误陪伴导致低质量，target 说明高质量陪伴包含情绪联结，补充了高质量陪伴的内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:a011",
+      "target": "s-34543af921fd-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要提升陪伴质量时",
+      "reason": "source 指出错误陪伴导致低质量，target 说明高质量陪伴包含情绪联结，补充了高质量陪伴的内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:v2-n001",
+      "target": "s-34543af921fd-c001:r002",
+      "kind": "complements",
+      "condition": "当实施高质量陪伴时",
+      "reason": "source 提出错误陪伴现象，target 给出高质量陪伴中的具体叙述和惊叹做法，补充了正确方法细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:r002",
+      "target": "s-34543af921fd-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当实施高质量陪伴时",
+      "reason": "source 提出错误陪伴现象，target 给出高质量陪伴中的具体叙述和惊叹做法，补充了正确方法细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:v2-n001",
+      "target": "s-34543af921fd-c001:a009",
+      "kind": "complements",
+      "condition": "当孩子年龄较大时",
+      "reason": "source 描述错误陪伴，target 说明年龄较大孩子的陪伴时间调整，补充了正确方法在不同年龄的变体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:a009",
+      "target": "s-34543af921fd-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子年龄较大时",
+      "reason": "source 描述错误陪伴，target 说明年龄较大孩子的陪伴时间调整，补充了正确方法在不同年龄的变体。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:v2-n001",
+      "target": "s-34543af921fd-c001:a010",
+      "kind": "complements",
+      "condition": "当实施高质量陪伴时",
+      "reason": "source 指出错误陪伴现象，target 汇总高质量陪伴中的具体做法，补充了正确方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:a010",
+      "target": "s-34543af921fd-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当实施高质量陪伴时",
+      "reason": "source 指出错误陪伴现象，target 汇总高质量陪伴中的具体做法，补充了正确方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:v2-n001",
+      "target": "s-34543af921fd-c001:a008",
+      "kind": "complements",
+      "condition": "当实施高质量陪伴时",
+      "reason": "source 描述错误陪伴，target 提出高质量陪伴的三个不原则，补充了正确陪伴的核心规则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:a008",
+      "target": "s-34543af921fd-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当实施高质量陪伴时",
+      "reason": "source 描述错误陪伴，target 提出高质量陪伴的三个不原则，补充了正确陪伴的核心规则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:v2-n001",
+      "target": "s-34543af921fd-c001:a002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲错误陪伴现象，target 讲练习左脑引导方法的初期困难，主题不直接相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:a002",
+      "target": "s-34543af921fd-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "source 讲错误陪伴现象，target 讲练习左脑引导方法的初期困难，主题不直接相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:v2-n001",
+      "target": "s-34543af921fd-c001:a012",
+      "kind": "complements",
+      "condition": "当讨论陪伴时间时",
+      "reason": "source 提到错误陪伴使父母感觉陪伴不够，target 声称每天15分钟高质量陪伴足够，补充了正确观念。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-34543af921fd-c001:a012",
+      "target": "s-34543af921fd-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当讨论陪伴时间时",
+      "reason": "source 提到错误陪伴使父母感觉陪伴不够，target 声称每天15分钟高质量陪伴足够，补充了正确观念。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "在高质量陪伴中，通过以孩子为中心、叙述和惊叹等方式建立情绪联结，同时遵循三个不原则设定陪伴界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-34543af921fd-c001:a008",
+        "s-34543af921fd-c001:a010",
+        "s-34543af921fd-c001:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-34543af921fd-c001:a004",
+        "s-34543af921fd-c001:r001"
+      ],
+      "reason": "两者内容完全一致，均描述每天15分钟高质量陪伴方法适用于任何年龄且需孩子愿意被陪伴。"
+    },
+    {
+      "atom_ids": [
+        "s-34543af921fd-c001:a010",
+        "s-34543af921fd-c001:r002"
+      ],
+      "reason": "两者内容完全一致，均描述高质量陪伴中的叙述和惊叹具体做法。"
+    }
+  ],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-34543af921fd-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-34543af921fd-c001:a001"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-34543af921fd-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-34543af921fd-c001:a002"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-34543af921fd-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-34543af921fd-c001:a003"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-34543af921fd-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-34543af921fd-c001:a005"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-34543af921fd-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-34543af921fd-c001:a004",
+        "s-34543af921fd-c001:r001"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-34543af921fd-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-34543af921fd-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-34543af921fd-c001:u0007",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-34543af921fd-c001:a006"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-34543af921fd-c001:u0008",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-34543af921fd-c001:a007"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-34543af921fd-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-34543af921fd-c001:a008"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-34543af921fd-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-34543af921fd-c001:a009"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-34543af921fd-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-34543af921fd-c001:a010",
+        "s-34543af921fd-c001:a011",
+        "s-34543af921fd-c001:r002"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-34543af921fd-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-34543af921fd-c001:a012"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "父母陪伴方式普遍错误的现象",
+      "atom_ids": [
+        "s-34543af921fd-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-34543af921fd",
+          "blocks": [
+            "b00008"
+          ],
+          "source_kind": "B"
+        }
+      ],
+      "kind": "problem_statement"
+    }
+  ]
+}

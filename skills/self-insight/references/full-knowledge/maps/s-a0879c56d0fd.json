@@ -1,0 +1,2378 @@
+{
+  "concepts": [
+    {
+      "name": "情绪失联",
+      "definition": "情绪失联不等同于麻木；麻木是情绪失联的一种表现方式，但不是全部表现方式。情绪失联的恢复需要专业方法，不能简单解答；建议寻求专业帮助。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a001",
+        "s-a0879c56d0fd-c001:a002"
+      ]
+    },
+    {
+      "name": "心理需要",
+      "definition": "孩子通常不知道情绪背后的心理需要，甚至成人也常不知道；因此不要期待孩子能讲出自己的心理需要。父母需要自己观察和体会孩子的感受。孩子的心理需求没有不合理的，只有行为要求可能不合理。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a006",
+        "s-a0879c56d0fd-c001:r002",
+        "s-a0879c56d0fd-c003:a001"
+      ]
+    },
+    {
+      "name": "情绪表达引导",
+      "definition": "父母自己在孩子面前表达情绪，孩子会通过观察学习并发展出自己的表达方式，无需刻意引导。要引导孩子表达情绪，家长自己要先表达情绪。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a005",
+        "s-a0879c56d0fd-c003:a003"
+      ]
+    },
+    {
+      "name": "安全感",
+      "definition": "父母应营造安全的家庭，而非营造安全的世界；家庭是孩子的后备力量，提供安全感。童年获得的爱、界限和管教构成孩子的安全感，如同粮草，使孩子在面对外界恶时能够恢复和爬起来。孩子对世界不应该有完全的安全感，因为世界本来就不安全；但孩子在家里面应该有安全感。对世界的安全感分为两种：一种是真实世界的安全感，孩子不可能感觉安全；另一种是知道外面不安全但有保护的安全感，即知道天塌下来有父母顶着。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a009",
+        "s-a0879c56d0fd-c001:a010",
+        "s-a0879c56d0fd-c002:a019",
+        "s-a0879c56d0fd-c002:r001"
+      ]
+    },
+    {
+      "name": "父母行为对孩子情绪的影响",
+      "definition": "孩子的情绪本身不会造成性格上的不安全感，但父母面对孩子情绪的行为（如生气、骂人）可能造成不安全感。如果父母在孩子有情绪时冷眼旁观或破口大骂，孩子可能被伤害。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a013",
+        "s-a0879c56d0fd-c001:a015",
+        "s-a0879c56d0fd-c001:r005"
+      ]
+    },
+    {
+      "name": "情绪应对与行为界限",
+      "definition": "当孩子有情绪时，只要行为不过激，父母可以接纳；当出现打人、扔东西等过激行为时，用正确行为帮助孩子。接纳孩子的情绪不等于同意所有行为要求。可以接纳情绪，但行为上设立界限。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a014",
+        "s-a0879c56d0fd-c002:a017"
+      ]
+    },
+    {
+      "name": "抓狂孩子的处理",
+      "definition": "对于抓狂不受安慰的孩子，可以告诉他哪些行为可以做、哪些不可以做；在公共场所大哭时拉到旁边陪伴，不惩罚。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a016",
+        "s-a0879c56d0fd-c001:r006"
+      ]
+    },
+    {
+      "name": "左脑右脑测试",
+      "definition": "在孩子大闹时给出简单指令（如把手放下来、捡东西、看妈妈），如果孩子能执行，说明左脑仍有意识，有一定控制；如果无反应，说明右脑完全接管。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a017",
+        "s-a0879c56d0fd-c001:r007"
+      ]
+    },
+    {
+      "name": "右脑接管时的情绪连接",
+      "definition": "当孩子右脑完全接管时，让孩子崩溃一下，同时进行情绪连接：身体接触（摸、抱）、靠近，并将眼睛放低至略低于孩子眼睛的位置与他讲话。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a018"
+      ]
+    },
+    {
+      "name": "判断孩子是否仍在控制中",
+      "definition": "如果孩子对指令有反应（如一边哭一边去抓东西），说明左脑仍有意识，仍在控制中，父母可陪在身边，不必太紧张。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a019"
+      ]
+    },
+    {
+      "name": "不耐烦的正常与异常",
+      "definition": "孩子容易不耐烦可能是性格急躁，属正常；但如果话没讲完就爆发，则不太正常。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a020",
+        "s-a0879c56d0fd-c001:r010"
+      ]
+    },
+    {
+      "name": "生气是正常的",
+      "definition": "孩子积木搭不好生气、不想玩是正常现象；专心做事被打扰生气也很正常。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a021"
+      ]
+    },
+    {
+      "name": "打断孩子专心活动的方法",
+      "definition": "需要打断孩子专心活动时，先走到身边观察，进入他的世界，让他知道你来了，然后轻轻把手搭在肩上，再说明接下来要做什么（如准备吃饭）。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a022"
+      ]
+    },
+    {
+      "name": "讲道理无效",
+      "definition": "对八岁孩子讲道理通常无效，孩子会捂耳朵或跑开；应按孩子年龄和父母角色来处理。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a023"
+      ]
+    },
+    {
+      "name": "玩火与反社会性人格",
+      "definition": "孩子玩火或烧蚂蚁等动物需特别小心观察；玩火和烧动物与反社会性人格有关联，需观察是否有其他伤害动物行为。开水烫蚂蚁窝没有问题，但火烧动物与反社会性人格关联更强，需特别注意。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a025",
+        "s-a0879c56d0fd-c001:a026"
+      ]
+    },
+    {
+      "name": "偏心感",
+      "definition": "父母是否偏心与孩子是否觉得偏心是两回事；即使父母不偏心，孩子也可能觉得偏心。孩子觉得父母偏心与父母实际上是否偏心是两回事。即使父母自认为公平，孩子仍可能觉得偏心。父母需要关注孩子觉得偏心背后的心理需求，而不是争论自己是否公平。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a028",
+        "s-a0879c56d0fd-c002:a001"
+      ]
+    },
+    {
+      "name": "处理偏心的方法",
+      "definition": "如果有两个孩子，可以每周安排一天单独给哥哥、一天单独给弟弟，以处理偏心感。如果孩子觉得偏心，父母可以安排分开约会，例如每周固定时间分别与每个孩子单独相处。具体做法：每周三晚上，父母分别带一个孩子，下周交换。这样孩子知道在某个时间有属于自己的专属时间。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a027",
+        "s-a0879c56d0fd-c002:a003"
+      ]
+    },
+    {
+      "name": "孩子吵架的干预条件",
+      "definition": "孩子吵架时，一般吵架不用干预，但如果出现破口大骂等激烈冲突则需要干预。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a004"
+      ]
+    },
+    {
+      "name": "疏导情绪需满足心理需要",
+      "definition": "疏导孩子情绪不能只靠说教，需要满足孩子内心的需要。父母要问孩子、观察孩子、注意孩子心理需要到底是什么。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a005"
+      ]
+    },
+    {
+      "name": "孩子对关系不感兴趣的可能原因",
+      "definition": "孩子对关系不感兴趣可能因为：1. 家庭关系淡漠；2. 家庭强压操控性强；3. 父母之间是合作关系，孩子没看到幸福。这可能导致两种极端：极度想要亲密关系或一点都不想要亲密关系，甚至不想要结婚。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a007"
+      ]
+    },
+    {
+      "name": "对关系厌恶反映对父母关系的厌恶",
+      "definition": "孩子心里有很深的愤怒和对关系的厌恶，往往是反射出对父母关系厌恶的一种反射。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a008"
+      ]
+    },
+    {
+      "name": "引导不爱运动的孩子",
+      "definition": "孩子不爱运动，父母不要总是说“你去运动”，而是跟孩子一起玩。很多运动本质是玩，例如游泳可以带孩子去海边玩，而不是去泳池上课。运动最开始是玩出来的，人类从来都在运动，做家务也是运动。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a009"
+      ]
+    },
+    {
+      "name": "现代运动与过去运动的区别",
+      "definition": "现代运动往往有教练、组织、固定场所，变得不好玩；过去的运动如扔沙包、跳橡皮筋、踢石子等是自发玩耍，充满乐趣。运动最开始是玩出来的。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a010"
+      ]
+    },
+    {
+      "name": "具体表扬增强自信",
+      "definition": "父母不要只说“你画得好看”，而要非常仔细、细节地讲出哪里好看，例如颜色调配的艺术性。即使有1000人说不好看，父母坚持认为好看，对孩子影响很大。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a012"
+      ]
+    },
+    {
+      "name": "自大人格特征",
+      "definition": "孩子对别人轻微的炫耀、讽刺容易有过激反应，但对别人的行为情绪没有感受，可能是自大人格（narcissist）的特征。讲师强调不一定是，但需要引导。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a013"
+      ]
+    },
+    {
+      "name": "换位思考练习",
+      "definition": "引导孩子换位思考：当孩子对别人说了某句话或做了某事，问孩子“如果今天是他对你讲这句话，你会有什么感受？”即使孩子最初说没感受，也要坚持问，让他把自己带入情境，从而感到生气，逐渐学会换位思考。要经常做这个练习。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a014"
+      ]
+    },
+    {
+      "name": "孩子害怕怪物与看电视的关系",
+      "definition": "孩子不会凭空想象出怪物，一定有雏形，通常是因为看了太多电视或恐怖内容。因此要避免给孩子看怪物等电视。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a018"
+      ]
+    },
+    {
+      "name": "避免给孩子看不必要的负面信息",
+      "definition": "不必故意给孩子看负面信息，如唐山打人事件。但如果孩子偶然看到，要让孩子知道父母会尽力保护他。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a020"
+      ]
+    },
+    {
+      "name": "12个月宝宝抓脸的处理",
+      "definition": "12个月宝宝抓妈妈脸，不要轻轻打手，而是抓住他的手，平淡地说“不可以抓妈妈的脸”，然后继续做自己的事，避免给予关注。需要做很多很多次，几十次也许够。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a023"
+      ]
+    },
+    {
+      "name": "宝宝抓脸可能为获得关注",
+      "definition": "12个月宝宝抓妈妈脸，可能因为一抓妈妈就过来，从而获得关注，所以会一直做。因此处理时要避免给予关注。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a024"
+      ]
+    },
+    {
+      "name": "健康界限拒绝与羞耻感",
+      "definition": "当大人用健康正确的界限拒绝孩子的不合理行为要求时，孩子可能感到羞耻。这种羞耻是正常的，但前提是界限本身是健康的；如果界限伤害了孩子，则可能不是真正的立界限。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c003:a002"
+      ]
+    },
+    {
+      "name": "接纳情绪而非强行引导",
+      "definition": "孩子有情绪时，只要行为没有过激（如自伤），不需要强行引导他走出情绪。家长应接纳孩子的任何情绪，允许他悲伤、难过、抑郁，而不是试图消除情绪。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c003:a004"
+      ]
+    },
+    {
+      "name": "情绪如生理需求的比喻",
+      "definition": "用拉屎比喻情绪：孩子想拉屎时，家长不会引导他走出想拉屎的感觉；同样，孩子想哭或情绪低落时，也不应强行引导他走出情绪。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c003:a008"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-a0879c56d0fd-c001:a001",
+      "target": "s-a0879c56d0fd-c001:a002",
+      "kind": "supports",
+      "condition": "情绪失联的恢复需要专业方法",
+      "reason": "a001说明麻木是情绪失联的一种表现，a002指出恢复需要专业方法，两者共同说明情绪失联的复杂性。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a006",
+      "target": "s-a0879c56d0fd-c001:r002",
+      "kind": "supports",
+      "condition": "孩子不知道心理需要",
+      "reason": "a006指出孩子通常不知道心理需要，r002进一步说明父母不应期待孩子讲出，而应自己观察体会。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a005",
+      "target": "s-a0879c56d0fd-c003:a003",
+      "kind": "supports",
+      "condition": "父母示范表达情绪",
+      "reason": "a005提出父母表达情绪孩子会学习，c003:a003具体说明家长如何表达（如哭出来并说出感受）。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a009",
+      "target": "s-a0879c56d0fd-c001:a010",
+      "kind": "supports",
+      "condition": "家庭提供安全感",
+      "reason": "a009强调营造安全家庭，a010说明童年爱、界限和管教构成安全感，两者共同阐述安全感来源。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a009",
+      "target": "s-a0879c56d0fd-c002:a019",
+      "kind": "supports",
+      "condition": "家庭安全感与外界安全感的区别",
+      "reason": "安全家庭与安全世界的区别强调了家庭应提供安全感而非世界，支持孩子对世界的安全感应基于父母保护而非完全安全的世界。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a013",
+      "target": "s-a0879c56d0fd-c001:a015",
+      "kind": "supports",
+      "condition": "父母负面行为造成不安全感",
+      "reason": "孩子的情绪本身不造成不安全感，但父母的负面反应可能造成不安全感，支持父母冷眼旁观或破口大骂会伤害孩子的论述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a014",
+      "target": "s-a0879c56d0fd-c002:a017",
+      "kind": "supports",
+      "condition": "接纳情绪与行为界限",
+      "reason": "a014提出行为不过激时接纳，过激时干预；c002:a017明确接纳情绪不等于同意所有行为要求。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a016",
+      "target": "s-a0879c56d0fd-c001:r006",
+      "kind": "supports",
+      "condition": "处理抓狂孩子",
+      "reason": "a016和r006内容几乎相同，都是告诉孩子哪些行为可以做、哪些不可以做，公共场所陪伴不惩罚。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a017",
+      "target": "s-a0879c56d0fd-c001:r007",
+      "kind": "supports",
+      "condition": "测试左脑右脑",
+      "reason": "a017和r007描述相同的测试方法：给出简单指令观察执行情况。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a018",
+      "target": "s-a0879c56d0fd-c001:a018",
+      "kind": "supports",
+      "condition": "右脑接管时的情绪连接",
+      "reason": "a018和r008描述相同的情绪连接方法：身体接触、靠近、眼睛放低。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a019",
+      "target": "s-a0879c56d0fd-c001:a019",
+      "kind": "supports",
+      "condition": "判断孩子是否仍在控制中",
+      "reason": "a019和r009描述相同的判断方法：对指令有反应说明仍在控制中。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a020",
+      "target": "s-a0879c56d0fd-c001:r010",
+      "kind": "supports",
+      "condition": "不耐烦的正常与异常",
+      "reason": "a020和r010内容相同：容易不耐烦可能正常，但话没讲完就爆发不正常。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a021",
+      "target": "s-a0879c56d0fd-c001:a021",
+      "kind": "supports",
+      "condition": "生气是正常的",
+      "reason": "a021和r011内容相同：积木搭不好生气、专心被打扰生气正常。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a022",
+      "target": "s-a0879c56d0fd-c001:a022",
+      "kind": "supports",
+      "condition": "打断孩子专心活动的方法",
+      "reason": "a022和r012描述相同步骤：观察、进入世界、搭肩、说明。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a023",
+      "target": "s-a0879c56d0fd-c001:a023",
+      "kind": "supports",
+      "condition": "八岁孩子讲道理无效",
+      "reason": "a023和r013内容相同：对八岁孩子讲道理无效，应按年龄和角色处理。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a025",
+      "target": "s-a0879c56d0fd-c001:a026",
+      "kind": "supports",
+      "condition": "玩火与烧蚂蚁的警示",
+      "reason": "玩火或烧蚂蚁需特别小心观察与反社会性人格关联，进一步支持开水烫蚂蚁与火烧动物在风险上的区别，火烧动物关联更强。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a028",
+      "target": "s-a0879c56d0fd-c002:a001",
+      "kind": "supports",
+      "condition": "偏心感与实际偏心的区别",
+      "reason": "a028指出父母是否偏心与孩子是否觉得偏心是两回事，c002:a001进一步强调关注孩子心理需求而非争论公平。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a027",
+      "target": "s-a0879c56d0fd-c002:a003",
+      "kind": "supports",
+      "condition": "处理偏心的方法",
+      "reason": "每周安排一天单独陪伴一个孩子以处理偏心感的方法，支持了通过分开约会满足每个孩子对关注需求的具体做法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a005",
+      "target": "s-a0879c56d0fd-c001:a006",
+      "kind": "supports",
+      "condition": "疏导情绪需满足心理需要",
+      "reason": "c002:a005指出疏导情绪需满足心理需要，a006说明孩子不知道心理需要，父母需观察。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a007",
+      "target": "s-a0879c56d0fd-c002:a008",
+      "kind": "supports",
+      "condition": "孩子对关系不感兴趣的原因",
+      "reason": "c002:a007列出家庭关系淡漠等可能原因，c002:a008进一步说明对关系厌恶反映对父母关系厌恶。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a009",
+      "target": "s-a0879c56d0fd-c002:a010",
+      "kind": "supports",
+      "condition": "运动与玩耍的关系",
+      "reason": "c002:a009提出运动本质是玩，c002:a010对比现代运动与过去运动，说明运动最开始是玩出来的。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a012",
+      "target": "s-a0879c56d0fd-c002:a011",
+      "kind": "applies_to",
+      "condition": "具体表扬增强自信",
+      "reason": "c002:a012提出具体表扬方法，c002:a011案例中讲师建议具体表扬孩子的画，应用了该方法。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a013",
+      "target": "s-a0879c56d0fd-c002:a014",
+      "kind": "supports",
+      "condition": "自大人格特征与换位思考练习",
+      "reason": "孩子可能具有自大人格特征且缺乏同理心，因此需要引导，支持了引导孩子换位思考练习的必要性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a018",
+      "target": "s-a0879c56d0fd-c002:a016",
+      "kind": "causes",
+      "condition": "孩子害怕怪物与看电视的关系",
+      "reason": "c002:a018指出孩子不会凭空想象怪物，通常因看电视，c002:a016案例中建议避免给孩子看怪物电视。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a019",
+      "target": "s-a0879c56d0fd-c002:a020",
+      "kind": "supports",
+      "condition": "安全感与负面信息",
+      "reason": "孩子对世界的安全感应基于父母保护，因此不建议故意给孩子看负面信息，若偶然看到应让孩子知道父母会保护他。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a023",
+      "target": "s-a0879c56d0fd-c002:a024",
+      "kind": "causes",
+      "condition": "宝宝抓脸可能为获得关注",
+      "reason": "c002:a024解释宝宝抓脸可能为获得关注，c002:a023处理方法强调避免给予关注。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c003:a001",
+      "target": "s-a0879c56d0fd-c003:a002",
+      "kind": "supports",
+      "condition": "心理需求与行为要求的区分",
+      "reason": "心理需求没有不合理、只有行为要求可能不合理的区分，支持了健康界限拒绝不应否定心理需求，并纠正“心理需要不合理”的错误观念。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c003:a003",
+      "target": "s-a0879c56d0fd-c003:a005",
+      "kind": "applies_to",
+      "condition": "通过自身表达引导孩子表达情绪",
+      "reason": "c003:a003提出家长先表达情绪，c003:a005指出有些孩子情绪敏感但表达困难，可通过家长表达引导。"
+    },
+    {
+      "source": "s-a0879c56d0fd-c003:a004",
+      "target": "s-a0879c56d0fd-c003:a008",
+      "kind": "supports",
+      "condition": "接纳情绪而非强行引导",
+      "reason": "a004提出无需强行引导孩子走出情绪，a008用拉屎比喻说明不应强行引导情绪，支持该主张",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n001",
+      "target": "s-a0879c56d0fd-c001:v2-n003",
+      "kind": "association",
+      "condition": "孩子对偏心感知的情境",
+      "reason": "两者都是关于孩子感觉偏心的案例，但具体情况不同，source是两个孩子冲突，候选1是两姐妹均感觉偏心，主题相关但无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n003",
+      "target": "s-a0879c56d0fd-c001:v2-n001",
+      "kind": "association",
+      "condition": "孩子对偏心感知的情境",
+      "reason": "两者都是关于孩子感觉偏心的案例，但具体情况不同，source是两个孩子冲突，候选1是两姐妹均感觉偏心，主题相关但无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n001",
+      "target": "s-a0879c56d0fd-c001:a027",
+      "kind": "complements",
+      "condition": "当孩子感到偏心时",
+      "reason": "source描述了偏心冲突但未提供处理方法，候选2提出每周单独陪伴的方法，补充了解决方案",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a027",
+      "target": "s-a0879c56d0fd-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子感到偏心时",
+      "reason": "source描述了偏心冲突但未提供处理方法，候选2提出每周单独陪伴的方法，补充了解决方案",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n001",
+      "target": "s-a0879c56d0fd-c002:a002",
+      "kind": "association",
+      "condition": "孩子对偏心感知的情境",
+      "reason": "候选3是类似案例，与source主题相同但细节不同，无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a002",
+      "target": "s-a0879c56d0fd-c001:v2-n001",
+      "kind": "association",
+      "condition": "孩子对偏心感知的情境",
+      "reason": "候选3是类似案例，与source主题相同但细节不同，无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n001",
+      "target": "s-a0879c56d0fd-c001:v2-n002",
+      "kind": "example_of",
+      "condition": "当父母未偏心但孩子感觉偏心时",
+      "reason": "source中哥哥因误解认为父母偏心，实际父母用平和语气解释，体现了实际偏心与感知偏心的区别，是候选4的具体例证",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n002",
+      "target": "s-a0879c56d0fd-c001:v2-n001",
+      "kind": "has_example",
+      "condition": "当父母未偏心但孩子感觉偏心时",
+      "reason": "source中哥哥因误解认为父母偏心，实际父母用平和语气解释，体现了实际偏心与感知偏心的区别，是候选4的具体例证",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n001",
+      "target": "s-a0879c56d0fd-c001:a029",
+      "kind": "association",
+      "condition": "孩子对偏心感知的情境",
+      "reason": "候选5是类似案例，与source主题相同但无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a029",
+      "target": "s-a0879c56d0fd-c001:v2-n001",
+      "kind": "association",
+      "condition": "孩子对偏心感知的情境",
+      "reason": "候选5是类似案例，与source主题相同但无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n001",
+      "target": "s-a0879c56d0fd-c001:a028",
+      "kind": "example_of",
+      "condition": "当父母未偏心但孩子感觉偏心时",
+      "reason": "source展示了孩子感觉偏心与父母实际不同的情况，是候选6的具体例证",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a028",
+      "target": "s-a0879c56d0fd-c001:v2-n001",
+      "kind": "has_example",
+      "condition": "当父母未偏心但孩子感觉偏心时",
+      "reason": "source展示了孩子感觉偏心与父母实际不同的情况，是候选6的具体例证",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n001",
+      "target": "s-a0879c56d0fd-c002:a001",
+      "kind": "example_of",
+      "condition": "当孩子觉得偏心时",
+      "reason": "source中哥哥的崩溃体现了孩子对偏心的感知和情绪反应，是候选7所述区别的具体例证",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a001",
+      "target": "s-a0879c56d0fd-c001:v2-n001",
+      "kind": "has_example",
+      "condition": "当孩子觉得偏心时",
+      "reason": "source中哥哥的崩溃体现了孩子对偏心的感知和情绪反应，是候选7所述区别的具体例证",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n001",
+      "target": "s-a0879c56d0fd-c002:a003",
+      "kind": "complements",
+      "condition": "孩子觉得偏心需要关注时",
+      "reason": "source未提供处理方法，候选8提供了分开约会的具体步骤，补充了解决偏心感的操作方案",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a003",
+      "target": "s-a0879c56d0fd-c001:v2-n001",
+      "kind": "complements",
+      "condition": "孩子觉得偏心需要关注时",
+      "reason": "source未提供处理方法，候选8提供了分开约会的具体步骤，补充了解决偏心感的操作方案",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n002",
+      "target": "s-a0879c56d0fd-c002:a001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "候选1在source的基础上补充了父母应关注心理需求而非争论公平，补充了source未提及的后续行动",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a001",
+      "target": "s-a0879c56d0fd-c001:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "候选1在source的基础上补充了父母应关注心理需求而非争论公平，补充了source未提及的后续行动",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n002",
+      "target": "s-a0879c56d0fd-c002:a002",
+      "kind": "association",
+      "condition": "孩子感觉偏心情境",
+      "reason": "候选3是具体案例，与source的概念相关，但source不是该案例的例子，仅主题相关",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a002",
+      "target": "s-a0879c56d0fd-c001:v2-n002",
+      "kind": "association",
+      "condition": "孩子感觉偏心情境",
+      "reason": "候选3是具体案例，与source的概念相关，但source不是该案例的例子，仅主题相关",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n002",
+      "target": "s-a0879c56d0fd-c001:v2-n003",
+      "kind": "association",
+      "condition": "孩子感觉偏心情境",
+      "reason": "候选4是具体案例，与source概念相关，但无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n003",
+      "target": "s-a0879c56d0fd-c001:v2-n002",
+      "kind": "association",
+      "condition": "孩子感觉偏心情境",
+      "reason": "候选4是具体案例，与source概念相关，但无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n002",
+      "target": "s-a0879c56d0fd-c001:a029",
+      "kind": "association",
+      "condition": "孩子感觉偏心情境",
+      "reason": "候选5是具体案例，与source概念相关，无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a029",
+      "target": "s-a0879c56d0fd-c001:v2-n002",
+      "kind": "association",
+      "condition": "孩子感觉偏心情境",
+      "reason": "候选5是具体案例，与source概念相关，无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n002",
+      "target": "s-a0879c56d0fd-c001:a027",
+      "kind": "complements",
+      "condition": "孩子感到偏心时",
+      "reason": "候选6提供了每周单独陪伴的处理方法，补充了source概念的实际应用",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a027",
+      "target": "s-a0879c56d0fd-c001:v2-n002",
+      "kind": "complements",
+      "condition": "孩子感到偏心时",
+      "reason": "候选6提供了每周单独陪伴的处理方法，补充了source概念的实际应用",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n002",
+      "target": "s-a0879c56d0fd-c001:v2-n001",
+      "kind": "association",
+      "condition": "孩子感觉偏心情境",
+      "reason": "候选7是具体案例，与source概念相关，无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n001",
+      "target": "s-a0879c56d0fd-c001:v2-n002",
+      "kind": "association",
+      "condition": "孩子感觉偏心情境",
+      "reason": "候选7是具体案例，与source概念相关，无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n002",
+      "target": "s-a0879c56d0fd-c002:a003",
+      "kind": "complements",
+      "condition": "孩子觉得偏心需要关注时",
+      "reason": "候选8提供了分开约会的具体步骤，补充了source概念的操作方案",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a003",
+      "target": "s-a0879c56d0fd-c001:v2-n002",
+      "kind": "complements",
+      "condition": "孩子觉得偏心需要关注时",
+      "reason": "候选8提供了分开约会的具体步骤，补充了source概念的操作方案",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n003",
+      "target": "s-a0879c56d0fd-c001:v2-n002",
+      "kind": "example_of",
+      "condition": "当父母未偏心但孩子感觉偏心时",
+      "reason": "source描述两姐妹都认为妈妈偏心对方，体现了实际偏心与感知偏心的区别，是候选3的具体例证",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n002",
+      "target": "s-a0879c56d0fd-c001:v2-n003",
+      "kind": "has_example",
+      "condition": "当父母未偏心但孩子感觉偏心时",
+      "reason": "source描述两姐妹都认为妈妈偏心对方，体现了实际偏心与感知偏心的区别，是候选3的具体例证",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n003",
+      "target": "s-a0879c56d0fd-c001:v2-n001",
+      "kind": "association",
+      "condition": "孩子对偏心感知的情境",
+      "reason": "候选4是另一个偏心冲突案例，与source主题相同但具体情况不同，无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n001",
+      "target": "s-a0879c56d0fd-c001:v2-n003",
+      "kind": "association",
+      "condition": "孩子对偏心感知的情境",
+      "reason": "候选4是另一个偏心冲突案例，与source主题相同但具体情况不同，无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n003",
+      "target": "s-a0879c56d0fd-c002:a001",
+      "kind": "example_of",
+      "condition": "当孩子觉得偏心时",
+      "reason": "source是候选5所述孩子觉得偏心与父母实际偏心区别的实例",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a001",
+      "target": "s-a0879c56d0fd-c001:v2-n003",
+      "kind": "has_example",
+      "condition": "当孩子觉得偏心时",
+      "reason": "source是候选5所述孩子觉得偏心与父母实际偏心区别的实例",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n003",
+      "target": "s-a0879c56d0fd-c001:a028",
+      "kind": "example_of",
+      "condition": "当父母未偏心但孩子感觉偏心时",
+      "reason": "source是候选6所述区别的实例",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a028",
+      "target": "s-a0879c56d0fd-c001:v2-n003",
+      "kind": "has_example",
+      "condition": "当父母未偏心但孩子感觉偏心时",
+      "reason": "source是候选6所述区别的实例",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n003",
+      "target": "s-a0879c56d0fd-c001:a027",
+      "kind": "complements",
+      "condition": "孩子感到偏心时",
+      "reason": "候选10提供了每周单独陪伴的方法，补充了source案例中未提及的解决方案",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a027",
+      "target": "s-a0879c56d0fd-c001:v2-n003",
+      "kind": "complements",
+      "condition": "孩子感到偏心时",
+      "reason": "候选10提供了每周单独陪伴的方法，补充了source案例中未提及的解决方案",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n004",
+      "target": "s-a0879c56d0fd-c001:a016",
+      "kind": "complements",
+      "condition": "孩子抓狂时",
+      "reason": "source指出需要教哪些行为可做不可做，但未给出具体做法，候选1提供了具体执行步骤（在家允许大哭，公共场所陪伴），补充了source",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a016",
+      "target": "s-a0879c56d0fd-c001:v2-n004",
+      "kind": "complements",
+      "condition": "孩子抓狂时",
+      "reason": "source指出需要教哪些行为可做不可做，但未给出具体做法，候选1提供了具体执行步骤（在家允许大哭，公共场所陪伴），补充了source",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n004",
+      "target": "s-a0879c56d0fd-c001:r006",
+      "kind": "complements",
+      "condition": "孩子抓狂时",
+      "reason": "候选2与候选1类似，提供了具体步骤，补充了source的行为指导",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:r006",
+      "target": "s-a0879c56d0fd-c001:v2-n004",
+      "kind": "complements",
+      "condition": "孩子抓狂时",
+      "reason": "候选2与候选1类似，提供了具体步骤，补充了source的行为指导",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n004",
+      "target": "s-a0879c56d0fd-c003:a004",
+      "kind": "association",
+      "condition": "孩子情绪激动但无过激行为时",
+      "reason": "候选3强调接纳情绪而非强行引导，与source的行为引导角度不同，但都涉及抓狂孩子，无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c003:a004",
+      "target": "s-a0879c56d0fd-c001:v2-n004",
+      "kind": "association",
+      "condition": "孩子情绪激动但无过激行为时",
+      "reason": "候选3强调接纳情绪而非强行引导，与source的行为引导角度不同，但都涉及抓狂孩子，无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n004",
+      "target": "s-a0879c56d0fd-c001:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选4建议通过父母自身表达引导孩子表达情绪，与source的行为引导不同，仅主题相关",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a005",
+      "target": "s-a0879c56d0fd-c001:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选4建议通过父母自身表达引导孩子表达情绪，与source的行为引导不同，仅主题相关",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n004",
+      "target": "s-a0879c56d0fd-c003:a003",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选7与候选4类似，强调家长自身表达，与source无直接关系",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c003:a003",
+      "target": "s-a0879c56d0fd-c001:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选7与候选4类似，强调家长自身表达，与source无直接关系",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n004",
+      "target": "s-a0879c56d0fd-c003:a008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选11用比喻说明接纳情绪不强行引导，与source的行为引导不同，仅主题相关",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c003:a008",
+      "target": "s-a0879c56d0fd-c001:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选11用比喻说明接纳情绪不强行引导，与source的行为引导不同，仅主题相关",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:v2-n004",
+      "target": "s-a0879c56d0fd-c001:a017",
+      "kind": "association",
+      "condition": "孩子大闹时",
+      "reason": "候选12提供了测试孩子是否受安慰的方法，与source的抓狂不受安慰相关，但无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a017",
+      "target": "s-a0879c56d0fd-c001:v2-n004",
+      "kind": "association",
+      "condition": "孩子大闹时",
+      "reason": "候选12提供了测试孩子是否受安慰的方法，与source的抓狂不受安慰相关，但无直接补充",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:v2-n001",
+      "target": "s-a0879c56d0fd-c002:a013",
+      "kind": "association",
+      "condition": "当考虑自大人格可能性时",
+      "reason": "候选1提到自大人格特征，source提到自大狂也可能不看对方眼睛，两者都涉及自大概念但具体表现不同，关联较弱",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a013",
+      "target": "s-a0879c56d0fd-c002:v2-n001",
+      "kind": "association",
+      "condition": "当考虑自大人格可能性时",
+      "reason": "候选1提到自大人格特征，source提到自大狂也可能不看对方眼睛，两者都涉及自大概念但具体表现不同，关联较弱",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:v2-n001",
+      "target": "s-a0879c56d0fd-c002:a012",
+      "kind": "association",
+      "condition": "当关注孩子自信时",
+      "reason": "候选8提供增强自信的方法，source指出不看眼睛不等同于自信不足，两者都涉及自信但角度不同，关联较弱",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a012",
+      "target": "s-a0879c56d0fd-c002:v2-n001",
+      "kind": "association",
+      "condition": "当关注孩子自信时",
+      "reason": "候选8提供增强自信的方法，source指出不看眼睛不等同于自信不足，两者都涉及自信但角度不同，关联较弱",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:v2-n002",
+      "target": "s-a0879c56d0fd-c002:a016",
+      "kind": "complements",
+      "condition": "当孩子已经因恐怖内容害怕并影响睡眠时，该案例补充了具体应对步骤。",
+      "reason": "source建议不过万圣节以避免恐怖装扮让孩子害怕；candidate提供了一个3岁3个月女孩害怕怪物不敢独睡的案例，给出接纳情绪但不陪睡、把床拉近、避免给孩子看恐怖内容等具体界限，补充了如何处理已产生的害怕。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a016",
+      "target": "s-a0879c56d0fd-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当孩子已经因恐怖内容害怕并影响睡眠时，该案例补充了具体应对步骤。",
+      "reason": "source建议不过万圣节以避免恐怖装扮让孩子害怕；candidate提供了一个3岁3个月女孩害怕怪物不敢独睡的案例，给出接纳情绪但不陪睡、把床拉近、避免给孩子看恐怖内容等具体界限，补充了如何处理已产生的害怕。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:v2-n002",
+      "target": "s-a0879c56d0fd-c002:a018",
+      "kind": "complements",
+      "condition": "当需要理解孩子为何害怕恐怖形象时，该知识补充了成因机制。",
+      "reason": "source认为万圣节装扮恐怖孩子会害怕；candidate解释孩子不会凭空想象怪物，一定会有雏形，通常因为看了太多电视或恐怖内容，因此要避免给孩子看怪物等电视，支持了source避免接触恐怖内容的建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a018",
+      "target": "s-a0879c56d0fd-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当需要理解孩子为何害怕恐怖形象时，该知识补充了成因机制。",
+      "reason": "source认为万圣节装扮恐怖孩子会害怕；candidate解释孩子不会凭空想象怪物，一定会有雏形，通常因为看了太多电视或恐怖内容，因此要避免给孩子看怪物等电视，支持了source避免接触恐怖内容的建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:v2-n004",
+      "target": "s-a0879c56d0fd-c003:a001",
+      "kind": "association",
+      "condition": "当需要重申同一原则时，candidate与source内容几乎相同。",
+      "reason": "candidate与source表述的心理需求与行为要求区分原则几乎一致，仅措辞略有不同，未新增实质信息，因此不确定是否算补充，标记为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c003:a001",
+      "target": "s-a0879c56d0fd-c002:v2-n004",
+      "kind": "association",
+      "condition": "当需要重申同一原则时，candidate与source内容几乎相同。",
+      "reason": "candidate与source表述的心理需求与行为要求区分原则几乎一致，仅措辞略有不同，未新增实质信息，因此不确定是否算补充，标记为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:v2-n004",
+      "target": "s-a0879c56d0fd-c003:a002",
+      "kind": "complements",
+      "condition": "当讨论健康界限拒绝的心理后果时，candidate补充了羞耻感这一后果。",
+      "reason": "source指出心理需要没有不合理，只有行为要求可能不合理；candidate进一步说明该原则用于纠正“孩子心理需要不合理”的错误观念，并指出被大人界限拒绝时可能感到羞耻，补充了健康界限拒绝的心理影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c003:a002",
+      "target": "s-a0879c56d0fd-c002:v2-n004",
+      "kind": "complements",
+      "condition": "当讨论健康界限拒绝的心理后果时，candidate补充了羞耻感这一后果。",
+      "reason": "source指出心理需要没有不合理，只有行为要求可能不合理；candidate进一步说明该原则用于纠正“孩子心理需要不合理”的错误观念，并指出被大人界限拒绝时可能感到羞耻，补充了健康界限拒绝的心理影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:v2-n004",
+      "target": "s-a0879c56d0fd-c001:a006",
+      "kind": "complements",
+      "condition": "当父母尝试识别孩子心理需要时，candidate补充了孩子无法自我表达的局限。",
+      "reason": "source强调心理需要需要被看见和满足；candidate指出孩子通常不知道情绪背后的心理需要，甚至成人也常不知道，因此不要期待孩子讲出，父母需要观察和体会，补充了识别心理需要的困难和方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a006",
+      "target": "s-a0879c56d0fd-c002:v2-n004",
+      "kind": "complements",
+      "condition": "当父母尝试识别孩子心理需要时，candidate补充了孩子无法自我表达的局限。",
+      "reason": "source强调心理需要需要被看见和满足；candidate指出孩子通常不知道情绪背后的心理需要，甚至成人也常不知道，因此不要期待孩子讲出，父母需要观察和体会，补充了识别心理需要的困难和方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:v2-n004",
+      "target": "s-a0879c56d0fd-c002:a005",
+      "kind": "complements",
+      "condition": "当疏导孩子情绪时，candidate补充了满足心理需要的具体步骤。",
+      "reason": "source说明心理需要需要被满足；candidate提出疏导情绪不能只靠说教，需要问孩子、观察孩子、注意孩子心理需要到底是什么，补充了满足心理需要的可操作方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a005",
+      "target": "s-a0879c56d0fd-c002:v2-n004",
+      "kind": "complements",
+      "condition": "当疏导孩子情绪时，candidate补充了满足心理需要的具体步骤。",
+      "reason": "source说明心理需要需要被满足；candidate提出疏导情绪不能只靠说教，需要问孩子、观察孩子、注意孩子心理需要到底是什么，补充了满足心理需要的可操作方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:v2-n004",
+      "target": "s-a0879c56d0fd-c001:r002",
+      "kind": "complements",
+      "condition": "当识别孩子心理需要时，candidate再次强调了父母观察的重要性。",
+      "reason": "candidate指出孩子有情绪时不应期待孩子讲出心理需要，父母需要自己观察和体会孩子的感受，与source中看见心理需要的原则一致，并补充了父母主动识别的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:r002",
+      "target": "s-a0879c56d0fd-c002:v2-n004",
+      "kind": "complements",
+      "condition": "当识别孩子心理需要时，candidate再次强调了父母观察的重要性。",
+      "reason": "candidate指出孩子有情绪时不应期待孩子讲出心理需要，父母需要自己观察和体会孩子的感受，与source中看见心理需要的原则一致，并补充了父母主动识别的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:v2-n004",
+      "target": "s-a0879c56d0fd-c002:a017",
+      "kind": "complements",
+      "condition": "当需要处理孩子的情绪与行为要求时，candidate展示了接纳情绪与限制行为不冲突。",
+      "reason": "source区分心理需要与行为要求，心理需要可接纳，行为要求可限制；candidate具体说明可以接纳情绪但行为上设界限，如接纳害怕情绪但不陪睡，补充了该原则在实际情境中的应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a017",
+      "target": "s-a0879c56d0fd-c002:v2-n004",
+      "kind": "complements",
+      "condition": "当需要处理孩子的情绪与行为要求时，candidate展示了接纳情绪与限制行为不冲突。",
+      "reason": "source区分心理需要与行为要求，心理需要可接纳，行为要求可限制；candidate具体说明可以接纳情绪但行为上设界限，如接纳害怕情绪但不陪睡，补充了该原则在实际情境中的应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:v2-n004",
+      "target": "s-a0879c56d0fd-c002:a001",
+      "kind": "association",
+      "condition": "当涉及孩子感知偏心的心理需求时，与source原则有间接联系。",
+      "reason": "candidate提到孩子觉得偏心与父母实际偏心是两回事，应关注孩子觉得偏心背后的心理需求，与source强调看见心理需要有关联，但主题偏向偏心感知，关系较弱且不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a001",
+      "target": "s-a0879c56d0fd-c002:v2-n004",
+      "kind": "association",
+      "condition": "当涉及孩子感知偏心的心理需求时，与source原则有间接联系。",
+      "reason": "candidate提到孩子觉得偏心与父母实际偏心是两回事，应关注孩子觉得偏心背后的心理需求，与source强调看见心理需要有关联，但主题偏向偏心感知，关系较弱且不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:v2-n004",
+      "target": "s-a0879c56d0fd-c001:a003",
+      "kind": "association",
+      "condition": "当涉及拖延症背后的深层原因时，与source原则有间接联系。",
+      "reason": "candidate提到拖延症可能只是表现形式，背后存在更深层心理需求，与source区分表层行为与深层心理需要的思路相似，但具体对象不同，关系较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a003",
+      "target": "s-a0879c56d0fd-c002:v2-n004",
+      "kind": "association",
+      "condition": "当涉及拖延症背后的深层原因时，与source原则有间接联系。",
+      "reason": "candidate提到拖延症可能只是表现形式，背后存在更深层心理需求，与source区分表层行为与深层心理需要的思路相似，但具体对象不同，关系较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:v2-n005",
+      "target": "s-a0879c56d0fd-c001:a025",
+      "kind": "complements",
+      "condition": "当家长观察孩子玩火行为时，candidate补充了需要观察其他伤害动物行为以及非病态可能。",
+      "reason": "source指出孩子纵火、火烧动物与反社会人格有关联，家长不要带孩子玩火；candidate进一步说明玩火和烧蚂蚁等动物需特别小心，但也可能只是出于好奇或好玩，需观察是否有其他伤害动物行为，补充了鉴别方法和避免过度恐慌。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a025",
+      "target": "s-a0879c56d0fd-c002:v2-n005",
+      "kind": "complements",
+      "condition": "当家长观察孩子玩火行为时，candidate补充了需要观察其他伤害动物行为以及非病态可能。",
+      "reason": "source指出孩子纵火、火烧动物与反社会人格有关联，家长不要带孩子玩火；candidate进一步说明玩火和烧蚂蚁等动物需特别小心，但也可能只是出于好奇或好玩，需观察是否有其他伤害动物行为，补充了鉴别方法和避免过度恐慌。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:v2-n005",
+      "target": "s-a0879c56d0fd-c001:a026",
+      "kind": "complements",
+      "condition": "当区分不同玩火行为时，candidate补充了开水烫蚂蚁与火烧动物的风险差异。",
+      "reason": "source仅笼统提到纵火、火烧动物；candidate补充开水烫蚂蚁窝没有问题，但火烧动物与反社会性人格关联更强，帮助家长更精确地判断危险程度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c001:a026",
+      "target": "s-a0879c56d0fd-c002:v2-n005",
+      "kind": "complements",
+      "condition": "当区分不同玩火行为时，candidate补充了开水烫蚂蚁与火烧动物的风险差异。",
+      "reason": "source仅笼统提到纵火、火烧动物；candidate补充开水烫蚂蚁窝没有问题，但火烧动物与反社会性人格关联更强，帮助家长更精确地判断危险程度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c003:v2-n001",
+      "target": "s-a0879c56d0fd-c002:a023",
+      "kind": "complements",
+      "condition": "当处理12个月宝宝抓脸时，candidate提供了具体年龄的详细步骤和重复次数。",
+      "reason": "source给出用平淡拒绝和撤离关注应对抓脸寻求关注的一般方法；candidate具体描述12个月宝宝的处理：抓住手平淡说不可以抓妈妈的脸，不要有情绪反应，继续做自己的事，重复几十次，补充了适用年龄和操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a023",
+      "target": "s-a0879c56d0fd-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当处理12个月宝宝抓脸时，candidate提供了具体年龄的详细步骤和重复次数。",
+      "reason": "source给出用平淡拒绝和撤离关注应对抓脸寻求关注的一般方法；candidate具体描述12个月宝宝的处理：抓住手平淡说不可以抓妈妈的脸，不要有情绪反应，继续做自己的事，重复几十次，补充了适用年龄和操作细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c003:v2-n001",
+      "target": "s-a0879c56d0fd-c002:a024",
+      "kind": "complements",
+      "condition": "当理解抓脸行为动机时，candidate补充了行为可能源于获得关注的解释。",
+      "reason": "source针对孩子通过抓脸寻求关注的行为；candidate解释12个月宝宝抓脸可能因为一抓妈妈就过来从而获得关注，进一步支持了source中减少关注以消除行为的策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a024",
+      "target": "s-a0879c56d0fd-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当理解抓脸行为动机时，candidate补充了行为可能源于获得关注的解释。",
+      "reason": "source针对孩子通过抓脸寻求关注的行为；candidate解释12个月宝宝抓脸可能因为一抓妈妈就过来从而获得关注，进一步支持了source中减少关注以消除行为的策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c003:v2-n001",
+      "target": "s-a0879c56d0fd-c002:a017",
+      "kind": "association",
+      "condition": "当涉及行为界限与情绪接纳时，两者有共同原则但情境不同。",
+      "reason": "candidate提出接纳情绪与行为界限不矛盾，可接纳情绪但不陪睡；source也强调设行为界限但避免关注，两者都区分情绪与行为，但source针对抓脸寻求关注，candidate针对害怕陪睡，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-a0879c56d0fd-c002:a017",
+      "target": "s-a0879c56d0fd-c003:v2-n001",
+      "kind": "association",
+      "condition": "当涉及行为界限与情绪接纳时，两者有共同原则但情境不同。",
+      "reason": "candidate提出接纳情绪与行为界限不矛盾，可接纳情绪但不陪睡；source也强调设行为界限但避免关注，两者都区分情绪与行为，但source针对抓脸寻求关注，candidate针对害怕陪睡，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "当孩子有情绪且行为过激（如打人、扔东西）时，需要同时接纳情绪并设立行为界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a014",
+        "s-a0879c56d0fd-c002:a017"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我认知",
+      "when": "当引导孩子接纳自己时，需要理解情绪背后的心理需要并避免贴标签。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a008",
+        "s-a0879c56d0fd-c001:r003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "当父母因自身卡住而无法有效设立界限时，需要先处理自身问题。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "专注力",
+      "when": "当需要打断孩子专心活动时，应先进行情绪连接（观察、进入世界），再说明要求。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a022"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "阶段与角色",
+      "when": "当建立规则时需要考虑孩子年龄，尤其是孩子越小建立规则越好。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a016",
+        "s-a0879c56d0fd-c001:r006"
+      ],
+      "reason": "内容完全一致，都是处理抓狂孩子的方法：告诉孩子哪些行为可以做、哪些不可以做，公共场所陪伴不惩罚。"
+    },
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a017",
+        "s-a0879c56d0fd-c001:r007"
+      ],
+      "reason": "内容完全一致，都是测试左脑右脑的方法：给出简单指令观察执行情况。"
+    },
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a018"
+      ],
+      "reason": "内容完全一致，都是右脑接管时的情绪连接方法：身体接触、靠近、眼睛放低。"
+    },
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a019"
+      ],
+      "reason": "内容完全一致，都是判断孩子是否仍在控制中的方法：对指令有反应说明仍在控制中。"
+    },
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a020",
+        "s-a0879c56d0fd-c001:r010"
+      ],
+      "reason": "内容完全一致，都是关于不耐烦的正常与异常：容易不耐烦可能正常，但话没讲完就爆发不正常。"
+    },
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a021"
+      ],
+      "reason": "内容完全一致，都是关于生气是正常的：积木搭不好生气、专心被打扰生气正常。"
+    },
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a022"
+      ],
+      "reason": "内容完全一致，都是打断孩子专心活动的方法：观察、进入世界、搭肩、说明。"
+    },
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a023"
+      ],
+      "reason": "内容完全一致，都是关于八岁孩子讲道理无效：应按年龄和角色处理。"
+    },
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a025"
+      ],
+      "reason": "内容完全一致，都是玩火与烧蚂蚁的警示：需小心观察，与反社会性人格有关联。"
+    },
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a026"
+      ],
+      "reason": "内容完全一致，都是开水烫蚂蚁与火烧的区别：开水烫蚂蚁窝没问题，火烧动物关联更强。"
+    },
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a027"
+      ],
+      "reason": "内容完全一致，都是处理孩子觉得偏心的方法：每周安排一天单独陪伴。"
+    },
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a028"
+      ],
+      "reason": "内容完全一致，都是实际偏心与孩子感受偏心的区别：父母不偏心孩子也可能觉得偏心。"
+    },
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a023"
+      ],
+      "reason": "内容完全一致，都是处理12个月宝宝抓妈妈脸的方法：抓住手平淡说，避免关注，重复几十次。"
+    },
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a024"
+      ],
+      "reason": "内容完全一致，都是宝宝抓脸可能为获得关注：因此处理时要避免给予关注。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a025",
+        "s-a0879c56d0fd-c001:a026"
+      ],
+      "description": "a025指出玩火和烧动物与反社会性人格有关联，需小心观察；a026却说开水烫蚂蚁窝没有问题，但火烧动物关联更强。两者对开水烫蚂蚁的态度存在不一致，且涉及动物伦理。",
+      "needed_evidence": "需要专业评估开水烫蚂蚁是否属于正常行为，以及反社会性人格的关联标准。"
+    },
+    {
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a004",
+        "s-a0879c56d0fd-c003:a005"
+      ],
+      "description": "a004指出情绪敏感性不同的孩子在表达情绪上没有差别，都应正常引导表达情绪；c003:a005却指出有些孩子对别人的情绪敏感，但自己的情绪不能很好表达，可能表现为生气时眼里有泪花但不说话。两者对情绪敏感孩子的表达是否存在差别有矛盾。",
+      "needed_evidence": "需要明确情绪敏感性与表达困难之间的关系，以及不同敏感性孩子是否都需要特殊引导。"
+    }
+  ],
+  "path": [
+    {
+      "name": "处理孩子情绪的主要方法",
+      "steps": [
+        {
+          "action": "判断孩子行为是否过激",
+          "atom_ids": [
+            "s-a0879c56d0fd-c001:a014"
+          ],
+          "condition": "当孩子有情绪时"
+        },
+        {
+          "action": "如果行为不过激，接纳情绪",
+          "atom_ids": [
+            "s-a0879c56d0fd-c001:a014",
+            "s-a0879c56d0fd-c003:a004"
+          ],
+          "condition": "行为没有过激，如没有打人、扔东西、自伤"
+        },
+        {
+          "action": "如果行为过激，用正确行为干预",
+          "atom_ids": [
+            "s-a0879c56d0fd-c001:a014"
+          ],
+          "condition": "出现打人、扔东西等过激行为"
+        },
+        {
+          "action": "对于抓狂孩子，告诉哪些行为可以做、哪些不可以做，公共场所陪伴不惩罚",
+          "atom_ids": [
+            "s-a0879c56d0fd-c001:a016",
+            "s-a0879c56d0fd-c001:r006"
+          ],
+          "condition": "孩子抓狂不受安慰"
+        },
+        {
+          "action": "测试孩子是否受安慰：给出简单指令观察执行情况",
+          "atom_ids": [
+            "s-a0879c56d0fd-c001:a017",
+            "s-a0879c56d0fd-c001:r007"
+          ],
+          "condition": "孩子大闹时"
+        },
+        {
+          "action": "如果右脑完全接管，进行情绪连接：身体接触、靠近、眼睛放低",
+          "atom_ids": [
+            "s-a0879c56d0fd-c001:a018"
+          ],
+          "condition": "孩子对指令无反应，右脑完全接管"
+        },
+        {
+          "action": "如果左脑仍有意识，陪在身边，不必太紧张",
+          "atom_ids": [
+            "s-a0879c56d0fd-c001:a019"
+          ],
+          "condition": "孩子对指令有反应，仍在控制中"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-a0879c56d0fd-c001:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:r001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00008",
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a001"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a002"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a003"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a004"
+      ],
+      "blocks": [
+        "b00007",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a005"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a006"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a007"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a008",
+        "s-a0879c56d0fd-c001:r003"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a009"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a010",
+        "s-a0879c56d0fd-c001:r004"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a011"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a012"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a013"
+      ],
+      "blocks": [
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a014"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a015",
+        "s-a0879c56d0fd-c001:r005"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:v2-n004"
+      ],
+      "blocks": [
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a016",
+        "s-a0879c56d0fd-c001:r006"
+      ],
+      "blocks": [
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a017",
+        "s-a0879c56d0fd-c001:r007"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a018"
+      ],
+      "blocks": [
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u021",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a019"
+      ],
+      "blocks": [
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a020",
+        "s-a0879c56d0fd-c001:r010"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a021"
+      ],
+      "blocks": [
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u024",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a022"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a023"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u026",
+      "kind": "case",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a024"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a025"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a026"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u029",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a027"
+      ],
+      "blocks": [
+        "b00040",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u030",
+      "kind": "case",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u031",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c001:u032",
+      "kind": "case",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a028",
+        "s-a0879c56d0fd-c002:a001"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:a029",
+        "s-a0879c56d0fd-c002:a002"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a001"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a003"
+      ],
+      "blocks": [
+        "b00042",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u005",
+      "kind": "condition",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a004"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a005"
+      ],
+      "blocks": [
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a006"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u009",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a007"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u010",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a008"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a009"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051",
+        "b00052",
+        "b00053",
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u012",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a010"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a011"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056",
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a012"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u015",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a013"
+      ],
+      "blocks": [
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a014"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a015"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u018",
+      "kind": "case",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a016"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064",
+        "b00065",
+        "b00066",
+        "b00067",
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u019",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a017"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u020",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a018"
+      ],
+      "blocks": [
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a019",
+        "s-a0879c56d0fd-c002:r001"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070",
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u022",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a020"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u023",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a019"
+      ],
+      "blocks": [
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u024",
+      "kind": "case",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a021"
+      ],
+      "blocks": [
+        "b00074",
+        "b00075",
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u025",
+      "kind": "case",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a022"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u026",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a023"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u027",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a024"
+      ],
+      "blocks": [
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u028",
+      "kind": "context",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:a025"
+      ],
+      "blocks": [
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u029",
+      "kind": "warning",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:v2-n005"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u030",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:v2-n004"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c002:u031",
+      "kind": "recommendation",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c003:a001"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c003:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c003:a002"
+      ],
+      "blocks": [
+        "b00082",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c003:u003",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c003:a003"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c003:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c003:a004"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c003:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-a0879c56d0fd-c003:a005"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c003:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-a0879c56d0fd-c003:a006"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c003:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-a0879c56d0fd-c003:a007"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c003:u008",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-a0879c56d0fd-c003:a008"
+      ],
+      "blocks": [
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-a0879c56d0fd-c003:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-a0879c56d0fd-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "两个孩子偏心冲突案例",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a0879c56d0fd",
+          "blocks": [
+            "b00040"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "实际偏心与感知偏心的区别",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a0879c56d0fd",
+          "blocks": [
+            "b00043"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "两姐妹均感觉母亲偏心的案例",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a0879c56d0fd",
+          "blocks": [
+            "b00043",
+            "b00044"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "抓狂不受安慰与引导方式的关系",
+      "atom_ids": [
+        "s-a0879c56d0fd-c001:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a0879c56d0fd",
+          "blocks": [
+            "b00026"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "condition"
+    },
+    {
+      "title": "说话不看对方双眼有多种原因",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a0879c56d0fd",
+          "blocks": [
+            "b00047",
+            "b00048"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "observation"
+    },
+    {
+      "title": "不建议过万圣节",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a0879c56d0fd",
+          "blocks": [
+            "b00069",
+            "b00070"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "recommendation"
+    },
+    {
+      "title": "心理需要与行为要求的区别",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a0879c56d0fd",
+          "blocks": [
+            "b00082",
+            "b00083"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "孩子纵火与反社会人格关联，家长不应带孩子玩火",
+      "atom_ids": [
+        "s-a0879c56d0fd-c002:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a0879c56d0fd",
+          "blocks": [
+            "b00041",
+            "b00042"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "warning"
+    },
+    {
+      "title": "用平淡拒绝和撤离关注应对孩子抓脸寻求关注",
+      "atom_ids": [
+        "s-a0879c56d0fd-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-a0879c56d0fd",
+          "blocks": [
+            "b00080",
+            "b00081"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

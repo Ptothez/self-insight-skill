@@ -1,0 +1,788 @@
+{
+  "concepts": [
+    {
+      "name": "睡眠与专注力",
+      "definition": "睡眠不足会降低专注力、记忆力和脾气控制；睡眠中大脑连接点大量产生，对大脑发育和专注力至关重要。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a002",
+        "s-2de835ba03be-c001:a004"
+      ]
+    },
+    {
+      "name": "学龄前儿童睡眠时长",
+      "definition": "五六岁至六七岁的孩子每天至少应睡11个小时，但很多孩子只睡8小时。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a003"
+      ]
+    },
+    {
+      "name": "建议睡眠时间",
+      "definition": "建议孩子晚上九点半时已经进入深度睡眠。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a005"
+      ]
+    },
+    {
+      "name": "观察孩子的专注力特点",
+      "definition": "父母应观察什么让孩子专注力旺盛、专注力方式、学习方式、兴趣等。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a006"
+      ]
+    },
+    {
+      "name": "深入了解孩子的内心世界",
+      "definition": "父母应了解孩子心底深处想什么、思考什么问题、对人生有什么疑问。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a007"
+      ]
+    },
+    {
+      "name": "将孩子视为复杂事物来学习",
+      "definition": "父母应把孩子当成非常复杂、艰难的事情来认真学习，通过观察获得更好的认知以帮助提升注意力。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a008"
+      ]
+    },
+    {
+      "name": "身体力行：父母专注的榜样作用",
+      "definition": "父母要求孩子专注做事时，自己应先做到专注，如孩子说话时专注听完，不玩手机。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a009"
+      ]
+    },
+    {
+      "name": "陪伴孩子时放下手机",
+      "definition": "陪孩子玩时，父母应把手机放到一边，聚精会神地陪伴。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a010"
+      ]
+    },
+    {
+      "name": "陪伴孩子时走神是反面教材",
+      "definition": "有些家长陪孩子时想生活琐事、发呆，这是身体力行的反面教材。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a011"
+      ]
+    },
+    {
+      "name": "不打扰孩子的专注活动",
+      "definition": "孩子玩耍或学习时，父母不要轻易打扰，如问喝水、送水果等，以免打断思绪。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a012"
+      ]
+    },
+    {
+      "name": "孩子专注时间有限",
+      "definition": "孩子的专注时间本来就不长，因此父母不应在相对专注的时段打扰他。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a013"
+      ]
+    },
+    {
+      "name": "让孩子按自己的速度进入和离开专注状态",
+      "definition": "父母应帮助孩子用他自己的速度和时间进入一个情境去做事，然后自己出来，而不是频繁打断。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a014"
+      ]
+    },
+    {
+      "name": "以爱的名义打扰孩子",
+      "definition": "父母不要以爱的名义打扰孩子，例如在孩子学习时送水果、牛奶或询问饿不饿。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a015"
+      ]
+    },
+    {
+      "name": "频繁更换活动破坏专注力",
+      "definition": "孩子玩一种活动时，父母不要频繁建议换新活动，因为每次换新东西，孩子的专注力就要重新建立一次。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a016"
+      ]
+    },
+    {
+      "name": "找到有效的帮助",
+      "definition": "父母应观察孩子在什么时候最不容易有专注力，从而提供有效的帮助。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a017"
+      ]
+    },
+    {
+      "name": "饥饿影响专注力",
+      "definition": "孩子饿了的时候不容易有专注力，因此放学回家若想让他马上做作业，最好先给他吃点东西。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a018"
+      ]
+    },
+    {
+      "name": "困倦和疲劳影响专注力",
+      "definition": "孩子困了或累了的时候最不容易有专注力，因此不要在他睡前或疲倦时让他做需要专注力的事情。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a019"
+      ]
+    },
+    {
+      "name": "有效帮助与无效帮助的区别",
+      "definition": "如果孩子困了，让他吃东西不会提升专注力，这是无效帮助；应根据孩子的状态提供针对性帮助。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a020"
+      ]
+    },
+    {
+      "name": "建立日常惯例提升专注力",
+      "definition": "建立日常惯例的生活方式有助于提升孩子的专注力，因为孩子不需要把注意力分散到很多新的、需要适应的东西上。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a021"
+      ]
+    },
+    {
+      "name": "规律生活带来安全感",
+      "definition": "如果孩子每天知道接下来做什么，有固定的接送人和时间，生活有规律，内心有安全感，注意力更容易得到提升。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a022"
+      ]
+    },
+    {
+      "name": "设定短而能够实现的目标",
+      "definition": "父母应给孩子设定短而能够实现的目标，而不是过长的目标。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a023"
+      ]
+    },
+    {
+      "name": "爬山时设定短目标帮助孩子专注",
+      "definition": "讲师带孩子爬山时，孩子累了，讲师让他们休息一下，然后指着前面看得见的石头说：“我们爬到那块石头，可以再休息一下。”孩子眼睛盯着那块石头，因为这是一个短而能够实现的目标。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a024"
+      ]
+    },
+    {
+      "name": "长期目标无法激励孩子专注",
+      "definition": "如果告诉孩子“开学第一天好好学习，学期末能拿A”，孩子中间无法保持专注，因为目标太远。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a025"
+      ]
+    },
+    {
+      "name": "设定及时鼓励的短目标",
+      "definition": "如果今天学了明天就能拿A，这是非常及时的鼓励。应设定能实现且短的目标，如“今晚的作业可以拿A”。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a026"
+      ]
+    },
+    {
+      "name": "用短时间任务提升专注力",
+      "definition": "例如，让孩子专心做五分钟题，五分钟后休息一下，比一个小时后再休息要好用得多。时间不要拉得太长。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a027"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-2de835ba03be-c001:a002",
+      "target": "s-2de835ba03be-c001:a004",
+      "kind": "supports",
+      "condition": "睡眠不足影响专注力，因为睡眠中大脑连接点大量产生",
+      "reason": "k00004 解释了睡眠对大脑发育和专注力至关重要的机制，支持 k00002 的结论"
+    },
+    {
+      "source": "s-2de835ba03be-c001:a003",
+      "target": "s-2de835ba03be-c001:a005",
+      "kind": "supports",
+      "condition": "学龄前儿童需要11小时睡眠，建议九点半进入深度睡眠",
+      "reason": "k00005 给出了具体就寝时间建议，以实现 k00003 的睡眠时长"
+    },
+    {
+      "source": "s-2de835ba03be-c001:a006",
+      "target": "s-2de835ba03be-c001:a017",
+      "kind": "prerequisite",
+      "condition": "观察孩子的专注力特点，才能找到有效的帮助",
+      "reason": "k00017 强调观察孩子在什么时候最不容易有专注力，k00006 提供了观察的具体方面"
+    },
+    {
+      "source": "s-2de835ba03be-c001:a007",
+      "target": "s-2de835ba03be-c001:a008",
+      "kind": "supports",
+      "condition": "深入了解孩子的内心世界，有助于将孩子视为复杂事物来学习",
+      "reason": "k00008 建议把孩子当成复杂事物来认真学习，k00007 是这种学习的一部分"
+    },
+    {
+      "source": "s-2de835ba03be-c001:a009",
+      "target": "s-2de835ba03be-c001:a010",
+      "kind": "example_of",
+      "condition": "身体力行包括陪伴孩子时放下手机",
+      "reason": "k00010 是 k00009 中父母专注榜样的具体例子"
+    },
+    {
+      "source": "s-2de835ba03be-c001:a009",
+      "target": "s-2de835ba03be-c001:a011",
+      "kind": "contrasts",
+      "condition": "身体力行有正面和反面教材",
+      "reason": "k00011 描述了反面教材，与 k00009 的正面要求形成对比"
+    },
+    {
+      "source": "s-2de835ba03be-c001:a012",
+      "target": "s-2de835ba03be-c001:a013",
+      "kind": "supports",
+      "condition": "不打扰孩子是因为孩子专注时间有限",
+      "reason": "k00013 解释了不打扰的原因，支持 k00012 的建议"
+    },
+    {
+      "source": "s-2de835ba03be-c001:a012",
+      "target": "s-2de835ba03be-c001:a014",
+      "kind": "supports",
+      "condition": "不打扰孩子，让孩子按自己的速度进入和离开专注状态",
+      "reason": "k00014 是 k00012 不打扰原则的具体体现"
+    },
+    {
+      "source": "s-2de835ba03be-c001:a012",
+      "target": "s-2de835ba03be-c001:a015",
+      "kind": "example_of",
+      "condition": "以爱的名义打扰孩子是不打扰原则的反面例子",
+      "reason": "k00015 举例说明父母以爱的名义打扰孩子，与 k00012 的建议相反"
+    },
+    {
+      "source": "s-2de835ba03be-c001:a012",
+      "target": "s-2de835ba03be-c001:a016",
+      "kind": "example_of",
+      "condition": "频繁更换活动是不打扰原则的反面例子",
+      "reason": "k00016 举例说明频繁更换活动破坏专注力，与 k00012 的建议相反"
+    },
+    {
+      "source": "s-2de835ba03be-c001:a018",
+      "target": "s-2de835ba03be-c001:a020",
+      "kind": "example_of",
+      "condition": "饥饿影响专注力，但困了时吃东西是无效帮助",
+      "reason": "k00020 区分有效帮助和无效帮助，k00018 是有效帮助的例子"
+    },
+    {
+      "source": "s-2de835ba03be-c001:a019",
+      "target": "s-2de835ba03be-c001:a020",
+      "kind": "example_of",
+      "condition": "困倦和疲劳影响专注力，但困了时吃东西是无效帮助",
+      "reason": "k00020 区分有效帮助和无效帮助，k00019 是无效帮助的例子"
+    },
+    {
+      "source": "s-2de835ba03be-c001:a021",
+      "target": "s-2de835ba03be-c001:a022",
+      "kind": "supports",
+      "condition": "建立日常惯例提升专注力，因为规律生活带来安全感",
+      "reason": "k00022 解释了日常惯例提升专注力的机制"
+    },
+    {
+      "source": "s-2de835ba03be-c001:a023",
+      "target": "s-2de835ba03be-c001:a024",
+      "kind": "example_of",
+      "condition": "设定短而能够实现的目标，爬山时设定短目标帮助孩子专注",
+      "reason": "'设定短而能够实现的目标'原则由'爬山时设定短目标帮助孩子专注'案例例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-2de835ba03be-c001:a023",
+      "target": "s-2de835ba03be-c001:a025",
+      "kind": "contrasts",
+      "condition": "短目标有效，长期目标无法激励孩子专注",
+      "reason": "'设定短而能够实现的目标'与'长期目标无法激励孩子专注'形成对比，前者强调短目标，后者说明长期目标无效。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-2de835ba03be-c001:a023",
+      "target": "s-2de835ba03be-c001:a026",
+      "kind": "supports",
+      "condition": "设定及时鼓励的短目标",
+      "reason": "'设定及时鼓励的短目标'进一步解释'设定短而能够实现的目标'，强调短目标应能实现并及时鼓励。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-2de835ba03be-c001:a023",
+      "target": "s-2de835ba03be-c001:a027",
+      "kind": "example_of",
+      "condition": "用短时间任务提升专注力",
+      "reason": "'用短时间任务提升专注力'是'设定短而能够实现的目标'原则在时间任务上的应用实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    }
+  ],
+  "module_links": [
+    {
+      "from": "专注力",
+      "to": "自我修养",
+      "when": "父母身体力行，自己先做到专注，如陪伴孩子时放下手机、专注倾听",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a009",
+        "s-2de835ba03be-c001:a010",
+        "s-2de835ba03be-c001:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "专注力",
+      "to": "界限",
+      "when": "不打扰孩子的专注活动，尊重孩子的专注时间",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a012",
+        "s-2de835ba03be-c001:a013",
+        "s-2de835ba03be-c001:a014",
+        "s-2de835ba03be-c001:a015",
+        "s-2de835ba03be-c001:a016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "专注力",
+      "to": "规则与行动",
+      "when": "建立日常惯例，规律生活提升专注力",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a021",
+        "s-2de835ba03be-c001:a022"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "专注力",
+      "to": "内在能力",
+      "when": "设定短而能够实现的目标，帮助孩子逐步提升专注力",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a023",
+        "s-2de835ba03be-c001:a024",
+        "s-2de835ba03be-c001:a025",
+        "s-2de835ba03be-c001:a026",
+        "s-2de835ba03be-c001:a027"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-2de835ba03be-c001:a012",
+        "s-2de835ba03be-c001:a015"
+      ],
+      "reason": "k00015 是 k00012 不打扰原则的具体反面例子，但内容实质相同，都是强调不要打扰孩子"
+    },
+    {
+      "atom_ids": [
+        "s-2de835ba03be-c001:a023",
+        "s-2de835ba03be-c001:a026"
+      ],
+      "reason": "k00026 是 k00023 设定短目标原则的进一步解释，内容实质相同"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "提升专注力的七大法宝",
+      "steps": [
+        {
+          "action": "保证充足睡眠",
+          "atom_ids": [
+            "s-2de835ba03be-c001:a002",
+            "s-2de835ba03be-c001:a003",
+            "s-2de835ba03be-c001:a004",
+            "s-2de835ba03be-c001:a005"
+          ],
+          "condition": "学龄前儿童每天至少睡11小时，建议九点半进入深度睡眠"
+        },
+        {
+          "action": "观察孩子",
+          "atom_ids": [
+            "s-2de835ba03be-c001:a006",
+            "s-2de835ba03be-c001:a007",
+            "s-2de835ba03be-c001:a008"
+          ],
+          "condition": "观察专注力特点、内心世界，将孩子视为复杂事物来学习"
+        },
+        {
+          "action": "身体力行",
+          "atom_ids": [
+            "s-2de835ba03be-c001:a009",
+            "s-2de835ba03be-c001:a010",
+            "s-2de835ba03be-c001:a011"
+          ],
+          "condition": "父母自己先做到专注，陪伴时放下手机，不走神"
+        },
+        {
+          "action": "不打扰孩子",
+          "atom_ids": [
+            "s-2de835ba03be-c001:a012",
+            "s-2de835ba03be-c001:a013",
+            "s-2de835ba03be-c001:a014",
+            "s-2de835ba03be-c001:a015",
+            "s-2de835ba03be-c001:a016"
+          ],
+          "condition": "孩子专注时不要打断，不频繁更换活动"
+        },
+        {
+          "action": "找到有效的帮助",
+          "atom_ids": [
+            "s-2de835ba03be-c001:a017",
+            "s-2de835ba03be-c001:a018",
+            "s-2de835ba03be-c001:a019",
+            "s-2de835ba03be-c001:a020"
+          ],
+          "condition": "观察孩子状态，饥饿时先吃东西，困倦时先休息"
+        },
+        {
+          "action": "建立日常惯例",
+          "atom_ids": [
+            "s-2de835ba03be-c001:a021",
+            "s-2de835ba03be-c001:a022"
+          ],
+          "condition": "规律生活，固定接送人和时间，带来安全感"
+        },
+        {
+          "action": "设定短而能够实现的目标",
+          "atom_ids": [
+            "s-2de835ba03be-c001:a023",
+            "s-2de835ba03be-c001:a024",
+            "s-2de835ba03be-c001:a025",
+            "s-2de835ba03be-c001:a026",
+            "s-2de835ba03be-c001:a027"
+          ],
+          "condition": "目标短、可实现、及时鼓励，如五分钟任务"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "3919de98a41dd8d8b8c8cd92cad736b104a12b3e5eaf901de8ec85fba678dae7",
+  "point_units": [
+    {
+      "id": "s-2de835ba03be-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a002"
+      ],
+      "blocks": [
+        "b00005",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a003"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a004"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a005"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a006"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a007"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a008"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a009"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a010"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a011"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a012"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a013"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a014"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a015"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a016"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a017"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a018"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a019"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a020"
+      ],
+      "blocks": [
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a021"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a022"
+      ],
+      "blocks": [
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a023"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0024",
+      "kind": "case",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a024"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a025"
+      ],
+      "blocks": [
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a026"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-2de835ba03be-c001:a027"
+      ],
+      "blocks": [
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-2de835ba03be-c001:u0028",
+      "kind": "method",
+      "atom_ids": [
+        "s-2de835ba03be-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "听课不能改变，实践才能改变",
+      "atom_ids": [
+        "s-2de835ba03be-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-2de835ba03be",
+          "blocks": [
+            "b00003",
+            "b00004"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

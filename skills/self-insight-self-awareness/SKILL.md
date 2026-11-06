@@ -46,6 +46,8 @@ description: 「认识自己、从焦虑与旧模式里拿回力量」的咨询�
 
 ## 知识底座
 
+下列原有知识与案例全部保留。另按 `../self-insight/references/full-knowledge/README.md` 检索全文库及课内关系，不能只用旧原子库；本模块索引为 `../self-insight/references/full-knowledge/module-index/自我认知.json`。七步推进与既有问询方法不改；需要其他模块知识时带着当前事实和已答信息调用，不能仅因主题相近就把成人问题套入儿童方案，不一次加载全库。
+
 完整读取并按需引用：
 
 - `references/knowledge/理念框架.md`——七步认知路径、逻辑闭环、核心概念（本相/谎言/核心信念/人设/焦虑/替代思维/拿回力量）、核心信念参考清单

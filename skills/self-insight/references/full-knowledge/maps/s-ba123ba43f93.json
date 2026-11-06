@@ -1,0 +1,680 @@
+{
+  "concepts": [
+    {
+      "name": "核心信念",
+      "definition": "深埋于潜意识中、导致个体对自己产生根本性负面定论的根源，被描述为“穿上真理外衣的羞耻”。",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a001",
+        "s-ba123ba43f93-c001:a002",
+        "s-ba123ba43f93-c001:a003",
+        "s-ba123ba43f93-c001:a004",
+        "s-ba123ba43f93-c001:a025",
+        "s-ba123ba43f93-c001:a031"
+      ]
+    },
+    {
+      "name": "人设",
+      "definition": "小时候的伤害未被解决，于是创造出来的东西，如同一个“面具”，用于自我保护，隔离伤害，避免核心信念被触及。",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a005",
+        "s-ba123ba43f93-c001:a006",
+        "s-ba123ba43f93-c001:a007",
+        "s-ba123ba43f93-c001:a008",
+        "s-ba123ba43f93-c001:a023"
+      ]
+    },
+    {
+      "name": "焦虑",
+      "definition": "人设受到威胁时产生的情绪，是线索而非终点，意味着人设正在失效，通过追问可触动核心信念。",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a009",
+        "s-ba123ba43f93-c001:a010"
+      ]
+    },
+    {
+      "name": "谎言",
+      "definition": "伴随伤害而来的错误认知，是对事实的扭曲，存在于对优缺点的评价、原生家庭信息、两性关系认知及人设中。",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a011",
+        "s-ba123ba43f93-c001:a012"
+      ]
+    },
+    {
+      "name": "本相",
+      "definition": "被造时独特的本质，无所谓优点和缺点，只有特点，位于优缺点光谱的中间地带，蕴藏着无限可能性，疗愈的终局是活出本相。",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a014",
+        "s-ba123ba43f93-c001:a015"
+      ]
+    },
+    {
+      "name": "第1课",
+      "definition": "打破对优点和缺点的固化认知，识别其中的谎言，回归特点与本相。",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a016",
+        "s-ba123ba43f93-c001:a017"
+      ]
+    },
+    {
+      "name": "第2课",
+      "definition": "识别原生家庭施加的直接伤害及带来的恐惧，包括信息、恐惧、谎言。",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a018",
+        "s-ba123ba43f93-c001:a019"
+      ]
+    },
+    {
+      "name": "第3课",
+      "definition": "识别从父母相处模式中习得的间接伤害及关系认知谎言，包括印象和影响。",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a020",
+        "s-ba123ba43f93-c001:a021"
+      ]
+    },
+    {
+      "name": "第4课",
+      "definition": "识别用于防御的面具，并意识到其反噬作用，包括设立原因和现状识别。",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a022",
+        "s-ba123ba43f93-c001:a023"
+      ]
+    },
+    {
+      "name": "第5课",
+      "definition": "精准定位最底层的核心信念与丢失的力量，路径为伤害事件→丢失力量→核心信念，并明确告知核心信念是错误的。",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a024",
+        "s-ba123ba43f93-c001:a025"
+      ]
+    },
+    {
+      "name": "第6课",
+      "definition": "利用当下的情绪作为入口，验证并攻击核心信念，使用下探工具和替代思维。",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a026",
+        "s-ba123ba43f93-c001:a027"
+      ]
+    },
+    {
+      "name": "第7课",
+      "definition": "形成逻辑闭环，完成认知改写，严格按照七步模版串联碎片信息。",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a028",
+        "s-ba123ba43f93-c001:a029"
+      ]
+    },
+    {
+      "name": "七步法逻辑闭环",
+      "definition": "从本相到破局的完整心理机制路径，包括受伤、谎言、核心信念、人设生成、人设运行、反噬与混淆、危机爆发、痛苦循环、破局。",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a030"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-ba123ba43f93-c001:a002",
+      "target": "s-ba123ba43f93-c001:a001",
+      "kind": "causes",
+      "condition": "当记忆中最伤害的一件事导致个体丢失某种力量时",
+      "reason": "核心信念源于伤害事件，导致个体形成对自己的根本性负面定论。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a003",
+      "target": "s-ba123ba43f93-c001:a005",
+      "kind": "causes",
+      "condition": "当核心信念存在时",
+      "reason": "人设是为了保护核心信念不被触碰而创造出来的。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a003",
+      "target": "s-ba123ba43f93-c001:a009",
+      "kind": "causes",
+      "condition": "当人设受到威胁时",
+      "reason": "焦虑是因为人设受威胁从而可能暴露核心信念。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a005",
+      "target": "s-ba123ba43f93-c001:a006",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "人设的初衷是自我保护，用于隔离伤害，避免核心信念被触及。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a007",
+      "target": "s-ba123ba43f93-c001:a005",
+      "kind": "causes",
+      "condition": "当过去的伤害（如原生家庭的谎言）存在时",
+      "reason": "人设因为过去的伤害而设立。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a008",
+      "target": "s-ba123ba43f93-c001:a005",
+      "kind": "causes",
+      "condition": "当人设长期存在时",
+      "reason": "人设时间长了会反噬自己，阻挡自己获得真正想要的东西。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a010",
+      "target": "s-ba123ba43f93-c001:a009",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "焦虑不是终点，而是线索，意味着人设正在失效。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a010",
+      "target": "s-ba123ba43f93-c001:a001",
+      "kind": "applies_to",
+      "condition": "通过层层递进的追问",
+      "reason": "焦虑最终会触动核心信念。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a011",
+      "target": "s-ba123ba43f93-c001:a002",
+      "kind": "causes",
+      "condition": "当伤害发生时",
+      "reason": "谎言是伴随伤害而来的错误认知。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a012",
+      "target": "s-ba123ba43f93-c001:a011",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "谎言存在于对优缺点的评价、原生家庭信息、两性关系认知及人设中。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a013",
+      "target": "s-ba123ba43f93-c001:a011",
+      "kind": "applies_to",
+      "condition": "重写故事时",
+      "reason": "重写故事的关键在于攻击谎言。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a014",
+      "target": "s-ba123ba43f93-c001:a015",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "本相位于优缺点光谱的中间地带，疗愈的终局是活出本相。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a016",
+      "target": "s-ba123ba43f93-c001:a017",
+      "kind": "step_of",
+      "condition": "第1课中",
+      "reason": "第1课的目标是打破优缺点固化认知，关键逻辑是看到光谱中间的本质地带。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a018",
+      "target": "s-ba123ba43f93-c001:a019",
+      "kind": "step_of",
+      "condition": "第2课中",
+      "reason": "第2课的目标是识别直接伤害，关键逻辑包括信息、恐惧、谎言。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a020",
+      "target": "s-ba123ba43f93-c001:a021",
+      "kind": "step_of",
+      "condition": "第3课中",
+      "reason": "第3课的目标是识别间接伤害，关键逻辑包括印象和影响。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a022",
+      "target": "s-ba123ba43f93-c001:a023",
+      "kind": "step_of",
+      "condition": "第4课中",
+      "reason": "第4课的目标是识别面具，关键逻辑包括设立原因和现状识别。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a024",
+      "target": "s-ba123ba43f93-c001:a025",
+      "kind": "step_of",
+      "condition": "第5课中",
+      "reason": "第5课的目标是定位核心信念，关键逻辑包括路径和判词。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a026",
+      "target": "s-ba123ba43f93-c001:a027",
+      "kind": "step_of",
+      "condition": "第6课中",
+      "reason": "第6课的目标是利用情绪验证核心信念，关键逻辑包括下探工具和攻击方式。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a028",
+      "target": "s-ba123ba43f93-c001:a029",
+      "kind": "step_of",
+      "condition": "第7课中",
+      "reason": "第7课的目标是形成逻辑闭环，执行逻辑是七步模版。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a029",
+      "target": "s-ba123ba43f93-c001:a030",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "第7课的七步模版与七步法逻辑闭环路径一致，用于完成认知改写。"
+    },
+    {
+      "source": "s-ba123ba43f93-c001:a025",
+      "target": "s-ba123ba43f93-c001:a031",
+      "kind": "association",
+      "condition": "同一议题：核心信念",
+      "reason": "“第5课关键逻辑”描述识别核心信念的路径，与“核心信念参考库”提供具体核心信念类型属于同一议题，但前者不是后者的实例，也无直接支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 example_of 不成立，改为关联。"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [
+    {
+      "name": "自我认知SOP七步法",
+      "steps": [
+        {
+          "action": "定义本相",
+          "atom_ids": [
+            "s-ba123ba43f93-c001:a029"
+          ],
+          "condition": "第7课执行时，首先描述这是一个……的人，着重美好。"
+        },
+        {
+          "action": "溯源谎言",
+          "atom_ids": [
+            "s-ba123ba43f93-c001:a029"
+          ],
+          "condition": "第7课执行时，从小被告知……，然而这是错误的。"
+        },
+        {
+          "action": "关系重构",
+          "atom_ids": [
+            "s-ba123ba43f93-c001:a029"
+          ],
+          "condition": "第7课执行时，从小看到父母……，所以误认为……，但这其实是个谎言。"
+        },
+        {
+          "action": "卸下人设",
+          "atom_ids": [
+            "s-ba123ba43f93-c001:a029"
+          ],
+          "condition": "第7课执行时，因为害怕……，Ta告诉自己要变得……，但现在不需要了。"
+        },
+        {
+          "action": "接纳伤害",
+          "atom_ids": [
+            "s-ba123ba43f93-c001:a029"
+          ],
+          "condition": "第7课执行时，因为Ta受了……的伤害，但这不是Ta的错。"
+        },
+        {
+          "action": "深层链接",
+          "atom_ids": [
+            "s-ba123ba43f93-c001:a029"
+          ],
+          "condition": "第7课执行时，所以Ta为……感到焦虑，因为这勾起了Ta……的记忆，触碰了核心信念。"
+        },
+        {
+          "action": "终局重写",
+          "atom_ids": [
+            "s-ba123ba43f93-c001:a029"
+          ],
+          "condition": "第7课执行时，其实Ta可以成为一个……的人，因为……。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-ba123ba43f93-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a001"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a002"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0003",
+      "kind": "relation",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a003"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a004"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a005"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a006"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0007",
+      "kind": "relation",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a007"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a008"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a009"
+      ],
+      "blocks": [
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0010",
+      "kind": "relation",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a010"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a011"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0012",
+      "kind": "relation",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a012"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022",
+        "b00023",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a013"
+      ],
+      "blocks": [
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a014"
+      ],
+      "blocks": [
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0015",
+      "kind": "relation",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a015"
+      ],
+      "blocks": [
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0016",
+      "kind": "goal",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a016"
+      ],
+      "blocks": [
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0017",
+      "kind": "relation",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a017"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0018",
+      "kind": "goal",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a018"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0019",
+      "kind": "method",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a019"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0020",
+      "kind": "goal",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a020"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0021",
+      "kind": "method",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a021"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0022",
+      "kind": "goal",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a022"
+      ],
+      "blocks": [
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0023",
+      "kind": "method",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a023"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0024",
+      "kind": "goal",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a024"
+      ],
+      "blocks": [
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0025",
+      "kind": "method",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a025"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0026",
+      "kind": "goal",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a026"
+      ],
+      "blocks": [
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0027",
+      "kind": "method",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a027"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0028",
+      "kind": "goal",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a028"
+      ],
+      "blocks": [
+        "b00068"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0029",
+      "kind": "method",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a029"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070",
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074",
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0030",
+      "kind": "relation",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a030"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082",
+        "b00083",
+        "b00084",
+        "b00085",
+        "b00086",
+        "b00087",
+        "b00088",
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-ba123ba43f93-c001:u0031",
+      "kind": "reference",
+      "atom_ids": [
+        "s-ba123ba43f93-c001:a031"
+      ],
+      "blocks": [
+        "b00093",
+        "b00094",
+        "b00095",
+        "b00096",
+        "b00097",
+        "b00098",
+        "b00099",
+        "b00100",
+        "b00101",
+        "b00102",
+        "b00103",
+        "b00104",
+        "b00105",
+        "b00106",
+        "b00107"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

@@ -1,0 +1,625 @@
+{
+  "concepts": [
+    {
+      "name": "双赢管教习惯",
+      "definition": "优秀父母的最后一个习惯，设定为双赢，即父母与孩子之间达到双方都满意的效果，避免对立。",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a001"
+      ]
+    },
+    {
+      "name": "对立关系导致叛逆",
+      "definition": "孩子进入叛逆期与父母作对，是因为家庭中父母与孩子长期处于对立关系，而非双赢关系。",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a002"
+      ]
+    },
+    {
+      "name": "父母控制孩子的表现",
+      "definition": "父母极力控制孩子的行为、思想、学习、作业时间等，试图全面掌控孩子。",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a003"
+      ]
+    },
+    {
+      "name": "孩子控制父母情绪",
+      "definition": "孩子通过不写作业等行为轻易控制父母的情绪，使父母抓狂、焦虑，甚至影响身体健康。",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a004"
+      ]
+    },
+    {
+      "name": "面对矛盾时优先考虑双赢",
+      "definition": "优秀父母在与孩子出现矛盾时，首先想到的不是控制孩子或证明自己正确，而是思考如何达到双赢，让双方都高兴。",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a005"
+      ]
+    },
+    {
+      "name": "控制孩子以获得安全感",
+      "definition": "父母通过控制孩子来获得自己的安全感，尤其是当原生家庭未能给予足够力量时，父母可能通过控制孩子来弥补不安全感。",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a006"
+      ]
+    },
+    {
+      "name": "失去控制引发焦虑",
+      "definition": "父母因无法控制孩子（如孩子大哭大闹、作业拖延）而感到焦虑，这种焦虑源于失去控制带来的不安全感。",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a007"
+      ]
+    },
+    {
+      "name": "控制孩子以弥补内心缺失",
+      "definition": "父母通过控制孩子来弥补自己内心的缺失，例如自己学历不高就要求孩子成绩好，自己贫穷就富养孩子，以孩子的成就填补自己的缺陷。",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a008"
+      ]
+    },
+    {
+      "name": "完美主义父母的控制动机",
+      "definition": "完美主义父母内心总觉得自己不够好，不允许身边有不争气的孩子来印证自己的不好，因此控制孩子以消除这种不好。",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a009"
+      ]
+    },
+    {
+      "name": "焦虑投射导致控制",
+      "definition": "父母因自身焦虑而不自知，将焦虑以发脾气等方式投射到孩子身上，通过指责孩子不好来发泄压力，并试图控制孩子以缓解焦虑。",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a010"
+      ]
+    },
+    {
+      "name": "母亲焦虑投射案例",
+      "definition": "讲师分享自己母亲是焦虑的人，会将焦虑以发脾气的方式投射到讲师身上，给讲师很大压力，让讲师觉得自己做错了，小心翼翼。后来讲师学心理学后回看，发现母亲是焦虑且不自知，并将焦虑传递给身边所有人。",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a011"
+      ]
+    },
+    {
+      "name": "焦虑导致无法看到孩子优点",
+      "definition": "父母内心焦虑时，无论孩子或配偶多好，都会觉得他们不够好，因为只有认为他们不够好才能解释自己的焦虑，从而无意识投射压力并试图控制。",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a012"
+      ]
+    },
+    {
+      "name": "来访者母亲持续焦虑案例",
+      "definition": "讲师的一位来访者（孩子）一直努力改变自己让母亲开心，但母亲始终不高兴、焦虑，不断从孩子身上找毛病。孩子最终发现不是自己不好，而是母亲有病，无法看到孩子的优点，因为母亲需要找出孩子的不好来发泄自己的焦虑和压力。",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a013"
+      ]
+    },
+    {
+      "name": "原生家庭未赋能导致控制",
+      "definition": "如果父母没有从原生家庭获得力量，即原生家庭没有给父母赋能，父母可能会想要通过控制孩子来获得安全感。",
+      "atom_ids": [
+        "s-3501103fabe7-c001:r001"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-3501103fabe7-c001:a001",
+      "target": "s-3501103fabe7-c001:a005",
+      "kind": "supports",
+      "condition": "当父母与孩子出现矛盾时",
+      "reason": "双赢管教习惯要避免对立、达到双方满意，这支持了面对矛盾时优先考虑双赢的做法，后者是该习惯在矛盾场景中的具体体现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-3501103fabe7-c001:a002",
+      "target": "s-3501103fabe7-c001:a001",
+      "kind": "contrasts",
+      "condition": "家庭关系模式",
+      "reason": "叛逆源于对立关系说明对立关系导致叛逆，而双赢管教习惯提倡避免对立、建立双赢关系，两者在家庭关系模式上形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-3501103fabe7-c001:a003",
+      "target": "s-3501103fabe7-c001:a004",
+      "kind": "contrasts",
+      "condition": "控制方向",
+      "reason": "a003描述父母控制孩子，a004描述孩子控制父母情绪，形成双向控制的对立。"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a006",
+      "target": "s-3501103fabe7-c001:a007",
+      "kind": "causes",
+      "condition": "当父母无法控制孩子时",
+      "reason": "a006说明父母通过控制获得安全感，a007说明失去控制引发焦虑，焦虑源于不安全感，因此控制失败导致焦虑。"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a006",
+      "target": "s-3501103fabe7-c001:r001",
+      "kind": "supports",
+      "condition": "当原生家庭未赋能时",
+      "reason": "r001具体说明原生家庭未赋能导致父母通过控制孩子获得安全感，支持a006的观点。"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a008",
+      "target": "s-3501103fabe7-c001:a006",
+      "kind": "supports",
+      "condition": "当父母内心有缺失时",
+      "reason": "a008说明控制孩子弥补内心缺失，a006说明控制获得安全感，两者都是控制的心理动机，a008是a006的具体表现之一。"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a009",
+      "target": "s-3501103fabe7-c001:a006",
+      "kind": "supports",
+      "condition": "当父母是完美主义者时",
+      "reason": "完美主义父母的控制动机说明他们控制孩子以消除自我不好感，这是通过控制获得安全感的一种表现，支持了控制孩子以获得安全感的命题。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-3501103fabe7-c001:a010",
+      "target": "s-3501103fabe7-c001:a012",
+      "kind": "supports",
+      "condition": "当父母焦虑时",
+      "reason": "焦虑投射导致控制指出焦虑的父母会无意识投射压力并试图控制，这支持了焦虑导致无法看到孩子优点的命题，两者都描述焦虑下的认知偏差和控制倾向。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": null
+    },
+    {
+      "source": "s-3501103fabe7-c001:a011",
+      "target": "s-3501103fabe7-c001:a010",
+      "kind": "example_of",
+      "condition": "母亲焦虑投射案例",
+      "reason": "母亲焦虑投射案例具体体现了焦虑投射导致控制的概念。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-3501103fabe7-c001:a013",
+      "target": "s-3501103fabe7-c001:a012",
+      "kind": "example_of",
+      "condition": "来访者母亲持续焦虑案例",
+      "reason": "a013是a012焦虑导致无法看到孩子优点的具体案例。"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a010",
+      "target": "s-3501103fabe7-c001:a003",
+      "kind": "supports",
+      "condition": "当父母焦虑时",
+      "reason": "父母焦虑投射导致控制的行为，与父母极力控制孩子行为、思想和学习等表现之间存在支持关系：焦虑投射可以解释控制行为。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型为“causes”，按允许类型修订为“supports”。"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a006",
+      "target": "s-3501103fabe7-c001:a003",
+      "kind": "causes",
+      "condition": "当父母缺乏安全感时",
+      "reason": "a006说明控制孩子获得安全感，a003描述控制行为，因此安全感需求是控制行为的原因之一。"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a008",
+      "target": "s-3501103fabe7-c001:a003",
+      "kind": "causes",
+      "condition": "当父母内心有缺失时",
+      "reason": "a008说明控制孩子弥补内心缺失，a003描述控制行为，因此内心缺失是控制行为的原因之一。"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a009",
+      "target": "s-3501103fabe7-c001:a003",
+      "kind": "supports",
+      "condition": "当父母是完美主义者时",
+      "reason": "完美主义父母的控制动机解释了控制行为的原因，支持了父母控制孩子的表现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 改为 supports。"
+    },
+    {
+      "source": "s-3501103fabe7-c001:v2-n001",
+      "target": "s-3501103fabe7-c001:a003",
+      "kind": "complements",
+      "condition": "在家庭中父母控制孩子时",
+      "reason": "source提出两种控制模式之一“父母控制孩子”，target具体补充了父母控制孩子的表现（控制行为、思想、学习、作业时间等），补充了这种控制模式的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a003",
+      "target": "s-3501103fabe7-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在家庭中父母控制孩子时",
+      "reason": "source提出两种控制模式之一“父母控制孩子”，target具体补充了父母控制孩子的表现（控制行为、思想、学习、作业时间等），补充了这种控制模式的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:v2-n001",
+      "target": "s-3501103fabe7-c001:a004",
+      "kind": "complements",
+      "condition": "在家庭中孩子控制父母时",
+      "reason": "source提出另一种控制模式“孩子控制父母”，target具体补充了孩子通过不写作业等行为控制父母情绪的表现，补充了这种控制模式的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a004",
+      "target": "s-3501103fabe7-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在家庭中孩子控制父母时",
+      "reason": "source提出另一种控制模式“孩子控制父母”，target具体补充了孩子通过不写作业等行为控制父母情绪的表现，补充了这种控制模式的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:v2-n001",
+      "target": "s-3501103fabe7-c001:a002",
+      "kind": "association",
+      "condition": "家庭长期缺乏双赢习惯时",
+      "reason": "source指出缺乏双赢习惯导致对立和两种控制模式，target指出对立关系导致孩子叛逆，两者都涉及对立关系的后果，但未直接说明因果顺序，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a002",
+      "target": "s-3501103fabe7-c001:v2-n001",
+      "kind": "association",
+      "condition": "家庭长期缺乏双赢习惯时",
+      "reason": "source指出缺乏双赢习惯导致对立和两种控制模式，target指出对立关系导致孩子叛逆，两者都涉及对立关系的后果，但未直接说明因果顺序，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:v2-n001",
+      "target": "s-3501103fabe7-c001:a001",
+      "kind": "association",
+      "condition": "在讨论双赢管教习惯时",
+      "reason": "source以缺乏双赢习惯为背景描述控制模式，target定义双赢管教习惯及其益处，两者相互补充但无直接前提关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a001",
+      "target": "s-3501103fabe7-c001:v2-n001",
+      "kind": "association",
+      "condition": "在讨论双赢管教习惯时",
+      "reason": "source以缺乏双赢习惯为背景描述控制模式，target定义双赢管教习惯及其益处，两者相互补充但无直接前提关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:v2-n001",
+      "target": "s-3501103fabe7-c001:a006",
+      "kind": "association",
+      "condition": "在探究父母控制孩子的原因时",
+      "reason": "source描述父母控制孩子模式，target提出控制以获得安全感的原因，关联控制动机，但source未提及原因，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a006",
+      "target": "s-3501103fabe7-c001:v2-n001",
+      "kind": "association",
+      "condition": "在探究父母控制孩子的原因时",
+      "reason": "source描述父母控制孩子模式，target提出控制以获得安全感的原因，关联控制动机，但source未提及原因，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:v2-n001",
+      "target": "s-3501103fabe7-c001:a010",
+      "kind": "association",
+      "condition": "在探究父母控制孩子的原因时",
+      "reason": "source描述父母控制孩子模式，target提出焦虑投射导致控制，关联控制原因，但source未提及焦虑，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a010",
+      "target": "s-3501103fabe7-c001:v2-n001",
+      "kind": "association",
+      "condition": "在探究父母控制孩子的原因时",
+      "reason": "source描述父母控制孩子模式，target提出焦虑投射导致控制，关联控制原因，但source未提及焦虑，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:v2-n001",
+      "target": "s-3501103fabe7-c001:v2-n002",
+      "kind": "association",
+      "condition": "在讨论控制与焦虑关系时",
+      "reason": "source提出控制模式，target指出控制无法真正缓解焦虑，两者都涉及控制与焦虑，但source未涉及焦虑缓解，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:v2-n002",
+      "target": "s-3501103fabe7-c001:v2-n001",
+      "kind": "association",
+      "condition": "在讨论控制与焦虑关系时",
+      "reason": "source提出控制模式，target指出控制无法真正缓解焦虑，两者都涉及控制与焦虑，但source未涉及焦虑缓解，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:v2-n002",
+      "target": "s-3501103fabe7-c001:a010",
+      "kind": "association",
+      "condition": "在理解焦虑与控制的关系时",
+      "reason": "source指出控制不能缓解焦虑、焦虑根源不在孩子身上，target指出焦虑投射导致控制，二者都涉及焦虑与控制的关系，但方向不同，未构成前提或因果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a010",
+      "target": "s-3501103fabe7-c001:v2-n002",
+      "kind": "association",
+      "condition": "在理解焦虑与控制的关系时",
+      "reason": "source指出控制不能缓解焦虑、焦虑根源不在孩子身上，target指出焦虑投射导致控制，二者都涉及焦虑与控制的关系，但方向不同，未构成前提或因果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:v2-n002",
+      "target": "s-3501103fabe7-c001:a013",
+      "kind": "association",
+      "condition": "当孩子试图改变自己让母亲开心但母亲仍焦虑时",
+      "reason": "source原则认为焦虑根源不在孩子身上，target案例中来访者发现母亲焦虑不是自己不好，支持source观点，但案例是target，方向为source到target的关联，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a013",
+      "target": "s-3501103fabe7-c001:v2-n002",
+      "kind": "association",
+      "condition": "当孩子试图改变自己让母亲开心但母亲仍焦虑时",
+      "reason": "source原则认为焦虑根源不在孩子身上，target案例中来访者发现母亲焦虑不是自己不好，支持source观点，但案例是target，方向为source到target的关联，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:v2-n002",
+      "target": "s-3501103fabe7-c001:a012",
+      "kind": "association",
+      "condition": "当父母焦虑时",
+      "reason": "source说明焦虑根源不在孩子，target说明父母焦虑导致无法看到孩子优点，二者关联，但source未涉及看待优点，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a012",
+      "target": "s-3501103fabe7-c001:v2-n002",
+      "kind": "association",
+      "condition": "当父母焦虑时",
+      "reason": "source说明焦虑根源不在孩子，target说明父母焦虑导致无法看到孩子优点，二者关联，但source未涉及看待优点，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:v2-n002",
+      "target": "s-3501103fabe7-c001:a007",
+      "kind": "association",
+      "condition": "在失去控制引发焦虑时",
+      "reason": "source指出控制不能缓解焦虑，target指出失去控制引发焦虑，两者都涉及焦虑与控制，但逻辑方向不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:a007",
+      "target": "s-3501103fabe7-c001:v2-n002",
+      "kind": "association",
+      "condition": "在失去控制引发焦虑时",
+      "reason": "source指出控制不能缓解焦虑，target指出失去控制引发焦虑，两者都涉及焦虑与控制，但逻辑方向不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:v2-n002",
+      "target": "s-3501103fabe7-c001:v2-n001",
+      "kind": "association",
+      "condition": "在家庭控制模式背景下",
+      "reason": "source是v2-n001控制模式的延伸，说明控制无法缓解焦虑，二者都涉及控制与焦虑，但无直接前提关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-3501103fabe7-c001:v2-n001",
+      "target": "s-3501103fabe7-c001:v2-n002",
+      "kind": "association",
+      "condition": "在家庭控制模式背景下",
+      "reason": "source是v2-n001控制模式的延伸，说明控制无法缓解焦虑，二者都涉及控制与焦虑，但无直接前提关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-3501103fabe7-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-3501103fabe7-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-3501103fabe7-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3501103fabe7-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-3501103fabe7-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a003"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-3501103fabe7-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a004"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-3501103fabe7-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a005"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-3501103fabe7-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a006",
+        "s-3501103fabe7-c001:r001"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-3501103fabe7-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a007"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-3501103fabe7-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a008"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-3501103fabe7-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a009"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-3501103fabe7-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a010"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-3501103fabe7-c001:u0012",
+      "kind": "case",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a011"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-3501103fabe7-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a012"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-3501103fabe7-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-3501103fabe7-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-3501103fabe7-c001:u0015",
+      "kind": "case",
+      "atom_ids": [
+        "s-3501103fabe7-c001:a013"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "家庭中父母与孩子的两种控制模式",
+      "atom_ids": [
+        "s-3501103fabe7-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-3501103fabe7",
+          "blocks": [
+            "b00003",
+            "b00004"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "控制无法真正缓解焦虑",
+      "atom_ids": [
+        "s-3501103fabe7-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-3501103fabe7",
+          "blocks": [
+            "b00015"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    }
+  ]
+}

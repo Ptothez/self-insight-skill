@@ -1,0 +1,2383 @@
+{
+  "concepts": [
+    {
+      "name": "无条件接纳与行为界限",
+      "definition": "接纳孩子不等于无条件接受所有行为；可以无条件接纳孩子但不允许打人等行为，不代表不要求改变行为。孩子感受到不被接纳源于家长行为而非言语。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a007",
+        "s-9354c03528d2-c001:a008"
+      ]
+    },
+    {
+      "name": "家长自身状态影响孩子",
+      "definition": "家长无法给孩子自己没有的东西，例如自己不快乐就无法培养快乐的孩子。家长付出时不快乐，即使告诉孩子付出是喜乐的，孩子也不会相信。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a004",
+        "s-9354c03528d2-c001:a005"
+      ]
+    },
+    {
+      "name": "避免孩子内疚的方法",
+      "definition": "家长不需要告诉孩子自己的付出是喜乐的，只需要自己每天精力十足、丰盛地生活，孩子自然知道家长不是为了他而付出。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a006"
+      ]
+    },
+    {
+      "name": "让孩子承担自然后果",
+      "definition": "让孩子自己处理自己造成的麻烦，如收拾摔碎的碗、处理衣服油渍、换尿湿的床单，家长保持平静，孩子会为自己的问题着急。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a017",
+        "s-9354c03528d2-c001:a018"
+      ]
+    },
+    {
+      "name": "理直气壮表达担忧与拒绝",
+      "definition": "父母不同意孩子做某事时，不要归咎自己，而应理直气壮表达担忧和判断，并一起找替代方案。父母应理直气壮拒绝和制止孩子的不当行为，这不代表不无条件接纳。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a014",
+        "s-9354c03528d2-c002:a018"
+      ]
+    },
+    {
+      "name": "情绪接纳与陪伴",
+      "definition": "孩子不高兴是正常的，家长不要总想把他从情绪里拔出来。孩子伤心时，抱着他说“妈妈知道你很不高兴，妈妈知道你现在很伤心”就够了，不需要干预或引导。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a020",
+        "s-9354c03528d2-c002:a021",
+        "s-9354c03528d2-c003:a002"
+      ]
+    },
+    {
+      "name": "转移注意力的使用条件",
+      "definition": "转移注意力的方法仅在紧急情况下使用，例如赶飞机、着急离开需要孩子迅速停止哭泣时。其他时候应使用别的方法。",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a007",
+        "s-9354c03528d2-c003:r001"
+      ]
+    },
+    {
+      "name": "家长示范失败",
+      "definition": "家长要有智慧地做给孩子看：如果孩子怕的是成功，就做给他看成功；如果孩子怕的是失败，就做给他看失败了会怎么样。通过示范失败后可以站起来，让孩子知道失败并不可怕。",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a010",
+        "s-9354c03528d2-c003:a011"
+      ]
+    },
+    {
+      "name": "经济独立的判断标准",
+      "definition": "经济独立不仅看怎么挣钱，也看怎么花钱。花钱时如果出自自己的决定就是独立的，如果花钱要征求很多人意见、得到认可后再花，则不是独立的。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a019",
+        "s-9354c03528d2-c002:a001"
+      ]
+    },
+    {
+      "name": "逐步培养独立玩耍",
+      "definition": "如果孩子不能自己玩，家长可在旁边但不说话、不打扰，自己做自己的事；孩子要求陪玩时坚决不陪。然后逐渐挪远，如到另一个房间，让孩子看不见，逐步让孩子独立玩耍。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a012",
+        "s-9354c03528d2-c002:r001"
+      ]
+    },
+    {
+      "name": "孩子不能自己玩的原因",
+      "definition": "孩子不能自己玩，很多时候不是因为不愿意，而是因为一开始家长过多干扰，打破了孩子自己玩耍的能力，使孩子不认为自己有能力自己玩。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a011",
+        "s-9354c03528d2-c002:xe002"
+      ]
+    },
+    {
+      "name": "处理孩子与同伴冲突的引导方法",
+      "definition": "当孩子与邀请来的同伴发生冲突时，可以引导孩子处理矛盾，并尝试让孩子共情对方，引导对方再次道歉，从而培养孩子从下向上道歉和从上到下原谅兼容的能力。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a001"
+      ]
+    },
+    {
+      "name": "孩子不愿与邀请的客人玩时的处理",
+      "definition": "如果孩子因之前冲突不愿与邀请的客人玩，可以允许孩子在房间由家人陪伴，家长在客厅招呼客人，但需要向对方父母解释清楚，以避免尴尬。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a002"
+      ]
+    },
+    {
+      "name": "尊重孩子决定与家长真实态度的矛盾",
+      "definition": "家长鼓励孩子独特穿着时，如果内心并不认为孩子这样穿没问题，就无法真正赋能孩子。问题在于家长认为孩子穿着有问题，而不是孩子穿着本身有问题。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a003"
+      ]
+    },
+    {
+      "name": "耍流氓的道歉方式",
+      "definition": "道歉时加上“但是”并指责对方，如“我错了，但是你怎么怎么样”，属于耍流氓的道歉方式，是错误的。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a010"
+      ]
+    },
+    {
+      "name": "为孩子留出放空时间",
+      "definition": "如果孩子一件接一件事情不停下来，家长应有意识地为孩子留出放空时间。当孩子安静玩耍时，可能是放空状态，家长不要打扰。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a011"
+      ]
+    },
+    {
+      "name": "排除ADHD可能性",
+      "definition": "如果孩子整个不停在动，感觉停不下来，需要排除ADHD的可能性。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a012"
+      ]
+    },
+    {
+      "name": "帮助被孤立孩子交友的方法",
+      "definition": "帮助被孤立孩子交友，可以让孩子与不那样说的同学做朋友，家长可以在学校做志愿者或邀请孩子的好朋友来家里玩。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a014"
+      ]
+    },
+    {
+      "name": "处理孩子粗心出错的心态",
+      "definition": "孩子粗心出错是成长中的正常环节，家长应以平常心对待，平静提醒孩子收拾自己造成的麻烦。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a016"
+      ]
+    },
+    {
+      "name": "处理孩子口袋物品被洗的责任划分",
+      "definition": "家长应明确责任：孩子负责清理自己衣服口袋，家长不负责清理。如果孩子不清理口袋，家长会直接洗掉或扔掉口袋里的东西。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a009"
+      ]
+    },
+    {
+      "name": "15岁孩子被同学孤立案例",
+      "definition": "案例中15岁孩子被同学说“有事别告诉他，他妈会告诉老师”，家长被冤枉为告密者。讲师指出家长比孩子更生气，应先处理自己情绪，再帮助孩子交友。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a013"
+      ]
+    },
+    {
+      "name": "女主人与女管家的区别",
+      "definition": "女主人有独立话语权，女管家只有一定话语权且最终话语权在主人。在婚姻中如果处于女管家角色，会缺乏最终话语权，导致育儿被动。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a015"
+      ]
+    },
+    {
+      "name": "一岁半培养独立能力的方法",
+      "definition": "一岁半时，每次换尿布后让孩子自己把尿布扔到垃圾桶，但不要培养孩子独立上厕所，因为太早。根据孩子年龄逐步培养独立能力。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a003"
+      ]
+    },
+    {
+      "name": "16岁独立意识的正常性",
+      "definition": "女儿16岁逐渐开始有独立意识是正常的，不算晚。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a004"
+      ]
+    },
+    {
+      "name": "孩子遇到问题沮丧打退堂鼓的可能原因",
+      "definition": "孩子尝试解决但碰到问题解决不下去时沮丧、打退堂鼓、沉迷一两天调整情绪，可能是情绪联结问题。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a005"
+      ]
+    },
+    {
+      "name": "提问需提供详细背景",
+      "definition": "提问时需提供更多背景，如孩子烦躁时家长的具体做法，否则难以给出针对性建议。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a006"
+      ]
+    },
+    {
+      "name": "从小不敢犯错导致成年后缺乏主见",
+      "definition": "一位学员从小被母亲细微管理，不敢放手，做不好事被指责，童年没有体验过失败。成年后婚姻工作没有自己的想法，做事总要得到别人认可才敢做，甚至有犯错的冲动但内心恐惧，40岁仍怀疑自己是否犯得起错。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a007"
+      ]
+    },
+    {
+      "name": "犯错的前提是有智慧",
+      "definition": "犯错的前提是要有智慧，能分辨哪些错能犯、哪些不能犯。40岁的人要考虑后果，犯不起的错不要犯。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a008"
+      ]
+    },
+    {
+      "name": "两种错误的区分",
+      "definition": "世界上有两种错：一种错犯了承担后果能让人成长；另一种错永远不可以犯，因为犯一次就没有以后。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a009"
+      ]
+    },
+    {
+      "name": "鼓励犯错的安全前提",
+      "definition": "鼓励犯错的前提是在安全的情况下，如同跳伞前要系好安全带。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a010"
+      ]
+    },
+    {
+      "name": "十岁孩子想独立回家但父母担忧",
+      "definition": "十周岁五年级孩子提出独立从学校放学回家，感觉自己很有能力。父母没有安全感，坦诚告诉孩子是妈妈没有安全感，做不到让他独立回家。讲师认为孩子想独立回家没毛病，妈妈担忧也没毛病，但妈妈不应把问题归为自己没有安全感，而应理直气壮告诉孩子：妈妈有对社会正确的判断，十岁孩子独自回家危险太大，七到十岁是被拐高峰。建议一起讨论找替代性行为让孩子感觉有能力，如自己挣钱。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a013"
+      ]
+    },
+    {
+      "name": "姑姑弄坏孩子玩具后母亲的处理",
+      "definition": "女儿三岁半，在月子中心时姑姑生气把玩具小狗玩偶的眼睛揪下来。母亲问孩子当时怎么做的，孩子说没关系没事，奶奶说姑姑了。母亲告诉孩子别人生气也不能弄坏你的东西，别人生气是他自己的事，与你无关，并问孩子不生气吗，孩子不说了。讲师认为孩子反应合理，母亲不应逼孩子生气或找姑姑，而应自己去找姑姑，警告她并让她买新玩具，否则半年不接触。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a015"
+      ]
+    },
+    {
+      "name": "父母应承担保护孩子的责任",
+      "definition": "当孩子被有优势的成人欺负时，父母应自己出面处理，而不是让孩子去面对或质疑孩子为何不生气。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a016"
+      ]
+    },
+    {
+      "name": "四岁孩子编故事主角总死",
+      "definition": "四岁孩子看到故事后编新故事，但主角总遇到伤心事死亡，如被撞死或从桥上摔下。孩子喜欢在吃饭时讲，母亲听得胃难受，却告诉孩子故事很吸引人，想专门找时间听并写下来，之后孩子不在吃饭时说了，但母亲担心孩子脑子都是死法。讲师认为母亲不应卑微，应直接告诉孩子不喜欢这个故事，理直气壮拒绝和制止。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a017"
+      ]
+    },
+    {
+      "name": "孩子接受不了失败时无需引导",
+      "definition": "对于接受不了失败的孩子，家长不需要引导他。孩子八岁时情绪联结即可，不需要引导。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a019"
+      ]
+    },
+    {
+      "name": "孩子游戏输后哭泣的处理示例",
+      "definition": "孩子玩游戏输了生气哭泣是正常反应，家长可以抱着孩子说“哦，很伤心哈，你输了”，不需要再讲其他内容。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a022",
+        "s-9354c03528d2-c003:a003"
+      ]
+    },
+    {
+      "name": "课程剪辑原则：无废话",
+      "definition": "讲师录制课程后，剪辑会剪掉所有废话，确保每一句话都有价值，可以停下来思考。语速加快后仍保留的内容都是重要的。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:xe001"
+      ]
+    },
+    {
+      "name": "官员用表情卡引导孩子情绪的例子",
+      "definition": "讲师给教育部官员讲儿童心理时，一位官员提到孩子哭时，他们用面部表情卡让孩子识别情绪，孩子说“我很伤心”，然后官员拿快乐的脸问如何让孩子从伤心变快乐。讲师以此说明父母总想引导孩子高兴，但孩子不高兴是正常的。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:xe003"
+      ]
+    },
+    {
+      "name": "希望孩子高兴与允许孩子不高兴的区别",
+      "definition": "希望孩子高兴并不代表在孩子伤心时一定要引导他高兴，这是两个不同的概念。孩子不可能时时刻刻都高兴，因此孩子不高兴是正常的，家长不应总是试图把孩子从情绪中拉出来。",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a001"
+      ]
+    },
+    {
+      "name": "被母亲管理的成年学员案例",
+      "definition": "一位学员从小被母亲管理，成年后买衣服仍被母亲管，在体制内工作但赚钱能力不足，与父母同住，每天工作12小时，孩子五岁由爷爷奶奶照顾。学员觉醒后发现母亲对孩子强势和道德绑架，学员会反驳母亲说“孩子不是这样子的”，并询问在两种声音环境中孩子是否会混乱。",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a004"
+      ]
+    },
+    {
+      "name": "在混乱环境中无法培养孩子独立性",
+      "definition": "在父母强势管理、道德绑架孩子的环境中，无法培养孩子的独立性。讲师用比喻说明：就像孩子在厕所里，无法让他全身散发香味。",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a005"
+      ]
+    },
+    {
+      "name": "改善孩子环境的建议：搬出父母家",
+      "definition": "为了培养孩子独立性，建议学员先从父母家搬出来，与丈夫独立居住，再考虑与母亲立界限。讲师认为学员丈夫有赚钱能力，且学员在体制内工作虽挣钱不多但时间相对较多，可以重新规划生活。",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a006"
+      ]
+    },
+    {
+      "name": "八岁孩子害怕尝试新事物的案例",
+      "definition": "一位家长描述八岁孩子尝试新事物时不敢、害怕失败，家长鼓励“你去试试看，失败了也没有关系”但无效，孩子仍缩起来不敢尝试，总说自己不敢、害怕。",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a008"
+      ]
+    },
+    {
+      "name": "家长自身行为对孩子尝试意愿的影响",
+      "definition": "如果家长自己不愿意尝试新挑战、对新事物不兴奋，那么在这个年龄阶段对孩子的影响很深。孩子会心想“你都不去试，凭什么要我试”，因此单纯语言鼓励无效。",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a009"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-9354c03528d2-c001:a004",
+      "target": "s-9354c03528d2-c001:a005",
+      "kind": "example_of",
+      "condition": "家长自己不快乐，无法培养快乐的孩子",
+      "reason": "后者是妈妈辛苦供养孩子上哈佛但因自己不快乐导致孩子内疚的案例，前者指出家长无法给孩子自己没有的东西，案例具体体现了这一原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9354c03528d2-c001:a005",
+      "target": "s-9354c03528d2-c001:a006",
+      "kind": "supports",
+      "condition": "避免孩子内疚",
+      "reason": "k00006 提供避免内疚的方法，即家长自己快乐生活，不抱怨付出。"
+    },
+    {
+      "source": "s-9354c03528d2-c001:a007",
+      "target": "s-9354c03528d2-c001:a008",
+      "kind": "supports",
+      "condition": "孩子感受到不接纳",
+      "reason": "k00008 解释孩子感受到不接纳的原因，支持 k00007 中接纳与行为界限的观点。"
+    },
+    {
+      "source": "s-9354c03528d2-c001:a009",
+      "target": "s-9354c03528d2-c001:a017",
+      "kind": "example_of",
+      "condition": "让孩子承担自然后果",
+      "reason": "前者是处理孩子口袋物品被洗的具体责任划分，要求孩子清理口袋并承担后果；后者是让孩子自己处理麻烦的一般原则，前者是后者在具体生活场景中的例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型不适用，调整为 example_of。"
+    },
+    {
+      "source": "s-9354c03528d2-c001:a017",
+      "target": "s-9354c03528d2-c001:a018",
+      "kind": "example_of",
+      "condition": "让孩子自己处理麻烦",
+      "reason": "后者是7岁孩子尿床后自己换床单的案例，体现了前者让孩子自己处理麻烦的原则，是前者的典型例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9354c03528d2-c001:a011",
+      "target": "s-9354c03528d2-c001:a012",
+      "kind": "prerequisite",
+      "condition": "孩子不停活动",
+      "reason": "如果孩子不停活动，先排除 ADHD 可能性，再考虑放空时间。"
+    },
+    {
+      "source": "s-9354c03528d2-c001:a013",
+      "target": "s-9354c03528d2-c001:a014",
+      "kind": "step_of",
+      "condition": "帮助被孤立孩子交友",
+      "reason": "前者是15岁孩子被同学孤立并建议帮助交友的案例，后者提供了具体交友方法（与友善同学交往、家长做志愿者、邀请朋友来家），后者是前者建议的落实步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9354c03528d2-c001:a016",
+      "target": "s-9354c03528d2-c001:a017",
+      "kind": "supports",
+      "condition": "孩子粗心出错",
+      "reason": "前者指出孩子粗心出错时家长应以平常心对待并平静提醒孩子收拾麻烦，后者强调让孩子自己处理麻烦且家长保持平静，前者支持后者关于平静放手让孩子处理的原则。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9354c03528d2-c001:a019",
+      "target": "s-9354c03528d2-c002:a001",
+      "kind": "supports",
+      "condition": "经济独立的判断",
+      "reason": "k00039 是对 k00019 的进一步解释，强调花钱独立。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a002",
+      "target": "s-9354c03528d2-c001:a004",
+      "kind": "association",
+      "condition": "自我修养中自身改变与给予能力相关",
+      "reason": "前者讨论夫妻教育观念差异时无法改变对方只能改变自己，后者指出家长无法给孩子自己没有的东西，两者都涉及家长自身状态，但前者未直接支持或例证后者的命题，仅属于同一议题的相关讨论。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型不适用，调整为 association。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a007",
+      "target": "s-9354c03528d2-c002:a008",
+      "kind": "supports",
+      "condition": "犯错的前提",
+      "reason": "k00046 解释犯错需要有智慧，是对 k00045 案例的回应。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a008",
+      "target": "s-9354c03528d2-c002:a009",
+      "kind": "supports",
+      "condition": "区分错误类型",
+      "reason": "k00047 区分两种错误，支持 k00046 中分辨哪些错能犯。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a010",
+      "target": "s-9354c03528d2-c002:a008",
+      "kind": "prerequisite",
+      "condition": "鼓励犯错",
+      "reason": "k00048 强调安全前提，是鼓励犯错的条件。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a011",
+      "target": "s-9354c03528d2-c002:a012",
+      "kind": "causes",
+      "condition": "孩子不能自己玩",
+      "reason": "k00049 解释原因，k00050 提供逐步培养方法。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a013",
+      "target": "s-9354c03528d2-c002:a014",
+      "kind": "example_of",
+      "condition": "父母理直气壮表达担忧",
+      "reason": "k00051 是具体案例，k00052 是一般原则。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a015",
+      "target": "s-9354c03528d2-c002:a016",
+      "kind": "example_of",
+      "condition": "父母承担保护责任",
+      "reason": "k00053 是案例，k00054 是一般原则。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a017",
+      "target": "s-9354c03528d2-c002:a018",
+      "kind": "example_of",
+      "condition": "父母理直气壮拒绝和制止",
+      "reason": "k00055 是案例，k00056 是一般原则。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a019",
+      "target": "s-9354c03528d2-c002:a020",
+      "kind": "example_of",
+      "condition": "孩子接受不了失败",
+      "reason": "前者是接受不了失败时家长无需引导的具体观点，后者是孩子不高兴是正常的、家长不应总是引导其高兴的一般原则，前者是后者原则在失败情绪场景下的具体应用。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 方向不准确，调整为 example_of。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a020",
+      "target": "s-9354c03528d2-c002:a021",
+      "kind": "step_of",
+      "condition": "孩子伤心时",
+      "reason": "k00059 提供具体回应方法。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a021",
+      "target": "s-9354c03528d2-c002:a022",
+      "kind": "example_of",
+      "condition": "孩子游戏输后哭泣",
+      "reason": "k00060 是具体示例。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:r001",
+      "target": "s-9354c03528d2-c002:a012",
+      "kind": "supports",
+      "condition": "逐步培养独立玩耍",
+      "reason": "k00061 与 k00050 内容一致，相互支持。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a014",
+      "target": "s-9354c03528d2-c002:a014",
+      "kind": "supports",
+      "condition": "理直气壮表达担忧",
+      "reason": "k00062 与 k00052 内容一致。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a016",
+      "target": "s-9354c03528d2-c002:a016",
+      "kind": "supports",
+      "condition": "父母保护孩子",
+      "reason": "k00063 与 k00054 内容一致。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a018",
+      "target": "s-9354c03528d2-c002:a018",
+      "kind": "supports",
+      "condition": "理直气壮拒绝和制止",
+      "reason": "k00064 与 k00056 内容一致。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a019",
+      "target": "s-9354c03528d2-c002:a019",
+      "kind": "supports",
+      "condition": "孩子八岁接受不了失败",
+      "reason": "k00065 与 k00057 内容一致。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a020",
+      "target": "s-9354c03528d2-c002:a020",
+      "kind": "supports",
+      "condition": "孩子不高兴是正常的",
+      "reason": "k00066 与 k00058 内容一致。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a021",
+      "target": "s-9354c03528d2-c002:a021",
+      "kind": "supports",
+      "condition": "孩子伤心时的回应",
+      "reason": "k00067 与 k00059 内容一致。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a022",
+      "target": "s-9354c03528d2-c002:a022",
+      "kind": "supports",
+      "condition": "孩子游戏输后哭泣",
+      "reason": "k00068 与 k00060 内容一致。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:xe002",
+      "target": "s-9354c03528d2-c002:a011",
+      "kind": "supports",
+      "condition": "孩子不能自己玩的原因",
+      "reason": "k00070 与 k00049 内容一致。"
+    },
+    {
+      "source": "s-9354c03528d2-c002:xe003",
+      "target": "s-9354c03528d2-c003:a001",
+      "kind": "example_of",
+      "condition": "希望孩子高兴与允许孩子不高兴的区别",
+      "reason": "k00071 是案例，k00072 是理论总结。"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a001",
+      "target": "s-9354c03528d2-c002:a020",
+      "kind": "supports",
+      "condition": "孩子不高兴是正常的",
+      "reason": "k00072 进一步解释 k00058。"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a002",
+      "target": "s-9354c03528d2-c002:a021",
+      "kind": "supports",
+      "condition": "孩子伤心时的陪伴方法",
+      "reason": "k00073 与 k00059 内容一致。"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a003",
+      "target": "s-9354c03528d2-c002:a022",
+      "kind": "supports",
+      "condition": "孩子游戏输后哭泣",
+      "reason": "k00074 与 k00060 内容一致。"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a004",
+      "target": "s-9354c03528d2-c003:a005",
+      "kind": "example_of",
+      "condition": "在混乱环境中无法培养独立性",
+      "reason": "前者是成年学员从小被母亲管理、孩子处于祖辈强势管理混乱环境的案例，后者指出在混乱环境中无法培养孩子独立性，案例为后者的观点提供了具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系类型不适用，调整为 example_of。"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a005",
+      "target": "s-9354c03528d2-c003:a006",
+      "kind": "step_of",
+      "condition": "改善孩子环境",
+      "reason": "前者指出混乱环境无法培养独立性、需要换环境，后者给出了搬出父母家、与母亲立界限的具体改善建议，是前者所提换环境的具体步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9354c03528d2-c003:a007",
+      "target": "s-9354c03528d2-c003:r001",
+      "kind": "supports",
+      "condition": "转移注意力的使用条件",
+      "reason": "k00078 与 k00083 内容一致。"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a008",
+      "target": "s-9354c03528d2-c003:a009",
+      "kind": "causes",
+      "condition": "家长自身行为影响孩子尝试意愿",
+      "reason": "k00079 描述孩子害怕尝试，k00080 解释原因。"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a009",
+      "target": "s-9354c03528d2-c003:a010",
+      "kind": "example_of",
+      "condition": "家长自身行为对孩子尝试意愿的影响",
+      "reason": "前者指出家长自身不愿尝试会让孩子不愿尝试、单纯语言鼓励无效，后者是讲师示范失败后站起的案例，具体展示了家长通过示范失败来支持孩子尝试，是前者原则的例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 不准确，调整为 example_of。"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a010",
+      "target": "s-9354c03528d2-c003:a011",
+      "kind": "supports",
+      "condition": "根据害怕类型选择示范内容",
+      "reason": "后者提出家长应根据孩子害怕的是成功还是失败来示范相应内容，前者是讲师在孩子怕失败时示范失败后站起的案例，实际支持了后者区分害怕类型进行示范的策略。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n002",
+      "target": "s-9354c03528d2-c002:a001",
+      "kind": "association",
+      "condition": "两者表述几乎相同",
+      "reason": "候选内容与源高度重复，均指出经济独立包括挣钱和花钱独立，花钱独立指出自自己决定而非征求认可；无新增实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a001",
+      "target": "s-9354c03528d2-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者表述几乎相同",
+      "reason": "候选内容与源高度重复，均指出经济独立包括挣钱和花钱独立，花钱独立指出自自己决定而非征求认可；无新增实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n002",
+      "target": "s-9354c03528d2-c001:a019",
+      "kind": "association",
+      "condition": "两者表述几乎相同",
+      "reason": "候选与源内容一致，重复表述经济独立看挣钱和花钱，花钱独立标准相同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:a019",
+      "target": "s-9354c03528d2-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者表述几乎相同",
+      "reason": "候选与源内容一致，重复表述经济独立看挣钱和花钱，花钱独立标准相同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n002",
+      "target": "s-9354c03528d2-c002:a007",
+      "kind": "association",
+      "condition": "案例涉及因缺乏认可不敢做决定，与花钱独立主题相关但领域不同",
+      "reason": "候选案例中成年人做事总需别人认可，与源中花钱需认可则非独立相似，但该案例是关于整体缺乏主见，并非直接说明花钱独立，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a007",
+      "target": "s-9354c03528d2-c001:v2-n002",
+      "kind": "association",
+      "condition": "案例涉及因缺乏认可不敢做决定，与花钱独立主题相关但领域不同",
+      "reason": "候选案例中成年人做事总需别人认可，与源中花钱需认可则非独立相似，但该案例是关于整体缺乏主见，并非直接说明花钱独立，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n002",
+      "target": "s-9354c03528d2-c002:a012",
+      "kind": "association",
+      "condition": "两者均涉及独立，但一个是儿童独立玩耍，一个是成人经济独立",
+      "reason": "候选方法针对孩子不能自己玩，与源中花钱独立无直接关联，仅主题相近，无实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a012",
+      "target": "s-9354c03528d2-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者均涉及独立，但一个是儿童独立玩耍，一个是成人经济独立",
+      "reason": "候选方法针对孩子不能自己玩，与源中花钱独立无直接关联，仅主题相近，无实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n002",
+      "target": "s-9354c03528d2-c002:a013",
+      "kind": "association",
+      "condition": "两者均涉及独立，但领域不同（儿童独立回家 vs 经济花钱独立）",
+      "reason": "候选案例关于十岁孩子独立回家，与源中花钱独立完全无关，仅共享“独立”一词。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a013",
+      "target": "s-9354c03528d2-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者均涉及独立，但领域不同（儿童独立回家 vs 经济花钱独立）",
+      "reason": "候选案例关于十岁孩子独立回家，与源中花钱独立完全无关，仅共享“独立”一词。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n002",
+      "target": "s-9354c03528d2-c002:a003",
+      "kind": "association",
+      "condition": "两者均涉及独立能力培养，但年龄和领域不同",
+      "reason": "候选介绍一岁半孩子独立扔尿布，与源中成人花钱独立无直接关联，仅主题相近。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a003",
+      "target": "s-9354c03528d2-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者均涉及独立能力培养，但年龄和领域不同",
+      "reason": "候选介绍一岁半孩子独立扔尿布，与源中成人花钱独立无直接关联，仅主题相近。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n002",
+      "target": "s-9354c03528d2-c002:r001",
+      "kind": "association",
+      "condition": "两者均涉及独立，但具体内容为儿童独立玩耍",
+      "reason": "候选与 s-9354c03528d2-c002:a012 重复，均为孩子独立玩耍方法，与源无实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:r001",
+      "target": "s-9354c03528d2-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者均涉及独立，但具体内容为儿童独立玩耍",
+      "reason": "候选与 s-9354c03528d2-c002:a012 重复，均为孩子独立玩耍方法，与源无实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n002",
+      "target": "s-9354c03528d2-c002:xe002",
+      "kind": "association",
+      "condition": "两者均涉及独立，但领域不同",
+      "reason": "候选解释孩子不能自己玩的原因，与源中花钱独立无关联，仅共享主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:xe002",
+      "target": "s-9354c03528d2-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者均涉及独立，但领域不同",
+      "reason": "候选解释孩子不能自己玩的原因，与源中花钱独立无关联，仅共享主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n002",
+      "target": "s-9354c03528d2-c003:a005",
+      "kind": "association",
+      "condition": "两者均涉及独立，但候选针对儿童在混乱环境中无法培养独立性",
+      "reason": "候选概念与源中经济独立无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a005",
+      "target": "s-9354c03528d2-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者均涉及独立，但候选针对儿童在混乱环境中无法培养独立性",
+      "reason": "候选概念与源中经济独立无直接关系，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n002",
+      "target": "s-9354c03528d2-c002:v2-n001",
+      "kind": "association",
+      "condition": "案例体现了缺乏花钱独立（买衣服被管）",
+      "reason": "源为花钱独立概念，候选案例中成人买衣服仍被母亲管，可视为缺乏花钱独立的例证，但方向不能 example_of，故用 association 并注明案例体现了该概念。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:v2-n001",
+      "target": "s-9354c03528d2-c001:v2-n002",
+      "kind": "association",
+      "condition": "案例体现了缺乏花钱独立（买衣服被管）",
+      "reason": "源为花钱独立概念，候选案例中成人买衣服仍被母亲管，可视为缺乏花钱独立的例证，但方向不能 example_of，故用 association 并注明案例体现了该概念。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n002",
+      "target": "s-9354c03528d2-c002:a004",
+      "kind": "association",
+      "condition": "两者主题均为独立，但候选关注16岁独立意识年龄",
+      "reason": "候选关于孩子独立意识晚，与源无直接关联，仅主题相近。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a004",
+      "target": "s-9354c03528d2-c001:v2-n002",
+      "kind": "association",
+      "condition": "两者主题均为独立，但候选关注16岁独立意识年龄",
+      "reason": "候选关于孩子独立意识晚，与源无直接关联，仅主题相近。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n003",
+      "target": "s-9354c03528d2-c002:a002",
+      "kind": "association",
+      "condition": "两者表述高度相似",
+      "reason": "候选与源内容几乎一致，均建议夫妻一起学习、无法改变对方则改变自己，可寻求婚姻课程；候选未补充实质新信息，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a002",
+      "target": "s-9354c03528d2-c001:v2-n003",
+      "kind": "association",
+      "condition": "两者表述高度相似",
+      "reason": "候选与源内容几乎一致，均建议夫妻一起学习、无法改变对方则改变自己，可寻求婚姻课程；候选未补充实质新信息，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n003",
+      "target": "s-9354c03528d2-c001:a004",
+      "kind": "association",
+      "condition": "源中步骤“改变自己”涉及内在认同，候选强调家长内在认同的重要性",
+      "reason": "候选指出家长无法给孩子自己没有的东西，与源中改变自己的过程可能相关，但非直接步骤或前提，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:a004",
+      "target": "s-9354c03528d2-c001:v2-n003",
+      "kind": "association",
+      "condition": "源中步骤“改变自己”涉及内在认同，候选强调家长内在认同的重要性",
+      "reason": "候选指出家长无法给孩子自己没有的东西，与源中改变自己的过程可能相关，但非直接步骤或前提，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n003",
+      "target": "s-9354c03528d2-c003:a009",
+      "kind": "association",
+      "condition": "两者均涉及家长自身行为的影响",
+      "reason": "候选讲家长自身不愿尝试会影响孩子，与源中夫妻观念差异无直接关系，仅主题涉及家长自身行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a009",
+      "target": "s-9354c03528d2-c001:v2-n003",
+      "kind": "association",
+      "condition": "两者均涉及家长自身行为的影响",
+      "reason": "候选讲家长自身不愿尝试会影响孩子，与源中夫妻观念差异无直接关系，仅主题涉及家长自身行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n003",
+      "target": "s-9354c03528d2-c001:a015",
+      "kind": "association",
+      "condition": "两者均涉及家庭角色权力",
+      "reason": "候选区分女主人与女管家，涉及话语权，与源中夫妻观念差异时一方不愿改变可能涉及权力不对等，但非直接，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:a015",
+      "target": "s-9354c03528d2-c001:v2-n003",
+      "kind": "association",
+      "condition": "两者均涉及家庭角色权力",
+      "reason": "候选区分女主人与女管家，涉及话语权，与源中夫妻观念差异时一方不愿改变可能涉及权力不对等，但非直接，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:v2-n001",
+      "target": "s-9354c03528d2-c003:a004",
+      "kind": "association",
+      "condition": "两者为同一案例的重复表述",
+      "reason": "候选与源描述同一学员案例，细节略有差异，无新增实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a004",
+      "target": "s-9354c03528d2-c002:v2-n001",
+      "kind": "association",
+      "condition": "两者为同一案例的重复表述",
+      "reason": "候选与源描述同一学员案例，细节略有差异，无新增实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:v2-n001",
+      "target": "s-9354c03528d2-c003:a005",
+      "kind": "example_of",
+      "condition": "当环境混乱且孩子需换环境时",
+      "reason": "源案例中母亲孩子生活在混乱环境中，讲师比喻在厕所无法全身香，体现了候选概念“在混乱环境中无法培养孩子独立性”，源是该概念的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a005",
+      "target": "s-9354c03528d2-c002:v2-n001",
+      "kind": "has_example",
+      "condition": "当环境混乱且孩子需换环境时",
+      "reason": "源案例中母亲孩子生活在混乱环境中，讲师比喻在厕所无法全身香，体现了候选概念“在混乱环境中无法培养孩子独立性”，源是该概念的具体实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:v2-n001",
+      "target": "s-9354c03528d2-c003:a006",
+      "kind": "complements",
+      "condition": "针对此案例需换环境的具体措施",
+      "reason": "源结论提出需换环境，候选补充了具体行动：搬出父母家、与丈夫独立居住、与母亲立界限，弥补了源未给出具体方法的不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a006",
+      "target": "s-9354c03528d2-c002:v2-n001",
+      "kind": "complements",
+      "condition": "针对此案例需换环境的具体措施",
+      "reason": "源结论提出需换环境，候选补充了具体行动：搬出父母家、与丈夫独立居住、与母亲立界限，弥补了源未给出具体方法的不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:v2-n001",
+      "target": "s-9354c03528d2-c002:a013",
+      "kind": "association",
+      "condition": "两者均涉及儿童独立行为但情境不同",
+      "reason": "候选为十岁孩子独立回家案例，与源中五岁孩子需换环境无直接关联，仅主题相近。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a013",
+      "target": "s-9354c03528d2-c002:v2-n001",
+      "kind": "association",
+      "condition": "两者均涉及儿童独立行为但情境不同",
+      "reason": "候选为十岁孩子独立回家案例，与源中五岁孩子需换环境无直接关联，仅主题相近。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:v2-n001",
+      "target": "s-9354c03528d2-c002:a007",
+      "kind": "association",
+      "condition": "两者均为母亲过度管理导致不独立的案例",
+      "reason": "候选案例中成年人从小被母亲细微管理导致缺乏主见，与源中学员情况相似，但两者都是案例，不能互为例子，仅 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a007",
+      "target": "s-9354c03528d2-c002:v2-n001",
+      "kind": "association",
+      "condition": "两者均为母亲过度管理导致不独立的案例",
+      "reason": "候选案例中成年人从小被母亲细微管理导致缺乏主见，与源中学员情况相似，但两者都是案例，不能互为例子，仅 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:v2-n001",
+      "target": "s-9354c03528d2-c002:a012",
+      "kind": "association",
+      "condition": "两者均涉及孩子独立性培养但方法不适用于源情境",
+      "reason": "候选方法针对孩子不能自己玩，源案例需先换环境，候选方法无法直接应用，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a012",
+      "target": "s-9354c03528d2-c002:v2-n001",
+      "kind": "association",
+      "condition": "两者均涉及孩子独立性培养但方法不适用于源情境",
+      "reason": "候选方法针对孩子不能自己玩，源案例需先换环境，候选方法无法直接应用，仅弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:v2-n001",
+      "target": "s-9354c03528d2-c002:r001",
+      "kind": "association",
+      "condition": "同上，与 a012 重复",
+      "reason": "与候选 a012 内容相同，与源无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:r001",
+      "target": "s-9354c03528d2-c002:v2-n001",
+      "kind": "association",
+      "condition": "同上，与 a012 重复",
+      "reason": "与候选 a012 内容相同，与源无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:v2-n002",
+      "target": "s-9354c03528d2-c001:a018",
+      "kind": "association",
+      "condition": "两者为相同方法的相似案例",
+      "reason": "候选详细描述7岁孩子尿床处理，与源方法一致但增加了年龄等细节，可视为同一原则的应用，未补充新原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:a018",
+      "target": "s-9354c03528d2-c002:v2-n002",
+      "kind": "association",
+      "condition": "两者为相同方法的相似案例",
+      "reason": "候选详细描述7岁孩子尿床处理，与源方法一致但增加了年龄等细节，可视为同一原则的应用，未补充新原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:v2-n002",
+      "target": "s-9354c03528d2-c001:a017",
+      "kind": "example_of",
+      "condition": "当孩子造成麻烦需自己处理时",
+      "reason": "源案例中让孩子自己换床单处理尿床，属于候选概念“让孩子自己处理自己造成的麻烦”的一个具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:a017",
+      "target": "s-9354c03528d2-c002:v2-n002",
+      "kind": "has_example",
+      "condition": "当孩子造成麻烦需自己处理时",
+      "reason": "源案例中让孩子自己换床单处理尿床，属于候选概念“让孩子自己处理自己造成的麻烦”的一个具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:v2-n003",
+      "target": "s-9354c03528d2-c002:a002",
+      "kind": "association",
+      "condition": "两者均涉及沟通，但具体为夫妻观念差异",
+      "reason": "候选处理夫妻教育观念差异，属于沟通范畴，但与源强调的18岁前育儿沟通思考不直接相关，仅主题相近。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a002",
+      "target": "s-9354c03528d2-c002:v2-n003",
+      "kind": "association",
+      "condition": "两者均涉及沟通，但具体为夫妻观念差异",
+      "reason": "候选处理夫妻教育观念差异，属于沟通范畴，但与源强调的18岁前育儿沟通思考不直接相关，仅主题相近。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:v2-n003",
+      "target": "s-9354c03528d2-c001:v2-n003",
+      "kind": "association",
+      "condition": "同上",
+      "reason": "与候选 a002 内容相似，同样仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:v2-n003",
+      "target": "s-9354c03528d2-c002:v2-n003",
+      "kind": "association",
+      "condition": "同上",
+      "reason": "与候选 a002 内容相似，同样仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:v2-n003",
+      "target": "s-9354c03528d2-c001:a015",
+      "kind": "association",
+      "condition": "两者均涉及家庭角色与话语权",
+      "reason": "候选区分女主人与女管家，涉及话语权，可能与源中父母沟通角色有关，但未直接涉及育儿沟通思考，弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c001:a015",
+      "target": "s-9354c03528d2-c002:v2-n003",
+      "kind": "association",
+      "condition": "两者均涉及家庭角色与话语权",
+      "reason": "候选区分女主人与女管家，涉及话语权，可能与源中父母沟通角色有关，但未直接涉及育儿沟通思考，弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:v2-n001",
+      "target": "s-9354c03528d2-c002:a020",
+      "kind": "association",
+      "condition": "两者内容部分重复",
+      "reason": "候选仅强调孩子不高兴是正常的，是源中一部分，无新增实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a020",
+      "target": "s-9354c03528d2-c003:v2-n001",
+      "kind": "association",
+      "condition": "两者内容部分重复",
+      "reason": "候选仅强调孩子不高兴是正常的，是源中一部分，无新增实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:v2-n001",
+      "target": "s-9354c03528d2-c003:a002",
+      "kind": "association",
+      "condition": "两者内容一致",
+      "reason": "候选提供孩子伤心时陪伴方法，与源中步骤一致，重复。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a002",
+      "target": "s-9354c03528d2-c003:v2-n001",
+      "kind": "association",
+      "condition": "两者内容一致",
+      "reason": "候选提供孩子伤心时陪伴方法，与源中步骤一致，重复。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:v2-n001",
+      "target": "s-9354c03528d2-c002:a021",
+      "kind": "association",
+      "condition": "两者内容一致",
+      "reason": "候选同样给出伤心时的正确回应，重复源中方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a021",
+      "target": "s-9354c03528d2-c003:v2-n001",
+      "kind": "association",
+      "condition": "两者内容一致",
+      "reason": "候选同样给出伤心时的正确回应，重复源中方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:v2-n001",
+      "target": "s-9354c03528d2-c003:a003",
+      "kind": "association",
+      "condition": "候选是源中具体场景的示例",
+      "reason": "候选描述游戏输后哭泣的处理，与源中“输了生气哭”的应对一致，是源概念的具体应用，但方向不能 example_of，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a003",
+      "target": "s-9354c03528d2-c003:v2-n001",
+      "kind": "association",
+      "condition": "候选是源中具体场景的示例",
+      "reason": "候选描述游戏输后哭泣的处理，与源中“输了生气哭”的应对一致，是源概念的具体应用，但方向不能 example_of，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:v2-n001",
+      "target": "s-9354c03528d2-c003:a001",
+      "kind": "complements",
+      "condition": "当需要区分希望高兴与允许不高兴时",
+      "reason": "候选明确区分“希望孩子高兴”与“允许孩子不高兴”是两个概念，补充了源中未明确的概念辨析。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:a001",
+      "target": "s-9354c03528d2-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当需要区分希望高兴与允许不高兴时",
+      "reason": "候选明确区分“希望孩子高兴”与“允许孩子不高兴”是两个概念，补充了源中未明确的概念辨析。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:v2-n001",
+      "target": "s-9354c03528d2-c002:a022",
+      "kind": "association",
+      "condition": "候选是源中游戏输后哭泣的具体处理方法",
+      "reason": "与候选 a003 类似，提供具体处理语句“很伤心哈，你输了”，是源步骤的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a022",
+      "target": "s-9354c03528d2-c003:v2-n001",
+      "kind": "association",
+      "condition": "候选是源中游戏输后哭泣的具体处理方法",
+      "reason": "与候选 a003 类似，提供具体处理语句“很伤心哈，你输了”，是源步骤的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:v2-n001",
+      "target": "s-9354c03528d2-c002:xe003",
+      "kind": "association",
+      "condition": "候选为反面案例：父母总想引导孩子高兴",
+      "reason": "候选案例中官员用表情卡试图让孩子从伤心变快乐，体现了源反对的“总想把他从情绪里拔出来”的做法，可作为反面例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:xe003",
+      "target": "s-9354c03528d2-c003:v2-n001",
+      "kind": "association",
+      "condition": "候选为反面案例：父母总想引导孩子高兴",
+      "reason": "候选案例中官员用表情卡试图让孩子从伤心变快乐，体现了源反对的“总想把他从情绪里拔出来”的做法，可作为反面例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c003:v2-n001",
+      "target": "s-9354c03528d2-c002:a019",
+      "kind": "association",
+      "condition": "两者均涉及孩子情绪处理，但候选针对接受不了失败且需指明年龄",
+      "reason": "候选指出孩子接受不了失败时无需引导，与源中不干预原则一致，但强调年龄差异，可视为相关但需进一步明确条件，故 association。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-9354c03528d2-c002:a019",
+      "target": "s-9354c03528d2-c003:v2-n001",
+      "kind": "association",
+      "condition": "两者均涉及孩子情绪处理，但候选针对接受不了失败且需指明年龄",
+      "reason": "候选指出孩子接受不了失败时无需引导，与源中不干预原则一致，但强调年龄差异，可视为相关但需进一步明确条件，故 association。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "处理孩子行为问题时，如孩子打人、不清理口袋、粗心出错等，需要明确界限并让孩子承担自然后果。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a007",
+        "s-9354c03528d2-c001:a009",
+        "s-9354c03528d2-c001:a016",
+        "s-9354c03528d2-c001:a017",
+        "s-9354c03528d2-c001:a018"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "界限",
+      "when": "家长自身状态影响界限设立，如家长不快乐则无法有效赋能孩子，需要先处理自身问题。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a004",
+        "s-9354c03528d2-c001:a005",
+        "s-9354c03528d2-c001:a006",
+        "s-9354c03528d2-c002:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "孩子情绪激动时，先接纳情绪，再设立行为界限，如孩子伤心时先共情，再处理行为问题。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a020",
+        "s-9354c03528d2-c002:a021",
+        "s-9354c03528d2-c002:a022",
+        "s-9354c03528d2-c001:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "根据孩子年龄阶段设立界限，如一岁半培养扔尿布，16岁独立意识正常，不同阶段界限不同。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a003",
+        "s-9354c03528d2-c002:a004",
+        "s-9354c03528d2-c002:a013"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-9354c03528d2-c002:a003",
+          "limits": [
+            "不要培养独立上厕所，太早"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "内在能力",
+      "to": "界限",
+      "when": "培养孩子内在能力如独立玩耍、尝试新事物时，需要家长示范和逐步放手，同时设立安全界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a011",
+        "s-9354c03528d2-c002:a012",
+        "s-9354c03528d2-c003:a008",
+        "s-9354c03528d2-c003:a009",
+        "s-9354c03528d2-c003:a010",
+        "s-9354c03528d2-c003:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "界限",
+      "when": "家长自我认知影响界限设立，如家长认为孩子穿着有问题，则无法真正赋能孩子。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "专注力",
+      "to": "界限",
+      "when": "孩子专注力问题如不停活动，需要先排除 ADHD，再考虑放空时间，同时设立行为界限。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a011",
+        "s-9354c03528d2-c001:a012"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a001"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a002"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a003"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a004"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a005"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a006"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a007"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a008"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a009"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a010"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a011"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a012"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a013"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a014"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a015"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a016"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a017"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a018"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a019",
+        "s-9354c03528d2-c002:a001"
+      ],
+      "reason": "内容实质相同，均描述经济独立的判断标准，k00039 表述更详细。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c002:a011",
+        "s-9354c03528d2-c002:xe002"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c002:a012",
+        "s-9354c03528d2-c002:r001"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c002:a014"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c002:a016"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c002:a018"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c002:a019"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c002:a020"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c002:a021",
+        "s-9354c03528d2-c003:a002"
+      ],
+      "reason": "内容实质相同，均描述孩子伤心时的正确回应，k00073 表述更详细。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c002:a022",
+        "s-9354c03528d2-c003:a003"
+      ],
+      "reason": "内容实质相同，均描述孩子游戏输后哭泣的处理，k00074 表述更详细。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c003:a007",
+        "s-9354c03528d2-c003:r001"
+      ],
+      "reason": "内容完全一致，标题和正文相同。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c001:a003"
+      ],
+      "description": "家长鼓励孩子独特穿着时，如果内心并不认为孩子这样穿没问题，就无法真正赋能孩子。问题在于家长认为孩子穿着有问题，而不是孩子穿着本身有问题。",
+      "needed_evidence": "需要明确家长如何调整自我认知，以及具体赋能方法。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c002:a013",
+        "s-9354c03528d2-c002:a014"
+      ],
+      "description": "十岁孩子想独立回家，家长担忧，讲师建议理直气壮表达担忧并找替代方案，但未提供具体替代方案细节。",
+      "needed_evidence": "需要更多替代性行为的具体例子和适用条件。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c002:a015",
+        "s-9354c03528d2-c002:a016"
+      ],
+      "description": "姑姑弄坏孩子玩具，母亲应自己出面处理，但未说明具体沟通策略和后续跟进。",
+      "needed_evidence": "需要具体沟通话术和边界设立方法。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c002:a017",
+        "s-9354c03528d2-c002:a018"
+      ],
+      "description": "四岁孩子编死亡故事，母亲应理直气壮拒绝，但未说明如何平衡拒绝与保护孩子创造力。",
+      "needed_evidence": "需要具体拒绝话术和替代引导方法。"
+    },
+    {
+      "atom_ids": [
+        "s-9354c03528d2-c003:a004",
+        "s-9354c03528d2-c003:a005",
+        "s-9354c03528d2-c003:a006"
+      ],
+      "description": "在混乱环境中无法培养孩子独立性，建议搬出父母家，但未考虑经济、情感等实际困难。",
+      "needed_evidence": "需要更多现实约束下的过渡方案。"
+    }
+  ],
+  "path": [
+    {
+      "name": "处理孩子与同伴冲突的引导流程",
+      "steps": [
+        {
+          "action": "引导孩子处理矛盾",
+          "atom_ids": [
+            "s-9354c03528d2-c001:a001"
+          ],
+          "condition": "对方妈妈已经引导道歉，孩子仍然生气"
+        },
+        {
+          "action": "等对方孩子来了以后，引导孩子尝试共情",
+          "atom_ids": [
+            "s-9354c03528d2-c001:a001"
+          ],
+          "condition": "对方孩子到来"
+        },
+        {
+          "action": "引导对方孩子再次道歉",
+          "atom_ids": [
+            "s-9354c03528d2-c001:a001"
+          ],
+          "condition": "孩子共情后"
+        },
+        {
+          "action": "促进两个孩子和好",
+          "atom_ids": [
+            "s-9354c03528d2-c001:a001"
+          ],
+          "condition": "道歉完成"
+        }
+      ]
+    },
+    {
+      "name": "逐步培养孩子独立玩耍的流程",
+      "steps": [
+        {
+          "action": "家长在孩子旁边做自己的事，不打扰孩子",
+          "atom_ids": [
+            "s-9354c03528d2-c002:a012",
+            "s-9354c03528d2-c002:r001"
+          ],
+          "condition": "孩子不能自己玩"
+        },
+        {
+          "action": "孩子要求陪玩时坚决不陪",
+          "atom_ids": [
+            "s-9354c03528d2-c002:a012",
+            "s-9354c03528d2-c002:r001"
+          ],
+          "condition": "孩子要求陪玩"
+        },
+        {
+          "action": "逐渐挪远，如到另一个房间",
+          "atom_ids": [
+            "s-9354c03528d2-c002:a012",
+            "s-9354c03528d2-c002:r001"
+          ],
+          "condition": "孩子适应家长在旁边"
+        },
+        {
+          "action": "让孩子逐步独立玩耍",
+          "atom_ids": [
+            "s-9354c03528d2-c002:a012",
+            "s-9354c03528d2-c002:r001"
+          ],
+          "condition": "孩子适应家长不在视线内"
+        }
+      ]
+    },
+    {
+      "name": "处理孩子情绪的基本流程",
+      "steps": [
+        {
+          "action": "抱着孩子",
+          "atom_ids": [
+            "s-9354c03528d2-c002:a021",
+            "s-9354c03528d2-c002:a022",
+            "s-9354c03528d2-c003:a002",
+            "s-9354c03528d2-c003:a003"
+          ],
+          "condition": "孩子伤心或生气"
+        },
+        {
+          "action": "用语言表达对孩子情绪的理解",
+          "atom_ids": [
+            "s-9354c03528d2-c002:a021",
+            "s-9354c03528d2-c002:a022",
+            "s-9354c03528d2-c003:a002",
+            "s-9354c03528d2-c003:a003"
+          ],
+          "condition": "抱着孩子时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "19f1079a52985a44bbaa815e9432aa49406f266b765548409ba8f96322725479",
+  "point_units": [
+    {
+      "id": "s-9354c03528d2-c001:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a001"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a002"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a003"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u004",
+      "kind": "definition",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a004"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a005"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a006"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a007"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u008",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a008"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a009"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u010",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a010"
+      ],
+      "blocks": [
+        "b00022",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a011"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u012",
+      "kind": "condition",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a012"
+      ],
+      "blocks": [
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a013"
+      ],
+      "blocks": [
+        "b00028",
+        "b00029",
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a014"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u015",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a015"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a016"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036",
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a017"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u018",
+      "kind": "case",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a018"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u019",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-9354c03528d2-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c001:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u1",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9354c03528d2-c001:a019",
+        "s-9354c03528d2-c002:a001"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u2",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a002"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u3",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a003"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u5",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a005"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u6",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a006"
+      ],
+      "blocks": [
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u7",
+      "kind": "case",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a007"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u8",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a008"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051",
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u9",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a009"
+      ],
+      "blocks": [
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u10",
+      "kind": "condition",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a010"
+      ],
+      "blocks": [
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u11",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c002:xe001"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u12",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a011",
+        "s-9354c03528d2-c002:xe002"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u13",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a012",
+        "s-9354c03528d2-c002:r001"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u14",
+      "kind": "case",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a013"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061",
+        "b00062",
+        "b00063",
+        "b00064",
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u15",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a014"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061",
+        "b00062",
+        "b00063",
+        "b00064",
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u16",
+      "kind": "case",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a015"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067",
+        "b00068",
+        "b00069",
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u17",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a016"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069",
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u18",
+      "kind": "case",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a017"
+      ],
+      "blocks": [
+        "b00072",
+        "b00073",
+        "b00074",
+        "b00075",
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u19",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a018"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u20",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a019"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u21",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a020",
+        "s-9354c03528d2-c003:a001"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u22",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a021",
+        "s-9354c03528d2-c003:a002"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u23",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c002:a022",
+        "s-9354c03528d2-c003:a003"
+      ],
+      "blocks": [
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u24",
+      "kind": "case",
+      "atom_ids": [
+        "s-9354c03528d2-c002:xe003"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u25",
+      "kind": "case",
+      "atom_ids": [
+        "s-9354c03528d2-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u26",
+      "kind": "case",
+      "atom_ids": [
+        "s-9354c03528d2-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c002:u27",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9354c03528d2-c002:v2-n003"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c003:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c003:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a004"
+      ],
+      "blocks": [
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c003:u003",
+      "kind": "judgment",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a005"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c003:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a006"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c003:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a007",
+        "s-9354c03528d2-c003:r001"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c003:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a008"
+      ],
+      "blocks": [
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c003:u007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a009"
+      ],
+      "blocks": [
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c003:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a010"
+      ],
+      "blocks": [
+        "b00092",
+        "b00093",
+        "b00094",
+        "b00095",
+        "b00096"
+      ]
+    },
+    {
+      "id": "s-9354c03528d2-c003:u009",
+      "kind": "method",
+      "atom_ids": [
+        "s-9354c03528d2-c003:a011"
+      ],
+      "blocks": [
+        "b00095",
+        "b00096"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "经济独立中的花钱独立判断标准",
+      "atom_ids": [
+        "s-9354c03528d2-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-9354c03528d2",
+          "blocks": [
+            "b00042",
+            "b00043"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "处理夫妻教育观念差异",
+      "atom_ids": [
+        "s-9354c03528d2-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-9354c03528d2",
+          "blocks": [
+            "b00043",
+            "b00044"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "被母亲强势管理的母亲求问如何帮孩子独立",
+      "atom_ids": [
+        "s-9354c03528d2-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-9354c03528d2",
+          "blocks": [
+            "b00083",
+            "b00084"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "让孩子自己换床单解决尿床",
+      "atom_ids": [
+        "s-9354c03528d2-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-9354c03528d2",
+          "blocks": [
+            "b00041",
+            "b00042"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "18岁前需主动思考育儿沟通",
+      "atom_ids": [
+        "s-9354c03528d2-c002:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-9354c03528d2",
+          "blocks": [
+            "b00062",
+            "b00063"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "孩子不高兴时的应对：接纳情绪、不干预",
+      "atom_ids": [
+        "s-9354c03528d2-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-9354c03528d2",
+          "blocks": [
+            "b00081",
+            "b00082"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

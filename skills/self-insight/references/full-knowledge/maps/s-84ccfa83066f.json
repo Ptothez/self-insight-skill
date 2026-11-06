@@ -1,0 +1,323 @@
+{
+  "concepts": [
+    {
+      "name": "唠叨",
+      "definition": "一方持续重复说，另一方持续不听，导致双方生气，使关系角色不平等，类似妈妈与青少年或爸爸与青少年的关系，造成彼此不信任和负面情绪。",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a001"
+      ]
+    },
+    {
+      "name": "不切实际的期待",
+      "definition": "一方对另一方抱有不合理的高要求，导致对方觉得自己是失败者。具体类型包括：只要要求合理，对方就应该每次都提供；自己强的方面对方也应该强；自己弱的方面对方也应该强；如果爱我就应该知道我的需求而不需明说；幸福的婚姻不吵架。",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a002",
+        "s-84ccfa83066f-c001:r001"
+      ]
+    },
+    {
+      "name": "正确期待",
+      "definition": "允许配偶和自己一样有软弱之处，不强求对方在所有方面与自己相同或互补。",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a003"
+      ]
+    },
+    {
+      "name": "修复争吵",
+      "definition": "高质量婚姻中的夫妻学会如何结束争吵或在争吵失控时修复状况。具体方法包括：使用幽默、关怀的小动作（如挤牙膏、倒水、叫吃饭）、积极的话语（如“我相信我们一定可以搞定这个问题”）、退让、向配偶表达感激。",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a004",
+        "s-84ccfa83066f-c001:r002"
+      ]
+    },
+    {
+      "name": "正面回应与负面回应",
+      "definition": "正面回应包括肯定、赞美和鼓励的话语；负面回应包括贬低、嘲讽的话语。高质量婚姻中正面回应频率远高于负面回应，低质量婚姻中负面回应更多。",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a007",
+        "s-84ccfa83066f-c001:r003"
+      ]
+    },
+    {
+      "name": "培养正面回应习惯",
+      "definition": "建议夫妻数一下每天对配偶说的正面积极的话是否达到负面话的5倍，并刻意改变习惯，多讲正面积极的话，即使反对某事也先以正面话语开头。",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a008"
+      ]
+    },
+    {
+      "name": "21天习惯养成法",
+      "definition": "习惯需要培养，天生性格可能倾向负面。养成好习惯过程艰难且不自然，但持续记录21天后习惯基本定型，之后会越来越自然，最终像呼吸一样自然。",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a009"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-84ccfa83066f-c001:r001",
+      "target": "s-84ccfa83066f-c001:a002",
+      "kind": "supports",
+      "condition": "",
+      "reason": "r001提供了不切实际期待的具体类型，是a002所定义概念的具体表现，支持了该定义。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了，调整为r001支持a002。"
+    },
+    {
+      "source": "s-84ccfa83066f-c001:r002",
+      "target": "s-84ccfa83066f-c001:a004",
+      "kind": "supports",
+      "condition": "",
+      "reason": "r002给出了修复争吵的具体方法，是a004所述修复争吵的具体实施方式，支持了a004。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了，调整为r002支持a004。"
+    },
+    {
+      "source": "s-84ccfa83066f-c001:r003",
+      "target": "s-84ccfa83066f-c001:a007",
+      "kind": "supports",
+      "condition": "",
+      "reason": "r003给出的正面回应和负面回应的具体例子，是a007所定义概念的具体实例，支持了该定义。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了，调整为r003支持a007。"
+    },
+    {
+      "source": "s-84ccfa83066f-c001:a009",
+      "target": "s-84ccfa83066f-c001:a008",
+      "kind": "supports",
+      "condition": "",
+      "reason": "a009提供的21天习惯养成法支持了a008培养正面回应习惯的建议，因为提供了具体方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了，调整为a009支持a008。"
+    },
+    {
+      "source": "s-84ccfa83066f-c001:a005",
+      "target": "s-84ccfa83066f-c001:r002",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "a005中讲师夫妻通过挤牙膏等关怀小动作修复争吵，是r002所列修复争吵方法中“关怀的小动作”的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-84ccfa83066f-c001:a006",
+      "target": "s-84ccfa83066f-c001:r002",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "a006中丈夫在生气时表达感激，讲师因此心软并买乐高，是r002所列修复争吵方法中“向配偶表达感激”的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "规则与行动",
+      "when": "当夫妻因不切实际的期待或唠叨产生冲突时，需要采取修复争吵的行动。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a001",
+        "s-84ccfa83066f-c001:a002",
+        "s-84ccfa83066f-c001:a004",
+        "s-84ccfa83066f-c001:r002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我修养",
+      "when": "当夫妻意识到正面回应与负面回应的差异后，需要通过自我修养培养正面回应的习惯。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a007",
+        "s-84ccfa83066f-c001:a008",
+        "s-84ccfa83066f-c001:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [],
+  "path": [
+    {
+      "name": "高质量婚姻的7个要素—第二部分",
+      "steps": [
+        {
+          "action": "识别并避免唠叨和不切实际的期待，建立正确期待",
+          "atom_ids": [
+            "s-84ccfa83066f-c001:a001",
+            "s-84ccfa83066f-c001:a002",
+            "s-84ccfa83066f-c001:a003",
+            "s-84ccfa83066f-c001:r001"
+          ],
+          "condition": "当夫妻之间存在沟通问题或期待不合理时"
+        },
+        {
+          "action": "学会修复争吵，使用幽默、关怀小动作、积极话语、退让和感激等方法",
+          "atom_ids": [
+            "s-84ccfa83066f-c001:a004",
+            "s-84ccfa83066f-c001:a005",
+            "s-84ccfa83066f-c001:a006",
+            "s-84ccfa83066f-c001:r002"
+          ],
+          "condition": "当争吵发生或可能失控时"
+        },
+        {
+          "action": "培养正面回应习惯，确保正面话语是负面话语的5倍，并坚持21天",
+          "atom_ids": [
+            "s-84ccfa83066f-c001:a007",
+            "s-84ccfa83066f-c001:a008",
+            "s-84ccfa83066f-c001:a009",
+            "s-84ccfa83066f-c001:r003"
+          ],
+          "condition": "当夫妻希望提升婚姻质量、改善沟通氛围时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-84ccfa83066f-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-84ccfa83066f-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a002"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-84ccfa83066f-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:r001"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006",
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-84ccfa83066f-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a003"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-84ccfa83066f-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a004"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-84ccfa83066f-c001:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:r002"
+      ],
+      "blocks": [
+        "b00009",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-84ccfa83066f-c001:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a005"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-84ccfa83066f-c001:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a006"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-84ccfa83066f-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a007",
+        "s-84ccfa83066f-c001:r003"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-84ccfa83066f-c001:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a008"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-84ccfa83066f-c001:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-84ccfa83066f-c001:a009"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021",
+        "b00022"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

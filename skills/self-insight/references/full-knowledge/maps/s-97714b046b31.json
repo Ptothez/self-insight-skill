@@ -1,0 +1,518 @@
+{
+  "concepts": [
+    {
+      "name": "崩溃",
+      "definition": "一种对情绪有排山倒海的无力感，从而觉得无法应对的反应，无法控制。",
+      "atom_ids": [
+        "s-97714b046b31-c001:a001"
+      ]
+    },
+    {
+      "name": "发脾气",
+      "definition": "在某种程度上孩子能够控制的情绪反应，若未及时有效处理可能升级为崩溃。",
+      "atom_ids": [
+        "s-97714b046b31-c001:a002"
+      ]
+    },
+    {
+      "name": "崩溃诱因",
+      "definition": "多种因素可能引发崩溃，包括疼痛、恐惧、日常生活状况变化、感官信息过载等。",
+      "atom_ids": [
+        "s-97714b046b31-c001:a004",
+        "s-97714b046b31-c001:a005"
+      ]
+    },
+    {
+      "name": "感官超负荷",
+      "definition": "当从感官中获得太多信息时，大脑过于刺激导致超负荷，可能引发战斗或逃跑反应。",
+      "atom_ids": [
+        "s-97714b046b31-c001:a005",
+        "s-97714b046b31-c001:a006"
+      ]
+    },
+    {
+      "name": "崩溃表现形式",
+      "definition": "崩溃形式多样，包括戏剧性大喊大叫和静悄悄崩溃，不能因没有吵闹就认为没有崩溃。",
+      "atom_ids": [
+        "s-97714b046b31-c001:a007"
+      ]
+    },
+    {
+      "name": "崩溃结束方式",
+      "definition": "崩溃通常以三种方式结束：改变或减少感觉输入、给予休息空间、伤害自己。",
+      "atom_ids": [
+        "s-97714b046b31-c001:a009"
+      ]
+    },
+    {
+      "name": "减少感觉输入",
+      "definition": "通过改变或减少感觉输入量，使大脑不再超负荷，可以慢慢终止崩溃。",
+      "atom_ids": [
+        "s-97714b046b31-c001:a010"
+      ]
+    },
+    {
+      "name": "休息空间",
+      "definition": "给予休息的空间可以帮助崩溃的人恢复，包括睡觉、自我封闭等，帮助神经系统重置。",
+      "atom_ids": [
+        "s-97714b046b31-c001:a014",
+        "s-97714b046b31-c001:a016"
+      ]
+    },
+    {
+      "name": "自伤",
+      "definition": "极端崩溃结束方式，伤害自己，父母应保持敏感避免孩子走到这一步。",
+      "atom_ids": [
+        "s-97714b046b31-c001:a017"
+      ]
+    },
+    {
+      "name": "父母应对崩溃方法",
+      "definition": "包括闭嘴、走开、回顾三个步骤，帮助孩子从崩溃中恢复。",
+      "atom_ids": [
+        "s-97714b046b31-c001:a018",
+        "s-97714b046b31-c001:a020",
+        "s-97714b046b31-c001:a021"
+      ]
+    },
+    {
+      "name": "咬舌头",
+      "definition": "具体方法：把舌头伸出来，用牙齿咬住，在嘴巴不张开的情况下咬住舌头，强制自己不说话。",
+      "atom_ids": [
+        "s-97714b046b31-c001:a019"
+      ]
+    },
+    {
+      "name": "前额叶",
+      "definition": "在崩溃时，孩子的前额叶试图让他停下来，但父母持续的语言刺激会不断冲击前额叶，使其无法抵挡。",
+      "atom_ids": [
+        "s-97714b046b31-c001:a023"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-97714b046b31-c001:a002",
+      "target": "s-97714b046b31-c001:a003",
+      "kind": "causes",
+      "condition": "如果父母不能及时和有效地帮助孩子处理发脾气",
+      "reason": "发脾气若未及时有效处理，可能升级为崩溃。"
+    },
+    {
+      "source": "s-97714b046b31-c001:a005",
+      "target": "s-97714b046b31-c001:a006",
+      "kind": "causes",
+      "condition": "感官信息过载",
+      "reason": "感官超负荷会引发战斗或逃跑反应。"
+    },
+    {
+      "source": "s-97714b046b31-c001:a010",
+      "target": "s-97714b046b31-c001:a009",
+      "kind": "step_of",
+      "condition": "崩溃结束方式之一",
+      "reason": "减少感觉输入是崩溃结束的一种方式。"
+    },
+    {
+      "source": "s-97714b046b31-c001:a014",
+      "target": "s-97714b046b31-c001:a009",
+      "kind": "step_of",
+      "condition": "崩溃结束方式之一",
+      "reason": "给予休息空间是崩溃结束的一种方式。"
+    },
+    {
+      "source": "s-97714b046b31-c001:a017",
+      "target": "s-97714b046b31-c001:a009",
+      "kind": "step_of",
+      "condition": "崩溃结束方式之一",
+      "reason": "伤害自己是崩溃结束的一种极端方式。"
+    },
+    {
+      "source": "s-97714b046b31-c001:a018",
+      "target": "s-97714b046b31-c001:a023",
+      "kind": "supports",
+      "condition": "父母闭嘴的原因",
+      "reason": "父母持续的语言刺激会冲击前额叶，因此应闭嘴。"
+    },
+    {
+      "source": "s-97714b046b31-c001:a019",
+      "target": "s-97714b046b31-c001:a018",
+      "kind": "example_of",
+      "condition": "闭嘴的具体方法",
+      "reason": "咬舌头是实现闭嘴的具体方法。"
+    },
+    {
+      "source": "s-97714b046b31-c001:a020",
+      "target": "s-97714b046b31-c001:a018",
+      "kind": "step_of",
+      "condition": "父母应对崩溃的第二步",
+      "reason": "走开是父母应对崩溃的第二步，需先询问孩子是否希望父母在场。"
+    },
+    {
+      "source": "s-97714b046b31-c001:a021",
+      "target": "s-97714b046b31-c001:a018",
+      "kind": "step_of",
+      "condition": "父母应对崩溃的第三步",
+      "reason": "回顾是父母应对崩溃的第三步，等孩子恢复后进行。"
+    },
+    {
+      "source": "s-97714b046b31-c001:a012",
+      "target": "s-97714b046b31-c001:a013",
+      "kind": "example_of",
+      "condition": "锁房间减少感官刺激",
+      "reason": "父亲强迫孩子认错并锁房间的案例中，锁房间后孩子恢复，体现了锁房间减少感官刺激使孩子恢复的现象，是该现象的具体实例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-97714b046b31-c001:a011",
+      "target": "s-97714b046b31-c001:a010",
+      "kind": "contrasts",
+      "condition": "父母打骂吼叫增加感官刺激",
+      "reason": "父母打骂吼叫会增加感官刺激，与减少感觉输入相反，会加剧崩溃。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "孩子崩溃时，父母不应试图控制或给予界限后果，而应闭嘴、走开、回顾。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-97714b046b31-c001:a008",
+        "s-97714b046b31-c001:a018",
+        "s-97714b046b31-c001:a020",
+        "s-97714b046b31-c001:a021"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [
+        {
+          "atom_id": "s-97714b046b31-c001:a020",
+          "limits": [
+            "不要出门或远离"
+          ]
+        },
+        {
+          "atom_id": "s-97714b046b31-c001:a021",
+          "limits": [
+            "孩子可能拒绝，需尊重"
+          ]
+        }
+      ],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我修养",
+      "when": "父母需要自我控制，如咬舌头闭嘴，以应对孩子崩溃。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-97714b046b31-c001:a018",
+        "s-97714b046b31-c001:a019"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-97714b046b31-c001:a008",
+        "s-97714b046b31-c001:a020"
+      ],
+      "description": "a008说崩溃时不应试图控制孩子或给予界限后果，a020建议走开前询问孩子是否希望父母在场，若孩子不说话则留下，这似乎是一种控制或干预，与a008的“不应试图控制”可能存在矛盾。",
+      "needed_evidence": "需要明确“控制”的定义，以及询问和留下是否属于控制行为。"
+    }
+  ],
+  "path": [
+    {
+      "name": "父母应对孩子崩溃的方法",
+      "steps": [
+        {
+          "action": "闭嘴",
+          "atom_ids": [
+            "s-97714b046b31-c001:a018",
+            "s-97714b046b31-c001:a019"
+          ],
+          "condition": "孩子处于崩溃状态"
+        },
+        {
+          "action": "走开",
+          "atom_ids": [
+            "s-97714b046b31-c001:a020"
+          ],
+          "condition": "孩子明确说“你走开”时走开，否则留下"
+        },
+        {
+          "action": "回顾",
+          "atom_ids": [
+            "s-97714b046b31-c001:a021"
+          ],
+          "condition": "孩子已从崩溃中恢复"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-97714b046b31-c001:u001",
+      "kind": "concept_definition",
+      "atom_ids": [
+        "s-97714b046b31-c001:a001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u002",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-97714b046b31-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u003",
+      "kind": "condition",
+      "atom_ids": [
+        "s-97714b046b31-c001:a003"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u004",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-97714b046b31-c001:a004"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u005",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-97714b046b31-c001:a005"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u006",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-97714b046b31-c001:a006"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u007",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-97714b046b31-c001:a007"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u008",
+      "kind": "condition",
+      "atom_ids": [
+        "s-97714b046b31-c001:a008"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u009",
+      "kind": "concept_list",
+      "atom_ids": [
+        "s-97714b046b31-c001:a009"
+      ],
+      "blocks": [
+        "b00009",
+        "b00017",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u010",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-97714b046b31-c001:a010"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u011",
+      "kind": "anti_pattern",
+      "atom_ids": [
+        "s-97714b046b31-c001:a011"
+      ],
+      "blocks": [
+        "b00010",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-97714b046b31-c001:a012"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u013",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-97714b046b31-c001:a013"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u014",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-97714b046b31-c001:a014"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u015",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-97714b046b31-c001:a015"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u016",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-97714b046b31-c001:a016"
+      ],
+      "blocks": [
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u017",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-97714b046b31-c001:a017"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-97714b046b31-c001:a018"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-97714b046b31-c001:a019"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-97714b046b31-c001:a020"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u021",
+      "kind": "method",
+      "atom_ids": [
+        "s-97714b046b31-c001:a021"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u022",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-97714b046b31-c001:a022"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-97714b046b31-c001:u023",
+      "kind": "concept_mechanism",
+      "atom_ids": [
+        "s-97714b046b31-c001:a023"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

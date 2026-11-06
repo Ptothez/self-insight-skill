@@ -1,0 +1,552 @@
+{
+  "concepts": [
+    {
+      "name": "讲道理",
+      "definition": "父母用成人道理体系判断孩子情绪和行为的合理性，试图通过逻辑说服控制孩子情绪。",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a001",
+        "s-61e65dbd90b6-c001:a002",
+        "s-61e65dbd90b6-c001:a003",
+        "s-61e65dbd90b6-c001:a004",
+        "s-61e65dbd90b6-c001:a005",
+        "s-61e65dbd90b6-c001:a007"
+      ]
+    },
+    {
+      "name": "打孩子",
+      "definition": "与讲道理相对的另一极端育儿方式，同样被课程视为糟糕、失败、低级。",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a004"
+      ]
+    },
+    {
+      "name": "平衡点",
+      "definition": "介于讲道理和打孩子之间的正确育儿方式，需要父母找到中间地带。",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a004"
+      ]
+    },
+    {
+      "name": "情绪接纳",
+      "definition": "允许孩子表达情绪，不评判、不讲道理，理解并接受其情绪，有助于孩子情绪健康。",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a006",
+        "s-61e65dbd90b6-c001:a013"
+      ]
+    },
+    {
+      "name": "逻辑覆盖情绪",
+      "definition": "父母用逻辑和道理压制或替代对情绪的感知和处理，导致不断讲道理。",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a007"
+      ]
+    },
+    {
+      "name": "处理过去伤害",
+      "definition": "父母处理自身童年伤害的步骤：挖出伤害、指认伤害、为伤害悲痛、夺回力量。",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a008",
+        "s-61e65dbd90b6-c001:a009"
+      ]
+    },
+    {
+      "name": "自我同情",
+      "definition": "父母同情和可怜自己，承认脆弱和需要帮助，而非拒绝同情、假装强悍。",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a010"
+      ]
+    },
+    {
+      "name": "心理辅导",
+      "definition": "寻求专业心理帮助处理情绪和伤害，被视为健康且值得骄傲的行为。",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a011"
+      ]
+    },
+    {
+      "name": "分离孩子与记忆",
+      "definition": "父母将孩子与自身过去伤害记忆分开，意识到孩子无辜且独立。",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a012"
+      ]
+    },
+    {
+      "name": "发脾气",
+      "definition": "孩子表达负面情绪的正常行为，健康且有益，长期潜力大于讲道理的孩子。",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a014",
+        "s-61e65dbd90b6-c001:a015"
+      ]
+    },
+    {
+      "name": "乱发脾气",
+      "definition": "与发脾气不同的不当行为，需要引导，后续课程讲解。",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a015"
+      ]
+    },
+    {
+      "name": "控制情绪行为",
+      "definition": "教孩子控制情绪时的行为，而非情绪本身，情绪无法控制但行为可以。",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a016"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-61e65dbd90b6-c001:a001",
+      "target": "s-61e65dbd90b6-c001:a002",
+      "kind": "causes",
+      "condition": "当父母用成人道理判断孩子时",
+      "reason": "因为孩子没有成人的道理体系，无法在道理辩论中获胜，所以孩子一定吃亏。"
+    },
+    {
+      "source": "s-61e65dbd90b6-c001:a001",
+      "target": "s-61e65dbd90b6-c001:a003",
+      "kind": "example_of",
+      "condition": "孩子先打哥哥后被哥哥打，父母认为孩子不应该哭或发脾气",
+      "reason": "孩子发脾气时父母的第一反应是讲道理的命题，通过父母用讲道理控制孩子情绪的具体例子得到展示。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "示例关系成立。"
+    },
+    {
+      "source": "s-61e65dbd90b6-c001:a004",
+      "target": "s-61e65dbd90b6-c001:a001",
+      "kind": "example_of",
+      "condition": "讲道理作为育儿极端的具体表现",
+      "reason": "讲道理与打孩子都是极端的命题，把孩子发脾气时父母第一反应是讲道理作为讲道理极端的一个具体表现。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 contrasts 不成立，两者并非对立命题；改为 example_of。"
+    },
+    {
+      "source": "s-61e65dbd90b6-c001:a005",
+      "target": "s-61e65dbd90b6-c001:a001",
+      "kind": "example_of",
+      "condition": "理性父母轮番讲道理，孩子情绪问题严重",
+      "reason": "该案例说明讲道理导致孩子情绪问题，验证了讲道理的不良后果。"
+    },
+    {
+      "source": "s-61e65dbd90b6-c001:a006",
+      "target": "s-61e65dbd90b6-c001:a013",
+      "kind": "supports",
+      "condition": "咨询师接纳青少年愤怒，青少年敞开心扉",
+      "reason": "咨询师接纳青少年愤怒的案例，支撑正确面对孩子情绪、鼓励负面情绪表达的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-61e65dbd90b6-c001:a007",
+      "target": "s-61e65dbd90b6-c001:a008",
+      "kind": "prerequisite",
+      "condition": "当父母对孩子的情绪非常愤怒时",
+      "reason": "因为用逻辑覆盖情绪导致讲道理，所以需要处理过去的伤害，而处理伤害有具体步骤。"
+    },
+    {
+      "source": "s-61e65dbd90b6-c001:a008",
+      "target": "s-61e65dbd90b6-c001:a009",
+      "kind": "step_of",
+      "condition": "处理过去伤害的第二步是指认伤害",
+      "reason": "指认伤害是处理伤害步骤中的一部分，需要明确伤害类型。"
+    },
+    {
+      "source": "s-61e65dbd90b6-c001:a008",
+      "target": "s-61e65dbd90b6-c001:a010",
+      "kind": "step_of",
+      "condition": "处理过去伤害的第三步是为伤害感到悲痛",
+      "reason": "为伤害感到悲痛包括同情可怜自己，而很多父母拒绝同情自己。"
+    },
+    {
+      "source": "s-61e65dbd90b6-c001:a008",
+      "target": "s-61e65dbd90b6-c001:a011",
+      "kind": "supports",
+      "condition": "处理伤害可能需要专业帮助",
+      "reason": "寻求心理辅导是处理伤害的途径之一，且被视为健康行为。"
+    },
+    {
+      "source": "s-61e65dbd90b6-c001:a012",
+      "target": "s-61e65dbd90b6-c001:a007",
+      "kind": "supports",
+      "condition": "将孩子与自己的记忆分开",
+      "reason": "将孩子与自己的记忆分开的方法，有助于减少因过去伤害引发的愤怒，从而支持避免用逻辑覆盖情绪导致讲道理的判断。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-61e65dbd90b6-c001:a013",
+      "target": "s-61e65dbd90b6-c001:a014",
+      "kind": "supports",
+      "condition": "正确面对孩子情绪，鼓励负面情绪表达",
+      "reason": "正确面对孩子情绪、鼓励负面情绪表达的观点，支撑发脾气的孩子比讲道理的孩子长期潜力大的判断。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "支持关系成立。"
+    },
+    {
+      "source": "s-61e65dbd90b6-c001:a015",
+      "target": "s-61e65dbd90b6-c001:a014",
+      "kind": "association",
+      "condition": "发脾气与乱发脾气的区别",
+      "reason": "发脾气与乱发脾气的区别和发脾气的孩子潜力大的命题都涉及情绪表达，但前者是区分概念，后者是效果判断，两者没有直接支持或对比关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 contrasts 不适合，改为 association 说明相关但无直接逻辑关系。"
+    },
+    {
+      "source": "s-61e65dbd90b6-c001:a016",
+      "target": "s-61e65dbd90b6-c001:a013",
+      "kind": "supports",
+      "condition": "教孩子控制情绪行为而非情绪",
+      "reason": "情绪无法控制但行为可以，这与鼓励情绪表达、控制行为不矛盾。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "自我修养",
+      "when": "当父母对孩子的情绪非常愤怒时，需要处理自身过去的伤害",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a007",
+        "s-61e65dbd90b6-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "理解情绪",
+      "when": "父母处理自身伤害后，能正确面对孩子情绪",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a012",
+        "s-61e65dbd90b6-c001:a013"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "在接纳情绪的基础上，教孩子控制情绪行为",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a013",
+        "s-61e65dbd90b6-c001:a016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a004"
+      ],
+      "reason": "内容完全一致，均为讲道理与打孩子都是极端，需找平衡点。"
+    },
+    {
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a007"
+      ],
+      "reason": "内容完全一致，均为用逻辑覆盖情绪导致讲道理，建议心理辅导。"
+    },
+    {
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a008"
+      ],
+      "reason": "内容完全一致，均为处理过去伤害的四个步骤。"
+    },
+    {
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a009"
+      ],
+      "reason": "内容完全一致，均为指认伤害的具体类型。"
+    },
+    {
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a010"
+      ],
+      "reason": "内容完全一致，均为拒绝同情自己导致强悍假象。"
+    },
+    {
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a011"
+      ],
+      "reason": "内容完全一致，均为寻求心理辅导不是可耻的事。"
+    },
+    {
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a012"
+      ],
+      "reason": "内容完全一致，均为将孩子与自己的记忆分开。"
+    },
+    {
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a013"
+      ],
+      "reason": "内容完全一致，均为正确面对孩子的情绪。"
+    },
+    {
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a014"
+      ],
+      "reason": "内容完全一致，均为发脾气的孩子比讲道理的孩子潜力大。"
+    },
+    {
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a015"
+      ],
+      "reason": "内容完全一致，均为发脾气与乱发脾气的区别。"
+    },
+    {
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a016"
+      ],
+      "reason": "内容完全一致，均为教孩子控制情绪行为而非情绪。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "停止讲道理的方法",
+      "steps": [
+        {
+          "action": "识别自己讲道理的冲动源于逻辑覆盖情绪",
+          "atom_ids": [
+            "s-61e65dbd90b6-c001:a007"
+          ],
+          "condition": "当父母忍不住给孩子讲道理时"
+        },
+        {
+          "action": "处理过去的伤害：挖出、指认、悲痛、夺回力量",
+          "atom_ids": [
+            "s-61e65dbd90b6-c001:a008",
+            "s-61e65dbd90b6-c001:a009",
+            "s-61e65dbd90b6-c001:a010"
+          ],
+          "condition": "如果父母对孩子的情绪非常愤怒，需要处理自身伤害"
+        },
+        {
+          "action": "将孩子与自己的记忆分开",
+          "atom_ids": [
+            "s-61e65dbd90b6-c001:a012"
+          ],
+          "condition": "当孩子行为触发父母过去伤害记忆时"
+        },
+        {
+          "action": "正确面对孩子的情绪，鼓励而非压抑",
+          "atom_ids": [
+            "s-61e65dbd90b6-c001:a013"
+          ],
+          "condition": "孩子表达负面情绪时"
+        },
+        {
+          "action": "教孩子控制情绪行为而非情绪",
+          "atom_ids": [
+            "s-61e65dbd90b6-c001:a016"
+          ],
+          "condition": "在接纳情绪的基础上，引导孩子行为"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-61e65dbd90b6-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-61e65dbd90b6-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a002"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-61e65dbd90b6-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a003"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-61e65dbd90b6-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a004"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-61e65dbd90b6-c001:u0005",
+      "kind": "case",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a005"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-61e65dbd90b6-c001:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a006"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-61e65dbd90b6-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a007"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-61e65dbd90b6-c001:u0008",
+      "kind": "method",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a008"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-61e65dbd90b6-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a009"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-61e65dbd90b6-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a010"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-61e65dbd90b6-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a011"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-61e65dbd90b6-c001:u0012",
+      "kind": "method",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a012"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023",
+        "b00024",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-61e65dbd90b6-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a013"
+      ],
+      "blocks": [
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-61e65dbd90b6-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a014"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-61e65dbd90b6-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a015"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-61e65dbd90b6-c001:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-61e65dbd90b6-c001:a016"
+      ],
+      "blocks": [
+        "b00030"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

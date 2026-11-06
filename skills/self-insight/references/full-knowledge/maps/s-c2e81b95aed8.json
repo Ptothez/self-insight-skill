@@ -1,0 +1,676 @@
+{
+  "concepts": [
+    {
+      "name": "情绪塑造",
+      "definition": "情绪不能被控制或抑制，但可以被重新塑造。成功的人并非一帆风顺，而是经历艰难后能继续前行。",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a001"
+      ]
+    },
+    {
+      "name": "情绪抵抗力",
+      "definition": "情绪抵抗力如同房子的地基，重塑情绪如同在地基上建房子。在情绪之前建立情绪抵抗力，情绪中间用情绪连接帮助走出，情绪之后重塑情绪。",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a003"
+      ]
+    },
+    {
+      "name": "情绪误区",
+      "definition": "重塑情绪时常见的错误做法，包括否认负面情绪、压抑情绪、忽略情绪、让自己变得更强大、盲目原谅。",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a004",
+        "s-c2e81b95aed8-c001:a005",
+        "s-c2e81b95aed8-c001:a006",
+        "s-c2e81b95aed8-c001:a007",
+        "s-c2e81b95aed8-c001:a009"
+      ]
+    },
+    {
+      "name": "情绪第一定律",
+      "definition": "情绪本身是中性的，没有好坏之分，但对情绪的反应有好坏之分。",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a010"
+      ]
+    },
+    {
+      "name": "情绪第二定律",
+      "definition": "情绪不能被压制，但可以被监管。监管情绪是分辨人类和动物的重要区别，由前额叶负责。压制情绪会阻止体验和表达感受，且常是无意识的。",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a011"
+      ]
+    },
+    {
+      "name": "情绪第三定律",
+      "definition": "情绪是必要的，让生命成为生命，让一个人活起来。没有情绪的人像机器，无法亲近，但情绪让生命丰盛。",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a014"
+      ]
+    },
+    {
+      "name": "无意识情绪压抑",
+      "definition": "个体在无意识中压制情绪，导致无法体验和表达感受，常源于创伤经历。",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a012",
+        "s-c2e81b95aed8-c001:r001"
+      ]
+    },
+    {
+      "name": "情绪稳定与无情绪的区别",
+      "definition": "情绪稳定不等于没有情绪；没有情绪的人可能看似稳定，但缺乏情绪沟通，会导致关系问题。",
+      "atom_ids": [
+        "s-c2e81b95aed8-c002:a006"
+      ]
+    },
+    {
+      "name": "情绪沟通困难",
+      "definition": "有些人可以谈论具体事务，但一谈情绪就说不出来，好像被堵住；被问及自己的情绪时整个人都是堵着的，因为很少想过自己的情绪是什么。",
+      "atom_ids": [
+        "s-c2e81b95aed8-c002:r001"
+      ]
+    },
+    {
+      "name": "情绪工具化倾向",
+      "definition": "很多人觉得情绪没有必要、太麻烦，甚至希望伴侣是没有情绪的工具；这种观念导致对情绪的忽视和排斥。",
+      "atom_ids": [
+        "s-c2e81b95aed8-c002:r002"
+      ]
+    },
+    {
+      "name": "情绪丰富与灵气",
+      "definition": "一个人很有灵气，是因为他里面有很多的情绪；情绪是让一个生命丰盛起来的东西。",
+      "atom_ids": [
+        "s-c2e81b95aed8-c002:r003"
+      ]
+    },
+    {
+      "name": "无情绪伴侣的吸引力与风险",
+      "definition": "无情绪的人可能显得非常稳定，能接住错误而不波动，对来自暴力家庭的人有吸引力；但长期缺乏情绪沟通会导致婚姻痛苦。",
+      "atom_ids": [
+        "s-c2e81b95aed8-c002:r004"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-c2e81b95aed8-c001:a003",
+      "target": "s-c2e81b95aed8-c001:a001",
+      "kind": "supports",
+      "condition": "情绪抵抗力是重塑情绪的基础",
+      "reason": "情绪抵抗力如同地基，重塑情绪如同建房子，先有抵抗力才能重塑情绪。"
+    },
+    {
+      "source": "s-c2e81b95aed8-c001:a004",
+      "target": "s-c2e81b95aed8-c001:a001",
+      "kind": "contrasts",
+      "condition": "否认负面情绪与正确重塑相悖",
+      "reason": "重塑情绪误区一否认负面情绪并强迫正面情绪，与情绪塑造的定义中情绪不能被控制或抑制但可被重新塑造相悖。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-c2e81b95aed8-c001:a005",
+      "target": "s-c2e81b95aed8-c001:a001",
+      "kind": "contrasts",
+      "condition": "压抑情绪与正确重塑相悖",
+      "reason": "重塑情绪误区二压抑情绪并改变行为，与情绪塑造的定义中情绪不能被控制或抑制但可被重新塑造相悖。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-c2e81b95aed8-c001:a006",
+      "target": "s-c2e81b95aed8-c001:a001",
+      "kind": "contrasts",
+      "condition": "误区三忽略情绪，与正确重塑情绪相悖",
+      "reason": "忽略情绪无法拿回被夺走的力量，而重塑情绪需要回到伤害处。"
+    },
+    {
+      "source": "s-c2e81b95aed8-c001:a007",
+      "target": "s-c2e81b95aed8-c001:a001",
+      "kind": "contrasts",
+      "condition": "外在强大与正确重塑相悖",
+      "reason": "重塑情绪误区四认为外在条件变好就能重塑情绪，但外在只能隐藏自卑，与情绪塑造的定义中真正重塑需要内在改变相悖。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-c2e81b95aed8-c001:a009",
+      "target": "s-c2e81b95aed8-c001:a001",
+      "kind": "contrasts",
+      "condition": "误区五盲目原谅，与正确重塑情绪相悖",
+      "reason": "盲目原谅无效，需要先写下具体伤害，而重塑情绪需要具体处理伤害。"
+    },
+    {
+      "source": "s-c2e81b95aed8-c001:a011",
+      "target": "s-c2e81b95aed8-c001:a010",
+      "kind": "supports",
+      "condition": "第二定律支持第一定律",
+      "reason": "情绪第二定律提出监管情绪而非压制，因为情绪反应有好坏，支持情绪第一定律中情绪本身中性但反应有好坏。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-c2e81b95aed8-c001:a014",
+      "target": "s-c2e81b95aed8-c001:a010",
+      "kind": "supports",
+      "condition": "第三定律支持第一定律",
+      "reason": "情绪第三定律指出情绪是必要的，让生命丰盛，因此情绪本身没有好坏，支持情绪第一定律中情绪中性但反应有好坏。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-c2e81b95aed8-c001:a012",
+      "target": "s-c2e81b95aed8-c001:a011",
+      "kind": "example_of",
+      "condition": "无意识压制情绪案例",
+      "reason": "无意识压制情绪案例中的太太因童年创伤无意识压制情绪，是情绪第二定律中压制情绪的例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-c2e81b95aed8-c001:a013",
+      "target": "s-c2e81b95aed8-c001:a011",
+      "kind": "supports",
+      "condition": "长期压抑症状支持不应压制情绪",
+      "reason": "长期压抑情绪的症状包括焦虑抑郁等，说明压制情绪有害，支持情绪第二定律中情绪不能被压制而应被监管。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原关系 kind 为 causes 不在允许列表中，改为 supports 表示后果支持论点。"
+    },
+    {
+      "source": "s-c2e81b95aed8-c001:a015",
+      "target": "s-c2e81b95aed8-c001:a014",
+      "kind": "supports",
+      "condition": "药物抑制情绪说明情绪必要性",
+      "reason": "抑郁症药物对情绪的影响指出药物抑制情绪让人死气沉沉，反证情绪必要，支持情绪第三定律。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-c2e81b95aed8-c002:a001",
+      "target": "s-c2e81b95aed8-c001:a015",
+      "kind": "supports",
+      "condition": "药物抑制机制支持其影响",
+      "reason": "抑郁症药物抑制情绪反应描述药物通过抑制神经使情绪反应迟钝，支持抑郁症药物对情绪的影响中药物抑制神经减少负面情绪。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-c2e81b95aed8-c002:a002",
+      "target": "s-c2e81b95aed8-c001:a014",
+      "kind": "supports",
+      "condition": "正常人有情绪支持情绪必要性",
+      "reason": "情绪是正常人的关键特征指出正常人有情绪且没有情绪不适合亲密关系，支持情绪第三定律中情绪是必要的。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-c2e81b95aed8-c002:a003",
+      "target": "s-c2e81b95aed8-c002:a002",
+      "kind": "example_of",
+      "condition": "无情绪丈夫导致婚姻痛苦",
+      "reason": "丈夫无情绪导致太太痛苦，是“没有情绪的人不适合伴侣”的例子。"
+    },
+    {
+      "source": "s-c2e81b95aed8-c002:a004",
+      "target": "s-c2e81b95aed8-c001:a014",
+      "kind": "supports",
+      "condition": "情绪让生命丰盛支持情绪必要性",
+      "reason": "情绪让生命丰盛强调情绪让生命成为生命、让一个人活起来，支持情绪第三定律中情绪是必要的。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-c2e81b95aed8-c002:a005",
+      "target": "s-c2e81b95aed8-c002:a001",
+      "kind": "supports",
+      "condition": "药物抑制导致情绪迟钝",
+      "reason": "药物抑制后情绪迟钝，是药物抑制情绪反应的具体表现。"
+    },
+    {
+      "source": "s-c2e81b95aed8-c002:a006",
+      "target": "s-c2e81b95aed8-c002:a002",
+      "kind": "supports",
+      "condition": "情绪稳定与无情绪的区别",
+      "reason": "情绪稳定与无情绪的区别指出情绪稳定不等于无情绪，无情绪导致关系问题，支持正常人有情绪及无情绪不适合伴侣。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-c2e81b95aed8-c002:a007",
+      "target": "s-c2e81b95aed8-c002:a002",
+      "kind": "applies_to",
+      "condition": "面对孩子情绪时的自我提醒",
+      "reason": "孩子有情绪是正常的，家长应接纳，应用情绪必要性。"
+    },
+    {
+      "source": "s-c2e81b95aed8-c002:r001",
+      "target": "s-c2e81b95aed8-c002:a006",
+      "kind": "supports",
+      "condition": "情绪沟通困难与情绪认知缺失",
+      "reason": "情绪沟通困难说明缺乏情绪认知，支持情绪稳定与无情绪的区别。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-c2e81b95aed8-c002:r002",
+      "target": "s-c2e81b95aed8-c002:a002",
+      "kind": "contrasts",
+      "condition": "情绪被视为麻烦与工具化倾向",
+      "reason": "认为情绪麻烦与情绪必要性相悖。"
+    },
+    {
+      "source": "s-c2e81b95aed8-c002:r003",
+      "target": "s-c2e81b95aed8-c002:a004",
+      "kind": "supports",
+      "condition": "情绪丰富与灵气的关系",
+      "reason": "情绪丰富带来灵气，支持情绪让生命丰盛。"
+    },
+    {
+      "source": "s-c2e81b95aed8-c002:r004",
+      "target": "s-c2e81b95aed8-c002:a003",
+      "kind": "supports",
+      "condition": "无情绪伴侣的吸引力与风险",
+      "reason": "无情绪伴侣短期有吸引力，长期导致痛苦，支持案例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-c2e81b95aed8-c002:r005",
+      "target": "s-c2e81b95aed8-c002:a007",
+      "kind": "supports",
+      "condition": "情绪麻烦与健康信号",
+      "reason": "孩子有情绪是正常健康的，支持家长自我提醒。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "自我认知",
+      "when": "当个体试图通过外在条件（如财富、地位）来重塑情绪时，需要自我认知来识别内在自卑。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a007",
+        "s-c2e81b95aed8-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "当个体需要处理伤害并决定是否原谅时，需要界限来具体化伤害。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a015",
+        "s-c2e81b95aed8-c002:a001"
+      ],
+      "reason": "两者都描述抑郁症药物抑制情绪反应，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a014",
+        "s-c2e81b95aed8-c002:a004"
+      ],
+      "reason": "两者都强调情绪让生命丰盛，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-c2e81b95aed8-c002:a002",
+        "s-c2e81b95aed8-c002:a006"
+      ],
+      "reason": "两者都指出没有情绪的人不适合亲密关系，内容实质等价。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a011",
+        "s-c2e81b95aed8-c001:a012"
+      ],
+      "description": "情绪第二定律强调监管情绪而非压制，但案例中太太无意识压制情绪，可能被误解为监管。需要明确监管与压制的区别。",
+      "needed_evidence": "监管情绪的具体操作方法和与压制的界限。"
+    },
+    {
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a015",
+        "s-c2e81b95aed8-c002:a005"
+      ],
+      "description": "药物抑制情绪导致情绪迟钝，但情绪第三定律认为情绪必要，可能产生矛盾：药物是否应该使用？",
+      "needed_evidence": "药物治疗与情绪管理的平衡策略。"
+    }
+  ],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-c2e81b95aed8-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a002"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a003"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u004",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a004"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u005",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a005"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u006",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a006"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u007",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a007"
+      ],
+      "blocks": [
+        "b00017",
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a008"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u009",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a009"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a010"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a011"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a012"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a013"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a014"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040",
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a015"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:r001"
+      ],
+      "blocks": [
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c2e81b95aed8-c002:a004"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c2e81b95aed8-c002:r001"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c2e81b95aed8-c002:r002"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-c2e81b95aed8-c002:r003"
+      ],
+      "blocks": [
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c002:u1",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a015",
+        "s-c2e81b95aed8-c002:a001",
+        "s-c2e81b95aed8-c002:a005"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c002:u2",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-c2e81b95aed8-c001:a015",
+        "s-c2e81b95aed8-c002:a002"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c002:u3",
+      "kind": "case",
+      "atom_ids": [
+        "s-c2e81b95aed8-c002:a003",
+        "s-c2e81b95aed8-c002:r004"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c002:u4",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-c2e81b95aed8-c002:a006",
+        "s-c2e81b95aed8-c002:r004"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c002:u5",
+      "kind": "case",
+      "atom_ids": [
+        "s-c2e81b95aed8-c002:a003",
+        "s-c2e81b95aed8-c002:a006",
+        "s-c2e81b95aed8-c002:r004"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-c2e81b95aed8-c002:u6",
+      "kind": "method",
+      "atom_ids": [
+        "s-c2e81b95aed8-c002:a007",
+        "s-c2e81b95aed8-c002:r005"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

@@ -1,0 +1,1135 @@
+{
+  "concepts": [
+    {
+      "name": "给自己立界限",
+      "definition": "不主动插手与自己无关的事情，除非对方寻求帮助；是练习界限意识的最佳方式，需要很强的界限意识来改变自己的行为。",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a001",
+        "s-d75ed18a6fc1-c001:a003"
+      ]
+    },
+    {
+      "name": "界限",
+      "definition": "知道自己的临界点，知道自己什么可以什么不可以，并对此设定界限；帮助对自己有清醒认知，提供稳定衡量标准，控制行为建立健康模式。",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a009",
+        "s-d75ed18a6fc1-c001:a010"
+      ]
+    },
+    {
+      "name": "完美主义与界限缺失",
+      "definition": "完美主义者没有界限意识，一定要做到最好最极致，导致“完美不够完美，好不够好，优秀不够优秀”；表现为过度工作或对孩子成绩要求苛刻。",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a004",
+        "s-d75ed18a6fc1-c001:a005",
+        "s-d75ed18a6fc1-c001:a006"
+      ]
+    },
+    {
+      "name": "界限点",
+      "definition": "个人不可接受的行为或情境，往往是自己曾受伤害的地方，且自己也可能重复该行为；需要明确并告知他人。",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a030",
+        "s-d75ed18a6fc1-c001:a033"
+      ]
+    },
+    {
+      "name": "情绪感知与界限",
+      "definition": "为自己立界限时要感知自己的情绪，对情感敏感；当想越界时，问自己为什么会有这样的感觉，识别背后的情绪和动机。",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a035",
+        "s-d75ed18a6fc1-c002:a002",
+        "s-d75ed18a6fc1-c002:a003"
+      ]
+    },
+    {
+      "name": "循序渐进立界限",
+      "definition": "为自己立界限要慢慢一步一步来，不要一开始就设定非常高的界限；少量、一次一次来，锁定2-3个目标，逐步递进。",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:r001",
+        "s-d75ed18a6fc1-c002:a005",
+        "s-d75ed18a6fc1-c002:a007"
+      ]
+    },
+    {
+      "name": "原生家庭对界限的影响",
+      "definition": "原生家庭没有好的界限，我们就不知道怎么给自己立好的界限；父母没有建立过好的界限包括放养、界限不持续、界限严苛三种情况，都会导致难以给自己立界限。",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a021",
+        "s-d75ed18a6fc1-c001:a022"
+      ]
+    },
+    {
+      "name": "自我照顾优先",
+      "definition": "给自己立界限的第一点是优先照顾自己，区分自我照顾和自私，在撑不下去时必须照顾自己，包括情绪和各方面需要。",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c002:a016"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-d75ed18a6fc1-c001:a003",
+      "target": "s-d75ed18a6fc1-c001:a001",
+      "kind": "association",
+      "condition": "",
+      "reason": "给自己立界限的含义是不主动插手与自己无关的事情；给自己立界限是练习界限意识的最佳方式讨论其练习价值，两者相关，但由练习价值指向含义的做法并非支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 supports 方向有误，改为 association。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a009",
+      "target": "s-d75ed18a6fc1-c001:a010",
+      "kind": "supports",
+      "condition": null,
+      "reason": "界限帮助对自己有清醒认知，提供稳定衡量标准，从而帮助控制行为，建立健康模式。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a004",
+      "target": "s-d75ed18a6fc1-c001:a005",
+      "kind": "causes",
+      "condition": null,
+      "reason": "来访者因觉得自己不够好而过度工作，是完美主义缺乏界限意识的表现，完美主义者一定要做到最好最极致。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a005",
+      "target": "s-d75ed18a6fc1-c001:a006",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "孩子考试98分仍被认为不好是完美主义倾向的案例，完美主义者没有界限意识，追求极致。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a004",
+      "target": "s-d75ed18a6fc1-c001:a007",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "来访者后来通过立界限限制工作时间，解决了过度工作的问题。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a008",
+      "target": "s-d75ed18a6fc1-c001:a009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "自我认知浮动源于外界比较，而界限提供稳定衡量自己的标准，帮助稳定自我认知。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a013",
+      "target": "s-d75ed18a6fc1-c001:r001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "立flag失败是因为一开始设定非常高的界限，没有平时练习，所以应该慢慢一步一步来。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a014",
+      "target": "s-d75ed18a6fc1-c001:a015",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "工作中有界限不等于给自己立界限的概念可由工作中能立界限但家中不能的案例体现；原边方向有误，应反过来。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向概念→案例，应改为案例→概念。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a016",
+      "target": "s-d75ed18a6fc1-c001:a017",
+      "kind": "supports",
+      "condition": null,
+      "reason": "自律与立界限的区别在于自律提升自我价值，而立界限基于已有价值。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a021",
+      "target": "s-d75ed18a6fc1-c001:a022",
+      "kind": "supports",
+      "condition": null,
+      "reason": "原生家庭没有好的界限导致难以给自己立界限，具体包括父母没有建立过好的界限的三种情况。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a022",
+      "target": "s-d75ed18a6fc1-c001:a023",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "父母界限不持续的案例是父母没有建立过好的界限的一种情况。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a022",
+      "target": "s-d75ed18a6fc1-c001:a024",
+      "kind": "causes",
+      "condition": null,
+      "reason": "从小在严格界限下长大导致逃避界限，是父母界限严苛的后果。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a022",
+      "target": "s-d75ed18a6fc1-c001:a025",
+      "kind": "causes",
+      "condition": null,
+      "reason": "父母以规范行为为名实际操控，导致界限被误解为控制，从而不喜欢界限。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a027",
+      "target": "s-d75ed18a6fc1-c002:a005",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "找出生活中需要界限的地方后，要少量、一次一次来，排列优先顺序，锁定2-3个目标。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a030",
+      "target": "s-d75ed18a6fc1-c001:a033",
+      "kind": "supports",
+      "condition": null,
+      "reason": "界限点往往是自己曾受伤害的地方，因此找到自己的界限点需要回顾受伤经历。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a035",
+      "target": "s-d75ed18a6fc1-c002:a002",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "感知情绪以帮助立界限的具体步骤包括自我提问，识别越界情绪原因。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c002:a005",
+      "target": "s-d75ed18a6fc1-c002:a006",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "一次立太多界限会导致反作用，因此要少量、一次一次来。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c002:a007",
+      "target": "s-d75ed18a6fc1-c002:a008",
+      "kind": "causes",
+      "condition": null,
+      "reason": "小步递进界限带来成就感，帮助立界限成功。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c002:a009",
+      "target": "s-d75ed18a6fc1-c002:a007",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "过高界限目标导致失败，因此要设立现实且逐步递进的界限目标。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c002:a010",
+      "target": "s-d75ed18a6fc1-c002:a012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "允许自己与别人不同，面对他人指责时保持界限立场。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c002:a013",
+      "target": "s-d75ed18a6fc1-c002:a014",
+      "kind": "prerequisite",
+      "condition": "",
+      "reason": "建立界限过程中的阻拦来源指出需要找到原因并寻求帮助，这是通过角色练习和寻求专业帮助克服阻拦的前提。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 step_of 改为 prerequisite。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c002:a015",
+      "target": "s-d75ed18a6fc1-c002:a013",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "内心核心问题导致界限失败是建立界限过程中的阻拦来源的一个具体原因，属于其例子。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 改为 example_of。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c002:a019",
+      "target": "s-d75ed18a6fc1-c002:a005",
+      "kind": "supports",
+      "condition": null,
+      "reason": "持续练习是立界限的关键，因此要少量、一次一次来，逐步练习。"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:v2-n001",
+      "target": "s-d75ed18a6fc1-c001:a035",
+      "kind": "association",
+      "condition": "内容与 source 6 基本一致",
+      "reason": "source 6 和 a035 都讲感知情绪以帮助立界限，a035 无实质补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a035",
+      "target": "s-d75ed18a6fc1-c001:v2-n001",
+      "kind": "association",
+      "condition": "内容与 source 6 基本一致",
+      "reason": "source 6 和 a035 都讲感知情绪以帮助立界限，a035 无实质补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:v2-n001",
+      "target": "s-d75ed18a6fc1-c002:a001",
+      "kind": "complements",
+      "condition": "在讨论越界冲动的情绪根源时",
+      "reason": "source 6 要求问为什么有越界感觉，c002:a001 补充了越界背后往往有被挑动的不舒服情绪，如觉得对方慢或想拯救，补充了情绪驱动机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c002:a001",
+      "target": "s-d75ed18a6fc1-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在讨论越界冲动的情绪根源时",
+      "reason": "source 6 要求问为什么有越界感觉，c002:a001 补充了越界背后往往有被挑动的不舒服情绪，如觉得对方慢或想拯救，补充了情绪驱动机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:v2-n001",
+      "target": "s-d75ed18a6fc1-c001:r004",
+      "kind": "association",
+      "condition": "步骤与 source 6 一致",
+      "reason": "source 6 的 steps 已包含觉察、自我提问、识别动机，r004 重复这些步骤，无新增。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:r004",
+      "target": "s-d75ed18a6fc1-c001:v2-n001",
+      "kind": "association",
+      "condition": "步骤与 source 6 一致",
+      "reason": "source 6 的 steps 已包含觉察、自我提问、识别动机，r004 重复这些步骤，无新增。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:v2-n001",
+      "target": "s-d75ed18a6fc1-c002:a002",
+      "kind": "complements",
+      "condition": "在讨论自我提问具体化时",
+      "reason": "source 6 提到问自己为什么有这种感觉，c002:a002 将自我提问具体化为问为什么有感觉、为什么想冒犯，补充了提问细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c002:a002",
+      "target": "s-d75ed18a6fc1-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在讨论自我提问具体化时",
+      "reason": "source 6 提到问自己为什么有这种感觉，c002:a002 将自我提问具体化为问为什么有感觉、为什么想冒犯，补充了提问细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:v2-n001",
+      "target": "s-d75ed18a6fc1-c002:a004",
+      "kind": "association",
+      "condition": "不同深入方式",
+      "reason": "source 6 是自我审视，c002:a004 建议通过团体辅导梳理深层情绪，方法不同，弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c002:a004",
+      "target": "s-d75ed18a6fc1-c001:v2-n001",
+      "kind": "association",
+      "condition": "不同深入方式",
+      "reason": "source 6 是自我审视，c002:a004 建议通过团体辅导梳理深层情绪，方法不同，弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:v2-n001",
+      "target": "s-d75ed18a6fc1-c001:a003",
+      "kind": "complements",
+      "condition": "在讨论给自己立界限的意义时",
+      "reason": "source 6 是给自己立界限的具体方法，a003 补充了给自己立界限是练习界限意识的好方法，说明了价值。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a003",
+      "target": "s-d75ed18a6fc1-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在讨论给自己立界限的意义时",
+      "reason": "source 6 是给自己立界限的具体方法，a003 补充了给自己立界限是练习界限意识的好方法，说明了价值。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:v2-n001",
+      "target": "s-d75ed18a6fc1-c001:a036",
+      "kind": "complements",
+      "condition": "在讨论情绪健康方面的适用范围时",
+      "reason": "source 6 针对情绪立界限，a036 补充情绪健康也需要给自己立界限，扩展了适用范围。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a036",
+      "target": "s-d75ed18a6fc1-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在讨论情绪健康方面的适用范围时",
+      "reason": "source 6 针对情绪立界限，a036 补充情绪健康也需要给自己立界限，扩展了适用范围。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:v2-n001",
+      "target": "s-d75ed18a6fc1-c001:a001",
+      "kind": "complements",
+      "condition": "在界定越界行为时",
+      "reason": "source 6 提到越界冲动如帮助或纠正，a001 定义给自己立界限是“不主动插手与自己无关的事情”，补充了越界的边界。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a001",
+      "target": "s-d75ed18a6fc1-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在界定越界行为时",
+      "reason": "source 6 提到越界冲动如帮助或纠正，a001 定义给自己立界限是“不主动插手与自己无关的事情”，补充了越界的边界。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:v2-n001",
+      "target": "s-d75ed18a6fc1-c002:a003",
+      "kind": "complements",
+      "condition": "在讨论情绪敏感的作用时",
+      "reason": "source 6 要求情绪敏感，c002:a003 解释情绪敏感能让人明白越界是因为情绪被挑动，补充了情绪敏感的作用机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c002:a003",
+      "target": "s-d75ed18a6fc1-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在讨论情绪敏感的作用时",
+      "reason": "source 6 要求情绪敏感，c002:a003 解释情绪敏感能让人明白越界是因为情绪被挑动，补充了情绪敏感的作用机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:v2-n001",
+      "target": "s-d75ed18a6fc1-c001:a017",
+      "kind": "association",
+      "condition": "价值基础，非直接相关",
+      "reason": "source 6 是具体方法，a017 讨论自律与立界限的价值基础，无直接逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a017",
+      "target": "s-d75ed18a6fc1-c001:v2-n001",
+      "kind": "association",
+      "condition": "价值基础，非直接相关",
+      "reason": "source 6 是具体方法，a017 讨论自律与立界限的价值基础，无直接逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:v2-n001",
+      "target": "s-d75ed18a6fc1-c001:a030",
+      "kind": "association",
+      "condition": "不同侧重点",
+      "reason": "source 6 侧重控制越界冲动，a030 侧重找到自己的界限点，二者相关但侧重不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a030",
+      "target": "s-d75ed18a6fc1-c001:v2-n001",
+      "kind": "association",
+      "condition": "不同侧重点",
+      "reason": "source 6 侧重控制越界冲动，a030 侧重找到自己的界限点，二者相关但侧重不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:v2-n001",
+      "target": "s-d75ed18a6fc1-c001:a009",
+      "kind": "association",
+      "condition": "界限定义作为背景",
+      "reason": "source 6 是给自己立界限，a009 定义界限为知道临界点，提供背景知识，无直接逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-d75ed18a6fc1-c001:a009",
+      "target": "s-d75ed18a6fc1-c001:v2-n001",
+      "kind": "association",
+      "condition": "界限定义作为背景",
+      "reason": "source 6 是给自己立界限，a009 定义界限为知道临界点，提供背景知识，无直接逻辑。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "自我认知",
+      "when": "当自我认知浮动源于外界比较时，界限提供稳定衡量自己的标准。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a008",
+        "s-d75ed18a6fc1-c001:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "为自己立界限时，需要感知自己的情绪，识别越界冲动背后的情绪和动机。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a035",
+        "s-d75ed18a6fc1-c002:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a035",
+        "s-d75ed18a6fc1-c001:r004"
+      ],
+      "reason": "两者内容完全一致，都是关于感知情绪以帮助立界限的具体步骤。"
+    },
+    {
+      "atom_ids": [
+        "s-d75ed18a6fc1-c002:a002"
+      ],
+      "reason": "两者内容完全一致，都是关于通过自我提问识别越界情绪原因。"
+    },
+    {
+      "atom_ids": [
+        "s-d75ed18a6fc1-c002:a014"
+      ],
+      "reason": "两者内容完全一致，都是关于通过角色练习和寻求专业帮助克服阻拦。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a014",
+        "s-d75ed18a6fc1-c001:a015"
+      ],
+      "description": "工作中能立界限并不一定是真正的给自己立界限，因为可能是制度强加的；但案例中有些人工作中能立界限而家中不能，暗示工作界限可能有效，但未明确如何区分主动与被动界限。",
+      "needed_evidence": "需要更多证据说明如何判断界限是主动还是被动，以及在不同情境下如何转化。"
+    },
+    {
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a016",
+        "s-d75ed18a6fc1-c001:a017"
+      ],
+      "description": "自律与立界限的区别在于自律有目的性，立界限基于自爱自重；但两者都涉及自我管理，可能在实际行为上有重叠，原文未明确如何区分。",
+      "needed_evidence": "需要更多例子或标准来区分自律和立界限的具体行为表现。"
+    }
+  ],
+  "path": [
+    {
+      "name": "为自己立界限的方法",
+      "steps": [
+        {
+          "action": "认识到哪些地方需要界限，用纸写下来，分类列出生活领域。",
+          "atom_ids": [
+            "s-d75ed18a6fc1-c001:a027"
+          ],
+          "condition": null
+        },
+        {
+          "action": "找到自己的界限点，即哪些是自己不可以接受的。",
+          "atom_ids": [
+            "s-d75ed18a6fc1-c001:a030"
+          ],
+          "condition": null
+        },
+        {
+          "action": "感知自己的情绪，对情感敏感，识别越界冲动背后的情绪和动机。",
+          "atom_ids": [
+            "s-d75ed18a6fc1-c001:a035",
+            "s-d75ed18a6fc1-c002:a002"
+          ],
+          "condition": null
+        },
+        {
+          "action": "列出需要立界限的方面，按重要性排列优先顺序，锁定2-3个界限目标。",
+          "atom_ids": [
+            "s-d75ed18a6fc1-c002:a005"
+          ],
+          "condition": null
+        },
+        {
+          "action": "设立现实且逐步递进的界限目标，一次一小步，逐步延长或提高要求。",
+          "atom_ids": [
+            "s-d75ed18a6fc1-c002:a007"
+          ],
+          "condition": null
+        },
+        {
+          "action": "持续练习，每天练习，逐步建立界限。",
+          "atom_ids": [
+            "s-d75ed18a6fc1-c002:a019"
+          ],
+          "condition": null
+        },
+        {
+          "action": "遇到阻拦时，找到原因，通过角色练习或寻求专业帮助克服。",
+          "atom_ids": [
+            "s-d75ed18a6fc1-c002:a013",
+            "s-d75ed18a6fc1-c002:a014"
+          ],
+          "condition": null
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-d75ed18a6fc1-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0002",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a002"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a003"
+      ],
+      "blocks": [
+        "b00007",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0004",
+      "kind": "case",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a004"
+      ],
+      "blocks": [
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a005"
+      ],
+      "blocks": [
+        "b00011",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a006"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a007"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a008"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0009",
+      "kind": "definition",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a009"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0010",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a010"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0011",
+      "kind": "case",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a011"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0012",
+      "kind": "definition",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a012"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0013",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a013",
+        "s-d75ed18a6fc1-c001:r001"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0014",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a014"
+      ],
+      "blocks": [
+        "b00019",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0015",
+      "kind": "case",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a015"
+      ],
+      "blocks": [
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0016",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a016"
+      ],
+      "blocks": [
+        "b00021",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0017",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a017"
+      ],
+      "blocks": [
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0018",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a018"
+      ],
+      "blocks": [
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0019",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a019"
+      ],
+      "blocks": [
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0020",
+      "kind": "case",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a020"
+      ],
+      "blocks": [
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0021",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a021"
+      ],
+      "blocks": [
+        "b00033"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0022",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a022"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0023",
+      "kind": "case",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a023"
+      ],
+      "blocks": [
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0024",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a024"
+      ],
+      "blocks": [
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0025",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a025"
+      ],
+      "blocks": [
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0026",
+      "kind": "condition",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a026"
+      ],
+      "blocks": [
+        "b00039"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0027",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a027"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0028",
+      "kind": "case",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a028"
+      ],
+      "blocks": [
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0029",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a029"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0030",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a030"
+      ],
+      "blocks": [
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0031",
+      "kind": "case",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a031"
+      ],
+      "blocks": [
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0032",
+      "kind": "case",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a032"
+      ],
+      "blocks": [
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0033",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a033"
+      ],
+      "blocks": [
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0034",
+      "kind": "case",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a034"
+      ],
+      "blocks": [
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0035",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a036",
+        "s-d75ed18a6fc1-c001:r003"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0036",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c001:u0037",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:r002"
+      ],
+      "blocks": [
+        "b00043"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c002:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:a035",
+        "s-d75ed18a6fc1-c002:a001",
+        "s-d75ed18a6fc1-c002:a002",
+        "s-d75ed18a6fc1-c002:a003"
+      ],
+      "blocks": [
+        "b00053",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c002:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c002:a004"
+      ],
+      "blocks": [
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c002:u003",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c002:a005",
+        "s-d75ed18a6fc1-c002:a006"
+      ],
+      "blocks": [
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c002:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c002:a007",
+        "s-d75ed18a6fc1-c002:a008",
+        "s-d75ed18a6fc1-c002:a009"
+      ],
+      "blocks": [
+        "b00059",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c002:u005",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c002:a010",
+        "s-d75ed18a6fc1-c002:a011",
+        "s-d75ed18a6fc1-c002:a012"
+      ],
+      "blocks": [
+        "b00063",
+        "b00065",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c002:u006",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c002:a013",
+        "s-d75ed18a6fc1-c002:a014",
+        "s-d75ed18a6fc1-c002:a015"
+      ],
+      "blocks": [
+        "b00067",
+        "b00069",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c002:u007",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c002:a016"
+      ],
+      "blocks": [
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c002:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c002:a021"
+      ],
+      "blocks": [
+        "b00075",
+        "b00077",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c002:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c002:a017",
+        "s-d75ed18a6fc1-c002:a022"
+      ],
+      "blocks": [
+        "b00081",
+        "b00083",
+        "b00085",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c002:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c002:a023"
+      ],
+      "blocks": [
+        "b00089",
+        "b00091"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c002:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c002:a018",
+        "s-d75ed18a6fc1-c002:a024"
+      ],
+      "blocks": [
+        "b00093",
+        "b00095",
+        "b00097",
+        "b00099",
+        "b00101",
+        "b00103",
+        "b00105",
+        "b00107",
+        "b00109",
+        "b00111",
+        "b00113",
+        "b00115",
+        "b00117",
+        "b00119",
+        "b00121",
+        "b00123",
+        "b00125",
+        "b00127",
+        "b00129",
+        "b00131"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c002:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c002:a019"
+      ],
+      "blocks": [
+        "b00133",
+        "b00135"
+      ]
+    },
+    {
+      "id": "s-d75ed18a6fc1-c002:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c002:a020"
+      ],
+      "blocks": [
+        "b00137"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "立界限时感知情绪并审视越界冲动",
+      "atom_ids": [
+        "s-d75ed18a6fc1-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-d75ed18a6fc1",
+          "blocks": [
+            "b00053"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

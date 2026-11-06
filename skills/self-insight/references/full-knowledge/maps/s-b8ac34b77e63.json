@@ -1,0 +1,560 @@
+{
+  "concepts": [
+    {
+      "name": "五到九岁孩子的发展特点",
+      "definition": "五到九岁被称为黄金年龄，孩子精力充沛、好奇、快速掌握新信息；开始发展价值观和道德观；个性鲜明、喜欢独立并希望才智得到认可；喜欢互动和归属感；仍需要成人指导。",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a001",
+        "s-b8ac34b77e63-c001:a002",
+        "s-b8ac34b77e63-c001:a003",
+        "s-b8ac34b77e63-c001:a004",
+        "s-b8ac34b77e63-c001:a006"
+      ]
+    },
+    {
+      "name": "五到九岁孩子的情绪表达",
+      "definition": "约51%的孩子能健康表达情绪，但并非每次都能做到；父母应保持冷静，使用情绪词汇表帮助孩子认识并用语言表达情绪。",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a007",
+        "s-b8ac34b77e63-c001:a008",
+        "s-b8ac34b77e63-c001:a009"
+      ]
+    },
+    {
+      "name": "五到九岁孩子的金钱观培养",
+      "definition": "父母常误以为孩子没有金钱概念，应通过做家务挣钱、在父母帮助下理财、多接触钱来培养金钱观。",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a010",
+        "s-b8ac34b77e63-c001:a011"
+      ]
+    },
+    {
+      "name": "十到18岁孩子的睡眠需求",
+      "definition": "十到18岁孩子应睡十个小时，十到11个小时对大脑有利。",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a013"
+      ]
+    },
+    {
+      "name": "十到18岁孩子的记忆特点",
+      "definition": "孩子可能不记得细节，但一定记得伤害；父母做错后应及时真诚道歉。",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a014",
+        "s-b8ac34b77e63-c001:a015"
+      ]
+    },
+    {
+      "name": "十到18岁孩子的独立与管教",
+      "definition": "孩子可能给父母假象不想被管，但实际需要正确方式引导；父母仍是监督管理者，应在保护前提下给予判断机会。",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a016",
+        "s-b8ac34b77e63-c001:a017",
+        "s-b8ac34b77e63-c001:a018"
+      ]
+    },
+    {
+      "name": "十到18岁孩子的恐惧与自尊",
+      "definition": "孩子内心充满恐惧，自尊心增强但失败容忍度降低；父母应允许示弱而非强迫坚强。",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a019",
+        "s-b8ac34b77e63-c001:a021",
+        "s-b8ac34b77e63-c001:a022",
+        "s-b8ac34b77e63-c001:a023"
+      ]
+    },
+    {
+      "name": "19到25岁孩子的独立与感激",
+      "definition": "独立和感激取决于早期教育，如教育得当则独立，否则可能不感激；用“种什么收果子”比喻。",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a024",
+        "s-b8ac34b77e63-c001:a025",
+        "s-b8ac34b77e63-c001:a026"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-b8ac34b77e63-c001:a001",
+      "target": "s-b8ac34b77e63-c001:a002",
+      "kind": "supports",
+      "condition": "五到九岁",
+      "reason": "黄金年龄的特点包括快速掌握新信息，这支持了价值观和道德观开始发展的说法。"
+    },
+    {
+      "source": "s-b8ac34b77e63-c001:a001",
+      "target": "s-b8ac34b77e63-c001:a004",
+      "kind": "supports",
+      "condition": "五到九岁",
+      "reason": "黄金年龄的充沛精力和好奇可能促进个性鲜明和独立倾向。"
+    },
+    {
+      "source": "s-b8ac34b77e63-c001:a004",
+      "target": "s-b8ac34b77e63-c001:a005",
+      "kind": "example_of",
+      "condition": "五到九岁",
+      "reason": "孩子询问是否聪明是希望才智得到认可的具体案例。"
+    },
+    {
+      "source": "s-b8ac34b77e63-c001:a006",
+      "target": "s-b8ac34b77e63-c001:a003",
+      "kind": "supports",
+      "condition": "五到九岁",
+      "reason": "喜欢互动和归属感表明孩子仍需要成人指导来建立社交。"
+    },
+    {
+      "source": "s-b8ac34b77e63-c001:a007",
+      "target": "s-b8ac34b77e63-c001:a008",
+      "kind": "supports",
+      "condition": "五到九岁",
+      "reason": "a007指出约51%的五到九岁孩子能健康表达情绪，意味着其余孩子需要帮助；a008提供情绪词汇表这一方法，因此a007支持a008的必要性。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b8ac34b77e63-c001:a008",
+      "target": "s-b8ac34b77e63-c001:a009",
+      "kind": "association",
+      "condition": "",
+      "reason": "a008提供帮助孩子表达情绪的情绪词汇表方法，a009强调即使孩子能表达也不一定每次都能做到，仍需持续帮助；a008未直接说明方法无法完全保证效果，两者仅为同一议题下的关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原supports证据不足"
+    },
+    {
+      "source": "s-b8ac34b77e63-c001:a010",
+      "target": "s-b8ac34b77e63-c001:a011",
+      "kind": "supports",
+      "condition": "五到九岁",
+      "reason": "父母误以为孩子没有金钱概念，因此需要培养金钱观，方法包括做家务挣钱等。"
+    },
+    {
+      "source": "s-b8ac34b77e63-c001:a010",
+      "target": "s-b8ac34b77e63-c001:a012",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "a010认为五到九岁孩子常被误认为没有金钱概念，若不培养可能缺乏金钱观；a012案例中的孩子到别人家吃饭省钱，讲师归因于未及早树立金钱观。该案例可作为a010后果的示例，但案例未说明孩子年龄，无法确认符合五到九岁条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "uncertain",
+      "review_notes": "目标案例年龄不明，不确定能否合并到五到九岁"
+    },
+    {
+      "source": "s-b8ac34b77e63-c001:a014",
+      "target": "s-b8ac34b77e63-c001:a015",
+      "kind": "causes",
+      "condition": "十到18岁",
+      "reason": "因为孩子会记得伤害，所以父母做错后应及时真诚道歉以避免伤害发酵。"
+    },
+    {
+      "source": "s-b8ac34b77e63-c001:a016",
+      "target": "s-b8ac34b77e63-c001:a017",
+      "kind": "contrasts",
+      "condition": "十到18岁",
+      "reason": "a016说明十到十八岁孩子仍需要父母监督管理，而a017指出孩子后期可能给父母不想被管的假象；两者在父母监管与孩子表现上形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-b8ac34b77e63-c001:a017",
+      "target": "s-b8ac34b77e63-c001:a018",
+      "kind": "supports",
+      "condition": "十到18岁",
+      "reason": "孩子给假象不想被管，但实际需要正确方式引导，因此父母不应放弃管教。"
+    },
+    {
+      "source": "s-b8ac34b77e63-c001:a019",
+      "target": "s-b8ac34b77e63-c001:a021",
+      "kind": "supports",
+      "condition": "十到18岁",
+      "reason": "孩子内心充满恐惧，因此父母误以为孩子应更勇敢是不合理的。"
+    },
+    {
+      "source": "s-b8ac34b77e63-c001:a021",
+      "target": "s-b8ac34b77e63-c001:a022",
+      "kind": "supports",
+      "condition": "十到18岁",
+      "reason": "父母误以为孩子应更勇敢，但孩子自尊心增强且失败容忍度降低，因此更不容易勇敢。"
+    },
+    {
+      "source": "s-b8ac34b77e63-c001:a022",
+      "target": "s-b8ac34b77e63-c001:a023",
+      "kind": "causes",
+      "condition": "十到18岁",
+      "reason": "因为孩子失败容忍度降低，所以父母应允许示弱而非强迫坚强。"
+    },
+    {
+      "source": "s-b8ac34b77e63-c001:a024",
+      "target": "s-b8ac34b77e63-c001:a025",
+      "kind": "supports",
+      "condition": "19到25岁",
+      "reason": "独立和感激都取决于早期教育，因此两者相关。"
+    },
+    {
+      "source": "s-b8ac34b77e63-c001:a024",
+      "target": "s-b8ac34b77e63-c001:a026",
+      "kind": "example_of",
+      "condition": "19到25岁",
+      "reason": "独立期待取决于早期教育，用“种什么收果子”比喻说明。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "五到九岁孩子情绪表达需要帮助时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a007",
+        "s-b8ac34b77e63-c001:a008"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "五到九岁孩子培养金钱观时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a010",
+        "s-b8ac34b77e63-c001:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "自我修养",
+      "when": "父母做错后需要道歉时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a014",
+        "s-b8ac34b77e63-c001:a015"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a007"
+      ],
+      "reason": "两条记录内容完全相同，都是关于五到九岁孩子健康表达情绪的比例。"
+    }
+  ],
+  "tensions": [],
+  "path": [],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-b8ac34b77e63-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a001"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a003"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a004"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u005",
+      "kind": "case",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a005"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a006"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a007"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u008",
+      "kind": "method",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a008"
+      ],
+      "blocks": [
+        "b00004",
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a009"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a010"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u011",
+      "kind": "method",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a011"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a012"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a013"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a014"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a015"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a016"
+      ],
+      "blocks": [
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a017"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a018"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a019"
+      ],
+      "blocks": [
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a020"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a021"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a022"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u023",
+      "kind": "method",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a023"
+      ],
+      "blocks": [
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a024"
+      ],
+      "blocks": [
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a025"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a026"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a027"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a028"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-b8ac34b77e63-c001:u029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-b8ac34b77e63-c001:a029"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

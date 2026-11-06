@@ -40,6 +40,8 @@ description: 「怎么培养孩子的内在能力（快乐、喜欢自己、独�
 
 ## 知识底座
 
+下列原有知识与案例全部保留。另按 `../self-insight/references/full-knowledge/README.md` 检索全文库及课内关系，不能只用旧原子库；本模块索引为 `../self-insight/references/full-knowledge/module-index/内在能力.json`。先核对记录条件与来源限制，跨模块仍交主入口编排，不一次加载全库。
+
 完整读取并按需引用：
 
 - `references/knowledge/理念框架.md`——能力定义与误区、12 能力清单、通用方法论

@@ -1,0 +1,642 @@
+{
+  "concepts": [
+    {
+      "name": "父母对亲子关系的错误期待",
+      "definition": "父母希望孩子还像小时候那样粘自己，当孩子疏远时感到失望。",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a002"
+      ]
+    },
+    {
+      "name": "父母自我怀疑与焦虑",
+      "definition": "在13-18岁阶段，父母开始自我怀疑并因此导致焦虑，包括因之前做错的事显现而焦虑。",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a003",
+        "s-beeeba1ede11-c001:a004"
+      ]
+    },
+    {
+      "name": "父母情绪反应",
+      "definition": "孩子拒绝父母导致父母情绪上严重焦虑、后悔、恐惧、害怕，担心孩子将来怎么办。",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a005"
+      ]
+    },
+    {
+      "name": "父母心路历程",
+      "definition": "从失望、自我怀疑、焦虑到为将来感到害怕。",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a007"
+      ]
+    },
+    {
+      "name": "被动攻击",
+      "definition": "父母常用的矛盾处理方法之一，例如不理孩子、冷处理，或者孩子叫自己做某事但自己就是不去做。",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a008"
+      ]
+    },
+    {
+      "name": "冷嘲热讽",
+      "definition": "父母常用的矛盾处理方法之二，例如对孩子说“你得意呀，你不是以为你什么都懂了吗？”，因为父母心里有很深的怨恨，但不敢打孩子。",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a009"
+      ]
+    },
+    {
+      "name": "真实表达内心感受",
+      "definition": "父母要真实地向孩子表达内心的感受，而不是寻找解决方案，这样孩子才有可能允许父母进入他的世界。",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a011",
+        "s-beeeba1ede11-c001:a018"
+      ]
+    },
+    {
+      "name": "聆听孩子",
+      "definition": "父母要聆听孩子，并且开始跟孩子交换意见，以进入他的世界，了解年轻人的想法和看法。",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a012"
+      ]
+    },
+    {
+      "name": "交换意见",
+      "definition": "父母可以跟孩子讲自己的感受和看法，同时必须尊重孩子的想法和意见，双方交换意见以影响孩子。",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a013",
+        "s-beeeba1ede11-c001:a019"
+      ]
+    },
+    {
+      "name": "尊重孩子的想法和意见",
+      "definition": "父母必须尊重孩子的想法和意见，不能嘲笑或否定，否则孩子会烦父母。",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a014"
+      ]
+    },
+    {
+      "name": "学员关于孩子关心自己的矛盾",
+      "definition": "学员的孩子出国读书，孩子来关心学员，学员不希望孩子担心自己，但不知道该怎么讲，怕孩子不担心自己就不关心自己了。",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a015"
+      ]
+    },
+    {
+      "name": "讲师示范的真实表达方式",
+      "definition": "讲师示范如何真实表达内心的纠结：既希望孩子担心自己，又怕孩子太过担心，又不甘愿孩子不担心。",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a017"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-beeeba1ede11-c001:a001",
+      "target": "s-beeeba1ede11-c001:a002",
+      "kind": "causes",
+      "condition": "当孩子疏远父母时",
+      "reason": "父母对亲子关系有错误期待，希望孩子像小时候那样粘自己，所以当孩子疏远时感到失望。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a002",
+      "target": "s-beeeba1ede11-c001:a003",
+      "kind": "causes",
+      "condition": "当父母发现孩子疏远时",
+      "reason": "父母对亲子关系有错误期待，导致失望，进而开始自我怀疑并产生焦虑。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a003",
+      "target": "s-beeeba1ede11-c001:a004",
+      "kind": "causes",
+      "condition": "当父母反思过去时",
+      "reason": "父母自我怀疑导致焦虑，因为之前做错的事情显现出来，发现补救来不及。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a004",
+      "target": "s-beeeba1ede11-c001:a005",
+      "kind": "causes",
+      "condition": "当孩子拒绝父母时",
+      "reason": "父母之前做错的事显现，孩子关闭心门拒绝父母，导致父母情绪上严重焦虑、后悔、恐惧、害怕。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a005",
+      "target": "s-beeeba1ede11-c001:a006",
+      "kind": "causes",
+      "condition": "当父母为将来担忧时",
+      "reason": "孩子拒绝父母导致父母情绪反应，进而为将来自己要怎么继续走下去、怎么做感到害怕。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a006",
+      "target": "s-beeeba1ede11-c001:a007",
+      "kind": "step_of",
+      "condition": "父母心路历程的总结",
+      "reason": "从失望、自我怀疑、焦虑到为将来感到害怕，是很多父母的心路历程。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a005",
+      "target": "s-beeeba1ede11-c001:a008",
+      "kind": "causes",
+      "condition": "当父母感到焦虑、后悔、恐惧时",
+      "reason": "父母情绪反应导致采用被动攻击等矛盾处理方法。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a005",
+      "target": "s-beeeba1ede11-c001:a009",
+      "kind": "causes",
+      "condition": "当父母心里有怨恨时",
+      "reason": "父母情绪反应导致采用冷嘲热讽的矛盾处理方法。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a009",
+      "target": "s-beeeba1ede11-c001:a010",
+      "kind": "causes",
+      "condition": "当父母不敢打孩子时",
+      "reason": "父母不敢打孩子，因为孩子要反抗，打不赢，且生怕孩子跳楼自杀等极端行为，所以采用冷嘲热讽。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a011",
+      "target": "s-beeeba1ede11-c001:a012",
+      "kind": "step_of",
+      "condition": "在真实表达感受之后",
+      "reason": "父母要真实表达内心感受，然后聆听孩子，开始交换意见。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a012",
+      "target": "s-beeeba1ede11-c001:a013",
+      "kind": "step_of",
+      "condition": "在聆听孩子之后",
+      "reason": "父母聆听孩子后，可以跟孩子讲自己的感受和看法，交换意见。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a013",
+      "target": "s-beeeba1ede11-c001:a014",
+      "kind": "supports",
+      "condition": "在交换意见时",
+      "reason": "交换意见时必须尊重孩子的想法和意见，否则孩子会烦父母。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a015",
+      "target": "s-beeeba1ede11-c001:a016",
+      "kind": "example_of",
+      "condition": "学员案例中",
+      "reason": "学员的矛盾是团体讨论中其他人建议的背景。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a015",
+      "target": "s-beeeba1ede11-c001:a017",
+      "kind": "example_of",
+      "condition": "讲师示范时",
+      "reason": "讲师针对学员的矛盾示范了真实表达的方式。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a017",
+      "target": "s-beeeba1ede11-c001:a018",
+      "kind": "supports",
+      "condition": "在真实表达时",
+      "reason": "讲师示范的真实表达方式体现了要真实表达内心感受，而不是寻找解决方案。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a018",
+      "target": "s-beeeba1ede11-c001:a019",
+      "kind": "step_of",
+      "condition": "在真实表达之后",
+      "reason": "真实表达内心感受后，父母要交换意见并影响孩子。"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:v2-n001",
+      "target": "s-beeeba1ede11-c001:a012",
+      "kind": "complements",
+      "condition": "孩子处于13-18岁阶段且父母正在聆听或交换意见时",
+      "reason": "source 在 a012 的“父母要聆听孩子并交换意见，进入孩子世界理解想法”基础上，补充了聆听时不要带着“教孩子做什么”的目的，这是 a012 未提及的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a012",
+      "target": "s-beeeba1ede11-c001:v2-n001",
+      "kind": "complements",
+      "condition": "孩子处于13-18岁阶段且父母正在聆听或交换意见时",
+      "reason": "source 在 a012 的“父母要聆听孩子并交换意见，进入孩子世界理解想法”基础上，补充了聆听时不要带着“教孩子做什么”的目的，这是 a012 未提及的实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:v2-n001",
+      "target": "s-beeeba1ede11-c001:a013",
+      "kind": "complements",
+      "condition": "孩子处于13-18岁阶段且父母与孩子交换意见时",
+      "reason": "source 补充了交换意见时不要试图教孩子做什么；a013 具体给出表达感受、讲自己看法并尊重孩子想法的方法，二者互补，source 补了“不教”的边界。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a013",
+      "target": "s-beeeba1ede11-c001:v2-n001",
+      "kind": "complements",
+      "condition": "孩子处于13-18岁阶段且父母与孩子交换意见时",
+      "reason": "source 补充了交换意见时不要试图教孩子做什么；a013 具体给出表达感受、讲自己看法并尊重孩子想法的方法，二者互补，source 补了“不教”的边界。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:v2-n001",
+      "target": "s-beeeba1ede11-c001:a019",
+      "kind": "complements",
+      "condition": "孩子处于13-18岁阶段且父母通过交换意见影响孩子时",
+      "reason": "source 补充了在 a019 所述通过询问孩子看法、认同后再讲自己角度来影响孩子的过程中，不应带着“教”的目的，提供了聆听态度上的限制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a019",
+      "target": "s-beeeba1ede11-c001:v2-n001",
+      "kind": "complements",
+      "condition": "孩子处于13-18岁阶段且父母通过交换意见影响孩子时",
+      "reason": "source 补充了在 a019 所述通过询问孩子看法、认同后再讲自己角度来影响孩子的过程中，不应带着“教”的目的，提供了聆听态度上的限制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:v2-n001",
+      "target": "s-beeeba1ede11-c001:a014",
+      "kind": "complements",
+      "condition": "孩子处于13-18岁阶段且父母需要尊重孩子想法时",
+      "reason": "source 在 a014 强调尊重孩子想法和意见的基础上，补充了尊重的同时不以“教”为目的，进一步明确聆听的核心是理解而非指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a014",
+      "target": "s-beeeba1ede11-c001:v2-n001",
+      "kind": "complements",
+      "condition": "孩子处于13-18岁阶段且父母需要尊重孩子想法时",
+      "reason": "source 在 a014 强调尊重孩子想法和意见的基础上，补充了尊重的同时不以“教”为目的，进一步明确聆听的核心是理解而非指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:v2-n001",
+      "target": "s-beeeba1ede11-c001:a011",
+      "kind": "association",
+      "condition": "父母希望进入孩子世界、孩子处于13-18岁阶段",
+      "reason": "a011 提出真实表达内心感受是孩子允许父母进入其世界的前提，source 讲进入孩子世界时应不带教的目的；两者都服务于进入孩子世界，但无直接因果或先后关系，属于关联，不足：未说明 source 与表达感受的顺序。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a011",
+      "target": "s-beeeba1ede11-c001:v2-n001",
+      "kind": "association",
+      "condition": "父母希望进入孩子世界、孩子处于13-18岁阶段",
+      "reason": "a011 提出真实表达内心感受是孩子允许父母进入其世界的前提，source 讲进入孩子世界时应不带教的目的；两者都服务于进入孩子世界，但无直接因果或先后关系，属于关联，不足：未说明 source 与表达感受的顺序。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:v2-n001",
+      "target": "s-beeeba1ede11-c001:a001",
+      "kind": "association",
+      "condition": "均为13-18岁阶段下的亲子关系背景或沟通原则",
+      "reason": "a001 描述13-18岁亲子关系疏远及父母失望，source 是该阶段聆听交换意见的原则；两者同阶段但角度不同，无直接逻辑关系，属于主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-beeeba1ede11-c001:a001",
+      "target": "s-beeeba1ede11-c001:v2-n001",
+      "kind": "association",
+      "condition": "均为13-18岁阶段下的亲子关系背景或沟通原则",
+      "reason": "a001 描述13-18岁亲子关系疏远及父母失望，source 是该阶段聆听交换意见的原则；两者同阶段但角度不同，无直接逻辑关系，属于主题关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "当父母面对13-18岁孩子的疏远和拒绝时，采用被动攻击或冷嘲热讽等矛盾处理方法",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a001",
+        "s-beeeba1ede11-c001:a005",
+        "s-beeeba1ede11-c001:a008",
+        "s-beeeba1ede11-c001:a009"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "理解情绪",
+      "when": "当父母意识到需要改善亲子关系时，采用真实表达、聆听和交换意见的方法",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a011",
+        "s-beeeba1ede11-c001:a012",
+        "s-beeeba1ede11-c001:a013",
+        "s-beeeba1ede11-c001:a014",
+        "s-beeeba1ede11-c001:a018",
+        "s-beeeba1ede11-c001:a019"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "当父母从被动攻击、冷嘲热讽转向真实表达、聆听和交换意见时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a008",
+        "s-beeeba1ede11-c001:a009",
+        "s-beeeba1ede11-c001:a011",
+        "s-beeeba1ede11-c001:a012",
+        "s-beeeba1ede11-c001:a013",
+        "s-beeeba1ede11-c001:a014",
+        "s-beeeba1ede11-c001:a018",
+        "s-beeeba1ede11-c001:a019"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a003",
+        "s-beeeba1ede11-c001:a004"
+      ],
+      "reason": "两者都描述父母自我怀疑导致焦虑，且a004具体说明因之前做错的事显现而焦虑，是a003的细化，实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a005",
+        "s-beeeba1ede11-c001:a006"
+      ],
+      "reason": "两者都描述父母因孩子拒绝或反抗而感到害怕，a006具体说明为将来感到害怕，是a005的一部分，实质等价。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "改善13-18岁亲子关系的方法",
+      "steps": [
+        {
+          "action": "真实表达内心感受",
+          "atom_ids": [
+            "s-beeeba1ede11-c001:a011",
+            "s-beeeba1ede11-c001:a018"
+          ],
+          "condition": "父母要真实地向孩子表达内心的感受，而不是寻找解决方案。"
+        },
+        {
+          "action": "聆听孩子",
+          "atom_ids": [
+            "s-beeeba1ede11-c001:a012"
+          ],
+          "condition": "父母要聆听孩子，了解年轻人的想法和看法。"
+        },
+        {
+          "action": "交换意见",
+          "atom_ids": [
+            "s-beeeba1ede11-c001:a013",
+            "s-beeeba1ede11-c001:a019"
+          ],
+          "condition": "父母讲自己的感受和看法，同时尊重孩子的想法和意见，双方交换意见。"
+        },
+        {
+          "action": "尊重孩子的想法和意见",
+          "atom_ids": [
+            "s-beeeba1ede11-c001:a014"
+          ],
+          "condition": "父母必须尊重孩子的想法和意见，不能嘲笑或否定。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-beeeba1ede11-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a001"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a002"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a003"
+      ],
+      "blocks": [
+        "b00001"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a004"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a005"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a006"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a007"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0008",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a008"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0009",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a009"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a010"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a011"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a012"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a013"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a014"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0015",
+      "kind": "case",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a015"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a016"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a017"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a018"
+      ],
+      "blocks": [
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:a019"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-beeeba1ede11-c001:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "在聆听交换意见时不要试图教孩子做什么",
+      "atom_ids": [
+        "s-beeeba1ede11-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-beeeba1ede11",
+          "blocks": [
+            "b00007",
+            "b00008"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

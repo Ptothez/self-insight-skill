@@ -1,0 +1,4234 @@
+{
+  "concepts": [
+    {
+      "name": "早恋",
+      "definition": "青少年阶段早期开始涉足恋爱关系的现象，通常发生在13到17岁之间，具体萌芽期因孩子成熟度而异。早恋是中性词，不应被视为贬义，与晚恋一样只是形容情窦初开的年龄差异。",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:a001",
+        "s-f85039d56ba9-c001:r001",
+        "s-f85039d56ba9-c001:r002"
+      ]
+    },
+    {
+      "name": "健康的早恋",
+      "definition": "父母有参与、孩子被预备好、在安全环境中、有界限且关系健康的早恋。这种早恋对孩子有正面影响。",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:a002",
+        "s-f85039d56ba9-c001:a006",
+        "s-f85039d56ba9-c001:r003",
+        "s-f85039d56ba9-c001:r004",
+        "s-f85039d56ba9-c001:r005",
+        "s-f85039d56ba9-c001:r006",
+        "s-f85039d56ba9-c001:r007",
+        "s-f85039d56ba9-c001:r008"
+      ]
+    },
+    {
+      "name": "早恋动机",
+      "definition": "孩子想要早恋的原因包括缺乏家庭温暖、缺乏归属感、好奇尝试新鲜关系等。其中好奇尝试新鲜关系是唯一健康的原因，前提是家庭温暖、孩子被接纳、父母婚姻幸福。",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:a005",
+        "s-f85039d56ba9-c001:a007",
+        "s-f85039d56ba9-c001:r009",
+        "s-f85039d56ba9-c002:a001",
+        "s-f85039d56ba9-c002:a002",
+        "s-f85039d56ba9-c002:a003",
+        "s-f85039d56ba9-c002:a004",
+        "s-f85039d56ba9-c002:a005"
+      ]
+    },
+    {
+      "name": "家庭参与",
+      "definition": "父母应参与孩子的恋爱，而不是禁止。让孩子在父母眼皮底下谈恋爱，父母和孩子都感到安全，不用互相防备。父母参与可以降低孩子出问题的频率。",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:a009",
+        "s-f85039d56ba9-c001:r012",
+        "s-f85039d56ba9-c001:r013",
+        "s-f85039d56ba9-c003:a032",
+        "s-f85039d56ba9-c004:a007"
+      ]
+    },
+    {
+      "name": "父母角色",
+      "definition": "在预备期，父母的角色是老师，负责教孩子理论知识、基本功和技能技巧；当孩子开始谈恋爱后，父母的角色从老师转变为教练，教练不上场，但在旁边盯着孩子，根据孩子的表现进行布局和指挥。",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a016",
+        "s-f85039d56ba9-c003:a030",
+        "s-f85039d56ba9-c003:a031",
+        "s-f85039d56ba9-c003:r003",
+        "s-f85039d56ba9-c004:a020",
+        "s-f85039d56ba9-c004:a023",
+        "s-f85039d56ba9-c004:a024"
+      ]
+    },
+    {
+      "name": "恋爱阶段",
+      "definition": "恋爱分为四个时期：热恋期、磨合期、冷静期、成熟期。热恋期不做重大决定；磨合期不分手（除非人品差或暴力）；冷静期可以做分手的决定，但不做结婚的决定；成熟期可以做结婚或分手的决定。",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a024",
+        "s-f85039d56ba9-c002:a025",
+        "s-f85039d56ba9-c002:a026",
+        "s-f85039d56ba9-c002:a027",
+        "s-f85039d56ba9-c002:r010",
+        "s-f85039d56ba9-c002:r011",
+        "s-f85039d56ba9-c002:r012",
+        "s-f85039d56ba9-c002:r013",
+        "s-f85039d56ba9-c002:r014",
+        "s-f85039d56ba9-c003:a001",
+        "s-f85039d56ba9-c003:a002",
+        "s-f85039d56ba9-c003:a007",
+        "s-f85039d56ba9-c003:a008",
+        "s-f85039d56ba9-c003:a009",
+        "s-f85039d56ba9-c003:a012",
+        "s-f85039d56ba9-c003:a014",
+        "s-f85039d56ba9-c003:a015",
+        "s-f85039d56ba9-c003:a016",
+        "s-f85039d56ba9-c003:a017"
+      ]
+    },
+    {
+      "name": "界限",
+      "definition": "在恋爱中需要设立身体界限、心理界限、语言界限。身体界限包括不在单独密闭空间相处；心理界限包括敢于拒绝；语言界限包括注意对方是否PUA。这些界限需要反复训练。",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a023",
+        "s-f85039d56ba9-c003:a024",
+        "s-f85039d56ba9-c003:a028",
+        "s-f85039d56ba9-c003:a029",
+        "s-f85039d56ba9-c003:r001",
+        "s-f85039d56ba9-c005:a004"
+      ]
+    },
+    {
+      "name": "支持策略",
+      "definition": "父母在孩子谈恋爱时，无论是否愿意或喜欢孩子的对象，支持都是最好的选择。支持包括经济支持、情绪支持、关系支持等。通过支持获得孩子的信任和影响力，从而进行战术性布局。",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:r003",
+        "s-f85039d56ba9-c004:a001",
+        "s-f85039d56ba9-c004:a002",
+        "s-f85039d56ba9-c004:a003",
+        "s-f85039d56ba9-c004:a005",
+        "s-f85039d56ba9-c004:a010",
+        "s-f85039d56ba9-c004:a021"
+      ]
+    },
+    {
+      "name": "观察与危机",
+      "definition": "父母要观察孩子的心理需求、恋爱心态和危机。危机包括过于执着、提出过分要求、嫉妒操控、情绪波动、敌视父母等。发现危机时父母要立刻参与或喊停。",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a011",
+        "s-f85039d56ba9-c004:a012",
+        "s-f85039d56ba9-c004:a013",
+        "s-f85039d56ba9-c004:a014",
+        "s-f85039d56ba9-c004:a017",
+        "s-f85039d56ba9-c004:a018",
+        "s-f85039d56ba9-c004:a019",
+        "s-f85039d56ba9-c004:a022"
+      ]
+    },
+    {
+      "name": "择偶标准",
+      "definition": "恋爱中应重视外表、经济条件、家庭背景等。喜欢和需要是两回事，理想的伴侣是60%的喜欢加90%的需要。判断对方挣钱能力要看其是否已经表现出挣钱的意识和潜力。",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a002",
+        "s-f85039d56ba9-c005:a005",
+        "s-f85039d56ba9-c005:a006",
+        "s-f85039d56ba9-c005:a009",
+        "s-f85039d56ba9-c005:a010",
+        "s-f85039d56ba9-c006:a003",
+        "s-f85039d56ba9-c006:a008"
+      ]
+    },
+    {
+      "name": "性教育",
+      "definition": "性教育应直接、明确地进行，不应委婉。需要告诉孩子不能发生性关系，同时也要讲解避孕方法。性行为是美好的，不羞耻。",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a004",
+        "s-f85039d56ba9-c007:a005",
+        "s-f85039d56ba9-c007:r003",
+        "s-f85039d56ba9-c007:r004"
+      ]
+    },
+    {
+      "name": "原生家庭影响",
+      "definition": "家庭背景对孩子的人格形成至关重要。家庭不幸福的孩子更容易早恋，并在恋爱中受伤。父母婚姻幸福影响孩子择偶。原生家庭影响择偶年龄差。",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:r011",
+        "s-f85039d56ba9-c007:a006",
+        "s-f85039d56ba9-c007:a008"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-f85039d56ba9-c001:a001",
+      "target": "s-f85039d56ba9-c001:r001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都强调早恋是中性词，不应被视为贬义，只是形容情窦初开的年龄差异。"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:a002",
+      "target": "s-f85039d56ba9-c001:a006",
+      "kind": "causes",
+      "condition": "健康的早恋",
+      "reason": "健康的早恋（k00002）对孩子有正面影响，具体包括减少攻击性和冒险行为、改善冲突管理等（k00006）。"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:a005",
+      "target": "s-f85039d56ba9-c001:a007",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都指出家庭不幸福导致孩子早恋，k00005强调疗愈情绪创伤，k00007强调缺乏家庭温暖。"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:a007",
+      "target": "s-f85039d56ba9-c001:r009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00007指出缺乏家庭温暖导致早恋，k00019进一步解释缺乏归属感导致孩子向外寻求接纳。"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a001",
+      "target": "s-f85039d56ba9-c002:a002",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "k00025说明家庭不幸福导致早恋，k00026说明家庭温暖降低早恋冲动，两者形成对比。"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a004",
+      "target": "s-f85039d56ba9-c002:a005",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都指出好奇尝试新鲜关系是唯一健康的原因，前提是家庭温暖、孩子被接纳、父母婚姻幸福。"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a016",
+      "target": "s-f85039d56ba9-c003:a030",
+      "kind": "step_of",
+      "condition": "孩子开始谈恋爱后",
+      "reason": "k00040说明预备期父母角色是老师，k00095说明孩子开始谈恋爱后父母角色转变为教练，两者是不同阶段的角色。"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a024",
+      "target": "s-f85039d56ba9-c002:a025",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都强调热恋期不做重大决定，k00048具体说明热恋期特征，k00049强调不做决定的原因。"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a026",
+      "target": "s-f85039d56ba9-c002:a027",
+      "kind": "causes",
+      "condition": null,
+      "reason": "k00050说明磨合期特征导致分手，k00051说明磨合期分手是正常现象。"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a007",
+      "target": "s-f85039d56ba9-c003:a008",
+      "kind": "step_of",
+      "condition": "冷静期",
+      "reason": "k00072说明冷静期特征，k00073说明冷静期要练习沟通和处理矛盾，是冷静期的任务。"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a009",
+      "target": "s-f85039d56ba9-c003:a010",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00074说明冷静期要分辨感情类型，k00075说明喜欢是经过衡量的，支持分辨的方法。"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a012",
+      "target": "s-f85039d56ba9-c003:a014",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都强调恋爱四个时期的重要性，k00077说明成熟期是谈婚论嫁阶段，k00079说明度过四个时期再结婚幸福可能性大。"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a017",
+      "target": "s-f85039d56ba9-c003:a016",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00082给出各时期关于结婚和分手的规则，k00081说明磨合期分手的例外情况，两者一致。"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a023",
+      "target": "s-f85039d56ba9-c003:a024",
+      "kind": "step_of",
+      "condition": "设立界限",
+      "reason": "k00088说明身体界限，k00089说明心理界限，两者都是界限的一部分。"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a024",
+      "target": "s-f85039d56ba9-c003:a025",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00090是未婚怀孕案例，说明心理界限缺失的后果，是k00089心理界限重要性的例证。"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a026",
+      "target": "s-f85039d56ba9-c003:a027",
+      "kind": "causes",
+      "condition": null,
+      "reason": "k00091说明训练孩子说不的勇气需要父母服软，k00092说明父母强势对孩子说不能力的影响，两者相关。"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a028",
+      "target": "s-f85039d56ba9-c003:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都涉及PUA等语言界限，k00093说明语言界限，k00068说明磨合期观察对方品性包括PUA。"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a030",
+      "target": "s-f85039d56ba9-c003:a031",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00095说明父母角色转变为教练，k00096用梅西和教练的比喻支持这一观点。"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a032",
+      "target": "s-f85039d56ba9-c001:a009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都强调让孩子在父母眼皮底下谈恋爱，k00097从教练角度说明原因，k00009从安全感角度说明。"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:r003",
+      "target": "s-f85039d56ba9-c004:a001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都强调支持孩子谈恋爱是父母最好的选择，k00100从教练角度说明，k00101详细解释原因。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a001",
+      "target": "s-f85039d56ba9-c004:a002",
+      "kind": "causes",
+      "condition": "父母之前与孩子关系不好",
+      "reason": "k00101说明支持可以获得影响力，k00102说明支持可以修复亲子关系，是支持的好处之一。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a003",
+      "target": "s-f85039d56ba9-c004:a004",
+      "kind": "example_of",
+      "condition": "提供场地是经济支持的具体例证",
+      "reason": "学员提供场地支持孩子恋爱的案例是经济上支持孩子谈恋爱中提供资源的具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "方向正确，关系成立。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a005",
+      "target": "s-f85039d56ba9-c004:a005",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调情绪上支持孩子，拿掉羞耻感。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a007",
+      "target": "s-f85039d56ba9-c004:a007",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调以欢迎姿态邀请孩子对象到家中。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a008",
+      "target": "s-f85039d56ba9-c004:a008",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调获得孩子对象的喜欢有助于亲子关系和获得信息。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a009",
+      "target": "s-f85039d56ba9-c004:a009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都用教练收集对手信息的类比说明父母要收集孩子恋爱信息。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a010",
+      "target": "s-f85039d56ba9-c004:a010",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调关系上支持孩子谈恋爱，引导孩子处理关系。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a011",
+      "target": "s-f85039d56ba9-c004:a011",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调观察孩子的心理需求。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a012",
+      "target": "s-f85039d56ba9-c004:a012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调观察孩子恋爱中的心态。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a013",
+      "target": "s-f85039d56ba9-c004:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调发现恋爱中的危机：过于执着。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a014",
+      "target": "s-f85039d56ba9-c004:a014",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调发现恋爱中的危机：提出过分要求，如发裸照。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a017",
+      "target": "s-f85039d56ba9-c004:a017",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调发现恋爱中的危机：嫉妒和操控。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a018",
+      "target": "s-f85039d56ba9-c004:a018",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调发现恋爱中的危机：情绪波动。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a019",
+      "target": "s-f85039d56ba9-c004:a019",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调发现恋爱中的危机：敌视父母。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a020",
+      "target": "s-f85039d56ba9-c004:a020",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调父母要像教练一样布局和指挥。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a021",
+      "target": "s-f85039d56ba9-c004:a021",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调通过支持获得信息以进行布局。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a022",
+      "target": "s-f85039d56ba9-c004:a022",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调观察是父母的重要职责。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a023",
+      "target": "s-f85039d56ba9-c004:a023",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调父母要教导孩子如何谈恋爱。"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a024",
+      "target": "s-f85039d56ba9-c004:a024",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调父母要操练孩子。"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:a001",
+      "target": "s-f85039d56ba9-c004:a023",
+      "kind": "step_of",
+      "condition": "孩子约会后",
+      "reason": "恋爱复盘教导法是父母教导孩子如何谈恋爱的具体步骤，属于步骤关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:a002",
+      "target": "s-f85039d56ba9-c005:a003",
+      "kind": "example_of",
+      "condition": "讲师个人案例说明喜欢与需要的区别",
+      "reason": "讲师个人案例具体展示了喜欢与需要的区别，是喜欢与需要的区别的例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向从概念到案例，但example_of应为案例指概念，已修正为example_of以表达正确关系。"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:a004",
+      "target": "s-f85039d56ba9-c003:a024",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都强调界限和拒绝，k00152教对方如何对待自己，k00089心理界限敢于拒绝。"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:a005",
+      "target": "s-f85039d56ba9-c005:a010",
+      "kind": "supports",
+      "condition": "两者均强调外表的重要性",
+      "reason": "恋爱避坑：重视外表的命题强调对方在了解内在之前先看到外表；恋爱避坑：外表与内在并重的命题也承认外表是吸引的先决条件，并补充内在的重要性，两者相互支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "关系成立。"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:a006",
+      "target": "s-f85039d56ba9-c005:a008",
+      "kind": "contrasts",
+      "condition": "",
+      "reason": "“恋爱避坑：重视经济条件”主张父母应教导孩子看重对方的经济能力和优秀程度，而“客人母亲反对其与有钱男友交往”案例中母亲因对方有钱而反对，认为有钱人都不是好人，讲师指出这是认知错误。该案例与重视经济条件的主张形成对比，说明片面否定有钱对象并非正确教导。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "对比关系成立，案例作为与主张相对的情形。"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:a009",
+      "target": "s-f85039d56ba9-c005:a009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调重视家庭背景，特别是精神疾病。"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:a012",
+      "target": "s-f85039d56ba9-c006:a001",
+      "kind": "supports",
+      "condition": "",
+      "reason": "“父母一方有精神疾病，子女如何预备婚姻”与“父母一方有精神疾病时子女预备婚姻的方法”内容一致，都指出需要专属心理辅导和对自身情绪敏感。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": "两命题内容重复，支持关系成立。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a002",
+      "target": "s-f85039d56ba9-c006:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都区分心理问题与精神问题。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a003",
+      "target": "s-f85039d56ba9-c006:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明判断恋爱对象挣钱潜力的方法。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a004",
+      "target": "s-f85039d56ba9-c006:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明父母带孩子约会不会形成完美形象期待。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a005",
+      "target": "s-f85039d56ba9-c006:a005",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明孩子失恋走不出来的原因与预防。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a006",
+      "target": "s-f85039d56ba9-c006:a006",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都解释“在眼皮子底下相处”的含义。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a007",
+      "target": "s-f85039d56ba9-c006:a007",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调精神问题中的被害妄想绝对不能接受。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a008",
+      "target": "s-f85039d56ba9-c006:a008",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调男孩找对象也应考虑对方挣钱能力。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a009",
+      "target": "s-f85039d56ba9-c006:a009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调孩子信任教练才会听从喊停。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a010",
+      "target": "s-f85039d56ba9-c006:a010",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都是二年级孩子说喜欢班里男生的案例。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a011",
+      "target": "s-f85039d56ba9-c006:a011",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明孩子早熟情况越来越多。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a012",
+      "target": "s-f85039d56ba9-c006:a012",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都是孩子被冤枉告老师后的沟通方法案例。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a013",
+      "target": "s-f85039d56ba9-c006:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明信仰因素由孩子自己考虑。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a014",
+      "target": "s-f85039d56ba9-c006:a014",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都是婆婆强求信仰匹配导致儿子出轨的案例。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a015",
+      "target": "s-f85039d56ba9-c006:a015",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明十岁孩子喜欢异性是意识觉醒。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a016",
+      "target": "s-f85039d56ba9-c006:a016",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都是女儿找条件不行但体贴的男友的案例。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a017",
+      "target": "s-f85039d56ba9-c006:a017",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都是阿姨拆散儿子恋爱导致儿子不婚的案例。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a018",
+      "target": "s-f85039d56ba9-c006:a018",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明打开孩子心扉的方法。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a019",
+      "target": "s-f85039d56ba9-c006:a019",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都是帮助女儿避免暴力男友的方法。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a020",
+      "target": "s-f85039d56ba9-c006:a020",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明孩子拥抱行为的处理。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a021",
+      "target": "s-f85039d56ba9-c006:a021",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都是高一女孩谈论姑姑二婚的案例。"
+    },
+    {
+      "source": "s-f85039d56ba9-c006:a022",
+      "target": "s-f85039d56ba9-c006:a022",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明爸爸带女儿约会表现绅士的频率。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a001",
+      "target": "s-f85039d56ba9-c007:a001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明父亲示范绅士行为影响子女。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a002",
+      "target": "s-f85039d56ba9-c007:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明父亲不照顾母亲对女儿的影响。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a003",
+      "target": "s-f85039d56ba9-c007:a003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明父亲与女儿正式约会的方法。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a004",
+      "target": "s-f85039d56ba9-c007:r003",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调性教育应包含避孕知识。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a004",
+      "target": "s-f85039d56ba9-c007:r004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调性教育应直接明确。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a005",
+      "target": "s-f85039d56ba9-c007:a005",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都强调性行为是美好的。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a006",
+      "target": "s-f85039d56ba9-c007:a006",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明原生家庭影响择偶年龄差。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a007",
+      "target": "s-f85039d56ba9-c007:a007",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都是男性选择大15岁伴侣的案例。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a008",
+      "target": "s-f85039d56ba9-c007:a008",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明父母婚姻幸福影响孩子择偶。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a009",
+      "target": "s-f85039d56ba9-c007:a009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明青少年开始恋爱的教育时机。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a010",
+      "target": "s-f85039d56ba9-c007:r005",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明父母无法控制孩子恋爱行为。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a011",
+      "target": "s-f85039d56ba9-c007:a011",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明与孩子列清单预备恋爱。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a012",
+      "target": "s-f85039d56ba9-c007:r001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明了解对方家庭精神疾病的提问技巧。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a013",
+      "target": "s-f85039d56ba9-c007:r002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者都涉及通过观察判断对方家庭背景，k00218是具体案例，k00224是讲师声称的能力。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a014",
+      "target": "s-f85039d56ba9-c007:a014",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明温暖家庭减少孩子依赖关系。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a015",
+      "target": "s-f85039d56ba9-c007:a015",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明父母预备孩子的三个关键点。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a016",
+      "target": "s-f85039d56ba9-c007:a016",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明讲座后实践建议。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a017",
+      "target": "s-f85039d56ba9-c007:a017",
+      "kind": "supports",
+      "condition": null,
+      "reason": "两者内容相同，都说明孩子约会应是想要而非需要。"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:xe001",
+      "target": "s-f85039d56ba9-c007:a005",
+      "kind": "association",
+      "condition": "",
+      "reason": "“人的爱是必要的，不应过度属灵化”与“性行为是美好的”都涉及对性和爱的积极态度，但两者主题不同，没有直接的论证支持关系，仅共享类似的正面视角。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系过强，改为关联。"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:v2-n001",
+      "target": "s-f85039d56ba9-c001:a003",
+      "kind": "complements",
+      "condition": "在早恋对学业影响的文化因素上",
+      "reason": "source 提到早恋影响取决于家庭文化背景，candidate 详细说明不同文化下早恋对学业的影响差异，补充了研究依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:a003",
+      "target": "s-f85039d56ba9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在早恋对学业影响的文化因素上",
+      "reason": "source 提到早恋影响取决于家庭文化背景，candidate 详细说明不同文化下早恋对学业的影响差异，补充了研究依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:v2-n001",
+      "target": "s-f85039d56ba9-c001:r012",
+      "kind": "complements",
+      "condition": "在父母参与早恋的做法上",
+      "reason": "source 建议转向参与和引导，candidate 明确指出父母应参与孩子的恋爱而不是禁止，并说明参与能降低问题频率。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:r012",
+      "target": "s-f85039d56ba9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在父母参与早恋的做法上",
+      "reason": "source 建议转向参与和引导，candidate 明确指出父母应参与孩子的恋爱而不是禁止，并说明参与能降低问题频率。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:v2-n001",
+      "target": "s-f85039d56ba9-c001:a002",
+      "kind": "complements",
+      "condition": "在健康早恋的定义上",
+      "reason": "source 建议参与和引导，candidate 定义健康早恋需父母参与、孩子被预备好等，补充了健康早恋的具体条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:a002",
+      "target": "s-f85039d56ba9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在健康早恋的定义上",
+      "reason": "source 建议参与和引导，candidate 定义健康早恋需父母参与、孩子被预备好等，补充了健康早恋的具体条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:v2-n001",
+      "target": "s-f85039d56ba9-c004:a005",
+      "kind": "complements",
+      "condition": "在情绪支持上",
+      "reason": "source 强调参与和引导，candidate 提出情绪上支持孩子、拿掉羞耻感，是参与引导的一个具体方面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a005",
+      "target": "s-f85039d56ba9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在情绪支持上",
+      "reason": "source 强调参与和引导，candidate 提出情绪上支持孩子、拿掉羞耻感，是参与引导的一个具体方面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:v2-n001",
+      "target": "s-f85039d56ba9-c001:a009",
+      "kind": "complements",
+      "condition": "在参与引导的具体方式上",
+      "reason": "source 建议参与和引导，candidate 提出让孩子在父母眼皮底下谈恋爱，是一种具体实施方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:a009",
+      "target": "s-f85039d56ba9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在参与引导的具体方式上",
+      "reason": "source 建议参与和引导，candidate 提出让孩子在父母眼皮底下谈恋爱，是一种具体实施方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:v2-n001",
+      "target": "s-f85039d56ba9-c002:a014",
+      "kind": "association",
+      "condition": "在父母错误处理方式上",
+      "reason": "source 反对直接禁止，candidate 反对情绪化处理，两者都是应避免的行为，但具体错误不同，关联一般。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a014",
+      "target": "s-f85039d56ba9-c001:v2-n001",
+      "kind": "association",
+      "condition": "在父母错误处理方式上",
+      "reason": "source 反对直接禁止，candidate 反对情绪化处理，两者都是应避免的行为，但具体错误不同，关联一般。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:v2-n001",
+      "target": "s-f85039d56ba9-c002:a005",
+      "kind": "association",
+      "condition": "在健康早恋的前提上",
+      "reason": "candidate 提出健康早恋唯一健康原因是尝试新鲜关系且家庭温暖，source 讲参与引导，两者都涉及健康早恋条件，但角度不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a005",
+      "target": "s-f85039d56ba9-c001:v2-n001",
+      "kind": "association",
+      "condition": "在健康早恋的前提上",
+      "reason": "candidate 提出健康早恋唯一健康原因是尝试新鲜关系且家庭温暖，source 讲参与引导，两者都涉及健康早恋条件，但角度不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n001",
+      "target": "s-f85039d56ba9-c004:a023",
+      "kind": "prerequisite",
+      "condition": "在处理早恋的流程中",
+      "reason": "source 强调先预备父母和明确不做之事是后续教导孩子如何谈恋爱的前提，candidate 是教导的具体内容，因此 source 是 candidate 的前置步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a023",
+      "target": "s-f85039d56ba9-c002:v2-n001",
+      "kind": "requires",
+      "condition": "在处理早恋的流程中",
+      "reason": "source 强调先预备父母和明确不做之事是后续教导孩子如何谈恋爱的前提，candidate 是教导的具体内容，因此 source 是 candidate 的前置步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n001",
+      "target": "s-f85039d56ba9-c002:a009",
+      "kind": "complements",
+      "condition": "在绝对不能做的事上",
+      "reason": "source 要求先明确绝对不能做的事，candidate 列出忽视沉默是其中之一，补充了具体禁止行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a009",
+      "target": "s-f85039d56ba9-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在绝对不能做的事上",
+      "reason": "source 要求先明确绝对不能做的事，candidate 列出忽视沉默是其中之一，补充了具体禁止行为。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n001",
+      "target": "s-f85039d56ba9-c002:a014",
+      "kind": "complements",
+      "condition": "在绝对不能做的事上",
+      "reason": "同上，情绪化处理是 source 所指绝对不能做的一种，candidate 提供了具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a014",
+      "target": "s-f85039d56ba9-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在绝对不能做的事上",
+      "reason": "同上，情绪化处理是 source 所指绝对不能做的一种，candidate 提供了具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n001",
+      "target": "s-f85039d56ba9-c002:a015",
+      "kind": "complements",
+      "condition": "在绝对不能做的事上",
+      "reason": "偷窥孩子隐私也是绝对不能做之一，candidate 补充了后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a015",
+      "target": "s-f85039d56ba9-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在绝对不能做的事上",
+      "reason": "偷窥孩子隐私也是绝对不能做之一，candidate 补充了后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n001",
+      "target": "s-f85039d56ba9-c002:a010",
+      "kind": "complements",
+      "condition": "在绝对不能做的事上",
+      "reason": "过于保护孩子是 source 所反对的行为之一，candidate 补充了具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a010",
+      "target": "s-f85039d56ba9-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在绝对不能做的事上",
+      "reason": "过于保护孩子是 source 所反对的行为之一，candidate 补充了具体表现。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n001",
+      "target": "s-f85039d56ba9-c002:a013",
+      "kind": "complements",
+      "condition": "在绝对不能做的事上",
+      "reason": "敌视孩子的恋爱对象也是禁止行为，candidate 补充了具体表现和后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a013",
+      "target": "s-f85039d56ba9-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在绝对不能做的事上",
+      "reason": "敌视孩子的恋爱对象也是禁止行为，candidate 补充了具体表现和后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n001",
+      "target": "s-f85039d56ba9-c007:a011",
+      "kind": "association",
+      "condition": "在预备孩子的具体方法上",
+      "reason": "source 是先预备父母，candidate 是列清单预备孩子，两者都是预备但对象不同，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a011",
+      "target": "s-f85039d56ba9-c002:v2-n001",
+      "kind": "association",
+      "condition": "在预备孩子的具体方法上",
+      "reason": "source 是先预备父母，candidate 是列清单预备孩子，两者都是预备但对象不同，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n001",
+      "target": "s-f85039d56ba9-c005:a001",
+      "kind": "association",
+      "condition": "在教导孩子如何谈恋爱上",
+      "reason": "source 先做不做之事，candidate 是恋爱复盘教导法，属于需要做的事之一，两者顺序相关但不确定直接前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:a001",
+      "target": "s-f85039d56ba9-c002:v2-n001",
+      "kind": "association",
+      "condition": "在教导孩子如何谈恋爱上",
+      "reason": "source 先做不做之事，candidate 是恋爱复盘教导法，属于需要做的事之一，两者顺序相关但不确定直接前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n001",
+      "target": "s-f85039d56ba9-c007:a015",
+      "kind": "association",
+      "condition": "在预备孩子的关键点上",
+      "reason": "candidate 提出三个关键点，source 聚焦先预备父母，角度不同但同属预备范畴。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a015",
+      "target": "s-f85039d56ba9-c002:v2-n001",
+      "kind": "association",
+      "condition": "在预备孩子的关键点上",
+      "reason": "candidate 提出三个关键点，source 聚焦先预备父母，角度不同但同属预备范畴。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n001",
+      "target": "s-f85039d56ba9-c004:a002",
+      "kind": "association",
+      "condition": "在支持孩子谈恋爱的好处上",
+      "reason": "source 未涉及修复亲子关系，candidate 提出支持可修复关系，属于可能的好处，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a002",
+      "target": "s-f85039d56ba9-c002:v2-n001",
+      "kind": "association",
+      "condition": "在支持孩子谈恋爱的好处上",
+      "reason": "source 未涉及修复亲子关系，candidate 提出支持可修复关系，属于可能的好处，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n001",
+      "target": "s-f85039d56ba9-c004:a010",
+      "kind": "association",
+      "condition": "在关系支持上",
+      "reason": "candidate 是具体的关系引导，属于需要做的事，但 source 强调先不做之事，关联不直接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a010",
+      "target": "s-f85039d56ba9-c002:v2-n001",
+      "kind": "association",
+      "condition": "在关系支持上",
+      "reason": "candidate 是具体的关系引导，属于需要做的事，但 source 强调先不做之事，关联不直接。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n002",
+      "target": "s-f85039d56ba9-c002:a024",
+      "kind": "complements",
+      "condition": "在热恋期特征和注意事项上",
+      "reason": "source 提到热恋期，candidate 详细描述热恋期表现并强调不要做重大决定，补充了具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a024",
+      "target": "s-f85039d56ba9-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在热恋期特征和注意事项上",
+      "reason": "source 提到热恋期，candidate 详细描述热恋期表现并强调不要做重大决定，补充了具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n002",
+      "target": "s-f85039d56ba9-c002:a026",
+      "kind": "complements",
+      "condition": "在磨合期特征和注意事项上",
+      "reason": "source 提到磨合期，candidate 详细描述磨合期矛盾和危险信号，补充了具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a026",
+      "target": "s-f85039d56ba9-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在磨合期特征和注意事项上",
+      "reason": "source 提到磨合期，candidate 详细描述磨合期矛盾和危险信号，补充了具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n002",
+      "target": "s-f85039d56ba9-c007:a011",
+      "kind": "association",
+      "condition": "在预备孩子恋爱的方式上",
+      "reason": "source 是通过讲解阶段来预备，candidate 是通过列清单预备，方法不同但目标相同，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a011",
+      "target": "s-f85039d56ba9-c002:v2-n002",
+      "kind": "association",
+      "condition": "在预备孩子恋爱的方式上",
+      "reason": "source 是通过讲解阶段来预备，candidate 是通过列清单预备，方法不同但目标相同，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n002",
+      "target": "s-f85039d56ba9-c007:a015",
+      "kind": "association",
+      "condition": "在预备孩子的关键点上",
+      "reason": "candidate 包含从早期预备孩子，source 也是早期预备阶段知识，但侧重点不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c007:a015",
+      "target": "s-f85039d56ba9-c002:v2-n002",
+      "kind": "association",
+      "condition": "在预备孩子的关键点上",
+      "reason": "candidate 包含从早期预备孩子，source 也是早期预备阶段知识，但侧重点不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n002",
+      "target": "s-f85039d56ba9-c002:a018",
+      "kind": "association",
+      "condition": "在评估孩子认知度上",
+      "reason": "source 是教授阶段知识，candidate 是评估孩子现有认知，两者不同但都涉及了解孩子恋爱认知。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a018",
+      "target": "s-f85039d56ba9-c002:v2-n002",
+      "kind": "association",
+      "condition": "在评估孩子认知度上",
+      "reason": "source 是教授阶段知识，candidate 是评估孩子现有认知，两者不同但都涉及了解孩子恋爱认知。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n001",
+      "target": "s-f85039d56ba9-c002:r010",
+      "kind": "complements",
+      "condition": "在热恋期特征描述上",
+      "reason": "source 描述热恋期表现，candidate 几乎一致地描述了相同特征，补充了细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:r010",
+      "target": "s-f85039d56ba9-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在热恋期特征描述上",
+      "reason": "source 描述热恋期表现，candidate 几乎一致地描述了相同特征，补充了细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n001",
+      "target": "s-f85039d56ba9-c002:a024",
+      "kind": "complements",
+      "condition": "在热恋期阶段定义上",
+      "reason": "candidate 将热恋期定义为第一阶段，并补充了不要做重大决定的具体例子，扩展了 source 的内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a024",
+      "target": "s-f85039d56ba9-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在热恋期阶段定义上",
+      "reason": "candidate 将热恋期定义为第一阶段，并补充了不要做重大决定的具体例子，扩展了 source 的内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n001",
+      "target": "s-f85039d56ba9-c002:r011",
+      "kind": "complements",
+      "condition": "在重大决定的具体内容上",
+      "reason": "source 提到不要做重大决定，candidate 明确列出重大决定包括发生性关系和认定伴侣，补充了具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:r011",
+      "target": "s-f85039d56ba9-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在重大决定的具体内容上",
+      "reason": "source 提到不要做重大决定，candidate 明确列出重大决定包括发生性关系和认定伴侣，补充了具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n001",
+      "target": "s-f85039d56ba9-c002:a025",
+      "kind": "complements",
+      "condition": "在热恋期不做决定的原则上",
+      "reason": "candidate 进一步解释头脑发热不做决定，并要从小扎根，补充了长期教育意义。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a025",
+      "target": "s-f85039d56ba9-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在热恋期不做决定的原则上",
+      "reason": "candidate 进一步解释头脑发热不做决定，并要从小扎根，补充了长期教育意义。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n001",
+      "target": "s-f85039d56ba9-c003:a015",
+      "kind": "complements",
+      "condition": "在热恋期不做任何决定上",
+      "reason": "candidate 强调即使觉得非他不嫁也不做决定，并重复头脑发热原则，补充了强化内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a015",
+      "target": "s-f85039d56ba9-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在热恋期不做任何决定上",
+      "reason": "candidate 强调即使觉得非他不嫁也不做决定，并重复头脑发热原则，补充了强化内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n001",
+      "target": "s-f85039d56ba9-c003:v2-n002",
+      "kind": "example_of",
+      "condition": "在热恋期这种狂热状态下",
+      "reason": "source 描述热恋期狂热并建议不做重大决定，candidate 提出通用原则：头脑发热时不作决定，source 是该原则在热恋期的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n002",
+      "target": "s-f85039d56ba9-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "在热恋期这种狂热状态下",
+      "reason": "source 描述热恋期狂热并建议不做重大决定，candidate 提出通用原则：头脑发热时不作决定，source 是该原则在热恋期的具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n001",
+      "target": "s-f85039d56ba9-c003:a013",
+      "kind": "association",
+      "condition": "在热恋期结婚风险案例上",
+      "reason": "candidate 提供大S汪小菲闪婚案例，支持 source 中不要做重大决定的观点，但案例本身不是直接关系类型，故用关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a013",
+      "target": "s-f85039d56ba9-c003:v2-n001",
+      "kind": "association",
+      "condition": "在热恋期结婚风险案例上",
+      "reason": "candidate 提供大S汪小菲闪婚案例，支持 source 中不要做重大决定的观点，但案例本身不是直接关系类型，故用关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n001",
+      "target": "s-f85039d56ba9-c002:v2-n002",
+      "kind": "association",
+      "condition": "在父母预备孩子了解热恋期上",
+      "reason": "source 是热恋期知识，candidate 是父母应预备孩子了解阶段，source 是其中内容，但方向不明确，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:v2-n002",
+      "target": "s-f85039d56ba9-c003:v2-n001",
+      "kind": "association",
+      "condition": "在父母预备孩子了解热恋期上",
+      "reason": "source 是热恋期知识，candidate 是父母应预备孩子了解阶段，source 是其中内容，但方向不明确，关联有限。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n001",
+      "target": "s-f85039d56ba9-c003:a017",
+      "kind": "complements",
+      "condition": "在热恋期结婚规则上",
+      "reason": "candidate 提出热恋期不结婚的规则，与 source 中不要在热恋期做重大决定一致，补充了具体规则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a017",
+      "target": "s-f85039d56ba9-c003:v2-n001",
+      "kind": "complements",
+      "condition": "在热恋期结婚规则上",
+      "reason": "candidate 提出热恋期不结婚的规则，与 source 中不要在热恋期做重大决定一致，补充了具体规则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n002",
+      "target": "s-f85039d56ba9-c002:a025",
+      "kind": "complements",
+      "condition": "热恋期",
+      "reason": "候选具体说明在热恋期头脑发热时不要做决定，尤其是重大决定如发生性关系或认定终身伴侣，并强调应从小扎根，补充了source原则在热恋期的具体应用和重大决定的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a025",
+      "target": "s-f85039d56ba9-c003:v2-n002",
+      "kind": "complements",
+      "condition": "热恋期",
+      "reason": "候选具体说明在热恋期头脑发热时不要做决定，尤其是重大决定如发生性关系或认定终身伴侣，并强调应从小扎根，补充了source原则在热恋期的具体应用和重大决定的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n002",
+      "target": "s-f85039d56ba9-c003:a015",
+      "kind": "complements",
+      "condition": "热恋期",
+      "reason": "候选进一步明确热恋期不做任何重大决定，列举发生性关系、认定一辈子伴侣等，并重申父母要从小扎根，补充了source中“不做决定”的具体范围和内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a015",
+      "target": "s-f85039d56ba9-c003:v2-n002",
+      "kind": "complements",
+      "condition": "热恋期",
+      "reason": "候选进一步明确热恋期不做任何重大决定，列举发生性关系、认定一辈子伴侣等，并重申父母要从小扎根，补充了source中“不做决定”的具体范围和内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n002",
+      "target": "s-f85039d56ba9-c003:v2-n001",
+      "kind": "complements",
+      "condition": "热恋期",
+      "reason": "候选补充了热恋期的特征表现（满脑子对方、24小时粘在一起），并强调不要做重大决定，从而为source中的狂热状态提供具体描述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n001",
+      "target": "s-f85039d56ba9-c003:v2-n002",
+      "kind": "complements",
+      "condition": "热恋期",
+      "reason": "候选补充了热恋期的特征表现（满脑子对方、24小时粘在一起），并强调不要做重大决定，从而为source中的狂热状态提供具体描述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n002",
+      "target": "s-f85039d56ba9-c002:r011",
+      "kind": "complements",
+      "condition": "热恋期",
+      "reason": "候选具体列出热恋期不要做的重大决定（发生性关系、认定对方是一辈子的人），是对source原则的直接具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:r011",
+      "target": "s-f85039d56ba9-c003:v2-n002",
+      "kind": "complements",
+      "condition": "热恋期",
+      "reason": "候选具体列出热恋期不要做的重大决定（发生性关系、认定对方是一辈子的人），是对source原则的直接具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n002",
+      "target": "s-f85039d56ba9-c003:a014",
+      "kind": "complements",
+      "condition": "恋爱阶段背景",
+      "reason": "候选补充了恋爱四个阶段的整体框架，并强调在孩子心里刻画时期以培养热恋期不做决定的意识，为source原则提供了更大的阶段背景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a014",
+      "target": "s-f85039d56ba9-c003:v2-n002",
+      "kind": "complements",
+      "condition": "恋爱阶段背景",
+      "reason": "候选补充了恋爱四个阶段的整体框架，并强调在孩子心里刻画时期以培养热恋期不做决定的意识，为source原则提供了更大的阶段背景。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n002",
+      "target": "s-f85039d56ba9-c002:a024",
+      "kind": "complements",
+      "condition": "热恋期",
+      "reason": "候选描述热恋期特征并明确不要做任何重大决定，与source一致，补充了特征和具体禁忌。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a024",
+      "target": "s-f85039d56ba9-c003:v2-n002",
+      "kind": "complements",
+      "condition": "热恋期",
+      "reason": "候选描述热恋期特征并明确不要做任何重大决定，与source一致，补充了特征和具体禁忌。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n002",
+      "target": "s-f85039d56ba9-c003:a017",
+      "kind": "complements",
+      "condition": "各恋爱阶段",
+      "reason": "候选补充了不同恋爱阶段关于结婚和分手的规则，其中热恋期不结婚与source原则一致，并扩展了其他阶段的决策规则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a017",
+      "target": "s-f85039d56ba9-c003:v2-n002",
+      "kind": "complements",
+      "condition": "各恋爱阶段",
+      "reason": "候选补充了不同恋爱阶段关于结婚和分手的规则，其中热恋期不结婚与source原则一致，并扩展了其他阶段的决策规则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n002",
+      "target": "s-f85039d56ba9-c001:r005",
+      "kind": "association",
+      "condition": "健康的早恋",
+      "reason": "候选提出健康的早恋提升决策能力，与source的狂热时不作决定主题相关，但无直接支持或矛盾，仅涉及早恋中决策方面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:r005",
+      "target": "s-f85039d56ba9-c003:v2-n002",
+      "kind": "association",
+      "condition": "健康的早恋",
+      "reason": "候选提出健康的早恋提升决策能力，与source的狂热时不作决定主题相关，但无直接支持或矛盾，仅涉及早恋中决策方面。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n002",
+      "target": "s-f85039d56ba9-c003:a013",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选作为热恋期结婚的反例，支持source原则（热恋期不做决定），但kind列表中无支持类型，故归为association，注明不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a013",
+      "target": "s-f85039d56ba9-c003:v2-n002",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选作为热恋期结婚的反例，支持source原则（热恋期不做决定），但kind列表中无支持类型，故归为association，注明不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n003",
+      "target": "s-f85039d56ba9-c003:r003",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选内容与source几乎一致，仅表述略有差异，无实质补充，故关联为内容重复。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:r003",
+      "target": "s-f85039d56ba9-c003:v2-n003",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选内容与source几乎一致，仅表述略有差异，无实质补充，故关联为内容重复。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n003",
+      "target": "s-f85039d56ba9-c004:a001",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选与source内容基本相同，强调支持是唯一最好选择，无新增实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a001",
+      "target": "s-f85039d56ba9-c003:v2-n003",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选与source内容基本相同，强调支持是唯一最好选择，无新增实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n003",
+      "target": "s-f85039d56ba9-c003:a030",
+      "kind": "complements",
+      "condition": "孩子开始谈恋爱后",
+      "reason": "候选补充了父母角色从老师转变为教练的具体含义（教练不上场但布局指挥），为source中的教练角色提供背景定义。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a030",
+      "target": "s-f85039d56ba9-c003:v2-n003",
+      "kind": "complements",
+      "condition": "孩子开始谈恋爱后",
+      "reason": "候选补充了父母角色从老师转变为教练的具体含义（教练不上场但布局指挥），为source中的教练角色提供背景定义。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n003",
+      "target": "s-f85039d56ba9-c003:a032",
+      "kind": "complements",
+      "condition": "教练式父母",
+      "reason": "候选补充了教练式父母需让孩子在眼皮底下以观察表现进行布局，与source中支持获得影响力的教练角色相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:a032",
+      "target": "s-f85039d56ba9-c003:v2-n003",
+      "kind": "complements",
+      "condition": "教练式父母",
+      "reason": "候选补充了教练式父母需让孩子在眼皮底下以观察表现进行布局，与source中支持获得影响力的教练角色相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n003",
+      "target": "s-f85039d56ba9-c004:a002",
+      "kind": "complements",
+      "condition": "亲子关系不佳时",
+      "reason": "候选补充了支持孩子谈恋爱可修复亲子关系的额外好处，拓展了source中支持的益处。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a002",
+      "target": "s-f85039d56ba9-c003:v2-n003",
+      "kind": "complements",
+      "condition": "亲子关系不佳时",
+      "reason": "候选补充了支持孩子谈恋爱可修复亲子关系的额外好处，拓展了source中支持的益处。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n003",
+      "target": "s-f85039d56ba9-c004:a005",
+      "kind": "complements",
+      "condition": "情绪支持",
+      "reason": "候选具体说明如何在情绪上支持孩子，包括去除羞耻感，是对source中“支持”的具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a005",
+      "target": "s-f85039d56ba9-c003:v2-n003",
+      "kind": "complements",
+      "condition": "情绪支持",
+      "reason": "候选具体说明如何在情绪上支持孩子，包括去除羞耻感，是对source中“支持”的具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n003",
+      "target": "s-f85039d56ba9-c004:a024",
+      "kind": "association",
+      "condition": "教练式父母后续步骤",
+      "reason": "候选描述教练式父母操练孩子的具体做法（复盘、教导），与source中的支持同属教练父母职责，但无直接逻辑先后关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a024",
+      "target": "s-f85039d56ba9-c003:v2-n003",
+      "kind": "association",
+      "condition": "教练式父母后续步骤",
+      "reason": "候选描述教练式父母操练孩子的具体做法（复盘、教导），与source中的支持同属教练父母职责，但无直接逻辑先后关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n003",
+      "target": "s-f85039d56ba9-c002:a015",
+      "kind": "complements",
+      "condition": "父母错误做法",
+      "reason": "候选作为反例，说明偷窥隐私导致信任丧失，与source中不支持孩子会封闭的后果相似，从反面印证支持的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a015",
+      "target": "s-f85039d56ba9-c003:v2-n003",
+      "kind": "complements",
+      "condition": "父母错误做法",
+      "reason": "候选作为反例，说明偷窥隐私导致信任丧失，与source中不支持孩子会封闭的后果相似，从反面印证支持的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n003",
+      "target": "s-f85039d56ba9-c004:a020",
+      "kind": "complements",
+      "condition": "教练式父母",
+      "reason": "候选补充了教练式父母需根据孩子表现进行布局和指挥，与source的教练角色相关，并强调孩子需在眼皮底下。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a020",
+      "target": "s-f85039d56ba9-c003:v2-n003",
+      "kind": "complements",
+      "condition": "教练式父母",
+      "reason": "候选补充了教练式父母需根据孩子表现进行布局和指挥，与source的教练角色相关，并强调孩子需在眼皮底下。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n003",
+      "target": "s-f85039d56ba9-c002:a009",
+      "kind": "complements",
+      "condition": "父母错误做法",
+      "reason": "候选作为反例，说明沉默忽视会导致孩子失去求助机会，与source中不支持导致封闭类似，强化了支持的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c002:a009",
+      "target": "s-f85039d56ba9-c003:v2-n003",
+      "kind": "complements",
+      "condition": "父母错误做法",
+      "reason": "候选作为反例，说明沉默忽视会导致孩子失去求助机会，与source中不支持导致封闭类似，强化了支持的必要性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n003",
+      "target": "s-f85039d56ba9-c004:a003",
+      "kind": "complements",
+      "condition": "经济支持",
+      "reason": "候选具体说明经济支持的方式（给钱、赞助等），是对source中“支持”的具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c004:a003",
+      "target": "s-f85039d56ba9-c003:v2-n003",
+      "kind": "complements",
+      "condition": "经济支持",
+      "reason": "候选具体说明经济支持的方式（给钱、赞助等），是对source中“支持”的具体化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c003:v2-n003",
+      "target": "s-f85039d56ba9-c001:a009",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选建议让孩子在父母眼皮底下谈恋爱，与source支持策略相关但为不同建议，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c001:a009",
+      "target": "s-f85039d56ba9-c003:v2-n003",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选建议让孩子在父母眼皮底下谈恋爱，与source支持策略相关但为不同建议，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:v2-n001",
+      "target": "s-f85039d56ba9-c005:a003",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选同为讲师个人案例，涉及择偶标准的改变（大方/小气），与source口才标准改变主题相似，但具体标准不同，无直接逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:a003",
+      "target": "s-f85039d56ba9-c005:v2-n001",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选同为讲师个人案例，涉及择偶标准的改变（大方/小气），与source口才标准改变主题相似，但具体标准不同，无直接逻辑。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:v2-n001",
+      "target": "s-f85039d56ba9-c005:v2-n002",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选为讲师另一择偶标准案例（看重车），与source口才标准案例同属择偶标准经历，但内容不相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:v2-n002",
+      "target": "s-f85039d56ba9-c005:v2-n001",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选为讲师另一择偶标准案例（看重车），与source口才标准案例同属择偶标准经历，但内容不相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:v2-n001",
+      "target": "s-f85039d56ba9-c005:a002",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "source案例中讲师因实际需要（不喜欢话多）放弃喜欢的口才标准，体现了喜欢与需要的区别概念（候选），故source是候选的一个例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:a002",
+      "target": "s-f85039d56ba9-c005:v2-n001",
+      "kind": "has_example",
+      "condition": "无",
+      "reason": "source案例中讲师因实际需要（不喜欢话多）放弃喜欢的口才标准，体现了喜欢与需要的区别概念（候选），故source是候选的一个例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:v2-n002",
+      "target": "s-f85039d56ba9-c005:a008",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选涉及母亲反对有钱男友，与source中讲师自己嫁有钱人并回应酸言不同，但都涉及对有钱伴侣的态度，主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:a008",
+      "target": "s-f85039d56ba9-c005:v2-n002",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选涉及母亲反对有钱男友，与source中讲师自己嫁有钱人并回应酸言不同，但都涉及对有钱伴侣的态度，主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:v2-n002",
+      "target": "s-f85039d56ba9-c005:a007",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选为讲师母亲支持其与家境好的男孩交往，与source中讲师看重经济条件相似，但来源不同，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:a007",
+      "target": "s-f85039d56ba9-c005:v2-n002",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选为讲师母亲支持其与家境好的男孩交往，与source中讲师看重经济条件相似，但来源不同，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:v2-n002",
+      "target": "s-f85039d56ba9-c005:v2-n001",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选为讲师口才标准案例，与source看车标准案例同属择偶标准，但具体内容不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:v2-n001",
+      "target": "s-f85039d56ba9-c005:v2-n002",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选为讲师口才标准案例，与source看车标准案例同属择偶标准，但具体内容不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:v2-n002",
+      "target": "s-f85039d56ba9-c005:a003",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选为讲师喜欢大方需要小气的案例，涉及消费观念，与source看车筛选经济条件有一定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:a003",
+      "target": "s-f85039d56ba9-c005:v2-n002",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选为讲师喜欢大方需要小气的案例，涉及消费观念，与source看车筛选经济条件有一定关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:v2-n002",
+      "target": "s-f85039d56ba9-c005:a006",
+      "kind": "example_of",
+      "condition": "无",
+      "reason": "source案例中讲师将对方开的车作为筛选条件，体现了候选概念“重视经济条件”的具体应用，故source是候选的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:a006",
+      "target": "s-f85039d56ba9-c005:v2-n002",
+      "kind": "has_example",
+      "condition": "无",
+      "reason": "source案例中讲师将对方开的车作为筛选条件，体现了候选概念“重视经济条件”的具体应用，故source是候选的例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:v2-n002",
+      "target": "s-f85039d56ba9-c005:a002",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选概念喜欢与需要的区别，source案例可能体现但不够明确，故仅作一般关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-f85039d56ba9-c005:a002",
+      "target": "s-f85039d56ba9-c005:v2-n002",
+      "kind": "association",
+      "condition": "无",
+      "reason": "候选概念喜欢与需要的区别，source案例可能体现但不够明确，故仅作一般关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "阶段与角色",
+      "when": "父母在预备期和恋爱期需要根据孩子所处阶段调整角色和界限教育",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a016",
+        "s-f85039d56ba9-c003:a023",
+        "s-f85039d56ba9-c003:a024",
+        "s-f85039d56ba9-c003:a028",
+        "s-f85039d56ba9-c003:a030"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "孩子因家庭不幸福产生情绪需求而早恋时，父母需要设立界限并给予情绪支持",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:a005",
+        "s-f85039d56ba9-c001:a007",
+        "s-f85039d56ba9-c001:r009",
+        "s-f85039d56ba9-c004:a005"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "孩子进入恋爱阶段后，父母从老师转变为教练，需要观察和设立界限",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a016",
+        "s-f85039d56ba9-c003:a030",
+        "s-f85039d56ba9-c004:a020"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "界限",
+      "when": "孩子在恋爱中需要认识自己的感情类型和界限，父母帮助孩子建立自我认知",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a009",
+        "s-f85039d56ba9-c003:a010",
+        "s-f85039d56ba9-c005:a002",
+        "s-f85039d56ba9-c005:a004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "依赖与失控",
+      "to": "理解情绪",
+      "when": "孩子因家庭不幸福而依赖恋爱关系时，父母需要理解孩子的情绪需求并给予支持",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a016",
+        "s-f85039d56ba9-c007:a014"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "界限",
+      "when": "父母自身婚姻幸福和榜样行为影响孩子对恋爱界限的理解",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:r011",
+        "s-f85039d56ba9-c007:a001",
+        "s-f85039d56ba9-c007:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a005"
+      ],
+      "reason": "内容完全一致，都强调情绪上支持孩子，拿掉羞耻感。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a007"
+      ],
+      "reason": "内容完全一致，都强调以欢迎姿态邀请孩子对象到家中。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a008"
+      ],
+      "reason": "内容完全一致，都强调获得孩子对象的喜欢有助于亲子关系和获得信息。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a009"
+      ],
+      "reason": "内容完全一致，都用教练收集对手信息的类比说明父母要收集孩子恋爱信息。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a010"
+      ],
+      "reason": "内容完全一致，都强调关系上支持孩子谈恋爱，引导孩子处理关系。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a011"
+      ],
+      "reason": "内容完全一致，都强调观察孩子的心理需求。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a012"
+      ],
+      "reason": "内容完全一致，都强调观察孩子恋爱中的心态。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a013"
+      ],
+      "reason": "内容完全一致，都强调发现恋爱中的危机：过于执着。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a014"
+      ],
+      "reason": "内容完全一致，都强调发现恋爱中的危机：提出过分要求，如发裸照。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a017"
+      ],
+      "reason": "内容完全一致，都强调发现恋爱中的危机：嫉妒和操控。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a018"
+      ],
+      "reason": "内容完全一致，都强调发现恋爱中的危机：情绪波动。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a019"
+      ],
+      "reason": "内容完全一致，都强调发现恋爱中的危机：敌视父母。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a020"
+      ],
+      "reason": "内容完全一致，都强调父母要像教练一样布局和指挥。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a021"
+      ],
+      "reason": "内容完全一致，都强调通过支持获得信息以进行布局。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a022"
+      ],
+      "reason": "内容完全一致，都强调观察是父母的重要职责。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a023"
+      ],
+      "reason": "内容完全一致，都强调父母要教导孩子如何谈恋爱。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a024"
+      ],
+      "reason": "内容完全一致，都强调父母要操练孩子。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a009"
+      ],
+      "reason": "内容完全一致，都强调重视家庭背景，特别是精神疾病。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a012",
+        "s-f85039d56ba9-c006:a001"
+      ],
+      "reason": "内容完全一致，都说明父母一方有精神疾病时子女预备婚姻的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a002"
+      ],
+      "reason": "内容完全一致，都区分心理问题与精神问题。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a003"
+      ],
+      "reason": "内容完全一致，都说明判断恋爱对象挣钱潜力的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a004"
+      ],
+      "reason": "内容完全一致，都说明父母带孩子约会不会形成完美形象期待。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a005"
+      ],
+      "reason": "内容完全一致，都说明孩子失恋走不出来的原因与预防。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a006"
+      ],
+      "reason": "内容完全一致，都解释“在眼皮子底下相处”的含义。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a007"
+      ],
+      "reason": "内容完全一致，都强调精神问题中的被害妄想绝对不能接受。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a008"
+      ],
+      "reason": "内容完全一致，都强调男孩找对象也应考虑对方挣钱能力。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a009"
+      ],
+      "reason": "内容完全一致，都强调孩子信任教练才会听从喊停。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a010"
+      ],
+      "reason": "内容完全一致，都是二年级孩子说喜欢班里男生的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a011"
+      ],
+      "reason": "内容完全一致，都说明孩子早熟情况越来越多。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a012"
+      ],
+      "reason": "内容完全一致，都是孩子被冤枉告老师后的沟通方法案例。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a013"
+      ],
+      "reason": "内容完全一致，都说明信仰因素由孩子自己考虑。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a014"
+      ],
+      "reason": "内容完全一致，都是婆婆强求信仰匹配导致儿子出轨的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a015"
+      ],
+      "reason": "内容完全一致，都说明十岁孩子喜欢异性是意识觉醒。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a016"
+      ],
+      "reason": "内容完全一致，都是女儿找条件不行但体贴的男友的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a017"
+      ],
+      "reason": "内容完全一致，都是阿姨拆散儿子恋爱导致儿子不婚的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a018"
+      ],
+      "reason": "内容完全一致，都说明打开孩子心扉的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a019"
+      ],
+      "reason": "内容完全一致，都是帮助女儿避免暴力男友的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a020"
+      ],
+      "reason": "内容完全一致，都说明孩子拥抱行为的处理。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a021"
+      ],
+      "reason": "内容完全一致，都是高一女孩谈论姑姑二婚的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a022"
+      ],
+      "reason": "内容完全一致，都说明爸爸带女儿约会表现绅士的频率。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a001"
+      ],
+      "reason": "内容完全一致，都说明父亲示范绅士行为影响子女。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a002"
+      ],
+      "reason": "内容完全一致，都说明父亲不照顾母亲对女儿的影响。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a003"
+      ],
+      "reason": "内容完全一致，都说明父亲与女儿正式约会的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a004",
+        "s-f85039d56ba9-c007:r003"
+      ],
+      "reason": "内容完全一致，都强调性教育应包含避孕知识。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a004",
+        "s-f85039d56ba9-c007:r004"
+      ],
+      "reason": "内容完全一致，都强调性教育应直接明确。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a005"
+      ],
+      "reason": "内容完全一致，都强调性行为是美好的。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a006"
+      ],
+      "reason": "内容完全一致，都说明原生家庭影响择偶年龄差。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a007"
+      ],
+      "reason": "内容完全一致，都是男性选择大15岁伴侣的案例。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a008"
+      ],
+      "reason": "内容完全一致，都说明父母婚姻幸福影响孩子择偶。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a009"
+      ],
+      "reason": "内容完全一致，都说明青少年开始恋爱的教育时机。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a010",
+        "s-f85039d56ba9-c007:r005"
+      ],
+      "reason": "内容完全一致，都说明父母无法控制孩子恋爱行为。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a011"
+      ],
+      "reason": "内容完全一致，都说明与孩子列清单预备恋爱。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a012",
+        "s-f85039d56ba9-c007:r001"
+      ],
+      "reason": "内容完全一致，都说明了解对方家庭精神疾病的提问技巧。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a014"
+      ],
+      "reason": "内容完全一致，都说明温暖家庭减少孩子依赖关系。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a015"
+      ],
+      "reason": "内容完全一致，都说明父母预备孩子的三个关键点。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a016"
+      ],
+      "reason": "内容完全一致，都说明讲座后实践建议。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a017"
+      ],
+      "reason": "内容完全一致，都说明孩子约会应是想要而非需要。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a006",
+        "s-f85039d56ba9-c003:a017"
+      ],
+      "description": "k00030说孩子何时谈恋爱不由父母决定，父母不要规定16岁以后才能谈恋爱；k00082给出各时期关于结婚和分手的规则，似乎暗示父母可以引导孩子遵循这些规则。两者可能存在张力：一方面强调孩子自主权，另一方面强调父母引导。",
+      "needed_evidence": "需要明确父母在恋爱时机上的角色边界，以及规则是建议还是强制。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a006",
+        "s-f85039d56ba9-c005:a008"
+      ],
+      "description": "k00154强调重视经济条件，k00156是母亲反对有钱男友的反例，说明父母认知错误。两者可能矛盾：一方面要重视经济条件，另一方面不能因对方有钱就反对。",
+      "needed_evidence": "需要明确经济条件在择偶中的权重，以及如何平衡经济条件与其他因素。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a009",
+        "s-f85039d56ba9-c006:a007"
+      ],
+      "description": "k00157强调重视家庭背景中的精神疾病，k00168强调被害妄想绝对不能接受。两者可能矛盾：一方面要重视家庭背景，另一方面不能仅凭家庭史歧视。",
+      "needed_evidence": "需要明确精神疾病在择偶中的具体评估标准，以及如何避免歧视。"
+    },
+    {
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a004",
+        "s-f85039d56ba9-c007:a005"
+      ],
+      "description": "k00209强调性教育应直接明确，包括避孕方法；k00210强调性行为是美好的。两者可能矛盾：一方面要告知避孕，另一方面要强调性行为美好，可能让孩子困惑。",
+      "needed_evidence": "需要明确性教育中如何平衡风险告知与积极态度。"
+    }
+  ],
+  "path": [
+    {
+      "name": "父母预备孩子谈恋爱的主要方法",
+      "steps": [
+        {
+          "action": "创建温暖有归属感的家庭",
+          "atom_ids": [
+            "s-f85039d56ba9-c001:a007",
+            "s-f85039d56ba9-c001:r009",
+            "s-f85039d56ba9-c002:a001",
+            "s-f85039d56ba9-c002:a002",
+            "s-f85039d56ba9-c002:a003",
+            "s-f85039d56ba9-c007:a015"
+          ],
+          "condition": "家庭不幸福可能导致孩子早恋"
+        },
+        {
+          "action": "做恋爱的好榜样（婚姻幸福）",
+          "atom_ids": [
+            "s-f85039d56ba9-c001:r011",
+            "s-f85039d56ba9-c007:a001",
+            "s-f85039d56ba9-c007:a002",
+            "s-f85039d56ba9-c007:a008"
+          ],
+          "condition": "父母自身婚姻幸福影响孩子"
+        },
+        {
+          "action": "从早期预备孩子，包括性教育",
+          "atom_ids": [
+            "s-f85039d56ba9-c007:a004",
+            "s-f85039d56ba9-c007:a005",
+            "s-f85039d56ba9-c007:r003",
+            "s-f85039d56ba9-c007:r004",
+            "s-f85039d56ba9-c007:a011"
+          ],
+          "condition": "孩子开始对恋爱有感觉或兴趣时"
+        },
+        {
+          "action": "在预备期扮演老师角色，教孩子理论知识",
+          "atom_ids": [
+            "s-f85039d56ba9-c002:a016",
+            "s-f85039d56ba9-c002:a017",
+            "s-f85039d56ba9-c002:a018",
+            "s-f85039d56ba9-c002:a019",
+            "s-f85039d56ba9-c002:a020",
+            "s-f85039d56ba9-c002:r006"
+          ],
+          "condition": "孩子尚未开始谈恋爱"
+        },
+        {
+          "action": "当孩子开始谈恋爱后，转变为教练角色",
+          "atom_ids": [
+            "s-f85039d56ba9-c003:a030",
+            "s-f85039d56ba9-c003:a031",
+            "s-f85039d56ba9-c003:a032",
+            "s-f85039d56ba9-c003:r003",
+            "s-f85039d56ba9-c004:a020"
+          ],
+          "condition": "孩子开始谈恋爱"
+        },
+        {
+          "action": "支持孩子谈恋爱（经济、情绪、关系等）",
+          "atom_ids": [
+            "s-f85039d56ba9-c003:r003",
+            "s-f85039d56ba9-c004:a001",
+            "s-f85039d56ba9-c004:a002",
+            "s-f85039d56ba9-c004:a003",
+            "s-f85039d56ba9-c004:a005",
+            "s-f85039d56ba9-c004:a010",
+            "s-f85039d56ba9-c004:a021"
+          ],
+          "condition": "孩子谈恋爱时"
+        },
+        {
+          "action": "观察孩子的心理需求、恋爱心态和危机",
+          "atom_ids": [
+            "s-f85039d56ba9-c004:a011",
+            "s-f85039d56ba9-c004:a012",
+            "s-f85039d56ba9-c004:a013",
+            "s-f85039d56ba9-c004:a014",
+            "s-f85039d56ba9-c004:a017",
+            "s-f85039d56ba9-c004:a018",
+            "s-f85039d56ba9-c004:a019",
+            "s-f85039d56ba9-c004:a022"
+          ],
+          "condition": "孩子恋爱过程中"
+        },
+        {
+          "action": "教导和操练孩子如何谈恋爱（包括复盘）",
+          "atom_ids": [
+            "s-f85039d56ba9-c004:a023",
+            "s-f85039d56ba9-c004:a024",
+            "s-f85039d56ba9-c005:a001"
+          ],
+          "condition": "孩子约会后或恋爱过程中"
+        },
+        {
+          "action": "设立界限（身体、心理、语言）并反复训练",
+          "atom_ids": [
+            "s-f85039d56ba9-c003:a023",
+            "s-f85039d56ba9-c003:a024",
+            "s-f85039d56ba9-c003:a028",
+            "s-f85039d56ba9-c003:a029",
+            "s-f85039d56ba9-c003:r001",
+            "s-f85039d56ba9-c005:a004"
+          ],
+          "condition": "预备期和恋爱期"
+        },
+        {
+          "action": "帮助孩子度过恋爱四个时期，避免重大决定",
+          "atom_ids": [
+            "s-f85039d56ba9-c002:a024",
+            "s-f85039d56ba9-c002:a025",
+            "s-f85039d56ba9-c002:a026",
+            "s-f85039d56ba9-c002:a027",
+            "s-f85039d56ba9-c002:r010",
+            "s-f85039d56ba9-c002:r011",
+            "s-f85039d56ba9-c002:r012",
+            "s-f85039d56ba9-c002:r013",
+            "s-f85039d56ba9-c002:r014",
+            "s-f85039d56ba9-c003:a001",
+            "s-f85039d56ba9-c003:a002",
+            "s-f85039d56ba9-c003:a007",
+            "s-f85039d56ba9-c003:a008",
+            "s-f85039d56ba9-c003:a009",
+            "s-f85039d56ba9-c003:a012",
+            "s-f85039d56ba9-c003:a014",
+            "s-f85039d56ba9-c003:a015",
+            "s-f85039d56ba9-c003:a016",
+            "s-f85039d56ba9-c003:a017"
+          ],
+          "condition": "孩子恋爱过程中"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "9d289e28780076f47f40a957e9b2c130787052821dfc9ebe8dae403c5e0e69ae",
+  "point_units": [
+    {
+      "id": "s-f85039d56ba9-c001:u0001",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:a010"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c001:u0002",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:a003",
+        "s-f85039d56ba9-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00008",
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c001:u0003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:a004"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00017",
+        "b00018",
+        "b00019",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c001:u0004",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:a008"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c001:u0005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:a005",
+        "s-f85039d56ba9-c001:r009",
+        "s-f85039d56ba9-c001:r010",
+        "s-f85039d56ba9-c001:r011"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c001:u0006",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:a009",
+        "s-f85039d56ba9-c001:r012",
+        "s-f85039d56ba9-c001:r013"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:a001",
+        "s-f85039d56ba9-c001:r001",
+        "s-f85039d56ba9-c001:r002"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c001:u0008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:a002",
+        "s-f85039d56ba9-c001:a006"
+      ],
+      "blocks": [
+        "b00037",
+        "b00038",
+        "b00039",
+        "b00040",
+        "b00041"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c001:u0009",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:a007"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:a007",
+        "s-f85039d56ba9-c002:a001",
+        "s-f85039d56ba9-c002:a002",
+        "s-f85039d56ba9-c002:a003",
+        "s-f85039d56ba9-c002:a004",
+        "s-f85039d56ba9-c002:a005",
+        "s-f85039d56ba9-c002:r001"
+      ],
+      "blocks": [
+        "b00043",
+        "b00044",
+        "b00045",
+        "b00046",
+        "b00047",
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a006"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u003",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a007"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u004",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a008"
+      ],
+      "blocks": [
+        "b00054",
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u005",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a009"
+      ],
+      "blocks": [
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u006",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a010"
+      ],
+      "blocks": [
+        "b00056",
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u007",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a011"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u008",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a012"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u009",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a013"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u010",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a014"
+      ],
+      "blocks": [
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u011",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a015"
+      ],
+      "blocks": [
+        "b00064",
+        "b00065",
+        "b00066"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u012",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00049",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a016"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a017",
+        "s-f85039d56ba9-c002:a018",
+        "s-f85039d56ba9-c002:r003"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069",
+        "b00070",
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:r002"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a019",
+        "s-f85039d56ba9-c002:a020",
+        "s-f85039d56ba9-c002:r006"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076",
+        "b00077",
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:r004",
+        "s-f85039d56ba9-c002:r005"
+      ],
+      "blocks": [
+        "b00075",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a021",
+        "s-f85039d56ba9-c002:a022",
+        "s-f85039d56ba9-c002:a023",
+        "s-f85039d56ba9-c002:r007",
+        "s-f85039d56ba9-c002:r008",
+        "s-f85039d56ba9-c002:r009"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a024",
+        "s-f85039d56ba9-c002:a025",
+        "s-f85039d56ba9-c002:r010",
+        "s-f85039d56ba9-c002:r011"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085",
+        "b00086"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c002:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a026",
+        "s-f85039d56ba9-c002:r012"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a015",
+        "s-f85039d56ba9-c003:v2-n002"
+      ],
+      "blocks": [
+        "b00085",
+        "b00086",
+        "b00103",
+        "b00104"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a026",
+        "s-f85039d56ba9-c002:r013"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:a027",
+        "s-f85039d56ba9-c002:r014",
+        "s-f85039d56ba9-c003:a002"
+      ],
+      "blocks": [
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a003"
+      ],
+      "blocks": [
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u006",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a004"
+      ],
+      "blocks": [
+        "b00090",
+        "b00091",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a005"
+      ],
+      "blocks": [
+        "b00093",
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a006"
+      ],
+      "blocks": [
+        "b00094",
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a007"
+      ],
+      "blocks": [
+        "b00096"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a008"
+      ],
+      "blocks": [
+        "b00097",
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a009"
+      ],
+      "blocks": [
+        "b00098",
+        "b00099"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a010",
+        "s-f85039d56ba9-c003:a011"
+      ],
+      "blocks": [
+        "b00099",
+        "b00100",
+        "b00101"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a012"
+      ],
+      "blocks": [
+        "b00101",
+        "b00102"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a013"
+      ],
+      "blocks": [
+        "b00102"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a014"
+      ],
+      "blocks": [
+        "b00103"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a016"
+      ],
+      "blocks": [
+        "b00104",
+        "b00105"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a017"
+      ],
+      "blocks": [
+        "b00105",
+        "b00106"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a018"
+      ],
+      "blocks": [
+        "b00106",
+        "b00107"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a019"
+      ],
+      "blocks": [
+        "b00108",
+        "b00109",
+        "b00110"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a020",
+        "s-f85039d56ba9-c003:a021",
+        "s-f85039d56ba9-c003:a022"
+      ],
+      "blocks": [
+        "b00110",
+        "b00111",
+        "b00112",
+        "b00113"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u021",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a023"
+      ],
+      "blocks": [
+        "b00114"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u022",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a024",
+        "s-f85039d56ba9-c003:r001"
+      ],
+      "blocks": [
+        "b00115",
+        "b00116",
+        "b00117"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u023",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a025"
+      ],
+      "blocks": [
+        "b00115",
+        "b00116",
+        "b00117"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u024",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a026",
+        "s-f85039d56ba9-c003:a027",
+        "s-f85039d56ba9-c003:r002"
+      ],
+      "blocks": [
+        "b00119",
+        "b00120",
+        "b00121",
+        "b00122"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a028"
+      ],
+      "blocks": [
+        "b00122",
+        "b00123"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u026",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a029"
+      ],
+      "blocks": [
+        "b00124"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:a030",
+        "s-f85039d56ba9-c003:a031",
+        "s-f85039d56ba9-c003:a032"
+      ],
+      "blocks": [
+        "b00125",
+        "b00126",
+        "b00127",
+        "b00128",
+        "b00129"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c003:u028",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:v2-n003"
+      ],
+      "blocks": [
+        "b00130",
+        "b00131"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0001",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a020"
+      ],
+      "blocks": [
+        "b00128",
+        "b00129",
+        "b00130"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0002",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:r003"
+      ],
+      "blocks": [
+        "b00130",
+        "b00131"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0003",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a002"
+      ],
+      "blocks": [
+        "b00132"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a003"
+      ],
+      "blocks": [
+        "b00133",
+        "b00134",
+        "b00135"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0005",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a004"
+      ],
+      "blocks": [
+        "b00136",
+        "b00137"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0006",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a005"
+      ],
+      "blocks": [
+        "b00138",
+        "b00139"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0007",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a006"
+      ],
+      "blocks": [
+        "b00139",
+        "b00140"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0008",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a007"
+      ],
+      "blocks": [
+        "b00141",
+        "b00142",
+        "b00143"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0009",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a008"
+      ],
+      "blocks": [
+        "b00143",
+        "b00144"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0010",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a009"
+      ],
+      "blocks": [
+        "b00145",
+        "b00146"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0011",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a021"
+      ],
+      "blocks": [
+        "b00144",
+        "b00145",
+        "b00146",
+        "b00147"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0012",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a010"
+      ],
+      "blocks": [
+        "b00147",
+        "b00148",
+        "b00149",
+        "b00150",
+        "b00151",
+        "b00152"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0013",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a011"
+      ],
+      "blocks": [
+        "b00154",
+        "b00155"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0014",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a012"
+      ],
+      "blocks": [
+        "b00156",
+        "b00157",
+        "b00158",
+        "b00159"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0015",
+      "kind": "condition",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a013"
+      ],
+      "blocks": [
+        "b00160",
+        "b00161",
+        "b00162"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0016",
+      "kind": "condition",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a014"
+      ],
+      "blocks": [
+        "b00162",
+        "b00163"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0017",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a015"
+      ],
+      "blocks": [
+        "b00163",
+        "b00164",
+        "b00165",
+        "b00167",
+        "b00168"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0018",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a016"
+      ],
+      "blocks": [
+        "b00166"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0019",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:r003"
+      ],
+      "blocks": [
+        "b00166",
+        "b00167"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0020",
+      "kind": "condition",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a017"
+      ],
+      "blocks": [
+        "b00169",
+        "b00170"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0021",
+      "kind": "condition",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a018"
+      ],
+      "blocks": [
+        "b00170",
+        "b00171",
+        "b00172"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0022",
+      "kind": "condition",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a019"
+      ],
+      "blocks": [
+        "b00172",
+        "b00173"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0023",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a024"
+      ],
+      "blocks": [
+        "b00173",
+        "b00174",
+        "b00175"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c004:u0024",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c004:a022"
+      ],
+      "blocks": [
+        "b00153",
+        "b00154",
+        "b00155",
+        "b00156",
+        "b00157",
+        "b00158",
+        "b00159",
+        "b00160",
+        "b00161",
+        "b00162",
+        "b00163",
+        "b00164",
+        "b00165",
+        "b00166",
+        "b00167",
+        "b00168",
+        "b00169",
+        "b00170",
+        "b00171",
+        "b00172",
+        "b00173"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c005:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a001"
+      ],
+      "blocks": [
+        "b00174",
+        "b00175",
+        "b00178",
+        "b00179",
+        "b00191",
+        "b00192",
+        "b00193",
+        "b00197"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c005:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a002"
+      ],
+      "blocks": [
+        "b00175",
+        "b00176",
+        "b00178",
+        "b00186",
+        "b00187",
+        "b00188"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c005:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a004"
+      ],
+      "blocks": [
+        "b00189",
+        "b00190",
+        "b00191",
+        "b00193"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c005:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a005"
+      ],
+      "blocks": [
+        "b00198",
+        "b00199",
+        "b00200",
+        "b00201",
+        "b00211",
+        "b00212"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c005:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a006"
+      ],
+      "blocks": [
+        "b00201",
+        "b00202",
+        "b00206",
+        "b00207",
+        "b00209",
+        "b00210",
+        "b00213",
+        "b00214",
+        "b00215",
+        "b00212"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c005:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a009"
+      ],
+      "blocks": [
+        "b00210",
+        "b00211"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c005:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a010"
+      ],
+      "blocks": [
+        "b00216"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c005:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a011"
+      ],
+      "blocks": [
+        "b00217"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c005:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a012"
+      ],
+      "blocks": [
+        "b00219"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c005:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:v2-n001"
+      ],
+      "blocks": [
+        "b00179",
+        "b00180",
+        "b00181"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c005:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a003"
+      ],
+      "blocks": [
+        "b00176",
+        "b00177",
+        "b00178",
+        "b00181",
+        "b00182",
+        "b00183",
+        "b00184",
+        "b00185",
+        "b00186"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c005:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a007"
+      ],
+      "blocks": [
+        "b00203",
+        "b00204",
+        "b00205"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c005:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:a008"
+      ],
+      "blocks": [
+        "b00208",
+        "b00209"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c005:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:v2-n002"
+      ],
+      "blocks": [
+        "b00212",
+        "b00213",
+        "b00214",
+        "b00215"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a001"
+      ],
+      "blocks": [
+        "b00219",
+        "b00220"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u002",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a002"
+      ],
+      "blocks": [
+        "b00221",
+        "b00222"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u003",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a003"
+      ],
+      "blocks": [
+        "b00223",
+        "b00224",
+        "b00225"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u004",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a004"
+      ],
+      "blocks": [
+        "b00225",
+        "b00226",
+        "b00227",
+        "b00228"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a005"
+      ],
+      "blocks": [
+        "b00228",
+        "b00229",
+        "b00230"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u006",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a006"
+      ],
+      "blocks": [
+        "b00230",
+        "b00231",
+        "b00232"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u007",
+      "kind": "condition",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a007"
+      ],
+      "blocks": [
+        "b00232"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u008",
+      "kind": "condition",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a008"
+      ],
+      "blocks": [
+        "b00232",
+        "b00233",
+        "b00234"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u009",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a009"
+      ],
+      "blocks": [
+        "b00234",
+        "b00235",
+        "b00236",
+        "b00237",
+        "b00238"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a010"
+      ],
+      "blocks": [
+        "b00238",
+        "b00239",
+        "b00240"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a011"
+      ],
+      "blocks": [
+        "b00240",
+        "b00241"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a012"
+      ],
+      "blocks": [
+        "b00241",
+        "b00242"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a013"
+      ],
+      "blocks": [
+        "b00242",
+        "b00243",
+        "b00245",
+        "b00246"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a014"
+      ],
+      "blocks": [
+        "b00243",
+        "b00244",
+        "b00245"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u015",
+      "kind": "condition",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a015"
+      ],
+      "blocks": [
+        "b00246"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u016",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a016"
+      ],
+      "blocks": [
+        "b00246",
+        "b00247",
+        "b00248",
+        "b00249",
+        "b00250",
+        "b00251",
+        "b00252"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a017"
+      ],
+      "blocks": [
+        "b00252",
+        "b00253",
+        "b00254"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a018"
+      ],
+      "blocks": [
+        "b00254",
+        "b00255",
+        "b00256"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a019"
+      ],
+      "blocks": [
+        "b00257",
+        "b00258"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a020"
+      ],
+      "blocks": [
+        "b00258",
+        "b00259"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u021",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a021"
+      ],
+      "blocks": [
+        "b00259",
+        "b00260",
+        "b00261",
+        "b00262"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c006:u022",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c006:a022"
+      ],
+      "blocks": [
+        "b00262",
+        "b00263",
+        "b00264",
+        "b00265"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a001"
+      ],
+      "blocks": [
+        "b00264",
+        "b00265"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a002"
+      ],
+      "blocks": [
+        "b00266"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u003",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a003"
+      ],
+      "blocks": [
+        "b00266",
+        "b00267"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u004",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a004",
+        "s-f85039d56ba9-c007:r004"
+      ],
+      "blocks": [
+        "b00267",
+        "b00268",
+        "b00269",
+        "b00270"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u005",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:r003"
+      ],
+      "blocks": [
+        "b00269"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u006",
+      "kind": "definition",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a005"
+      ],
+      "blocks": [
+        "b00270"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:xe001"
+      ],
+      "blocks": [
+        "b00270",
+        "b00271"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a006"
+      ],
+      "blocks": [
+        "b00271",
+        "b00272",
+        "b00273"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u009",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a007"
+      ],
+      "blocks": [
+        "b00272",
+        "b00273"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u010",
+      "kind": "condition",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a008"
+      ],
+      "blocks": [
+        "b00273"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u011",
+      "kind": "condition",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a009"
+      ],
+      "blocks": [
+        "b00274"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a010",
+        "s-f85039d56ba9-c007:r005"
+      ],
+      "blocks": [
+        "b00274",
+        "b00275",
+        "b00276"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a011"
+      ],
+      "blocks": [
+        "b00277",
+        "b00278"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a012",
+        "s-f85039d56ba9-c007:r001"
+      ],
+      "blocks": [
+        "b00278",
+        "b00279",
+        "b00280",
+        "b00281",
+        "b00282",
+        "b00283",
+        "b00284",
+        "b00285",
+        "b00286"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a013"
+      ],
+      "blocks": [
+        "b00279",
+        "b00280",
+        "b00283",
+        "b00284",
+        "b00285",
+        "b00286"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:r002"
+      ],
+      "blocks": [
+        "b00281",
+        "b00282"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a014"
+      ],
+      "blocks": [
+        "b00286",
+        "b00287"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u018",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a015"
+      ],
+      "blocks": [
+        "b00287",
+        "b00288"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u019",
+      "kind": "method",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a016"
+      ],
+      "blocks": [
+        "b00288",
+        "b00289"
+      ]
+    },
+    {
+      "id": "s-f85039d56ba9-c007:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-f85039d56ba9-c007:a017"
+      ],
+      "blocks": [
+        "b00290"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "不要直接禁止早恋",
+      "atom_ids": [
+        "s-f85039d56ba9-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f85039d56ba9",
+          "blocks": [
+            "b00012"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "处理早恋前先预备父母并明确不做之事",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f85039d56ba9",
+          "blocks": [
+            "b00049",
+            "b00052"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "父母应预备孩子了解恋爱阶段",
+      "atom_ids": [
+        "s-f85039d56ba9-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f85039d56ba9",
+          "blocks": [
+            "b00084"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "热恋期特征",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f85039d56ba9",
+          "blocks": [
+            "b00085"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "头脑发热时不作决定",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f85039d56ba9",
+          "blocks": [
+            "b00086"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "condition"
+    },
+    {
+      "title": "教练式父母首先支持孩子",
+      "atom_ids": [
+        "s-f85039d56ba9-c003:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f85039d56ba9",
+          "blocks": [
+            "b00130",
+            "b00131"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "讲师口才标准的改变案例",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f85039d56ba9",
+          "blocks": [
+            "b00179",
+            "b00180",
+            "b00181"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "讲师选伴侣看车及回应阿姨酸言",
+      "atom_ids": [
+        "s-f85039d56ba9-c005:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-f85039d56ba9",
+          "blocks": [
+            "b00212",
+            "b00213",
+            "b00214",
+            "b00215"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    }
+  ]
+}

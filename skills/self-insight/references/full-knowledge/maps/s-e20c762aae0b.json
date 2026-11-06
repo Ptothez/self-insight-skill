@@ -1,0 +1,545 @@
+{
+  "concepts": [
+    {
+      "name": "沟通的定义",
+      "definition": "沟通不是把观点植入对方脑子，而是提供渠道了解对方内心世界和想法，通过交换想法达到信息和思想交换，可能对彼此产生影响。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a001",
+        "s-e20c762aae0b-c001:r001"
+      ]
+    },
+    {
+      "name": "沟通方向性错误",
+      "definition": "父母认为沟通就是让孩子听话、把观点植入孩子脑子，这是方向性错误，底层逻辑错误。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a002"
+      ]
+    },
+    {
+      "name": "孩子不同年龄沟通困难的原因",
+      "definition": "孩子小时候听不懂道理，无法用道理沟通；长大后能听懂道理但不愿意沟通，导致道理在小的时候和长大后都无用武之地。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a003"
+      ]
+    },
+    {
+      "name": "0-3岁沟通关键词：话唠",
+      "definition": "0-3岁沟通关键词是“话唠”，即不停讲话、不停说话。父母若不讲话，不会有太多意识看到孩子的问题。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a004"
+      ]
+    },
+    {
+      "name": "0-3岁父母不跟孩子讲话的错误做法",
+      "definition": "很多父母在0-3岁期间刷手机，不跟孩子讲话，认为孩子听不懂所以不需要讲，这是错误的。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a005"
+      ]
+    },
+    {
+      "name": "0-3岁孩子不会回应导致父母崩溃",
+      "definition": "0-3岁孩子不会正常沟通回应，全职妈妈可能感到崩溃，觉得脱离正常社交群体和语境范围。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a006"
+      ]
+    },
+    {
+      "name": "0-3岁应持续与孩子讲话",
+      "definition": "即使孩子不会回应，父母也应从婴儿开始持续与孩子讲话，讲生活琐事，不要忽略孩子。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a007"
+      ]
+    },
+    {
+      "name": "多与孩子讲话促进语言和交流发展",
+      "definition": "在婴儿和幼儿阶段，与孩子不停讲话、讲生活琐事，可以帮助语言和交流发展。聊天谈话次数越多，孩子大脑语言程度打开越多。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a008"
+      ]
+    },
+    {
+      "name": "父母讲话时使用不同声音和词语促进孩子语言理解",
+      "definition": "父母跟孩子讲话时使用不同声音、不同词语，配合面部表情和音调声音，可以提高孩子对语言的理解和敏感度。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a009"
+      ]
+    },
+    {
+      "name": "孩子听到声音刺激大脑连接和突触发育",
+      "definition": "孩子听到声音会刺激大脑进行连接，刺激大脑突触发育。语言能力越高的孩子在学校取得的成绩越好。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a010"
+      ]
+    },
+    {
+      "name": "讲师自己孩子语言能力超常的案例",
+      "definition": "讲师母亲曾建议带孩子要像疯子一样。讲师自己带老大时，在孩子不会讲话时持续与他讲话，现在老大五岁半，语言能力超然，会讲三种不同语言，词汇丰富。讲师认为这与当时持续讲话有很大关系。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a011"
+      ]
+    },
+    {
+      "name": "讲师与两个月大婴儿互动的视频案例",
+      "definition": "视频中讲师与两个月大婴儿互动，用夸张表情和语言对话，如“大灰狼，我怕大灰狼”、“彩虹出来啦，手牵手走吧”，并采访婴儿心情，婴儿抬头高，讲师称其为世界级天才、未来奥林匹克运动员。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a012"
+      ]
+    },
+    {
+      "name": "沟通必要条件：父母情绪健康",
+      "definition": "沟通的必要条件是父母情绪健康。生完孩子后妈妈特别是妈妈有很大危险产后抑郁，因为荷尔蒙情况，这会影响与孩子的沟通。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a013"
+      ]
+    },
+    {
+      "name": "0-3岁沟通方法一：减少分心",
+      "definition": "在孩子0-3岁阶段，父母应减少分心，不要在孩子旁边放手机、看电视等分散注意力，即使孩子不会讲话或不太理解，耳边一直听到声音也是好的沟通开始。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a014"
+      ]
+    },
+    {
+      "name": "0-3岁沟通方法二：给孩子时间思考",
+      "definition": "孩子反映事情需要较长时间，因为大脑突触和理解认知有限。父母要给孩子时间思考，例如再等五秒钟或十秒钟，特别是急性子父母要注意。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a015"
+      ]
+    },
+    {
+      "name": "0-3岁沟通方法三：提问并给孩子时间回答",
+      "definition": "父母应特别注意孩子感兴趣的东西，通过提问启发沟通，并给孩子时间回答。例如洗澡时放玩具小鸭，问“这是小鸭子吗？它在游泳吗？”等。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a016"
+      ]
+    },
+    {
+      "name": "父母替孩子说完话的错误做法",
+      "definition": "孩子思维慢、语言组织表达慢，父母容易替孩子说完话。当孩子学说话时，应给他时间找到合适词语，不要替他说完。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a017"
+      ]
+    },
+    {
+      "name": "不打扰孩子说话",
+      "definition": "孩子说话慢，可能玩一玩别的再想一想，父母不要另辟话题，要等到确定孩子讲的话已经说完。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a018"
+      ]
+    },
+    {
+      "name": "用唱歌方式让祷告变得有趣的案例",
+      "definition": "讲师有信仰，睡前与孩子一起祷告，但孩子流于形式。后来改用唱歌方式，把祷告编成歌，随意编旋律，孩子觉得有趣，还会自己编歌。目的是让孩子喜欢与人沟通，觉得沟通是有意思、好玩的事情，而不是负担和疲倦。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a019"
+      ]
+    },
+    {
+      "name": "0-3岁沟通目的：让孩子喜欢与人沟通",
+      "definition": "0-3岁沟通的目的是让孩子喜欢与人沟通，觉得沟通是有意思、好玩的事情，而不是负担和疲倦。",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a020"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-e20c762aae0b-c001:a002",
+      "target": "s-e20c762aae0b-c001:a001",
+      "kind": "contrasts",
+      "condition": "父母认为沟通就是让孩子听话，与沟通定义相反",
+      "reason": "a002指出父母认为沟通是让孩子听话是方向性错误，而a001定义沟通是交换想法，两者观点相反"
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a003",
+      "target": "s-e20c762aae0b-c001:a004",
+      "kind": "causes",
+      "condition": "0-3岁孩子听不懂道理，所以需要话唠式沟通",
+      "reason": "a003说明孩子小时候听不懂道理，因此a004提出0-3岁沟通关键词是话唠，即不停讲话"
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a005",
+      "target": "s-e20c762aae0b-c001:a004",
+      "kind": "contrasts",
+      "condition": "父母不跟孩子讲话与话唠式沟通相反",
+      "reason": "a005指出很多父母不跟孩子讲话是错误的，而a004强调0-3岁应话唠，两者做法相反"
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a007",
+      "target": "s-e20c762aae0b-c001:a004",
+      "kind": "supports",
+      "condition": "持续与孩子讲话是话唠的具体体现",
+      "reason": "a007建议即使孩子不会回应也应持续讲话，支持a004的话唠关键词"
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a008",
+      "target": "s-e20c762aae0b-c001:a007",
+      "kind": "causes",
+      "condition": "持续讲话促进语言和交流发展",
+      "reason": "a008说明与孩子不停讲话可以帮助语言和交流发展，是a007持续讲话做法的结果"
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a009",
+      "target": "s-e20c762aae0b-c001:a008",
+      "kind": "supports",
+      "condition": "使用不同声音和词语是促进语言理解的具体方法",
+      "reason": "a009提出使用不同声音和词语可以提高语言理解，支持a008关于语言发展的观点"
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a010",
+      "target": "s-e20c762aae0b-c001:a008",
+      "kind": "supports",
+      "condition": "声音刺激大脑发育，支持语言发展",
+      "reason": "a010说明孩子听到声音刺激大脑连接和突触发育，支持a008关于语言发展的机制"
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a011",
+      "target": "s-e20c762aae0b-c001:a007",
+      "kind": "example_of",
+      "condition": "讲师持续与孩子讲话的案例",
+      "reason": "a011是讲师持续与孩子讲话导致孩子语言能力超常的案例，是a007持续讲话做法的实例"
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a012",
+      "target": "s-e20c762aae0b-c001:a009",
+      "kind": "example_of",
+      "condition": "讲师与婴儿互动使用夸张表情和语言",
+      "reason": "a012视频中讲师用夸张表情和语言对话，是a009使用不同声音和词语的实例"
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a013",
+      "target": "s-e20c762aae0b-c001:a001",
+      "kind": "prerequisite",
+      "condition": "父母情绪健康是沟通的必要条件",
+      "reason": "父母情绪健康是进行有效沟通的前提，因此是沟通定义中信息交换能够实现的基础。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a014",
+      "target": "s-e20c762aae0b-c001:a004",
+      "kind": "step_of",
+      "condition": "减少分心是话唠式沟通的方法之一",
+      "reason": "a014提出减少分心是0-3岁沟通方法，属于话唠式沟通的具体步骤"
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a015",
+      "target": "s-e20c762aae0b-c001:a004",
+      "kind": "step_of",
+      "condition": "给孩子时间思考是话唠式沟通的方法之一",
+      "reason": "a015提出给孩子时间思考是0-3岁沟通方法，属于话唠式沟通的具体步骤"
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a016",
+      "target": "s-e20c762aae0b-c001:a004",
+      "kind": "step_of",
+      "condition": "提问并给孩子时间回答是话唠式沟通的方法之一",
+      "reason": "0-3岁沟通方法三（提问并给孩子时间回答）是0-3岁沟通关键词“话唠”的具体实施步骤之一。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a017",
+      "target": "s-e20c762aae0b-c001:a015",
+      "kind": "contrasts",
+      "condition": "父母替孩子说完话与给孩子时间思考相反",
+      "reason": "a017指出父母替孩子说完话是错误的，而a015强调给孩子时间思考，两者做法相反"
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a018",
+      "target": "s-e20c762aae0b-c001:a015",
+      "kind": "supports",
+      "condition": "不打扰孩子说话是给孩子时间思考的延伸",
+      "reason": "a018建议不打扰孩子说话，等待孩子说完，支持a015给孩子时间思考的观点"
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a019",
+      "target": "s-e20c762aae0b-c001:a020",
+      "kind": "example_of",
+      "condition": "唱歌方式让祷告有趣，实现让孩子喜欢沟通的目的",
+      "reason": "a019是用唱歌方式让祷告有趣的案例，体现了a020让孩子喜欢与人沟通的目的"
+    },
+    {
+      "source": "s-e20c762aae0b-c001:a020",
+      "target": "s-e20c762aae0b-c001:a004",
+      "kind": "supports",
+      "condition": "让孩子喜欢沟通是话唠式沟通的目的",
+      "reason": "a020指出0-3岁沟通目的是让孩子喜欢与人沟通，支持a004话唠式沟通的最终目标"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a001",
+        "s-e20c762aae0b-c001:r001"
+      ],
+      "reason": "两者都定义沟通为交换想法、进入彼此世界，而非让孩子听话，内容实质等价"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "0-3岁沟通方法",
+      "steps": [
+        {
+          "action": "减少分心",
+          "atom_ids": [
+            "s-e20c762aae0b-c001:a014"
+          ],
+          "condition": "在孩子0-3岁阶段，父母应减少分心，不要在孩子旁边放手机、看电视等分散注意力"
+        },
+        {
+          "action": "给孩子时间思考",
+          "atom_ids": [
+            "s-e20c762aae0b-c001:a015"
+          ],
+          "condition": "孩子反映事情需要较长时间，父母要给孩子时间思考，例如再等五秒钟或十秒钟"
+        },
+        {
+          "action": "提问并给孩子时间回答",
+          "atom_ids": [
+            "s-e20c762aae0b-c001:a016"
+          ],
+          "condition": "父母应特别注意孩子感兴趣的东西，通过提问启发沟通，并给孩子时间回答"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-e20c762aae0b-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a001"
+      ],
+      "blocks": [
+        "b00001",
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u002",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a002"
+      ],
+      "blocks": [
+        "b00001",
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a003"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a004"
+      ],
+      "blocks": [
+        "b00005"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u005",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a005"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a006"
+      ],
+      "blocks": [
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a007"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a008"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a009"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a010"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a011"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a012"
+      ],
+      "blocks": [
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a013"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a014"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a015"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a016"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u017",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a017"
+      ],
+      "blocks": [
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a018"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u019",
+      "kind": "case",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a019"
+      ],
+      "blocks": [
+        "b00020",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:a020"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-e20c762aae0b-c001:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-e20c762aae0b-c001:r001"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

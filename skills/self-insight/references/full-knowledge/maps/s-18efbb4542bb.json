@@ -1,0 +1,4819 @@
+{
+  "concepts": [
+    {
+      "name": "守住主场",
+      "definition": "在对话中由自己定义事情的对错标准，从而在争论中占据优势。",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a001",
+        "s-18efbb4542bb-c001:a005"
+      ]
+    },
+    {
+      "name": "岔开话题",
+      "definition": "当对方提出一个话题时，不进入对方的话题，而是另起一个话题，从而避免在对方的主场中争论。",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a002"
+      ]
+    },
+    {
+      "name": "质疑资格",
+      "definition": "反问对方是否有资格评判，将焦点转移到资格问题上。",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a004",
+        "s-18efbb4542bb-c002:p03-a001",
+        "s-18efbb4542bb-c002:p03-a008",
+        "s-18efbb4542bb-c002:p03-r004",
+        "s-18efbb4542bb-c003:a002"
+      ]
+    },
+    {
+      "name": "跳出主场",
+      "definition": "不围绕对方的话题争论，而是另起一个话题或回到自己之前的主场。",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a007",
+        "s-18efbb4542bb-c001:a013",
+        "s-18efbb4542bb-c002:p01-a006",
+        "s-18efbb4542bb-c002:p02-a003",
+        "s-18efbb4542bb-c002:p02-a004",
+        "s-18efbb4542bb-c002:p02-a007"
+      ]
+    },
+    {
+      "name": "逻辑漏洞反击",
+      "definition": "当对方的话有重大逻辑漏洞时，刻意进入对方的主场，抓住漏洞进行反击。",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a011",
+        "s-18efbb4542bb-c002:p01-a007",
+        "s-18efbb4542bb-c002:p04-r001",
+        "s-18efbb4542bb-c003:a009"
+      ]
+    },
+    {
+      "name": "转场",
+      "definition": "争夺对话主场的策略，包括不进入对方主场、问对方问题要求回答、绝不接对方话题。",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p03-a009",
+        "s-18efbb4542bb-c002:p03-a010",
+        "s-18efbb4542bb-c002:p03-r006",
+        "s-18efbb4542bb-c002:p04-a001",
+        "s-18efbb4542bb-c002:p04-a002",
+        "s-18efbb4542bb-c002:p04-a004"
+      ]
+    },
+    {
+      "name": "锁定主场",
+      "definition": "当对方试图转移话题时，坚持不换场，反复将对方拉回自己的主场，并持续追问核心问题。",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a001"
+      ]
+    },
+    {
+      "name": "质疑与批评的区别",
+      "definition": "质疑是提出疑问、寻求讨论；批评是直接否定和指责。",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a003"
+      ]
+    },
+    {
+      "name": "吵架的目的",
+      "definition": "通过讨论让对方明白自己的诉求、指出对方的逻辑漏洞、让对方认识到期待不合理以及沟通方法行不通，从而促使对方改变或认错。",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a001",
+        "s-18efbb4542bb-c004:a025",
+        "s-18efbb4542bb-c004:a047",
+        "s-18efbb4542bb-c004:a049",
+        "s-18efbb4542bb-c004:a050"
+      ]
+    },
+    {
+      "name": "认知与逻辑漏洞识别",
+      "definition": "要找出逻辑漏洞，首先需要认知清晰；认知不足则无法识别逻辑漏洞。",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a012",
+        "s-18efbb4542bb-c004:a024",
+        "s-18efbb4542bb-c004:a072",
+        "s-18efbb4542bb-c004:r020"
+      ]
+    },
+    {
+      "name": "保护心智",
+      "definition": "像保护眼睛的瞳仁一样保护心智，避免被错误逻辑洗脑。",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a017",
+        "s-18efbb4542bb-c004:a085",
+        "s-18efbb4542bb-c005:a001",
+        "s-18efbb4542bb-c005:r002"
+      ]
+    },
+    {
+      "name": "耳朵听与抗压",
+      "definition": "耳朵仔细听时前额叶活跃，听得越仔细，对方越压不倒你。",
+      "atom_ids": [
+        "s-18efbb4542bb-c005:a008",
+        "s-18efbb4542bb-c005:r004"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-18efbb4542bb-c001:a001",
+      "target": "s-18efbb4542bb-c001:a002",
+      "kind": "association",
+      "condition": "当对方试图定义争论标准时",
+      "reason": "守住主场的定义与岔开对方话题相关，但定义本身不支持该技术；反过来，岔开话题是实现守住主场的一种方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系方向不成立，改为关联。"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a002",
+      "target": "s-18efbb4542bb-c001:a004",
+      "kind": "example_of",
+      "condition": "对方以权威姿态评判时",
+      "reason": "质疑对方资格的具体做法是岔开对方话题的一个示例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a003",
+      "target": "s-18efbb4542bb-c001:a004",
+      "kind": "example_of",
+      "condition": "丈夫指责妻子学育儿无用",
+      "reason": "k00004是针对k00003情境的岔开话题示例。"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a005",
+      "target": "s-18efbb4542bb-c001:a007",
+      "kind": "supports",
+      "condition": "对方掌握定义权时",
+      "reason": "跳出对方主场是改变定义权归属的方法。"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a007",
+      "target": "s-18efbb4542bb-c001:a013",
+      "kind": "step_of",
+      "condition": "自己之前的主场有效时",
+      "reason": "回到自己主场是跳出对方主场的一种方式。"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a011",
+      "target": "s-18efbb4542bb-c001:a012",
+      "kind": "example_of",
+      "condition": "丈夫的话存在逻辑漏洞",
+      "reason": "k00012是刻意进入对方主场抓漏洞反击的示例。"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a013",
+      "target": "s-18efbb4542bb-c001:a014",
+      "kind": "example_of",
+      "condition": "回到的主场原本是对方的",
+      "reason": "k00014展示了错误回到对方主场的后果。"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a015",
+      "target": "s-18efbb4542bb-c001:a016",
+      "kind": "example_of",
+      "condition": "对方指责态度时",
+      "reason": "k00016是k00015反问转移话题的示例。"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a017",
+      "target": "s-18efbb4542bb-c001:a018",
+      "kind": "example_of",
+      "condition": "对方转移话题到态度时",
+      "reason": "k00018是归因对方问题建立主场的示例。"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a019",
+      "target": "s-18efbb4542bb-c001:a020",
+      "kind": "example_of",
+      "condition": "对方先发起指责时",
+      "reason": "k00020是指出对方先挑起争论的示例。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p01-a001",
+      "target": "s-18efbb4542bb-c002:p01-a002",
+      "kind": "supports",
+      "condition": "对方转移话题时",
+      "reason": "k00028通过定义“面对问题”来限制对方转移话题，是k00027反问策略的补充。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p01-a004",
+      "target": "s-18efbb4542bb-c002:p01-a005",
+      "kind": "example_of",
+      "condition": "对方使用生理或情绪状态转移话题时",
+      "reason": "k00031是k00030阻止对方转场的具体示例。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p01-a006",
+      "target": "s-18efbb4542bb-c002:p02-a003",
+      "kind": "step_of",
+      "condition": "对方逼你面对问题时",
+      "reason": "k00036是跳出场子的具体方法。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p02-a003",
+      "target": "s-18efbb4542bb-c002:p02-a004",
+      "kind": "step_of",
+      "condition": "跳出场子后",
+      "reason": "k00037是跳出场子后提出自己问题的后续步骤。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p02-a005",
+      "target": "s-18efbb4542bb-c002:p02-a008",
+      "kind": "example_of",
+      "condition": "对方像领导一样逼问时",
+      "reason": "k00041是k00038质疑对方资格的具体示例。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p02-a007",
+      "target": "s-18efbb4542bb-c002:p02-a011",
+      "kind": "example_of",
+      "condition": "老公逼老婆面对孩子问题",
+      "reason": "k00044展示了避免进入对方场子的原则。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p02-a012",
+      "target": "s-18efbb4542bb-c002:p02-a013",
+      "kind": "step_of",
+      "condition": "老婆跳出场子后",
+      "reason": "k00046是k00045跳出场子后继续指出老公问题的后续。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p02-a013",
+      "target": "s-18efbb4542bb-c002:p02-a014",
+      "kind": "step_of",
+      "condition": "老婆跳出场子后",
+      "reason": "k00047是k00046跳出场子后提出自己问题的后续。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p02-a015",
+      "target": "s-18efbb4542bb-c002:p02-a016",
+      "kind": "example_of",
+      "condition": "老公批评老婆跳出场子",
+      "reason": "k00049是老婆回应老公批评的示例。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-a001",
+      "target": "s-18efbb4542bb-c002:p03-a002",
+      "kind": "step_of",
+      "condition": "对方试图占据对话主导权时",
+      "reason": "k00063是换场后问对方问题要求回答的步骤。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-a002",
+      "target": "s-18efbb4542bb-c002:p03-a003",
+      "kind": "step_of",
+      "condition": "对方试图用话题主导对话时",
+      "reason": "k00064是绝不接对方话题的原则。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-a004",
+      "target": "s-18efbb4542bb-c002:p03-r007",
+      "kind": "supports",
+      "condition": "在冲突对话中卡壳时",
+      "reason": "k00078是k00065先说出来再修改的练习方法。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-a006",
+      "target": "s-18efbb4542bb-c002:p03-a007",
+      "kind": "supports",
+      "condition": "对方提出问题时",
+      "reason": "k00068说明回答对方问题即落入陷阱，支持k00067区分问题的重要性。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-a008",
+      "target": "s-18efbb4542bb-c002:p03-r004",
+      "kind": "example_of",
+      "condition": "对方以丈夫身份质问时",
+      "reason": "k00075是k00069用身份角色质疑对方提问资格的具体示例。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-a009",
+      "target": "s-18efbb4542bb-c002:p03-a010",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "k00071说明转场方法的整体威力，支持k00070的转场三要点。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-r001",
+      "target": "s-18efbb4542bb-c002:p03-r002",
+      "kind": "supports",
+      "condition": "对方提出无理要求时",
+      "reason": "k00073用比喻强化k00072换场时否定对方资格的逻辑。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-r003",
+      "target": "s-18efbb4542bb-c002:p03-r004",
+      "kind": "supports",
+      "condition": "对方以老板身份行事时",
+      "reason": "k00075指出对方身份与行为不符，支持k00074用比喻质疑对方角色。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-r005",
+      "target": "s-18efbb4542bb-c002:p03-r006",
+      "kind": "supports",
+      "condition": "转场后",
+      "reason": "k00077说明转场可攻可守可框定，支持k00076转场后对方难以回答。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p04-a001",
+      "target": "s-18efbb4542bb-c002:p04-a002",
+      "kind": "association",
+      "condition": "",
+      "reason": "转场的两种常见结果与转场的目的和停止条件均涉及转场，但一者是结果描述，一者是策略目的，无法相互支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系过强，改为关联。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p04-a003",
+      "target": "s-18efbb4542bb-c002:p04-a005",
+      "kind": "example_of",
+      "condition": "对方转场时",
+      "reason": "k00083是k00081拉回对话方法的示范案例。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p04-a004",
+      "target": "s-18efbb4542bb-c002:p04-r001",
+      "kind": "supports",
+      "condition": "发现有利点时",
+      "reason": "k00084说明咬死有利点并抓住对方逻辑漏洞，支持k00082实际应用中的选择。"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p04-r002",
+      "target": "s-18efbb4542bb-c003:a001",
+      "kind": "supports",
+      "condition": "对方试图换场时",
+      "reason": "拉回对话的多种话术（重复核心问题、拒绝转移话题、身份反问）支持锁定主场的拒绝换场并持续追问策略。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a002",
+      "target": "s-18efbb4542bb-c003:a003",
+      "kind": "association",
+      "condition": "对方以批评方式开启对话时",
+      "reason": "以身份质问锁定对话资格与质疑与批评的区别均涉及批评或质疑的应对，但身份质问的内容并未与质疑批评的区别形成对比或直接支持。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 contrasts 不成立，改为关联。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a004",
+      "target": "s-18efbb4542bb-c003:a005",
+      "kind": "supports",
+      "condition": "要求老公称赞时",
+      "reason": "k00090说明称赞不等于掩盖缺点，支持k00089要求老公称赞的合理性。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a006",
+      "target": "s-18efbb4542bb-c003:a007",
+      "kind": "supports",
+      "condition": "对话处于自己的主场时",
+      "reason": "k00092在主场中定义标准，支持k00091用对方方式反击对方。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a008",
+      "target": "s-18efbb4542bb-c003:a009",
+      "kind": "association",
+      "condition": "对方偷换概念时",
+      "reason": "老板与老公的质疑资格不同，和识别并抓住对方的逻辑漏洞均涉及对话策略，但前者强调身份资格，后者强调逻辑漏洞，无直接支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系不成立，改为关联。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a010",
+      "target": "s-18efbb4542bb-c003:a011",
+      "kind": "causes",
+      "condition": "老公第一句话触发妻子情绪",
+      "reason": "k00096说明情绪触发点导致争吵，是k00095案例中争吵的原因之一。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a012",
+      "target": "s-18efbb4542bb-c003:a013",
+      "kind": "association",
+      "condition": "对方以批评方式开启对话时",
+      "reason": "工资上缴不等于个人可支配与拒绝讨论问题并互相批评关联于同一对话场景，但二者无直接支持或因果关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系不成立，改为关联。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a014",
+      "target": "s-18efbb4542bb-c003:a015",
+      "kind": "association",
+      "condition": "对方存在双重标准时",
+      "reason": "双重标准与用反问揭示对方逻辑矛盾均涉及对话中的逻辑问题，但双重标准本身不直接支持反问技术；反问可以发现双重标准，方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原支持关系方向存疑，改为关联。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a016",
+      "target": "s-18efbb4542bb-c003:a019",
+      "kind": "supports",
+      "condition": "对方偷换概念时",
+      "reason": "k00104偷换概念把批评说成讨论，支持k00101要求对方重复第一句话的方法。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a017",
+      "target": "s-18efbb4542bb-c003:a027",
+      "kind": "supports",
+      "condition": "对话处于自己的主场时",
+      "reason": "k00112在主场中定义批评与称赞的比例，支持k00102在主场中定义称赞标准。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a018",
+      "target": "s-18efbb4542bb-c003:a030",
+      "kind": "supports",
+      "condition": "对方以老板身份行事时",
+      "reason": "k00115指出对方以老板身份行事，支持k00103以老板身份类比揭示对方越界。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a020",
+      "target": "s-18efbb4542bb-c003:a028",
+      "kind": "association",
+      "condition": "对方提出不合理要求时",
+      "reason": "用讽刺和夸张揭示对方荒谬与用极端化回应揭示对方荒谬是两种不同的策略，均针对不合理要求，但相互不构成支持或因果。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原supports证据不足；两者为并列策略，改为association。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a021",
+      "target": "s-18efbb4542bb-c003:r001",
+      "kind": "supports",
+      "condition": "对方说“我不是这个意思”时",
+      "reason": "k00119识别并利用对方辩解作为主场信号，支持k00106对方说“我不是这个意思”时仍在主场。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a022",
+      "target": "s-18efbb4542bb-c003:r002",
+      "kind": "supports",
+      "condition": "对方声称请教但实际批评时",
+      "reason": "k00120拆穿“请教”伪装并回归批评事实，支持k00107拆穿“请教”的伪装。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a023",
+      "target": "s-18efbb4542bb-c003:r004",
+      "kind": "supports",
+      "condition": "对话处于自己的主场时",
+      "reason": "k00122对方反抗“凭什么都听你的”仍表明在主场内，支持k00108在主场中等待对方回答。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a024",
+      "target": "s-18efbb4542bb-c003:a031",
+      "kind": "supports",
+      "condition": "对方身份明确且愿意学习时",
+      "reason": "k00116话题发起者决定对话性质，支持k00109教对方如何以正确身份提出质疑。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a025",
+      "target": "s-18efbb4542bb-c003:a026",
+      "kind": "supports",
+      "condition": "一方只批评不称赞时",
+      "reason": "k00111用反问揭示对方双重标准，支持k00110批评与称赞的失衡导致不满。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a029",
+      "target": "s-18efbb4542bb-c003:r004",
+      "kind": "supports",
+      "condition": "对方表达反抗但未提出新话题时",
+      "reason": "k00122对方反抗“凭什么都听你的”仍表明在主场内，支持k00114对方说“凭什么都听你的”时仍在主场。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a032",
+      "target": "s-18efbb4542bb-c003:r006",
+      "kind": "supports",
+      "condition": "对方偷换概念时",
+      "reason": "k00124要求对方重复第一句话以揭示真相，支持k00117要求对方重复第一句话以揭示真相。"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a033",
+      "target": "s-18efbb4542bb-c003:a033",
+      "kind": "supports",
+      "condition": "对方第一句话触发情绪时",
+      "reason": "k00125情绪触发导致争吵态度问题，支持k00118情绪触发导致争吵态度问题。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a001",
+      "target": "s-18efbb4542bb-c004:a002",
+      "kind": "supports",
+      "condition": "吵架中",
+      "reason": "k00127通过逻辑辩论让对方不敢乱讲话，支持k00126吵架的目的。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a003",
+      "target": "s-18efbb4542bb-c004:a004",
+      "kind": "example_of",
+      "condition": "夫妻吵架中",
+      "reason": "k00129航天工程师丈夫学习逻辑吵架的案例，是k00128讲师与讲者的丈夫吵架案例的类似示例。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a005",
+      "target": "s-18efbb4542bb-c004:a006",
+      "kind": "contrasts",
+      "condition": "对方是老板且非常需要这份工作，或遇到陌生人挑衅时",
+      "reason": "吵架适用于想要维系的关系，而老板和陌生人是不吵架的例外情况，两者构成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原kind为exception，根据允许类型改为contrasts。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a007",
+      "target": "s-18efbb4542bb-c004:a025",
+      "kind": "supports",
+      "condition": "吵架时",
+      "reason": "k00150吵架的目的是改善关系而非伤害，支持k00132吵架与泄愤的区别。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a008",
+      "target": "s-18efbb4542bb-c004:a010",
+      "kind": "supports",
+      "condition": "理解女人被造的目的时",
+      "reason": "k00135女人被造的目的不是完全男人，支持k00133帮助者的希伯来文含义。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a009",
+      "target": "s-18efbb4542bb-c004:a010",
+      "kind": "supports",
+      "condition": "理解男人独居不好时",
+      "reason": "k00135女人被造是为了帮助男人，支持k00134男人独居与已婚男性的生活质量差异。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a011",
+      "target": "s-18efbb4542bb-c004:a064",
+      "kind": "supports",
+      "condition": "解读肋骨比喻时",
+      "reason": "k00189肋骨比喻的现代解读，支持k00136肋骨比喻的现代解读。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a012",
+      "target": "s-18efbb4542bb-c004:a013",
+      "kind": "supports",
+      "condition": "提升认知时",
+      "reason": "k00138浸泡在智慧中提升认知，支持k00137认知影响逻辑漏洞的识别。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a014",
+      "target": "s-18efbb4542bb-c004:a015",
+      "kind": "supports",
+      "condition": "理解圣经中“头”的含义时",
+      "reason": "k00140圣经中“头”的含义不是领导，支持k00139儒家思想对圣经解读的影响。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a016",
+      "target": "s-18efbb4542bb-c004:a083",
+      "kind": "supports",
+      "condition": "理解圣经教导时",
+      "reason": "k00208圣经教导喜乐，支持k00141圣经教导喜乐而非天天认罪。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a017",
+      "target": "s-18efbb4542bb-c004:a085",
+      "kind": "supports",
+      "condition": "保护心智时",
+      "reason": "k00210保护心智的重要性，支持k00142保护心智的重要性。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a018",
+      "target": "s-18efbb4542bb-c004:a019",
+      "kind": "example_of",
+      "condition": "应对错误教导时",
+      "reason": "学员与丈夫关于角色的对话案例是应对错误教导的反驳方法的实例，该案例展示了错误教导导致地位不平等后如何反驳。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原kind supports，但案例与概念应为example_of，方向不变仍成立。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a020",
+      "target": "s-18efbb4542bb-c004:a079",
+      "kind": "supports",
+      "condition": "学习希伯来原文时",
+      "reason": "k00204讲师学习希伯来原文，支持k00145学习希伯来原文的重要性。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a021",
+      "target": "s-18efbb4542bb-c004:a067",
+      "kind": "supports",
+      "condition": "某沙龙的作用时",
+      "reason": "k00192某沙龙的目的，支持k00146某沙龙的作用。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a022",
+      "target": "s-18efbb4542bb-c004:a077",
+      "kind": "supports",
+      "condition": "比喻智慧让人清醒时",
+      "reason": "k00202清水与浑水的比喻，支持k00147认知清晰才能看清事情。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a023",
+      "target": "s-18efbb4542bb-c004:a055",
+      "kind": "supports",
+      "condition": "接受错误教导时",
+      "reason": "k00180学员被自己的话坑了，支持k00148错误教导导致自我挖坑。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a024",
+      "target": "s-18efbb4542bb-c004:a072",
+      "kind": "supports",
+      "condition": "吵架训练逻辑时",
+      "reason": "k00197认知清晰才能找出逻辑漏洞，支持k00149吵架训练逻辑需要认知基础。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a026",
+      "target": "s-18efbb4542bb-c004:a041",
+      "kind": "supports",
+      "condition": "吵架后",
+      "reason": "k00166老公生气后第二次会收敛，支持k00151吵架后对方会收敛。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a027",
+      "target": "s-18efbb4542bb-c004:a042",
+      "kind": "supports",
+      "condition": "学习理直气壮后",
+      "reason": "k00167学习理直气壮后夫妻感情更好的原因，支持k00152学习理直气壮后夫妻感情更好。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a028",
+      "target": "s-18efbb4542bb-c004:a029",
+      "kind": "supports",
+      "condition": "吵架中",
+      "reason": "k00154吵架中抓住逻辑漏洞的方法，支持k00153吵架中逻辑严密的重要性。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a030",
+      "target": "s-18efbb4542bb-c004:a031",
+      "kind": "supports",
+      "condition": "吵架中",
+      "reason": "k00156吵架中让对方明白沟通方法行不通，支持k00155吵架中让对方明白期待不合理。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a032",
+      "target": "s-18efbb4542bb-c004:a033",
+      "kind": "supports",
+      "condition": "吵架后",
+      "reason": "k00158吵架中逼疯对方的目的，支持k00157吵架后对方会思考逻辑。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a034",
+      "target": "s-18efbb4542bb-c004:a035",
+      "kind": "supports",
+      "condition": "对方不敢乱讲话时",
+      "reason": "k00160好的吵架帮助彼此动脑子，支持k00159吵架中对方不敢乱讲话的结果。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a036",
+      "target": "s-18efbb4542bb-c004:a037",
+      "kind": "association",
+      "condition": "讲师与讲者的丈夫吵架时",
+      "reason": "讲师与讲者的丈夫吵架的特点和讲者的丈夫被讲师逻辑逼疯的经历相关，经历体现特点，但给定方向无法表达example_of，且特点本身不是示例。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原kind example_of方向有误，正确应为target example_of source，改为association。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a038",
+      "target": "s-18efbb4542bb-c004:a039",
+      "kind": "supports",
+      "condition": "讲者的丈夫对讲师的评价时",
+      "reason": "k00164讲者的丈夫对父亲的看法，支持k00163讲者的丈夫对讲师的评价。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a040",
+      "target": "s-18efbb4542bb-c004:r010",
+      "kind": "supports",
+      "condition": "讲师用逻辑告诉讲者的丈夫时",
+      "reason": "k00220讲师用逻辑告诉讲者的丈夫不可以胡搅蛮缠的机制，支持k00165讲师用逻辑告诉讲者的丈夫不可以胡搅蛮缠。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a043",
+      "target": "s-18efbb4542bb-c004:r005",
+      "kind": "supports",
+      "condition": "航天工程师丈夫学习时",
+      "reason": "k00215航天工程师丈夫学习逻辑吵架的动机，支持k00168航天工程师丈夫学习的原因。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a044",
+      "target": "s-18efbb4542bb-c004:a033",
+      "kind": "supports",
+      "condition": "吵架中",
+      "reason": "k00158吵架中逼疯对方的目的，支持k00169吵架的目的不是逼疯对方。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a045",
+      "target": "s-18efbb4542bb-c004:a046",
+      "kind": "exception",
+      "condition": "遇到陌生人挑衅时",
+      "reason": "k00171遇到陌生人挑衅不吵架，是k00170吵架适用于朋友同事老板等关系的例外。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a048",
+      "target": "s-18efbb4542bb-c004:a047",
+      "kind": "supports",
+      "condition": "吵架中一来一回时",
+      "reason": "k00172吵架是为了关系，支持k00173吵架中一来一回的适用条件。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a051",
+      "target": "s-18efbb4542bb-c004:r013",
+      "kind": "supports",
+      "condition": "参加练习时",
+      "reason": "k00223参加练习的目的，支持k00176参加练习的目的。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a052",
+      "target": "s-18efbb4542bb-c004:a005",
+      "kind": "supports",
+      "condition": "学员的问题时",
+      "reason": "k00130吵架的适用条件，支持k00177学员的问题：什么时候吵什么时候闭嘴。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a053",
+      "target": "s-18efbb4542bb-c004:a054",
+      "kind": "supports",
+      "condition": "信仰中寻求平衡时",
+      "reason": "k00179学员与丈夫的对话内容，支持k00178信仰中寻求平衡的智慧。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a056",
+      "target": "s-18efbb4542bb-c004:a057",
+      "kind": "supports",
+      "condition": "讲师对错误教导的批评时",
+      "reason": "k00182女人是男人的帮助者，支持k00181讲师对错误教导的批评。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a058",
+      "target": "s-18efbb4542bb-c004:a009",
+      "kind": "supports",
+      "condition": "男人独居不好的科学证据时",
+      "reason": "k00134男人独居与已婚男性的生活质量差异，支持k00183男人独居不好的科学证据。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a059",
+      "target": "s-18efbb4542bb-c004:a060",
+      "kind": "supports",
+      "condition": "错误教导导致地位不平等时",
+      "reason": "k00185被教会教导陷害，支持k00184错误教导导致地位不平等。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a061",
+      "target": "s-18efbb4542bb-c004:a019",
+      "kind": "supports",
+      "condition": "反驳错误教导时",
+      "reason": "k00144应对错误教导的反驳方法，支持k00186反驳错误教导的方法。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a062",
+      "target": "s-18efbb4542bb-c004:a063",
+      "kind": "supports",
+      "condition": "学员丈夫的反问时",
+      "reason": "k00188圣经没有说女人被造是为了补充男人，支持k00187学员丈夫的反问是对的。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a065",
+      "target": "s-18efbb4542bb-c004:a066",
+      "kind": "supports",
+      "condition": "脑子清醒时",
+      "reason": "k00191被歪理洗脑的危害，支持k00190脑子清醒才能说赢。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a068",
+      "target": "s-18efbb4542bb-c004:a069",
+      "kind": "supports",
+      "condition": "浸泡在智慧中时",
+      "reason": "k00194认知不同看事情角度不同，支持k00193浸泡在智慧中的效果。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a070",
+      "target": "s-18efbb4542bb-c004:a015",
+      "kind": "supports",
+      "condition": "教会教导中“头”的含义时",
+      "reason": "k00140圣经中“头”的含义不是领导，支持k00195教会教导中“头”的含义。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a071",
+      "target": "s-18efbb4542bb-c004:a021",
+      "kind": "supports",
+      "condition": "某沙龙成员的评价时",
+      "reason": "k00146某沙龙的作用，支持k00196某沙龙成员的评价。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a073",
+      "target": "s-18efbb4542bb-c004:a074",
+      "kind": "supports",
+      "condition": "浸泡在智慧中时",
+      "reason": "k00199没有认知的人容易被说服，支持k00198浸泡在智慧中让脑子清晰。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a075",
+      "target": "s-18efbb4542bb-c004:r023",
+      "kind": "supports",
+      "condition": "练习时",
+      "reason": "k00233练习让脑子更开的机制，支持k00200练习让脑子更开。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a076",
+      "target": "s-18efbb4542bb-c004:r024",
+      "kind": "supports",
+      "condition": "智慧让人清醒时",
+      "reason": "k00234智慧让人清醒的机制，支持k00201智慧让人清醒。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a078",
+      "target": "s-18efbb4542bb-c004:r026",
+      "kind": "supports",
+      "condition": "学员要注意所受教导时",
+      "reason": "k00236学员要注意所受教导的机制，支持k00203学员要注意所受教导。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a080",
+      "target": "s-18efbb4542bb-c004:r028",
+      "kind": "supports",
+      "condition": "很多牧师没有学过原文时",
+      "reason": "k00238很多牧师没有学过原文的机制，支持k00205很多牧师没有学过原文。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a081",
+      "target": "s-18efbb4542bb-c004:r029",
+      "kind": "supports",
+      "condition": "儒家思想对圣经解读的影响时",
+      "reason": "k00239儒家思想对圣经解读的影响机制，支持k00206儒家思想对圣经解读的影响。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a082",
+      "target": "s-18efbb4542bb-c004:r030",
+      "kind": "supports",
+      "condition": "正确理解圣经时",
+      "reason": "k00240正确理解圣经的重要性的机制，支持k00207正确理解圣经的重要性。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a084",
+      "target": "s-18efbb4542bb-c004:r032",
+      "kind": "supports",
+      "condition": "神是活的神时",
+      "reason": "k00242神是活的神的机制，支持k00209神是活的神。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:r001",
+      "target": "s-18efbb4542bb-c004:r002",
+      "kind": "supports",
+      "condition": "吵架中",
+      "reason": "k00212吵架中逼疯对方的行为机制，支持k00211吵架中让对方意识到逻辑漏洞的具体目的。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:r003",
+      "target": "s-18efbb4542bb-c004:r011",
+      "kind": "supports",
+      "condition": "吵架后",
+      "reason": "k00221老公生气后第二次会收敛的机制，支持k00213吵架后对方收敛的机制。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:r004",
+      "target": "s-18efbb4542bb-c004:r006",
+      "kind": "supports",
+      "condition": "学习理直气壮后",
+      "reason": "k00216吵架中让对方明白期待不合理的机制，支持k00214学习理直气壮后夫妻感情更好的机制。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:r007",
+      "target": "s-18efbb4542bb-c004:r008",
+      "kind": "supports",
+      "condition": "吵架中",
+      "reason": "k00218吵架中对方不敢乱讲话的结果，支持k00217吵架中让对方明白沟通方法行不通的机制。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:r009",
+      "target": "s-18efbb4542bb-c004:r012",
+      "kind": "supports",
+      "condition": "好的吵架时",
+      "reason": "k00222吵架中让对方听自己说话的机制，支持k00219好的吵架帮助彼此动脑子的机制。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:r014",
+      "target": "s-18efbb4542bb-c004:r015",
+      "kind": "supports",
+      "condition": "学员被自己的话坑了时",
+      "reason": "k00225被教会教导陷害的机制，支持k00224学员被自己的话坑了的机制。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:r016",
+      "target": "s-18efbb4542bb-c004:r017",
+      "kind": "supports",
+      "condition": "脑子清醒时",
+      "reason": "k00227被歪理洗脑的危害，支持k00226脑子清醒才能说赢的机制。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:r018",
+      "target": "s-18efbb4542bb-c004:r019",
+      "kind": "supports",
+      "condition": "浸泡在智慧中时",
+      "reason": "k00229认知不同看事情角度不同的机制，支持k00228浸泡在智慧中提升认知的机制。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:r021",
+      "target": "s-18efbb4542bb-c004:r022",
+      "kind": "supports",
+      "condition": "浸泡在智慧中时",
+      "reason": "k00232没有认知的人容易被说服的机制，支持k00231浸泡在智慧中让脑子清晰的机制。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:r025",
+      "target": "s-18efbb4542bb-c004:a077",
+      "kind": "supports",
+      "condition": "清水与浑水的比喻时",
+      "reason": "k00202清水与浑水的比喻，支持k00235清水与浑水的比喻机制。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:r027",
+      "target": "s-18efbb4542bb-c004:a079",
+      "kind": "supports",
+      "condition": "讲师学习希伯来原文时",
+      "reason": "k00204讲师学习希伯来原文，支持k00237讲师学习希伯来原文的机制。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:r031",
+      "target": "s-18efbb4542bb-c004:a083",
+      "kind": "supports",
+      "condition": "圣经教导喜乐时",
+      "reason": "k00208圣经教导喜乐，支持k00241圣经教导喜乐的机制。"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a017",
+      "target": "s-18efbb4542bb-c005:a001",
+      "kind": "supports",
+      "condition": "保护心智时",
+      "reason": "k00244保护心智的机制，支持k00243保护心智的重要性的机制。"
+    },
+    {
+      "source": "s-18efbb4542bb-c005:a002",
+      "target": "s-18efbb4542bb-c005:a003",
+      "kind": "supports",
+      "condition": "辨别声音时",
+      "reason": "辨别声音的能力支持对教导的谨慎态度，因为有能力辨别才会对生活教导询问希伯来原文出处。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-18efbb4542bb-c005:a004",
+      "target": "s-18efbb4542bb-c005:a005",
+      "kind": "supports",
+      "condition": "关于打孩子的教导辨析时",
+      "reason": "k00248圣经中杖的不同含义，支持k00247关于打孩子的教导辨析。"
+    },
+    {
+      "source": "s-18efbb4542bb-c005:a006",
+      "target": "s-18efbb4542bb-c005:r003",
+      "kind": "supports",
+      "condition": "在智慧中辨别信息时",
+      "reason": "k00254用智慧辨别教导，支持k00249在智慧中辨别信息。"
+    },
+    {
+      "source": "s-18efbb4542bb-c005:a007",
+      "target": "s-18efbb4542bb-c005:a008",
+      "kind": "supports",
+      "condition": "吵架比拼逻辑时",
+      "reason": "吵架比拼逻辑需要仔细听对方的话以捕捉逻辑漏洞，而耳朵听与前额叶的关系解释了仔细听有助于保持前额叶活跃，支持该策略。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-18efbb4542bb-c005:r001",
+      "target": "s-18efbb4542bb-c005:r002",
+      "kind": "supports",
+      "condition": "活的信仰与死的教导时",
+      "reason": "k00253保护心智如保护眼睛，支持k00252活的信仰与死的教导。"
+    },
+    {
+      "source": "s-18efbb4542bb-c005:r004",
+      "target": "s-18efbb4542bb-c005:a008",
+      "kind": "supports",
+      "condition": "耳朵听是抗压训练的关键时",
+      "reason": "k00251耳朵听与前额叶的关系，支持k00255耳朵听是抗压训练的关键。"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n001",
+      "target": "s-18efbb4542bb-c001:a002",
+      "kind": "example_of",
+      "condition": "当丈夫用学习无用发起指责时",
+      "reason": "source通过“你很在意我的学习”另起话题，具体体现了a002所述“不接对方话题，另起一个话题”的岔开原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a002",
+      "target": "s-18efbb4542bb-c001:v2-n001",
+      "kind": "has_example",
+      "condition": "当丈夫用学习无用发起指责时",
+      "reason": "source通过“你很在意我的学习”另起话题，具体体现了a002所述“不接对方话题，另起一个话题”的岔开原则。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n001",
+      "target": "s-18efbb4542bb-c001:a010",
+      "kind": "example_of",
+      "condition": "在家庭争论中，当丈夫用学习无用指责时",
+      "reason": "source从“孩子带得好不好”转移到“对方在意学习”，是一次主场转换，符合a010所述主场转换的频繁性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a010",
+      "target": "s-18efbb4542bb-c001:v2-n001",
+      "kind": "has_example",
+      "condition": "在家庭争论中，当丈夫用学习无用指责时",
+      "reason": "source从“孩子带得好不好”转移到“对方在意学习”，是一次主场转换，符合a010所述主场转换的频繁性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n001",
+      "target": "s-18efbb4542bb-c001:v2-n006",
+      "kind": "complements",
+      "condition": "当对方初始话题具体且掌握定义权时",
+      "reason": "v2-n006以反例说明若转移不彻底仍被拉回，补充了source中“必须完全离开原话题”的限制，强化了操作要点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n006",
+      "target": "s-18efbb4542bb-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当对方初始话题具体且掌握定义权时",
+      "reason": "v2-n006以反例说明若转移不彻底仍被拉回，补充了source中“必须完全离开原话题”的限制，强化了操作要点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n001",
+      "target": "s-18efbb4542bb-c001:a004",
+      "kind": "association",
+      "condition": "当对方以权威姿态评判时",
+      "reason": "两者都是转移话题的具体话术，source转移到学习态度，a004转移到资格，条件不同，但同属岔开策略，无直接互补或冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a004",
+      "target": "s-18efbb4542bb-c001:v2-n001",
+      "kind": "association",
+      "condition": "当对方以权威姿态评判时",
+      "reason": "两者都是转移话题的具体话术，source转移到学习态度，a004转移到资格，条件不同，但同属岔开策略，无直接互补或冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n001",
+      "target": "s-18efbb4542bb-c001:a015",
+      "kind": "association",
+      "condition": "对方指责态度时",
+      "reason": "source与a015都使用反问转移话题，但话题内容不同，无实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a015",
+      "target": "s-18efbb4542bb-c001:v2-n001",
+      "kind": "association",
+      "condition": "对方指责态度时",
+      "reason": "source与a015都使用反问转移话题，但话题内容不同，无实质关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n001",
+      "target": "s-18efbb4542bb-c001:a009",
+      "kind": "association",
+      "condition": "对方指责态度时",
+      "reason": "a009用生理原因转移，source用学习态度，方法类似但具体内容不同，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a009",
+      "target": "s-18efbb4542bb-c001:v2-n001",
+      "kind": "association",
+      "condition": "对方指责态度时",
+      "reason": "a009用生理原因转移，source用学习态度，方法类似但具体内容不同，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n001",
+      "target": "s-18efbb4542bb-c001:a017",
+      "kind": "association",
+      "condition": "对方转移话题到你的态度后",
+      "reason": "a017是归因对方问题以建立主场，source是转移到对方态度，两者有先后延续的可能，但原文未明确，故关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a017",
+      "target": "s-18efbb4542bb-c001:v2-n001",
+      "kind": "association",
+      "condition": "对方转移话题到你的态度后",
+      "reason": "a017是归因对方问题以建立主场，source是转移到对方态度，两者有先后延续的可能，但原文未明确，故关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n001",
+      "target": "s-18efbb4542bb-c001:a008",
+      "kind": "association",
+      "condition": "当争论从资格转移到态度时",
+      "reason": "a008展示了丈夫将话题转移到态度，source是应对丈夫学习指责转移到对方学习态度，角色和方向不同，不能混用，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a008",
+      "target": "s-18efbb4542bb-c001:v2-n001",
+      "kind": "association",
+      "condition": "当争论从资格转移到态度时",
+      "reason": "a008展示了丈夫将话题转移到态度，source是应对丈夫学习指责转移到对方学习态度，角色和方向不同，不能混用，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n001",
+      "target": "s-18efbb4542bb-c001:a020",
+      "kind": "association",
+      "condition": "当对方归因你敏感时",
+      "reason": "a020是妻子指出丈夫先挑起争论，与source的转移话题无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a020",
+      "target": "s-18efbb4542bb-c001:v2-n001",
+      "kind": "association",
+      "condition": "当对方归因你敏感时",
+      "reason": "a020是妻子指出丈夫先挑起争论，与source的转移话题无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n001",
+      "target": "s-18efbb4542bb-c001:a003",
+      "kind": "association",
+      "condition": "丈夫先指责妻子学习无用",
+      "reason": "a003是source所针对的情境背景，但未提出应对方法，故仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a003",
+      "target": "s-18efbb4542bb-c001:v2-n001",
+      "kind": "association",
+      "condition": "丈夫先指责妻子学习无用",
+      "reason": "a003是source所针对的情境背景，但未提出应对方法，故仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n001",
+      "target": "s-18efbb4542bb-c001:a016",
+      "kind": "association",
+      "condition": "丈夫指责态度不好时",
+      "reason": "a016用反问受气转移话题，与source的转移视角不同，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a016",
+      "target": "s-18efbb4542bb-c001:v2-n001",
+      "kind": "association",
+      "condition": "丈夫指责态度不好时",
+      "reason": "a016用反问受气转移话题，与source的转移视角不同，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n001",
+      "target": "s-18efbb4542bb-c001:a014",
+      "kind": "association",
+      "condition": "妻子错误回到丈夫主场时",
+      "reason": "a014是失败案例，展示回到原话题的后果，source是成功转移，两者对比但条件不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a014",
+      "target": "s-18efbb4542bb-c001:v2-n001",
+      "kind": "association",
+      "condition": "妻子错误回到丈夫主场时",
+      "reason": "a014是失败案例，展示回到原话题的后果，source是成功转移，两者对比但条件不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n002",
+      "target": "s-18efbb4542bb-c001:v2-n003",
+      "kind": "complements",
+      "condition": "当被对方质疑专业资格时",
+      "reason": "source提供了避免v2-n003所述错误的正确做法：不要证明专家资格，改用角色身份另立主场，补充了反模式的解决方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n003",
+      "target": "s-18efbb4542bb-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当被对方质疑专业资格时",
+      "reason": "source提供了避免v2-n003所述错误的正确做法：不要证明专家资格，改用角色身份另立主场，补充了反模式的解决方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n002",
+      "target": "s-18efbb4542bb-c001:a002",
+      "kind": "example_of",
+      "condition": "当对方以专家资格否定发言权时",
+      "reason": "source通过提出父亲角色身份另起话题，体现了a002的岔开话题策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a002",
+      "target": "s-18efbb4542bb-c001:v2-n002",
+      "kind": "has_example",
+      "condition": "当对方以专家资格否定发言权时",
+      "reason": "source通过提出父亲角色身份另起话题，体现了a002的岔开话题策略。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n002",
+      "target": "s-18efbb4542bb-c001:a007",
+      "kind": "example_of",
+      "condition": "当对方设定主场时",
+      "reason": "source不围绕专家资格争论，另起角色身份主场，是a007所述跳出对方主场的具体应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a007",
+      "target": "s-18efbb4542bb-c001:v2-n002",
+      "kind": "has_example",
+      "condition": "当对方设定主场时",
+      "reason": "source不围绕专家资格争论，另起角色身份主场，是a007所述跳出对方主场的具体应用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n002",
+      "target": "s-18efbb4542bb-c001:a010",
+      "kind": "example_of",
+      "condition": "从专家资格转换到父亲身份时",
+      "reason": "source是一次具体的主场转换，符合a010所述主场转换的频繁性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a010",
+      "target": "s-18efbb4542bb-c001:v2-n002",
+      "kind": "has_example",
+      "condition": "从专家资格转换到父亲身份时",
+      "reason": "source是一次具体的主场转换，符合a010所述主场转换的频繁性。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n002",
+      "target": "s-18efbb4542bb-c001:a004",
+      "kind": "association",
+      "condition": "对方以权威姿态评判时",
+      "reason": "a004是主动质疑对方资格，source是被质疑后改用身份，方向相反，但同属资格问题，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a004",
+      "target": "s-18efbb4542bb-c001:v2-n002",
+      "kind": "association",
+      "condition": "对方以权威姿态评判时",
+      "reason": "a004是主动质疑对方资格，source是被质疑后改用身份，方向相反，但同属资格问题，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n002",
+      "target": "s-18efbb4542bb-c001:a006",
+      "kind": "association",
+      "condition": "妻子质疑丈夫育儿资格时",
+      "reason": "a006描述source所针对的困境，但未提供解决方案，故仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a006",
+      "target": "s-18efbb4542bb-c001:v2-n002",
+      "kind": "association",
+      "condition": "妻子质疑丈夫育儿资格时",
+      "reason": "a006描述source所针对的困境，但未提供解决方案，故仅作关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n002",
+      "target": "s-18efbb4542bb-c002:p03-a008",
+      "kind": "association",
+      "condition": "对方以身份提出质疑时",
+      "reason": "两者都涉及角色身份，但source是主张自己的角色，p03-a008是质疑对方的角色，方向不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-a008",
+      "target": "s-18efbb4542bb-c001:v2-n002",
+      "kind": "association",
+      "condition": "对方以身份提出质疑时",
+      "reason": "两者都涉及角色身份，但source是主张自己的角色，p03-a008是质疑对方的角色，方向不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n002",
+      "target": "s-18efbb4542bb-c002:p03-a001",
+      "kind": "association",
+      "condition": "对方以领导姿态质疑时",
+      "reason": "source与p03-a001都涉及资格问题，但前者是应对自己被质疑，后者是反问对方资格，路径不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-a001",
+      "target": "s-18efbb4542bb-c001:v2-n002",
+      "kind": "association",
+      "condition": "对方以领导姿态质疑时",
+      "reason": "source与p03-a001都涉及资格问题，但前者是应对自己被质疑，后者是反问对方资格，路径不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n002",
+      "target": "s-18efbb4542bb-c003:a002",
+      "kind": "association",
+      "condition": "对方以身份要求自己面对问题时",
+      "reason": "c003:a002是质问对方身份，source是用自己角色回应，两者不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a002",
+      "target": "s-18efbb4542bb-c001:v2-n002",
+      "kind": "association",
+      "condition": "对方以身份要求自己面对问题时",
+      "reason": "c003:a002是质问对方身份，source是用自己角色回应，两者不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n002",
+      "target": "s-18efbb4542bb-c002:p02-a020",
+      "kind": "association",
+      "condition": "对方以老公身份逼你面对问题时",
+      "reason": "p02-a020是否定对方角色，source是主张自己角色，方向相反，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p02-a020",
+      "target": "s-18efbb4542bb-c001:v2-n002",
+      "kind": "association",
+      "condition": "对方以老公身份逼你面对问题时",
+      "reason": "p02-a020是否定对方角色，source是主张自己角色，方向相反，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n002",
+      "target": "s-18efbb4542bb-c002:p02-a021",
+      "kind": "association",
+      "condition": "对方以老公身份逼你面对问题时",
+      "reason": "p02-a021类似否定对方身份，与source不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p02-a021",
+      "target": "s-18efbb4542bb-c001:v2-n002",
+      "kind": "association",
+      "condition": "对方以老公身份逼你面对问题时",
+      "reason": "p02-a021类似否定对方身份，与source不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n002",
+      "target": "s-18efbb4542bb-c001:a017",
+      "kind": "association",
+      "condition": "对方转移话题到你的态度后",
+      "reason": "a017是归因对方问题，source是提出自己身份，无直接步骤关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a017",
+      "target": "s-18efbb4542bb-c001:v2-n002",
+      "kind": "association",
+      "condition": "对方转移话题到你的态度后",
+      "reason": "a017是归因对方问题，source是提出自己身份，无直接步骤关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n003",
+      "target": "s-18efbb4542bb-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当被质疑专业资格时",
+      "reason": "v2-n002提供了替代方案：用角色身份另立主场，避免source中的举证陷阱，补充了正确做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n002",
+      "target": "s-18efbb4542bb-c001:v2-n003",
+      "kind": "complements",
+      "condition": "当被质疑专业资格时",
+      "reason": "v2-n002提供了替代方案：用角色身份另立主场，避免source中的举证陷阱，补充了正确做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n003",
+      "target": "s-18efbb4542bb-c001:a006",
+      "kind": "association",
+      "condition": "妻子质疑丈夫育儿资格时",
+      "reason": "a006是source的具体情境，source描述了在该情境下证明专家的错误路径，两者紧密相关但非包含关系，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a006",
+      "target": "s-18efbb4542bb-c001:v2-n003",
+      "kind": "association",
+      "condition": "妻子质疑丈夫育儿资格时",
+      "reason": "a006是source的具体情境，source描述了在该情境下证明专家的错误路径，两者紧密相关但非包含关系，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n003",
+      "target": "s-18efbb4542bb-c001:a004",
+      "kind": "association",
+      "condition": "对方以权威姿态评判时",
+      "reason": "a004是主动质疑资格，source是被质疑后错误回应，方向不同，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a004",
+      "target": "s-18efbb4542bb-c001:v2-n003",
+      "kind": "association",
+      "condition": "对方以权威姿态评判时",
+      "reason": "a004是主动质疑资格，source是被质疑后错误回应，方向不同，关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n003",
+      "target": "s-18efbb4542bb-c002:p03-r001",
+      "kind": "association",
+      "condition": "换场时",
+      "reason": "source是反模式，p03-r001是换场时强调对方没资格，两者同属主场争夺但内容不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-r001",
+      "target": "s-18efbb4542bb-c001:v2-n003",
+      "kind": "association",
+      "condition": "换场时",
+      "reason": "source是反模式，p03-r001是换场时强调对方没资格，两者同属主场争夺但内容不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n003",
+      "target": "s-18efbb4542bb-c002:p03-r005",
+      "kind": "association",
+      "condition": "转场后",
+      "reason": "source与p03-r005都涉及资格问题，但source是错误应对，p03-r005是成功转场，无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-r005",
+      "target": "s-18efbb4542bb-c001:v2-n003",
+      "kind": "association",
+      "condition": "转场后",
+      "reason": "source与p03-r005都涉及资格问题，但source是错误应对，p03-r005是成功转场，无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n003",
+      "target": "s-18efbb4542bb-c001:a008",
+      "kind": "association",
+      "condition": "丈夫将话题转移到态度时",
+      "reason": "a008与source无直接关系，涉及不同话题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a008",
+      "target": "s-18efbb4542bb-c001:v2-n003",
+      "kind": "association",
+      "condition": "丈夫将话题转移到态度时",
+      "reason": "a008与source无直接关系，涉及不同话题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n003",
+      "target": "s-18efbb4542bb-c001:a018",
+      "kind": "association",
+      "condition": "丈夫归因妻子敏感时",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a018",
+      "target": "s-18efbb4542bb-c001:v2-n003",
+      "kind": "association",
+      "condition": "丈夫归因妻子敏感时",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n003",
+      "target": "s-18efbb4542bb-c003:a007",
+      "kind": "association",
+      "condition": "对话处于自己的主场",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a007",
+      "target": "s-18efbb4542bb-c001:v2-n003",
+      "kind": "association",
+      "condition": "对话处于自己的主场",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n003",
+      "target": "s-18efbb4542bb-c003:a001",
+      "kind": "association",
+      "condition": "对方试图换场时",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a001",
+      "target": "s-18efbb4542bb-c001:v2-n003",
+      "kind": "association",
+      "condition": "对方试图换场时",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n004",
+      "target": "s-18efbb4542bb-c001:a005",
+      "kind": "example_of",
+      "condition": "当对方既没学习也没带孩子却指手画脚时",
+      "reason": "source提出了“谁学习谁管谁说了算”的具体标准，体现了a005所述谁定义标准谁拥有主场的机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a005",
+      "target": "s-18efbb4542bb-c001:v2-n004",
+      "kind": "has_example",
+      "condition": "当对方既没学习也没带孩子却指手画脚时",
+      "reason": "source提出了“谁学习谁管谁说了算”的具体标准，体现了a005所述谁定义标准谁拥有主场的机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n004",
+      "target": "s-18efbb4542bb-c001:a012",
+      "kind": "association",
+      "condition": "丈夫说不管也不学所以不算数时",
+      "reason": "a012案例中妻子直接使用source的标准回应丈夫，是source的实际应用，但案例整体还包含其他内容，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a012",
+      "target": "s-18efbb4542bb-c001:v2-n004",
+      "kind": "association",
+      "condition": "丈夫说不管也不学所以不算数时",
+      "reason": "a012案例中妻子直接使用source的标准回应丈夫，是source的实际应用，但案例整体还包含其他内容，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n004",
+      "target": "s-18efbb4542bb-c001:a004",
+      "kind": "association",
+      "condition": "对方以权威姿态评判时",
+      "reason": "source是用学习和管理作为资格标准，a004是用专家资格作为标准，两种标准不同但都属于资格判断。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a004",
+      "target": "s-18efbb4542bb-c001:v2-n004",
+      "kind": "association",
+      "condition": "对方以权威姿态评判时",
+      "reason": "source是用学习和管理作为资格标准，a004是用专家资格作为标准，两种标准不同但都属于资格判断。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n004",
+      "target": "s-18efbb4542bb-c001:v2-n002",
+      "kind": "association",
+      "condition": "被质疑专家资格时",
+      "reason": "source提供了另一个资格标准（学习与管理），v2-n002用角色身份，两者可在不同情境下使用，但无直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n002",
+      "target": "s-18efbb4542bb-c001:v2-n004",
+      "kind": "association",
+      "condition": "被质疑专家资格时",
+      "reason": "source提供了另一个资格标准（学习与管理），v2-n002用角色身份，两者可在不同情境下使用，但无直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n004",
+      "target": "s-18efbb4542bb-c001:v2-n001",
+      "kind": "association",
+      "condition": "对方用学习无用指责时",
+      "reason": "source可作为v2-n001转移话题的背景标准之一，但转移话题本身与标准设立不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n001",
+      "target": "s-18efbb4542bb-c001:v2-n004",
+      "kind": "association",
+      "condition": "对方用学习无用指责时",
+      "reason": "source可作为v2-n001转移话题的背景标准之一，但转移话题本身与标准设立不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n004",
+      "target": "s-18efbb4542bb-c002:p02-a018",
+      "kind": "association",
+      "condition": "模拟争论中",
+      "reason": "该案例展示了争论双方围绕是否学习过的说法，涉及source的标准，但角色扮演立场不作为推荐，故关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p02-a018",
+      "target": "s-18efbb4542bb-c001:v2-n004",
+      "kind": "association",
+      "condition": "模拟争论中",
+      "reason": "该案例展示了争论双方围绕是否学习过的说法，涉及source的标准，但角色扮演立场不作为推荐，故关联不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n004",
+      "target": "s-18efbb4542bb-c002:p02-a017",
+      "kind": "association",
+      "condition": "对方指责你不学习时",
+      "reason": "p02-a017反问对方不学习，与source的标准相关但方向不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p02-a017",
+      "target": "s-18efbb4542bb-c001:v2-n004",
+      "kind": "association",
+      "condition": "对方指责你不学习时",
+      "reason": "p02-a017反问对方不学习，与source的标准相关但方向不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n004",
+      "target": "s-18efbb4542bb-c001:a010",
+      "kind": "association",
+      "condition": "主场频繁转换",
+      "reason": "source定义了一个具体主场，可能作为a010的实例，但a010是概括，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a010",
+      "target": "s-18efbb4542bb-c001:v2-n004",
+      "kind": "association",
+      "condition": "主场频繁转换",
+      "reason": "source定义了一个具体主场，可能作为a010的实例，但a010是概括，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n004",
+      "target": "s-18efbb4542bb-c001:a003",
+      "kind": "association",
+      "condition": "丈夫指责妻子学育儿无用",
+      "reason": "a003是source标准可能适用的情境，但source未在该情境中明确使用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a003",
+      "target": "s-18efbb4542bb-c001:v2-n004",
+      "kind": "association",
+      "condition": "丈夫指责妻子学育儿无用",
+      "reason": "a003是source标准可能适用的情境，但source未在该情境中明确使用。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n004",
+      "target": "s-18efbb4542bb-c001:a019",
+      "kind": "association",
+      "condition": "对方先挑起争论时",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a019",
+      "target": "s-18efbb4542bb-c001:v2-n004",
+      "kind": "association",
+      "condition": "对方先挑起争论时",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n004",
+      "target": "s-18efbb4542bb-c004:r022",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:r022",
+      "target": "s-18efbb4542bb-c001:v2-n004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n005",
+      "target": "s-18efbb4542bb-c003:a033",
+      "kind": "association",
+      "condition": "对方第一句话触发情绪时",
+      "reason": "source描述了在态度主场内用物质要求反击仍失败，而c003:a033说明态度问题常由情绪触发，两者有情境关联但无直接步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a033",
+      "target": "s-18efbb4542bb-c001:v2-n005",
+      "kind": "association",
+      "condition": "对方第一句话触发情绪时",
+      "reason": "source描述了在态度主场内用物质要求反击仍失败，而c003:a033说明态度问题常由情绪触发，两者有情境关联但无直接步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n005",
+      "target": "s-18efbb4542bb-c001:a016",
+      "kind": "association",
+      "condition": "对方指责态度不好时",
+      "reason": "a016用反问受气转移话题，可能跳出态度主场，与source的失败案例形成对比，但条件不同，不能算conflict。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a016",
+      "target": "s-18efbb4542bb-c001:v2-n005",
+      "kind": "association",
+      "condition": "对方指责态度不好时",
+      "reason": "a016用反问受气转移话题，可能跳出态度主场，与source的失败案例形成对比，但条件不同，不能算conflict。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n005",
+      "target": "s-18efbb4542bb-c001:a014",
+      "kind": "association",
+      "condition": "妻子错误回到丈夫主场时",
+      "reason": "两者都是谈判失败案例，但失败原因不同：source仍停留态度，a014回到原话题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a014",
+      "target": "s-18efbb4542bb-c001:v2-n005",
+      "kind": "association",
+      "condition": "妻子错误回到丈夫主场时",
+      "reason": "两者都是谈判失败案例，但失败原因不同：source仍停留态度，a014回到原话题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n005",
+      "target": "s-18efbb4542bb-c001:a008",
+      "kind": "association",
+      "condition": "丈夫将话题转移到态度时",
+      "reason": "a008是丈夫建立态度主场的过程，source是妻子在该主场内的失败反击，有前后情境关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a008",
+      "target": "s-18efbb4542bb-c001:v2-n005",
+      "kind": "association",
+      "condition": "丈夫将话题转移到态度时",
+      "reason": "a008是丈夫建立态度主场的过程，source是妻子在该主场内的失败反击，有前后情境关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n005",
+      "target": "s-18efbb4542bb-c001:v2-n006",
+      "kind": "association",
+      "condition": "岔开不彻底时",
+      "reason": "source与v2-n006都涉及转移不彻底的失败，但具体话题不同，条件不完全一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n006",
+      "target": "s-18efbb4542bb-c001:v2-n005",
+      "kind": "association",
+      "condition": "岔开不彻底时",
+      "reason": "source与v2-n006都涉及转移不彻底的失败，但具体话题不同，条件不完全一致。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n005",
+      "target": "s-18efbb4542bb-c001:v2-n001",
+      "kind": "association",
+      "condition": "丈夫用学习无用指责时",
+      "reason": "v2-n001是成功转移话题的例子，source是失败的反面，两者可对比但条件不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n001",
+      "target": "s-18efbb4542bb-c001:v2-n005",
+      "kind": "association",
+      "condition": "丈夫用学习无用指责时",
+      "reason": "v2-n001是成功转移话题的例子，source是失败的反面，两者可对比但条件不同，关联弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n005",
+      "target": "s-18efbb4542bb-c001:a003",
+      "kind": "association",
+      "condition": "丈夫指责妻子学育儿无用",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a003",
+      "target": "s-18efbb4542bb-c001:v2-n005",
+      "kind": "association",
+      "condition": "丈夫指责妻子学育儿无用",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n005",
+      "target": "s-18efbb4542bb-c001:a006",
+      "kind": "association",
+      "condition": "妻子质疑丈夫育儿资格",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a006",
+      "target": "s-18efbb4542bb-c001:v2-n005",
+      "kind": "association",
+      "condition": "妻子质疑丈夫育儿资格",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n005",
+      "target": "s-18efbb4542bb-c001:a012",
+      "kind": "association",
+      "condition": "妻子抓住丈夫逻辑漏洞",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a012",
+      "target": "s-18efbb4542bb-c001:v2-n005",
+      "kind": "association",
+      "condition": "妻子抓住丈夫逻辑漏洞",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n005",
+      "target": "s-18efbb4542bb-c001:a005",
+      "kind": "association",
+      "condition": "主场定义权机制",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a005",
+      "target": "s-18efbb4542bb-c001:v2-n005",
+      "kind": "association",
+      "condition": "主场定义权机制",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n005",
+      "target": "s-18efbb4542bb-c002:p03-a005",
+      "kind": "association",
+      "condition": "妻子反击丈夫质问",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-a005",
+      "target": "s-18efbb4542bb-c001:v2-n005",
+      "kind": "association",
+      "condition": "妻子反击丈夫质问",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n005",
+      "target": "s-18efbb4542bb-c003:a017",
+      "kind": "association",
+      "condition": "在主场中定义称赞标准",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a017",
+      "target": "s-18efbb4542bb-c001:v2-n005",
+      "kind": "association",
+      "condition": "在主场中定义称赞标准",
+      "reason": "与source无关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n006",
+      "target": "s-18efbb4542bb-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当对方用学习无用或带孩子不好发起指责时",
+      "reason": "source指出岔开不彻底会被拉回，v2-n001提供“你很在意我的学习”这一完全离开原话题的回应，补充了正面操作方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n001",
+      "target": "s-18efbb4542bb-c001:v2-n006",
+      "kind": "complements",
+      "condition": "当对方用学习无用或带孩子不好发起指责时",
+      "reason": "source指出岔开不彻底会被拉回，v2-n001提供“你很在意我的学习”这一完全离开原话题的回应，补充了正面操作方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n006",
+      "target": "s-18efbb4542bb-c001:a004",
+      "kind": "complements",
+      "condition": "对方以权威姿态评判时",
+      "reason": "source强调岔开必须完全离开原话题，a004提供质疑对方资格的岔开方式，作为另一个具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a004",
+      "target": "s-18efbb4542bb-c001:v2-n006",
+      "kind": "complements",
+      "condition": "对方以权威姿态评判时",
+      "reason": "source强调岔开必须完全离开原话题，a004提供质疑对方资格的岔开方式，作为另一个具体例子。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n006",
+      "target": "s-18efbb4542bb-c001:a015",
+      "kind": "complements",
+      "condition": "对方指责态度时",
+      "reason": "同理，a015补充了转移话题到对方行为的做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a015",
+      "target": "s-18efbb4542bb-c001:v2-n006",
+      "kind": "complements",
+      "condition": "对方指责态度时",
+      "reason": "同理，a015补充了转移话题到对方行为的做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n006",
+      "target": "s-18efbb4542bb-c001:a002",
+      "kind": "example_of",
+      "condition": "当新话题仍与原话题相关时",
+      "reason": "source的回应“你很想把孩子带好”仍围绕“孩子带好”，正是a002限制中描述的岔开失败情形。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:a002",
+      "target": "s-18efbb4542bb-c001:v2-n006",
+      "kind": "has_example",
+      "condition": "当新话题仍与原话题相关时",
+      "reason": "source的回应“你很想把孩子带好”仍围绕“孩子带好”，正是a002限制中描述的岔开失败情形。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c001:v2-n006",
+      "target": "s-18efbb4542bb-c002:p03-a003",
+      "kind": "association",
+      "condition": "无明确条件，仅关联",
+      "reason": "source试图接话题但未完全离开，与“绝不接对方的话题”原则相关，但source是失败实例，不足以确立因果或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-a003",
+      "target": "s-18efbb4542bb-c001:v2-n006",
+      "kind": "association",
+      "condition": "无明确条件，仅关联",
+      "reason": "source试图接话题但未完全离开，与“绝不接对方的话题”原则相关，但source是失败实例，不足以确立因果或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:v2-n001",
+      "target": "s-18efbb4542bb-c002:p03-a002",
+      "kind": "example_of",
+      "condition": "当对方提出可被推向极端的立场时",
+      "reason": "source的二选一问题是“问对方问题要求对方回答”的具体应用，通过封闭式问题锁入预设。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-a002",
+      "target": "s-18efbb4542bb-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "当对方提出可被推向极端的立场时",
+      "reason": "source的二选一问题是“问对方问题要求对方回答”的具体应用，通过封闭式问题锁入预设。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:v2-n001",
+      "target": "s-18efbb4542bb-c002:p02-a002",
+      "kind": "association",
+      "condition": "对方开始回答时",
+      "reason": "source的问题设计使对方一旦回答就落入预设，体现了该机制，但未直接描述机制，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p02-a002",
+      "target": "s-18efbb4542bb-c003:v2-n001",
+      "kind": "association",
+      "condition": "对方开始回答时",
+      "reason": "source的问题设计使对方一旦回答就落入预设，体现了该机制，但未直接描述机制，仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:v2-n001",
+      "target": "s-18efbb4542bb-c003:a009",
+      "kind": "example_of",
+      "condition": "对方逻辑有漏洞时",
+      "reason": "source抓住对方不合理逻辑（如“称赞会掩盖缺点”）并锁定，是“识别并抓住逻辑漏洞”的具体做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a009",
+      "target": "s-18efbb4542bb-c003:v2-n001",
+      "kind": "has_example",
+      "condition": "对方逻辑有漏洞时",
+      "reason": "source抓住对方不合理逻辑（如“称赞会掩盖缺点”）并锁定，是“识别并抓住逻辑漏洞”的具体做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:v2-n001",
+      "target": "s-18efbb4542bb-c003:r003",
+      "kind": "association",
+      "condition": "均涉及极端化手法",
+      "reason": "source将对方立场推向极端，但目的是二选一锁定，与“用极端化回应揭示荒谬”有交叉但不完全相同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:r003",
+      "target": "s-18efbb4542bb-c003:v2-n001",
+      "kind": "association",
+      "condition": "均涉及极端化手法",
+      "reason": "source将对方立场推向极端，但目的是二选一锁定，与“用极端化回应揭示荒谬”有交叉但不完全相同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n001",
+      "target": "s-18efbb4542bb-c004:v2-n004",
+      "kind": "association",
+      "condition": "当对方话语触发情绪时",
+      "reason": "两者都关注态度争吵，source强调坚持态度并用“你凭什么”质问，v2-n004强调识别触发话语，角度不同，不确定因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n004",
+      "target": "s-18efbb4542bb-c004:v2-n001",
+      "kind": "association",
+      "condition": "当对方话语触发情绪时",
+      "reason": "两者都关注态度争吵，source强调坚持态度并用“你凭什么”质问，v2-n004强调识别触发话语，角度不同，不确定因果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n001",
+      "target": "s-18efbb4542bb-c004:a050",
+      "kind": "association",
+      "condition": "吵架中",
+      "reason": "source保留场让对方进入对话，与“让对方听自己说话”目的相关联，但未明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a050",
+      "target": "s-18efbb4542bb-c004:v2-n001",
+      "kind": "association",
+      "condition": "吵架中",
+      "reason": "source保留场让对方进入对话，与“让对方听自己说话”目的相关联，但未明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n002",
+      "target": "s-18efbb4542bb-c004:a001",
+      "kind": "association",
+      "condition": "吵架中",
+      "reason": "source提问“逮着打”是否可能逆袭，a001强调吵架目的不是泄愤，两者相关但不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a001",
+      "target": "s-18efbb4542bb-c004:v2-n002",
+      "kind": "association",
+      "condition": "吵架中",
+      "reason": "source提问“逮着打”是否可能逆袭，a001强调吵架目的不是泄愤，两者相关但不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n002",
+      "target": "s-18efbb4542bb-c004:a025",
+      "kind": "association",
+      "condition": "吵架中",
+      "reason": "source的提问涉及吵架收场，a025强调目的是改善关系，相关但不明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a025",
+      "target": "s-18efbb4542bb-c004:v2-n002",
+      "kind": "association",
+      "condition": "吵架中",
+      "reason": "source的提问涉及吵架收场，a025强调目的是改善关系，相关但不明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n002",
+      "target": "s-18efbb4542bb-c004:a050",
+      "kind": "association",
+      "condition": "吵架中",
+      "reason": "source提问关于逮着打，a050强调让对方听自己说话，有潜在关联，但证据不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a050",
+      "target": "s-18efbb4542bb-c004:v2-n002",
+      "kind": "association",
+      "condition": "吵架中",
+      "reason": "source提问关于逮着打，a050强调让对方听自己说话，有潜在关联，但证据不足。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n003",
+      "target": "s-18efbb4542bb-c005:r001",
+      "kind": "complements",
+      "condition": "针对信仰教导逻辑漏洞时",
+      "reason": "source具体化了c005:r001的“活的信仰与死的教导”，并补充了保护心智的结论。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c005:r001",
+      "target": "s-18efbb4542bb-c004:v2-n003",
+      "kind": "complements",
+      "condition": "针对信仰教导逻辑漏洞时",
+      "reason": "source具体化了c005:r001的“活的信仰与死的教导”，并补充了保护心智的结论。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n003",
+      "target": "s-18efbb4542bb-c004:a017",
+      "kind": "complements",
+      "condition": "面对有漏洞的逻辑时",
+      "reason": "source补充了为何要保护心智（因信仰教导有漏洞），a017只强调重要性，complement实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:a017",
+      "target": "s-18efbb4542bb-c004:v2-n003",
+      "kind": "complements",
+      "condition": "面对有漏洞的逻辑时",
+      "reason": "source补充了为何要保护心智（因信仰教导有漏洞），a017只强调重要性，complement实质点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n003",
+      "target": "s-18efbb4542bb-c005:r002",
+      "kind": "association",
+      "condition": "保护心智的比喻",
+      "reason": "两者都使用“保护眼睛”比喻，但无进一步层次关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c005:r002",
+      "target": "s-18efbb4542bb-c004:v2-n003",
+      "kind": "association",
+      "condition": "保护心智的比喻",
+      "reason": "两者都使用“保护眼睛”比喻，但无进一步层次关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n004",
+      "target": "s-18efbb4542bb-c003:a033",
+      "kind": "association",
+      "condition": "当对方第一句话触发情绪时",
+      "reason": "两者内容几乎一致，均描述“你学有什么用”触发情绪导致态度争吵，但无法确定先后或概括关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a033",
+      "target": "s-18efbb4542bb-c004:v2-n004",
+      "kind": "association",
+      "condition": "当对方第一句话触发情绪时",
+      "reason": "两者内容几乎一致，均描述“你学有什么用”触发情绪导致态度争吵，但无法确定先后或概括关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n004",
+      "target": "s-18efbb4542bb-c004:v2-n001",
+      "kind": "association",
+      "condition": "吵架中",
+      "reason": "source强调态度争吵，v2-n001描述坚持态度并质问，相关但角度不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n001",
+      "target": "s-18efbb4542bb-c004:v2-n004",
+      "kind": "association",
+      "condition": "吵架中",
+      "reason": "source强调态度争吵，v2-n001描述坚持态度并质问，相关但角度不同。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n004",
+      "target": "s-18efbb4542bb-c003:a010",
+      "kind": "association",
+      "condition": "夫妻对话案例",
+      "reason": "source的场景与该案例一致，可视为案例的抽象总结，但不明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a010",
+      "target": "s-18efbb4542bb-c004:v2-n004",
+      "kind": "association",
+      "condition": "夫妻对话案例",
+      "reason": "source的场景与该案例一致，可视为案例的抽象总结，但不明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n005",
+      "target": "s-18efbb4542bb-c002:p03-a009",
+      "kind": "complements",
+      "condition": "转场时，需要让对方明确当前情境",
+      "reason": "候选提出转场三要点，其中第二点要求问对方问题；source具体补充了应问的场景和角色问题，使提问内容更明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-a009",
+      "target": "s-18efbb4542bb-c004:v2-n005",
+      "kind": "complements",
+      "condition": "转场时，需要让对方明确当前情境",
+      "reason": "候选提出转场三要点，其中第二点要求问对方问题；source具体补充了应问的场景和角色问题，使提问内容更明确。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n005",
+      "target": "s-18efbb4542bb-c002:p03-a002",
+      "kind": "example_of",
+      "condition": "转场中主动提问以夺回主导权",
+      "reason": "source要求对方说明场景和角色，是候选“问对方问题要求对方回答”的具体应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-a002",
+      "target": "s-18efbb4542bb-c004:v2-n005",
+      "kind": "has_example",
+      "condition": "转场中主动提问以夺回主导权",
+      "reason": "source要求对方说明场景和角色，是候选“问对方问题要求对方回答”的具体应用实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n005",
+      "target": "s-18efbb4542bb-c003:a002",
+      "kind": "association",
+      "condition": "两者都涉及要求对方说明角色，但场景和目的不同",
+      "reason": "候选在对方质疑时质问其身份资格，source在转场时要求说明场景和角色；均涉及角色确认，但source用于明确情境，候选用于锁定对话资格，不足以建立因果或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c003:a002",
+      "target": "s-18efbb4542bb-c004:v2-n005",
+      "kind": "association",
+      "condition": "两者都涉及要求对方说明角色，但场景和目的不同",
+      "reason": "候选在对方质疑时质问其身份资格，source在转场时要求说明场景和角色；均涉及角色确认，但source用于明确情境，候选用于锁定对话资格，不足以建立因果或前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c004:v2-n005",
+      "target": "s-18efbb4542bb-c002:p03-r006",
+      "kind": "association",
+      "condition": "同属转场主题，但source是具体方法，候选是抽象功能",
+      "reason": "候选描述转场的攻守框定功能，source是转场中要求说明场景角色的具体动作，可能有助于框定，但未说明因果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-18efbb4542bb-c002:p03-r006",
+      "target": "s-18efbb4542bb-c004:v2-n005",
+      "kind": "association",
+      "condition": "同属转场主题，但source是具体方法，候选是抽象功能",
+      "reason": "候选描述转场的攻守框定功能，source是转场中要求说明场景角色的具体动作，可能有助于框定，但未说明因果，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "界限",
+      "to": "自我修养",
+      "when": "在冲突对话中感到卡壳或不知道如何回应时，需要先开口说出来再修改。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p03-a004",
+        "s-18efbb4542bb-c002:p03-r007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "scope": "cross_module",
+      "source_limits": [
+        {
+          "atom_id": "s-18efbb4542bb-c002:p03-a004",
+          "limits": [
+            "可能一开始说出不恰当的话，需要后续修正",
+            "不适用于需要谨慎措辞的正式场合"
+          ]
+        }
+      ]
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "对方的第一句话触发自己的情绪点，导致争吵态度问题时。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a011",
+        "s-18efbb4542bb-c003:a033"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "scope": "cross_module",
+      "source_limits": []
+    },
+    {
+      "from": "界限",
+      "to": "自我认知",
+      "when": "吵架训练逻辑需要认知基础，认知清晰才能识别逻辑漏洞。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a012",
+        "s-18efbb4542bb-c004:a024",
+        "s-18efbb4542bb-c004:a072",
+        "s-18efbb4542bb-c004:r020"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "scope": "cross_module",
+      "source_limits": []
+    },
+    {
+      "from": "界限",
+      "to": "专注力",
+      "when": "吵架比拼逻辑时，耳朵听是抗压训练的关键，听得越仔细，对方越压不倒你。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-18efbb4542bb-c005:a007",
+        "s-18efbb4542bb-c005:a008",
+        "s-18efbb4542bb-c005:r004"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "scope": "cross_module",
+      "source_limits": []
+    },
+    {
+      "from": "自我修养",
+      "to": "界限",
+      "when": "在智慧中辨别信息，若感觉有问题但无法立即指出，先拒绝接受，避免被错误逻辑洗脑，从而在争论中保持清醒。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-18efbb4542bb-c005:a006",
+        "s-18efbb4542bb-c005:r003"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "scope": "cross_module",
+      "source_limits": []
+    },
+    {
+      "from": "自我认知",
+      "to": "界限",
+      "when": "认知清晰才能找出逻辑漏洞，从而在吵架中抓住对方漏洞进行反击。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a012",
+        "s-18efbb4542bb-c004:a072",
+        "s-18efbb4542bb-c004:r020"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "scope": "cross_module",
+      "source_limits": []
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a015"
+      ],
+      "reason": "内容完全一致，均为用反问转移话题到对方行为。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a016"
+      ],
+      "reason": "内容完全一致，均为妻子反问丈夫是否受气。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a017"
+      ],
+      "reason": "内容完全一致，均为归因对方问题以建立主场。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a018"
+      ],
+      "reason": "内容完全一致，均为丈夫归因妻子敏感。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a019"
+      ],
+      "reason": "内容完全一致，均为指出对方先挑起争论。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a020"
+      ],
+      "reason": "内容完全一致，均为妻子指出丈夫先挑起争论。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p02-a017"
+      ],
+      "reason": "内容完全一致，均为用反问质疑对方不学习。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p02-a018"
+      ],
+      "reason": "内容完全一致，均为争辩中借其他老师观点反击的角色扮演。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p02-a019"
+      ],
+      "reason": "内容完全一致，均为用反问质疑对方对问题的定义。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p02-a020"
+      ],
+      "reason": "内容完全一致，均为用反问质疑对方角色。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p02-a021"
+      ],
+      "reason": "内容完全一致，均为用反问质疑对方身份。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p02-a022"
+      ],
+      "reason": "内容完全一致，均为用反问质疑对方问题来源。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a016",
+        "s-18efbb4542bb-c003:a032",
+        "s-18efbb4542bb-c003:r006"
+      ],
+      "reason": "内容完全一致，均为要求对方重复第一句话以揭示真相。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a033"
+      ],
+      "reason": "内容完全一致，均为情绪触发导致争吵态度问题。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a011",
+        "s-18efbb4542bb-c004:a064"
+      ],
+      "reason": "内容完全一致，均为肋骨比喻的现代解读。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a017",
+        "s-18efbb4542bb-c004:a085"
+      ],
+      "reason": "内容完全一致，均为保护心智的重要性。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a022",
+        "s-18efbb4542bb-c004:a077",
+        "s-18efbb4542bb-c004:r025"
+      ],
+      "reason": "内容完全一致，均为清水与浑水的比喻。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a051",
+        "s-18efbb4542bb-c004:r013"
+      ],
+      "reason": "内容完全一致，均为参加练习的目的。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a061",
+        "s-18efbb4542bb-c004:a019"
+      ],
+      "reason": "内容完全一致，均为反驳错误教导的方法。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a070",
+        "s-18efbb4542bb-c004:a015"
+      ],
+      "reason": "内容完全一致，均为圣经中“头”的含义不是领导。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a079",
+        "s-18efbb4542bb-c004:r027"
+      ],
+      "reason": "内容完全一致，均为讲师学习希伯来原文。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a080",
+        "s-18efbb4542bb-c004:r028"
+      ],
+      "reason": "内容完全一致，均为很多牧师没有学过原文。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a081",
+        "s-18efbb4542bb-c004:r029"
+      ],
+      "reason": "内容完全一致，均为儒家思想对圣经解读的影响。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a082",
+        "s-18efbb4542bb-c004:r030"
+      ],
+      "reason": "内容完全一致，均为正确理解圣经的重要性。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a083",
+        "s-18efbb4542bb-c004:r031"
+      ],
+      "reason": "内容完全一致，均为圣经教导喜乐。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a084",
+        "s-18efbb4542bb-c004:r032"
+      ],
+      "reason": "内容完全一致，均为神是活的神。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r001",
+        "s-18efbb4542bb-c004:r002"
+      ],
+      "reason": "内容完全一致，均为吵架中逼疯对方的行为机制。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r003",
+        "s-18efbb4542bb-c004:r011"
+      ],
+      "reason": "内容完全一致，均为吵架后对方收敛的机制。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r004",
+        "s-18efbb4542bb-c004:r006"
+      ],
+      "reason": "内容完全一致，均为学习理直气壮后夫妻感情更好的机制。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r007",
+        "s-18efbb4542bb-c004:r008"
+      ],
+      "reason": "内容完全一致，均为吵架中让对方明白沟通方法行不通的机制。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r009",
+        "s-18efbb4542bb-c004:r012"
+      ],
+      "reason": "内容完全一致，均为好的吵架帮助彼此动脑子的机制。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r014",
+        "s-18efbb4542bb-c004:r015"
+      ],
+      "reason": "内容完全一致，均为被教会教导陷害的机制。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r016",
+        "s-18efbb4542bb-c004:r017"
+      ],
+      "reason": "内容完全一致，均为被歪理洗脑的危害。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r018",
+        "s-18efbb4542bb-c004:r019"
+      ],
+      "reason": "内容完全一致，均为认知不同看事情角度不同的机制。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r020",
+        "s-18efbb4542bb-c004:r021"
+      ],
+      "reason": "内容完全一致，均为浸泡在智慧中让脑子清晰的机制。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r022",
+        "s-18efbb4542bb-c004:r023"
+      ],
+      "reason": "内容完全一致，均为没有认知的人容易被说服的机制。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r024",
+        "s-18efbb4542bb-c004:r025"
+      ],
+      "reason": "内容完全一致，均为智慧让人清醒的机制。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r026",
+        "s-18efbb4542bb-c004:r027"
+      ],
+      "reason": "内容完全一致，均为学员要注意所受教导的机制。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r028",
+        "s-18efbb4542bb-c004:r029"
+      ],
+      "reason": "内容完全一致，均为儒家思想对圣经解读的影响机制。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r030",
+        "s-18efbb4542bb-c004:r031"
+      ],
+      "reason": "内容完全一致，均为正确理解圣经的重要性的机制。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r032",
+        "s-18efbb4542bb-c004:a017"
+      ],
+      "reason": "内容完全一致，均为保护心智的重要性的机制。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a009",
+        "s-18efbb4542bb-c002:p01-a005"
+      ],
+      "description": "k00009建议用生理原因转移话题，但k00031指出当对方用生理原因质疑时，应用反问指出对方转移话题。两者在是否使用生理原因作为策略上存在矛盾。",
+      "needed_evidence": "需要明确在何种情况下使用生理原因归因是恰当的，以及如何避免性别歧视或人身攻击。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p01-a001",
+        "s-18efbb4542bb-c002:p01-a007"
+      ],
+      "description": "k00027建议用反问指出对方转移话题，但k00033指出该反问存在逻辑漏洞，可被对方抓住定义权反击。两者在策略有效性上存在矛盾。",
+      "needed_evidence": "需要明确在何种情况下使用反问策略不会被对方抓住逻辑漏洞。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p02-a001",
+        "s-18efbb4542bb-c002:p02-a005"
+      ],
+      "description": "k00034建议把对方从道德制高点拉下来，但k00038建议用反问质疑对方资格。两者在应对道德制高点指责时的方法不同。",
+      "needed_evidence": "需要明确在何种情况下使用哪种方法更有效。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a001",
+        "s-18efbb4542bb-c002:p04-a002"
+      ],
+      "description": "k00086建议锁定主场拒绝换场并持续追问，但k00080建议转场的目的是找到有利点后停止转场。两者在是否持续换场或锁定上存在矛盾。",
+      "needed_evidence": "需要明确在何种情况下应锁定主场，何种情况下应继续转场。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a003",
+        "s-18efbb4542bb-c003:a006"
+      ],
+      "description": "k00088区分质疑与批评，建议使用质疑而非批评，但k00091建议用对方的方式反击对方，即用批评反击批评。两者在是否使用批评上存在矛盾。",
+      "needed_evidence": "需要明确在何种情况下可以使用批评反击，以及如何避免陷入互相批评的恶性循环。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a005",
+        "s-18efbb4542bb-c004:a006"
+      ],
+      "description": "k00130说吵架适用于想要维系的关系，但k00131说如果对方是老板且非常需要这份工作，就不要吵架。两者在吵架的适用对象上存在矛盾。",
+      "needed_evidence": "需要明确在何种情况下与老板吵架是恰当的，以及如何平衡关系维系与工作需求。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a008",
+        "s-18efbb4542bb-c004:a010"
+      ],
+      "description": "k00133说帮助者地位并不低下，但k00135说女人被造是为了帮助男人，因为男人独居不好。两者在女人地位上可能存在不同解读。",
+      "needed_evidence": "需要明确圣经中帮助者的确切含义，以及女人被造的目的与地位的关系。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a011",
+        "s-18efbb4542bb-c004:a064"
+      ],
+      "description": "k00136说肋骨比喻不能按字面理解，但k00189说现代男性并不缺少肋骨，因此不能按字面理解。两者在肋骨比喻的解读上一致，但可能与其他教导存在矛盾。",
+      "needed_evidence": "需要明确肋骨比喻的正确解读，以及与其他圣经教导的关系。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a016",
+        "s-18efbb4542bb-c004:a083"
+      ],
+      "description": "k00141说圣经教导喜乐而非天天认罪，但k00208说圣经教导人要喜乐，而不是天天认罪。两者一致，但可能与其他教导存在矛盾。",
+      "needed_evidence": "需要明确圣经中关于喜乐与认罪的教导，以及如何平衡。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a017",
+        "s-18efbb4542bb-c004:a085"
+      ],
+      "description": "k00142、k00210、k00243均强调保护心智的重要性，但未明确具体方法，可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确保护心智的具体方法，以及如何与其他策略协调。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a020",
+        "s-18efbb4542bb-c004:a079"
+      ],
+      "description": "k00145说学习希伯来原文的重要性，但k00204说讲师学习希伯来原文是为了正确理解圣经。两者一致，但可能与其他教导存在矛盾。",
+      "needed_evidence": "需要明确学习希伯来原文的必要性，以及如何获取正确教导。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a022",
+        "s-18efbb4542bb-c004:a077",
+        "s-18efbb4542bb-c004:r025"
+      ],
+      "description": "k00147、k00202、k00235均用清水与浑水的比喻说明智慧让人清醒，但未明确如何获得智慧，可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确获得智慧的具体方法，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a023",
+        "s-18efbb4542bb-c004:a055"
+      ],
+      "description": "k00148说错误教导导致自我挖坑，但k00180说学员被自己的话坑了。两者一致，但可能与其他教导存在矛盾。",
+      "needed_evidence": "需要明确如何识别错误教导，以及如何避免自我挖坑。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a024",
+        "s-18efbb4542bb-c004:a072"
+      ],
+      "description": "k00149说吵架训练逻辑需要认知基础，但k00197说认知清晰才能找出逻辑漏洞。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确如何提升认知，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a026",
+        "s-18efbb4542bb-c004:a041"
+      ],
+      "description": "k00151说吵架后对方会收敛，但k00166说老公生气后第二次会收敛。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确吵架后对方收敛的条件，以及如何促进。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a027",
+        "s-18efbb4542bb-c004:a042"
+      ],
+      "description": "k00152说学习理直气壮后夫妻感情更好，但k00167说学习理直气壮后夫妻感情更好的原因。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确学习理直气壮的具体效果，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a028",
+        "s-18efbb4542bb-c004:a029"
+      ],
+      "description": "k00153说吵架中逻辑严密的重要性，但k00154说吵架中抓住逻辑漏洞的方法。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确如何提高逻辑严密性，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a030",
+        "s-18efbb4542bb-c004:a031"
+      ],
+      "description": "k00155说吵架中让对方明白期待不合理，但k00156说吵架中让对方明白沟通方法行不通。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确如何让对方明白期待不合理和沟通方法行不通，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a032",
+        "s-18efbb4542bb-c004:a033"
+      ],
+      "description": "k00157说吵架后对方会思考逻辑，但k00158说吵架中逼疯对方的目的。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确吵架中逼疯对方的目的，以及如何避免过度。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a034",
+        "s-18efbb4542bb-c004:a035"
+      ],
+      "description": "k00159说吵架中对方不敢乱讲话的结果，但k00160说好的吵架帮助彼此动脑子。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确好的吵架的标准，以及如何实现。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a036",
+        "s-18efbb4542bb-c004:a037"
+      ],
+      "description": "k00161说讲师与讲者的丈夫吵架的特点，但k00162说讲者的丈夫被讲师逻辑逼疯的经历。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确逻辑吵架的边界，以及如何避免伤害。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a038",
+        "s-18efbb4542bb-c004:a039"
+      ],
+      "description": "k00163说讲者的丈夫对讲师的评价，但k00164说讲者的丈夫对父亲的看法。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确逻辑吵架对关系的影响，以及如何平衡。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a040",
+        "s-18efbb4542bb-c004:r010"
+      ],
+      "description": "k00165说讲师用逻辑告诉讲者的丈夫不可以胡搅蛮缠，但k00220说讲师用逻辑告诉讲者的丈夫不可以胡搅蛮缠的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确如何用逻辑阻止胡搅蛮缠，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a043",
+        "s-18efbb4542bb-c004:r005"
+      ],
+      "description": "k00168说航天工程师丈夫学习的原因，但k00215说航天工程师丈夫学习逻辑吵架的动机。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确学习逻辑吵架的动机，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a044",
+        "s-18efbb4542bb-c004:a033"
+      ],
+      "description": "k00169说吵架的目的不是逼疯对方，但k00158说吵架中逼疯对方的目的。两者在目的上存在矛盾。",
+      "needed_evidence": "需要明确吵架中逼疯对方的真正目的，以及如何避免误解。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a045",
+        "s-18efbb4542bb-c004:a046"
+      ],
+      "description": "k00170说吵架适用于朋友同事老板等关系，但k00171说遇到陌生人挑衅不吵架。两者在适用对象上存在矛盾。",
+      "needed_evidence": "需要明确吵架的适用对象，以及如何应对陌生人挑衅。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a048",
+        "s-18efbb4542bb-c004:a047"
+      ],
+      "description": "k00173说吵架中一来一回的适用条件，但k00172说吵架是为了关系。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确吵架中一来一回的适用条件，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a052",
+        "s-18efbb4542bb-c004:a005"
+      ],
+      "description": "k00177说学员的问题：什么时候吵什么时候闭嘴，但k00130说吵架的适用条件。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确什么时候该吵架，什么时候该闭嘴。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a053",
+        "s-18efbb4542bb-c004:a054"
+      ],
+      "description": "k00178说信仰中寻求平衡的智慧，但k00179说学员与丈夫的对话内容。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确如何在信仰中寻求平衡，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a056",
+        "s-18efbb4542bb-c004:a057"
+      ],
+      "description": "k00181说讲师对错误教导的批评，但k00182说女人是男人的帮助者。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确女人是男人的帮助者的确切含义，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a058",
+        "s-18efbb4542bb-c004:a009"
+      ],
+      "description": "k00183说男人独居不好的科学证据，但k00134说男人独居与已婚男性的生活质量差异。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确男人独居不好的科学证据，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a059",
+        "s-18efbb4542bb-c004:a060"
+      ],
+      "description": "k00184说错误教导导致地位不平等，但k00185说被教会教导陷害。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确如何避免错误教导，以及如何应对。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a062",
+        "s-18efbb4542bb-c004:a063"
+      ],
+      "description": "k00187说学员丈夫的反问是对的，但k00188说圣经没有说女人被造是为了补充男人。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确圣经中关于女人被造的目的，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a065",
+        "s-18efbb4542bb-c004:a066"
+      ],
+      "description": "k00190说脑子清醒才能说赢，但k00191说被歪理洗脑的危害。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确如何保持脑子清醒，以及如何避免被洗脑。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a068",
+        "s-18efbb4542bb-c004:a069"
+      ],
+      "description": "k00193说浸泡在智慧中的效果，但k00194说认知不同看事情角度不同。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确浸泡在智慧中的具体方法，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a071",
+        "s-18efbb4542bb-c004:a021"
+      ],
+      "description": "k00196说某沙龙成员的评价，但k00146说某沙龙的作用。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确某沙龙的具体作用，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a073",
+        "s-18efbb4542bb-c004:a074"
+      ],
+      "description": "k00198说浸泡在智慧中让脑子清晰，但k00199说没有认知的人容易被说服。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确如何提升认知，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a075",
+        "s-18efbb4542bb-c004:r023"
+      ],
+      "description": "k00200说练习让脑子更开，但k00233说练习让脑子更开的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确练习的具体方法，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a076",
+        "s-18efbb4542bb-c004:r024"
+      ],
+      "description": "k00201说智慧让人清醒，但k00234说智慧让人清醒的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确获得智慧的具体方法，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a078",
+        "s-18efbb4542bb-c004:r026"
+      ],
+      "description": "k00203说学员要注意所受教导，但k00236说学员要注意所受教导的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确如何注意所受教导，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a080",
+        "s-18efbb4542bb-c004:r028"
+      ],
+      "description": "k00205说很多牧师没有学过原文，但k00238说很多牧师没有学过原文的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确如何应对牧师没有学过原文的情况，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a081",
+        "s-18efbb4542bb-c004:r029"
+      ],
+      "description": "k00206说儒家思想对圣经解读的影响，但k00239说儒家思想对圣经解读的影响机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确如何避免儒家思想对圣经解读的影响，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a082",
+        "s-18efbb4542bb-c004:r030"
+      ],
+      "description": "k00207说正确理解圣经的重要性，但k00240说正确理解圣经的重要性的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确如何正确理解圣经，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a084",
+        "s-18efbb4542bb-c004:r032"
+      ],
+      "description": "k00209说神是活的神，但k00242说神是活的神的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确神是活的神的含义，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r001",
+        "s-18efbb4542bb-c004:r002"
+      ],
+      "description": "k00211说吵架中让对方意识到逻辑漏洞的具体目的，但k00212说吵架中逼疯对方的行为机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确吵架中逼疯对方的行为机制，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r003",
+        "s-18efbb4542bb-c004:r011"
+      ],
+      "description": "k00213说吵架后对方收敛的机制，但k00221说老公生气后第二次会收敛的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确吵架后对方收敛的机制，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r004",
+        "s-18efbb4542bb-c004:r006"
+      ],
+      "description": "k00214说学习理直气壮后夫妻感情更好的机制，但k00216说吵架中让对方明白期待不合理的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确学习理直气壮后夫妻感情更好的机制，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r007",
+        "s-18efbb4542bb-c004:r008"
+      ],
+      "description": "k00217说吵架中让对方明白沟通方法行不通的机制，但k00218说吵架中对方不敢乱讲话的结果。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确吵架中让对方明白沟通方法行不通的机制，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r009",
+        "s-18efbb4542bb-c004:r012"
+      ],
+      "description": "k00219说好的吵架帮助彼此动脑子的机制，但k00222说吵架中让对方听自己说话的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确好的吵架帮助彼此动脑子的机制，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r014",
+        "s-18efbb4542bb-c004:r015"
+      ],
+      "description": "k00224说学员被自己的话坑了的机制，但k00225说被教会教导陷害的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确学员被自己的话坑了的机制，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r016",
+        "s-18efbb4542bb-c004:r017"
+      ],
+      "description": "k00226说脑子清醒才能说赢的机制，但k00227说被歪理洗脑的危害。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确脑子清醒才能说赢的机制，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r018",
+        "s-18efbb4542bb-c004:r019"
+      ],
+      "description": "k00228说浸泡在智慧中提升认知的机制，但k00229说认知不同看事情角度不同的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确浸泡在智慧中提升认知的机制，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r020",
+        "s-18efbb4542bb-c004:r021"
+      ],
+      "description": "k00230说认知清晰才能找出逻辑漏洞的机制，但k00231说浸泡在智慧中让脑子清晰的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确认知清晰才能找出逻辑漏洞的机制，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r022",
+        "s-18efbb4542bb-c004:r023"
+      ],
+      "description": "k00232说没有认知的人容易被说服的机制，但k00233说练习让脑子更开的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确没有认知的人容易被说服的机制，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r024",
+        "s-18efbb4542bb-c004:r025"
+      ],
+      "description": "k00234说智慧让人清醒的机制，但k00235说清水与浑水的比喻机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确智慧让人清醒的机制，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r026",
+        "s-18efbb4542bb-c004:r027"
+      ],
+      "description": "k00236说学员要注意所受教导的机制，但k00237说讲师学习希伯来原文的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确学员要注意所受教导的机制，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r028",
+        "s-18efbb4542bb-c004:r029"
+      ],
+      "description": "k00238说很多牧师没有学过原文的机制，但k00239说儒家思想对圣经解读的影响机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确很多牧师没有学过原文的机制，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r030",
+        "s-18efbb4542bb-c004:r031"
+      ],
+      "description": "k00240说正确理解圣经的重要性的机制，但k00241说圣经教导喜乐的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确正确理解圣经的重要性的机制，以及如何应用。"
+    },
+    {
+      "atom_ids": [
+        "s-18efbb4542bb-c004:r032",
+        "s-18efbb4542bb-c004:a017"
+      ],
+      "description": "k00242说神是活的神的机制，但k00243说保护心智的重要性的机制。两者一致，但可能与其他策略存在矛盾。",
+      "needed_evidence": "需要明确神是活的神的机制，以及如何应用。"
+    }
+  ],
+  "path": [
+    {
+      "name": "守住主场的方法",
+      "steps": [
+        {
+          "action": "识别对方试图定义争论标准或转移话题",
+          "atom_ids": [
+            "s-18efbb4542bb-c001:a001",
+            "s-18efbb4542bb-c001:a002",
+            "s-18efbb4542bb-c001:a005",
+            "s-18efbb4542bb-c001:a007",
+            "s-18efbb4542bb-c002:p01-a004",
+            "s-18efbb4542bb-c003:a001"
+          ],
+          "condition": "对方掌握定义权或试图换场时"
+        },
+        {
+          "action": "不进入对方主场，岔开话题或质疑对方资格",
+          "atom_ids": [
+            "s-18efbb4542bb-c001:a002",
+            "s-18efbb4542bb-c001:a004",
+            "s-18efbb4542bb-c001:a007",
+            "s-18efbb4542bb-c002:p03-a001",
+            "s-18efbb4542bb-c002:p03-a008",
+            "s-18efbb4542bb-c002:p03-r004",
+            "s-18efbb4542bb-c003:a002"
+          ],
+          "condition": "对方以权威姿态评判或提出质疑时"
+        },
+        {
+          "action": "若对方有逻辑漏洞，刻意进入其主场抓住漏洞反击",
+          "atom_ids": [
+            "s-18efbb4542bb-c001:a011",
+            "s-18efbb4542bb-c001:a012",
+            "s-18efbb4542bb-c002:p01-a007",
+            "s-18efbb4542bb-c002:p04-r001",
+            "s-18efbb4542bb-c003:a009"
+          ],
+          "condition": "对方的话存在重大逻辑漏洞时"
+        },
+        {
+          "action": "锁定主场，拒绝换场并持续追问核心问题",
+          "atom_ids": [
+            "s-18efbb4542bb-c003:a001",
+            "s-18efbb4542bb-c002:p04-a003",
+            "s-18efbb4542bb-c002:p04-a005",
+            "s-18efbb4542bb-c002:p04-r002"
+          ],
+          "condition": "对方试图转移话题或逃避核心问题时"
+        },
+        {
+          "action": "在主场中定义标准，等待对方回答",
+          "atom_ids": [
+            "s-18efbb4542bb-c003:a007",
+            "s-18efbb4542bb-c003:a017",
+            "s-18efbb4542bb-c003:a023",
+            "s-18efbb4542bb-c003:a027"
+          ],
+          "condition": "对话处于自己的主场时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "0313bfce7840271089b30134ff7a57ff2e1ad3e658899e8367ae2d4a482776ee",
+  "point_units": [
+    {
+      "id": "s-18efbb4542bb-c001:u01",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a001"
+      ],
+      "blocks": [
+        "b00018",
+        "b00020"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u02",
+      "kind": "method",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a002"
+      ],
+      "blocks": [
+        "b00018",
+        "b00020",
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u03",
+      "kind": "case",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a003"
+      ],
+      "blocks": [
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u04",
+      "kind": "method",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00036",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u05",
+      "kind": "method",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a004"
+      ],
+      "blocks": [
+        "b00038",
+        "b00040",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u06",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a005"
+      ],
+      "blocks": [
+        "b00042",
+        "b00044",
+        "b00046",
+        "b00056",
+        "b00064",
+        "b00068",
+        "b00070",
+        "b00076",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u07",
+      "kind": "case",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a006"
+      ],
+      "blocks": [
+        "b00048",
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u08",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:v2-n003"
+      ],
+      "blocks": [
+        "b00050",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u09",
+      "kind": "method",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u10",
+      "kind": "case",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a008"
+      ],
+      "blocks": [
+        "b00078",
+        "b00080",
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u11",
+      "kind": "method",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a009"
+      ],
+      "blocks": [
+        "b00082",
+        "b00084",
+        "b00108"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u12",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a010"
+      ],
+      "blocks": [
+        "b00086",
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u13",
+      "kind": "condition",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a011"
+      ],
+      "blocks": [
+        "b00092"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u14",
+      "kind": "case",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a012"
+      ],
+      "blocks": [
+        "b00074",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u15",
+      "kind": "method",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a013"
+      ],
+      "blocks": [
+        "b00098",
+        "b00100"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u16",
+      "kind": "case",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a014"
+      ],
+      "blocks": [
+        "b00098"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u17",
+      "kind": "method",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a015"
+      ],
+      "blocks": [
+        "b00106",
+        "b00108",
+        "b00110"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u18",
+      "kind": "case",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a016"
+      ],
+      "blocks": [
+        "b00108",
+        "b00110"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u19",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a017"
+      ],
+      "blocks": [
+        "b00112",
+        "b00116"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u20",
+      "kind": "case",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a018"
+      ],
+      "blocks": [
+        "b00116"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u21",
+      "kind": "method",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a019"
+      ],
+      "blocks": [
+        "b00118"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u22",
+      "kind": "case",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a020"
+      ],
+      "blocks": [
+        "b00118"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u23",
+      "kind": "principle",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:v2-n004"
+      ],
+      "blocks": [
+        "b00034",
+        "b00058",
+        "b00060",
+        "b00062"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u24",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:v2-n005"
+      ],
+      "blocks": [
+        "b00102"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u25",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:v2-n006"
+      ],
+      "blocks": [
+        "b00026",
+        "b00028",
+        "b00032",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c001:u26",
+      "kind": "method",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:a007"
+      ],
+      "blocks": [
+        "b00054",
+        "b00072",
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p01-a001",
+        "s-18efbb4542bb-c002:p01-a006"
+      ],
+      "blocks": [
+        "b00128",
+        "b00130",
+        "b00132",
+        "b00136",
+        "b00138",
+        "b00122"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p01-a002"
+      ],
+      "blocks": [
+        "b00130",
+        "b00132",
+        "b00134",
+        "b00136",
+        "b00142"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p01-a004"
+      ],
+      "blocks": [
+        "b00126",
+        "b00128"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p01-a005"
+      ],
+      "blocks": [
+        "b00138",
+        "b00118"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p01-a007"
+      ],
+      "blocks": [
+        "b00140",
+        "b00142",
+        "b00144",
+        "b00146",
+        "b00148",
+        "b00150"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p02-a001",
+        "s-18efbb4542bb-c002:p02-a007"
+      ],
+      "blocks": [
+        "b00154",
+        "b00156",
+        "b00158",
+        "b00160",
+        "b00170"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p02-a002"
+      ],
+      "blocks": [
+        "b00152",
+        "b00170"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p02-a003",
+        "s-18efbb4542bb-c002:p02-a004",
+        "s-18efbb4542bb-c002:p02-a006"
+      ],
+      "blocks": [
+        "b00172",
+        "b00176"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p03-a001",
+        "s-18efbb4542bb-c002:p02-a005",
+        "s-18efbb4542bb-c002:p02-a008",
+        "s-18efbb4542bb-c002:p02-a010",
+        "s-18efbb4542bb-c002:p03-a006",
+        "s-18efbb4542bb-c002:p03-r001",
+        "s-18efbb4542bb-c002:p03-r002",
+        "s-18efbb4542bb-c002:p03-r003",
+        "s-18efbb4542bb-c002:p03-r004",
+        "s-18efbb4542bb-c002:p03-r005"
+      ],
+      "blocks": [
+        "b00174",
+        "b00178",
+        "b00180",
+        "b00182",
+        "b00184",
+        "b00186",
+        "b00188",
+        "b00190"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p02-a017"
+      ],
+      "blocks": [
+        "b00154"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u011",
+      "kind": "case",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p02-a018"
+      ],
+      "blocks": [
+        "b00154",
+        "b00156",
+        "b00158"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p02-a019"
+      ],
+      "blocks": [
+        "b00168",
+        "b00152"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p03-a009",
+        "s-18efbb4542bb-c002:p03-a002",
+        "s-18efbb4542bb-c002:p03-a003"
+      ],
+      "blocks": [
+        "b00186",
+        "b00202",
+        "b00206",
+        "b00192"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p03-a004",
+        "s-18efbb4542bb-c002:p03-r007"
+      ],
+      "blocks": [
+        "b00198",
+        "b00200"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p04-a001",
+        "s-18efbb4542bb-c002:p04-a002",
+        "s-18efbb4542bb-c002:p04-r001"
+      ],
+      "blocks": [
+        "b00214",
+        "b00216",
+        "b00208",
+        "b00212"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p04-a003",
+        "s-18efbb4542bb-c002:p04-r002"
+      ],
+      "blocks": [
+        "b00218",
+        "b00222"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p04-a004"
+      ],
+      "blocks": [
+        "b00220"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c002:u018",
+      "kind": "case",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p01-a003",
+        "s-18efbb4542bb-c002:p03-a005",
+        "s-18efbb4542bb-c002:p02-a011",
+        "s-18efbb4542bb-c002:p02-a012",
+        "s-18efbb4542bb-c002:p02-a013",
+        "s-18efbb4542bb-c002:p02-a014",
+        "s-18efbb4542bb-c002:p02-a015",
+        "s-18efbb4542bb-c002:p02-a016"
+      ],
+      "blocks": [
+        "b00120",
+        "b00122",
+        "b00124",
+        "b00126",
+        "b00128",
+        "b00130",
+        "b00132",
+        "b00134",
+        "b00136",
+        "b00140",
+        "b00142",
+        "b00144",
+        "b00146",
+        "b00148",
+        "b00150",
+        "b00152",
+        "b00158",
+        "b00160",
+        "b00162",
+        "b00164",
+        "b00166",
+        "b00168",
+        "b00170",
+        "b00172",
+        "b00174",
+        "b00176",
+        "b00178",
+        "b00180",
+        "b00182",
+        "b00184",
+        "b00188",
+        "b00190",
+        "b00118",
+        "b00154",
+        "b00156"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c002:p04-a005",
+        "s-18efbb4542bb-c002:p04-r002",
+        "s-18efbb4542bb-c003:a001"
+      ],
+      "blocks": [
+        "b00222"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a020"
+      ],
+      "blocks": [
+        "b00224",
+        "b00226"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a009"
+      ],
+      "blocks": [
+        "b00228"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a014"
+      ],
+      "blocks": [
+        "b00222"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a002",
+        "s-18efbb4542bb-c003:a008"
+      ],
+      "blocks": [
+        "b00230",
+        "b00232",
+        "b00234",
+        "b00236",
+        "b00324"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a009",
+        "s-18efbb4542bb-c003:a015"
+      ],
+      "blocks": [
+        "b00236"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a014",
+        "s-18efbb4542bb-c003:a026"
+      ],
+      "blocks": [
+        "b00238",
+        "b00282"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a021",
+        "s-18efbb4542bb-c003:r001"
+      ],
+      "blocks": [
+        "b00240",
+        "b00242",
+        "b00246"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a022",
+        "s-18efbb4542bb-c003:r002"
+      ],
+      "blocks": [
+        "b00244",
+        "b00248",
+        "b00250",
+        "b00252"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a002",
+        "s-18efbb4542bb-c003:a008"
+      ],
+      "blocks": [
+        "b00254",
+        "b00256",
+        "b00258",
+        "b00260"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a003",
+        "s-18efbb4542bb-c003:a004",
+        "s-18efbb4542bb-c003:a024"
+      ],
+      "blocks": [
+        "b00262",
+        "b00266",
+        "b00268"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a004",
+        "s-18efbb4542bb-c003:a025"
+      ],
+      "blocks": [
+        "b00270"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a013",
+        "s-18efbb4542bb-c003:a001"
+      ],
+      "blocks": [
+        "b00272"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a005"
+      ],
+      "blocks": [
+        "b00274",
+        "b00276",
+        "b00278"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00278"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a006",
+        "s-18efbb4542bb-c003:a013"
+      ],
+      "blocks": [
+        "b00280",
+        "b00282"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a012"
+      ],
+      "blocks": [
+        "b00284",
+        "b00286",
+        "b00288"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a007",
+        "s-18efbb4542bb-c003:a017",
+        "s-18efbb4542bb-c003:a027"
+      ],
+      "blocks": [
+        "b00290",
+        "b00292",
+        "b00294",
+        "b00296"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a028",
+        "s-18efbb4542bb-c003:r003"
+      ],
+      "blocks": [
+        "b00298",
+        "b00300"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a018",
+        "s-18efbb4542bb-c003:a030",
+        "s-18efbb4542bb-c003:r004"
+      ],
+      "blocks": [
+        "b00302",
+        "b00304",
+        "b00308",
+        "b00310"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a031"
+      ],
+      "blocks": [
+        "b00312"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a009",
+        "s-18efbb4542bb-c003:a015",
+        "s-18efbb4542bb-c003:a016",
+        "s-18efbb4542bb-c003:a019",
+        "s-18efbb4542bb-c003:a032",
+        "s-18efbb4542bb-c003:r006"
+      ],
+      "blocks": [
+        "b00314",
+        "b00316",
+        "b00318",
+        "b00320"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c003:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:a011",
+        "s-18efbb4542bb-c003:a033"
+      ],
+      "blocks": [
+        "b00322"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a001",
+        "s-18efbb4542bb-c004:a025",
+        "s-18efbb4542bb-c004:a030",
+        "s-18efbb4542bb-c004:a031",
+        "s-18efbb4542bb-c004:r001",
+        "s-18efbb4542bb-c004:r006",
+        "s-18efbb4542bb-c004:r007",
+        "s-18efbb4542bb-c004:a044",
+        "s-18efbb4542bb-c004:a029"
+      ],
+      "blocks": [
+        "b00334",
+        "b00336",
+        "b00356"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a002",
+        "s-18efbb4542bb-c004:a026",
+        "s-18efbb4542bb-c004:a028",
+        "s-18efbb4542bb-c004:a032",
+        "s-18efbb4542bb-c004:a034",
+        "s-18efbb4542bb-c004:a035",
+        "s-18efbb4542bb-c004:r008",
+        "s-18efbb4542bb-c004:r009"
+      ],
+      "blocks": [
+        "b00332",
+        "b00338",
+        "b00340",
+        "b00342"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a033",
+        "s-18efbb4542bb-c004:r002"
+      ],
+      "blocks": [
+        "b00340"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a026",
+        "s-18efbb4542bb-c004:a041",
+        "s-18efbb4542bb-c004:r003",
+        "s-18efbb4542bb-c004:r011"
+      ],
+      "blocks": [
+        "b00346"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a027",
+        "s-18efbb4542bb-c004:a042",
+        "s-18efbb4542bb-c004:r004"
+      ],
+      "blocks": [
+        "b00346"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a003",
+        "s-18efbb4542bb-c004:a036",
+        "s-18efbb4542bb-c004:a037",
+        "s-18efbb4542bb-c004:a038",
+        "s-18efbb4542bb-c004:a039",
+        "s-18efbb4542bb-c004:a040",
+        "s-18efbb4542bb-c004:r010"
+      ],
+      "blocks": [
+        "b00342",
+        "b00344",
+        "b00346"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u007",
+      "kind": "case",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a004",
+        "s-18efbb4542bb-c004:a043",
+        "s-18efbb4542bb-c004:r005"
+      ],
+      "blocks": [
+        "b00348",
+        "b00350"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a005",
+        "s-18efbb4542bb-c004:a047",
+        "s-18efbb4542bb-c004:a048"
+      ],
+      "blocks": [
+        "b00354",
+        "b00356"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a006",
+        "s-18efbb4542bb-c004:a045",
+        "s-18efbb4542bb-c004:a046"
+      ],
+      "blocks": [
+        "b00350",
+        "b00352",
+        "b00354"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a007"
+      ],
+      "blocks": [
+        "b00334",
+        "b00354"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a008",
+        "s-18efbb4542bb-c004:a057"
+      ],
+      "blocks": [
+        "b00368"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a009",
+        "s-18efbb4542bb-c004:a058"
+      ],
+      "blocks": [
+        "b00368"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a010",
+        "s-18efbb4542bb-c004:a056",
+        "s-18efbb4542bb-c004:a057",
+        "s-18efbb4542bb-c004:a059",
+        "s-18efbb4542bb-c004:a063"
+      ],
+      "blocks": [
+        "b00368",
+        "b00370"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a011",
+        "s-18efbb4542bb-c004:a064",
+        "s-18efbb4542bb-c004:a065"
+      ],
+      "blocks": [
+        "b00376"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a012",
+        "s-18efbb4542bb-c004:a024",
+        "s-18efbb4542bb-c004:a072",
+        "s-18efbb4542bb-c004:a074",
+        "s-18efbb4542bb-c004:r020",
+        "s-18efbb4542bb-c004:r022",
+        "s-18efbb4542bb-c004:r016"
+      ],
+      "blocks": [
+        "b00386",
+        "b00388"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a013",
+        "s-18efbb4542bb-c004:a067",
+        "s-18efbb4542bb-c004:a068",
+        "s-18efbb4542bb-c004:a069",
+        "s-18efbb4542bb-c004:a073",
+        "s-18efbb4542bb-c004:r018",
+        "s-18efbb4542bb-c004:r019",
+        "s-18efbb4542bb-c004:r021"
+      ],
+      "blocks": [
+        "b00380",
+        "b00382",
+        "b00386"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a014",
+        "s-18efbb4542bb-c004:a081",
+        "s-18efbb4542bb-c004:r029"
+      ],
+      "blocks": [
+        "b00392"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a015",
+        "s-18efbb4542bb-c004:a070"
+      ],
+      "blocks": [
+        "b00382",
+        "b00392"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a016",
+        "s-18efbb4542bb-c004:a083",
+        "s-18efbb4542bb-c004:a084",
+        "s-18efbb4542bb-c004:r031",
+        "s-18efbb4542bb-c004:r032"
+      ],
+      "blocks": [
+        "b00394"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u020",
+      "kind": "case",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a018",
+        "s-18efbb4542bb-c004:a054",
+        "s-18efbb4542bb-c004:a055",
+        "s-18efbb4542bb-c004:a062",
+        "s-18efbb4542bb-c004:r014"
+      ],
+      "blocks": [
+        "b00358",
+        "b00360",
+        "b00362",
+        "b00364",
+        "b00366",
+        "b00368",
+        "b00370",
+        "b00374"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a019",
+        "s-18efbb4542bb-c004:a061"
+      ],
+      "blocks": [
+        "b00374"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a020",
+        "s-18efbb4542bb-c004:a078",
+        "s-18efbb4542bb-c004:a079",
+        "s-18efbb4542bb-c004:a080",
+        "s-18efbb4542bb-c004:r026",
+        "s-18efbb4542bb-c004:r027",
+        "s-18efbb4542bb-c004:r028",
+        "s-18efbb4542bb-c004:a082",
+        "s-18efbb4542bb-c004:r030"
+      ],
+      "blocks": [
+        "b00390",
+        "b00392"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a021",
+        "s-18efbb4542bb-c004:a067",
+        "s-18efbb4542bb-c004:a071"
+      ],
+      "blocks": [
+        "b00378",
+        "b00380",
+        "b00382",
+        "b00384"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u024",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a022",
+        "s-18efbb4542bb-c004:a076",
+        "s-18efbb4542bb-c004:a077",
+        "s-18efbb4542bb-c004:r024",
+        "s-18efbb4542bb-c004:r025"
+      ],
+      "blocks": [
+        "b00388"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a023",
+        "s-18efbb4542bb-c004:a055",
+        "s-18efbb4542bb-c004:a059",
+        "s-18efbb4542bb-c004:a060",
+        "s-18efbb4542bb-c004:r014",
+        "s-18efbb4542bb-c004:r015",
+        "s-18efbb4542bb-c004:a066",
+        "s-18efbb4542bb-c004:r017"
+      ],
+      "blocks": [
+        "b00370",
+        "b00376"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a024",
+        "s-18efbb4542bb-c004:a072",
+        "s-18efbb4542bb-c004:a075",
+        "s-18efbb4542bb-c004:r020",
+        "s-18efbb4542bb-c004:r023"
+      ],
+      "blocks": [
+        "b00386"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a025",
+        "s-18efbb4542bb-c004:a049",
+        "s-18efbb4542bb-c004:a050",
+        "s-18efbb4542bb-c004:a051",
+        "s-18efbb4542bb-c004:r012",
+        "s-18efbb4542bb-c004:r013"
+      ],
+      "blocks": [
+        "b00356"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u028",
+      "kind": "question",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a052",
+        "s-18efbb4542bb-c004:a053"
+      ],
+      "blocks": [
+        "b00358"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u029",
+      "kind": "question",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:v2-n002"
+      ],
+      "blocks": [
+        "b00330"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u030",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:v2-n001"
+      ],
+      "blocks": [
+        "b00324",
+        "b00328"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u031",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:v2-n004"
+      ],
+      "blocks": [
+        "b00322"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u032",
+      "kind": "method",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:v2-n005"
+      ],
+      "blocks": [
+        "b00364"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c004:u033",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:v2-n003"
+      ],
+      "blocks": [
+        "b00396"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c005:u1",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c005:r001"
+      ],
+      "blocks": [
+        "b00396"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c005:u2",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:a017"
+      ],
+      "blocks": [
+        "b00396"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c005:u3",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c005:a001"
+      ],
+      "blocks": [
+        "b00398"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c005:u4",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c005:a002"
+      ],
+      "blocks": [
+        "b00398"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c005:u5",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c005:a003"
+      ],
+      "blocks": [
+        "b00398",
+        "b00400"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c005:u6",
+      "kind": "case",
+      "atom_ids": [
+        "s-18efbb4542bb-c005:a004"
+      ],
+      "blocks": [
+        "b00400",
+        "b00402"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c005:u7",
+      "kind": "concept",
+      "atom_ids": [
+        "s-18efbb4542bb-c005:a005"
+      ],
+      "blocks": [
+        "b00402",
+        "b00404"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c005:u8",
+      "kind": "method",
+      "atom_ids": [
+        "s-18efbb4542bb-c005:a006"
+      ],
+      "blocks": [
+        "b00404"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c005:u9",
+      "kind": "method",
+      "atom_ids": [
+        "s-18efbb4542bb-c005:a007"
+      ],
+      "blocks": [
+        "b00410",
+        "b00412"
+      ]
+    },
+    {
+      "id": "s-18efbb4542bb-c005:u10",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-18efbb4542bb-c005:a008",
+        "s-18efbb4542bb-c005:r004"
+      ],
+      "blocks": [
+        "b00412"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "用“你很在意我的学习”转移话题",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-18efbb4542bb",
+          "blocks": [
+            "b00036",
+            "b00038"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "用角色身份“我是孩子爸爸”建立主场",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-18efbb4542bb",
+          "blocks": [
+            "b00054"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "证明专家资格适得其反",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-18efbb4542bb",
+          "blocks": [
+            "b00050",
+            "b00052"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "anti_pattern"
+    },
+    {
+      "title": "谁学习谁管谁说了算",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-18efbb4542bb",
+          "blocks": [
+            "b00034",
+            "b00060",
+            "b00062"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "principle"
+    },
+    {
+      "title": "用物质要求反击仍属态度主场",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-18efbb4542bb",
+          "blocks": [
+            "b00102"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "anti_pattern"
+    },
+    {
+      "title": "岔开话题不彻底仍会被拉回",
+      "atom_ids": [
+        "s-18efbb4542bb-c001:v2-n006"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-18efbb4542bb",
+          "blocks": [
+            "b00026",
+            "b00028",
+            "b00032",
+            "b00034"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "anti_pattern"
+    },
+    {
+      "title": "用诱导性二选一问题把对方锁入预设结论",
+      "atom_ids": [
+        "s-18efbb4542bb-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-18efbb4542bb",
+          "blocks": [
+            "b00278"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "吵架中坚持态度并用“你凭什么”质问",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-18efbb4542bb",
+          "blocks": [
+            "b00324",
+            "b00328"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "学员提问：逮着打对方可能逆袭吗",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-18efbb4542bb",
+          "blocks": [
+            "b00330"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "信仰教导中逻辑漏洞与保护心智",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:v2-n003"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-18efbb4542bb",
+          "blocks": [
+            "b00396"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "distinction"
+    },
+    {
+      "title": "识别触发情绪的话语并聚焦态度争吵",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:v2-n004"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-18efbb4542bb",
+          "blocks": [
+            "b00322"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "转场时要求对方说明场景和角色",
+      "atom_ids": [
+        "s-18efbb4542bb-c004:v2-n005"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-18efbb4542bb",
+          "blocks": [
+            "b00364"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}

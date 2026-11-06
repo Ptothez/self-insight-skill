@@ -1,0 +1,4898 @@
+[
+  {
+    "id": "s-019d27053972-c006:a020",
+    "title": "孩子被欺负不告诉大人的原因",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-019d27053972",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-019d27053972-c006:r002",
+    "title": "处理孩子被欺负不告诉大人的方法",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-019d27053972",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-073390e63b74-c002:a028",
+    "title": "延迟满足能力不足导致混乱",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-073390e63b74",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-0cfa8120b7c8-c001:a033",
+    "title": "把孩子当心灵慰藉的后果",
+    "type": "concept",
+    "subtype": "problem",
+    "source": "s-0cfa8120b7c8",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-0fd758c071ac-c002:a005",
+    "title": "孩子沉迷游戏的原因",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-0fd758c071ac",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-0fd758c071ac-c002:a006",
+    "title": "打游戏与游戏上瘾的区别",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-0fd758c071ac",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-13468eb610b6-c001:a014",
+    "title": "父母比孩子着急导致孩子不着急",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-13468eb610b6",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-13468eb610b6-c001:a015",
+    "title": "孩子不耐烦的原因",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-13468eb610b6",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-13468eb610b6-c001:a017",
+    "title": "停止逼迫孩子学习",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-13468eb610b6",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-13468eb610b6-c001:a018",
+    "title": "无人催促时孩子会自我负责",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-13468eb610b6",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-13468eb610b6-c001:a019",
+    "title": "孩子摆烂的两种情况",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-13468eb610b6",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-13468eb610b6-c001:a021",
+    "title": "游戏上瘾与家庭脱节",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-13468eb610b6",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-13468eb610b6-c001:r003",
+    "title": "案例：10岁半男孩学习不自觉",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-13468eb610b6",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-13468eb610b6-c003:a004",
+    "title": "拿走力量育儿的两个结果",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-13468eb610b6",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-17d5789257fe-c001:a025",
+    "title": "有条件的接纳导致上瘾问题",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-17d5789257fe",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-17d5789257fe-c001:r004",
+    "title": "无条件接纳与上瘾问题的关联",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-17d5789257fe",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-185c515bd495-c001:a003",
+    "title": "孩子不喜欢学校可能导致上瘾",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-185c515bd495",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-185c515bd495-c001:a011",
+    "title": "性方面的上瘾最难发现",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-185c515bd495",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-185c515bd495-c001:a014",
+    "title": "谨慎面对未上瘾的过度行为",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-185c515bd495",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-185c515bd495-c001:a015",
+    "title": "讲师吃冰淇淋瓜子的周期案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-185c515bd495",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-185c515bd495-c001:r005",
+    "title": "判断是否上瘾的标准",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-185c515bd495",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-185c515bd495-c002:a002",
+    "title": "11岁女儿手机使用案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-185c515bd495",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-185c515bd495-c002:a003",
+    "title": "毕业期选择与成瘾无关",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-185c515bd495",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-185c515bd495-c002:a018",
+    "title": "青春期摸生殖器的判断",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-185c515bd495",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-185c515bd495-c002:a027",
+    "title": "学员孩子失控案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-185c515bd495",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-185c515bd495-c003:a004",
+    "title": "尝试吸毒是否会上瘾因人而异",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-185c515bd495",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-185c515bd495-c003:a006",
+    "title": "色情上瘾与性的关系",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-185c515bd495",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a001",
+    "title": "孩子上瘾的四种类型",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a002",
+    "title": "网络上瘾的范畴",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a003",
+    "title": "15岁女孩网购上瘾案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a004",
+    "title": "手机上瘾的表现",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a005",
+    "title": "社交媒体上瘾的表现",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a006",
+    "title": "家庭冲突导致孩子沉迷网络案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a007",
+    "title": "明网、声网与暗网",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a008",
+    "title": "暗网与上瘾的关联",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a010",
+    "title": "蓝鲸暗网案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a011",
+    "title": "上瘾孩子接触暗网的风险",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a012",
+    "title": "上瘾的连锁效应",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a013",
+    "title": "毒品的进化史",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a014",
+    "title": "新精神活性物质",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a015",
+    "title": "学业压力与毒品使用",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a016",
+    "title": "青少年毒品上瘾自述案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a017",
+    "title": "毒品上瘾者与母亲最后通话案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a018",
+    "title": "色情上瘾的年龄趋势",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a019",
+    "title": "色情产业规模",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a020",
+    "title": "游戏中的色情诱导",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a021",
+    "title": "电子游戏设计的上瘾机制",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a023",
+    "title": "来访者网络朋友鼓动自杀案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:a024",
+    "title": "孩子偷钱充值游戏案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:r001",
+    "title": "孩子上瘾的环境脆弱性",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:r002",
+    "title": "家长对孩子上瘾的认知不足",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:r003",
+    "title": "暗网对年轻人的接触途径",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:r004",
+    "title": "暗网教唆自杀的机制",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:r006",
+    "title": "上瘾的连锁效应与共病",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:r007",
+    "title": "毒品外观的隐蔽性",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a001",
+    "title": "孩子偷钱充值游戏案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a002",
+    "title": "毒品成瘾者撒谎骗钱案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a003",
+    "title": "上瘾导致失去理性",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a004",
+    "title": "上瘾的普遍性伤害",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a005",
+    "title": "上瘾对大脑的损害",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a006",
+    "title": "上瘾的神经机制",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a007",
+    "title": "上瘾对社交技巧的损害",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a008",
+    "title": "上瘾与情绪问题的关联",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a009",
+    "title": "上瘾导致失去思考能力",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a010",
+    "title": "提问：为什么孩子会上瘾？",
+    "type": "concept",
+    "subtype": "question",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a011",
+    "title": "家长对上瘾原因的常见误解",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a012",
+    "title": "上瘾的家庭原因",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a013",
+    "title": "基因与上瘾的关系",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a014",
+    "title": "上瘾原因的多方面性",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a015",
+    "title": "上瘾原因：融入群体",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a016",
+    "title": "上瘾原因：情感需要未满足",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a017",
+    "title": "上瘾原因：喜欢上瘾带来的感受",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a018",
+    "title": "上瘾原因：追求成熟感",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a019",
+    "title": "上瘾原因：喜欢冒险",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a020",
+    "title": "成绩好与上瘾的关系",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a021",
+    "title": "性格与上瘾的关系",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a022",
+    "title": "培养乖巧听话孩子的风险",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a023",
+    "title": "反感上瘾话题与上瘾的关系",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a024",
+    "title": "色情上瘾者表面反感案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a025",
+    "title": "时间安排与上瘾的关系",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a026",
+    "title": "学校管理与毒品接触",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:a027",
+    "title": "接触机会与上瘾的关系",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:r001",
+    "title": "上瘾不分类型均造成伤害",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c003:a001",
+    "title": "上瘾的普遍性与无孔不入",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c003:a002",
+    "title": "视觉刺激对孩子大脑的影响",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c003:a003",
+    "title": "父母对上瘾危机的认知缺失",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c003:a004",
+    "title": "课程目标：认识上瘾危机",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-18a5df5d1f41-c001:a018",
+    "title": "问错问题的第五个后果：孩子上瘾",
+    "type": "concept",
+    "subtype": "consequence",
+    "source": "s-18a5df5d1f41",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-18a5df5d1f41-c001:a019",
+    "title": "游戏中的提问与父母提问的对比",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-18a5df5d1f41",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-18a5df5d1f41-c001:a021",
+    "title": "网络世界吸引孩子",
+    "type": "concept",
+    "subtype": "warning",
+    "source": "s-18a5df5d1f41",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-18a5df5d1f41-c001:a022",
+    "title": "预防孩子上瘾的建议",
+    "type": "concept",
+    "subtype": "recommendation",
+    "source": "s-18a5df5d1f41",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1c1f6a9ddf34-c001:a004",
+    "title": "习得性无助的鲨鱼实验",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1c1f6a9ddf34",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1c1f6a9ddf34-c001:a005",
+    "title": "孩子习得性无助的形成",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1c1f6a9ddf34",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1c1f6a9ddf34-c001:a006",
+    "title": "消极孩子的思维模式",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-1c1f6a9ddf34",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1c1f6a9ddf34-c001:a007",
+    "title": "只倾诉不行动的消极模式",
+    "type": "anti-pattern",
+    "subtype": "counterexample",
+    "source": "s-1c1f6a9ddf34",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1d03230af172-c003:a020",
+    "title": "线下游戏时间多于线上游戏时间",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-1d03230af172",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1d03230af172-c003:xe001",
+    "title": "父母投入补习但孩子仍网络成瘾的现象",
+    "type": "case",
+    "subtype": "reported_case",
+    "source": "s-1d03230af172",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1d03230af172-c004:a012",
+    "title": "游戏成瘾的替代原则",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1d03230af172",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1d03230af172-c004:a013",
+    "title": "律师父亲辞职陪伴孩子",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-1d03230af172",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1d03230af172-c004:r001",
+    "title": "游戏成瘾问题的长期累积性",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1d03230af172",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1d03230af172-c004:xe002",
+    "title": "住校高中生沉迷手机",
+    "type": "case",
+    "subtype": "reported_case",
+    "source": "s-1d03230af172",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1d03230af172-c004:xe003",
+    "title": "家庭为帮助孩子休学一年",
+    "type": "case",
+    "subtype": "reported_case",
+    "source": "s-1d03230af172",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1f6558c9c3b0-c003:a003",
+    "title": "网络上瘾的原因",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1f6558c9c3b0",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-217825eaba68-c001:a010",
+    "title": "电子产品提供丰富情绪，父母讲道理无法竞争",
+    "type": "concept",
+    "subtype": "comparison",
+    "source": "s-217825eaba68",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-22a73a6153af-c002:a011",
+    "title": "17岁孩子疑病与安全感缺失案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-22a73a6153af",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-296bebb32928-c002:a008",
+    "title": "没收游戏设备会让孩子更上瘾",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-296bebb32928",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-296bebb32928-c002:a009",
+    "title": "没收设备不可持续，需培养孩子能力",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-296bebb32928",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-296bebb32928-c002:xe007",
+    "title": "没收游戏设备会让孩子更上瘾",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-296bebb32928",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-296bebb32928-c002:xe008",
+    "title": "没收设备不可持续，需培养孩子能力",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-296bebb32928",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-2e4fd587be8f-c001:a006",
+    "title": "独立睡眠与安全感的关系",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-2e4fd587be8f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-2e4fd587be8f-c001:a007",
+    "title": "培养独立入睡的原则",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-2e4fd587be8f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-2e4fd587be8f-c001:a009",
+    "title": "应对孩子需要陪伴的情况",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-2e4fd587be8f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-2e4fd587be8f-c001:a023",
+    "title": "案例：12岁孩子睡眠问题",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-2e4fd587be8f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-3501103fabe7-c001:a004",
+    "title": "孩子控制父母情绪",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-3501103fabe7",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-3501103fabe7-c001:a007",
+    "title": "失去控制引发焦虑",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-3501103fabe7",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c001:a001",
+    "title": "家庭环境与上瘾的关系",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c001:a003",
+    "title": "上瘾行为的早期预兆",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c001:a004",
+    "title": "喜欢冒险是上瘾风险因素",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c001:a006",
+    "title": "冲动是上瘾风险因素",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c001:a013",
+    "title": "父母上瘾增加孩子上瘾风险",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c001:a014",
+    "title": "孩子发现父母上瘾行为的机制",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c001:a015",
+    "title": "童年创伤是上瘾风险因素",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c001:a016",
+    "title": "未处理创伤增加上瘾风险",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c001:a017",
+    "title": "社会边缘化或隔离是上瘾风险因素",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c001:a018",
+    "title": "被关在家里的孩子后来对妓女上瘾",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c001:a019",
+    "title": "边缘化导致上瘾的机制",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c001:a020",
+    "title": "与父母情绪失联是上瘾风险因素",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c001:r002",
+    "title": "情绪失联导致上瘾的机制",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a005",
+    "title": "习得性行为与上瘾",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a006",
+    "title": "童年创伤的影响",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a007",
+    "title": "打孩子后和好的案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a008",
+    "title": "父母需对儿童心理有认知并寻求专业帮助",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a009",
+    "title": "社会边缘化与归属感缺失",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a010",
+    "title": "帮助孩子建立归属感的方法",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a017",
+    "title": "孩子无法逃离父母导致上瘾",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a018",
+    "title": "夫妻关系长期不和增加孩子上瘾危险",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a019",
+    "title": "偶尔吵架与长期不和的影响区别",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a020",
+    "title": "家暴增加孩子上瘾危险",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a021",
+    "title": "孩子通过暴力游戏发泄恐惧和怒气",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a022",
+    "title": "父母抱怨导致孩子逃避真实接触",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a023",
+    "title": "过度保护增加孩子上瘾危险",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a024",
+    "title": "放任不管增加孩子上瘾危险",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a025",
+    "title": "父母关系疏远增加孩子上瘾危险",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a026",
+    "title": "父母有上瘾行为增加孩子上瘾危险",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a027",
+    "title": "对孩子要求过高增加上瘾危险",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a028",
+    "title": "父母无法满足孩子的表现",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a029",
+    "title": "对孩子要求过低也增加上瘾危险",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a030",
+    "title": "没有自己生活的父母增加孩子上瘾危险",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:a031",
+    "title": "家庭环境对前期影响孩子上瘾非常重要",
+    "type": "concept",
+    "subtype": "summary",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:r001",
+    "title": "孩子通过上瘾物质获得虚幻归属感",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:r002",
+    "title": "搬家导致孩子感觉被社会边缘化",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c002:r004",
+    "title": "孩子通过上瘾物质寻求认可",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c003:a001",
+    "title": "家庭环境对孩子上瘾的前期影响",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c003:a002",
+    "title": "家庭浸泡环境与上瘾抵抗力",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c003:a003",
+    "title": "反思家庭氛围的方法",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c003:r001",
+    "title": "父母没有自己的生活导致孩子逃避到上瘾物质",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c003:r002",
+    "title": "父母对孩子没有要求与孩子对自己没有要求导致寻求上瘾物质认可",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-49eb8028a43f-c001:a016",
+    "title": "常见错误处理方式：避免和逃避尴尬话题",
+    "type": "anti-pattern",
+    "subtype": "counterexample",
+    "source": "s-49eb8028a43f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-49eb8028a43f-c001:a017",
+    "title": "常见错误处理方式：用行动化解矛盾",
+    "type": "anti-pattern",
+    "subtype": "counterexample",
+    "source": "s-49eb8028a43f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-4f8c28d59810-c001:r006",
+    "title": "因作业晚导致沟通时间被挤压",
+    "type": "concept",
+    "subtype": "anti-pattern",
+    "source": "s-4f8c28d59810",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-5035568594b6-c002:a019",
+    "title": "情感需求未满足的后果",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-5035568594b6",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-5035568594b6-c002:a020",
+    "title": "丈夫精神出轨案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-5035568594b6",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58976debe8c1-c001:a039",
+    "title": "孩子拍屁股可能的原因推测",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-58976debe8c1",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c001:a001",
+    "title": "上瘾的船洞比喻",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c001:a002",
+    "title": "上瘾的耐受性特征",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c001:a003",
+    "title": "色情上瘾的两种路径",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c001:a004",
+    "title": "色情上瘾对亲密关系的影响",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c001:a005",
+    "title": "色情上瘾与婚姻的关系",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c001:a006",
+    "title": "儿童接触色情的年龄",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c001:a007",
+    "title": "色情上瘾的症状：对性的异常反应",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c001:a008",
+    "title": "色情上瘾的症状：作息和体重异常",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c001:a009",
+    "title": "色情上瘾的症状：焦虑",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c001:a010",
+    "title": "色情短信和录像作为早期接触",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c001:r001",
+    "title": "父母对色情上瘾的误解：不伤害任何人",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c001:r002",
+    "title": "色情上瘾的症状：偷偷摸摸行为",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c002:a006",
+    "title": "新型毒品伪装成普通物品",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c002:a007",
+    "title": "杭州警方破获LSD毒品案",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c002:a008",
+    "title": "父母对孩子毒品上瘾的误解一：孩子没有机会接触毒品",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c002:a009",
+    "title": "学校越好孩子吸毒率越高",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c002:a010",
+    "title": "父母对孩子毒品上瘾的误解二：只有坏孩子才吸毒",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c002:a011",
+    "title": "优秀学生吸食多种毒品提神助眠",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c002:a012",
+    "title": "发现孩子吸毒的迹象",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c002:a015",
+    "title": "孩子被成绩好的朋友带吸毒",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c002:r002",
+    "title": "预防孩子吸毒：与孩子讨论毒品",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c003:a001",
+    "title": "预防孩子吸毒的方法：与孩子讨论毒品",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c003:a002",
+    "title": "讨论毒品的第一步：询问孩子对毒品的看法",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c003:a003",
+    "title": "鼓励孩子信任和诚实",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c003:a004",
+    "title": "讨论为什么不应该吸毒",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c003:a005",
+    "title": "讨论吸毒对孩子重要事情的影响",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c003:a006",
+    "title": "孩子不确定时一起研究毒品",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c003:a007",
+    "title": "讨论毒品不会导致孩子吸毒",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c003:a008",
+    "title": "主动先提毒品，先入为主",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c003:a009",
+    "title": "注意网络信息淡化毒品",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c003:a010",
+    "title": "家长必须主动谈毒品",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c003:r001",
+    "title": "讨论毒品时避免吓唬孩子",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58f4352dacc2-c002:xe004",
+    "title": "游戏上瘾课程推荐",
+    "type": "concept",
+    "subtype": "游戏管理",
+    "source": "s-58f4352dacc2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58f4352dacc2-c002:xe006",
+    "title": "孩子自控力下降与家长焦虑",
+    "type": "case",
+    "subtype": "自控力下降",
+    "source": "s-58f4352dacc2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-5c190f739775-c001:a013",
+    "title": "12岁男孩电子产品使用与压力逃避",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-5c190f739775",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-5c190f739775-c001:a014",
+    "title": "单纯放松无法解决压力根源",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-5c190f739775",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-5c190f739775-c001:a033",
+    "title": "九岁孩子不自律、说谎案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-5c190f739775",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-5c190f739775-c001:a034",
+    "title": "被看着写作业导致越狱快感",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-5c190f739775",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-5c7341f6fb93-c001:a013",
+    "title": "案例：哥哥过度管弟弟源于害怕失控",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-5c7341f6fb93",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-5c7341f6fb93-c001:a014",
+    "title": "弟弟出生导致哥哥失控和不安全感",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-5c7341f6fb93",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-5c7341f6fb93-c001:a015",
+    "title": "帮助哥哥感到安全而非惩罚其行为",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-5c7341f6fb93",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-611666659dec-c001:a031",
+    "title": "婚姻中失去自我的例子",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-611666659dec",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a001",
+    "title": "预防优于治疗",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a002",
+    "title": "上瘾后改变困难",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a008",
+    "title": "香烟盒警示无效",
+    "type": "concept",
+    "subtype": "example",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a010",
+    "title": "仅视为行为问题的误区",
+    "type": "anti-pattern",
+    "subtype": "counterexample",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a011",
+    "title": "工作狂被忽视的案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a012",
+    "title": "上瘾是病态表征",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a013",
+    "title": "导致上瘾的伤害类型",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a014",
+    "title": "性侵作为创伤经历",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a015",
+    "title": "性侵导致上瘾的机制",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a016",
+    "title": "家暴作为创伤经历",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a017",
+    "title": "校园暴力作为创伤经历",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a018",
+    "title": "自然灾害或目睹死亡作为创伤经历",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a019",
+    "title": "保护不足增加上瘾风险",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a020",
+    "title": "压力作为伤害类型",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a021",
+    "title": "学习压力导致失去兴趣",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a022",
+    "title": "压力大时倾向逃避性活动",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:a023",
+    "title": "孩子压力大时同样逃避",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:r001",
+    "title": "上瘾范畴广泛",
+    "type": "concept",
+    "subtype": "example",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:r002",
+    "title": "医生因听音乐上瘾耽误接生",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:r004",
+    "title": "性侵者要求孩子保密的手段",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:r005",
+    "title": "上瘾作为隔离现实的方式",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:r006",
+    "title": "自然灾害影响的条件",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:r007",
+    "title": "父母不作为加剧校园暴力影响",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:r008",
+    "title": "压力大时倾向无脑娱乐",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:a001",
+    "title": "压力大时倾向逃避性娱乐",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:a002",
+    "title": "社会压力增大导致无脑娱乐流行",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:a003",
+    "title": "孩子压力大时也倾向用上瘾物质逃避",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:a008",
+    "title": "进入不良圈子后为适应圈子可能吸毒",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:a009",
+    "title": "美国学校心理辅导中见到的吸毒圈子",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:a010",
+    "title": "在吸烟圈子中不吸烟会有压力",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:a016",
+    "title": "睡眠不足时面对毒品可能无法拒绝",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:a028",
+    "title": "14岁网络成瘾男孩因同学欺负而玩暴力游戏",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:a029",
+    "title": "无法处理现实矛盾容易逃避或发泄",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:a034",
+    "title": "心理越健康离上瘾物质越远",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:a041",
+    "title": "被爱包裹的孩子不太可能上瘾",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:a043",
+    "title": "隔离惩罚让孩子恐惧并寻求安全环境",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:a063",
+    "title": "上瘾孩子对提问暴躁不耐烦",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:a064",
+    "title": "提问习惯有助于发现上瘾苗头",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:a065",
+    "title": "预防上瘾从身体、关系、情绪三方面入手",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c002:r001",
+    "title": "孩子压力大时用上瘾物质逃避",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-6734d4e3129b-c001:a003",
+    "title": "上瘾倾向孩子不能自主规定时间",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-6734d4e3129b",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-695e744eaddd-c001:a015",
+    "title": "罗马尼亚孤儿院案例：情绪失联导致冷漠",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-695e744eaddd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-695e744eaddd-c001:a016",
+    "title": "孩子哭闹是信任的表现",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-695e744eaddd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c001:a002",
+    "title": "没有替代故事就被故事替代",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c001:a005",
+    "title": "人变得不好玩导致孩子转向机器",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c001:a008",
+    "title": "游戏上瘾不是因为时间安排不合理",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c001:a010",
+    "title": "游戏中的归属感导致固定群体",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c001:a012",
+    "title": "多个游戏分散不能避免上瘾",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c001:a013",
+    "title": "判断孩子是否上瘾的关键：能否不玩",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c001:a014",
+    "title": "每天固定时间玩游戏会导致上瘾",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c001:a022",
+    "title": "案例：学员的孩子每天玩五分钟蛋仔游戏",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c002:a003",
+    "title": "多种好玩活动防止电子设备上瘾",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c002:a004",
+    "title": "用其他好玩活动替代电子设备",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c002:a008",
+    "title": "上瘾与年龄无关",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c002:a013",
+    "title": "抓娃娃和盲盒也容易上瘾",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c002:a014",
+    "title": "孩子欺骗家长是上瘾的标志",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c002:a017",
+    "title": "孩子更喜欢与人玩而非机器",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c003:a001",
+    "title": "让孩子看到失去的东西以培养延迟满足",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c003:a002",
+    "title": "看到失去导致对即时满足不再满足",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c003:a003",
+    "title": "讲师自家孩子延迟满足能力强",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c003:a004",
+    "title": "看电视与吃饭冲突时的延迟满足培养方法",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c003:a005",
+    "title": "培养延迟满足的核心原则",
+    "type": "concept",
+    "subtype": "principle",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8000df081279-c003:a006",
+    "title": "课后作业：培养延迟满足",
+    "type": "concept",
+    "subtype": "exercise",
+    "source": "s-8000df081279",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8093f8069121-c001:a026",
+    "title": "孩子被迫服从不是真的服气",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8093f8069121",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8093f8069121-c002:a003",
+    "title": "用食物安抚情绪的风险",
+    "type": "anti-pattern",
+    "subtype": "counterexample",
+    "source": "s-8093f8069121",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8093f8069121-c002:a013",
+    "title": "过度限制零食导致偷摸行为",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8093f8069121",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8093f8069121-c002:a014",
+    "title": "过度限制导致偷窃的案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-8093f8069121",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-80f55564356f-c001:a012",
+    "title": "无界限导致失控与讨好行为",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-80f55564356f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-82ee70afbf7a-c003:a004",
+    "title": "恶性循环：越忙越焦虑，越焦虑越累",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-82ee70afbf7a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-82ee70afbf7a-c003:a017",
+    "title": "接受不可控是人生常态",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-82ee70afbf7a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-82ee70afbf7a-c003:r003",
+    "title": "接受不可控",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-82ee70afbf7a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-87a131edd58c-c001:a005",
+    "title": "失控感源于重新经历家庭",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-87a131edd58c",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-87a131edd58c-c001:a007",
+    "title": "孩子长大导致控制失效引发焦虑",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-87a131edd58c",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-87a131edd58c-c001:a010",
+    "title": "过度控制孩子的案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-87a131edd58c",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-87a131edd58c-c001:r003",
+    "title": "失控感与焦虑的关联",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-87a131edd58c",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8d52aece2643-c001:a010",
+    "title": "孩子睡觉依赖音乐与立界限案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-8d52aece2643",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8de4162d46a9-c001:r001",
+    "title": "留学生脱离父母后不自律案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-8de4162d46a9",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8de4162d46a9-c001:r002",
+    "title": "父母努力反而导致孩子不自律",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8de4162d46a9",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8de4162d46a9-c003:a001",
+    "title": "外驱力的定义与形式",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-8de4162d46a9",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8de4162d46a9-c003:a002",
+    "title": "外驱力导致读书动机异化",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8de4162d46a9",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8de4162d46a9-c005:a012",
+    "title": "网络游戏上瘾的原因",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8de4162d46a9",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c001:a004",
+    "title": "学员女儿情绪失控案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c001:a007",
+    "title": "真正控制不住的特征",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c001:a008",
+    "title": "抑郁症患者失控案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c001:a012",
+    "title": "情绪失控不等于大吼大叫",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c001:a013",
+    "title": "飙车发泄案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c001:a014",
+    "title": "视频案例：桥上情绪崩溃",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c001:a015",
+    "title": "视频案例：平静情绪崩溃",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c001:r004",
+    "title": "平静情绪失控案例：案例当事人",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c001:r005",
+    "title": "平静情绪失控的严重性",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c003:a028",
+    "title": "依赖他人获得安慰是情绪失控的原因之一",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c003:a033",
+    "title": "两种极端导致情绪失控",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c006:a005",
+    "title": "失控的定义",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c006:a018",
+    "title": "隐忍是失控的表现",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c006:a019",
+    "title": "冷暴力是表达愤怒的方式",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c006:a020",
+    "title": "挑剔伴侣是表达愤怒的方式",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c006:a021",
+    "title": "PUA伴侣是表达愤怒的方式",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c006:a022",
+    "title": "工作狂是表达愤怒的方式",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c006:a023",
+    "title": "色情上瘾是表达愤怒的方式",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c006:a024",
+    "title": "找外遇是表达愤怒的方式",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c006:a025",
+    "title": "喝酒是表达愤怒的方式",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c006:a027",
+    "title": "健康表达与失控的区别",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c006:a028",
+    "title": "控制不住是因为代价不够大",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c006:a029",
+    "title": "孩子长大后父母不敢打是因为代价变大",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c006:a030",
+    "title": "情绪发泄后伤害家人和孩子",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-94f63d0ff219-c001:a010",
+    "title": "青春期失败的后果",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-94f63d0ff219",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:a001",
+    "title": "电子游戏上瘾的核心原因",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:a002",
+    "title": "游戏设计满足五种心理状态",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:a003",
+    "title": "游戏吸引人的时间标准",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:a004",
+    "title": "电子游戏上瘾与情绪需求的关联",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:a006",
+    "title": "孩子越忙越容易电子游戏上瘾",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:a013",
+    "title": "网络上瘾的判断标准",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:a014",
+    "title": "男孩子比女孩子更容易电子游戏上瘾",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:a015",
+    "title": "适应不良认知与游戏障碍相关",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:a016",
+    "title": "男孩高估游戏收益不愿停",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:a017",
+    "title": "大脑性别差异影响游戏上瘾",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:a018",
+    "title": "高奖励使男孩忽略损失",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:a019",
+    "title": "男性更倾向适应不良应对机制",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:r001",
+    "title": "游戏设计细节的心理测试",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:r002",
+    "title": "游戏测试团队的目标",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:r003",
+    "title": "情绪需求是游戏抓住人心的关键",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:r004",
+    "title": "成年人也通过电子游戏缓解情绪",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:r006",
+    "title": "忙碌导致上瘾的机制",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:r008",
+    "title": "电子游戏上瘾源于内心情绪",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:r017",
+    "title": "适应不良认知的定义",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:r018",
+    "title": "男孩高估游戏收益的机制",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:r019",
+    "title": "游戏渴望活动与赌博相同",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c001:r020",
+    "title": "男性奖励敏感性高损失敏感性低",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c002:a008",
+    "title": "区分电子游戏上瘾与单纯玩电子游戏",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c002:a014",
+    "title": "电游上瘾导致慢性应激和免疫力下降",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c002:a015",
+    "title": "观看上瘾者玩暴力游戏的经历",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c002:a016",
+    "title": "电游上瘾导致不健康饮食和体重问题",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c002:a017",
+    "title": "电游上瘾导致睡眠不足和失眠",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c002:a018",
+    "title": "电游上瘾导致昼夜节律障碍",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c002:a019",
+    "title": "电游上瘾导致对暴力不敏感",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c002:a020",
+    "title": "电游上瘾与青少年暴力犯罪相关",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c002:a022",
+    "title": "电游上瘾增加敌意和受暴力媒体影响",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c002:a029",
+    "title": "孩子被送戒网瘾机构后继续上瘾的案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c002:a031",
+    "title": "严重上瘾需寻求专业心理辅导",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c002:r001",
+    "title": "电游上瘾与单纯玩电子游戏的区分标准",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c003:a001",
+    "title": "预防或帮助孩子上瘾需要父母行动",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-96b55486b26d-c001:a013",
+    "title": "学习兴趣与上瘾的区别",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-96b55486b26d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-96b55486b26d-c001:r001",
+    "title": "上瘾判断需依据已给必要条件",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-96b55486b26d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-96b55486b26d-c001:r008",
+    "title": "学习兴趣与上瘾的本质区别",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-96b55486b26d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-96b55486b26d-c002:a012",
+    "title": "急功近利破坏兴趣",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-96b55486b26d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-96b55486b26d-c002:a013",
+    "title": "电子产品游戏设计机制",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-96b55486b26d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-96b55486b26d-c002:a021",
+    "title": "孩子音乐上瘾疑问案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-96b55486b26d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-96b55486b26d-c002:a027",
+    "title": "孩子看电影中途玩游戏案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-96b55486b26d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-96b55486b26d-c002:a028",
+    "title": "对看电影中途玩游戏的分析",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-96b55486b26d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-96b55486b26d-c003:a001",
+    "title": "战争创伤对儿童大脑的长期影响",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-96b55486b26d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-96b55486b26d-c003:a002",
+    "title": "日常养育与极端创伤的区别",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-96b55486b26d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-a4309fdbc3d3-c002:a011",
+    "title": "婚姻像合伙人的案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-a4309fdbc3d3",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-a4309fdbc3d3-c002:a012",
+    "title": "离婚不能解决伤害但能停止伤害",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-a4309fdbc3d3",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-a4309fdbc3d3-c003:a003",
+    "title": "初二孩子沉迷网络不去上学",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-a4309fdbc3d3",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ab3207daeb80-c001:a010",
+    "title": "孩子不负责的表现",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-ab3207daeb80",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ae5e6d17712b-c001:a006",
+    "title": "强迫用左脑控制情绪会导致心理问题",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-ae5e6d17712b",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b154ed5acc68-c001:a004",
+    "title": "借网学校案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-b154ed5acc68",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b154ed5acc68-c001:a005",
+    "title": "上瘾孩子并非不想自控",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-b154ed5acc68",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b154ed5acc68-c001:a009",
+    "title": "偷窃行为案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-b154ed5acc68",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b154ed5acc68-c001:a016",
+    "title": "明星吸毒案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-b154ed5acc68",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b154ed5acc68-c001:a024",
+    "title": "集邮成瘾案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-b154ed5acc68",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b154ed5acc68-c001:a026",
+    "title": "以享乐为中心的特征",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-b154ed5acc68",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b154ed5acc68-c001:r001",
+    "title": "以享乐为中心导致极端行为",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-b154ed5acc68",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b154ed5acc68-c001:r002",
+    "title": "以享乐为中心的控制表现",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-b154ed5acc68",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b1715b2a5f22-c001:a015",
+    "title": "溺爱导致孩子韧性不足",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-b1715b2a5f22",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b1715b2a5f22-c003:a015",
+    "title": "关注孩子未来虚拟世界风险",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-b1715b2a5f22",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b22c4f55e0db-c003:a020",
+    "title": "根据依赖程度决定对待方式",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-b22c4f55e0db",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b34f8184f88c-c002:a001",
+    "title": "经济独立的定义",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-b34f8184f88c",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b34f8184f88c-c002:a010",
+    "title": "微管理的危害",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-b34f8184f88c",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b47d21cfbf4d-c002:a028",
+    "title": "怀疑上瘾时建议听不上瘾课程",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-b47d21cfbf4d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b9d525b9be3d-c001:a006",
+    "title": "以听话为管教目标的长期后果",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-b9d525b9be3d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b9d525b9be3d-c001:a013",
+    "title": "听话的孩子可能不听劝阻选择伴侣",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-b9d525b9be3d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b9d525b9be3d-c001:a014",
+    "title": "七岁孩子打母亲耳光的案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-b9d525b9be3d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bae0fcefbc20-c001:a003",
+    "title": "生理上瘾的类型",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-bae0fcefbc20",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bae0fcefbc20-c001:a012",
+    "title": "上瘾与习惯的区别",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-bae0fcefbc20",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bae0fcefbc20-c001:a016",
+    "title": "上瘾的必要条件",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-bae0fcefbc20",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bae0fcefbc20-c001:a017",
+    "title": "任何上瘾都不是好事",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-bae0fcefbc20",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bae0fcefbc20-c001:a018",
+    "title": "工作狂的后果",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-bae0fcefbc20",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bae0fcefbc20-c001:xe001",
+    "title": "学员九岁男孩偷看短视频案例",
+    "type": "case",
+    "subtype": "案例事实",
+    "source": "s-bae0fcefbc20",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bae0fcefbc20-c001:xe004",
+    "title": "学员六岁半男孩陪伴问题",
+    "type": "case",
+    "subtype": "案例事实",
+    "source": "s-bae0fcefbc20",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bae0fcefbc20-c002:a010",
+    "title": "学员案例：孩子上瘾判断与安全感",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-bae0fcefbc20",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bae0fcefbc20-c002:r002",
+    "title": "孩子上瘾判断方法的应用",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-bae0fcefbc20",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bb4190ad54fa-c002:a011",
+    "title": "孩子拒绝上学的案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-bb4190ad54fa",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bb4190ad54fa-c004:xe003",
+    "title": "手机没收导致亲子冲突的案例",
+    "type": "case",
+    "subtype": "reported_case",
+    "source": "s-bb4190ad54fa",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bb4190ad54fa-c005:a007",
+    "title": "家长提问：孩子粘人问题",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-bb4190ad54fa",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bb4190ad54fa-c005:a008",
+    "title": "陪伴质量比时长更重要",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-bb4190ad54fa",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bb4190ad54fa-c005:a009",
+    "title": "与孩子一起玩而非陪玩",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-bb4190ad54fa",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bb4190ad54fa-c005:a010",
+    "title": "过度陪伴的定义与危害",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-bb4190ad54fa",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bb4190ad54fa-c005:a012",
+    "title": "培养孩子独处能力的方法",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-bb4190ad54fa",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bb4190ad54fa-c005:a013",
+    "title": "不会独处的孩子长大后容易上瘾",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-bb4190ad54fa",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bbb943717768-c001:a033",
+    "title": "13-17岁情绪失联的后果：上瘾",
+    "type": "concept",
+    "subtype": "consequence",
+    "source": "s-bbb943717768",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc42567de6ae-c001:a009",
+    "title": "专制型育儿方式导致依赖他人指导",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-bc42567de6ae",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc42567de6ae-c001:a012",
+    "title": "溺爱型育儿方式导致孩子用危险方式对抗父母",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-bc42567de6ae",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc42567de6ae-c001:a016",
+    "title": "放任型育儿方式导致对人不信任",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-bc42567de6ae",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc42567de6ae-c001:a018",
+    "title": "放任型育儿方式导致亲密关系糟糕",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-bc42567de6ae",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc42567de6ae-c001:a019",
+    "title": "放任型育儿方式案例：喜欢后讨厌",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-bc42567de6ae",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc6b75de580d-c001:a003",
+    "title": "电子游戏不直接引发多动症",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-bc6b75de580d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc6b75de580d-c002:a009",
+    "title": "孩子想先玩游戏再复习是正常想法但可能上瘾",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-bc6b75de580d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc6b75de580d-c002:a010",
+    "title": "判断上瘾需依据课程中的条件和前提",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-bc6b75de580d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc6b75de580d-c002:a013",
+    "title": "合理放松与上瘾的界限",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-bc6b75de580d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc6b75de580d-c002:a031",
+    "title": "九岁男孩短视频上瘾源于学习新知识",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-bc6b75de580d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc6b75de580d-c002:a033",
+    "title": "需确认孩子是否真的短视频上瘾",
+    "type": "concept",
+    "subtype": "question",
+    "source": "s-bc6b75de580d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc6b75de580d-c002:r004",
+    "title": "孩子想先玩游戏再复习是正常想法",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-bc6b75de580d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc6b75de580d-c003:a005",
+    "title": "上瘾纠正的长期性",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-bc6b75de580d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc6b75de580d-c003:a006",
+    "title": "隐性上瘾的警惕",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-bc6b75de580d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc6b75de580d-c003:r006",
+    "title": "观察孩子变化的方法",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-bc6b75de580d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-c7bc7b458ea2-c001:a005",
+    "title": "12岁男孩过度依恋毛绒玩具的案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-c7bc7b458ea2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-c7bc7b458ea2-c001:a006",
+    "title": "儿童对毛绒玩具依恋的年龄界限",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-c7bc7b458ea2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-c7bc7b458ea2-c001:a019",
+    "title": "针对孩子过度依恋毛绒玩具的干预建议",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-c7bc7b458ea2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-c7bc7b458ea2-c001:a020",
+    "title": "孩子对毛绒玩具依恋的心理机制",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-c7bc7b458ea2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-cbadd1c004e1-c001:a017",
+    "title": "六岁孩子仍被喂饭的案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-cbadd1c004e1",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-cce7b6591f65-c001:a004",
+    "title": "蒙眼走路游戏：体验人与AI差异",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-cce7b6591f65",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-cce7b6591f65-c009:a016",
+    "title": "孩子不愿上幼儿园且粘妈妈的案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-cce7b6591f65",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-cce7b6591f65-c009:a017",
+    "title": "讲师询问家庭情况",
+    "type": "concept",
+    "subtype": "question",
+    "source": "s-cce7b6591f65",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-cce7b6591f65-c009:a023",
+    "title": "以孩子为中心导致老大伤害老二",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-cce7b6591f65",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-cce7b6591f65-c009:a024",
+    "title": "极端案例：哥哥用枕头捂弟弟",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-cce7b6591f65",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-cce7b6591f65-c009:r005",
+    "title": "以孩子为中心导致老大伤害老二",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-cce7b6591f65",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-cd2e6cfbfc8b-c003:a006",
+    "title": "父母不肯定孩子会导致孩子寻求虚拟世界的认同",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-cd2e6cfbfc8b",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-cd816128fbe1-c001:a003",
+    "title": "不限制游戏的后果",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-cd816128fbe1",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-cd816128fbe1-c001:a004",
+    "title": "替代游戏的含义",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-cd816128fbe1",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-cd816128fbe1-c002:a002",
+    "title": "不同电子设备的上瘾风险",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-cd816128fbe1",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-cd816128fbe1-c002:a023",
+    "title": "电子产品不应成为心理需要的唯一来源",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-cd816128fbe1",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-cd816128fbe1-c003:a005",
+    "title": "孩子上瘾倾向与学校大环境有关",
+    "type": "concept",
+    "subtype": "claim",
+    "source": "s-cd816128fbe1",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-d1d931a55a0f-c001:a008",
+    "title": "非我即敌型父母对孩子的伤害：低人一等",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-d1d931a55a0f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-d1d931a55a0f-c001:a009",
+    "title": "非我即敌型父母对孩子的伤害：高人一等",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-d1d931a55a0f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-d1d931a55a0f-c001:a010",
+    "title": "高低人一等表现可能并存",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-d1d931a55a0f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-d1d931a55a0f-c001:a011",
+    "title": "非我即敌型父母对孩子的伤害：反抗权柄",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-d1d931a55a0f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-d1d931a55a0f-c001:a017",
+    "title": "不可分割型育儿对孩子的伤害：不负责任",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-d1d931a55a0f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-d1d931a55a0f-c001:a018",
+    "title": "不可分割型育儿对孩子的伤害：容易抛弃亲密关系",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-d1d931a55a0f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-d1d931a55a0f-c002:a022",
+    "title": "幻影型父母导致孩子进入表象关系",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-d1d931a55a0f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-d1d931a55a0f-c002:a023",
+    "title": "幻影型家庭案例：表面开朗但内心空洞的来访者",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-d1d931a55a0f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-d1d931a55a0f-c002:a025",
+    "title": "幻影型父母导致孩子不信任人",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-d1d931a55a0f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-d1d931a55a0f-c002:a026",
+    "title": "幻影型孩子测试关系真实性",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-d1d931a55a0f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-d1d931a55a0f-c002:r002",
+    "title": "幻影型父母导致孩子不信任人并测试关系",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-d1d931a55a0f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-d6db075af35f-c001:a016",
+    "title": "放任式管教导致孩子自杀未遂的案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-d6db075af35f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-db9230e1a598-c003:a003",
+    "title": "孩子将来必然面临上瘾问题",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-db9230e1a598",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-db9230e1a598-c003:a013",
+    "title": "游戏中的色情元素",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-db9230e1a598",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-db9230e1a598-c003:a015",
+    "title": "谈性可增强对色情的抵抗力",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-db9230e1a598",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-db9230e1a598-c003:a016",
+    "title": "色情上瘾与毒品上瘾的类比",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-db9230e1a598",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-db9230e1a598-c003:a034",
+    "title": "裸贷风险",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-db9230e1a598",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-db9230e1a598-c003:a038",
+    "title": "7-12岁：讨论网络色情",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-db9230e1a598",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-db9230e1a598-c003:a039",
+    "title": "孩子首次接触网络色情的平均年龄",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-db9230e1a598",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-db9230e1a598-c003:a041",
+    "title": "与孩子探讨网络色情",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-db9230e1a598",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c001:a001",
+    "title": "上瘾的本质是情绪需要",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c001:a004",
+    "title": "网络成瘾者殴打母亲案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c001:a005",
+    "title": "上瘾改变大脑组织导致共情困难",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c001:a007",
+    "title": "上瘾与抑郁焦虑的恶性循环",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c001:a009",
+    "title": "上瘾是对痛苦的逃避",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c001:a014",
+    "title": "吸毒者感到温暖怀抱",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c001:a015",
+    "title": "电子游戏成瘾者感到被支持接纳",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c001:a016",
+    "title": "色情成瘾者感到男子气概",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c001:a027",
+    "title": "早期情绪影响导致成年后上瘾",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c002:a002",
+    "title": "早期情绪环境影响成年后成瘾倾向",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c002:a009",
+    "title": "三角关系链导致孩子痛苦并推向成瘾",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c002:a013",
+    "title": "上瘾者100%有孤独感",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c002:a014",
+    "title": "明星和成功人士吸毒源于孤独感",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c002:a016",
+    "title": "完美主义导致自我否定和成瘾风险",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c002:a025",
+    "title": "越界将孩子推向上瘾",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c002:a027",
+    "title": "帮助孩子预防成瘾的方法概述",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-f85039d56ba9-c006:a016",
+    "title": "女儿找条件不行但体贴的男友",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-f85039d56ba9",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-f85039d56ba9-c006:a017",
+    "title": "阿姨拆散儿子恋爱导致儿子不婚",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-f85039d56ba9",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-f85039d56ba9-c006:a019",
+    "title": "帮助女儿避免暴力男友的方法",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-f85039d56ba9",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-f85039d56ba9-c007:a014",
+    "title": "温暖家庭减少孩子依赖关系",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-f85039d56ba9",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-f85039d56ba9-c007:a017",
+    "title": "孩子约会应是想要而非需要",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-f85039d56ba9",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fc630c062c00-c003:a003",
+    "title": "孩子为融入圈子而骂脏话的机制",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fc630c062c00",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fc630c062c00-c003:a004",
+    "title": "避免孩子失去归属感",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-fc630c062c00",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fc630c062c00-c003:a007",
+    "title": "打压孩子不同意见的后果",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fc630c062c00",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a001",
+    "title": "网络上瘾的核心判断标准",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a002",
+    "title": "上网时间与网络上瘾的区别",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a003",
+    "title": "情绪调节依赖作为网络上瘾症状",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a004",
+    "title": "网络普及与网络上瘾无关",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a005",
+    "title": "控制网络上瘾而非控制网络使用",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a006",
+    "title": "网络信息导致大脑麻木",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a007",
+    "title": "网络上瘾导致大脑灰质和白质萎缩",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a008",
+    "title": "大脑萎缩改变情绪处理路径",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a009",
+    "title": "网络上瘾导致易怒、冷漠、烦躁",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a010",
+    "title": "网络上瘾导致情绪问题",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a011",
+    "title": "网络上瘾与自杀风险",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a012",
+    "title": "网络上瘾导致面对面社交尴尬",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a013",
+    "title": "相亲对象网络上瘾案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a014",
+    "title": "社会性支持的定义",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a015",
+    "title": "网络上瘾导致缺乏社会性支持",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a016",
+    "title": "网络上瘾易导致其他物质上瘾",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a017",
+    "title": "网络上瘾影响外在性功能",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a018",
+    "title": "网络上瘾导致长期高压紧张情绪",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a019",
+    "title": "网络上瘾导致睡眠不足",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a020",
+    "title": "网络上瘾导致语言障碍",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a021",
+    "title": "网络上瘾导致社交障碍",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a022",
+    "title": "网络上瘾的症状：无法控制上网",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a023",
+    "title": "网络上瘾的症状：失去其他活动兴趣",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a024",
+    "title": "网络上瘾的症状：不停谈论网络内容",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a025",
+    "title": "网络上瘾的症状：离不开手机",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a026",
+    "title": "网络上瘾的症状：依赖上升",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a027",
+    "title": "网络上瘾的症状：因网络产生行为问题",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a028",
+    "title": "网络上瘾的症状：偷偷摸摸上网",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:a029",
+    "title": "网络上瘾的症状：只能通过上网平静情绪",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:r001",
+    "title": "网络上瘾可控但需区分控制对象",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c002:a001",
+    "title": "网络上瘾的行为征兆",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c002:a002",
+    "title": "思维习惯对上网行为的影响",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c002:a003",
+    "title": "建立孩子上网思维习惯的方法",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c002:a004",
+    "title": "不反对孩子上网，而是共同参与有意义活动",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c002:a010",
+    "title": "预防和破解网络上瘾的综合方法",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c002:r001",
+    "title": "反对上网的负面效果",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c003:a001",
+    "title": "改变需要持续行动而非仅获取知识",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c003:a002",
+    "title": "改变需要时间积累",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c003:a003",
+    "title": "私人辅导提供具体指导",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c003:a004",
+    "title": "做对的事情",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c003:a005",
+    "title": "下一课主题：毒品色情上瘾",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c005:v2-n002",
+    "title": "父亲威胁连母亲一起打的家庭暴力案例",
+    "type": "case",
+    "subtype": "reported_case",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c005:v2-n003",
+    "title": "潜意识无法改变，但可以提醒自己控制情绪",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8f8bb5fde6bd-c006:v2-n004",
+    "title": "学员案例：丈夫失控、不尊重、氛围窒息",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-8f8bb5fde6bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-18efbb4542bb-c001:v2-n004",
+    "title": "谁学习谁管谁说了算",
+    "type": "concept",
+    "subtype": "principle",
+    "source": "s-18efbb4542bb",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:v2-n001",
+    "title": "网络上瘾是最普遍的上瘾类型",
+    "type": "concept",
+    "subtype": "prevalence",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:v2-n002",
+    "title": "父母认为无法控制孩子上网",
+    "type": "anti-pattern",
+    "subtype": "misconception",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c001:v2-n003",
+    "title": "网络上瘾症状：偷偷摸摸使用网络",
+    "type": "concept",
+    "subtype": "symptom",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-fd1b17809dbf-c003:v2-n001",
+    "title": "警惕快速见效的网瘾课程",
+    "type": "anti-pattern",
+    "subtype": "quick_fix_promise",
+    "source": "s-fd1b17809dbf",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-ef5150b9899d-c001:v2-n002",
+    "title": "解决上瘾首先要看到孩子的痛苦",
+    "type": "concept",
+    "subtype": "principle",
+    "source": "s-ef5150b9899d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:v2-n001",
+    "title": "预防使家长工作和孩子改变更容易",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-64c8460264bd-c001:v2-n002",
+    "title": "购物上瘾案例：买衣服所有颜色",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-64c8460264bd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-42ca5837b22a-c001:v2-n001",
+    "title": "风险因素不直接导致上瘾",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-42ca5837b22a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c001:v2-n001",
+    "title": "毒品上瘾者谎称母亲去世骗钱购买毒品",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:v2-n001",
+    "title": "上瘾行为表现：危险损害与自残",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:v2-n002",
+    "title": "上瘾者易有冲动性消费行为",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c002:v2-n003",
+    "title": "上瘾孩子普遍撒谎",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c003:v2-n001",
+    "title": "高级学校与毒品蔓延的正相关",
+    "type": "concept",
+    "subtype": "relation",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1870c485bb8d-c003:v2-n002",
+    "title": "讲者所在地高排名学校毒品问题",
+    "type": "case",
+    "subtype": "reported_case",
+    "source": "s-1870c485bb8d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-185c515bd495-c001:v2-n003",
+    "title": "毕业期反复等待更好工作与上瘾无关",
+    "type": "concept",
+    "subtype": "distinction",
+    "source": "s-185c515bd495",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-185c515bd495-c001:v2-n004",
+    "title": "如何区分性好奇与性上瘾（讲师未回答）",
+    "type": "concept",
+    "subtype": "question",
+    "source": "s-185c515bd495",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-185c515bd495-c001:v2-n005",
+    "title": "11岁孩子频繁看手机是否上瘾（讲师未直接判断）",
+    "type": "concept",
+    "subtype": "question",
+    "source": "s-185c515bd495",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-185c515bd495-c001:v2-n006",
+    "title": "换学校后是否还会出现躯体反应（讲师未回答）",
+    "type": "concept",
+    "subtype": "question",
+    "source": "s-185c515bd495",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-96b55486b26d-c001:v2-n003",
+    "title": "课外班选择与故事兴趣案例",
+    "type": "case",
+    "subtype": "reported_case",
+    "source": "s-96b55486b26d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-96b55486b26d-c002:v2-n001",
+    "title": "学习兴趣与短视频上瘾的区分",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-96b55486b26d",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bae0fcefbc20-c001:v2-n001",
+    "title": "判断上瘾需了解程度",
+    "type": "concept",
+    "subtype": "condition",
+    "source": "s-bae0fcefbc20",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-961fc559dfb2-c003:v2-n001",
+    "title": "孩子为什么会上瘾的引导提问",
+    "type": "concept",
+    "subtype": "question",
+    "source": "s-961fc559dfb2",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c001:v2-n001",
+    "title": "配偶对色情上瘾的误解导致自责",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c002:v2-n003",
+    "title": "通过讨论毒品预防孩子吸毒",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-58ad4c587149-c003:v2-n001",
+    "title": "毒品使用可能无外在症状",
+    "type": "concept",
+    "subtype": "premise",
+    "source": "s-58ad4c587149",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-c75b78f0751b-c001:v2-n003",
+    "title": "抓狂的隐匿表现",
+    "type": "anti-pattern",
+    "subtype": "behavioral_sign",
+    "source": "s-c75b78f0751b",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-5c7341f6fb93-c002:v2-n001",
+    "title": "从强心理与孩子模仿强者",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-5c7341f6fb93",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-8d52aece2643-c001:v2-n001",
+    "title": "依赖转移至外部辅助物",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-8d52aece2643",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-a0879c56d0fd-c003:v2-n001",
+    "title": "用平淡拒绝和撤离关注应对孩子抓脸寻求关注",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-a0879c56d0fd",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-451193521e7a-c002:v2-n001",
+    "title": "家庭不良影响孩子且改变父母无望",
+    "type": "case",
+    "subtype": "reported_case",
+    "source": "s-451193521e7a",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-bc42567de6ae-c002:v2-n001",
+    "title": "放任式家庭成长者的承诺回避模式",
+    "type": "concept",
+    "subtype": "pattern",
+    "source": "s-bc42567de6ae",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b1715b2a5f22-c001:v2-n001",
+    "title": "学员案例：生气后道歉、溺爱与夫妻疏离",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-b1715b2a5f22",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-0fd758c071ac-c002:v2-n002",
+    "title": "侯彩玲孩子平板上瘾与父母陪伴不足的案例",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-0fd758c071ac",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-296bebb32928-c002:v2-n003",
+    "title": "八岁孩子被没收游戏设备后仍认真学习",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-296bebb32928",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-611666659dec-c001:v2-n004",
+    "title": "恋爱中失去自我导致被PUA和暴力",
+    "type": "case",
+    "subtype": "case",
+    "source": "s-611666659dec",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-80f55564356f-c001:v2-n003",
+    "title": "无界限感与焦虑及缺乏信心的关联",
+    "type": "concept",
+    "subtype": "observation",
+    "source": "s-80f55564356f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-102a37ef1d4f-c001:v2-n001",
+    "title": "讲师关于自杀威胁的极端回应主张",
+    "type": "anti-pattern",
+    "subtype": "unsafe_claim",
+    "source": "s-102a37ef1d4f",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1f6558c9c3b0-c003:v2-n001",
+    "title": "及早预防网络游戏与色情成瘾",
+    "type": "concept",
+    "subtype": "method",
+    "source": "s-1f6558c9c3b0",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-1f6558c9c3b0-c003:v2-n004",
+    "title": "恐惧驱动的服从不持久",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-1f6558c9c3b0",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-786f7d089bf6-c001:v2-n003",
+    "title": "银行担保与母亲PUA的婚姻破口",
+    "type": "anti-pattern",
+    "subtype": "warning",
+    "source": "s-786f7d089bf6",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-3501103fabe7-c001:v2-n001",
+    "title": "家庭中父母与孩子的两种控制模式",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-3501103fabe7",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-3501103fabe7-c001:v2-n002",
+    "title": "控制无法真正缓解焦虑",
+    "type": "concept",
+    "subtype": "mechanism",
+    "source": "s-3501103fabe7",
+    "layer": "expanded"
+  },
+  {
+    "id": "s-b34f8184f88c-c002:v2-n001",
+    "title": "经济独立的两个维度",
+    "type": "concept",
+    "subtype": "definition",
+    "source": "s-b34f8184f88c",
+    "layer": "expanded"
+  },
+  {
+    "id": "legacy:sy-c-01",
+    "title": "孩子究竟是「喜欢」还是「上瘾」，判断标准不在时间长短或频率高低，而在依赖与失控：能否自己停下来、不玩",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-02",
+    "title": "为孩子所玩的东西撒谎，是已经上瘾的强信号——上瘾会让人为得到它而隐瞒、编造，甚至编出严重谎言",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-03",
+    "title": "上瘾的共同特征是「需要的量越来越多」：原来很短的时间就够，后来要越来越久、越来越强烈，否则得不到同等",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-04",
+    "title": "致瘾物反复刺激大脑的奖赏中枢、大量释放多巴胺，多次后接收器变麻木、产生耐受，于是必须用更大量、更强烈",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-05",
+    "title": "上瘾不分种类——不管是毒品、色情还是网络、游戏，任何形式的上瘾对大脑和情绪的伤害是同一性质的，不能因",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-06",
+    "title": "上瘾一环扣一环：上瘾一种之后更容易陷入另一种，因为背后的情绪需要与脆弱点没有被处理，只是换了一个出口",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-07",
+    "title": "任何形式的上瘾，都是对痛苦的一种逃避——与其追问「为什么上瘾」，不如追问「为什么痛苦」，因为上瘾行为",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-08",
+    "title": "上瘾行为自带大量心理暗示，能极大满足一个人「被接纳、有力量、有归属、被爱、有成就」的情绪需要；情绪需",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-09",
+    "title": "上瘾是心理问题，不是行为问题——上瘾行为只是病态的表征，揭示的是更深层的心理需要或伤害；只戒行为（戒",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-10",
+    "title": "上瘾覆盖网络、毒品、色情、电游四类，先讲四类共同机制（逃避痛苦、多巴胺耐受、心理问题），再逐一攻破各",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-11",
+    "title": "网络上瘾最普遍，判断看「能否停止」而非时长；破解的关键是帮孩子先入为主地把网络归类为「获取信息的学习",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-12",
+    "title": "毒品上瘾最隐蔽：新型精神活性物质伪装成零食、饮料，父母往往察觉不到；压力越大的环境里成绩好的孩子也可",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-13",
+    "title": "色情上瘾与性需求几乎没有关系，背后是「被接纳、有力量、被需要」的情绪需要；其路径会不断升级，从图片到",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-14",
+    "title": "电游是父母最关心的一类：游戏公司请心理专家按归属、力量、成就、被爱、被需要、愤怒五种情绪需求来设计，",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-15",
+    "title": "家庭环境的缺陷——情绪失联、角色错位、缺乏界限、父母自身成瘾，以及家暴、抱怨、过度保护、放任、疏远、",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-16",
+    "title": "情绪失联指父母只照顾衣食与学习、不接纳孩子的情绪：孩子有负面情绪就被否定、禁止或急着「哄好」，长期得",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-17",
+    "title": "角色错位指把孩子放到他承担不了的位置——让孩子照顾弟妹、当父母关系的调解员，或父母反过来想做孩子的朋",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-18",
+    "title": "缺乏界限会让孩子陷入无能为力的痛苦，典型越界有四种：不容隐私、转嫁超龄责任、提不切实际的要求、要孩子",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-19",
+    "title": "父母自身有上瘾行为（烟酒、赌博、购物、工作狂、打游戏、看色情等）会通过习得让孩子更容易上瘾——孩子会",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-20",
+    "title": "预防一定重于医治：一旦上瘾路径定型，再把它扭回来非常困难，家长要付出长期代价；在尚未进入路径时预防，",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-21",
+    "title": "预防分身体、关系、情绪三个层面：身体保证睡眠与运动，关系让孩子处领导角色、学处理矛盾、现实朋友多、被",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-22",
+    "title": "预防有四个常见误区：把致瘾物完全排除（会失去讨论机会）、管得过严（剥夺尊严、一有自由就反弹）、吓唬孩",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-23",
+    "title": "上瘾可在孩子早年预警：喜欢冒险、冲动（延迟满足弱）、父母自身成瘾、童年创伤、社会边缘化或隔离、与父母",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-c-24",
+    "title": "剧烈情绪或创伤会触发「战斗、逃跑、僵住」反应；有个好用的比喻：把大脑比作拳头，理性决策暂时下线，只剩",
+    "type": "concept",
+    "subtype": "concept",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-r-01",
+    "title": "情绪需要得到满足时孩子不太会上瘾，得不到满足就会逃进上瘾物——上瘾行为恰好能满足「被接纳、有力量、归",
+    "type": "relation",
+    "subtype": "relation",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-r-02",
+    "title": "家庭环境缺陷（情绪失联、角色错位、缺乏界限、父母成瘾等）让孩子产生痛苦，若再叠加创伤经历（性侵、家暴",
+    "type": "relation",
+    "subtype": "relation",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-r-03",
+    "title": "家庭缺乏界限时，父母会把孩子扛不起的责任推给他、侵犯其隐私、提不切实际要求、要孩子为自己的情绪负责；",
+    "type": "relation",
+    "subtype": "relation",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-r-04",
+    "title": "致瘾物反复刺激奖赏中枢、多巴胺释放后接收器麻木产生耐受，使大脑必须靠更大量、更强烈的刺激才能达到同等",
+    "type": "relation",
+    "subtype": "relation",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-r-05",
+    "title": "情绪问题（抑郁、焦虑、悲伤）未被处理会推动上瘾，上瘾又加剧情绪低落、孤立与自我否定，二者像滚雪球一样",
+    "type": "relation",
+    "subtype": "relation",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-r-06",
+    "title": "网络、毒品、色情、电游四类上瘾共享同一套机制——都是对痛苦的逃避、都走「多巴胺耐受到越需要越多」、都",
+    "type": "relation",
+    "subtype": "relation",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-r-07",
+    "title": "在尚未进入上瘾路径时预防，比上瘾后再医治容易得多；一旦路径定型，扭转要付出长期代价，所以预防应优先于",
+    "type": "relation",
+    "subtype": "relation",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-r-08",
+    "title": "孩子的上瘾根源于家庭与情绪，父母不参与改变、继续用同样方式对待孩子，孩子不可能破解，只会越陷越深；父",
+    "type": "relation",
+    "subtype": "relation",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-r-09",
+    "title": "创伤经历（性侵、家暴、校园暴力、目睹死亡或灾害）与压力（学习、同学、父母三源）会让孩子的情绪需要更难",
+    "type": "relation",
+    "subtype": "relation",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-r-10",
+    "title": "父母自身的情绪（焦虑、恐惧、抑郁）会直接传导给孩子，哪怕婴儿也能从母亲的情绪中感知并受其影响，长期极",
+    "type": "relation",
+    "subtype": "relation",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-r-11",
+    "title": "同样接触游戏与网络，抵抗力差异的主要变量在家庭氛围；个体性格差异确实存在，但影响没那么大，不是决定性",
+    "type": "relation",
+    "subtype": "relation",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-r-12",
+    "title": "睡眠不足会让大脑像疲劳驾驶一样难以做出及时、理性的判断，面对递来的致瘾物可能来不及拒绝；运动能有效抵",
+    "type": "relation",
+    "subtype": "relation",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-ca-01",
+    "title": "富裕家庭 15 岁女孩一周内不停网购、累计花掉十余万元，是四类上瘾中最普遍的「网络、网购型」上瘾的具",
+    "type": "case",
+    "subtype": "case",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-ca-02",
+    "title": "父亲常年应酬、母亲日久成怨，父母见面就吵，孩子既烦母亲唠叨又怨父亲，把自己关在房间天天上网「一头扎进",
+    "type": "case",
+    "subtype": "case",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-ca-03",
+    "title": "孩子从小被关在家里不让出门、只能窗边幻想与人交往，长大后名校毕业、成家生子，仍每天下班先找性工作者才",
+    "type": "case",
+    "subtype": "case",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-ca-04",
+    "title": "全家移民后父母忙于生计，16 岁孩子独自照顾弟妹、适应新语言新学校，压力远超承受能力，面对致瘾物时陷",
+    "type": "case",
+    "subtype": "case",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-ca-05",
+    "title": "14 岁网络成瘾少年不会处理现实中几个同学的欺负，只能在暴力游戏里把敌人想象成那些同学去攻击——不会",
+    "type": "case",
+    "subtype": "case",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-ca-06",
+    "title": "母亲管得极严、孩子从小到大没有尊严与自主，出国留学一获得自由就一周刷卡数万美金、宿舍堆满名牌——严管",
+    "type": "case",
+    "subtype": "case",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-ca-07",
+    "title": "来访者因色情上瘾丢掉工作、妻儿离开，却自述看片时觉得片中女性温柔渴慕他、让他感到「有男子气概、被需要",
+    "type": "case",
+    "subtype": "case",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-ca-08",
+    "title": "名校毕业男孩线上谈吐风趣、见面却冷漠尴尬，约会时不断翻手机——网络成瘾造成社交障碍，线上风生水起、线",
+    "type": "case",
+    "subtype": "case",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-ca-09",
+    "title": "成绩极优的学生为维持高成绩长期透支，早上用一种毒品提神、晚上用另一种助眠——成绩好不等于不上瘾，压力",
+    "type": "case",
+    "subtype": "case",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-ca-10",
+    "title": "少年为买游戏皮肤每周从父母手机偷偷转走两万元、累计数十万才被发现——冲动性消费与撒谎都是上瘾的强信号",
+    "type": "case",
+    "subtype": "case",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-ca-11",
+    "title": "孩子放学先刷短视频、说好看几分钟却一再超时，家长只在旁边等孩子失败、火气越积越大后冲进去质问，孩子开",
+    "type": "case",
+    "subtype": "case",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-ca-12",
+    "title": "8 岁女孩被男同学偷亲、自己却「没觉得有什么」，这本身才是问题——家长的态度要让孩子知道未经允许被触",
+    "type": "case",
+    "subtype": "case",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-a-01",
+    "title": "把「成绩好」当成上瘾的保险是错误迷信——成绩好与成绩差两个极端都易上瘾：好学生靠上瘾物提神维持状态，",
+    "type": "anti-pattern",
+    "subtype": "anti-pattern",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-a-02",
+    "title": "靠收手机、拔网线、完全排除致瘾物来预防上瘾是误区——排除的同时也失去了与孩子讨论的机会，且越压越向往",
+    "type": "anti-pattern",
+    "subtype": "anti-pattern",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-a-03",
+    "title": "用「每天上网多长时间」判断有没有网络上瘾是误区——上瘾的标准是「能否停止」与依赖程度，而不是时长；每",
+    "type": "anti-pattern",
+    "subtype": "anti-pattern",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  },
+  {
+    "id": "legacy:sy-a-04",
+    "title": "把「安静乖巧」当保护伞是盲区——性格对上瘾有影响但没那么大，过分乖巧的孩子可能「听你的话也听别人的话",
+    "type": "anti-pattern",
+    "subtype": "anti-pattern",
+    "source": "legacy-shangyin",
+    "layer": "legacy"
+  }
+]

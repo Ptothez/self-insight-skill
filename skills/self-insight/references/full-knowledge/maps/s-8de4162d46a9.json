@@ -1,0 +1,4138 @@
+{
+  "concepts": [
+    {
+      "name": "自律",
+      "definition": "自律是指孩子无论是否被父母或老师监督，都能自觉遵守规则、完成任务，而不是仅在监督或强压下表现出的行为。",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a001",
+        "s-8de4162d46a9-c001:a002",
+        "s-8de4162d46a9-c002:a015",
+        "s-8de4162d46a9-c002:a017"
+      ]
+    },
+    {
+      "name": "他律",
+      "definition": "他律是在外部监督或压力下表现出的自律，而真正的自律是内在驱动的，不受外部条件影响。",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a002",
+        "s-8de4162d46a9-c003:a008"
+      ]
+    },
+    {
+      "name": "焦虑",
+      "definition": "焦虑是孩子不自律的第一个原因。孩子焦虑时，会通过打游戏、上网、购物等方式释放焦虑，导致无法自律。",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a008",
+        "s-8de4162d46a9-c001:a009",
+        "s-8de4162d46a9-c001:a012",
+        "s-8de4162d46a9-c001:a013",
+        "s-8de4162d46a9-c001:a017"
+      ]
+    },
+    {
+      "name": "逃避失败",
+      "definition": "孩子不自律的一个原因是逃避失败：当成功的速度赶不上失败的速度时，孩子的大脑会自动选择用逃避来保护自尊。",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a001",
+        "s-8de4162d46a9-c002:a003",
+        "s-8de4162d46a9-c002:a004"
+      ]
+    },
+    {
+      "name": "力量争夺",
+      "definition": "孩子不自律的另一个原因是想要获得力量：当亲子关系不好时，孩子容易与父母进行力量争夺（power struggle），在自律和学习上反抗父母，因为在这些事情上孩子有绝对的力量。",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a005",
+        "s-8de4162d46a9-c002:a006",
+        "s-8de4162d46a9-c003:a004"
+      ]
+    },
+    {
+      "name": "内驱力",
+      "definition": "内驱力是指做一件事情从这件事情本身获得满足。",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a018",
+        "s-8de4162d46a9-c002:a020",
+        "s-8de4162d46a9-c002:a021",
+        "s-8de4162d46a9-c003:a003",
+        "s-8de4162d46a9-c003:a005",
+        "s-8de4162d46a9-c003:a014",
+        "s-8de4162d46a9-c003:a017",
+        "s-8de4162d46a9-c003:a018"
+      ]
+    },
+    {
+      "name": "外驱力",
+      "definition": "外驱力是指通过做这件事情获得事情以外的满足。",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a018",
+        "s-8de4162d46a9-c002:a019",
+        "s-8de4162d46a9-c002:a021",
+        "s-8de4162d46a9-c002:a023",
+        "s-8de4162d46a9-c003:a001",
+        "s-8de4162d46a9-c003:a002"
+      ]
+    },
+    {
+      "name": "情绪连接",
+      "definition": "情绪连接（emotional connection）是指先与对方建立情感上的理解和共鸣，才能驱动其内在动力。",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a005",
+        "s-8de4162d46a9-c003:a006",
+        "s-8de4162d46a9-c003:a007",
+        "s-8de4162d46a9-c003:r002"
+      ]
+    },
+    {
+      "name": "自主权",
+      "definition": "自主的权利是指随着孩子年龄增长，给予他们越来越多的自主权。",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a008",
+        "s-8de4162d46a9-c003:r003"
+      ]
+    },
+    {
+      "name": "承担后果",
+      "definition": "让孩子承担后果是培养内驱力的最好方法：孩子做出选择或行为后，承担相应后果，就会有力量去改变。",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a014",
+        "s-8de4162d46a9-c003:a015",
+        "s-8de4162d46a9-c003:a016",
+        "s-8de4162d46a9-c003:r004"
+      ]
+    },
+    {
+      "name": "适度挑战",
+      "definition": "适度的挑战会让孩子感受到成功的成就感，是内驱力的重要因素。",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a017",
+        "s-8de4162d46a9-c003:r005"
+      ]
+    },
+    {
+      "name": "自我提升",
+      "definition": "自我提升是指父母活成孩子的骄傲，成为一道光，孩子会被吸引，从而建立内驱力。",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a018",
+        "s-8de4162d46a9-c003:a019",
+        "s-8de4162d46a9-c004:a001",
+        "s-8de4162d46a9-c004:a003",
+        "s-8de4162d46a9-c004:a004"
+      ]
+    },
+    {
+      "name": "留白",
+      "definition": "留白页面给人足够的心理空间去喘息，让人感到舒服、舒适。",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a008",
+        "s-8de4162d46a9-c004:a010",
+        "s-8de4162d46a9-c004:a019",
+        "s-8de4162d46a9-c004:a020",
+        "s-8de4162d46a9-c004:a022",
+        "s-8de4162d46a9-c004:a023"
+      ]
+    },
+    {
+      "name": "叛逆期",
+      "definition": "讲师不认为任何人有叛逆期。所谓的叛逆期只是孩子不同意父母的观点，有自己的想法、观察、思考、价值观和认知。",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a004",
+        "s-8de4162d46a9-c005:a005",
+        "s-8de4162d46a9-c005:a006"
+      ]
+    },
+    {
+      "name": "无条件爱",
+      "definition": "父母应让孩子知道他的价值不因学习成绩或行为而改变，不是因为成绩好就更优秀或更被爱。妈妈的爱是无条件的，孩子的价值在于他是一个人、是父母的孩子，从出生起就被爱。",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a002",
+        "s-8de4162d46a9-c004:a029",
+        "s-8de4162d46a9-c005:a001"
+      ]
+    },
+    {
+      "name": "个体差异",
+      "definition": "孩子如同不同植物，性格和需求各异，不能用同一套固定模式养育所有孩子。",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a002",
+        "s-8de4162d46a9-c006:a009",
+        "s-8de4162d46a9-c006:a011",
+        "s-8de4162d46a9-c006:a014"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-8de4162d46a9-c001:a008",
+      "target": "s-8de4162d46a9-c001:a017",
+      "kind": "causes",
+      "condition": "当孩子焦虑时",
+      "reason": "焦虑使孩子没有能力自律"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:a013",
+      "target": "s-8de4162d46a9-c001:a014",
+      "kind": "causes",
+      "condition": "当孩子焦虑且父母逼迫时",
+      "reason": "焦虑的孩子会寻找出口，游戏提供虚拟空间释放焦虑"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:a019",
+      "target": "s-8de4162d46a9-c001:a020",
+      "kind": "example_of",
+      "condition": "家暴家庭女孩反应迟缓",
+      "reason": "家暴家庭女孩反应迟缓案例具体展示了长期焦虑对大脑的损害，实际为案例例证概念，原方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向错误，已修正为案例例证概念。"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a001",
+      "target": "s-8de4162d46a9-c002:a002",
+      "kind": "example_of",
+      "condition": "讲师童年逃避失败",
+      "reason": "讲师童年逃避失败案例具体例证了逃避失败作为不自律的原因，实际为案例例证概念，原方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向错误，已修正为案例例证概念。"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a005",
+      "target": "s-8de4162d46a9-c002:a006",
+      "kind": "example_of",
+      "condition": "孩子对父母和讲师反应不同",
+      "reason": "孩子对父母和讲师反应不同案例具体展示了力量争夺导致不自律，实际为案例例证概念，原方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向错误，已修正为案例例证概念。"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a021",
+      "target": "s-8de4162d46a9-c002:a022",
+      "kind": "supports",
+      "condition": "当外驱力增加时",
+      "reason": "外驱力越多，内驱力越少，外驱力会削弱内驱力"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a023",
+      "target": "s-8de4162d46a9-c003:a001",
+      "kind": "supports",
+      "condition": "外驱力手段",
+      "reason": "VB利诱榜列出的五种外驱力手段具体支持外驱力的定义与形式。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8de4162d46a9-c003:a004",
+      "target": "s-8de4162d46a9-c003:r001",
+      "kind": "supports",
+      "condition": "停止鼓励的定义与表现",
+      "reason": "“停止鼓励孩子”与“停止鼓励的具体表现”均阐述停止鼓励的含义及无效鼓励导致力量争夺，内容一致，支持关系成立。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8de4162d46a9-c003:a005",
+      "target": "s-8de4162d46a9-c003:a006",
+      "kind": "example_of",
+      "condition": "闺蜜安慰对比",
+      "reason": "案例说明情绪连接的重要性"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:a014",
+      "target": "s-8de4162d46a9-c003:a015",
+      "kind": "supports",
+      "condition": "不做作业的后果应用",
+      "reason": "“承担后果培养内驱力”提出让孩子承担后果的原则，“让孩子承担不做作业的后果”给出具体操作；原则为具体操作提供依据，原 example_of 方向不当，改为支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8de4162d46a9-c003:a014",
+      "target": "s-8de4162d46a9-c003:a016",
+      "kind": "supports",
+      "condition": "信用卡案例应用",
+      "reason": "“承担后果培养内驱力”提出让孩子承担后果的原则，“大学生刷爆信用卡的案例”提供具体案例；原则为案例提供解释和依据，原 example_of 方向不当，改为支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8de4162d46a9-c003:a017",
+      "target": "s-8de4162d46a9-c003:r005",
+      "kind": "supports",
+      "condition": "适度挑战操作",
+      "reason": "“适度的挑战”与“适度挑战的具体操作”内容一致，都描述每天回顾作业、给予反馈以提供成就感，支持关系成立。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8de4162d46a9-c003:a018",
+      "target": "s-8de4162d46a9-c003:a019",
+      "kind": "supports",
+      "condition": "自我提升案例应用",
+      "reason": "“自我提升建立内驱力”提出父母自我提升的原则，“学员自我提升后孩子改变的案例”提供具体案例；原则为案例提供解释，原 example_of 方向不当，改为支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-8de4162d46a9-c004:a001",
+      "target": "s-8de4162d46a9-c004:a003",
+      "kind": "example_of",
+      "condition": "讲师母亲持续学习",
+      "reason": "案例说明父母榜样激发孩子内驱力"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:a009",
+      "target": "s-8de4162d46a9-c004:a010",
+      "kind": "contrasts",
+      "condition": "生活排满 vs 留白",
+      "reason": "排满导致逃避，留白促进专注"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:a024",
+      "target": "s-8de4162d46a9-c004:a025",
+      "kind": "causes",
+      "condition": "当孩子觉得目标太难时",
+      "reason": "困难太大导致决心不过三秒，需要将大目标细分化"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:a027",
+      "target": "s-8de4162d46a9-c004:a028",
+      "kind": "supports",
+      "condition": "内驱力不足",
+      "reason": "外驱力不足以支撑坚持，基于自我接纳的改变更容易"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:a001",
+      "target": "s-8de4162d46a9-c005:a002",
+      "kind": "supports",
+      "condition": "自我价值感",
+      "reason": "无条件爱让孩子觉得自己足够好，从而改变更容易"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:a004",
+      "target": "s-8de4162d46a9-c005:a006",
+      "kind": "causes",
+      "condition": "叛逆期",
+      "reason": "父母支持叛逆期会使其很快结束，权力斗争则难以结束"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:a009",
+      "target": "s-8de4162d46a9-c005:a010",
+      "kind": "contrasts",
+      "condition": "教数学方式",
+      "reason": "直接教引发逆反，通过桌游学习心算有效"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:a014",
+      "target": "s-8de4162d46a9-c005:a015",
+      "kind": "causes",
+      "condition": "让孩子觉得自己很好",
+      "reason": "从很好变得更好相对力量充足，需要发现孩子优点"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:a021",
+      "target": "s-8de4162d46a9-c005:a022",
+      "kind": "supports",
+      "condition": "平衡自由与界限",
+      "reason": "草莓比喻说明孩子成熟时间不同，需要耐心等待"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:a001",
+      "target": "s-8de4162d46a9-c006:a010",
+      "kind": "supports",
+      "condition": "溺爱与过度养育均以过度给予造成伤害",
+      "reason": "源命题区分有界限的爱与溺爱，指出溺爱如过度浇水会淹没孩子；目标命题指出过度养育如过多阳光会晒伤孩子。两者方向一致，均说明过度给予的伤害，构成支持而非对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 contrasts 不准确，改为 supports。"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:a004",
+      "target": "s-8de4162d46a9-c006:a005",
+      "kind": "causes",
+      "condition": "家长难以识别孩子类型",
+      "reason": "不了解孩子类型反映缺乏观察"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:a006",
+      "target": "s-8de4162d46a9-c006:a007",
+      "kind": "association",
+      "condition": "养育效果不佳与孩子抗拒后的反省相关联",
+      "reason": "源命题提出养育效果不佳的两类原因，其中包括孩子已对家长产生抗拒；目标命题指出孩子抗拒时家长应反省过去。源未直接导致目标，但两者围绕抗拒后的反思形成关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 causes 不在允许类型内，且因果证据不足。"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n001",
+      "target": "s-8de4162d46a9-c002:a001",
+      "kind": "complements",
+      "condition": "当需要全面理解逃避失败原因时",
+      "reason": "candidate 补充了逃避失败是正常现象的说法，并重申了同样机制，与 source 内容一致，补了表述角度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a001",
+      "target": "s-8de4162d46a9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要全面理解逃避失败原因时",
+      "reason": "candidate 补充了逃避失败是正常现象的说法，并重申了同样机制，与 source 内容一致，补了表述角度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n001",
+      "target": "s-8de4162d46a9-c001:a007",
+      "kind": "complements",
+      "condition": "当需要了解孩子不自律的整体原因框架时",
+      "reason": "candidate 列出了三个原因（焦虑、逃避失败、力量），补了 source 未提及的焦虑和力量，使框架完整。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:a007",
+      "target": "s-8de4162d46a9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要了解孩子不自律的整体原因框架时",
+      "reason": "candidate 列出了三个原因（焦虑、逃避失败、力量），补了 source 未提及的焦虑和力量，使框架完整。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n001",
+      "target": "s-8de4162d46a9-c001:a008",
+      "kind": "complements",
+      "condition": "当需要补充焦虑这一原因时",
+      "reason": "candidate 详细说明了焦虑导致不自律的机制，补了 source 未涉及的另一重要原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:a008",
+      "target": "s-8de4162d46a9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要补充焦虑这一原因时",
+      "reason": "candidate 详细说明了焦虑导致不自律的机制，补了 source 未涉及的另一重要原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n001",
+      "target": "s-8de4162d46a9-c002:r001",
+      "kind": "complements",
+      "condition": "当需要了解孩子不自律的三大原因总结时",
+      "reason": "candidate 总结了三大原因，补了 source 未提及的“想要获得力量”和“为父母学习”，提供了更全面的视角。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:r001",
+      "target": "s-8de4162d46a9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要了解孩子不自律的三大原因总结时",
+      "reason": "candidate 总结了三大原因，补了 source 未提及的“想要获得力量”和“为父母学习”，提供了更全面的视角。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n001",
+      "target": "s-8de4162d46a9-c002:a003",
+      "kind": "complements",
+      "condition": "当需要理解逃避失败的心理学基础时",
+      "reason": "candidate 从儿童心理学角度解释了逃避失败是大脑保护自尊的正常现象，补了 source 中“大脑自动保护自尊”的学理依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a003",
+      "target": "s-8de4162d46a9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解逃避失败的心理学基础时",
+      "reason": "candidate 从儿童心理学角度解释了逃避失败是大脑保护自尊的正常现象，补了 source 中“大脑自动保护自尊”的学理依据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n001",
+      "target": "s-8de4162d46a9-c002:a005",
+      "kind": "complements",
+      "condition": "当需要补充力量争夺这一原因时",
+      "reason": "candidate 说明了力量争夺导致不自律的机制，补了 source 未涉及的另一原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a005",
+      "target": "s-8de4162d46a9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要补充力量争夺这一原因时",
+      "reason": "candidate 说明了力量争夺导致不自律的机制，补了 source 未涉及的另一原因。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n001",
+      "target": "s-8de4162d46a9-c002:r002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子拒绝父母陪伴的机制，虽提到与逃避失败同理，但主题不同，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:r002",
+      "target": "s-8de4162d46a9-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子拒绝父母陪伴的机制，虽提到与逃避失败同理，但主题不同，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n001",
+      "target": "s-8de4162d46a9-c001:r002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于父母努力反而导致孩子不自律，与 source 逃避失败机制无直接关系，但同属不自律现象，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:r002",
+      "target": "s-8de4162d46a9-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于父母努力反而导致孩子不自律，与 source 逃避失败机制无直接关系，但同属不自律现象，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n001",
+      "target": "s-8de4162d46a9-c001:a006",
+      "kind": "complements",
+      "condition": "当需要理解孩子不自律的真相时",
+      "reason": "candidate 概括了孩子不是不想自律而是多种因素导致没有能力，补了 source 的宏观认知。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:a006",
+      "target": "s-8de4162d46a9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解孩子不自律的真相时",
+      "reason": "candidate 概括了孩子不是不想自律而是多种因素导致没有能力，补了 source 的宏观认知。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n001",
+      "target": "s-8de4162d46a9-c002:a015",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子不按父母期待自律，与 source 逃避失败机制不同，但同属自律话题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a015",
+      "target": "s-8de4162d46a9-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子不按父母期待自律，与 source 逃避失败机制不同，但同属自律话题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n001",
+      "target": "s-8de4162d46a9-c002:a002",
+      "kind": "complements",
+      "condition": "当需要具体案例说明逃避失败机制时",
+      "reason": "candidate 是讲师童年逃避失败的具体案例，补了 source 抽象机制的实际例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a002",
+      "target": "s-8de4162d46a9-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要具体案例说明逃避失败机制时",
+      "reason": "candidate 是讲师童年逃避失败的具体案例，补了 source 抽象机制的实际例证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n001",
+      "target": "s-8de4162d46a9-c002:a017",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子打游戏自律而做作业不自律的对比，与 source 逃避失败机制无关，但同属自律范畴，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a017",
+      "target": "s-8de4162d46a9-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子打游戏自律而做作业不自律的对比，与 source 逃避失败机制无关，但同属自律范畴，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n002",
+      "target": "s-8de4162d46a9-c001:a001",
+      "kind": "complements",
+      "condition": "当需要明确自律的定义时",
+      "reason": "candidate 提供了自律的一般定义，补了 source 所列举具体行为的抽象概括。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:a001",
+      "target": "s-8de4162d46a9-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要明确自律的定义时",
+      "reason": "candidate 提供了自律的一般定义，补了 source 所列举具体行为的抽象概括。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n002",
+      "target": "s-8de4162d46a9-c001:a007",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子不自律的三个原因，与 source 自律范围无关，但同属自律话题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:a007",
+      "target": "s-8de4162d46a9-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子不自律的三个原因，与 source 自律范围无关，但同属自律话题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n002",
+      "target": "s-8de4162d46a9-c002:r001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子不自律的三大原因总结，与 source 自律范围无关，但同属自律话题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:r001",
+      "target": "s-8de4162d46a9-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子不自律的三大原因总结，与 source 自律范围无关，但同属自律话题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n002",
+      "target": "s-8de4162d46a9-c001:a002",
+      "kind": "complements",
+      "condition": "当需要区分自律与他律时",
+      "reason": "candidate 补充了自律与他律的区别，帮助理解 source 所列行为的内在驱动本质。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:a002",
+      "target": "s-8de4162d46a9-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要区分自律与他律时",
+      "reason": "candidate 补充了自律与他律的区别，帮助理解 source 所列行为的内在驱动本质。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n002",
+      "target": "s-8de4162d46a9-c001:a008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于焦虑导致不自律，与 source 自律范围无关，但同属自律话题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:a008",
+      "target": "s-8de4162d46a9-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于焦虑导致不自律，与 source 自律范围无关，但同属自律话题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n002",
+      "target": "s-8de4162d46a9-c002:a008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于诱惑太多误区，与 source 自律范围无关，但同属自律话题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a008",
+      "target": "s-8de4162d46a9-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于诱惑太多误区，与 source 自律范围无关，但同属自律话题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n002",
+      "target": "s-8de4162d46a9-c002:a016",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于父母对自律的错误期待示例，与 source 自律范围形成对比，但未直接补充，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a016",
+      "target": "s-8de4162d46a9-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于父母对自律的错误期待示例，与 source 自律范围形成对比，但未直接补充，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n002",
+      "target": "s-8de4162d46a9-c003:r003",
+      "kind": "complements",
+      "condition": "当需要了解如何在学习习惯等领域给予自主权时",
+      "reason": "candidate 补充了给予自主权的具体领域，与 source 所列自律行为（学习、功课）直接相关，补了实践指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:r003",
+      "target": "s-8de4162d46a9-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要了解如何在学习习惯等领域给予自主权时",
+      "reason": "candidate 补充了给予自主权的具体领域，与 source 所列自律行为（学习、功课）直接相关，补了实践指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n002",
+      "target": "s-8de4162d46a9-c003:r005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于适度挑战的具体操作，与 source 自律范围无关，但同属培孩子自律的措施，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:r005",
+      "target": "s-8de4162d46a9-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于适度挑战的具体操作，与 source 自律范围无关，但同属培孩子自律的措施，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n002",
+      "target": "s-8de4162d46a9-c002:a017",
+      "kind": "complements",
+      "condition": "当需要说明自律范围在不同方面不一致时",
+      "reason": "candidate 案例展示了孩子打游戏自律而做作业不自律，具体体现了 source 所列“自觉停止游戏”与“自觉做功课”之间的差异，补了实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a017",
+      "target": "s-8de4162d46a9-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要说明自律范围在不同方面不一致时",
+      "reason": "candidate 案例展示了孩子打游戏自律而做作业不自律，具体体现了 source 所列“自觉停止游戏”与“自觉做功课”之间的差异，补了实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n002",
+      "target": "s-8de4162d46a9-c002:r009",
+      "kind": "complements",
+      "condition": "当需要理解期待错误如何影响自律判断时",
+      "reason": "candidate 指出孩子有自律能力但期待错误，补了 source 自律范围界定背后的一个常见误区。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:r009",
+      "target": "s-8de4162d46a9-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要理解期待错误如何影响自律判断时",
+      "reason": "candidate 指出孩子有自律能力但期待错误，补了 source 自律范围界定背后的一个常见误区。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:v2-n002",
+      "target": "s-8de4162d46a9-c003:r004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于承担后果的具体操作，与 source 自律范围无关，但同属培养自律的方法，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:r004",
+      "target": "s-8de4162d46a9-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于承担后果的具体操作，与 source 自律范围无关，但同属培养自律的方法，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n001",
+      "target": "s-8de4162d46a9-c001:a020",
+      "kind": "association",
+      "condition": "当描述同一案例时",
+      "reason": "candidate 与 source 内容几乎相同，表述略有差异，未提供实质补充，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:a020",
+      "target": "s-8de4162d46a9-c002:v2-n001",
+      "kind": "association",
+      "condition": "当描述同一案例时",
+      "reason": "candidate 与 source 内容几乎相同，表述略有差异，未提供实质补充，故仅关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n001",
+      "target": "s-8de4162d46a9-c001:a021",
+      "kind": "complements",
+      "condition": "当需要强调压力对杏仁核的影响时",
+      "reason": "candidate 将 source 最后一句“给孩子过多压力会不断刺激杏仁核”提炼为独立概念，补了明确的结论。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:a021",
+      "target": "s-8de4162d46a9-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要强调压力对杏仁核的影响时",
+      "reason": "candidate 将 source 最后一句“给孩子过多压力会不断刺激杏仁核”提炼为独立概念，补了明确的结论。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n001",
+      "target": "s-8de4162d46a9-c001:a019",
+      "kind": "complements",
+      "condition": "当需要理解长期焦虑对大脑的损害时",
+      "reason": "candidate 补充了长期焦虑导致杏仁核无法关闭的具体后果（容易受惊、注意力不集中等），与 source 中“大脑一直处于开放状态”相符，补了详细损害。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:a019",
+      "target": "s-8de4162d46a9-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解长期焦虑对大脑的损害时",
+      "reason": "candidate 补充了长期焦虑导致杏仁核无法关闭的具体后果（容易受惊、注意力不集中等），与 source 中“大脑一直处于开放状态”相符，补了详细损害。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n001",
+      "target": "s-8de4162d46a9-c002:a006",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子对父母和讲师反应不同的案例，与 source 无关，但同属儿童心理问题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a006",
+      "target": "s-8de4162d46a9-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子对父母和讲师反应不同的案例，与 source 无关，但同属儿童心理问题，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n001",
+      "target": "s-8de4162d46a9-c001:a018",
+      "kind": "complements",
+      "condition": "当需要理解杏仁核的基本功能时",
+      "reason": "candidate 提供了杏仁核的解剖和功能背景，补了 source 中提及杏仁核的基础知识。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:a018",
+      "target": "s-8de4162d46a9-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要理解杏仁核的基本功能时",
+      "reason": "candidate 提供了杏仁核的解剖和功能背景，补了 source 中提及杏仁核的基础知识。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n001",
+      "target": "s-8de4162d46a9-c004:a026",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于讲师孩子拼乐高案例，与 source 无关，仅因同属儿童教育案例而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:a026",
+      "target": "s-8de4162d46a9-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于讲师孩子拼乐高案例，与 source 无关，仅因同属儿童教育案例而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n001",
+      "target": "s-8de4162d46a9-c001:a017",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于焦虑影响自律能力，与 source 中焦虑影响大脑相关，但主题不同，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:a017",
+      "target": "s-8de4162d46a9-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于焦虑影响自律能力，与 source 中焦虑影响大脑相关，但主题不同，故关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n001",
+      "target": "s-8de4162d46a9-c002:a004",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于富裕家庭孩子拒绝父母陪伴案例，与 source 无关，仅因同属儿童心理案例而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a004",
+      "target": "s-8de4162d46a9-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于富裕家庭孩子拒绝父母陪伴案例，与 source 无关，仅因同属儿童心理案例而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n001",
+      "target": "s-8de4162d46a9-c003:a011",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于讲师母亲关电视声音的案例，与 source 无关，仅因同属学习习惯案例而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:a011",
+      "target": "s-8de4162d46a9-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于讲师母亲关电视声音的案例，与 source 无关，仅因同属学习习惯案例而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n001",
+      "target": "s-8de4162d46a9-c002:a017",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子打游戏自律而做作业不自律的对比，与 source 无关，仅因同属自律话题而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a017",
+      "target": "s-8de4162d46a9-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于孩子打游戏自律而做作业不自律的对比，与 source 无关，仅因同属自律话题而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n001",
+      "target": "s-8de4162d46a9-c003:a016",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于大学生刷爆信用卡的案例，与 source 无关，仅因同属后果教育案例而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:a016",
+      "target": "s-8de4162d46a9-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于大学生刷爆信用卡的案例，与 source 无关，仅因同属后果教育案例而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n001",
+      "target": "s-8de4162d46a9-c001:r001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于留学生脱离父母后不自律案例，与 source 无关，仅因同属儿童不自律案例而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:r001",
+      "target": "s-8de4162d46a9-c002:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "candidate 关于留学生脱离父母后不自律案例，与 source 无关，仅因同属儿童不自律案例而关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n002",
+      "target": "s-8de4162d46a9-c003:a002",
+      "kind": "example_of",
+      "condition": "当外驱力表现为父母道德绑架、情绪勒索或安排道路时",
+      "reason": "source 是讲师在中国顶级大学观察到的学生因外驱力读书的具体案例，实例化了 target 的概括性论断：很多学生因外驱力而读书。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:a002",
+      "target": "s-8de4162d46a9-c002:v2-n002",
+      "kind": "has_example",
+      "condition": "当外驱力表现为父母道德绑架、情绪勒索或安排道路时",
+      "reason": "source 是讲师在中国顶级大学观察到的学生因外驱力读书的具体案例，实例化了 target 的概括性论断：很多学生因外驱力而读书。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n002",
+      "target": "s-8de4162d46a9-c002:a024",
+      "kind": "complements",
+      "condition": "当 source 提到道德绑架和情绪勒索但未给出具体话语时",
+      "reason": "source 提及道德绑架/情绪勒索，candidate 提供了具体父母话语示例，补充了 source 缺失的实例细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a024",
+      "target": "s-8de4162d46a9-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当 source 提到道德绑架和情绪勒索但未给出具体话语时",
+      "reason": "source 提及道德绑架/情绪勒索，candidate 提供了具体父母话语示例，补充了 source 缺失的实例细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n002",
+      "target": "s-8de4162d46a9-c002:a023",
+      "kind": "complements",
+      "condition": "当需要识别 source 所述外驱力的完整类型时",
+      "reason": "source 只提及外驱力中的道德绑架/情绪勒索，candidate 列举了五种外驱力手段，补全了外驱力分类。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a023",
+      "target": "s-8de4162d46a9-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当需要识别 source 所述外驱力的完整类型时",
+      "reason": "source 只提及外驱力中的道德绑架/情绪勒索，candidate 列举了五种外驱力手段，补全了外驱力分类。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n002",
+      "target": "s-8de4162d46a9-c003:a001",
+      "kind": "complements",
+      "condition": "当需要明确外驱力的定义和形式时",
+      "reason": "source 使用外驱力概念但未定义，candidate 给出外驱力的定义和具体形式，补充了概念内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:a001",
+      "target": "s-8de4162d46a9-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当需要明确外驱力的定义和形式时",
+      "reason": "source 使用外驱力概念但未定义，candidate 给出外驱力的定义和具体形式，补充了概念内涵。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n002",
+      "target": "s-8de4162d46a9-c001:a005",
+      "kind": "association",
+      "condition": "当比较顶级大学学生因父母压力而关系受损的相似现象时",
+      "reason": "candidate 独立报告清华学生与父母关系糟糕、想逃离，与 source 中顶级大学学生被父母强迫读书的观察主题相近，但两者是不同案例，不能直接互证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c001:a005",
+      "target": "s-8de4162d46a9-c002:v2-n002",
+      "kind": "association",
+      "condition": "当比较顶级大学学生因父母压力而关系受损的相似现象时",
+      "reason": "candidate 独立报告清华学生与父母关系糟糕、想逃离，与 source 中顶级大学学生被父母强迫读书的观察主题相近，但两者是不同案例，不能直接互证。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n002",
+      "target": "s-8de4162d46a9-c002:r004",
+      "kind": "association",
+      "condition": "当讨论外驱力导致孩子为父母学习的共同模式时",
+      "reason": "source 中学生因父母安排而读书，candidate 指出哄着孩子学习会让孩子认为学习是为父母，两者都涉及外部驱动导致学习动机异化，但具体机制不同（强迫 vs 哄求），仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:r004",
+      "target": "s-8de4162d46a9-c002:v2-n002",
+      "kind": "association",
+      "condition": "当讨论外驱力导致孩子为父母学习的共同模式时",
+      "reason": "source 中学生因父母安排而读书，candidate 指出哄着孩子学习会让孩子认为学习是为父母，两者都涉及外部驱动导致学习动机异化，但具体机制不同（强迫 vs 哄求），仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:v2-n002",
+      "target": "s-8de4162d46a9-c002:a019",
+      "kind": "association",
+      "condition": "当列举外驱力的不同表现形式时",
+      "reason": "candidate 描述孩子为避免唠叨而做作业，与 source 中学生因道德绑架而读书同属外驱力表现，但场景和主体不同，仅为并列示例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c002:a019",
+      "target": "s-8de4162d46a9-c002:v2-n002",
+      "kind": "association",
+      "condition": "当列举外驱力的不同表现形式时",
+      "reason": "candidate 描述孩子为避免唠叨而做作业，与 source 中学生因道德绑架而读书同属外驱力表现，但场景和主体不同，仅为并列示例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:v2-n001",
+      "target": "s-8de4162d46a9-c003:r004",
+      "kind": "complements",
+      "condition": "当孩子未完成作业时需具体执行后果",
+      "reason": "source 强调作业是孩子自己的事，父母不代做；candidate 提供了让孩子承担后果的具体操作（如联系老师留校补作业），补充了边界执行的方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:r004",
+      "target": "s-8de4162d46a9-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子未完成作业时需具体执行后果",
+      "reason": "source 强调作业是孩子自己的事，父母不代做；candidate 提供了让孩子承担后果的具体操作（如联系老师留校补作业），补充了边界执行的方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:v2-n001",
+      "target": "s-8de4162d46a9-c003:a015",
+      "kind": "complements",
+      "condition": "当孩子不做作业时需要采取后果措施时",
+      "reason": "source 只说不陪做作业，未说明孩子不做作业怎么办；candidate 给出联系老师剥夺玩耍时间等具体做法，补全了后果承担环节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:a015",
+      "target": "s-8de4162d46a9-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子不做作业时需要采取后果措施时",
+      "reason": "source 只说不陪做作业，未说明孩子不做作业怎么办；candidate 给出联系老师剥夺玩耍时间等具体做法，补全了后果承担环节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:v2-n001",
+      "target": "s-8de4162d46a9-c003:r005",
+      "kind": "step_of",
+      "condition": "当执行 source 中每天固定时间回顾作业进步这一步骤时",
+      "reason": "source 的第三步是每天固定时间与孩子回顾进步；candidate 将这一步骤细化为具体操作：找出进步、给予肯定和反馈，source 的该步骤是 candidate 方法的一部分。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:r005",
+      "target": "s-8de4162d46a9-c003:v2-n001",
+      "kind": "has_step",
+      "condition": "当执行 source 中每天固定时间回顾作业进步这一步骤时",
+      "reason": "source 的第三步是每天固定时间与孩子回顾进步；candidate 将这一步骤细化为具体操作：找出进步、给予肯定和反馈，source 的该步骤是 candidate 方法的一部分。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:v2-n001",
+      "target": "s-8de4162d46a9-c003:a017",
+      "kind": "complements",
+      "condition": "当需要为 source 的每日回顾提供理论依据和更详细方法时",
+      "reason": "source 提到每天回顾作业进步；candidate 解释了适度挑战带来成就感，并给出具体回顾内容（如昨天不会今天会），补充了该做法的目的和细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c003:a017",
+      "target": "s-8de4162d46a9-c003:v2-n001",
+      "kind": "complements",
+      "condition": "当需要为 source 的每日回顾提供理论依据和更详细方法时",
+      "reason": "source 提到每天回顾作业进步；candidate 解释了适度挑战带来成就感，并给出具体回顾内容（如昨天不会今天会），补充了该做法的目的和细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:v2-n101",
+      "target": "s-8de4162d46a9-c004:v2-n102",
+      "kind": "association",
+      "condition": "当考虑同一学员提出的连续问题时",
+      "reason": "两者都是学员在课堂中提出的疑问，讨论影响学习动力的外部因素（留白/活动与体质），但问题焦点不同，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:v2-n102",
+      "target": "s-8de4162d46a9-c004:v2-n101",
+      "kind": "association",
+      "condition": "当考虑同一学员提出的连续问题时",
+      "reason": "两者都是学员在课堂中提出的疑问，讨论影响学习动力的外部因素（留白/活动与体质），但问题焦点不同，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:v2-n101",
+      "target": "s-8de4162d46a9-c004:a022",
+      "kind": "complements",
+      "condition": "当讨论留白时间应由谁掌控时",
+      "reason": "source 提出学校可能需要提供更多留白时间；candidate 补充随年龄增加应让孩子自己掌握留白时间，增加了年龄维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:a022",
+      "target": "s-8de4162d46a9-c004:v2-n101",
+      "kind": "complements",
+      "condition": "当讨论留白时间应由谁掌控时",
+      "reason": "source 提出学校可能需要提供更多留白时间；candidate 补充随年龄增加应让孩子自己掌握留白时间，增加了年龄维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:v2-n101",
+      "target": "s-8de4162d46a9-c004:a019",
+      "kind": "conditional_difference",
+      "condition": "当考虑增加留白时间的适用条件时",
+      "reason": "source 建议提供更多留白时间，candidate 提醒留白要适当、不能过量，过量等于父母不管孩子，这一条件限定了 source 建议的适用范围。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:a019",
+      "target": "s-8de4162d46a9-c004:v2-n101",
+      "kind": "conditional_difference",
+      "condition": "当考虑增加留白时间的适用条件时",
+      "reason": "source 建议提供更多留白时间，candidate 提醒留白要适当、不能过量，过量等于父母不管孩子，这一条件限定了 source 建议的适用范围。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:v2-n101",
+      "target": "s-8de4162d46a9-c004:a020",
+      "kind": "association",
+      "condition": "当考虑留白时间长度的影响因素时",
+      "reason": "candidate 指出留白时间随年龄、忙碌程度而不同，与 source 关于留白的提问相关，但未直接回答是否增加，仅为补充性关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:a020",
+      "target": "s-8de4162d46a9-c004:v2-n101",
+      "kind": "association",
+      "condition": "当考虑留白时间长度的影响因素时",
+      "reason": "candidate 指出留白时间随年龄、忙碌程度而不同，与 source 关于留白的提问相关，但未直接回答是否增加，仅为补充性关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:v2-n101",
+      "target": "s-8de4162d46a9-c004:a010",
+      "kind": "association",
+      "condition": "当探讨留白对学习的作用时",
+      "reason": "candidate 主张适当留白能促进专注，与 source 提出的留白可能有助于学习动力的疑问相关，但 candidate 是独立观点，并非对 source 的直接确认。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:a010",
+      "target": "s-8de4162d46a9-c004:v2-n101",
+      "kind": "association",
+      "condition": "当探讨留白对学习的作用时",
+      "reason": "candidate 主张适当留白能促进专注，与 source 提出的留白可能有助于学习动力的疑问相关，但 candidate 是独立观点，并非对 source 的直接确认。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:v2-n102",
+      "target": "s-8de4162d46a9-c004:v2-n101",
+      "kind": "association",
+      "condition": "当考虑同一学员的连续问题时",
+      "reason": "两者是同一课堂交流中先后提出的问题，均围绕学习动力支持因素，但一个关注留白/活动，一个关注体质，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:v2-n101",
+      "target": "s-8de4162d46a9-c004:v2-n102",
+      "kind": "association",
+      "condition": "当考虑同一学员的连续问题时",
+      "reason": "两者是同一课堂交流中先后提出的问题，均围绕学习动力支持因素，但一个关注留白/活动，一个关注体质，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:v2-n102",
+      "target": "s-8de4162d46a9-c004:a012",
+      "kind": "complements",
+      "condition": "当评估身体健康对孩子行动能力的作用时",
+      "reason": "source 询问体质是否帮助孩子做原本不想做的事；candidate 提出长远眼光、身体底子好、精力好则很多事情都能做，正面补充了体质对行动能力的支持。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c004:a012",
+      "target": "s-8de4162d46a9-c004:v2-n102",
+      "kind": "complements",
+      "condition": "当评估身体健康对孩子行动能力的作用时",
+      "reason": "source 询问体质是否帮助孩子做原本不想做的事；candidate 提出长远眼光、身体底子好、精力好则很多事情都能做，正面补充了体质对行动能力的支持。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:v2-n001",
+      "target": "s-8de4162d46a9-c005:r001",
+      "kind": "complements",
+      "condition": "当引导前需要明确目的时",
+      "reason": "source 强调理解学习与理想的关系，candidate 指出引导方式取决于目的（如成为学霸、不打游戏等），补充了引导前需澄清目的这一前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:r001",
+      "target": "s-8de4162d46a9-c005:v2-n001",
+      "kind": "complements",
+      "condition": "当引导前需要明确目的时",
+      "reason": "source 强调理解学习与理想的关系，candidate 指出引导方式取决于目的（如成为学霸、不打游戏等），补充了引导前需澄清目的这一前提。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:v2-n001",
+      "target": "s-8de4162d46a9-c005:a011",
+      "kind": "complements",
+      "condition": "当需要具体方法提升学习兴趣以弥合理想与学校内容差距时",
+      "reason": "source 指出理想与学习内容关联弱会导致兴趣低；candidate 提供学习生活化的具体策略，帮助孩子看到学习内容与生活的联系，可能缓解该问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:a011",
+      "target": "s-8de4162d46a9-c005:v2-n001",
+      "kind": "complements",
+      "condition": "当需要具体方法提升学习兴趣以弥合理想与学校内容差距时",
+      "reason": "source 指出理想与学习内容关联弱会导致兴趣低；candidate 提供学习生活化的具体策略，帮助孩子看到学习内容与生活的联系，可能缓解该问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:v2-n001",
+      "target": "s-8de4162d46a9-c005:v2-n002",
+      "kind": "association",
+      "condition": "当讨论如何使学习变得有趣的不同责任方时",
+      "reason": "source 建议理解理想与学习关系；candidate 提出父母自己要把学习变得有趣，两者都指向提升学习兴趣，但侧重点不同，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:v2-n002",
+      "target": "s-8de4162d46a9-c005:v2-n001",
+      "kind": "association",
+      "condition": "当讨论如何使学习变得有趣的不同责任方时",
+      "reason": "source 建议理解理想与学习关系；candidate 提出父母自己要把学习变得有趣，两者都指向提升学习兴趣，但侧重点不同，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:v2-n001",
+      "target": "s-8de4162d46a9-c005:a007",
+      "kind": "complements",
+      "condition": "当需要实例说明理想与学校内容关联弱导致兴趣低时",
+      "reason": "candidate 提供五年级女儿理想成为电竞选手、对学校学习不感兴趣的案例，正好具体化了 source 的论断：清晰理想与学校内容帮助不大时孩子可能缺乏学习兴趣。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:a007",
+      "target": "s-8de4162d46a9-c005:v2-n001",
+      "kind": "complements",
+      "condition": "当需要实例说明理想与学校内容关联弱导致兴趣低时",
+      "reason": "candidate 提供五年级女儿理想成为电竞选手、对学校学习不感兴趣的案例，正好具体化了 source 的论断：清晰理想与学校内容帮助不大时孩子可能缺乏学习兴趣。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:v2-n001",
+      "target": "s-8de4162d46a9-c005:a008",
+      "kind": "association",
+      "condition": "当强调引导行为需要目的性时",
+      "reason": "candidate 提出父母行为必须有目的性，与 source 在引导前需理解理想关系同属引导准备，但 candidate 更泛化，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:a008",
+      "target": "s-8de4162d46a9-c005:v2-n001",
+      "kind": "association",
+      "condition": "当强调引导行为需要目的性时",
+      "reason": "candidate 提出父母行为必须有目的性，与 source 在引导前需理解理想关系同属引导准备，但 candidate 更泛化，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:v2-n002",
+      "target": "s-8de4162d46a9-c005:a011",
+      "kind": "complements",
+      "condition": "当需要将'把学习变得有趣'具体化时",
+      "reason": "source 要求父母自己把学习变得有趣；candidate 提供学习生活化的具体方法，如用统计学趣味教学、英语笔友等，是 source 的一种实现方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:a011",
+      "target": "s-8de4162d46a9-c005:v2-n002",
+      "kind": "complements",
+      "condition": "当需要将'把学习变得有趣'具体化时",
+      "reason": "source 要求父母自己把学习变得有趣；candidate 提供学习生活化的具体方法，如用统计学趣味教学、英语笔友等，是 source 的一种实现方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:v2-n002",
+      "target": "s-8de4162d46a9-c005:r001",
+      "kind": "association",
+      "condition": "当考虑引导策略前需澄清目的时",
+      "reason": "candidate 强调目的不同引导方式不同，与 source 主张父母创造有趣学习方式相关，但 candidate 未涉及具体方法，仅为前提性关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:r001",
+      "target": "s-8de4162d46a9-c005:v2-n002",
+      "kind": "association",
+      "condition": "当考虑引导策略前需澄清目的时",
+      "reason": "candidate 强调目的不同引导方式不同，与 source 主张父母创造有趣学习方式相关，但 candidate 未涉及具体方法，仅为前提性关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:v2-n002",
+      "target": "s-8de4162d46a9-c005:v2-n001",
+      "kind": "association",
+      "condition": "当分析孩子缺乏学习兴趣的原因时",
+      "reason": "source 主张父母要使学习有趣；candidate 指出理想与学习内容关联弱会导致缺乏兴趣，两者都涉及学习兴趣相关因素，但方向不同，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:v2-n001",
+      "target": "s-8de4162d46a9-c005:v2-n002",
+      "kind": "association",
+      "condition": "当分析孩子缺乏学习兴趣的原因时",
+      "reason": "source 主张父母要使学习有趣；candidate 指出理想与学习内容关联弱会导致缺乏兴趣，两者都涉及学习兴趣相关因素，但方向不同，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:v2-n002",
+      "target": "s-8de4162d46a9-c005:a008",
+      "kind": "association",
+      "condition": "当强调父母行为应具有目的性时",
+      "reason": "candidate 要求父母行为有目的性，与 source 让父母主动创造有趣学习方式同属父母行动，但 candidate 更普适，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:a008",
+      "target": "s-8de4162d46a9-c005:v2-n002",
+      "kind": "association",
+      "condition": "当强调父母行为应具有目的性时",
+      "reason": "candidate 要求父母行为有目的性，与 source 让父母主动创造有趣学习方式同属父母行动，但 candidate 更普适，仅为关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:v2-n001",
+      "target": "s-8de4162d46a9-c005:a026",
+      "kind": "complements",
+      "condition": "当孩子尚未醒悟时",
+      "reason": "候选补充了耐心等待的积极结果（孩子醒了如鹰展翅上腾）和具体案例，与源中'推催无用需等待'一致并深化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:a026",
+      "target": "s-8de4162d46a9-c006:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子尚未醒悟时",
+      "reason": "候选补充了耐心等待的积极结果（孩子醒了如鹰展翅上腾）和具体案例，与源中'推催无用需等待'一致并深化。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:v2-n001",
+      "target": "s-8de4162d46a9-c006:a017",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "两者都涉及家长对孩子内在状态的关注，但源强调等待时机，候选强调家长因控制而缺乏观察，无直接逻辑关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:a017",
+      "target": "s-8de4162d46a9-c006:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "两者都涉及家长对孩子内在状态的关注，但源强调等待时机，候选强调家长因控制而缺乏观察，无直接逻辑关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:v2-n001",
+      "target": "s-8de4162d46a9-c006:a025",
+      "kind": "complements",
+      "condition": "当孩子发展节奏与家长期待不符时",
+      "reason": "候选补充了孩子可能只是不符合期待，并非真的不好，为源中'推催无用'提供了理由，支持等待。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:a025",
+      "target": "s-8de4162d46a9-c006:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子发展节奏与家长期待不符时",
+      "reason": "候选补充了孩子可能只是不符合期待，并非真的不好，为源中'推催无用'提供了理由，支持等待。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:v2-n001",
+      "target": "s-8de4162d46a9-c005:a024",
+      "kind": "complements",
+      "condition": "当父母焦虑且孩子未启动时",
+      "reason": "候选提供了一个真实案例：父母放松后孩子11年级下学期突然醒悟，12年级表现好，具体说明了等待和减少焦虑的有效性，强化源观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:a024",
+      "target": "s-8de4162d46a9-c006:v2-n001",
+      "kind": "complements",
+      "condition": "当父母焦虑且孩子未启动时",
+      "reason": "候选提供了一个真实案例：父母放松后孩子11年级下学期突然醒悟，12年级表现好，具体说明了等待和减少焦虑的有效性，强化源观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:v2-n001",
+      "target": "s-8de4162d46a9-c006:a008",
+      "kind": "complements",
+      "condition": "当孩子发展节奏与家长期待不符时",
+      "reason": "候选补充了孩子可能只是没有按家长期待的方式开花结果，为源中'推催无用'提供了另一种表述，支持等待。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:a008",
+      "target": "s-8de4162d46a9-c006:v2-n001",
+      "kind": "complements",
+      "condition": "当孩子发展节奏与家长期待不符时",
+      "reason": "候选补充了孩子可能只是没有按家长期待的方式开花结果，为源中'推催无用'提供了另一种表述，支持等待。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:v2-n001",
+      "target": "s-8de4162d46a9-c006:a007",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "候选讨论孩子抗拒时家长应反省过去，源讨论未醒悟时不推催，两者都涉及亲子互动，但侧重点不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:a007",
+      "target": "s-8de4162d46a9-c006:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "候选讨论孩子抗拒时家长应反省过去，源讨论未醒悟时不推催，两者都涉及亲子互动，但侧重点不同，无直接关系。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:v2-n001",
+      "target": "s-8de4162d46a9-c006:a006",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "候选归纳养育效果不佳的两个原因（不符合期待、抗拒），源仅关于等待，候选范围更广，虽有部分重叠（不符合期待）但整体与源无直接互补或冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:a006",
+      "target": "s-8de4162d46a9-c006:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "候选归纳养育效果不佳的两个原因（不符合期待、抗拒），源仅关于等待，候选范围更广，虽有部分重叠（不符合期待）但整体与源无直接互补或冲突。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:v2-n001",
+      "target": "s-8de4162d46a9-c006:a031",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "候选强调父母需系统学习因孩子而异，源强调等待时机，两者都是教育建议，但无直接逻辑关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:a031",
+      "target": "s-8de4162d46a9-c006:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "候选强调父母需系统学习因孩子而异，源强调等待时机，两者都是教育建议，但无直接逻辑关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:v2-n001",
+      "target": "s-8de4162d46a9-c006:a041",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "候选讨论孩子抗拒时家长需反省过去，与源中未醒悟时不推催无直接关系，仅主题涉及亲子问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:a041",
+      "target": "s-8de4162d46a9-c006:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "候选讨论孩子抗拒时家长需反省过去，与源中未醒悟时不推催无直接关系，仅主题涉及亲子问题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:v2-n001",
+      "target": "s-8de4162d46a9-c006:a005",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "候选讨论家长不了解孩子类型反映缺乏观察，源讨论等待孩子醒悟，无直接逻辑关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:a005",
+      "target": "s-8de4162d46a9-c006:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "候选讨论家长不了解孩子类型反映缺乏观察，源讨论等待孩子醒悟，无直接逻辑关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:v2-n001",
+      "target": "s-8de4162d46a9-c005:a021",
+      "kind": "conditional_difference",
+      "condition": "当孩子不行动的原因不同：源为尚未醒悟，候选为缺乏界限",
+      "reason": "两者都涉及孩子不行动，但归因不同：源认为未到醒悟阶段推催无用，候选认为缺乏界限导致懒散，需区分情况处理。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:a021",
+      "target": "s-8de4162d46a9-c006:v2-n001",
+      "kind": "conditional_difference",
+      "condition": "当孩子不行动的原因不同：源为尚未醒悟，候选为缺乏界限",
+      "reason": "两者都涉及孩子不行动，但归因不同：源认为未到醒悟阶段推催无用，候选认为缺乏界限导致懒散，需区分情况处理。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c006:v2-n001",
+      "target": "s-8de4162d46a9-c005:a017",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "候选强调没有不好的孩子只有看不见孩子好的父母，源强调等待，都建议家长改变视角，但无直接逻辑关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-8de4162d46a9-c005:a017",
+      "target": "s-8de4162d46a9-c006:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件，仅主题相关",
+      "reason": "候选强调没有不好的孩子只有看不见孩子好的父母，源强调等待，都建议家长改变视角，但无直接逻辑关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "自我认知",
+      "when": "当孩子焦虑且焦虑影响自律能力时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a008",
+        "s-8de4162d46a9-c001:a017"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "自我认知",
+      "when": "当亲子关系不好且孩子通过力量争夺反抗时",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a005",
+        "s-8de4162d46a9-c002:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我修养",
+      "to": "内在能力",
+      "when": "当父母自我提升时，孩子模仿并产生内驱力",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a018",
+        "s-8de4162d46a9-c003:a019",
+        "s-8de4162d46a9-c004:a001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "内在能力",
+      "when": "当孩子承担后果时，产生内驱力",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a014",
+        "s-8de4162d46a9-c003:a015",
+        "s-8de4162d46a9-c003:a016"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "内在能力",
+      "when": "当父母与孩子建立情绪连接时，孩子有内驱力",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a005",
+        "s-8de4162d46a9-c003:a006"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "阶段与角色",
+      "to": "界限",
+      "when": "随着孩子年龄增长，父母应给予更多自主权",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a008",
+        "s-8de4162d46a9-c004:a022"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a004",
+        "s-8de4162d46a9-c003:r001"
+      ],
+      "reason": "内容完全一致，都是关于停止鼓励孩子的原因和表现"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a017",
+        "s-8de4162d46a9-c003:r005"
+      ],
+      "reason": "内容完全一致，都是关于适度挑战的具体操作"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a007"
+      ],
+      "reason": "内容完全一致，都是关于外驱力页面引发紧张感"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a008"
+      ],
+      "reason": "内容完全一致，都是关于留白页面带来舒适感"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a009"
+      ],
+      "reason": "内容完全一致，都是关于孩子生活被排满导致逃避"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a010"
+      ],
+      "reason": "内容完全一致，都是关于留白促进专注"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a011"
+      ],
+      "reason": "内容完全一致，都是关于精力支撑能力发挥"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a012"
+      ],
+      "reason": "内容完全一致，都是关于长远眼光看待教育"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a013"
+      ],
+      "reason": "内容完全一致，都是关于识别孩子焦虑的方面"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a014"
+      ],
+      "reason": "内容完全一致，都是关于区分焦虑与压力大"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a015"
+      ],
+      "reason": "内容完全一致，都是关于不敢问导致错过帮助机会"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a016"
+      ],
+      "reason": "内容完全一致，都是关于大方询问孩子是否有伤害自己的想法"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a017"
+      ],
+      "reason": "内容完全一致，都是关于孩子呐喊的两种方式"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a018"
+      ],
+      "reason": "内容完全一致，都是关于电视剧《小欢喜》中学霸默默崩溃案例"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a019"
+      ],
+      "reason": "内容完全一致，都是关于留白时间需适当"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a020"
+      ],
+      "reason": "内容完全一致，都是关于留白时间随年龄变化"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a021"
+      ],
+      "reason": "内容完全一致，都是关于育儿无固定公式"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a022"
+      ],
+      "reason": "内容完全一致，都是关于随年龄增加让孩子掌握留白时间"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a023"
+      ],
+      "reason": "内容完全一致，都是关于留白让孩子添加感兴趣的内容"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a024"
+      ],
+      "reason": "内容完全一致，都是关于孩子决心不过三秒的原因一：困难太大"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a025"
+      ],
+      "reason": "内容完全一致，都是关于将大目标细分化"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a026"
+      ],
+      "reason": "内容完全一致，都是关于讲师孩子拼乐高案例"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a027"
+      ],
+      "reason": "内容完全一致，都是关于孩子决心不过三秒的原因二：内驱力不足"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a028"
+      ],
+      "reason": "内容完全一致，都是关于基于自我接纳的改变更容易"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a029"
+      ],
+      "reason": "内容完全一致，都是关于让孩子知道价值不因成绩改变"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a013"
+      ],
+      "reason": "内容完全一致，都是关于父母培养开放思维"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a014"
+      ],
+      "reason": "内容完全一致，都是关于从不好变好与从很好变得更好"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a015"
+      ],
+      "reason": "内容完全一致，都是关于让孩子觉得自己很好的方法"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a016"
+      ],
+      "reason": "内容完全一致，都是关于朋友为女儿织毛衣骄傲"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a017"
+      ],
+      "reason": "内容完全一致，都是关于没有不好的孩子，只有看不见孩子好的父母"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a018"
+      ],
+      "reason": "内容完全一致，都是关于讲师从小喜欢与人讲话"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a019"
+      ],
+      "reason": "内容完全一致，都是关于挑战父母定义“好”"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a020"
+      ],
+      "reason": "内容完全一致，都是关于高二学渣孩子如何启动学习"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a021"
+      ],
+      "reason": "内容完全一致，都是关于父母需要平衡自由与界限"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a022"
+      ],
+      "reason": "内容完全一致，都是关于草莓成熟时间不同"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a023"
+      ],
+      "reason": "内容完全一致，都是关于不要太早下定论"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a024"
+      ],
+      "reason": "内容完全一致，都是关于12年级孩子突然醒悟"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a025"
+      ],
+      "reason": "内容完全一致，都是关于人生长河不必紧盯大学"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a026"
+      ],
+      "reason": "内容完全一致，都是关于耐心等待孩子长醒"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a001"
+      ],
+      "reason": "内容完全一致，都是关于有界限的无条件爱与溺爱的区别"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a002"
+      ],
+      "reason": "内容完全一致，都是关于孩子如不同植物，需要不同养育方式"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a003"
+      ],
+      "reason": "内容完全一致，都是关于爱的共性与个体差异"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a004"
+      ],
+      "reason": "内容完全一致，都是关于家长难以识别孩子的类型"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a005"
+      ],
+      "reason": "内容完全一致，都是关于不了解孩子类型反映缺乏观察"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a006"
+      ],
+      "reason": "内容完全一致，都是关于养育效果不佳的两个原因"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a007"
+      ],
+      "reason": "内容完全一致，都是关于孩子抗拒时需反省过去"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a008"
+      ],
+      "reason": "内容完全一致，都是关于孩子可能只是不符合家长期待"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a009"
+      ],
+      "reason": "内容完全一致，都是关于孩子天生特质如植物品种"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a010"
+      ],
+      "reason": "内容完全一致，都是关于过度养育会伤害孩子"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a011"
+      ],
+      "reason": "内容完全一致，都是关于同一套方法不适用于所有孩子"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a012"
+      ],
+      "reason": "内容完全一致，都是关于了解儿童心理科学可培养不同优秀孩子"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a013"
+      ],
+      "reason": "内容完全一致，都是关于不懂底层逻辑导致两败俱伤"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a014"
+      ],
+      "reason": "内容完全一致，都是关于家长分享三个孩子不同特质"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a015"
+      ],
+      "reason": "内容完全一致，都是关于植物比喻中的共性需求"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a016"
+      ],
+      "reason": "内容完全一致，都是关于孩子多变导致家长困惑"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a017"
+      ],
+      "reason": "内容完全一致，都是关于家长控制孩子时缺乏观察"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a018"
+      ],
+      "reason": "内容完全一致，都是关于孩子抗拒时家长需反省关系"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a019"
+      ],
+      "reason": "内容完全一致，都是关于孩子年龄不可逆，错误方法代价大"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a020"
+      ],
+      "reason": "内容完全一致，都是关于把错误犯在课堂上而非生活中"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a021"
+      ],
+      "reason": "内容完全一致，都是关于中国家长努力但方法错误"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a022"
+      ],
+      "reason": "内容完全一致，都是关于家长需思考效果不佳的两个方面"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a023"
+      ],
+      "reason": "内容完全一致，都是关于家长不能主宰孩子是什么"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a024"
+      ],
+      "reason": "内容完全一致，都是关于孩子抗拒时家长需反省过去"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a025"
+      ],
+      "reason": "内容完全一致，都是关于孩子可能只是不符合期待"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a026"
+      ],
+      "reason": "内容完全一致，都是关于家长对植物界定的类比"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a027"
+      ],
+      "reason": "内容完全一致，都是关于过度养育导致伤害"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a028"
+      ],
+      "reason": "内容完全一致，都是关于同一方法不适用所有孩子"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a012"
+      ],
+      "reason": "内容完全一致，都是关于了解底层逻辑可培养不同优秀孩子"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a030"
+      ],
+      "reason": "内容完全一致，都是关于不懂底层逻辑导致两败俱伤"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a031"
+      ],
+      "reason": "内容完全一致，都是关于家长需系统学习"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a032"
+      ],
+      "reason": "内容完全一致，都是关于孩子是活的，不是死的"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a033"
+      ],
+      "reason": "内容完全一致，都是关于两败俱伤的表现"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a017"
+      ],
+      "reason": "内容完全一致，都是关于家长需观察孩子内在"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a018"
+      ],
+      "reason": "内容完全一致，都是关于孩子抗拒时家长需反省关系"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a036"
+      ],
+      "reason": "内容完全一致，都是关于孩子年龄不可逆"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a037"
+      ],
+      "reason": "内容完全一致，都是关于把错误犯在课堂上"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a038"
+      ],
+      "reason": "内容完全一致，都是关于中国家长努力但方法错误"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a039"
+      ],
+      "reason": "内容完全一致，都是关于家长需思考效果不佳的两个方面"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a023"
+      ],
+      "reason": "内容完全一致，都是关于家长不能主宰孩子"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a041"
+      ],
+      "reason": "内容完全一致，都是关于孩子抗拒时家长需反省过去"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a025"
+      ],
+      "reason": "内容完全一致，都是关于孩子可能只是不符合期待"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a026"
+      ],
+      "reason": "内容完全一致，都是关于家长对植物界定的类比"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a027"
+      ],
+      "reason": "内容完全一致，都是关于过度养育导致伤害"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a045"
+      ],
+      "reason": "内容完全一致，都是关于同一方法不适用所有孩子"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a012"
+      ],
+      "reason": "内容完全一致，都是关于了解底层逻辑可培养不同优秀孩子"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a030"
+      ],
+      "reason": "内容完全一致，都是关于不懂底层逻辑导致两败俱伤"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a031"
+      ],
+      "reason": "内容完全一致，都是关于家长需系统学习"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a032"
+      ],
+      "reason": "内容完全一致，都是关于孩子是活的，不是死的"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a033"
+      ],
+      "reason": "内容完全一致，都是关于两败俱伤的表现"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a006",
+        "s-8de4162d46a9-c002:r001"
+      ],
+      "description": "c001:a006 提到孩子不自律的原因包括焦虑、逃避失败和寻求力量，而 c002:r001 总结为逃避失败、想要获得力量、为父母学习（外驱力），两者原因列表不一致。",
+      "needed_evidence": "需要明确孩子不自律的完整原因列表，以及焦虑是否属于独立原因还是其他原因的表现。"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a003",
+        "s-8de4162d46a9-c003:a004"
+      ],
+      "description": "c003:a003 列出培养内驱力的五个要素包括“停止鼓励孩子”，但 c003:a004 解释停止鼓励是因为鼓励无效且会导致力量争夺，这与通常认为鼓励是正面手段的观点存在张力。",
+      "needed_evidence": "需要进一步证据说明在什么条件下鼓励无效，以及停止鼓励是否适用于所有孩子。"
+    },
+    {
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a021",
+        "s-8de4162d46a9-c005:a022"
+      ],
+      "description": "c005:a021 强调父母需要平衡自由与界限，而 c005:a022 用草莓比喻说明孩子成熟时间不同，需要耐心等待，但未明确界限的具体程度，可能造成实践中的矛盾。",
+      "needed_evidence": "需要明确在不同年龄和情境下自由与界限的平衡标准。"
+    }
+  ],
+  "path": [
+    {
+      "name": "培养孩子自律的方法",
+      "steps": [
+        {
+          "action": "理解孩子不自律的原因（焦虑、逃避失败、力量争夺、外驱力）",
+          "atom_ids": [
+            "s-8de4162d46a9-c001:a007",
+            "s-8de4162d46a9-c002:a001",
+            "s-8de4162d46a9-c002:a005",
+            "s-8de4162d46a9-c002:a007"
+          ],
+          "condition": "当孩子表现出不自律时"
+        },
+        {
+          "action": "处理焦虑：识别焦虑、提供出口、避免逼迫",
+          "atom_ids": [
+            "s-8de4162d46a9-c001:a013",
+            "s-8de4162d46a9-c004:a013",
+            "s-8de4162d46a9-c004:a016"
+          ],
+          "condition": "当孩子焦虑时"
+        },
+        {
+          "action": "建立情绪连接：倾听、共情、理解",
+          "atom_ids": [
+            "s-8de4162d46a9-c003:a005",
+            "s-8de4162d46a9-c003:r002"
+          ],
+          "condition": "当孩子有情绪时"
+        },
+        {
+          "action": "给予自主权：在学习方法、习惯、能力上尊重孩子",
+          "atom_ids": [
+            "s-8de4162d46a9-c003:a008",
+            "s-8de4162d46a9-c003:r003"
+          ],
+          "condition": "随着孩子年龄增长"
+        },
+        {
+          "action": "让孩子承担后果：不替孩子收拾，让孩子自己面对",
+          "atom_ids": [
+            "s-8de4162d46a9-c003:a014",
+            "s-8de4162d46a9-c003:r004"
+          ],
+          "condition": "当孩子做出选择或行为后"
+        },
+        {
+          "action": "提供适度挑战：每天回顾作业，肯定进步",
+          "atom_ids": [
+            "s-8de4162d46a9-c003:a017",
+            "s-8de4162d46a9-c003:r005"
+          ],
+          "condition": "每天固定时间"
+        },
+        {
+          "action": "父母自我提升：成为孩子的榜样",
+          "atom_ids": [
+            "s-8de4162d46a9-c003:a018",
+            "s-8de4162d46a9-c004:a001"
+          ],
+          "condition": "父母持续成长"
+        },
+        {
+          "action": "给予留白：适当留白，让孩子喘息和自主",
+          "atom_ids": [
+            "s-8de4162d46a9-c004:a010",
+            "s-8de4162d46a9-c004:a019",
+            "s-8de4162d46a9-c004:a022"
+          ],
+          "condition": "根据孩子年龄和忙碌程度调整"
+        },
+        {
+          "action": "耐心等待孩子醒悟：不急于求成，相信孩子有自己的节奏",
+          "atom_ids": [
+            "s-8de4162d46a9-c005:a022",
+            "s-8de4162d46a9-c005:a026"
+          ],
+          "condition": "当孩子尚未启动学习时"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-8de4162d46a9-c001:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:r002"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0002",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:r001"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a001",
+        "s-8de4162d46a9-c001:a002"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a003"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013",
+        "b00014"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a004"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a005"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a006"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a007"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a009"
+      ],
+      "blocks": [
+        "b00019",
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a010"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a008"
+      ],
+      "blocks": [
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a012"
+      ],
+      "blocks": [
+        "b00023",
+        "b00025"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0013",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a011"
+      ],
+      "blocks": [
+        "b00024"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a013"
+      ],
+      "blocks": [
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a014"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a015"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a015"
+      ],
+      "blocks": [
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a016",
+        "s-8de4162d46a9-c001:r003"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a017"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a018"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a019"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037",
+        "b00038"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0022",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a020"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:a021"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c001:u0025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a001"
+      ],
+      "blocks": [
+        "b00041",
+        "b00042"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u002",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a002"
+      ],
+      "blocks": [
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a003"
+      ],
+      "blocks": [
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a004",
+        "s-8de4162d46a9-c002:r002"
+      ],
+      "blocks": [
+        "b00047",
+        "b00048",
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a005"
+      ],
+      "blocks": [
+        "b00049",
+        "b00050",
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u006",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a006"
+      ],
+      "blocks": [
+        "b00050",
+        "b00051"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a007",
+        "s-8de4162d46a9-c002:r003",
+        "s-8de4162d46a9-c002:r004"
+      ],
+      "blocks": [
+        "b00053",
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a008"
+      ],
+      "blocks": [
+        "b00054",
+        "b00055",
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a009"
+      ],
+      "blocks": [
+        "b00057",
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u010",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a010",
+        "s-8de4162d46a9-c002:r005"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a011",
+        "s-8de4162d46a9-c002:r006"
+      ],
+      "blocks": [
+        "b00061",
+        "b00062",
+        "b00063"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a012",
+        "s-8de4162d46a9-c002:r007"
+      ],
+      "blocks": [
+        "b00063",
+        "b00064",
+        "b00065"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u013",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a013"
+      ],
+      "blocks": [
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a014",
+        "s-8de4162d46a9-c002:r008"
+      ],
+      "blocks": [
+        "b00067",
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u015",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a015",
+        "s-8de4162d46a9-c002:r009"
+      ],
+      "blocks": [
+        "b00069",
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a016"
+      ],
+      "blocks": [
+        "b00070",
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u017",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a017",
+        "s-8de4162d46a9-c002:r010"
+      ],
+      "blocks": [
+        "b00071",
+        "b00072",
+        "b00073",
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a018"
+      ],
+      "blocks": [
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a019"
+      ],
+      "blocks": [
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u020",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a020"
+      ],
+      "blocks": [
+        "b00076",
+        "b00077"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u021",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:r011",
+        "s-8de4162d46a9-c002:a021"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a022"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:r012"
+      ],
+      "blocks": [
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:a023",
+        "s-8de4162d46a9-c002:a024",
+        "s-8de4162d46a9-c002:r013"
+      ],
+      "blocks": [
+        "b00080",
+        "b00081",
+        "b00082"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u025",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c002:u026",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a001"
+      ],
+      "blocks": [
+        "b00081",
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a002"
+      ],
+      "blocks": [
+        "b00083",
+        "b00084"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a003"
+      ],
+      "blocks": [
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a004",
+        "s-8de4162d46a9-c003:r001"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a005",
+        "s-8de4162d46a9-c003:r002"
+      ],
+      "blocks": [
+        "b00094",
+        "b00095",
+        "b00096"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a006",
+        "s-8de4162d46a9-c003:r002"
+      ],
+      "blocks": [
+        "b00089",
+        "b00090",
+        "b00091",
+        "b00092",
+        "b00093"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0007",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a007"
+      ],
+      "blocks": [
+        "b00094"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a008",
+        "s-8de4162d46a9-c003:r003"
+      ],
+      "blocks": [
+        "b00096",
+        "b00097",
+        "b00098",
+        "b00099",
+        "b00106"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0009",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a009"
+      ],
+      "blocks": [
+        "b00099",
+        "b00100",
+        "b00101"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0010",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a010"
+      ],
+      "blocks": [
+        "b00101",
+        "b00102",
+        "b00103",
+        "b00104"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0011",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a011"
+      ],
+      "blocks": [
+        "b00105",
+        "b00106"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0012",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a012"
+      ],
+      "blocks": [
+        "b00106",
+        "b00107",
+        "b00108",
+        "b00109"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0013",
+      "kind": "condition",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a013"
+      ],
+      "blocks": [
+        "b00109",
+        "b00110",
+        "b00111"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a014",
+        "s-8de4162d46a9-c003:r004"
+      ],
+      "blocks": [
+        "b00111",
+        "b00112",
+        "b00119",
+        "b00120"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0015",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a015",
+        "s-8de4162d46a9-c003:r004"
+      ],
+      "blocks": [
+        "b00113",
+        "b00114"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0016",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a016"
+      ],
+      "blocks": [
+        "b00115",
+        "b00116",
+        "b00117",
+        "b00118",
+        "b00119",
+        "b00120"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0017",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a017",
+        "s-8de4162d46a9-c003:r005"
+      ],
+      "blocks": [
+        "b00121",
+        "b00122",
+        "b00123",
+        "b00124",
+        "b00125"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0018",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00122",
+        "b00123"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0019",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a018",
+        "s-8de4162d46a9-c003:r006"
+      ],
+      "blocks": [
+        "b00125",
+        "b00129"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c003:u0020",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:a019"
+      ],
+      "blocks": [
+        "b00126",
+        "b00127",
+        "b00128",
+        "b00129"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u01",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a001",
+        "s-8de4162d46a9-c004:r001"
+      ],
+      "blocks": [
+        "b00128",
+        "b00129"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u02",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a002"
+      ],
+      "blocks": [
+        "b00130"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u03",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a003"
+      ],
+      "blocks": [
+        "b00131",
+        "b00132"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u04",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a004"
+      ],
+      "blocks": [
+        "b00132"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u05",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a005"
+      ],
+      "blocks": [
+        "b00133"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u06",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a006"
+      ],
+      "blocks": [
+        "b00134"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u07",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a007",
+        "s-8de4162d46a9-c004:a008"
+      ],
+      "blocks": [
+        "b00137",
+        "b00138"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u08",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a009",
+        "s-8de4162d46a9-c004:a010"
+      ],
+      "blocks": [
+        "b00138",
+        "b00139"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u09",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a011"
+      ],
+      "blocks": [
+        "b00144"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u10",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a012"
+      ],
+      "blocks": [
+        "b00145"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u11",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a013"
+      ],
+      "blocks": [
+        "b00146",
+        "b00147"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u12",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a014",
+        "s-8de4162d46a9-c004:a015"
+      ],
+      "blocks": [
+        "b00148",
+        "b00149"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u13",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a016"
+      ],
+      "blocks": [
+        "b00150",
+        "b00151"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u14",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a017"
+      ],
+      "blocks": [
+        "b00151"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u15",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a018"
+      ],
+      "blocks": [
+        "b00152"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u16",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a019"
+      ],
+      "blocks": [
+        "b00153"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u17",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a020"
+      ],
+      "blocks": [
+        "b00153",
+        "b00154"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u18",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a021"
+      ],
+      "blocks": [
+        "b00154",
+        "b00155"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u19",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a022"
+      ],
+      "blocks": [
+        "b00155"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u20",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a023"
+      ],
+      "blocks": [
+        "b00156"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u21",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a024",
+        "s-8de4162d46a9-c004:a025"
+      ],
+      "blocks": [
+        "b00157",
+        "b00158",
+        "b00159"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u22",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a026"
+      ],
+      "blocks": [
+        "b00159",
+        "b00160",
+        "b00161",
+        "b00162",
+        "b00163"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u23",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a027"
+      ],
+      "blocks": [
+        "b00164"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u24",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a028"
+      ],
+      "blocks": [
+        "b00165",
+        "b00166"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u101",
+      "kind": "question",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:v2-n101"
+      ],
+      "blocks": [
+        "b00142"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c004:u102",
+      "kind": "question",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:v2-n102"
+      ],
+      "blocks": [
+        "b00143"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a001"
+      ],
+      "blocks": [
+        "b00167"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:a029",
+        "s-8de4162d46a9-c005:a002"
+      ],
+      "blocks": [
+        "b00167",
+        "b00168"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-003",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a002"
+      ],
+      "blocks": [
+        "b00168"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-004",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a003"
+      ],
+      "blocks": [
+        "b00169"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a004"
+      ],
+      "blocks": [
+        "b00169",
+        "b00170",
+        "b00171"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a005"
+      ],
+      "blocks": [
+        "b00171",
+        "b00172"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-007",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a006"
+      ],
+      "blocks": [
+        "b00172",
+        "b00173"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-008",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a007"
+      ],
+      "blocks": [
+        "b00173",
+        "b00174"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:v2-n001"
+      ],
+      "blocks": [
+        "b00174"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-010",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a008"
+      ],
+      "blocks": [
+        "b00175",
+        "b00176",
+        "b00177"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-011",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:r001"
+      ],
+      "blocks": [
+        "b00176",
+        "b00177"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-012",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a009"
+      ],
+      "blocks": [
+        "b00177",
+        "b00178",
+        "b00179"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-013",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:v2-n002"
+      ],
+      "blocks": [
+        "b00177"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-014",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a010"
+      ],
+      "blocks": [
+        "b00179",
+        "b00180",
+        "b00181"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-015",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a011"
+      ],
+      "blocks": [
+        "b00181",
+        "b00182",
+        "b00183",
+        "b00184"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-016",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a012"
+      ],
+      "blocks": [
+        "b00184",
+        "b00185"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-017",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a013"
+      ],
+      "blocks": [
+        "b00185",
+        "b00186",
+        "b00187"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-018",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a014"
+      ],
+      "blocks": [
+        "b00187"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-019",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a015"
+      ],
+      "blocks": [
+        "b00187",
+        "b00188",
+        "b00189",
+        "b00190",
+        "b00191",
+        "b00192"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-020",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a016"
+      ],
+      "blocks": [
+        "b00188",
+        "b00189",
+        "b00190"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-021",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a017"
+      ],
+      "blocks": [
+        "b00192"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-022",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a018"
+      ],
+      "blocks": [
+        "b00192",
+        "b00193",
+        "b00194",
+        "b00195"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-023",
+      "kind": "question",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a019"
+      ],
+      "blocks": [
+        "b00195",
+        "b00196"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-024",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a020"
+      ],
+      "blocks": [
+        "b00196"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-025",
+      "kind": "condition",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a021"
+      ],
+      "blocks": [
+        "b00196",
+        "b00197",
+        "b00198"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-026",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a022"
+      ],
+      "blocks": [
+        "b00198",
+        "b00199",
+        "b00200",
+        "b00201",
+        "b00202"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-027",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a023"
+      ],
+      "blocks": [
+        "b00200",
+        "b00201"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-028",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a024"
+      ],
+      "blocks": [
+        "b00202",
+        "b00203",
+        "b00204"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-029",
+      "kind": "condition",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a025"
+      ],
+      "blocks": [
+        "b00204",
+        "b00205",
+        "b00206"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c005:u-030",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:a026"
+      ],
+      "blocks": [
+        "b00206",
+        "b00207"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u001",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:v2-n001"
+      ],
+      "blocks": [
+        "b00208"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u002",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a001"
+      ],
+      "blocks": [
+        "b00218",
+        "b00219",
+        "b00222"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u003",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a002"
+      ],
+      "blocks": [
+        "b00219",
+        "b00220",
+        "b00222"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u004",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a003",
+        "s-8de4162d46a9-c006:a015"
+      ],
+      "blocks": [
+        "b00221",
+        "b00222"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a004",
+        "s-8de4162d46a9-c006:a016"
+      ],
+      "blocks": [
+        "b00223",
+        "b00224"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u006",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a005"
+      ],
+      "blocks": [
+        "b00225"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a017"
+      ],
+      "blocks": [
+        "b00227"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u008",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a006",
+        "s-8de4162d46a9-c006:a008",
+        "s-8de4162d46a9-c006:a022",
+        "s-8de4162d46a9-c006:a023",
+        "s-8de4162d46a9-c006:a025",
+        "s-8de4162d46a9-c006:a039"
+      ],
+      "blocks": [
+        "b00228",
+        "b00229",
+        "b00230",
+        "b00233",
+        "b00234"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u009",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a007",
+        "s-8de4162d46a9-c006:a018",
+        "s-8de4162d46a9-c006:a024",
+        "s-8de4162d46a9-c006:a041"
+      ],
+      "blocks": [
+        "b00230",
+        "b00233"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u010",
+      "kind": "case",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a009",
+        "s-8de4162d46a9-c006:a014",
+        "s-8de4162d46a9-c006:a026"
+      ],
+      "blocks": [
+        "b00235",
+        "b00236",
+        "b00237"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u011",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a010",
+        "s-8de4162d46a9-c006:a027"
+      ],
+      "blocks": [
+        "b00237",
+        "b00238"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u012",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a011",
+        "s-8de4162d46a9-c006:a028",
+        "s-8de4162d46a9-c006:a032",
+        "s-8de4162d46a9-c006:a045"
+      ],
+      "blocks": [
+        "b00238",
+        "b00239"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u013",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a012",
+        "s-8de4162d46a9-c006:a013",
+        "s-8de4162d46a9-c006:a030",
+        "s-8de4162d46a9-c006:a033"
+      ],
+      "blocks": [
+        "b00239",
+        "b00240",
+        "b00241"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u014",
+      "kind": "method",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a031"
+      ],
+      "blocks": [
+        "b00238"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u015",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a019",
+        "s-8de4162d46a9-c006:a020",
+        "s-8de4162d46a9-c006:a036",
+        "s-8de4162d46a9-c006:a037"
+      ],
+      "blocks": [
+        "b00232",
+        "b00233"
+      ]
+    },
+    {
+      "id": "s-8de4162d46a9-c006:u016",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:a021",
+        "s-8de4162d46a9-c006:a038"
+      ],
+      "blocks": [
+        "b00231",
+        "b00232"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "逃避失败导致不自律的机制",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8de4162d46a9",
+          "blocks": [
+            "b00041",
+            "b00042"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "自律的具体范围",
+      "atom_ids": [
+        "s-8de4162d46a9-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8de4162d46a9",
+          "blocks": [
+            "b00018"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "definition"
+    },
+    {
+      "title": "小女孩目睹家暴导致大脑开放案例",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8de4162d46a9",
+          "blocks": [
+            "b00039",
+            "b00040"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "顶级大学学生因外驱力读书案例",
+      "atom_ids": [
+        "s-8de4162d46a9-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8de4162d46a9",
+          "blocks": [
+            "b00083",
+            "b00084"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "case"
+    },
+    {
+      "title": "作业是孩子自己的事，父母不陪做作业",
+      "atom_ids": [
+        "s-8de4162d46a9-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8de4162d46a9",
+          "blocks": [
+            "b00122",
+            "b00123"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "学员对学习动力与留白的提问",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:v2-n101"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8de4162d46a9",
+          "blocks": [
+            "b00142"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "participant_question"
+    },
+    {
+      "title": "学员对体质与内驱力关系的提问",
+      "atom_ids": [
+        "s-8de4162d46a9-c004:v2-n102"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8de4162d46a9",
+          "blocks": [
+            "b00143"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "participant_question"
+    },
+    {
+      "title": "学习兴趣与理想关联",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8de4162d46a9",
+          "blocks": [
+            "b00174"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    },
+    {
+      "title": "父母要把学习变得有趣",
+      "atom_ids": [
+        "s-8de4162d46a9-c005:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8de4162d46a9",
+          "blocks": [
+            "b00177"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "孩子未醒时不要推催，需要等待",
+      "atom_ids": [
+        "s-8de4162d46a9-c006:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-8de4162d46a9",
+          "blocks": [
+            "b00208"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "mechanism"
+    }
+  ]
+}

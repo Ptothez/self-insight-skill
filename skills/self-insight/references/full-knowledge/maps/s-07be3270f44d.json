@@ -1,0 +1,927 @@
+{
+  "concepts": [
+    {
+      "name": "课程定位：专注父母自身",
+      "definition": "本课程不是教父母如何教孩子的课程，而是专注父母自身的课程，主要目标是提升父母自身（打地基），而不是直接改变孩子（建造房子）。",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a001",
+        "s-07be3270f44d-c001:a012"
+      ]
+    },
+    {
+      "name": "养育比喻：父母是地基",
+      "definition": "如果把养育孩子比喻成建造一栋房子，那么父母成为优秀的父母就是房子的地基。地基打得越深，房子就会越稳地建造在上面。",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a002"
+      ]
+    },
+    {
+      "name": "学习期间将眼光注视自己",
+      "definition": "鼓励家长从今天开始把眼光看到自己身上，起码在一个月学习期间，不要去看孩子哪里不好，而是先注视自己的情绪、自己的婚姻。当自己开始改变，地基变得更稳时，孩子也会更稳。",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a003"
+      ]
+    },
+    {
+      "name": "深度思维模式：先问为什么再问怎么办",
+      "definition": "学习本课程时应采用深度思维模式，不要只想着怎么办，而要了解背后的底层逻辑，即为什么。先理解为什么，再思考怎么办。",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a004",
+        "s-07be3270f44d-c001:a013"
+      ]
+    },
+    {
+      "name": "课程学习需要主动思考而非被动完成",
+      "definition": "课程学习不应像完成一个项目那样上完即可，而应视为一个开始，引发兴趣和思考。需要持续处理信息，用意识去思考、问自己问题，否则课程作用不大。",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a005",
+        "s-07be3270f44d-c001:a014",
+        "s-07be3270f44d-c001:a016"
+      ]
+    },
+    {
+      "name": "利用碎片时间在不被打扰时听课",
+      "definition": "可以在做饭、洗澡、开车等碎片时间听课，但必须确保不被打扰，例如独自一人时。因为需要大量思考，可以随时停下来思考。",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a006",
+        "s-07be3270f44d-c001:a015"
+      ]
+    },
+    {
+      "name": "在生活实践中观察、思考和应用知识点",
+      "definition": "听完知识点后，应在生活中观察、思考和应用。可以停下来思考，将知识点与生活情境结合。",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a007"
+      ]
+    },
+    {
+      "name": "积极参与打卡和社群讨论",
+      "definition": "在打卡营中应多分享、与同学讨论案例、提问。越积极参与打卡，效果越好。同时要以身作则，像要求孩子发言一样自己多发言。",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a008"
+      ]
+    },
+    {
+      "name": "观察自身改变和孩子因自己改变而产生的改变",
+      "definition": "应观察自己的改变和进步，以及孩子因父母改变而折射出的改变。从自己、生活、周遭的人获取反馈信息，以确认方向是否正确。",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a009"
+      ]
+    },
+    {
+      "name": "反复听课并持续思考",
+      "definition": "课程可以反复听三遍，每次都能听出不同的东西。应持续思考，没事就琢磨，脑子要动起来。不动脑子在课程中学不到东西。",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a010"
+      ]
+    },
+    {
+      "name": "知道与行动的区别",
+      "definition": "很多父母知道父母需要学习、孩子不应凭本能抚养，但仅停留在想和相信，没有付出行动。付出行动学习做优秀父母是给孩子很大的祝福。",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a011"
+      ]
+    },
+    {
+      "name": "通过问题产生自己的问题和答案",
+      "definition": "希望通过课程中的问题和案例，学员可以开始自己产生问题来问自己，从而产生很多方法和途径。",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a017",
+        "s-07be3270f44d-c001:a019"
+      ]
+    },
+    {
+      "name": "在直播间进行知识点练习和分享",
+      "definition": "在直播间打卡训练营中，会针对容易被忽略的知识点进行练习，并邀请学员分享上课后的心得和改变。",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a018"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-07be3270f44d-c001:a001",
+      "target": "s-07be3270f44d-c001:a002",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "课程定位（专注父母自身）通过养育比喻（父母是地基）来支持，说明父母自身提升是基础。"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a001",
+      "target": "s-07be3270f44d-c001:a003",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "学习期间将眼光注视自己是实现课程定位（专注父母自身）的具体步骤，原方向反了，应为注视自己作为课程定位的步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了。"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a004",
+      "target": "s-07be3270f44d-c001:a013",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "深度思维模式（先问为什么）与带着错误期待学习会失望（应带为什么思想）相互支持，强调理解底层逻辑的重要性。"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a005",
+      "target": "s-07be3270f44d-c001:a014",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "课程学习需要主动思考，否则课程作用不大，两者都强调主动思考的必要性。"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a005",
+      "target": "s-07be3270f44d-c001:a016",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "主动思考是学习的关键，不动脑子学不到东西，进一步强调思考的重要性。"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a006",
+      "target": "s-07be3270f44d-c001:a015",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "利用碎片时间听课需要确保不被打扰，两者都强调听课环境的重要性。"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a003",
+      "target": "s-07be3270f44d-c001:a009",
+      "kind": "association",
+      "condition": "无",
+      "reason": "学习期间将眼光注视自己与观察自身改变和孩子因自己改变而产生的改变是学习过程中的连续步骤，顺序相关，但不构成 step_of 包含关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "将 step_of 改为 association。"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a004",
+      "target": "s-07be3270f44d-c001:a017",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "深度思维模式鼓励先问为什么，通过问题产生自己的问题和答案，是深度思维的具体应用。"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a008",
+      "target": "s-07be3270f44d-c001:a018",
+      "kind": "step_of",
+      "condition": "无",
+      "reason": "在直播间进行知识点练习和分享是积极参与打卡和社群讨论的具体活动，原方向反了，应为直播间活动作为社群讨论的步骤。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "方向反了。"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a010",
+      "target": "s-07be3270f44d-c001:a005",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "反复听课并持续思考是主动思考的一种方式，支持课程学习需要主动思考。"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a011",
+      "target": "s-07be3270f44d-c001:a003",
+      "kind": "supports",
+      "condition": "无",
+      "reason": "知道与行动的区别强调付出行动，为学习期间将眼光注视自己的具体行动提供了动机支持，而非前提条件。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "将 prerequisite 改为 supports。"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n001",
+      "target": "s-07be3270f44d-c001:a014",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源说课程烧脑需要主动思考，候选补充如果不主动思考则课程作用不大，说明了不这样做的后果，补足了源中未明说的部分。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a014",
+      "target": "s-07be3270f44d-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源说课程烧脑需要主动思考，候选补充如果不主动思考则课程作用不大，说明了不这样做的后果，补足了源中未明说的部分。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n001",
+      "target": "s-07be3270f44d-c001:a005",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源说需要主动用意识处理信息，候选详细阐述课程学习应视为开始而非结束，主动思考，补足了学习态度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a005",
+      "target": "s-07be3270f44d-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源说需要主动用意识处理信息，候选详细阐述课程学习应视为开始而非结束，主动思考，补足了学习态度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n001",
+      "target": "s-07be3270f44d-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源说课程烧脑，候选说明设立课程初衷，两者都是课程介绍，但源未提及初衷，关联为背景补充，不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n002",
+      "target": "s-07be3270f44d-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源说课程烧脑，候选说明设立课程初衷，两者都是课程介绍，但源未提及初衷，关联为背景补充，不确定。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n001",
+      "target": "s-07be3270f44d-c001:a017",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源要求问自己问题，候选具体说明通过课程案例产生自己的问题和答案，补足了操作方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a017",
+      "target": "s-07be3270f44d-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源要求问自己问题，候选具体说明通过课程案例产生自己的问题和答案，补足了操作方式。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n001",
+      "target": "s-07be3270f44d-c001:a016",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源强调主动思考，候选直接说不动脑子学不到东西，补充了不思考的后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a016",
+      "target": "s-07be3270f44d-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源强调主动思考，候选直接说不动脑子学不到东西，补充了不思考的后果。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n001",
+      "target": "s-07be3270f44d-c001:a019",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源要求问自己问题，候选鼓励自我提问并举例，补充了具体做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a019",
+      "target": "s-07be3270f44d-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源要求问自己问题，候选鼓励自我提问并举例，补充了具体做法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n001",
+      "target": "s-07be3270f44d-c001:a010",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源说课程烧脑需要持续思考，候选建议反复听课并持续思考，补充了具体学习方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a010",
+      "target": "s-07be3270f44d-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源说课程烧脑需要持续思考，候选建议反复听课并持续思考，补充了具体学习方法。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n001",
+      "target": "s-07be3270f44d-c001:a004",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源要求主动用意识处理信息，候选提供深度思维模式：先问为什么再问怎么办，补充了思考的步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a004",
+      "target": "s-07be3270f44d-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源要求主动用意识处理信息，候选提供深度思维模式：先问为什么再问怎么办，补充了思考的步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n001",
+      "target": "s-07be3270f44d-c001:a006",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源强调思考需要不被打扰，候选建议利用碎片时间在不被打扰时听课，补充了环境建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a006",
+      "target": "s-07be3270f44d-c001:v2-n001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源强调思考需要不被打扰，候选建议利用碎片时间在不被打扰时听课，补充了环境建议。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n001",
+      "target": "s-07be3270f44d-c001:a012",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源是课程特点之一，候选也是课程特点（不谈孩子），两者并列，但无直接补充关系，仅同属课程介绍。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a012",
+      "target": "s-07be3270f44d-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源是课程特点之一，候选也是课程特点（不谈孩子），两者并列，但无直接补充关系，仅同属课程介绍。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n001",
+      "target": "s-07be3270f44d-c001:a001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选说明课程专注父母，与源并列，仅同属课程介绍。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a001",
+      "target": "s-07be3270f44d-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选说明课程专注父母，与源并列，仅同属课程介绍。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n001",
+      "target": "s-07be3270f44d-c001:a011",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选关于知道与行动区别，与源中主动思考有联系但不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a011",
+      "target": "s-07be3270f44d-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选关于知道与行动区别，与源中主动思考有联系但不同，仅主题相关。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n002",
+      "target": "s-07be3270f44d-c001:a003",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源说明课程初衷是发现父母忽略自己，候选具体建议学习期间将眼光注视自己，补足了如何回应这一初衷的行动方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a003",
+      "target": "s-07be3270f44d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源说明课程初衷是发现父母忽略自己，候选具体建议学习期间将眼光注视自己，补足了如何回应这一初衷的行动方案。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n002",
+      "target": "s-07be3270f44d-c001:a012",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源说父母很少关注自己，候选说明课程不谈孩子，专注父母，补充了课程定位的特点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a012",
+      "target": "s-07be3270f44d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源说父母很少关注自己，候选说明课程不谈孩子，专注父母，补充了课程定位的特点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n002",
+      "target": "s-07be3270f44d-c001:a001",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "候选明确课程定位专注父母而非孩子，与源初衷一致，补充了目标的表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a001",
+      "target": "s-07be3270f44d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "候选明确课程定位专注父母而非孩子，与源初衷一致，补充了目标的表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n002",
+      "target": "s-07be3270f44d-c001:a009",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源希望父母关注自己，候选建议观察自身改变及孩子因此的改变，提供了自我关注后的反馈方法，补足了步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a009",
+      "target": "s-07be3270f44d-c001:v2-n002",
+      "kind": "complements",
+      "condition": "无特定条件",
+      "reason": "源希望父母关注自己，候选建议观察自身改变及孩子因此的改变，提供了自我关注后的反馈方法，补足了步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n002",
+      "target": "s-07be3270f44d-c001:a011",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源发现父母知道但不行动，候选强调知道与行动区别，关联到源中现象，但非直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a011",
+      "target": "s-07be3270f44d-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源发现父母知道但不行动，候选强调知道与行动区别，关联到源中现象，但非直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n002",
+      "target": "s-07be3270f44d-c001:a017",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选是课程方法，与源初衷相关，但未直接回应忽略自己的问题，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a017",
+      "target": "s-07be3270f44d-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选是课程方法，与源初衷相关，但未直接回应忽略自己的问题，关联较弱。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n002",
+      "target": "s-07be3270f44d-c001:a005",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选是课程学习要求，与源初衷并列，但无直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a005",
+      "target": "s-07be3270f44d-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选是课程学习要求，与源初衷并列，但无直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n002",
+      "target": "s-07be3270f44d-c001:a014",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "同上。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a014",
+      "target": "s-07be3270f44d-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "同上。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n002",
+      "target": "s-07be3270f44d-c001:a016",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "同上。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a016",
+      "target": "s-07be3270f44d-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "同上。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n002",
+      "target": "s-07be3270f44d-c001:a019",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "同上。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a019",
+      "target": "s-07be3270f44d-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "同上。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n002",
+      "target": "s-07be3270f44d-c001:a008",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选关于积极参与社群，与源初衷不直接相关，但同属课程活动。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:a008",
+      "target": "s-07be3270f44d-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "候选关于积极参与社群，与源初衷不直接相关，但同属课程活动。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n002",
+      "target": "s-07be3270f44d-c001:v2-n001",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源是课程初衷，候选是课程烧脑，两者并列课程特点，无直接补充。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-07be3270f44d-c001:v2-n001",
+      "target": "s-07be3270f44d-c001:v2-n002",
+      "kind": "association",
+      "condition": "无特定条件",
+      "reason": "源是课程初衷，候选是课程烧脑，两者并列课程特点，无直接补充。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-07be3270f44d-c001:a001",
+        "s-07be3270f44d-c001:a012"
+      ],
+      "reason": "两者都强调课程专注父母自身，不谈孩子，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-07be3270f44d-c001:a004",
+        "s-07be3270f44d-c001:a013"
+      ],
+      "reason": "两者都强调先问为什么再问怎么办，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-07be3270f44d-c001:a005",
+        "s-07be3270f44d-c001:a014",
+        "s-07be3270f44d-c001:a016"
+      ],
+      "reason": "三者都强调主动思考的重要性，否则课程作用不大，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-07be3270f44d-c001:a006",
+        "s-07be3270f44d-c001:a015"
+      ],
+      "reason": "两者都强调听课需确保不被打扰，内容实质等价。"
+    },
+    {
+      "atom_ids": [
+        "s-07be3270f44d-c001:a017",
+        "s-07be3270f44d-c001:a019"
+      ],
+      "reason": "两者都鼓励学员自我提问，内容实质等价。"
+    }
+  ],
+  "tensions": [],
+  "path": [
+    {
+      "name": "课程学习方法",
+      "steps": [
+        {
+          "action": "把眼光从孩子身上转移到自己身上",
+          "atom_ids": [
+            "s-07be3270f44d-c001:a003"
+          ],
+          "condition": "学习期间至少一个月"
+        },
+        {
+          "action": "采用深度思维模式，先问为什么再问怎么办",
+          "atom_ids": [
+            "s-07be3270f44d-c001:a004",
+            "s-07be3270f44d-c001:a013"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "主动思考，持续处理信息并问自己问题",
+          "atom_ids": [
+            "s-07be3270f44d-c001:a005",
+            "s-07be3270f44d-c001:a014",
+            "s-07be3270f44d-c001:a016"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "利用碎片时间在不被打扰时听课",
+          "atom_ids": [
+            "s-07be3270f44d-c001:a006",
+            "s-07be3270f44d-c001:a015"
+          ],
+          "condition": "确保不被打扰"
+        },
+        {
+          "action": "在生活实践中观察、思考和应用知识点",
+          "atom_ids": [
+            "s-07be3270f44d-c001:a007"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "积极参与打卡和社群讨论",
+          "atom_ids": [
+            "s-07be3270f44d-c001:a008",
+            "s-07be3270f44d-c001:a018"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "观察自身改变和孩子因自己改变而产生的改变",
+          "atom_ids": [
+            "s-07be3270f44d-c001:a009"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "反复听课并持续思考",
+          "atom_ids": [
+            "s-07be3270f44d-c001:a010"
+          ],
+          "condition": "无"
+        },
+        {
+          "action": "通过问题产生自己的问题和答案",
+          "atom_ids": [
+            "s-07be3270f44d-c001:a017",
+            "s-07be3270f44d-c001:a019"
+          ],
+          "condition": "无"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-07be3270f44d-c001:u1",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a011"
+      ],
+      "blocks": [
+        "b00002"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u2",
+      "kind": "metaphor",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a002"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u3",
+      "kind": "method",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a003"
+      ],
+      "blocks": [
+        "b00004",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u4",
+      "kind": "definition",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a001",
+        "s-07be3270f44d-c001:a012"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u5",
+      "kind": "method",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a004"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u6",
+      "kind": "condition",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a013"
+      ],
+      "blocks": [
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u7",
+      "kind": "condition",
+      "atom_ids": [
+        "s-07be3270f44d-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u8",
+      "kind": "condition",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a014"
+      ],
+      "blocks": [
+        "b00008"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u9",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a017"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u10",
+      "kind": "method",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a005"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u11",
+      "kind": "method",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a006",
+        "s-07be3270f44d-c001:a015"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u12",
+      "kind": "method",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a007",
+        "s-07be3270f44d-c001:a019"
+      ],
+      "blocks": [
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u13",
+      "kind": "method",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a008"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u14",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a018"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u15",
+      "kind": "method",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a009"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u16",
+      "kind": "method",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a010"
+      ],
+      "blocks": [
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u17",
+      "kind": "condition",
+      "atom_ids": [
+        "s-07be3270f44d-c001:a016"
+      ],
+      "blocks": [
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-07be3270f44d-c001:u18",
+      "kind": "background",
+      "atom_ids": [
+        "s-07be3270f44d-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00003"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "课程比较烧脑",
+      "atom_ids": [
+        "s-07be3270f44d-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-07be3270f44d",
+          "blocks": [
+            "b00007",
+            "b00008"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "characteristic"
+    },
+    {
+      "title": "设立课程的初衷",
+      "atom_ids": [
+        "s-07be3270f44d-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-07be3270f44d",
+          "blocks": [
+            "b00003"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "background"
+    }
+  ]
+}

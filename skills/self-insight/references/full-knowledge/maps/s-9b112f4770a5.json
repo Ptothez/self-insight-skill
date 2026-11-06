@@ -1,0 +1,624 @@
+{
+  "concepts": [
+    {
+      "name": "杏仁核",
+      "definition": "大脑中负责情绪反应和战斗准备的区域，被刺激时会导致孩子狂躁、抓狂。",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a001",
+        "s-9b112f4770a5-c001:a002",
+        "s-9b112f4770a5-c001:a010",
+        "s-9b112f4770a5-c001:a013"
+      ]
+    },
+    {
+      "name": "前额叶",
+      "definition": "大脑中负责自我控制、计划、判断等高级功能的区域，刺激越多越发达。",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a014",
+        "s-9b112f4770a5-c001:a015",
+        "s-9b112f4770a5-c001:a016",
+        "s-9b112f4770a5-c001:a017",
+        "s-9b112f4770a5-c001:a020",
+        "s-9b112f4770a5-c001:a021"
+      ]
+    },
+    {
+      "name": "安全稳定的家庭环境",
+      "definition": "孩子不会突然遭到袭击、不会因成绩不好被暴打或羞辱、父母不会拿刀砍人或打架、不会受到侮辱的家庭环境。",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a003"
+      ]
+    },
+    {
+      "name": "有规律的家庭环境",
+      "definition": "放学上学接送的人一致、准时、大部分情况可预测的家庭环境。",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a006"
+      ]
+    },
+    {
+      "name": "情绪安全",
+      "definition": "孩子发脾气时，父母应扮演安慰、安抚、陪伴的角色，而不是愤怒、粗暴打断或伤害孩子。",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a009"
+      ]
+    },
+    {
+      "name": "诱因",
+      "definition": "导致孩子杏仁核被刺激的因素，如饥饿、困倦、没睡够、没喝水等。",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a013"
+      ]
+    },
+    {
+      "name": "情绪词汇",
+      "definition": "描述情绪的词汇，如愤怒、嫉妒、悲伤，储存在左脑，调动左脑有助于平息情绪。",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a022"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-9b112f4770a5-c001:a001",
+      "target": "s-9b112f4770a5-c001:a002",
+      "kind": "causes",
+      "condition": "杏仁核被刺激导致孩子情绪抓狂，因此需要减少刺激杏仁核。",
+      "reason": "a001说明杏仁核被刺激导致抓狂，a002提供减少刺激的方法，构成因果关系。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a002",
+      "target": "s-9b112f4770a5-c001:a003",
+      "kind": "step_of",
+      "condition": "a003是a002中第一个方法的具体解释。",
+      "reason": "a002列出四个方法，a003详细说明安全稳定的家庭环境。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a002",
+      "target": "s-9b112f4770a5-c001:a006",
+      "kind": "step_of",
+      "condition": "a006是a002中第二个方法的具体解释。",
+      "reason": "a002列出四个方法，a006详细说明有规律的家庭环境。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a002",
+      "target": "s-9b112f4770a5-c001:a009",
+      "kind": "association",
+      "condition": "减少刺激杏仁核的方法列表与情绪安全",
+      "reason": "减少刺激孩子杏仁核的四个方法与情绪安全是整体与部分关系，但原方向为整体指向部分，不符合 step_of 的方向，实际应为情绪安全是四个方法中的一个步骤，本边仅保留关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原方向反了，实际应为情绪安全 step_of 减少刺激杏仁核的四个方法；已改为 association。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a002",
+      "target": "s-9b112f4770a5-c001:a013",
+      "kind": "step_of",
+      "condition": "a013是a002中第四个方法的具体解释。",
+      "reason": "a002列出四个方法，a013详细说明识别并避免诱因。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a003",
+      "target": "s-9b112f4770a5-c001:a004",
+      "kind": "example_of",
+      "condition": "a004是a003中不安全家庭环境的案例。",
+      "reason": "a003定义安全稳定环境，a004提供父母长期打架导致孩子焦虑的案例，说明不安全环境的后果。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a003",
+      "target": "s-9b112f4770a5-c001:a005",
+      "kind": "supports",
+      "condition": "a005补充说明偶尔冲突不会破坏安全感，只有长期不安全才会刺激杏仁核。",
+      "reason": "a005对a003的条件进行限定，说明频率的重要性。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a006",
+      "target": "s-9b112f4770a5-c001:a008",
+      "kind": "example_of",
+      "condition": "a008是a006中接送人不一致导致孩子不安的案例。",
+      "reason": "a006定义有规律环境，a008提供接送人不一致导致孩子焦虑的案例。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a006",
+      "target": "s-9b112f4770a5-c001:a007",
+      "kind": "supports",
+      "condition": "a007补充说明随性与规律需平衡。",
+      "reason": "a007对a006进行补充，说明在规律基础上可以适当随性。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a009",
+      "target": "s-9b112f4770a5-c001:a010",
+      "kind": "contrasts",
+      "condition": "打骂哭闹孩子刺激杏仁核与情绪安全中安抚要求形成对比",
+      "reason": "情绪安全概念提出孩子发脾气时父母应安慰、安抚、陪伴，而非愤怒粗暴；打骂哭闹孩子会刺激杏仁核描述的打骂做法及其负面效果，两者在应对情绪上形成对比。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a010",
+      "target": "s-9b112f4770a5-c001:a011",
+      "kind": "causes",
+      "condition": "打骂导致孩子停止哭泣是大脑失调的危险信号。",
+      "reason": "a010说明打骂刺激杏仁核，a011进一步说明打骂后停止哭泣是大脑失调，构成因果。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a011",
+      "target": "s-9b112f4770a5-c001:a012",
+      "kind": "example_of",
+      "condition": "a012是a011中大脑失调导致长期代价的成人案例。",
+      "reason": "a011说明大脑失调会付出惨痛代价，a012提供成人案例说明代价。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a013",
+      "target": "s-9b112f4770a5-c001:a002",
+      "kind": "step_of",
+      "condition": "a013是a002中第四个方法的具体解释。",
+      "reason": "a002列出四个方法，a013详细说明识别并避免诱因。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a014",
+      "target": "s-9b112f4770a5-c001:a015",
+      "kind": "supports",
+      "condition": "提供刺激前额叶的方法之一：玩游戏",
+      "reason": "前额叶被刺激越多越发达原理为玩游戏刺激前额叶的方法提供了理论依据，支持该方法有助于提升自我控制能力的论述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a014",
+      "target": "s-9b112f4770a5-c001:a016",
+      "kind": "supports",
+      "condition": "提供刺激前额叶的方法之一：做饭",
+      "reason": "前额叶被刺激越多越发达原理为做饭、做家务刺激大脑多个区域的方法提供了理论依据，支持该方法有助于提升自我控制能力的论述。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a014",
+      "target": "s-9b112f4770a5-c001:a017",
+      "kind": "supports",
+      "condition": "a017提供刺激前额叶的方法之一：充足睡眠。",
+      "reason": "a014说明前额叶刺激越多越发达，a017提供具体方法。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a014",
+      "target": "s-9b112f4770a5-c001:a020",
+      "kind": "supports",
+      "condition": "a020提供刺激前额叶的方法之一：身体接触。",
+      "reason": "a014说明前额叶刺激越多越发达，a020提供具体方法。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a014",
+      "target": "s-9b112f4770a5-c001:a021",
+      "kind": "supports",
+      "condition": "a021提供刺激前额叶的方法之一：运动。",
+      "reason": "a014说明前额叶刺激越多越发达，a021提供具体方法。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a017",
+      "target": "s-9b112f4770a5-c001:a018",
+      "kind": "example_of",
+      "condition": "a018是讲师因孩子晚睡而焦虑的案例，说明睡眠重要性。",
+      "reason": "a017说明睡眠对大脑发育重要，a018提供讲师焦虑案例。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a017",
+      "target": "s-9b112f4770a5-c001:a019",
+      "kind": "supports",
+      "condition": "a019说明作业多导致晚睡的现实困难，但父母应尽可能保证睡眠。",
+      "reason": "a017强调睡眠重要性，a019提供现实挑战和应对。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a022",
+      "target": "s-9b112f4770a5-c001:a001",
+      "kind": "contrasts",
+      "condition": "a022说明情绪词汇调动左脑平息情绪，与a001中杏仁核导致抓狂形成对比。",
+      "reason": "a001说明杏仁核导致抓狂，a022提供通过左脑平息情绪的方法，形成对比。"
+    },
+    {
+      "source": "s-9b112f4770a5-c001:a023",
+      "target": "s-9b112f4770a5-c001:a002",
+      "kind": "supports",
+      "condition": "a023说明影响生理发育需要长期坚持，a002提供减少刺激杏仁核的方法。",
+      "reason": "a023强调长期坚持，a002提供具体方法，说明方法需要长期实施。"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "当孩子情绪抓狂时，需要减少刺激杏仁核，这涉及家庭环境、规律、情绪安全和诱因管理。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a001",
+        "s-9b112f4770a5-c001:a002",
+        "s-9b112f4770a5-c001:a003",
+        "s-9b112f4770a5-c001:a006",
+        "s-9b112f4770a5-c001:a009",
+        "s-9b112f4770a5-c001:a013"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "界限",
+      "to": "理解情绪",
+      "when": "父母提供情绪安全，在孩子发脾气时安抚，避免刺激杏仁核。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a009",
+        "s-9b112f4770a5-c001:a010",
+        "s-9b112f4770a5-c001:a011"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a005",
+        "s-9b112f4770a5-c001:a003"
+      ],
+      "description": "a003强调安全稳定环境的重要性，a005说明偶尔冲突不会破坏安全感，但未明确偶尔冲突的具体频率或程度，可能导致理解不一致。",
+      "needed_evidence": "需要明确偶尔冲突的定义和界限，以及不同年龄孩子的承受能力。"
+    },
+    {
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a019",
+        "s-9b112f4770a5-c001:a017"
+      ],
+      "description": "a017强调充足睡眠对大脑发育至关重要，a019指出作业多导致晚睡的现实困难，两者存在矛盾：理想睡眠与现实压力冲突。",
+      "needed_evidence": "需要提供在作业多的情况下保证睡眠的具体策略或优先级建议。"
+    }
+  ],
+  "path": [
+    {
+      "name": "减少刺激杏仁核的方法",
+      "steps": [
+        {
+          "action": "提供安全稳定的家庭环境",
+          "atom_ids": [
+            "s-9b112f4770a5-c001:a003"
+          ],
+          "condition": "避免暴力、侮辱、羞辱等。"
+        },
+        {
+          "action": "提供有规律的家庭环境",
+          "atom_ids": [
+            "s-9b112f4770a5-c001:a006"
+          ],
+          "condition": "接送人一致、准时、可预测。"
+        },
+        {
+          "action": "提供情绪安全",
+          "atom_ids": [
+            "s-9b112f4770a5-c001:a009"
+          ],
+          "condition": "孩子发脾气时给予安慰、安抚、陪伴。"
+        },
+        {
+          "action": "识别并避免诱因",
+          "atom_ids": [
+            "s-9b112f4770a5-c001:a013"
+          ],
+          "condition": "如饥饿、困倦等，提前准备或调整。"
+        }
+      ]
+    },
+    {
+      "name": "刺激前额叶的方法",
+      "steps": [
+        {
+          "action": "玩游戏",
+          "atom_ids": [
+            "s-9b112f4770a5-c001:a015"
+          ],
+          "condition": "填字游戏、记忆游戏、乐高游戏、拼字游戏等。"
+        },
+        {
+          "action": "做饭",
+          "atom_ids": [
+            "s-9b112f4770a5-c001:a016"
+          ],
+          "condition": "手眼协调、注意力集中、多任务处理等。"
+        },
+        {
+          "action": "充足睡眠",
+          "atom_ids": [
+            "s-9b112f4770a5-c001:a017"
+          ],
+          "condition": "孩子九点半进入睡眠状态。"
+        },
+        {
+          "action": "身体接触",
+          "atom_ids": [
+            "s-9b112f4770a5-c001:a020"
+          ],
+          "condition": "拥抱、抚摸，最好摸到皮肤。"
+        },
+        {
+          "action": "运动",
+          "atom_ids": [
+            "s-9b112f4770a5-c001:a021"
+          ],
+          "condition": "打球、羽毛球、乒乓球等。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "point_units": [
+    {
+      "id": "s-9b112f4770a5-c001:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a001"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u002",
+      "kind": "method",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a002"
+      ],
+      "blocks": [
+        "b00002",
+        "b00003",
+        "b00008",
+        "b00009",
+        "b00014",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a003"
+      ],
+      "blocks": [
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u004",
+      "kind": "case",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a004"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a005"
+      ],
+      "blocks": [
+        "b00008",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a006"
+      ],
+      "blocks": [
+        "b00009"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a007"
+      ],
+      "blocks": [
+        "b00009",
+        "b00010",
+        "b00011"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u008",
+      "kind": "case",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a008"
+      ],
+      "blocks": [
+        "b00011",
+        "b00012",
+        "b00013"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a009"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u010",
+      "kind": "anti-pattern",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a010"
+      ],
+      "blocks": [
+        "b00015",
+        "b00016"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a011"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u012",
+      "kind": "case",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a012"
+      ],
+      "blocks": [
+        "b00018",
+        "b00019"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u013",
+      "kind": "method",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a013"
+      ],
+      "blocks": [
+        "b00019",
+        "b00020",
+        "b00021"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u014",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a014"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u015",
+      "kind": "method",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a015"
+      ],
+      "blocks": [
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u016",
+      "kind": "method",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a016"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025",
+        "b00026"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u017",
+      "kind": "method",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a017"
+      ],
+      "blocks": [
+        "b00026",
+        "b00027"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u018",
+      "kind": "case",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a018"
+      ],
+      "blocks": [
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a019"
+      ],
+      "blocks": [
+        "b00029",
+        "b00030"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u020",
+      "kind": "method",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a020"
+      ],
+      "blocks": [
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u021",
+      "kind": "method",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a021"
+      ],
+      "blocks": [
+        "b00032",
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a022"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-9b112f4770a5-c001:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-9b112f4770a5-c001:a023"
+      ],
+      "blocks": [
+        "b00036",
+        "b00037"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained."
+}

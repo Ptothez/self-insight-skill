@@ -1,0 +1,2609 @@
+{
+  "concepts": [
+    {
+      "name": "焦虑情绪",
+      "definition": "焦虑首先是一种情绪，适度焦虑有助于发挥；焦虑管理的目标不是消除焦虑，而是控制在合理范围。",
+      "atom_ids": [
+        "s-860fef907c60-c001:a001",
+        "s-860fef907c60-c001:a002"
+      ]
+    },
+    {
+      "name": "情绪轮盘",
+      "definition": "用于识别情绪的工具，分三层：基本情绪、具体解释情绪、深层潜意识情绪。",
+      "atom_ids": [
+        "s-860fef907c60-c001:a003",
+        "s-860fef907c60-c001:a004"
+      ]
+    },
+    {
+      "name": "情绪指认方法",
+      "definition": "时常指认情绪，至少到第二、三层，尤其在脾气暴躁或失眠时。",
+      "atom_ids": [
+        "s-860fef907c60-c001:a005"
+      ]
+    },
+    {
+      "name": "焦虑源于情绪而非事件",
+      "definition": "焦虑由对事件的反应和背后情绪引起，而非事件本身。",
+      "atom_ids": [
+        "s-860fef907c60-c001:a006",
+        "s-860fef907c60-c001:a007"
+      ]
+    },
+    {
+      "name": "逃避焦虑的后果",
+      "definition": "认为熬过事件焦虑就消失而不解决根源，会陷入绝望。",
+      "atom_ids": [
+        "s-860fef907c60-c001:a008",
+        "s-860fef907c60-c001:a009"
+      ]
+    },
+    {
+      "name": "识别焦虑背后情绪练习",
+      "definition": "想最焦虑的事，问为什么焦虑，在情绪轮盘第二三圈指认。",
+      "atom_ids": [
+        "s-860fef907c60-c001:a010"
+      ]
+    },
+    {
+      "name": "焦虑背后的常见情绪",
+      "definition": "焦虑背后可能是孤独、羞耻、内疚、害怕让人失望等。",
+      "atom_ids": [
+        "s-860fef907c60-c001:a011",
+        "s-860fef907c60-c001:a012"
+      ]
+    },
+    {
+      "name": "情绪界限",
+      "definition": "每个人对自己的情绪负责，不对别人的情绪负责；非故意伤害不需负责。",
+      "atom_ids": [
+        "s-860fef907c60-c001:a013",
+        "s-860fef907c60-c001:a014"
+      ]
+    },
+    {
+      "name": "害怕让人失望的根源",
+      "definition": "害怕别人失望的焦虑根源可能是觉得自己没有价值。",
+      "atom_ids": [
+        "s-860fef907c60-c001:a015"
+      ]
+    },
+    {
+      "name": "压力与焦虑的区别",
+      "definition": "压力由具体困难引起，解决后消失；焦虑症持续超六个月且可能全面崩溃。",
+      "atom_ids": [
+        "s-860fef907c60-c001:a016"
+      ]
+    },
+    {
+      "name": "焦虑症判断标准",
+      "definition": "焦虑感持续超六个月，且因一件事导致全面崩溃。",
+      "atom_ids": [
+        "s-860fef907c60-c001:a017",
+        "s-860fef907c60-c002:a001",
+        "s-860fef907c60-c002:a002"
+      ]
+    },
+    {
+      "name": "焦虑症全面崩溃表现",
+      "definition": "因一个诱因全面焦虑，影响日常生活。",
+      "atom_ids": [
+        "s-860fef907c60-c001:a018"
+      ]
+    },
+    {
+      "name": "焦虑的隐蔽性",
+      "definition": "很多人不知道自己焦虑，直到严重或引发其他问题才意识到。",
+      "atom_ids": [
+        "s-860fef907c60-c001:r001"
+      ]
+    },
+    {
+      "name": "恐慌发作定义",
+      "definition": "突然出现的强烈身体反应，包括晕倒、冒冷汗、心跳加速等。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a003"
+      ]
+    },
+    {
+      "name": "焦虑症需要专业心理辅导",
+      "definition": "焦虑症需专业心理辅导解决，而非度假等方式。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a004"
+      ]
+    },
+    {
+      "name": "焦虑是对失控的恐惧",
+      "definition": "焦虑本质上是对失控的恐惧，担忧提供假象控制感。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a005"
+      ]
+    },
+    {
+      "name": "焦虑的谎言：担忧可以改变状况",
+      "definition": "焦虑让人相信担忧可以改变状况，但只是假象控制。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a006"
+      ]
+    },
+    {
+      "name": "焦虑的谎言：万一思维",
+      "definition": "对低概率危险事件的想象，导致过度担忧。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a007"
+      ]
+    },
+    {
+      "name": "焦虑的谎言：你不够好",
+      "definition": "让人觉得自己不够好，不配争取想要的东西。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a008"
+      ]
+    },
+    {
+      "name": "焦虑的谎言：你很笨",
+      "definition": "让人觉得自己很笨，做不好事情，应该害怕恐慌发作。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a009"
+      ]
+    },
+    {
+      "name": "恐慌发作不会致死",
+      "definition": "恐慌发作不会直接导致死亡，但可能诱发心脏病或高血压。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a010"
+      ]
+    },
+    {
+      "name": "讲师个人恐慌发作经历",
+      "definition": "讲师20多年前经历恐慌发作，学习心理学后通过放松应对，逐渐好转。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a011"
+      ]
+    },
+    {
+      "name": "恐慌发作的触发机制",
+      "definition": "恐慌发作不一定由具体事件触发，长期压抑焦虑可能随时发作。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a012"
+      ]
+    },
+    {
+      "name": "恐慌发作是身体的保护机制",
+      "definition": "恐慌发作是身体保护情绪的方式，情绪过度时身体关闭或极端反应。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a013"
+      ]
+    },
+    {
+      "name": "焦虑的谎言：得不到想要的",
+      "definition": "让人相信自己得不到想要的，将万一放大为肯定。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a014"
+      ]
+    },
+    {
+      "name": "识别焦虑背后的情绪",
+      "definition": "探索焦虑背后的情绪，而不是仅消除焦虑。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a015"
+      ]
+    },
+    {
+      "name": "与父母沟通焦虑",
+      "definition": "如果焦虑来源于父母，让父母听课程，然后沟通焦虑背后的情绪。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a016"
+      ]
+    },
+    {
+      "name": "父母言行对焦虑的影响",
+      "definition": "父母日常话语如“努力就能成功”“你很聪明”可能让孩子产生焦虑；父母辛苦付出可能让孩子内疚。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a017"
+      ]
+    },
+    {
+      "name": "焦虑情绪探索练习",
+      "definition": "找最焦虑且无法控制的事，思考背后情绪，叫父母进来，告诉他们真正情绪和如何帮助。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a018"
+      ]
+    },
+    {
+      "name": "示范案例：考试焦虑背后的情绪",
+      "definition": "考不进前20名，背后情绪包括羞耻、挫败、愤怒、害怕、孤独、无助。",
+      "atom_ids": [
+        "s-860fef907c60-c002:a019"
+      ]
+    },
+    {
+      "name": "焦虑症患者因害怕坐飞机而放弃旅行",
+      "definition": "焦虑症患者在机场恐慌发作，全家人放弃旅行。",
+      "atom_ids": [
+        "s-860fef907c60-c002:r001"
+      ]
+    },
+    {
+      "name": "焦虑的谎言：你应该害怕恐慌发作",
+      "definition": "让人相信应该害怕恐慌发作，但恐慌发作不会致死。",
+      "atom_ids": [
+        "s-860fef907c60-c002:r002"
+      ]
+    },
+    {
+      "name": "应对恐慌发作的放松方法",
+      "definition": "识别征兆，告诉自己放松，坐下，接受可能晕倒，等待恢复。",
+      "atom_ids": [
+        "s-860fef907c60-c002:r003"
+      ]
+    },
+    {
+      "name": "身体反应是帮助而非伤害",
+      "definition": "身体反应都在帮助人，恐慌发作是处理长期压抑焦虑的极端方式。",
+      "atom_ids": [
+        "s-860fef907c60-c002:r004"
+      ]
+    },
+    {
+      "name": "焦虑水平受认知影响",
+      "definition": "焦虑水平可通过量表衡量，认知扭曲会放大焦虑。",
+      "atom_ids": [
+        "s-860fef907c60-c002:r005"
+      ]
+    },
+    {
+      "name": "探索焦虑根源的建议",
+      "definition": "深入探索情绪和信念，而不是仅消除焦虑。",
+      "atom_ids": [
+        "s-860fef907c60-c002:r006"
+      ]
+    },
+    {
+      "name": "与父母沟通焦虑的具体话术",
+      "definition": "告诉父母：“我觉得我的焦虑是因为我怕你对我失望，爸爸或妈妈，因为你很想我考进北京四中。”",
+      "atom_ids": [
+        "s-860fef907c60-c002:r007"
+      ]
+    },
+    {
+      "name": "焦虑症诱因示例：被受欢迎同学邀请参加生日会",
+      "definition": "被受欢迎同学邀请参加生日会，反复思考为什么，导致全面焦虑。",
+      "atom_ids": [
+        "s-860fef907c60-c002:xe001"
+      ]
+    },
+    {
+      "name": "青少年因篮球被禁和父母学霸背景产生焦虑及背后情绪",
+      "definition": "青少年因篮球被禁和父母学霸背景焦虑，背后情绪包括愤怒、害怕、孤独、无助、羞耻、内疚。",
+      "atom_ids": [
+        "s-860fef907c60-c003:a001"
+      ]
+    },
+    {
+      "name": "焦虑背后存在多层情绪",
+      "definition": "焦虑背后隐藏其他情绪，如愤怒、害怕、孤独、无助、羞耻、内疚。",
+      "atom_ids": [
+        "s-860fef907c60-c003:a002"
+      ]
+    },
+    {
+      "name": "向父母表达焦虑及需求的方法",
+      "definition": "说明焦虑事情和感受，解释原因，提出具体需求，要求父母先听不说。",
+      "atom_ids": [
+        "s-860fef907c60-c003:a003"
+      ]
+    },
+    {
+      "name": "练习：找到焦虑背后的情绪并与父母沟通",
+      "definition": "找到焦虑情绪，分析背后情绪，与父母沟通表达需求。",
+      "atom_ids": [
+        "s-860fef907c60-c003:a004"
+      ]
+    },
+    {
+      "name": "美国青少年通过向母亲表达焦虑需求缓解情绪",
+      "definition": "美国青少年向母亲表达需要知道即使考不上仍是骄傲，母亲回应后情绪释放。",
+      "atom_ids": [
+        "s-860fef907c60-c003:a005"
+      ]
+    },
+    {
+      "name": "与父母沟通情绪有助于养成习惯并促进理解",
+      "definition": "分享情绪、沟通需求可养成习惯，父母出发点希望帮助，鼓励主动沟通。",
+      "atom_ids": [
+        "s-860fef907c60-c003:a006"
+      ]
+    },
+    {
+      "name": "情绪界限：为自己的情绪负责，而非要求父母改变",
+      "definition": "个人必须对自己的情绪负责，寻求帮助时表达需要帮助处理情绪，而非要求父母负责。",
+      "atom_ids": [
+        "s-860fef907c60-c003:a007"
+      ]
+    },
+    {
+      "name": "14岁焦虑抑郁女孩在危机中使用身体聚焦训练",
+      "definition": "14岁女孩焦虑抑郁危机中，咨询师使用身体聚焦训练迅速控制焦虑。",
+      "atom_ids": [
+        "s-860fef907c60-c003:a008"
+      ]
+    },
+    {
+      "name": "身体聚焦训练方法",
+      "definition": "坐好双脚踏实，放松呼吸，手放腿上敲打，闭眼专注，感受，手打圈，脚打地，保持韵律。",
+      "atom_ids": [
+        "s-860fef907c60-c003:a009"
+      ]
+    },
+    {
+      "name": "身体聚焦训练缓解焦虑的机制",
+      "definition": "注意力集中在身体感觉，大脑释放愉快荷尔蒙，降低焦虑。",
+      "atom_ids": [
+        "s-860fef907c60-c003:a010"
+      ]
+    },
+    {
+      "name": "练习的重要性：像吃药一样坚持练习",
+      "definition": "学习后必须坚持练习，否则像拿药不吃，病不会好。",
+      "atom_ids": [
+        "s-860fef907c60-c003:a011"
+      ]
+    },
+    {
+      "name": "焦虑管理课程结构：身体、情绪、认知三阶段",
+      "definition": "第一天身体，第二天情绪，第三天认知，需统一练习。",
+      "atom_ids": [
+        "s-860fef907c60-c003:a012"
+      ]
+    },
+    {
+      "name": "身体聚焦训练中节奏的必要性",
+      "definition": "手敲腿和脚打地必须保持节奏或韵律，节奏是训练有效的必要条件。",
+      "atom_ids": [
+        "s-860fef907c60-c003:r001"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "s-860fef907c60-c001:a001",
+      "target": "s-860fef907c60-c001:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00001 说明焦虑是情绪且适度有益，k00002 据此提出管理目标不是消除而是控制，后者以前者为基础。"
+    },
+    {
+      "source": "s-860fef907c60-c001:a003",
+      "target": "s-860fef907c60-c001:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00003 介绍情绪轮盘三层结构，k00004 重复并解释情绪层次，两者内容一致，后者可视为对前者的支持。"
+    },
+    {
+      "source": "s-860fef907c60-c001:a003",
+      "target": "s-860fef907c60-c001:a005",
+      "kind": "prerequisite",
+      "condition": "使用情绪轮盘作为工具",
+      "reason": "情绪轮盘是指认情绪的方法所依赖的工具，指认方法要求使用情绪轮盘第二圈和第三圈，因此情绪轮盘是指认方法的前提。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind applies_to 调整为 prerequisite。"
+    },
+    {
+      "source": "s-860fef907c60-c001:a006",
+      "target": "s-860fef907c60-c001:a007",
+      "kind": "association",
+      "condition": "案例说明观点",
+      "reason": "学霸丈夫不焦虑的案例是焦虑源于情绪而非事件这一概念的具体例证，但原方向反了，应为例证关系，此处记为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "实际应为案例 example_of 概念。"
+    },
+    {
+      "source": "s-860fef907c60-c001:a006",
+      "target": "s-860fef907c60-c001:a008",
+      "kind": "supports",
+      "condition": "若认为熬过事件焦虑就消失而不解决根源",
+      "reason": "焦虑源于情绪而非事件这一命题支持逃避焦虑的后果：若不解决情绪根源而只等待事件结束，焦虑不会消失甚至导致绝望。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原 kind causes 调整为 supports。"
+    },
+    {
+      "source": "s-860fef907c60-c001:a008",
+      "target": "s-860fef907c60-c001:a009",
+      "kind": "association",
+      "condition": "案例说明后果",
+      "reason": "大学教学楼自杀案例是逃避焦虑的后果的具体例证，但原方向反了，此处记为关联。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-860fef907c60-c001:a005",
+      "target": "s-860fef907c60-c001:a010",
+      "kind": "association",
+      "condition": "练习是方法的具体应用",
+      "reason": "识别焦虑背后的情绪练习是指认情绪的方法的一个具体练习，练习中包含指认步骤，但原 step_of 方向不成立，应为练习例证方法。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "实际应为 a010 example_of a005，因方向限制记为关联。"
+    },
+    {
+      "source": "s-860fef907c60-c001:a010",
+      "target": "s-860fef907c60-c001:a011",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00011 列举焦虑背后的常见情绪，为 k00010 练习中指认情绪提供具体内容。"
+    },
+    {
+      "source": "s-860fef907c60-c001:a011",
+      "target": "s-860fef907c60-c001:a012",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00012 讲师数学焦虑案例中羞愧情绪是 k00011 所列常见情绪之一。"
+    },
+    {
+      "source": "s-860fef907c60-c001:a013",
+      "target": "s-860fef907c60-c001:a014",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00014 讲师与孩子的案例展示了 k00013 情绪界限原则的应用。"
+    },
+    {
+      "source": "s-860fef907c60-c001:a011",
+      "target": "s-860fef907c60-c001:a015",
+      "kind": "causes",
+      "condition": "当焦虑背后是害怕让人失望时",
+      "reason": "k00011 提到害怕让人失望是焦虑背后情绪之一，k00015 解释其根源是觉得自己没有价值，因此可视为因果关系。"
+    },
+    {
+      "source": "s-860fef907c60-c001:a016",
+      "target": "s-860fef907c60-c001:a017",
+      "kind": "supports",
+      "condition": "区别包含判断标准",
+      "reason": "压力与焦虑的区别中关于焦虑症持续超过六个月、因一件事全面崩溃的描述支持焦虑症的判断标准。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-860fef907c60-c001:a017",
+      "target": "s-860fef907c60-c001:a018",
+      "kind": "association",
+      "condition": "表现例证标准",
+      "reason": "焦虑症全面崩溃的表现是焦虑症判断标准中“因一件事情导致全面崩溃”的具体例证，但原方向反了。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-860fef907c60-c001:r001",
+      "target": "s-860fef907c60-c001:a017",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00019 说明焦虑隐蔽性，导致很多人不知道自己焦虑，因此需要 k00017 的标准来判断。"
+    },
+    {
+      "source": "s-860fef907c60-c001:a017",
+      "target": "s-860fef907c60-c002:a001",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00020 是焦虑症定义的重复，与 k00017 标准一致。"
+    },
+    {
+      "source": "s-860fef907c60-c002:a001",
+      "target": "s-860fef907c60-c002:a002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00021 强调焦虑症持续性，是 k00020 定义的一部分。"
+    },
+    {
+      "source": "s-860fef907c60-c002:a003",
+      "target": "s-860fef907c60-c002:a010",
+      "kind": "contrasts",
+      "condition": null,
+      "reason": "k00022 描述恐慌发作的强烈身体反应，k00029 澄清恐慌发作不会致死，两者形成对比，纠正可能误解。"
+    },
+    {
+      "source": "s-860fef907c60-c002:a004",
+      "target": "s-860fef907c60-c001:a017",
+      "kind": "applies_to",
+      "condition": null,
+      "reason": "k00023 说明焦虑症需要专业心理辅导，而 k00017 是焦虑症判断标准，因此治疗建议适用于符合标准的焦虑症。"
+    },
+    {
+      "source": "s-860fef907c60-c002:a005",
+      "target": "s-860fef907c60-c002:a006",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00024 提出焦虑是对失控的恐惧，担忧提供假象控制，k00025 具体化为第一个谎言，是前者的延伸。"
+    },
+    {
+      "source": "s-860fef907c60-c002:a005",
+      "target": "s-860fef907c60-c002:a007",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00026 万一思维也是失控恐惧的表现，与 k00024 相关。"
+    },
+    {
+      "source": "s-860fef907c60-c002:a005",
+      "target": "s-860fef907c60-c002:a008",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00027 你不够好的谎言与失控恐惧相关，觉得自己不够好导致无法掌控。"
+    },
+    {
+      "source": "s-860fef907c60-c002:a005",
+      "target": "s-860fef907c60-c002:a009",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00028 你很笨的谎言也是失控恐惧的表现。"
+    },
+    {
+      "source": "s-860fef907c60-c002:a010",
+      "target": "s-860fef907c60-c002:r002",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00029 说明恐慌发作不会致死，k00040 指出焦虑谎言让人害怕恐慌发作，因此 k00029 是反驳该谎言的依据。"
+    },
+    {
+      "source": "s-860fef907c60-c002:a011",
+      "target": "s-860fef907c60-c002:r003",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00030 讲师个人经历中通过放松应对恐慌发作，k00041 是具体放松方法，前者是后者的例证。"
+    },
+    {
+      "source": "s-860fef907c60-c002:a012",
+      "target": "s-860fef907c60-c002:a013",
+      "kind": "association",
+      "condition": "共同解释恐慌发作",
+      "reason": "恐慌发作的触发机制描述发作情境，恐慌发作是身体的保护机制解释其功能，两者并列而非支持关系。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-860fef907c60-c002:a007",
+      "target": "s-860fef907c60-c002:a014",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00033 得不到想要的是万一思维的放大，与 k00026 相关。"
+    },
+    {
+      "source": "s-860fef907c60-c002:a015",
+      "target": "s-860fef907c60-c002:r006",
+      "kind": "supports",
+      "condition": "建议一致",
+      "reason": "识别焦虑背后的情绪建议探索情绪而非仅消除焦虑，探索焦虑根源的建议也包含类似内容，前者支持后者。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-860fef907c60-c002:a016",
+      "target": "s-860fef907c60-c002:a018",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "k00035 建议与父母沟通焦虑，k00037 是具体练习步骤，后者是前者的操作化。"
+    },
+    {
+      "source": "s-860fef907c60-c002:a017",
+      "target": "s-860fef907c60-c002:a017",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00036 和 k00046 内容完全相同，都是父母言行对焦虑的影响。"
+    },
+    {
+      "source": "s-860fef907c60-c002:a018",
+      "target": "s-860fef907c60-c002:a018",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00037 和 k00047 内容完全相同，都是焦虑情绪探索练习。"
+    },
+    {
+      "source": "s-860fef907c60-c002:a019",
+      "target": "s-860fef907c60-c002:a019",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00038 和 k00048 内容完全相同，都是示范案例。"
+    },
+    {
+      "source": "s-860fef907c60-c002:a018",
+      "target": "s-860fef907c60-c002:a019",
+      "kind": "association",
+      "condition": "案例为练习示范",
+      "reason": "示范案例是焦虑情绪探索练习的具体示范，但原方向反了。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": ""
+    },
+    {
+      "source": "s-860fef907c60-c002:r001",
+      "target": "s-860fef907c60-c002:a003",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00039 焦虑症患者机场恐慌发作是 k00022 恐慌发作定义的具体例证。"
+    },
+    {
+      "source": "s-860fef907c60-c002:r003",
+      "target": "s-860fef907c60-c002:r004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00041 应对方法基于 k00042 身体反应是帮助而非伤害的理念。"
+    },
+    {
+      "source": "s-860fef907c60-c002:r005",
+      "target": "s-860fef907c60-c002:a006",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00043 说明认知扭曲放大焦虑，k00025 焦虑谎言是认知扭曲，因此支持。"
+    },
+    {
+      "source": "s-860fef907c60-c002:r007",
+      "target": "s-860fef907c60-c003:a003",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "k00045 是具体话术，k00052 是完整表达方法，前者是后者的一部分。"
+    },
+    {
+      "source": "s-860fef907c60-c002:xe001",
+      "target": "s-860fef907c60-c001:a018",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "一个平时关系一般但受欢迎的同学邀请参加生日会引发全面焦虑，是焦虑症全面崩溃表现的具体例证。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-860fef907c60-c003:a001",
+      "target": "s-860fef907c60-c003:a002",
+      "kind": "example_of",
+      "condition": "",
+      "reason": "青少年因父母威胁和学霸背景产生焦虑及背后多种情绪，具体展示了焦虑背后存在多层情绪的观点。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-860fef907c60-c003:a003",
+      "target": "s-860fef907c60-c003:a004",
+      "kind": "step_of",
+      "condition": null,
+      "reason": "k00052 是表达方法，k00053 是练习要求，后者包含前者步骤。"
+    },
+    {
+      "source": "s-860fef907c60-c003:a005",
+      "target": "s-860fef907c60-c003:a003",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00054 美国青少年案例是 k00052 表达方法的成功应用。"
+    },
+    {
+      "source": "s-860fef907c60-c003:a006",
+      "target": "s-860fef907c60-c003:a004",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00055 说明沟通情绪的好处，支持 k00053 练习的意义。"
+    },
+    {
+      "source": "s-860fef907c60-c003:a007",
+      "target": "s-860fef907c60-c001:a013",
+      "kind": "supports",
+      "condition": null,
+      "reason": "k00056 是情绪界限在亲子沟通中的具体应用，与 k00013 原则一致。"
+    },
+    {
+      "source": "s-860fef907c60-c003:a008",
+      "target": "s-860fef907c60-c003:a009",
+      "kind": "example_of",
+      "condition": null,
+      "reason": "k00057 危机案例中咨询师使用身体聚焦训练，k00058 是训练方法，前者是后者的应用例证。"
+    },
+    {
+      "source": "s-860fef907c60-c003:a009",
+      "target": "s-860fef907c60-c003:a010",
+      "kind": "supports",
+      "condition": "",
+      "reason": "身体聚焦训练缓解焦虑的机制解释了训练方法有效的原因，应为机制支持训练方法，原方向相反。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "revised",
+      "review_notes": "原因果方向不成立，已修正为机制支持方法。"
+    },
+    {
+      "source": "s-860fef907c60-c003:a011",
+      "target": "s-860fef907c60-c003:a012",
+      "kind": "applies_to",
+      "condition": null,
+      "reason": "k00060 强调练习重要性，k00061 课程结构要求统一练习，因此练习建议适用于课程各阶段。"
+    },
+    {
+      "source": "s-860fef907c60-c003:r001",
+      "target": "s-860fef907c60-c003:a009",
+      "kind": "prerequisite",
+      "condition": "",
+      "reason": "节奏是训练有效的必要条件，是身体聚焦训练方法的前提。",
+      "evidence": "knowledge_synthesis",
+      "review_status": "supported",
+      "review_notes": ""
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n001",
+      "target": "s-860fef907c60-c003:a008",
+      "kind": "complements",
+      "condition": "当需要身体调节有效性的实例时",
+      "reason": "candidate 提供了身体聚焦训练成功控制焦虑的案例，补充了 source 关于身体调节可控制焦虑的实践证据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c003:a008",
+      "target": "s-860fef907c60-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要身体调节有效性的实例时",
+      "reason": "candidate 提供了身体聚焦训练成功控制焦虑的案例，补充了 source 关于身体调节可控制焦虑的实践证据。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n001",
+      "target": "s-860fef907c60-c001:a001",
+      "kind": "complements",
+      "condition": "在进入情绪层面学习时",
+      "reason": "candidate 提供了对焦虑情绪性质的认识，补充了 source 从身体转向情绪后的入门要点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:a001",
+      "target": "s-860fef907c60-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在进入情绪层面学习时",
+      "reason": "candidate 提供了对焦虑情绪性质的认识，补充了 source 从身体转向情绪后的入门要点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n001",
+      "target": "s-860fef907c60-c003:a012",
+      "kind": "complements",
+      "condition": "在理解课程阶段安排时",
+      "reason": "candidate 明确了课程三阶段及顺序，补充了 source 所提到的身体和情绪阶段在整个课程结构中的位置。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c003:a012",
+      "target": "s-860fef907c60-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在理解课程阶段安排时",
+      "reason": "candidate 明确了课程三阶段及顺序，补充了 source 所提到的身体和情绪阶段在整个课程结构中的位置。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n001",
+      "target": "s-860fef907c60-c002:a015",
+      "kind": "complements",
+      "condition": "在情绪层面处理焦虑时",
+      "reason": "candidate 提供了探索焦虑背后情绪的具体建议，补充了 source 进入情绪层面后的操作方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:a015",
+      "target": "s-860fef907c60-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在情绪层面处理焦虑时",
+      "reason": "candidate 提供了探索焦虑背后情绪的具体建议，补充了 source 进入情绪层面后的操作方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n001",
+      "target": "s-860fef907c60-c002:a016",
+      "kind": "complements",
+      "condition": "当焦虑来源于父母时",
+      "reason": "candidate 提供了与父母沟通焦虑背后情绪的方法，补充了 source 情绪层面处理的人际维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:a016",
+      "target": "s-860fef907c60-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当焦虑来源于父母时",
+      "reason": "candidate 提供了与父母沟通焦虑背后情绪的方法，补充了 source 情绪层面处理的人际维度。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n001",
+      "target": "s-860fef907c60-c001:a002",
+      "kind": "complements",
+      "condition": "在明确焦虑管理目标时",
+      "reason": "candidate 明确了焦虑管理的目标是控制而非消除，补充了 source 所从事的身体和情绪管理的总体方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:a002",
+      "target": "s-860fef907c60-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在明确焦虑管理目标时",
+      "reason": "candidate 明确了焦虑管理的目标是控制而非消除，补充了 source 所从事的身体和情绪管理的总体方向。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n001",
+      "target": "s-860fef907c60-c002:r005",
+      "kind": "association",
+      "condition": "在理解认知对焦虑的影响时",
+      "reason": "candidate 涉及认知扭曲放大焦虑，source 仅提及身体和情绪层面，未直接涉及认知维度，故无直接互补或前提，仅同属焦虑管理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:r005",
+      "target": "s-860fef907c60-c001:v2-n001",
+      "kind": "association",
+      "condition": "在理解认知对焦虑的影响时",
+      "reason": "candidate 涉及认知扭曲放大焦虑，source 仅提及身体和情绪层面，未直接涉及认知维度，故无直接互补或前提，仅同属焦虑管理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n001",
+      "target": "s-860fef907c60-c002:a018",
+      "kind": "complements",
+      "condition": "当需要情绪探索的练习指导时",
+      "reason": "candidate 提供了具体练习步骤（找焦虑事件、思考背后情绪、与父母沟通），补充了 source 情绪层面管理的实践操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:a018",
+      "target": "s-860fef907c60-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要情绪探索的练习指导时",
+      "reason": "candidate 提供了具体练习步骤（找焦虑事件、思考背后情绪、与父母沟通），补充了 source 情绪层面管理的实践操作。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n001",
+      "target": "s-860fef907c60-c002:r006",
+      "kind": "complements",
+      "condition": "在深入处理情绪根源时",
+      "reason": "candidate 建议识别焦虑谎言并探索根源，补充了 source 情绪层面处理的深入指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:r006",
+      "target": "s-860fef907c60-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在深入处理情绪根源时",
+      "reason": "candidate 建议识别焦虑谎言并探索根源，补充了 source 情绪层面处理的深入指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n001",
+      "target": "s-860fef907c60-c003:a010",
+      "kind": "complements",
+      "condition": "在理解身体调节如何起效时",
+      "reason": "candidate 解释了身体聚焦训练降低焦虑的生理机制，补充了 source 身体调节有效性的原理。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c003:a010",
+      "target": "s-860fef907c60-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在理解身体调节如何起效时",
+      "reason": "candidate 解释了身体聚焦训练降低焦虑的生理机制，补充了 source 身体调节有效性的原理。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n001",
+      "target": "s-860fef907c60-c001:a011",
+      "kind": "complements",
+      "condition": "在识别焦虑背后的情绪类型时",
+      "reason": "candidate 列举了常见背后情绪，补充了 source 情绪层面需要探索的情绪种类。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:a011",
+      "target": "s-860fef907c60-c001:v2-n001",
+      "kind": "complements",
+      "condition": "在识别焦虑背后的情绪类型时",
+      "reason": "candidate 列举了常见背后情绪，补充了 source 情绪层面需要探索的情绪种类。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n001",
+      "target": "s-860fef907c60-c003:a004",
+      "kind": "complements",
+      "condition": "当需要与父母沟通焦虑背后情绪时",
+      "reason": "candidate 提供了具体练习要求，补充了 source 情绪层面人际沟通的实践步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c003:a004",
+      "target": "s-860fef907c60-c001:v2-n001",
+      "kind": "complements",
+      "condition": "当需要与父母沟通焦虑背后情绪时",
+      "reason": "candidate 提供了具体练习要求，补充了 source 情绪层面人际沟通的实践步骤。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n002",
+      "target": "s-860fef907c60-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当区分正常压力和焦虑症时",
+      "reason": "candidate 提供了压力与焦虑症的具体判断标准，补充了 source 关于外部诱因后如何判断是否发展为焦虑症的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n001",
+      "target": "s-860fef907c60-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当区分正常压力和焦虑症时",
+      "reason": "candidate 提供了压力与焦虑症的具体判断标准，补充了 source 关于外部诱因后如何判断是否发展为焦虑症的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n002",
+      "target": "s-860fef907c60-c001:a016",
+      "kind": "complements",
+      "condition": "当理解压力与焦虑症的差异时",
+      "reason": "candidate 详细描述了压力与焦虑症的特征区别，以及压力如何可能发展为焦虑，补充了 source 关于外部诱因后果的论述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:a016",
+      "target": "s-860fef907c60-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当理解压力与焦虑症的差异时",
+      "reason": "candidate 详细描述了压力与焦虑症的特征区别，以及压力如何可能发展为焦虑，补充了 source 关于外部诱因后果的论述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n002",
+      "target": "s-860fef907c60-c002:a002",
+      "kind": "complements",
+      "condition": "在理解焦虑症持续时间标准时",
+      "reason": "candidate 具体说明了焦虑症的持续性表现，补充了 source 关于持续时间这一判断条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:a002",
+      "target": "s-860fef907c60-c001:v2-n002",
+      "kind": "complements",
+      "condition": "在理解焦虑症持续时间标准时",
+      "reason": "candidate 具体说明了焦虑症的持续性表现，补充了 source 关于持续时间这一判断条件。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n002",
+      "target": "s-860fef907c60-c002:a001",
+      "kind": "complements",
+      "condition": "当需要明确焦虑症定义时",
+      "reason": "candidate 给出了焦虑症的明确定义，补充了 source 中焦虑症概念的核心要素。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:a001",
+      "target": "s-860fef907c60-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要明确焦虑症定义时",
+      "reason": "candidate 给出了焦虑症的明确定义，补充了 source 中焦虑症概念的核心要素。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n002",
+      "target": "s-860fef907c60-c002:xe001",
+      "kind": "complements",
+      "condition": "当需要外部诱因的具体示例时",
+      "reason": "candidate 展示了一个外部事件如何引发全面焦虑，补充了 source 关于外部诱因可能触发焦虑的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:xe001",
+      "target": "s-860fef907c60-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要外部诱因的具体示例时",
+      "reason": "candidate 展示了一个外部事件如何引发全面焦虑，补充了 source 关于外部诱因可能触发焦虑的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n002",
+      "target": "s-860fef907c60-c002:r005",
+      "kind": "complements",
+      "condition": "在理解个体反应如何影响焦虑时",
+      "reason": "candidate 说明认知评价会放大焦虑，补充了 source 中“个体反应”的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:r005",
+      "target": "s-860fef907c60-c001:v2-n002",
+      "kind": "complements",
+      "condition": "在理解个体反应如何影响焦虑时",
+      "reason": "candidate 说明认知评价会放大焦虑，补充了 source 中“个体反应”的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n002",
+      "target": "s-860fef907c60-c001:a018",
+      "kind": "complements",
+      "condition": "当需要了解焦虑症全面崩溃的表现时",
+      "reason": "candidate 描述了因单个诱因导致全面焦虑的具体表现，补充了 source 关于焦虑症发展的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:a018",
+      "target": "s-860fef907c60-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要了解焦虑症全面崩溃的表现时",
+      "reason": "candidate 描述了因单个诱因导致全面焦虑的具体表现，补充了 source 关于焦虑症发展的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n002",
+      "target": "s-860fef907c60-c001:a006",
+      "kind": "complements",
+      "condition": "在理解焦虑根源时",
+      "reason": "candidate 澄清焦虑源于个体情绪反应而非事件本身，补充了 source 中个体反应的重要性和深层机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:a006",
+      "target": "s-860fef907c60-c001:v2-n002",
+      "kind": "complements",
+      "condition": "在理解焦虑根源时",
+      "reason": "candidate 澄清焦虑源于个体情绪反应而非事件本身，补充了 source 中个体反应的重要性和深层机制。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n002",
+      "target": "s-860fef907c60-c001:a007",
+      "kind": "complements",
+      "condition": "当需要个体反应差异的实例时",
+      "reason": "candidate 通过案例说明对事件的看法影响焦虑，补充了 source 关于个体反应决定焦虑发展的观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:a007",
+      "target": "s-860fef907c60-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要个体反应差异的实例时",
+      "reason": "candidate 通过案例说明对事件的看法影响焦虑，补充了 source 关于个体反应决定焦虑发展的观点。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n002",
+      "target": "s-860fef907c60-c001:a008",
+      "kind": "complements",
+      "condition": "在理解个体应对方式对焦虑发展的影响时",
+      "reason": "candidate 说明了逃避不解决焦虑根源可能导致的后果，补充了 source 中个体反应对焦虑持续性的影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:a008",
+      "target": "s-860fef907c60-c001:v2-n002",
+      "kind": "complements",
+      "condition": "在理解个体应对方式对焦虑发展的影响时",
+      "reason": "candidate 说明了逃避不解决焦虑根源可能导致的后果，补充了 source 中个体反应对焦虑持续性的影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n002",
+      "target": "s-860fef907c60-c001:a017",
+      "kind": "complements",
+      "condition": "当需要明确焦虑症判断标准时",
+      "reason": "candidate 直接给出了焦虑症的两个判断标准，与 source 内容一致但更明确，补充了 source 的表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:a017",
+      "target": "s-860fef907c60-c001:v2-n002",
+      "kind": "complements",
+      "condition": "当需要明确焦虑症判断标准时",
+      "reason": "candidate 直接给出了焦虑症的两个判断标准，与 source 内容一致但更明确，补充了 source 的表述。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n002",
+      "target": "s-860fef907c60-c001:a010",
+      "kind": "association",
+      "condition": "在焦虑管理后续步骤中",
+      "reason": "candidate 提供了探索焦虑背后情绪的练习，与 source 关于诱因和焦虑症发展的论述无直接逻辑联系，仅同属焦虑管理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:a010",
+      "target": "s-860fef907c60-c001:v2-n002",
+      "kind": "association",
+      "condition": "在焦虑管理后续步骤中",
+      "reason": "candidate 提供了探索焦虑背后情绪的练习，与 source 关于诱因和焦虑症发展的论述无直接逻辑联系，仅同属焦虑管理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n001",
+      "target": "s-860fef907c60-c001:a016",
+      "kind": "complements",
+      "condition": "当需要更详细的压力与焦虑症对比时",
+      "reason": "candidate 详细描述了压力和焦虑症的特征及转化条件，补充了 source 所提区别的具体细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:a016",
+      "target": "s-860fef907c60-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要更详细的压力与焦虑症对比时",
+      "reason": "candidate 详细描述了压力和焦虑症的特征及转化条件，补充了 source 所提区别的具体细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n001",
+      "target": "s-860fef907c60-c001:a017",
+      "kind": "complements",
+      "condition": "在判断是否焦虑症时",
+      "reason": "candidate 直接列出焦虑症的判断标准，补充了 source 中焦虑症部分的具体指标。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:a017",
+      "target": "s-860fef907c60-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在判断是否焦虑症时",
+      "reason": "candidate 直接列出焦虑症的判断标准，补充了 source 中焦虑症部分的具体指标。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n001",
+      "target": "s-860fef907c60-c002:a001",
+      "kind": "complements",
+      "condition": "当需要焦虑症的定义时",
+      "reason": "candidate 给出了焦虑症的明确界定，补充了 source 中焦虑症的核心特征。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:a001",
+      "target": "s-860fef907c60-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要焦虑症的定义时",
+      "reason": "candidate 给出了焦虑症的明确界定，补充了 source 中焦虑症的核心特征。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n001",
+      "target": "s-860fef907c60-c002:a002",
+      "kind": "complements",
+      "condition": "在理解焦虑症持续性时",
+      "reason": "candidate 强调了焦虑症持续性的特点（不因问题解决而消失），补充了 source 关于持续时间的说明。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:a002",
+      "target": "s-860fef907c60-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在理解焦虑症持续性时",
+      "reason": "candidate 强调了焦虑症持续性的特点（不因问题解决而消失），补充了 source 关于持续时间的说明。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n001",
+      "target": "s-860fef907c60-c001:v2-n002",
+      "kind": "complements",
+      "condition": "在理解压力如何发展为焦虑症时",
+      "reason": "candidate 说明了外部诱因及个体反应影响发展，补充了 source 中压力可能发展为焦虑的动态过程。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:v2-n002",
+      "target": "s-860fef907c60-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在理解压力如何发展为焦虑症时",
+      "reason": "candidate 说明了外部诱因及个体反应影响发展，补充了 source 中压力可能发展为焦虑的动态过程。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n001",
+      "target": "s-860fef907c60-c001:a018",
+      "kind": "complements",
+      "condition": "当需要全面崩溃的具体表现时",
+      "reason": "candidate 描述了因单一诱因导致全面焦虑的具体表现，补充了 source 关于焦虑症发展的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:a018",
+      "target": "s-860fef907c60-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要全面崩溃的具体表现时",
+      "reason": "candidate 描述了因单一诱因导致全面焦虑的具体表现，补充了 source 关于焦虑症发展的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n001",
+      "target": "s-860fef907c60-c002:a004",
+      "kind": "complements",
+      "condition": "在了解焦虑症如何应对时",
+      "reason": "candidate 补充了焦虑症需要专业心理辅导这一重要点，扩展了 source 关于焦虑症的认知。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:a004",
+      "target": "s-860fef907c60-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在了解焦虑症如何应对时",
+      "reason": "candidate 补充了焦虑症需要专业心理辅导这一重要点，扩展了 source 关于焦虑症的认知。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n001",
+      "target": "s-860fef907c60-c002:xe001",
+      "kind": "complements",
+      "condition": "当需要诱因的具体示例时",
+      "reason": "candidate 提供了一个具体外部诱因引发全面焦虑的案例，补充了 source 中焦虑症诱因的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:xe001",
+      "target": "s-860fef907c60-c002:v2-n001",
+      "kind": "complements",
+      "condition": "当需要诱因的具体示例时",
+      "reason": "candidate 提供了一个具体外部诱因引发全面焦虑的案例，补充了 source 中焦虑症诱因的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n001",
+      "target": "s-860fef907c60-c001:a008",
+      "kind": "complements",
+      "condition": "在理解不当应对的后果时",
+      "reason": "candidate 说明了逃避不解决焦虑根源的后果，补充了 source 关于压力或焦虑管理方式的影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:a008",
+      "target": "s-860fef907c60-c002:v2-n001",
+      "kind": "complements",
+      "condition": "在理解不当应对的后果时",
+      "reason": "candidate 说明了逃避不解决焦虑根源的后果，补充了 source 关于压力或焦虑管理方式的影响。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n001",
+      "target": "s-860fef907c60-c002:r006",
+      "kind": "association",
+      "condition": "在焦虑管理深入阶段",
+      "reason": "candidate 提供探索根源的建议，与 source 关于压力与焦虑症的区别无直接补充，仅同属焦虑管理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:r006",
+      "target": "s-860fef907c60-c002:v2-n001",
+      "kind": "association",
+      "condition": "在焦虑管理深入阶段",
+      "reason": "candidate 提供探索根源的建议，与 source 关于压力与焦虑症的区别无直接补充，仅同属焦虑管理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n001",
+      "target": "s-860fef907c60-c001:a011",
+      "kind": "association",
+      "condition": "在探索焦虑情绪时",
+      "reason": "candidate 列举焦虑背后的常见情绪，与 source 的压力焦虑症对比无直接关系，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c001:a011",
+      "target": "s-860fef907c60-c002:v2-n001",
+      "kind": "association",
+      "condition": "在探索焦虑情绪时",
+      "reason": "candidate 列举焦虑背后的常见情绪，与 source 的压力焦虑症对比无直接关系，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n001",
+      "target": "s-860fef907c60-c002:a015",
+      "kind": "association",
+      "condition": "在探索焦虑情绪时",
+      "reason": "candidate 建议探索焦虑背后的情绪，与 source 的区别论述无直接补充，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:a015",
+      "target": "s-860fef907c60-c002:v2-n001",
+      "kind": "association",
+      "condition": "在探索焦虑情绪时",
+      "reason": "candidate 建议探索焦虑背后的情绪，与 source 的区别论述无直接补充，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n002",
+      "target": "s-860fef907c60-c002:a003",
+      "kind": "complements",
+      "condition": "当需要明确恐慌发作的身体表现时",
+      "reason": "candidate 给出了恐慌发作的身体症状列表，补充了 source 关于恐慌发作是身体反应的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:a003",
+      "target": "s-860fef907c60-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当需要明确恐慌发作的身体表现时",
+      "reason": "candidate 给出了恐慌发作的身体症状列表，补充了 source 关于恐慌发作是身体反应的具体内容。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n002",
+      "target": "s-860fef907c60-c002:a011",
+      "kind": "complements",
+      "condition": "当需要恐慌发作的实例和恢复经验时",
+      "reason": "candidate 提供了讲师个人经历，说明了恐慌发作的表现和成功应对，补充了 source 关于恐慌发作的实践知识。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:a011",
+      "target": "s-860fef907c60-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当需要恐慌发作的实例和恢复经验时",
+      "reason": "candidate 提供了讲师个人经历，说明了恐慌发作的表现和成功应对，补充了 source 关于恐慌发作的实践知识。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n002",
+      "target": "s-860fef907c60-c002:a013",
+      "kind": "complements",
+      "condition": "在理解恐慌发作的意义时",
+      "reason": "candidate 解释了恐慌发作的保护性功能，补充了 source 对恐慌发作性质的理解。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:a013",
+      "target": "s-860fef907c60-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在理解恐慌发作的意义时",
+      "reason": "candidate 解释了恐慌发作的保护性功能，补充了 source 对恐慌发作性质的理解。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n002",
+      "target": "s-860fef907c60-c002:r003",
+      "kind": "complements",
+      "condition": "当需要知道如何应对恐慌发作时",
+      "reason": "candidate 提供了具体应对步骤，补充了 source 中告知青少年后应给予的行动指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:r003",
+      "target": "s-860fef907c60-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当需要知道如何应对恐慌发作时",
+      "reason": "candidate 提供了具体应对步骤，补充了 source 中告知青少年后应给予的行动指导。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n002",
+      "target": "s-860fef907c60-c002:a012",
+      "kind": "complements",
+      "condition": "在理解恐慌发作的诱因时",
+      "reason": "candidate 说明了恐慌发作不一定有直接诱因，补充了 source 关于恐慌发作发生情境的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:a012",
+      "target": "s-860fef907c60-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在理解恐慌发作的诱因时",
+      "reason": "candidate 说明了恐慌发作不一定有直接诱因，补充了 source 关于恐慌发作发生情境的细节。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n002",
+      "target": "s-860fef907c60-c002:a010",
+      "kind": "complements",
+      "condition": "在消除对恐慌发作的恐惧时",
+      "reason": "candidate 提供了恐慌发作不会致死的信息，补充了 source 中需要告知青少年的重要安全知识。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:a010",
+      "target": "s-860fef907c60-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在消除对恐慌发作的恐惧时",
+      "reason": "candidate 提供了恐慌发作不会致死的信息，补充了 source 中需要告知青少年的重要安全知识。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n002",
+      "target": "s-860fef907c60-c002:r002",
+      "kind": "complements",
+      "condition": "在纠正对恐慌发作的错误认知时",
+      "reason": "candidate 揭示了“应害怕恐慌发作”是焦虑谎言，补充了 source 中需要帮助青少年正确认识恐慌发作的认知干预。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:r002",
+      "target": "s-860fef907c60-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在纠正对恐慌发作的错误认知时",
+      "reason": "candidate 揭示了“应害怕恐慌发作”是焦虑谎言，补充了 source 中需要帮助青少年正确认识恐慌发作的认知干预。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n002",
+      "target": "s-860fef907c60-c002:r004",
+      "kind": "complements",
+      "condition": "在改变对身体反应的态度时",
+      "reason": "candidate 强调身体反应的帮助性，补充了 source 中恐慌发作作为身体反应的性质。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:r004",
+      "target": "s-860fef907c60-c002:v2-n002",
+      "kind": "complements",
+      "condition": "在改变对身体反应的态度时",
+      "reason": "candidate 强调身体反应的帮助性，补充了 source 中恐慌发作作为身体反应的性质。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n002",
+      "target": "s-860fef907c60-c002:a009",
+      "kind": "association",
+      "condition": "在了解焦虑谎言时",
+      "reason": "candidate 提到“应该害怕恐慌发作”是焦虑谎言之一，与 source 中恐慌发作主题部分相关，但整体内容更广，无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:a009",
+      "target": "s-860fef907c60-c002:v2-n002",
+      "kind": "association",
+      "condition": "在了解焦虑谎言时",
+      "reason": "candidate 提到“应该害怕恐慌发作”是焦虑谎言之一，与 source 中恐慌发作主题部分相关，但整体内容更广，无直接互补。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n002",
+      "target": "s-860fef907c60-c002:r001",
+      "kind": "complements",
+      "condition": "当需要恐慌发作的实际案例时",
+      "reason": "candidate 提供了一个恐慌发作导致放弃旅行的案例，补充了 source 关于恐慌发作影响的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:r001",
+      "target": "s-860fef907c60-c002:v2-n002",
+      "kind": "complements",
+      "condition": "当需要恐慌发作的实际案例时",
+      "reason": "candidate 提供了一个恐慌发作导致放弃旅行的案例，补充了 source 关于恐慌发作影响的实例。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n002",
+      "target": "s-860fef907c60-c003:a005",
+      "kind": "association",
+      "condition": "在焦虑情绪处理中",
+      "reason": "candidate 展示了通过沟通缓解焦虑的案例，与 source 关于恐慌发作的信息无直接逻辑联系，仅同属焦虑管理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c003:a005",
+      "target": "s-860fef907c60-c002:v2-n002",
+      "kind": "association",
+      "condition": "在焦虑情绪处理中",
+      "reason": "candidate 展示了通过沟通缓解焦虑的案例，与 source 关于恐慌发作的信息无直接逻辑联系，仅同属焦虑管理主题。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c002:v2-n002",
+      "target": "s-860fef907c60-c003:a001",
+      "kind": "association",
+      "condition": "在焦虑情绪处理中",
+      "reason": "candidate 描述了一个青少年焦虑案例，与 source 关于恐慌发作的信息无直接联系，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c003:a001",
+      "target": "s-860fef907c60-c002:v2-n002",
+      "kind": "association",
+      "condition": "在焦虑情绪处理中",
+      "reason": "candidate 描述了一个青少年焦虑案例，与 source 关于恐慌发作的信息无直接联系，仅主题关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c003:v2-n001",
+      "target": "s-860fef907c60-c003:a008",
+      "kind": "association",
+      "condition": "均为严重焦虑抑郁者面临伤害自己的念头或自杀危机时寻求帮助的情境；source强调预先告知的求助选项，候选是实际案例。",
+      "reason": "source列出可给咨询师打电话作为求助选项，候选记录一名14岁女孩在危机中打电话给咨询师并接受身体聚焦训练，两者均涉及危机求助中的咨询师介入，但候选未表明是否遵循source的预先约定，且候选重点在后续干预技术，故仅为弱关联。",
+      "evidence": "source_atom_relationship_review"
+    },
+    {
+      "source": "s-860fef907c60-c003:a008",
+      "target": "s-860fef907c60-c003:v2-n001",
+      "kind": "association",
+      "condition": "均为严重焦虑抑郁者面临伤害自己的念头或自杀危机时寻求帮助的情境；source强调预先告知的求助选项，候选是实际案例。",
+      "reason": "source列出可给咨询师打电话作为求助选项，候选记录一名14岁女孩在危机中打电话给咨询师并接受身体聚焦训练，两者均涉及危机求助中的咨询师介入，但候选未表明是否遵循source的预先约定，且候选重点在后续干预技术，故仅为弱关联。",
+      "evidence": "source_atom_relationship_review"
+    }
+  ],
+  "module_links": [
+    {
+      "from": "理解情绪",
+      "to": "界限",
+      "when": "当焦虑来源于父母或涉及情绪责任时，需要运用情绪界限原则与父母沟通。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-860fef907c60-c001:a013",
+        "s-860fef907c60-c001:a014",
+        "s-860fef907c60-c002:a016",
+        "s-860fef907c60-c002:a017",
+        "s-860fef907c60-c002:r007",
+        "s-860fef907c60-c003:a003",
+        "s-860fef907c60-c003:a004",
+        "s-860fef907c60-c003:a006",
+        "s-860fef907c60-c003:a007"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "理解情绪",
+      "to": "自我认知",
+      "when": "探索焦虑背后的情绪时，需要深入自我认知，识别自我价值、信念等。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-860fef907c60-c001:a015",
+        "s-860fef907c60-c002:a015",
+        "s-860fef907c60-c002:r006",
+        "s-860fef907c60-c002:a018",
+        "s-860fef907c60-c002:a019",
+        "s-860fef907c60-c003:a001",
+        "s-860fef907c60-c003:a002"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    },
+    {
+      "from": "自我认知",
+      "to": "专注力",
+      "when": "当焦虑严重或恐慌发作时，需要运用身体聚焦训练等专注力方法紧急缓解。",
+      "not_when": "对象或目标不符合目标模块职责时不自动转入；其余核对下列来源限制及主入口安全边界。",
+      "atom_ids": [
+        "s-860fef907c60-c003:a008",
+        "s-860fef907c60-c003:a009",
+        "s-860fef907c60-c003:a010",
+        "s-860fef907c60-c003:r001"
+      ],
+      "evidence": "reviewed_knowledge_synthesis_not_source_fact",
+      "source_limits": [],
+      "scope": "cross_module"
+    }
+  ],
+  "duplicate_groups": [
+    {
+      "atom_ids": [
+        "s-860fef907c60-c002:a017"
+      ],
+      "reason": "内容完全相同，都是父母言行对焦虑的影响。"
+    },
+    {
+      "atom_ids": [
+        "s-860fef907c60-c002:a018"
+      ],
+      "reason": "内容完全相同，都是焦虑情绪探索练习。"
+    },
+    {
+      "atom_ids": [
+        "s-860fef907c60-c002:a019"
+      ],
+      "reason": "内容完全相同，都是示范案例。"
+    },
+    {
+      "atom_ids": [
+        "s-860fef907c60-c001:a017",
+        "s-860fef907c60-c002:a001"
+      ],
+      "reason": "k00017 是焦虑症判断标准，k00020 是焦虑症定义，实质相同。"
+    }
+  ],
+  "tensions": [
+    {
+      "atom_ids": [
+        "s-860fef907c60-c001:a016",
+        "s-860fef907c60-c001:a017"
+      ],
+      "description": "k00016 将压力与焦虑症区分，但未明确焦虑症与一般焦虑的界限；k00017 给出标准，但可能过于简化，需要更多临床证据。",
+      "needed_evidence": "需要专业诊断标准或研究数据支持焦虑症判断标准的准确性。"
+    },
+    {
+      "atom_ids": [
+        "s-860fef907c60-c002:a010",
+        "s-860fef907c60-c002:a003"
+      ],
+      "description": "k00022 描述恐慌发作的强烈身体反应，k00029 声称恐慌发作不会致死，但未提供充分医学证据，且可能诱发心脏病或高血压，存在风险。",
+      "needed_evidence": "需要医学研究证明恐慌发作的致死风险及对心脏病患者的影响。"
+    }
+  ],
+  "path": [
+    {
+      "name": "焦虑管理主要流程",
+      "steps": [
+        {
+          "action": "识别焦虑情绪并理解其本质",
+          "atom_ids": [
+            "s-860fef907c60-c001:a001",
+            "s-860fef907c60-c001:a002",
+            "s-860fef907c60-c001:a006",
+            "s-860fef907c60-c001:a007"
+          ],
+          "condition": "当感到焦虑时，首先认识到焦虑是情绪，适度有益，且源于对事件的看法。"
+        },
+        {
+          "action": "使用情绪轮盘指认焦虑背后的情绪",
+          "atom_ids": [
+            "s-860fef907c60-c001:a003",
+            "s-860fef907c60-c001:a004",
+            "s-860fef907c60-c001:a005",
+            "s-860fef907c60-c001:a010",
+            "s-860fef907c60-c001:a011",
+            "s-860fef907c60-c001:a012"
+          ],
+          "condition": "在焦虑时，问自己为什么焦虑，在情绪轮盘第二、三层指认具体情绪。"
+        },
+        {
+          "action": "探索焦虑根源，包括自我价值和信念",
+          "atom_ids": [
+            "s-860fef907c60-c001:a015",
+            "s-860fef907c60-c002:a015",
+            "s-860fef907c60-c002:r006",
+            "s-860fef907c60-c002:r005"
+          ],
+          "condition": "当识别出背后情绪后，进一步探索根源，如自我价值感、认知扭曲等。"
+        },
+        {
+          "action": "与父母沟通焦虑背后的情绪和需求",
+          "atom_ids": [
+            "s-860fef907c60-c002:a016",
+            "s-860fef907c60-c002:a018",
+            "s-860fef907c60-c002:a019",
+            "s-860fef907c60-c002:r007",
+            "s-860fef907c60-c003:a003",
+            "s-860fef907c60-c003:a004",
+            "s-860fef907c60-c003:a005",
+            "s-860fef907c60-c003:a006",
+            "s-860fef907c60-c003:a007"
+          ],
+          "condition": "如果焦虑来源于父母，按照表达方法向父母说明焦虑事情、原因和需求。"
+        },
+        {
+          "action": "在紧急情况下使用身体聚焦训练缓解焦虑",
+          "atom_ids": [
+            "s-860fef907c60-c003:a008",
+            "s-860fef907c60-c003:a009",
+            "s-860fef907c60-c003:a010",
+            "s-860fef907c60-c003:r001"
+          ],
+          "condition": "当焦虑严重或恐慌发作时，立即进行身体聚焦训练。"
+        },
+        {
+          "action": "坚持练习并整合各阶段方法",
+          "atom_ids": [
+            "s-860fef907c60-c003:a011",
+            "s-860fef907c60-c003:a012"
+          ],
+          "condition": "学习后每天坚持练习，将身体、情绪、认知方法统一运用。"
+        }
+      ]
+    }
+  ],
+  "evidence_level": "synthesis_of_source_grounded_records_not_new_source_fact",
+  "input_records_sha256": "baad31dea532867f103ae19e7fd495963c1f369d38b19c7f78476d20dc5c04e0",
+  "point_units": [
+    {
+      "id": "s-860fef907c60-c001:u-0001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c001:a001"
+      ],
+      "blocks": [
+        "b00005",
+        "b00006"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c001:a002"
+      ],
+      "blocks": [
+        "b00006",
+        "b00007"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0003",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c001:a003",
+        "s-860fef907c60-c001:a004"
+      ],
+      "blocks": [
+        "b00007",
+        "b00008",
+        "b00009",
+        "b00010",
+        "b00011",
+        "b00012"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0004",
+      "kind": "method",
+      "atom_ids": [
+        "s-860fef907c60-c001:a005"
+      ],
+      "blocks": [
+        "b00013",
+        "b00014",
+        "b00023",
+        "b00037"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0005",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-860fef907c60-c001:a006"
+      ],
+      "blocks": [
+        "b00014",
+        "b00015",
+        "b00016",
+        "b00018",
+        "b00027",
+        "b00028"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0006",
+      "kind": "case",
+      "atom_ids": [
+        "s-860fef907c60-c001:a007"
+      ],
+      "blocks": [
+        "b00016",
+        "b00017",
+        "b00018"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0007",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-860fef907c60-c001:a008"
+      ],
+      "blocks": [
+        "b00019",
+        "b00022",
+        "b00023"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0008",
+      "kind": "case",
+      "atom_ids": [
+        "s-860fef907c60-c001:a009"
+      ],
+      "blocks": [
+        "b00021",
+        "b00022"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0009",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-860fef907c60-c001:a010"
+      ],
+      "blocks": [
+        "b00023",
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00029"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0010",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-860fef907c60-c001:a011"
+      ],
+      "blocks": [
+        "b00024",
+        "b00025",
+        "b00026",
+        "b00027",
+        "b00028",
+        "b00029",
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0011",
+      "kind": "case",
+      "atom_ids": [
+        "s-860fef907c60-c001:a012"
+      ],
+      "blocks": [
+        "b00030",
+        "b00031",
+        "b00032"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c001:a013"
+      ],
+      "blocks": [
+        "b00033",
+        "b00034"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0013",
+      "kind": "case",
+      "atom_ids": [
+        "s-860fef907c60-c001:a014"
+      ],
+      "blocks": [
+        "b00034",
+        "b00035"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0014",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-860fef907c60-c001:a015"
+      ],
+      "blocks": [
+        "b00035",
+        "b00036"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0015",
+      "kind": "distinction",
+      "atom_ids": [
+        "s-860fef907c60-c001:a016",
+        "s-860fef907c60-c001:a017",
+        "s-860fef907c60-c002:a001"
+      ],
+      "blocks": [
+        "b00040",
+        "b00041",
+        "b00042",
+        "b00043",
+        "b00044",
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0016",
+      "kind": "case",
+      "atom_ids": [
+        "s-860fef907c60-c001:a018"
+      ],
+      "blocks": [
+        "b00045",
+        "b00046",
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0017",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-860fef907c60-c001:r001"
+      ],
+      "blocks": [
+        "b00038",
+        "b00039",
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0018",
+      "kind": "method",
+      "atom_ids": [
+        "s-860fef907c60-c001:v2-n001"
+      ],
+      "blocks": [
+        "b00003",
+        "b00004"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c001:u-0019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c001:v2-n002"
+      ],
+      "blocks": [
+        "b00040"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u001",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00044"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u002",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a001"
+      ],
+      "blocks": [
+        "b00045"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u003",
+      "kind": "case",
+      "atom_ids": [
+        "s-860fef907c60-c002:xe001"
+      ],
+      "blocks": [
+        "b00046"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u004",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c001:a018",
+        "s-860fef907c60-c002:xe001"
+      ],
+      "blocks": [
+        "b00047"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u005",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a002"
+      ],
+      "blocks": [
+        "b00048"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u006",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a002"
+      ],
+      "blocks": [
+        "b00049"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u007",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a003"
+      ],
+      "blocks": [
+        "b00050"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u008",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a003"
+      ],
+      "blocks": [
+        "b00051",
+        "b00052"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u009",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a004"
+      ],
+      "blocks": [
+        "b00052",
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u010",
+      "kind": "method",
+      "atom_ids": [
+        "s-860fef907c60-c002:v2-n001"
+      ],
+      "blocks": [
+        "b00053"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u011",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a005"
+      ],
+      "blocks": [
+        "b00054"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u012",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a005",
+        "s-860fef907c60-c002:a006"
+      ],
+      "blocks": [
+        "b00055"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u013",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a007"
+      ],
+      "blocks": [
+        "b00056"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u014",
+      "kind": "case",
+      "atom_ids": [
+        "s-860fef907c60-c002:a007",
+        "s-860fef907c60-c002:r001"
+      ],
+      "blocks": [
+        "b00057"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u015",
+      "kind": "case",
+      "atom_ids": [
+        "s-860fef907c60-c002:r001"
+      ],
+      "blocks": [
+        "b00058"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u016",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a008"
+      ],
+      "blocks": [
+        "b00058",
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u017",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a009",
+        "s-860fef907c60-c002:r002"
+      ],
+      "blocks": [
+        "b00059"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u018",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:v2-n002"
+      ],
+      "blocks": [
+        "b00059",
+        "b00060"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u019",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a010"
+      ],
+      "blocks": [
+        "b00060",
+        "b00061"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u020",
+      "kind": "case",
+      "atom_ids": [
+        "s-860fef907c60-c002:a011"
+      ],
+      "blocks": [
+        "b00062",
+        "b00063",
+        "b00064"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u021",
+      "kind": "method",
+      "atom_ids": [
+        "s-860fef907c60-c002:a011",
+        "s-860fef907c60-c002:r003"
+      ],
+      "blocks": [
+        "b00065",
+        "b00066",
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u022",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a012",
+        "s-860fef907c60-c002:r004"
+      ],
+      "blocks": [
+        "b00067"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u023",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a012"
+      ],
+      "blocks": [
+        "b00068",
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u024",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a012",
+        "s-860fef907c60-c002:r004"
+      ],
+      "blocks": [
+        "b00069"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u025",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a013"
+      ],
+      "blocks": [
+        "b00070"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u026",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a013"
+      ],
+      "blocks": [
+        "b00071"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u027",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a014"
+      ],
+      "blocks": [
+        "b00072"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u028",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a014",
+        "s-860fef907c60-c002:r005"
+      ],
+      "blocks": [
+        "b00073"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u029",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:r006"
+      ],
+      "blocks": [
+        "b00074"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u030",
+      "kind": "method",
+      "atom_ids": [
+        "s-860fef907c60-c002:a015"
+      ],
+      "blocks": [
+        "b00075"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u031",
+      "kind": "method",
+      "atom_ids": [
+        "s-860fef907c60-c002:a016",
+        "s-860fef907c60-c002:r007"
+      ],
+      "blocks": [
+        "b00076"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u032",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a017"
+      ],
+      "blocks": [
+        "b00077",
+        "b00078"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u033",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c002:a017"
+      ],
+      "blocks": [
+        "b00078",
+        "b00079"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u034",
+      "kind": "method",
+      "atom_ids": [
+        "s-860fef907c60-c002:a016"
+      ],
+      "blocks": [
+        "b00079",
+        "b00080"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u035",
+      "kind": "method",
+      "atom_ids": [
+        "s-860fef907c60-c002:a015"
+      ],
+      "blocks": [
+        "b00081"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u036",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-860fef907c60-c002:a018"
+      ],
+      "blocks": [
+        "b00082",
+        "b00083"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u037",
+      "kind": "case",
+      "atom_ids": [
+        "s-860fef907c60-c002:a019"
+      ],
+      "blocks": [
+        "b00084",
+        "b00085"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u038",
+      "kind": "case",
+      "atom_ids": [
+        "s-860fef907c60-c002:a019"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087",
+        "b00088"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c002:u039",
+      "kind": "case",
+      "atom_ids": [
+        "s-860fef907c60-c002:a019"
+      ],
+      "blocks": [
+        "b00089"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c003:u1",
+      "kind": "case",
+      "atom_ids": [
+        "s-860fef907c60-c003:a001"
+      ],
+      "blocks": [
+        "b00086",
+        "b00087",
+        "b00088",
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c003:u2",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c003:a002"
+      ],
+      "blocks": [
+        "b00088",
+        "b00089",
+        "b00090"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c003:u3",
+      "kind": "method",
+      "atom_ids": [
+        "s-860fef907c60-c003:a003"
+      ],
+      "blocks": [
+        "b00091",
+        "b00092",
+        "b00093",
+        "b00094",
+        "b00095"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c003:u4",
+      "kind": "exercise",
+      "atom_ids": [
+        "s-860fef907c60-c003:a004"
+      ],
+      "blocks": [
+        "b00096",
+        "b00097"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c003:u5",
+      "kind": "case",
+      "atom_ids": [
+        "s-860fef907c60-c003:a005"
+      ],
+      "blocks": [
+        "b00099",
+        "b00100"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c003:u6",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c003:a006"
+      ],
+      "blocks": [
+        "b00101",
+        "b00102"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c003:u7",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c003:a007"
+      ],
+      "blocks": [
+        "b00103",
+        "b00104"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c003:u8",
+      "kind": "case",
+      "atom_ids": [
+        "s-860fef907c60-c003:a008"
+      ],
+      "blocks": [
+        "b00104",
+        "b00105",
+        "b00106",
+        "b00107"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c003:u9",
+      "kind": "method",
+      "atom_ids": [
+        "s-860fef907c60-c003:v2-n001"
+      ],
+      "blocks": [
+        "b00105",
+        "b00106"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c003:u10",
+      "kind": "method",
+      "atom_ids": [
+        "s-860fef907c60-c003:a009"
+      ],
+      "blocks": [
+        "b00107",
+        "b00108",
+        "b00109",
+        "b00110",
+        "b00111",
+        "b00112",
+        "b00113",
+        "b00114"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c003:u11",
+      "kind": "mechanism",
+      "atom_ids": [
+        "s-860fef907c60-c003:a010"
+      ],
+      "blocks": [
+        "b00113",
+        "b00114"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c003:u12",
+      "kind": "method",
+      "atom_ids": [
+        "s-860fef907c60-c003:a011"
+      ],
+      "blocks": [
+        "b00115",
+        "b00116"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c003:u13",
+      "kind": "concept",
+      "atom_ids": [
+        "s-860fef907c60-c003:a012"
+      ],
+      "blocks": [
+        "b00116",
+        "b00117"
+      ]
+    },
+    {
+      "id": "s-860fef907c60-c003:u14",
+      "kind": "condition",
+      "atom_ids": [
+        "s-860fef907c60-c003:r001"
+      ],
+      "blocks": [
+        "b00113",
+        "b00114"
+      ]
+    }
+  ],
+  "version": "2026-11-05.full-2",
+  "point_coverage": "Each point points to executable atom records; original concept and process maps retained.",
+  "point_additions": [
+    {
+      "title": "用身体控制焦虑（上节课回顾）",
+      "atom_ids": [
+        "s-860fef907c60-c001:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-860fef907c60",
+          "blocks": [
+            "b00003",
+            "b00004"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    },
+    {
+      "title": "焦虑的外部诱因",
+      "atom_ids": [
+        "s-860fef907c60-c001:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-860fef907c60",
+          "blocks": [
+            "b00040"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "cause"
+    },
+    {
+      "title": "正常压力与焦虑症的区别",
+      "atom_ids": [
+        "s-860fef907c60-c002:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-860fef907c60",
+          "blocks": [
+            "b00044",
+            "b00045",
+            "b00053"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "definition"
+    },
+    {
+      "title": "青少年可能不自知恐慌发作",
+      "atom_ids": [
+        "s-860fef907c60-c002:v2-n002"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-860fef907c60",
+          "blocks": [
+            "b00059",
+            "b00060"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "fact"
+    },
+    {
+      "title": "严重焦虑抑郁者的危机求助选项",
+      "atom_ids": [
+        "s-860fef907c60-c003:v2-n001"
+      ],
+      "source_refs": [
+        {
+          "source_id": "s-860fef907c60",
+          "blocks": [
+            "b00105",
+            "b00106"
+          ],
+          "source_kind": "A1"
+        }
+      ],
+      "kind": "method"
+    }
+  ]
+}
