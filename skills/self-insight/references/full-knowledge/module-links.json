@@ -58,7 +58,8 @@
     ],
     "evidence": "reviewed_knowledge_synthesis_not_source_fact",
     "source_limits": [],
-    "scope": "cross_module"
+    "scope": "cross_module",
+    "source_conditions": []
   },
   {
     "source_id": "s-cce7b6591f65",
@@ -3237,7 +3238,8 @@
     ],
     "evidence": "reviewed_knowledge_synthesis_not_source_fact",
     "source_limits": [],
-    "scope": "cross_module"
+    "scope": "cross_module",
+    "source_conditions": []
   },
   {
     "source_id": "s-f0f2f4a07fe8",
@@ -7167,7 +7169,8 @@
     ],
     "evidence": "reviewed_knowledge_synthesis_not_source_fact",
     "source_limits": [],
-    "scope": "cross_module"
+    "scope": "cross_module",
+    "source_conditions": []
   },
   {
     "source_id": "s-468b6ef0b380",
@@ -7854,11 +7857,25 @@
       {
         "atom_id": "s-91787c8bfbe9-c001:a010",
         "limits": [
-          "原文未提及停止条件。"
+          "该通用说明提供了家长休息后恢复或取消出行的条件，但没有给出完整的儿童安全前提；后续另有保姆陪同孩子打车回家的个案，不能因此声称全文没有监护安排，也不能把该个案当成适用于任何地点与儿童的完整操作流程。"
         ]
       }
     ],
-    "scope": "cross_module"
+    "scope": "cross_module",
+    "source_conditions": [
+      {
+        "atom_id": "s-91787c8bfbe9-c001:a002",
+        "conditions": [
+          "适用于孩子在公共场合尖叫、哭闹的情况。"
+        ]
+      },
+      {
+        "atom_id": "s-91787c8bfbe9-c001:a010",
+        "conditions": [
+          "适用于开车时孩子吵闹的情况。"
+        ]
+      }
+    ]
   },
   {
     "source_id": "s-91787c8bfbe9",
@@ -11817,7 +11834,21 @@
         ]
       }
     ],
-    "scope": "cross_module"
+    "scope": "cross_module",
+    "source_conditions": [
+      {
+        "atom_id": "s-e0f735219a1f-c002:a001",
+        "conditions": [
+          "孩子因与众不同被孤立"
+        ]
+      },
+      {
+        "atom_id": "s-e0f735219a1f-c001:a015",
+        "conditions": [
+          "孩子缺乏自信"
+        ]
+      }
+    ]
   },
   {
     "source_id": "s-e0f735219a1f",
@@ -11848,7 +11879,27 @@
         ]
       }
     ],
-    "scope": "cross_module"
+    "scope": "cross_module",
+    "source_conditions": [
+      {
+        "atom_id": "s-e0f735219a1f-c001:a009",
+        "conditions": [
+          "孩子忘记或不愿履行责任"
+        ]
+      },
+      {
+        "atom_id": "s-e0f735219a1f-c001:r006",
+        "conditions": [
+          "孩子忘记或不愿履行责任"
+        ]
+      },
+      {
+        "atom_id": "s-e0f735219a1f-c002:a022",
+        "conditions": [
+          "孩子心情不好或任务困难"
+        ]
+      }
+    ]
   },
   {
     "source_id": "s-e0f735219a1f",
@@ -11929,7 +11980,21 @@
         ]
       }
     ],
-    "scope": "cross_module"
+    "scope": "cross_module",
+    "source_conditions": [
+      {
+        "atom_id": "s-e0f735219a1f-c002:a002",
+        "conditions": [
+          "孩子年龄为五岁"
+        ]
+      },
+      {
+        "atom_id": "s-e0f735219a1f-c002:a003",
+        "conditions": [
+          "孩子年龄较小，如五岁"
+        ]
+      }
+    ]
   },
   {
     "source_id": "s-9354c03528d2",

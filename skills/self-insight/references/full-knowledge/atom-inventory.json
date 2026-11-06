@@ -1,0 +1,108 @@
+{
+  "schema": "self-insight-atom-inventory-v1",
+  "unit": "knowledge_atom",
+  "total_atoms": 13479,
+  "legacy_atoms": 477,
+  "expanded_atoms": 13002,
+  "background_items": 42,
+  "types": {
+    "concept": 11144,
+    "relation": 166,
+    "case": 1960,
+    "anti-pattern": 209
+  },
+  "relationship_edges": 35826,
+  "counting": "Atom entries include concepts, relations, cases and counterexamples; context is excluded. Equivalent ideas in different source contexts are retained, not advertised as unique concepts.",
+  "modules": [
+    {
+      "name": "专注力",
+      "atoms": 356,
+      "types": {
+        "concept": 284,
+        "relation": 12,
+        "case": 56,
+        "anti-pattern": 4
+      }
+    },
+    {
+      "name": "依赖与失控",
+      "atoms": 612,
+      "types": {
+        "concept": 479,
+        "relation": 12,
+        "case": 107,
+        "anti-pattern": 14
+      }
+    },
+    {
+      "name": "内在能力",
+      "atoms": 721,
+      "types": {
+        "concept": 597,
+        "relation": 13,
+        "case": 100,
+        "anti-pattern": 11
+      }
+    },
+    {
+      "name": "理解情绪",
+      "atoms": 2318,
+      "types": {
+        "concept": 1866,
+        "relation": 28,
+        "case": 391,
+        "anti-pattern": 33
+      }
+    },
+    {
+      "name": "界限",
+      "atoms": 4653,
+      "types": {
+        "concept": 3815,
+        "relation": 28,
+        "case": 716,
+        "anti-pattern": 94
+      }
+    },
+    {
+      "name": "自我修养",
+      "atoms": 1197,
+      "types": {
+        "concept": 1030,
+        "relation": 19,
+        "case": 133,
+        "anti-pattern": 15
+      }
+    },
+    {
+      "name": "自我认知",
+      "atoms": 1651,
+      "types": {
+        "concept": 1387,
+        "relation": 24,
+        "case": 230,
+        "anti-pattern": 10
+      }
+    },
+    {
+      "name": "规则与行动",
+      "atoms": 897,
+      "types": {
+        "concept": 722,
+        "relation": 17,
+        "case": 130,
+        "anti-pattern": 28
+      }
+    },
+    {
+      "name": "阶段与角色",
+      "atoms": 1349,
+      "types": {
+        "concept": 1144,
+        "relation": 15,
+        "case": 176,
+        "anti-pattern": 14
+      }
+    }
+  ]
+}

@@ -890,8 +890,8 @@
       ]
     },
     {
-      "name": "色情上瘾是表达愤怒的方式",
-      "definition": "色情上瘾是表达愤怒的一种方式，属于失控的表现。",
+      "name": "夫妻隐忍情境中色情上瘾被列为愤怒表达的例子",
+      "definition": "在讨论夫妻之间一方长期隐忍、没有说出对伴侣的愤怒时，讲者把色情上瘾列为可能用其他方式表达愤怒、呈现失控的例子之一。这里是特定情境下的课程解释，不是对所有色情上瘾成因的判断。",
       "atom_ids": [
         "s-8f8bb5fde6bd-c006:a023"
       ]
@@ -2340,9 +2340,9 @@
     {
       "source": "s-8f8bb5fde6bd-c006:a023",
       "target": "s-8f8bb5fde6bd-c006:a004",
-      "kind": "supports",
-      "condition": "无",
-      "reason": "k00249 色情上瘾是表达愤怒的方式支持 k00230 情绪必须表达，压抑会以其他方式释放的观点。"
+      "kind": "example_of",
+      "condition": "仅在来源所讨论的夫妻隐忍、对伴侣有未表达愤怒的情境中。",
+      "reason": "a023 是 a004 所述情绪可能以其他方式表达的列举之一，不是对所有色情上瘾原因的独立验证。"
     },
     {
       "source": "s-8f8bb5fde6bd-c006:a024",
@@ -2499,9 +2499,10 @@
     {
       "source": "s-8f8bb5fde6bd-c006:a023",
       "target": "s-8f8bb5fde6bd-c006:a023",
-      "kind": "supports",
-      "condition": "无",
-      "reason": "k00270 色情上瘾是表达愤怒的方式支持 k00249 色情上瘾是表达愤怒的方式的观点。"
+      "kind": "association",
+      "condition": "源、目标是同一原子 ID；只保留自连接位置，不作为独立支持或因果证据。",
+      "reason": "同一原子不能证明自身关于色情上瘾与愤怒的主张；读取修正后的夫妻隐忍情境及限制。",
+      "review_status": "uncertain"
     },
     {
       "source": "s-8f8bb5fde6bd-c006:a024",
@@ -4292,7 +4293,7 @@
       "target": "s-8f8bb5fde6bd-c006:v2-n004",
       "kind": "association",
       "condition": "target 是具体家庭冲突案例。",
-      "reason": "source 是界限问题课程路径，target 是冰水的丈夫失控案例，两者主题相关但无直接因果或步骤关系。",
+      "reason": "source 是界限问题课程路径，target 是学员的丈夫失控案例，两者主题相关但无直接因果或步骤关系。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -4300,7 +4301,7 @@
       "target": "s-8f8bb5fde6bd-c006:v2-n002",
       "kind": "association",
       "condition": "target 是具体家庭冲突案例。",
-      "reason": "source 是界限问题课程路径，target 是冰水的丈夫失控案例，两者主题相关但无直接因果或步骤关系。",
+      "reason": "source 是界限问题课程路径，target 是学员的丈夫失控案例，两者主题相关但无直接因果或步骤关系。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -4596,7 +4597,7 @@
       "target": "s-8f8bb5fde6bd-c006:a016",
       "kind": "example_of",
       "condition": "在学员案例中，讲师要求行动体现了该原则。",
-      "reason": "source 中讲师要求冰水不要只是提问而要行动，说“你就走，走试试看一次”；target 主张改变需要行动而非提问。source 是该原则的具体例证。",
+      "reason": "source 中讲师要求学员不要只是提问而要行动，说“你就走，走试试看一次”；target 主张改变需要行动而非提问。source 是该原则的具体例证。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -4604,7 +4605,7 @@
       "target": "s-8f8bb5fde6bd-c006:v2-n004",
       "kind": "has_example",
       "condition": "在学员案例中，讲师要求行动体现了该原则。",
-      "reason": "source 中讲师要求冰水不要只是提问而要行动，说“你就走，走试试看一次”；target 主张改变需要行动而非提问。source 是该原则的具体例证。",
+      "reason": "source 中讲师要求学员不要只是提问而要行动，说“你就走，走试试看一次”；target 主张改变需要行动而非提问。source 是该原则的具体例证。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -5316,7 +5317,7 @@
       "atom_ids": [
         "s-8f8bb5fde6bd-c006:a023"
       ],
-      "reason": "两者都说明色情上瘾是表达愤怒的方式。"
+      "reason": "相关记录讨论夫妻一方长期隐忍、未表达对伴侣愤怒的特定情境，讲者把色情上瘾列为可能的愤怒表达例子；不能据此普遍推断色情上瘾成因。"
     },
     {
       "atom_ids": [
@@ -7537,8 +7538,23 @@
         {
           "source_id": "s-8f8bb5fde6bd",
           "blocks": [
+            "b00160",
+            "b00161",
+            "b00162",
+            "b00163",
+            "b00164",
+            "b00165",
+            "b00166",
+            "b00167",
+            "b00168",
+            "b00169",
+            "b00170",
+            "b00171",
             "b00212",
-            "b00213"
+            "b00213",
+            "b00230",
+            "b00231",
+            "b00232"
           ],
           "source_kind": "A1"
         }

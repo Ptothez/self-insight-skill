@@ -1351,33 +1351,33 @@
     {
       "source": "s-e0f735219a1f-c002:v2-n006",
       "target": "s-e0f735219a1f-c002:a002",
-      "kind": "example_of",
-      "condition": "当孩子五岁左右时，source 案例选了孩子喜欢的三件事坚持，符合 target 的不超过三件原则。",
-      "reason": "source 案例：家长从孩子喜欢的事情中选三件坚持，包括看蚂蚁；target：五岁孩子最多同时坚持三件事情，超过三件难以承受。source 践行了 target 的数量限制，是 target 的具体实例。",
+      "kind": "complements",
+      "condition": "在讨论五岁孩子坚持事项的数量上限时；案例中讲者孩子的确切年龄未记载。",
+      "reason": "看蚂蚁的案例叙述家中选了三件喜欢的活动坚持；a002 给出五岁孩子不超过三件的限定。数量示例和年龄限定互补，不能据此确认案例孩子的年龄。",
       "evidence": "source_atom_relationship_review"
     },
     {
       "source": "s-e0f735219a1f-c002:a002",
       "target": "s-e0f735219a1f-c002:v2-n006",
-      "kind": "has_example",
-      "condition": "当孩子五岁左右时，source 案例选了孩子喜欢的三件事坚持，符合 target 的不超过三件原则。",
-      "reason": "source 案例：家长从孩子喜欢的事情中选三件坚持，包括看蚂蚁；target：五岁孩子最多同时坚持三件事情，超过三件难以承受。source 践行了 target 的数量限制，是 target 的具体实例。",
+      "kind": "complements",
+      "condition": "在讨论五岁孩子坚持事项的数量上限时；案例中讲者孩子的确切年龄未记载。",
+      "reason": "看蚂蚁的案例叙述家中选了三件喜欢的活动坚持；a002 给出五岁孩子不超过三件的限定。数量示例和年龄限定互补，不能据此确认案例孩子的年龄。",
       "evidence": "source_atom_relationship_review"
     },
     {
       "source": "s-e0f735219a1f-c002:v2-n006",
       "target": "s-e0f735219a1f-c002:a003",
       "kind": "complements",
-      "condition": "当为孩子选择坚持事项时，target 补充挑选主体和排除项目。",
-      "reason": "source 案例说明从孩子喜欢的事情中选三件坚持，未明确谁挑选；target 提出让孩子自己挑选最喜欢的事情并排除看电视、打游戏等，补充了挑选操作的具体原则。",
+      "condition": "选择需要坚持的活动时；孩子自选喜爱的事项，父母不代选。",
+      "reason": "看蚂蚁是孩子喜欢的具体活动；a003 明确由孩子挑选并排除电视、游戏等事项，为案例补充选择主体和范围。",
       "evidence": "source_atom_relationship_review"
     },
     {
       "source": "s-e0f735219a1f-c002:a003",
       "target": "s-e0f735219a1f-c002:v2-n006",
       "kind": "complements",
-      "condition": "当为孩子选择坚持事项时，target 补充挑选主体和排除项目。",
-      "reason": "source 案例说明从孩子喜欢的事情中选三件坚持，未明确谁挑选；target 提出让孩子自己挑选最喜欢的事情并排除看电视、打游戏等，补充了挑选操作的具体原则。",
+      "condition": "选择需要坚持的活动时；孩子自选喜爱的事项，父母不代选。",
+      "reason": "看蚂蚁是孩子喜欢的具体活动；a003 明确由孩子挑选并排除电视、游戏等事项，为案例补充选择主体和范围。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1400,32 +1400,32 @@
       "source": "s-e0f735219a1f-c002:v2-n006",
       "target": "s-e0f735219a1f-c002:a019",
       "kind": "association",
-      "condition": "两者都涉及坚持，但 target 增加承诺并花费金钱的条件，source 案例不具备。",
-      "reason": "source 案例是家长选三件坚持，未提及承诺花费；target 规定孩子承诺做某事并花费家长金钱后必须坚持，条件不同，仅存在‘坚持’主题关联。",
+      "condition": "仅比较坚持主题；看蚂蚁的案例未记载承诺或付费，不自动适用目标原子的承诺付费条件。",
+      "reason": "看蚂蚁案例记录喜爱活动与持续实践；a019 另有孩子承诺且家长付费的条件，两者仅主题相关。",
       "evidence": "source_atom_relationship_review"
     },
     {
       "source": "s-e0f735219a1f-c002:a019",
       "target": "s-e0f735219a1f-c002:v2-n006",
       "kind": "association",
-      "condition": "两者都涉及坚持，但 target 增加承诺并花费金钱的条件，source 案例不具备。",
-      "reason": "source 案例是家长选三件坚持，未提及承诺花费；target 规定孩子承诺做某事并花费家长金钱后必须坚持，条件不同，仅存在‘坚持’主题关联。",
+      "condition": "仅比较坚持主题；看蚂蚁的案例未记载承诺或付费，不自动适用目标原子的承诺付费条件。",
+      "reason": "看蚂蚁案例记录喜爱活动与持续实践；a019 另有孩子承诺且家长付费的条件，两者仅主题相关。",
       "evidence": "source_atom_relationship_review"
     },
     {
       "source": "s-e0f735219a1f-c002:v2-n006",
       "target": "s-e0f735219a1f-c001:a010",
       "kind": "association",
-      "condition": "两者都涉及坚持，但性质不同：source 是家长主导坚持正面活动，target 是孩子坚持不当行为导致后果。",
-      "reason": "source 案例中家长坚持让孩子看蚂蚁；target 案例中孩子坚持穿短裤导致发烧，事后总结教训，均涉及坚持但情境相反，仅主题关联。",
+      "condition": "仅比较不同情境下的坚持；不能把孩子自选喜爱活动等同于坚持不当行为。",
+      "reason": "本例是孩子喜爱的观察活动由家长支持持续；a010 讨论坚持不当行为的后果，两者只作主题关联，不互作行为建议。",
       "evidence": "source_atom_relationship_review"
     },
     {
       "source": "s-e0f735219a1f-c001:a010",
       "target": "s-e0f735219a1f-c002:v2-n006",
       "kind": "association",
-      "condition": "两者都涉及坚持，但性质不同：source 是家长主导坚持正面活动，target 是孩子坚持不当行为导致后果。",
-      "reason": "source 案例中家长坚持让孩子看蚂蚁；target 案例中孩子坚持穿短裤导致发烧，事后总结教训，均涉及坚持但情境相反，仅主题关联。",
+      "condition": "仅比较不同情境下的坚持；不能把孩子自选喜爱活动等同于坚持不当行为。",
+      "reason": "本例是孩子喜爱的观察活动由家长支持持续；a010 讨论坚持不当行为的后果，两者只作主题关联，不互作行为建议。",
       "evidence": "source_atom_relationship_review"
     }
   ],
@@ -1481,15 +1481,23 @@
           "limits": [
             "短期方法效果有限"
           ]
+        }
+      ],
+      "scope": "cross_module",
+      "source_conditions": [
+        {
+          "atom_id": "s-e0f735219a1f-c002:a001",
+          "conditions": [
+            "孩子因与众不同被孤立"
+          ]
         },
         {
           "atom_id": "s-e0f735219a1f-c001:a015",
-          "limits": [
-            "短期方法效果有限"
+          "conditions": [
+            "孩子缺乏自信"
           ]
         }
-      ],
-      "scope": "cross_module"
+      ]
     },
     {
       "from": "规则与行动",
@@ -1519,7 +1527,27 @@
           ]
         }
       ],
-      "scope": "cross_module"
+      "scope": "cross_module",
+      "source_conditions": [
+        {
+          "atom_id": "s-e0f735219a1f-c001:a009",
+          "conditions": [
+            "孩子忘记或不愿履行责任"
+          ]
+        },
+        {
+          "atom_id": "s-e0f735219a1f-c001:r006",
+          "conditions": [
+            "孩子忘记或不愿履行责任"
+          ]
+        },
+        {
+          "atom_id": "s-e0f735219a1f-c002:a022",
+          "conditions": [
+            "孩子心情不好或任务困难"
+          ]
+        }
+      ]
     },
     {
       "from": "理解情绪",
@@ -1593,15 +1621,23 @@
           "limits": [
             "最多三件"
           ]
-        },
-        {
-          "atom_id": "s-e0f735219a1f-c002:a002",
-          "limits": [
-            "最多三件"
-          ]
         }
       ],
-      "scope": "cross_module"
+      "scope": "cross_module",
+      "source_conditions": [
+        {
+          "atom_id": "s-e0f735219a1f-c002:a002",
+          "conditions": [
+            "孩子年龄为五岁"
+          ]
+        },
+        {
+          "atom_id": "s-e0f735219a1f-c002:a003",
+          "conditions": [
+            "孩子年龄较小，如五岁"
+          ]
+        }
+      ]
     }
   ],
   "duplicate_groups": [
@@ -3103,6 +3139,9 @@
         {
           "source_id": "s-e0f735219a1f",
           "blocks": [
+            "b00047",
+            "b00048",
+            "b00049",
             "b00050"
           ],
           "source_kind": "A1"

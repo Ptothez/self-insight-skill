@@ -4,9 +4,9 @@ A conversational skill for understanding personal difficulties and clarifying re
 
 [中文](README.md)
 
-**9 modules · 13,521 searchable knowledge records · Cases & concept relationships**
+**9 modules · 13,479 knowledge atoms · Concepts, relations, cases & counterexamples**
 
-![Self Insight: nine modules, seven-step self-awareness and 13,521 knowledge records](assets/module-map.png?v=20261106-13521)
+![Self Insight: main entry, nine modules, seven-step self-awareness and knowledge atoms](assets/module-map.png?v=20261106-atoms)
 
 | Module | Purpose |
 |---|---|
@@ -24,9 +24,9 @@ Display names do not broaden the original scope. Parenting material is not autom
 
 ## Contents and use
 
-One entry point and nine modules, with 600 runtime files and 13,521 searchable knowledge records. This total combines the original 477 atoms with 13,044 expanded structured records, extracted and checked against 242 supplied texts. The original 54 knowledge and case files and dialogue methods are preserved. Search covers both layers and follows conditional links between them.
+One entry point and nine modules, backed by knowledge atoms and method packs covering concepts, relations, cases and counterexamples. The original 477 atoms, 54 knowledge and case files and dialogue methods remain intact. Full extraction adds 13,002 knowledge atoms, for 13,479 in total. Search covers both layers and follows conditional links between them.
 
-Records include concepts, procedures, cases, applicability conditions and limits. Record counts are not counts of unique concepts. Original transcripts, private notes, identity mappings and internal audit material are neither distributed nor required to use the skill.
+Atoms retain procedures, cases, applicability conditions, limits and provenance; they are not raw text chunks or a glossary. The breakdown is 11,144 concepts, 166 relations, 1,960 cases and 209 counterexamples. Another 42 context items are retained separately and excluded from the atom count. Entries with different conditions remain distinct, so the total is not a count of unique concepts. Original transcripts, private notes, identity mappings and internal audit material are neither distributed nor required to use the skill.
 
 Install all ten skills:
 

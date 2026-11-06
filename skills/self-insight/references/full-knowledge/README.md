@@ -1,8 +1,18 @@
-# 统一知识库 / Unified Knowledge Library
+# 知识原子库 / Knowledge Atom Library
 
 本库保留九模块的原有知识、方法与案例，并把全部已提供文本的补充知识接入同一检索入口。原有知识文件没有被改写或删减。
 
 The original nine-module knowledge, methods and cases remain intact. Additional knowledge from every supplied text is available through the same local search interface.
+
+## 原子与知识包 / Atoms and Knowledge Packs
+
+知识原子仍分为概念（含方法、条件与区分）、关系、案例、反例四类，不是单纯的概念定义。每条保留完整内容、来源、适用条件、限制及相关原子；案例保留已知事实和未知结果，关系保留方向与成立条件。原有五类知识文档与补充原子库一起服务九模块，不以摘要替代正文。
+
+当前共 13,479 条知识原子：原有 477 条，加全量补充 13,002 条。按类型为概念 11,144、关系 166、案例 1,960、反例 209；另有 42 条背景存档，不计入原子数量，仍保留且可显式查询。不同语境中的同类观点保持各自条件，不把条数宣传成互不重复的概念数。分类与模块统计见 `atom-inventory.json`。各模块可共享原子，模块计数不能相加作为全库数量。
+
+The library contains 13,479 knowledge atoms: concepts (including methods and conditions), relations, cases and counterexamples. This includes 477 retained atoms and 13,002 expanded atoms. Another 42 context items remain available but are not counted as knowledge atoms. Atom entries are not a count of unique concepts; shared module membership is not additive. See `atom-inventory.json` for the breakdown.
+
+`records/*.jsonl` 与 `legacy-records.jsonl` 是兼容既有检索的存储文件名，不是另一种知识产品，也不改变原子标准。关系网另含原子间的连接；连接数不冒充原子数。
 
 ## 查找具体知识 / Find Knowledge
 

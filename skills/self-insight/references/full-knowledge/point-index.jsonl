@@ -8946,7 +8946,7 @@
 {"id": "s-58976debe8c1-c001:u0043", "kind": "concept", "source_id": "s-58976debe8c1", "blocks": ["b00041"], "atom_ids": ["s-58976debe8c1-c001:r001"]}
 {"id": "s-58976debe8c1-c001:u0044", "kind": "concept", "source_id": "s-58976debe8c1", "blocks": ["b00042"], "atom_ids": ["s-58976debe8c1-c001:v2-n001"]}
 {"id": "s-58976debe8c1-c002:u01", "kind": "method", "source_id": "s-58976debe8c1", "blocks": ["b00042", "b00043"], "atom_ids": ["s-58976debe8c1-c001:r002", "s-58976debe8c1-c002:a001"]}
-{"id": "s-58976debe8c1-c002:u02", "kind": "case", "source_id": "s-58976debe8c1", "blocks": ["b00043"], "atom_ids": ["s-58976debe8c1-c001:r003"]}
+{"id": "s-58976debe8c1-c002:u02", "kind": "case", "source_id": "s-58976debe8c1", "blocks": ["b00043", "b00044"], "atom_ids": ["s-58976debe8c1-c001:r003"]}
 {"id": "s-58976debe8c1-c002:u03", "kind": "concept", "source_id": "s-58976debe8c1", "blocks": ["b00044", "b00045"], "atom_ids": ["s-58976debe8c1-c002:a002"]}
 {"id": "s-58976debe8c1-c002:u04", "kind": "method", "source_id": "s-58976debe8c1", "blocks": ["b00046", "b00047", "b00048", "b00049"], "atom_ids": ["s-58976debe8c1-c002:a003"]}
 {"id": "s-58976debe8c1-c002:u05", "kind": "condition", "source_id": "s-58976debe8c1", "blocks": ["b00050", "b00051"], "atom_ids": ["s-58976debe8c1-c002:a004"]}

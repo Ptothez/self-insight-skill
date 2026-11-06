@@ -1558,7 +1558,7 @@
       "target": "s-7b98da1c7d9e-c005:v2-n001",
       "kind": "complements",
       "condition": "在同一孩子被老师穿小鞋、是否转校的情境下",
-      "reason": "candidate 给出了 source 未提供的关键内容：如果不转校，将老师电话转给丈夫接，作为不解决转校问题的后果，补充了具体解决方案。",
+      "reason": "两条均连接同一转校沟通情境：原接电话的一方已承受不了，若另一方坚持不转校，则把老师电话转给该方自行处理。source 现已补入这一责任后果，实际执行结果仍未知。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1566,7 +1566,7 @@
       "target": "s-7b98da1c7d9e-c004:v2-n002",
       "kind": "complements",
       "condition": "在同一孩子被老师穿小鞋、是否转校的情境下",
-      "reason": "candidate 给出了 source 未提供的关键内容：如果不转校，将老师电话转给丈夫接，作为不解决转校问题的后果，补充了具体解决方案。",
+      "reason": "两条均连接同一转校沟通情境：原接电话的一方已承受不了，若另一方坚持不转校，则把老师电话转给该方自行处理。source 现已补入这一责任后果，实际执行结果仍未知。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1606,7 +1606,7 @@
       "target": "s-7b98da1c7d9e-c004:v2-n002",
       "kind": "complements",
       "condition": "在同一转校情境中",
-      "reason": "source 补全了 c004:v2-n002 缺失的具体后果：如果不转校，把老师电话转给丈夫接，让丈夫承担麻烦，从而解决未完成情境。",
+      "reason": "两条记录同一转校情境中的责任后果：不转校则由主张不转校的一方接老师电话；c004:v2-n002 已补齐这部分，不能再称其未完成。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1614,7 +1614,7 @@
       "target": "s-7b98da1c7d9e-c005:v2-n001",
       "kind": "complements",
       "condition": "在同一转校情境中",
-      "reason": "source 补全了 c004:v2-n002 缺失的具体后果：如果不转校，把老师电话转给丈夫接，让丈夫承担麻烦，从而解决未完成情境。",
+      "reason": "两条记录同一转校情境中的责任后果：不转校则由主张不转校的一方接老师电话；c004:v2-n002 已补齐这部分，不能再称其未完成。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -4128,7 +4128,7 @@
       "kind": "case"
     },
     {
-      "title": "告知后果的转校情境（未完成）",
+      "title": "告知后果的转校情境",
       "atom_ids": [
         "s-7b98da1c7d9e-c004:v2-n002"
       ],
@@ -4136,7 +4136,12 @@
         {
           "source_id": "s-7b98da1c7d9e",
           "blocks": [
-            "b00173"
+            "b00170",
+            "b00171",
+            "b00172",
+            "b00173",
+            "b00174",
+            "b00175"
           ],
           "source_kind": "A1"
         }

@@ -627,7 +627,7 @@
       "target": "s-bbb64f49498f-c002:a001",
       "kind": "complements",
       "condition": "一般育儿情境，无特定限制",
-      "reason": "source仅指出惩罚不是后果，未解释惩罚本质；candidate补充了惩罚是父母因生气而让孩子受罪、目的是发泄怒气，补全了区别要点。",
+      "reason": "本条已补入紧接后文对惩罚的定义；目标原子单独承载父母因生气而让孩子受罪、发泄怒气这一部分，可互补阅读，不再据本条原先的切段缺口断言未解释。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1107,7 +1107,7 @@
       "target": "s-bbb64f49498f-c001:v2-n003",
       "kind": "association",
       "condition": "讨论后果与惩罚区别时",
-      "reason": "source案例涉及自然后果，candidate讨论区别但未完整，两者欠缺具体联系。",
+      "reason": "source案例涉及自然后果，candidate现已补齐讲者对后果与惩罚的区别；两者在后果主题上关联，不据此认可案例中任何做法的安全性。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1115,7 +1115,7 @@
       "target": "s-bbb64f49498f-c002:v2-n003",
       "kind": "association",
       "condition": "讨论后果与惩罚区别时",
-      "reason": "source案例涉及自然后果，candidate讨论区别但未完整，两者欠缺具体联系。",
+      "reason": "source案例涉及自然后果，candidate现已补齐讲者对后果与惩罚的区别；两者在后果主题上关联，不据此认可案例中任何做法的安全性。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -3058,7 +3058,7 @@
       "kind": "method"
     },
     {
-      "title": "后果与惩罚的区别（未完整阐述）",
+      "title": "后果与惩罚的区别",
       "atom_ids": [
         "s-bbb64f49498f-c001:v2-n003"
       ],
@@ -3066,7 +3066,8 @@
         {
           "source_id": "s-bbb64f49498f",
           "blocks": [
-            "b00045"
+            "b00045",
+            "b00046"
           ],
           "source_kind": "A1"
         }

@@ -394,8 +394,8 @@
       "source": "s-c048cc18a7b2-c001:a009",
       "target": "s-c048cc18a7b2-c001:a017",
       "kind": "example_of",
-      "condition": "FBI特警案例展示心理控制生理",
-      "reason": "FBI特警面对父亲时全身发抖、无法行动，是童年记忆造成的恐惧控制身体、心理控制生理的具体例证。",
+      "condition": "某机构特警案例展示心理控制生理",
+      "reason": "某机构特警面对父亲时全身发抖、无法行动，是童年记忆造成的恐惧控制身体、心理控制生理的具体例证。",
       "evidence": "knowledge_synthesis",
       "review_status": "supported",
       "review_notes": "保留。"
@@ -597,7 +597,7 @@
       "target": "s-c048cc18a7b2-c001:a009",
       "kind": "association",
       "condition": "",
-      "reason": "FBI特警案例的细节是对FBI特警案例的详细描述，两者内容重叠，不构成支持关系。",
+      "reason": "某机构特警案例的细节是对某机构特警案例的详细描述，两者内容重叠，不构成支持关系。",
       "evidence": "knowledge_synthesis",
       "review_status": "revised",
       "review_notes": "原支持关系不准确，改为关联"

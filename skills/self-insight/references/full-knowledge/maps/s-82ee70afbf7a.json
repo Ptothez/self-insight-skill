@@ -2098,7 +2098,7 @@
       "kind": "reported_case"
     },
     {
-      "title": "学员提问未获答复：朋友冲突如何暗示",
+      "title": "朋友冲突的部分回应与待澄清提问",
       "atom_ids": [
         "s-82ee70afbf7a-c005:v2-n002"
       ],
@@ -2106,7 +2106,9 @@
         {
           "source_id": "s-82ee70afbf7a",
           "blocks": [
-            "b00163"
+            "b00163",
+            "b00164",
+            "b00165"
           ],
           "source_kind": "A1"
         }

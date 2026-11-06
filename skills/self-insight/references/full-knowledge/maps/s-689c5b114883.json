@@ -964,16 +964,16 @@
       "source": "s-689c5b114883-c001:v2-n001",
       "target": "s-689c5b114883-c002:v2-n001",
       "kind": "association",
-      "condition": "不同学员：source为Grace，候选为另一学员",
-      "reason": "候选描述另一学员对工作不感兴趣及担心对孩子好奇，与Grace的困惑相似但具体问题不同，不能混用。",
+      "condition": "不同学员：source为该学员，候选为另一学员",
+      "reason": "候选描述另一学员对工作不感兴趣及担心对孩子好奇，与该学员的困惑相似但具体问题不同，不能混用。",
       "evidence": "source_atom_relationship_review"
     },
     {
       "source": "s-689c5b114883-c002:v2-n001",
       "target": "s-689c5b114883-c001:v2-n001",
       "kind": "association",
-      "condition": "不同学员：source为Grace，候选为另一学员",
-      "reason": "候选描述另一学员对工作不感兴趣及担心对孩子好奇，与Grace的困惑相似但具体问题不同，不能混用。",
+      "condition": "不同学员：source为该学员，候选为另一学员",
+      "reason": "候选描述另一学员对工作不感兴趣及担心对孩子好奇，与该学员的困惑相似但具体问题不同，不能混用。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -981,7 +981,7 @@
       "target": "s-689c5b114883-c001:xe002",
       "kind": "complements",
       "condition": "均涉及寻找恩赐与擅长领域",
-      "reason": "候选提供外部职业评估工具如Strength Finder，补足了寻找恩赐的具体方法，帮助Grace探索兴趣。",
+      "reason": "候选提供外部职业评估工具如Strength Finder，补足了寻找恩赐的具体方法，帮助该学员探索兴趣。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -989,7 +989,7 @@
       "target": "s-689c5b114883-c001:v2-n001",
       "kind": "complements",
       "condition": "均涉及寻找恩赐与擅长领域",
-      "reason": "候选提供外部职业评估工具如Strength Finder，补足了寻找恩赐的具体方法，帮助Grace探索兴趣。",
+      "reason": "候选提供外部职业评估工具如Strength Finder，补足了寻找恩赐的具体方法，帮助该学员探索兴趣。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -997,7 +997,7 @@
       "target": "s-689c5b114883-c001:a003",
       "kind": "complements",
       "condition": "均涉及职业转型决策",
-      "reason": "候选给出转型建议：主业与兴趣分离，评估经济状况，补足了Grace面临转型时的策略选项。",
+      "reason": "候选给出转型建议：主业与兴趣分离，评估经济状况，补足了该学员面临转型时的策略选项。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1005,7 +1005,7 @@
       "target": "s-689c5b114883-c001:v2-n001",
       "kind": "complements",
       "condition": "均涉及职业转型决策",
-      "reason": "候选给出转型建议：主业与兴趣分离，评估经济状况，补足了Grace面临转型时的策略选项。",
+      "reason": "候选给出转型建议：主业与兴趣分离，评估经济状况，补足了该学员面临转型时的策略选项。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1013,7 +1013,7 @@
       "target": "s-689c5b114883-c003:a004",
       "kind": "complements",
       "condition": "均涉及工作与兴趣的关系",
-      "reason": "候选澄清工作不是为了兴趣，兴趣可作为生活调节，补足了Grace对工作与兴趣本质的理解。",
+      "reason": "候选澄清工作不是为了兴趣，兴趣可作为生活调节，补足了该学员对工作与兴趣本质的理解。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1021,7 +1021,7 @@
       "target": "s-689c5b114883-c001:v2-n001",
       "kind": "complements",
       "condition": "均涉及工作与兴趣的关系",
-      "reason": "候选澄清工作不是为了兴趣，兴趣可作为生活调节，补足了Grace对工作与兴趣本质的理解。",
+      "reason": "候选澄清工作不是为了兴趣，兴趣可作为生活调节，补足了该学员对工作与兴趣本质的理解。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1029,7 +1029,7 @@
       "target": "s-689c5b114883-c003:a011",
       "kind": "association",
       "condition": "类似职业选择困惑",
-      "reason": "候选是另一学员关于职业选择的提问，与Grace的困惑类似但具体内容不同，仅主题关联。",
+      "reason": "候选是另一学员关于职业选择的提问，与该学员的困惑类似但具体内容不同，仅主题关联。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1037,7 +1037,7 @@
       "target": "s-689c5b114883-c001:v2-n001",
       "kind": "association",
       "condition": "类似职业选择困惑",
-      "reason": "候选是另一学员关于职业选择的提问，与Grace的困惑类似但具体内容不同，仅主题关联。",
+      "reason": "候选是另一学员关于职业选择的提问，与该学员的困惑类似但具体内容不同，仅主题关联。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1045,7 +1045,7 @@
       "target": "s-689c5b114883-c003:a006",
       "kind": "association",
       "condition": "提供讲师个人案例",
-      "reason": "候选为讲师将挣钱与兴趣（做慈善）结合的案例，可作为Grace的启发，但非直接建议，关系不确定。",
+      "reason": "候选为讲师将挣钱与兴趣（做慈善）结合的案例，可作为该学员的启发，但非直接建议，关系不确定。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1053,7 +1053,7 @@
       "target": "s-689c5b114883-c001:v2-n001",
       "kind": "association",
       "condition": "提供讲师个人案例",
-      "reason": "候选为讲师将挣钱与兴趣（做慈善）结合的案例，可作为Grace的启发，但非直接建议，关系不确定。",
+      "reason": "候选为讲师将挣钱与兴趣（做慈善）结合的案例，可作为该学员的启发，但非直接建议，关系不确定。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1061,7 +1061,7 @@
       "target": "s-689c5b114883-c003:a010",
       "kind": "association",
       "condition": "主题无关",
-      "reason": "候选关于朋友圈晒学习行为，与Grace职业兴趣无直接关联。",
+      "reason": "候选关于朋友圈晒学习行为，与该学员职业兴趣无直接关联。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1069,7 +1069,7 @@
       "target": "s-689c5b114883-c001:v2-n001",
       "kind": "association",
       "condition": "主题无关",
-      "reason": "候选关于朋友圈晒学习行为，与Grace职业兴趣无直接关联。",
+      "reason": "候选关于朋友圈晒学习行为，与该学员职业兴趣无直接关联。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1077,7 +1077,7 @@
       "target": "s-689c5b114883-c003:a012",
       "kind": "association",
       "condition": "主题无关",
-      "reason": "候选关于孩子上学动力，与Grace职业兴趣无关。",
+      "reason": "候选关于孩子上学动力，与该学员职业兴趣无关。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1085,7 +1085,7 @@
       "target": "s-689c5b114883-c001:v2-n001",
       "kind": "association",
       "condition": "主题无关",
-      "reason": "候选关于孩子上学动力，与Grace职业兴趣无关。",
+      "reason": "候选关于孩子上学动力，与该学员职业兴趣无关。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1093,7 +1093,7 @@
       "target": "s-689c5b114883-c001:a004",
       "kind": "complements",
       "condition": "均涉及兴趣成为工作的风险",
-      "reason": "候选补充了兴趣成为工作后可能因赚钱压力而失去吸引力，为Grace转行决策提供了风险考量。",
+      "reason": "候选补充了兴趣成为工作后可能因赚钱压力而失去吸引力，为该学员转行决策提供了风险考量。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1101,7 +1101,7 @@
       "target": "s-689c5b114883-c001:v2-n001",
       "kind": "complements",
       "condition": "均涉及兴趣成为工作的风险",
-      "reason": "候选补充了兴趣成为工作后可能因赚钱压力而失去吸引力，为Grace转行决策提供了风险考量。",
+      "reason": "候选补充了兴趣成为工作后可能因赚钱压力而失去吸引力，为该学员转行决策提供了风险考量。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1109,7 +1109,7 @@
       "target": "s-689c5b114883-c001:xe003",
       "kind": "association",
       "condition": "主题无关",
-      "reason": "候选为学员的学习困境，与Grace的职业困惑不同，无直接关系。",
+      "reason": "一位学员的学习困境与另一位学员的职业困惑不同，无直接关系。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1117,7 +1117,7 @@
       "target": "s-689c5b114883-c001:v2-n001",
       "kind": "association",
       "condition": "主题无关",
-      "reason": "候选为学员的学习困境，与Grace的职业困惑不同，无直接关系。",
+      "reason": "一位学员的学习困境与另一位学员的职业困惑不同，无直接关系。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1125,7 +1125,7 @@
       "target": "s-689c5b114883-c001:xe005",
       "kind": "association",
       "condition": "主题无关",
-      "reason": "候选为孩子饮食与夫妻冲突，与Grace职业兴趣无关。",
+      "reason": "候选为孩子饮食与夫妻冲突，与该学员职业兴趣无关。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1133,7 +1133,7 @@
       "target": "s-689c5b114883-c001:v2-n001",
       "kind": "association",
       "condition": "主题无关",
-      "reason": "候选为孩子饮食与夫妻冲突，与Grace职业兴趣无关。",
+      "reason": "候选为孩子饮食与夫妻冲突，与该学员职业兴趣无关。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1141,7 +1141,7 @@
       "target": "s-689c5b114883-c002:a014",
       "kind": "association",
       "condition": "潜在相关：source未提保持好奇，候选提供方法",
-      "reason": "候选为保持对孩子好奇的方法，与Grace对孩子关注可能相关，但source未明确担忧，关系不确定。",
+      "reason": "候选为保持对孩子好奇的方法，与该学员对孩子关注可能相关，但source未明确担忧，关系不确定。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1149,7 +1149,7 @@
       "target": "s-689c5b114883-c001:v2-n001",
       "kind": "association",
       "condition": "潜在相关：source未提保持好奇，候选提供方法",
-      "reason": "候选为保持对孩子好奇的方法，与Grace对孩子关注可能相关，但source未明确担忧，关系不确定。",
+      "reason": "候选为保持对孩子好奇的方法，与该学员对孩子关注可能相关，但source未明确担忧，关系不确定。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1301,7 +1301,7 @@
       "target": "s-689c5b114883-c001:xe003",
       "kind": "association",
       "condition": "主题无关",
-      "reason": "候选为娟子的学习困境，与打架无关。",
+      "reason": "候选为该学员的学习困境，与打架无关。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1309,7 +1309,7 @@
       "target": "s-689c5b114883-c001:v2-n002",
       "kind": "association",
       "condition": "主题无关",
-      "reason": "候选为娟子的学习困境，与打架无关。",
+      "reason": "候选为该学员的学习困境，与打架无关。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1604,7 +1604,7 @@
       "source": "s-689c5b114883-c002:v2-n001",
       "target": "s-689c5b114883-c001:v2-n001",
       "kind": "association",
-      "condition": "类似案例：Grace的职业困惑",
+      "condition": "类似案例：该学员的职业困惑",
       "reason": "候选为另一学员的职业兴趣困惑，与source的担忧相似但具体问题不同，仅主题关联。",
       "evidence": "source_atom_relationship_review"
     },
@@ -1612,7 +1612,7 @@
       "source": "s-689c5b114883-c001:v2-n001",
       "target": "s-689c5b114883-c002:v2-n001",
       "kind": "association",
-      "condition": "类似案例：Grace的职业困惑",
+      "condition": "类似案例：该学员的职业困惑",
       "reason": "候选为另一学员的职业兴趣困惑，与source的担忧相似但具体问题不同，仅主题关联。",
       "evidence": "source_atom_relationship_review"
     },

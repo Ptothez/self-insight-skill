@@ -512,8 +512,8 @@
       ]
     },
     {
-      "name": "北大女孩被PUA自杀案例",
-      "definition": "北大有才华的女孩被渣男PUA后自杀。讲师认为很多女孩无法分辨渣男是因为父母不跟孩子谈性，也不教孩子谈恋爱。",
+      "name": "某高校女孩被PUA自杀案例",
+      "definition": "某高校有才华的女孩被渣男PUA后自杀。讲师认为很多女孩无法分辨渣男是因为父母不跟孩子谈性，也不教孩子谈恋爱。",
       "atom_ids": [
         "s-db9230e1a598-c003:a010"
       ]
@@ -1539,7 +1539,7 @@
       "target": "s-db9230e1a598-c003:a011",
       "kind": "supports",
       "condition": "案例说明不教孩子谈恋爱导致被动接受关系",
-      "reason": "北大女孩被PUA自杀案例中讲师指出女孩无法分辨渣男是因父母不教谈恋爱，该案例支持不教孩子谈恋爱导致被动接受关系的观点，原因果方向不成立。",
+      "reason": "某高校女孩被PUA自杀案例中讲师指出女孩无法分辨渣男是因父母不教谈恋爱，该案例支持不教孩子谈恋爱导致被动接受关系的观点，原因果方向不成立。",
       "evidence": "knowledge_synthesis",
       "review_status": "revised",
       "review_notes": "原causes方向应为案例支持观点。"
@@ -2230,7 +2230,7 @@
       "target": "s-db9230e1a598-c003:a010",
       "kind": "association",
       "condition": "父母不教性/恋爱的负面后果案例",
-      "reason": "source指出父母在性教育上被动需要学习，candidate提供具体案例：北大女孩被PUA自杀，讲师认为父母不跟孩子谈性不教恋爱导致女孩无法分辨渣男，可作为source所述被动状态后果的实例（但非直接因果，故关联）。",
+      "reason": "source指出父母在性教育上被动需要学习，candidate提供具体案例：某高校女孩被PUA自杀，讲师认为父母不跟孩子谈性不教恋爱导致女孩无法分辨渣男，可作为source所述被动状态后果的实例（但非直接因果，故关联）。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -2238,7 +2238,7 @@
       "target": "s-db9230e1a598-c001:v2-n001",
       "kind": "association",
       "condition": "父母不教性/恋爱的负面后果案例",
-      "reason": "source指出父母在性教育上被动需要学习，candidate提供具体案例：北大女孩被PUA自杀，讲师认为父母不跟孩子谈性不教恋爱导致女孩无法分辨渣男，可作为source所述被动状态后果的实例（但非直接因果，故关联）。",
+      "reason": "source指出父母在性教育上被动需要学习，candidate提供具体案例：某高校女孩被PUA自杀，讲师认为父母不跟孩子谈性不教恋爱导致女孩无法分辨渣男，可作为source所述被动状态后果的实例（但非直接因果，故关联）。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -2806,7 +2806,7 @@
       "target": "s-db9230e1a598-c003:a010",
       "kind": "association",
       "condition": "不教孩子谈恋爱的负面案例",
-      "reason": "source 反对早恋标签、主张引导，target 提供北大女孩被 PUA 自杀案例，说明不引导的后果，与 source 观点相关但无直接关系。",
+      "reason": "source 反对早恋标签、主张引导，target 提供某高校女孩被 PUA 自杀案例，说明不引导的后果，与 source 观点相关但无直接关系。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -2814,7 +2814,7 @@
       "target": "s-db9230e1a598-c002:v2-n004",
       "kind": "association",
       "condition": "不教孩子谈恋爱的负面案例",
-      "reason": "source 反对早恋标签、主张引导，target 提供北大女孩被 PUA 自杀案例，说明不引导的后果，与 source 观点相关但无直接关系。",
+      "reason": "source 反对早恋标签、主张引导，target 提供某高校女孩被 PUA 自杀案例，说明不引导的后果，与 source 观点相关但无直接关系。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -2838,7 +2838,7 @@
       "target": "s-db9230e1a598-c003:a010",
       "kind": "association",
       "condition": "两者均为PUA相关案例，但受害者身份和关系类型不同（source为丈夫PUA妻子，candidate为男友PUA女友）。",
-      "reason": "source 描述家长被丈夫PUA且不自知，candidate 描述北大女孩被渣男PUA后自杀，两者都涉及PUA且均与缺乏性教育/关系认知有关，但具体情境不同，无直接逻辑依赖，故为关联。",
+      "reason": "source 描述家长被丈夫PUA且不自知，candidate 描述某高校女孩被渣男PUA后自杀，两者都涉及PUA且均与缺乏性教育/关系认知有关，但具体情境不同，无直接逻辑依赖，故为关联。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -2846,7 +2846,7 @@
       "target": "s-db9230e1a598-c003:v2-n001",
       "kind": "association",
       "condition": "两者均为PUA相关案例，但受害者身份和关系类型不同（source为丈夫PUA妻子，candidate为男友PUA女友）。",
-      "reason": "source 描述家长被丈夫PUA且不自知，candidate 描述北大女孩被渣男PUA后自杀，两者都涉及PUA且均与缺乏性教育/关系认知有关，但具体情境不同，无直接逻辑依赖，故为关联。",
+      "reason": "source 描述家长被丈夫PUA且不自知，candidate 描述某高校女孩被渣男PUA后自杀，两者都涉及PUA且均与缺乏性教育/关系认知有关，但具体情境不同，无直接逻辑依赖，故为关联。",
       "evidence": "source_atom_relationship_review"
     },
     {

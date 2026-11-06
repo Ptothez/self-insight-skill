@@ -965,7 +965,8 @@
       ],
       "evidence": "reviewed_knowledge_synthesis_not_source_fact",
       "source_limits": [],
-      "scope": "cross_module"
+      "scope": "cross_module",
+      "source_conditions": []
     },
     {
       "from": "界限",

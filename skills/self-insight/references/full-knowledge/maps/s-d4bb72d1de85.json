@@ -104,23 +104,23 @@
       "source": "s-d4bb72d1de85-c001:v2-n001",
       "target": "s-d4bb72d1de85-c001:a001",
       "kind": "association",
-      "condition": "无明确条件",
-      "reason": "source 提出需要回溯和审视父母教育方式，a001 描述父母从意识到问题到愿意学习改变，两者都涉及父母对教育方式的反思，但 source 未提及具体转变过程，仅主题相关。",
+      "condition": "仅在讨论父母教育方式与自身改变的主题联系时，不推出所有问题都必须回溯父母。",
+      "reason": "v2-n001 陈述讲者关于父母教育方式与孩子心理问题的经验关联；a001 描述父母愿意学习和改变的过程。二者主题相关，但来源未给出理解问题必须回溯父母的步骤。",
       "evidence": "source_atom_relationship_review"
     },
     {
       "source": "s-d4bb72d1de85-c001:a001",
       "target": "s-d4bb72d1de85-c001:v2-n001",
       "kind": "association",
-      "condition": "无明确条件",
-      "reason": "source 提出需要回溯和审视父母教育方式，a001 描述父母从意识到问题到愿意学习改变，两者都涉及父母对教育方式的反思，但 source 未提及具体转变过程，仅主题相关。",
+      "condition": "仅在讨论父母教育方式与自身改变的主题联系时，不推出所有问题都必须回溯父母。",
+      "reason": "v2-n001 陈述讲者关于父母教育方式与孩子心理问题的经验关联；a001 描述父母愿意学习和改变的过程。二者主题相关，但来源未给出理解问题必须回溯父母的步骤。",
       "evidence": "source_atom_relationship_review"
     },
     {
       "source": "s-d4bb72d1de85-c001:v2-n001",
       "target": "s-d4bb72d1de85-c001:a002",
       "kind": "association",
-      "condition": "无明确条件",
+      "condition": "仅在比较父母教育方式与应对方式的相关主题时。",
       "reason": "source 提及父母教育方式问题，a002 分类抱怨型与改变型父母，均涉及父母应对方式，但 source 未明确分类，仅主题相关。",
       "evidence": "source_atom_relationship_review"
     },
@@ -128,7 +128,7 @@
       "source": "s-d4bb72d1de85-c001:a002",
       "target": "s-d4bb72d1de85-c001:v2-n001",
       "kind": "association",
-      "condition": "无明确条件",
+      "condition": "仅在比较父母教育方式与应对方式的相关主题时。",
       "reason": "source 提及父母教育方式问题，a002 分类抱怨型与改变型父母，均涉及父母应对方式，但 source 未明确分类，仅主题相关。",
       "evidence": "source_atom_relationship_review"
     }

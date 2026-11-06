@@ -991,7 +991,7 @@
       "source": "s-be35ede0becb-c002:v2-n007",
       "target": "s-be35ede0becb-c001:a018",
       "kind": "example_of",
-      "condition": "父女关系冲突且父亲以关系要挟时",
+      "condition": "父亲因女儿离异而感到丢脸、反复责怪，父女为此争执时",
       "reason": "source 描述了在父女冲突中立界限并告知后果的具体做法，是 a018 通用方法在该情境下的应用，source 是 a018 的具体实例。",
       "evidence": "source_atom_relationship_review"
     },
@@ -1024,7 +1024,7 @@
       "target": "s-be35ede0becb-c001:r008",
       "kind": "association",
       "condition": "理解但不认同并设立界限",
-      "reason": "r008 强调理解对方观点来源但不认同，source 只说“不必完全理解文化差异”但立界限，两者有重叠，但 source 未包含理解步骤，关联不确定。",
+      "reason": "r008强调理解对方观点来源但不必认同；本条同一问答也先区分理解与认同，再提出立界限和讲后果，两者在这一原则上相关。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -2239,6 +2239,11 @@
         {
           "source_id": "s-be35ede0becb",
           "blocks": [
+            "b00036",
+            "b00037",
+            "b00038",
+            "b00039",
+            "b00040",
             "b00041"
           ],
           "source_kind": "A1"

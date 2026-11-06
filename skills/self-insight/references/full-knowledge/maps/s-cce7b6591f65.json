@@ -111,7 +111,7 @@
     },
     {
       "name": "八个能力",
-      "definition": "AI时代孩子需要具备八个能力，第一个能力是分析知识、判断信息，其他能力未详细展开。",
+      "definition": "讲者提出AI时代孩子需要具备八个能力：分析知识、判断信息，与AI沟通，沟通自省，底层逻辑思维，领导力，专业领域的审美能力，创造力和国际社交力。同一讲座后文逐项展开并提供训练方向或示例；这是本讲座的框架，不是新增的研究证明。",
       "atom_ids": [
         "s-cce7b6591f65-c003:a008"
       ]
@@ -3058,7 +3058,7 @@
       "target": "s-cce7b6591f65-c003:v2-n002",
       "kind": "association",
       "condition": "关于AI时代孩子需要具备的八个能力",
-      "reason": "源路径要求获得能力，候选列出八个能力，具体能力之一，但未展开。",
+      "reason": "目标原子提出改变、获得能力、应对AI的宏观路径；本条概述八个能力，同源后文已继续展开这些能力。保留主题关联，不把原子切段范围当作整课未展开。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -4831,7 +4831,8 @@
       ],
       "evidence": "reviewed_knowledge_synthesis_not_source_fact",
       "source_limits": [],
-      "scope": "cross_module"
+      "scope": "cross_module",
+      "source_conditions": []
     },
     {
       "from": "理解情绪",
@@ -8177,7 +8178,19 @@
           "source_id": "s-cce7b6591f65",
           "blocks": [
             "b00080",
-            "b00081"
+            "b00081",
+            "b00082",
+            "b00083",
+            "b00084",
+            "b00085",
+            "b00086",
+            "b00087",
+            "b00088",
+            "b00089",
+            "b00090",
+            "b00091",
+            "b00092",
+            "b00093"
           ],
           "source_kind": "A1"
         }

@@ -1230,7 +1230,7 @@
       "target": "s-f40e8ddfb363-c002:a004",
       "kind": "complements",
       "condition": "针对四岁和两岁孩子的阶段",
-      "reason": "source 中家长请求举例重要不紧急事务，candidate 提供了如厕训练作为具体实例，补充了 source 中缺失的答案。",
+      "reason": "同一问答后文已经以如厕训练回答本条的举例请求；目标原子单独承载该实例，可互补阅读，不再把本条描述为没有答案。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1246,7 +1246,7 @@
       "target": "s-f40e8ddfb363-c002:a003",
       "kind": "complements",
       "condition": "在解释四象限时间管理时",
-      "reason": "source 提到讲师仅重复“平均每天60%”，candidate 详细解释了 60% 是长期平均而非严格每天，补充了该含义。",
+      "reason": "本条所引第39块后的续文明确60%为平均而非严格每天；目标原子承载该解释，可互补阅读。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1494,7 +1494,7 @@
       "target": "s-f40e8ddfb363-c002:v2-n002",
       "kind": "association",
       "condition": "同为请求具体例子",
-      "reason": "source 中学员请求第三象限例子未获具体回答，v2-n004 请求重要不紧急例子也未获具体回答，两者都体现提问具体性不足，但具体主题不同。",
+      "reason": "两者都请求象限法的具体例子，但主题不同；本条的重要不紧急举例已在后文以如厕训练回答，不能据原切段将两者都归为未获回答。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -1670,7 +1670,7 @@
       "target": "s-f40e8ddfb363-c002:v2-n004",
       "kind": "association",
       "condition": "在提问场景的比较中，source 是讲师对提问的点评，candidate 是家长提问的案例。",
-      "reason": "source 指出提问不应包装真实问题，candidate 是家长请求举例但讲师未能给出，两者都涉及提问与回答的困难，但具体问题不同，故 association。",
+      "reason": "目标原子讨论提问不应包装真实问题，本条记录家长请求重要不紧急事务举例及讲者的如厕训练回答；两者同属提问情境，具体焦点不同，保留关联。",
       "evidence": "source_atom_relationship_review"
     },
     {
@@ -3414,7 +3414,11 @@
         {
           "source_id": "s-f40e8ddfb363",
           "blocks": [
-            "b00039"
+            "b00039",
+            "b00040",
+            "b00041",
+            "b00042",
+            "b00043"
           ],
           "source_kind": "A1"
         }
@@ -3447,7 +3451,16 @@
         {
           "source_id": "s-f40e8ddfb363",
           "blocks": [
-            "b00026"
+            "b00026",
+            "b00027",
+            "b00028",
+            "b00029",
+            "b00030",
+            "b00031",
+            "b00032",
+            "b00033",
+            "b00034",
+            "b00035"
           ],
           "source_kind": "A1"
         }
@@ -3528,8 +3541,12 @@
         {
           "source_id": "s-f40e8ddfb363",
           "blocks": [
+            "b00084",
             "b00085",
-            "b00086"
+            "b00086",
+            "b00087",
+            "b00088",
+            "b00089"
           ],
           "source_kind": "A1"
         }

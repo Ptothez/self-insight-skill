@@ -250,7 +250,7 @@
       "source": "s-bc6b75de580d-c001:a004",
       "target": "s-bc6b75de580d-c001:a013",
       "kind": "supports",
-      "condition": "米粒关于减肥的提问",
+      "condition": "学员关于减肥的提问",
       "reason": "《培养孩子的美商》理念支持对《案例：学员关于减肥的提问》的建议，即培养美商避免盲目追求瘦。",
       "evidence": "knowledge_synthesis",
       "review_status": "revised",
@@ -1636,7 +1636,7 @@
       "kind": "case"
     },
     {
-      "title": "孩子不舒服是界限和后果有效的信号",
+      "title": "界限中的不适不等于持续制造痛苦",
       "atom_ids": [
         "s-bc6b75de580d-c002:v2-n001"
       ],
@@ -1644,7 +1644,10 @@
         {
           "source_id": "s-bc6b75de580d",
           "blocks": [
-            "b00086"
+            "b00086",
+            "b00087",
+            "b00088",
+            "b00089"
           ],
           "source_kind": "A1"
         }

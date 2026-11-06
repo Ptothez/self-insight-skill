@@ -772,7 +772,7 @@
       "source": "s-5484afdcc8e0-c003:a012",
       "target": "s-5484afdcc8e0-c003:a011",
       "kind": "example_of",
-      "condition": "当孩子买笔和买车时",
+      "condition": "该家长明确经济上能够承受所选的笔；买车例则是可以买但决定不买",
       "reason": "买笔可买就买、买车可买但不买，案例体现了想要与需要的区分，是富足感定义的实例。",
       "evidence": "knowledge_synthesis",
       "review_status": "supported",
@@ -2501,7 +2501,9 @@
         {
           "source_id": "s-5484afdcc8e0",
           "blocks": [
-            "b00085"
+            "b00085",
+            "b00086",
+            "b00087"
           ],
           "source_kind": "A1"
         }
